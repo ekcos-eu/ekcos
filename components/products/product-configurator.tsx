@@ -200,7 +200,7 @@ export function ProductConfigurator({ products, initialSlug, embedded = false }:
             </div>
           </div>
 
-          <div className="order-2 flex min-h-0 flex-col gap-4 overflow-y-auto lg:col-span-4">
+          <div className="order-2 flex flex-col gap-4 overflow-y-auto lg:col-span-4 lg:overflow-visible">
             <div className="rounded-xl border border-black/[0.08] bg-white p-4 sm:p-5">
               <p className="text-xs font-semibold uppercase tracking-wide text-[#0F68B2]">{t(product.categoryKey)}</p>
               <div className="mt-2 flex flex-col gap-1 sm:flex-row sm:items-baseline sm:justify-between sm:gap-4">
@@ -208,7 +208,6 @@ export function ProductConfigurator({ products, initialSlug, embedded = false }:
                 <p className="text-xs text-[#575756]/70 sm:max-w-[200px] sm:text-right">{t('products.configurator.sixtyDayBadge')}</p>
               </div>
               <p className="mt-3 text-sm leading-relaxed text-[#575756]/85">{t(product.shortDescriptionKey)}</p>
-              <p className="mt-3 text-sm leading-relaxed text-[#575756]/75">{t(product.longDescriptionKey)}</p>
 
               {product.fragrances && product.fragrances.length > 0 ? (
                 <div className="mt-4">
@@ -229,17 +228,17 @@ export function ProductConfigurator({ products, initialSlug, embedded = false }:
               <ul className="mt-5 divide-y divide-black/[0.06] border-t border-black/[0.06]">
                 {highlightBenefitKeys.map((key, index) => {
                   const highlight = splitBenefitHighlight(t(key))
-                  const supportingCopy = highlight.body || t(product.shortDescriptionKey)
-
                   return (
                     <li key={key}>
-                      <article className="flex gap-3 py-4 first:pt-4">
+                      <article className="flex gap-3 py-3 first:pt-3">
                         <span className="mt-0.5 w-6 shrink-0 text-xs font-semibold tabular-nums text-[#0F68B2]">
                           {String(index + 1).padStart(2, '0')}
                         </span>
                         <div className="min-w-0 border-l-2 border-[#0F68B2]/25 pl-4">
                           <h4 className="text-sm font-semibold leading-snug text-[#575756]">{highlight.title}</h4>
-                          <p className="mt-1.5 text-sm leading-relaxed text-[#575756]/75">{supportingCopy}</p>
+                          {highlight.body ? (
+                            <p className="mt-1 text-sm leading-relaxed text-[#575756]/75">{highlight.body}</p>
+                          ) : null}
                         </div>
                       </article>
                     </li>
@@ -247,18 +246,6 @@ export function ProductConfigurator({ products, initialSlug, embedded = false }:
                 })}
               </ul>
 
-              {product.useCaseKeys.length > 0 ? (
-                <div className="mt-5 border-t border-black/[0.06] pt-4">
-                  <p className="text-xs font-semibold text-[#575756]">{t('products.configurator.useCases')}</p>
-                  <ul className="mt-2 space-y-1.5">
-                    {product.useCaseKeys.map((k, i) => (
-                      <li key={i} className="text-sm text-[#575756]/85">
-                        {t(k)}
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              ) : null}
             </div>
           </div>
 
