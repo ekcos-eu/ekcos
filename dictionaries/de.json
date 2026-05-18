@@ -1,0 +1,636 @@
+{
+  "Metadata": {
+    "title": "ëkcos — Premium-Sanitärlösungen",
+    "description": "ëkcos entwickelt Premium-Waschraumlösungen mit Eco-One™-Kompatibilität und Custom Branding für professionelle Objekte.",
+    "productsTitle": "Produkte",
+    "productsDescription": "ëkcos-Produkte entdecken: Modelle, Oberflächen und Optionen wählen — dann zum offiziellen Shop.",
+    "ecoOneTitle": "Eco-One™",
+    "ecoOneDescription": "Eco-One™ verständlich erklärt: Laborergebnisse, Normen, Datenblätter und Nachweise — alles an einem Ort.",
+    "brandingTitle": "Custom Branding",
+    "brandingDescription": "Eigenmarke, Ausschnitte und Druck für B2B-Programme.",
+    "articlesTitle": "Artikel",
+    "articlesDescription": "Einblicke, Updates und praktische Leitfäden vom ëkcos-Team.",
+    "contactTitle": "Kontakt",
+    "contactDescription": "Kontaktieren Sie das ëkcos-Team für Spezifikationen, Programme und Partnerschaften."
+  },
+  "LocaleSwitcher": {
+    "label": "Sprache",
+    "en": "English",
+    "es": "Spanish",
+    "fr": "French",
+    "de": "German",
+    "it": "Italian",
+    "cs": "Tschechisch"
+  },
+  "nav": {
+    "aria": "Hauptnavigation",
+    "logoAlt": "ëkcos",
+    "openMenu": "Menü öffnen",
+    "mobileMenuTitle": "Menü",
+    "home": {
+      "label": "Start"
+    },
+    "products": {
+      "label": "Produkte"
+    },
+    "articles": {
+      "label": "Artikel"
+    },
+    "ecoOne": {
+      "label": "Eco-One™"
+    },
+    "customBranding": {
+      "label": "Custom Branding"
+    },
+    "contact": {
+      "label": "Kontakt"
+    }
+  },
+  "footer": {
+    "tagline": "Umweltfreundliche Urinal-Siebe und Zubehör — Hygiene ohne Kompromisse, geringere Reinigungskosten, offizieller EU-Distributor.",
+    "explore": "Entdecken",
+    "newsletterTitle": "Newsletter",
+    "newsletterHint": "Produktupdates und Programm-News. Jederzeit abmeldbar.",
+    "company": {
+      "title": "Unternehmensdaten",
+      "registryCode": "Handelsregisternummer (Estland)",
+      "vatIdCz": "USt-IdNr. (Tschechien)"
+    },
+    "copyright": "© {year} ëkcos. All rights reserved.",
+    "legalNote": "Informationswebsite. Käufe erfolgen im offiziellen Shop."
+  },
+  "common": {
+    "shopCta": "Im Shop auf eshop.ekcos.eu kaufen",
+    "learnMore": "Mehr erfahren",
+    "getInTouch": "Kontakt aufnehmen",
+    "ecoOne": "Eco-One™"
+  },
+  "newsletter": {
+    "popupTitle": "Bleiben Sie informiert",
+    "popupDescription": "Gelegentliche Updates zu Produkten, Eco-One™ und Custom-Branding-Programmen.",
+    "emailLabel": "E-Mail",
+    "emailPlaceholder": "sie@firma.de",
+    "submit": "Abonnieren",
+    "configureBrevo": "Der Newsletter ist vorübergehend nicht verfügbar. Bitte versuchen Sie es später erneut.",
+    "submitError": "Die Anmeldung ist fehlgeschlagen. Bitte versuchen Sie es gleich erneut.",
+    "dismiss": "Nicht jetzt"
+  },
+  "home": {
+    "hero": {
+      "title": "Grüner bei jedem Spülgang",
+      "tagline": "Bis zu 99 % biologisch abbaubar",
+      "body": "Umweltfreundliche Sanitärprodukte aus recyceltem EVA-Kunststoff mit Eco-One™-Additiv — besser für den Planeten, sicherer für Ihre Waschräume.",
+      "ctaProducts": "Produkte entdecken",
+      "brandMark": "ekcos.eu"
+    },
+    "benefits": {
+      "eco": {
+        "title": "Umweltfreundlich & biologisch abbaubar",
+        "body": "Aus recyceltem EVA-Kunststoff und mit Eco-One™ bis zu 99 % biologisch abbaubar."
+      },
+      "hygiene": {
+        "title": "Hygiene ohne Kompromisse",
+        "body": "Saubereres, angenehmeres Erlebnis durch weniger Spritzer und unangenehme Gerüche."
+      },
+      "costs": {
+        "title": "Weniger Reinigung, geringere Kosten",
+        "body": "Bis zu 60 Tage Frische bedeuten weniger Reinigung und niedrigere Ausgaben."
+      },
+      "distributor": {
+        "title": "Offizieller EU-Distributor",
+        "body": "Direkter Zugang zu originalen Ekcos-Produkten mit schneller Lieferung und fairen Preisen."
+      },
+      "ecoLink": "Mehr über Eco-One™"
+    },
+    "shipping": {
+      "title": "Schneller Versand in ganz Europa",
+      "body": "Alle ëkcos-Produkte versenden wir innerhalb von 1–2 Werktagen nach Zahlungsbestätigung. Sichere, effiziente Lieferung in der EU — für zuverlässige Nachbestellung in Ihrem Betrieb."
+    },
+    "productOfWeek": {
+      "title": "Produkt der Woche",
+      "cta": "In den Warenkorb"
+    },
+    "productsTeaser": {
+      "title": "Entdecken Sie unsere Produkte",
+      "body": "xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip und mehr — dann in den offiziellen Shop.",
+      "link": "Alle Produkte"
+    },
+    "brandingTeaser": {
+      "title": "Custom Branding für B2B",
+      "body": "Eigenmarke, Ausschnitte und Druck für konsistente Multi-Standort-Programme.",
+      "link": "Custom Branding"
+    },
+    "trust": {
+      "title": "Gebaut für anspruchsvolle Objekte",
+      "body": "Zuverlässige Hygiene und Premium vor Ort — von Büros bis Hospitality."
+    },
+    "newsletter": {
+      "title": "Spezifikationen, Launches und Programm-Updates",
+      "body": "Ein kurzer Newsletter für Facility-Teams und Partner. Kein Ballast."
+    },
+    "finalCta": {
+      "title": "Kontakt aufnehmen",
+      "body": "Fragen zu Produkten, Lieferung oder B2B-Bestellungen? Schreiben Sie uns — wir helfen gern.",
+      "shop": "Zum Shop",
+      "contact": "Nachricht senden"
+    },
+    "marketing": {
+      "featuresEyebrow": "Eine Plattform",
+      "featuresTitle": "Vergleichen, entscheiden, mit gutem Gefühl kaufen",
+      "featuresSubtitle": "Oberflächen ansehen, Fakten prüfen und den Shop öffnen, wenn Sie soweit sind — in einem durchgängigen Ablauf.",
+      "featureInteractTitle": "Interaktiver Produktauswahl",
+      "featureInteractBody": "Modelle, Oberflächen und Düfte in Sekunden wechseln — für Facility- und FM-Teams.",
+      "featureProofTitle": "Fakten, die Sie weitergeben können",
+      "featureProofBody": "Verständliche Eco-One™-Downloads, damit Ihr Team die Entscheidung gegenüber Kollegen oder Kunden erklären kann.",
+      "featureB2bTitle": "Skalierbare Programme",
+      "featureB2bBody": "Eigenes Branding und B2B-Bestellung für Rollouts, bei denen Einheitlichkeit, Tempo und ein hochwertiger Eindruck vor Ort zählen.",
+      "numbersEyebrow": "In Zahlen",
+      "numbersTitle": "Klarheit im Betrieb, Premium vor Ort",
+      "statProductsLabel": "Produktfamilien zum Entdecken",
+      "statTechLabel": "Eco-One™ Fakten & Downloads",
+      "statShopLabel": "Offizieller Shop",
+      "galleryEyebrow": "Portfolio",
+      "galleryTitle": "Fotos aus dem Katalog",
+      "gallerySubtitle": "Echte Produktfotos für Angebote, Präsentationen und Begehungen."
+    }
+  },
+  "ecoOne": {
+    "hero": {
+      "eyebrow": "Nachweisbasierte Biodegradation",
+      "title": "Eco-One™",
+      "subtitle": "Laborergebnisse, Zertifikate und Datenblätter — Eco-One™ hier im vollen Überblick.",
+      "body": "Überblick über den anaeroben Labortest, Datenblätter, FAQ und zentrale Konformitätsunterlagen.",
+      "coverAlt": "Eco-One biodegradability documentation cover",
+      "metrics": {
+        "degradation": {
+          "value": "93.31%",
+          "label": "Im Bericht genannter Wert für die geprüfte Probe (1 % Additiv, 1288 Tage)."
+        },
+        "duration": {
+          "value": "1288 days",
+          "label": "Im Bericht abgedeckter Zeitraum des Tests."
+        },
+        "standards": {
+          "value": "ASTM D5511 / ISO 15985",
+          "label": "Im Laborbericht genannte Normen."
+        },
+        "additive": {
+          "value": "1% additive",
+          "label": "Additivanteil in der geprüften Probe."
+        }
+      }
+    },
+    "what": {
+      "title": "Was Eco-One™ ist",
+      "body": "Eco-One™ ist ein Additiv für kompatible Kunststoffe, damit sie sich in milieus mit Mikroorganismen leichter abbauen können. Es ist keine Erlaubnis zum Wegwerfen und ersetzt kein sorgfältiges Abfall- und Recyclingmanagement."
+    },
+    "how": {
+      "title": "So funktioniert es",
+      "steps": {
+        "0": "Eco-One™ wird bei der Herstellung in kompatible Kunststoffteile eingebracht.",
+        "1": "In biologisch aktiven Umgebungen kann sich das Material schneller zersetzen als herkömmliche Kunststoffe — abhängig von Form und Entsorgung.",
+        "2": "Regeln und Zertifikate unterscheiden sich nach Land und Anwendung; wir helfen Ihnen, die passenden Unterlagen für Ihr Projekt zu wählen."
+      }
+    },
+    "value": {
+      "title": "Warum Teams danach fragen",
+      "body": "Waschräume brauchen eine glaubwürdige Materialgeschichte. Eco-One™ hilft, das Lebensende kompatibler Kunststoffe zu erklären — neben Abfallvermeidung und Recycling, wo es sinnvoll ist."
+    },
+    "claims": {
+      "title": "Aussagen und Dokumentation",
+      "body": "Umweltleistung hängt vom Produkt, örtlichen Vorschriften und der Entsorgung ab. Nutzen Sie unsere offiziellen Dokumente für öffentliche Aussagen und formulieren Sie präzise."
+    },
+    "faq": {
+      "title": "Häufige Fragen",
+      "q1": "Ist Eco-One™ ein Ersatz für Recycling?",
+      "a1": "Nein. Es ist ein Baustein einer breiteren Materialstrategie. Recycling bleibt wichtig, wo es möglich ist.",
+      "q2": "Enthält jedes ëkcos-Produkt Eco-One™?",
+      "a2": "Das ist produktabhängig — auf jeder Produktseite steht, was zutrifft.",
+      "q3": "Wo erfahre ich mehr?",
+      "a3": "Stöbern Sie in der Produktpalette oder kontaktieren Sie uns für Unterlagen zu Ihrem Programm."
+    },
+    "cta": {
+      "download": "Vollständige technische Dokumentation",
+      "products": "Produkte durchsuchen",
+      "contact": "Team kontaktieren"
+    },
+    "reference": {
+      "linkLabel": "Technische Dokumentation herunterladen",
+      "externalLabel": "Ecologic LLC - how Eco-One works",
+      "disclaimer": "Vorschriften und Entsorgungswege unterscheiden sich nach Land — prüfen Sie, was für Ihren Standort und Ihr Produkt gilt."
+    },
+    "summary": {
+      "eyebrow": "Das finden Sie hier",
+      "title": "Dokumente und Downloads",
+      "description": "Sehen Sie sich die Vorschauen unten an oder laden Sie die vollständigen PDFs jederzeit herunter.",
+      "highlightsTitle": "Auf dieser Seite",
+      "highlights": {
+        "0": "Einstieg in den Eco-One™-Unterlagensatz zur Biodegradation.",
+        "1": "Wie der Test lief, die Abbaukurve und die Ergebnisse für die geprüfte Probe.",
+        "2": "Zertifikatsseiten, Datenblatt und FAQ von EcoLogic.",
+        "3": "Schreiben zu FDA-Status, Kalifornien Proposition 65 und sicherer Nutzung im Wassersystem."
+      },
+      "noteEyebrow": "Verantwortungsvolle Nutzung",
+      "noteTitle": "Aussagen hängen von Ihrem Projekt ab",
+      "noteBody": "Die Leistung hängt vom Produkt, örtlichen Gesetzen und der Entsorgung ab. Passen Sie öffentliche Aussagen an die offiziellen Unterlagen für Ihre Anwendung an."
+    },
+    "evidence": {
+      "eyebrow": "Laborbelege",
+      "title": "Bericht zur anaeroben Biodegradation",
+      "description": "Wie der Test aufgebaut war, die Abbaukurve und das Fazit — mit und ohne Eco-One-Additiv an der geprüften Probe.",
+      "methodology": {
+        "title": "So wurde der Test durchgeführt",
+        "body": "Ekcos screen mit 1 % Eco-One-Additiv wurde neben Proben ohne Additiv und Cellulose als Positivkontrolle nach ASTM D5511-02 und ISO 15985:2014 unter anaeroben Bedingungen bei 50 °C geprüft. Biogas wurde chromatographisch gemessen; der Bericht bestätigt deutlich höhere Biodegradation gegenüber der Probe ohne Additiv.",
+        "sample": "Geprüfte Probe: Ekcos screen mit 1 % Eco-One-Additiv",
+        "date": "Bericht vom 30. November 2017, Mexico City",
+        "author": "Ing. Amb. Rodrigo Abraham Castro Corona"
+      },
+      "cards": {
+        "certificate": {
+          "alt": "EcoLogic certification page: enhanced biodegradation in anaerobic conditions using Eco-One",
+          "title": "Biodegradable certificate",
+          "body": "Formal EcoLogic certification describing enhanced biodegradation for compatible polymers in anaerobic environments, with referenced ASTM and ISO test methods."
+        },
+        "chart": {
+          "alt": "Biodegradation comparison chart: cellulose control, Ekcos screen with Eco One additive, and sample without additive",
+          "title": "Biodegradation chart",
+          "body": "Figure comparing biodegradation between cellulose control, Ekcos screen with Eco One additive, and the sample without additive."
+        },
+        "table": {
+          "alt": "Test results table and conclusion citing 93.31% biodegradation at 1288 days",
+          "title": "Results and conclusion",
+          "body": "Results table and conclusion citing a 93.31% biodegradation result at 1288 days for the sample with Eco One additive."
+        }
+      }
+    },
+    "documents": {
+      "eyebrow": "Produktliteratur",
+      "title": "Produktunterlagen",
+      "description": "Zertifikatstexte, Datenblatt und FAQ — wie sich Eco-One™ gegenüber anderen Materialansätzen verhält.",
+      "cards": {
+        "enhanced": {
+          "alt": "Enhanced biodegradation certification page",
+          "title": "Enhanced biodegradation certification",
+          "body": "EcoLogic certification page describing enhanced biodegradation in anaerobic conditions and listing additional ASTM references."
+        },
+        "dataSheet": {
+          "alt": "Technical data sheet for Eco-One EG35: storage, handling, identification",
+          "title": "Technical data sheet",
+          "body": "Storage, handling, and company identification for Eco-One EG35."
+        },
+        "faq": {
+          "alt": "Eco-One FAQ: recyclability, FDA status, storage, and comparison to other material approaches",
+          "title": "FAQ sheet",
+          "body": "Question-and-answer page covering positioning versus starch-based and oxo-degradable plastics, recyclability, FDA status, and storage."
+        }
+      }
+    },
+    "regulatory": {
+      "eyebrow": "Sicherheit & Konformität",
+      "title": "Behördliche Schreiben und Erklärungen",
+      "description": "Unterzeichnete Schreiben zu Lebensmittelkontakt, Kalifornien Proposition 65 und Fragen zum Wassersystem.",
+      "cards": {
+        "fda": {
+          "alt": "FDA regulatory status letter for food-contact positioning under Title 21 CFR",
+          "title": "FDA regulatory status",
+          "body": "Letter describing food-contact positioning under Title 21 CFR for relevant olefin polymer applications."
+        },
+        "prop65": {
+          "alt": "California Proposition 65 declaration letter for Eco-One products",
+          "title": "Proposition 65 declaration",
+          "body": "Letter stating that Eco-One products do not require a California Proposition 65 warning under the conditions described."
+        },
+        "safeWater": {
+          "alt": "Safe water system declaration for Eco-One products",
+          "title": "Safe water system declaration",
+          "body": "Declaration stating that Eco-One products do not contain substances that would harm or leach into the water system."
+        }
+      }
+    },
+    "breakdown": {
+      "eyebrow": "End-of-life visualization",
+      "title": "Final stages of breakdown",
+      "body": "Ein verständliches Bild der letzten Abbau-Phasen — als Ergänzung zur vollständigen technischen Dokumentation.",
+      "imageAlt": "Illustration of final stages of material breakdown"
+    }
+  },
+  "customBranding": {
+    "hero": {
+      "title": "Custom Branding",
+      "subtitle": "Eigenmarke, Ausschnitte und Druck für mehrstandortige Branding-Programme.",
+      "eyebrow": "B2B-Spezifikation"
+    },
+    "intro": "Wir helfen Ihnen, Ihre Marke mit Werksqualität auf das Produkt zu bringen: klare Spezifikationen, stabile Produktion und Unterlagen für Prüfer oder Kunden.",
+    "sections": {
+      "private": {
+        "title": "Eigenmarke",
+        "body": "Ihre Druckdaten — von der Freigabe bis zur Produktion — damit jede Charge zu Ihrer Marke passt."
+      },
+      "cutouts": {
+        "title": "Individuelle Ausschnitte",
+        "body": "Formen und Ausschnitte, die zu echten Armaturen und Ihrer Montage passen."
+      },
+      "print": {
+        "title": "Druckoptionen",
+        "body": "Robuster Druck, der im täglichen Einsatz auf dem Produkt lesbar bleibt."
+      }
+    },
+    "pricing": {
+      "title": "Commercial terms",
+      "description": "Veröffentlichte Gebühren: einmalige Einrichtung, Branding pro Stück und optionale Etiketten auf der Verpackung.",
+      "entryFee": "One-time entry fee",
+      "brandingCost": "Branding cost",
+      "packagingLabels": "Custom labels on packaging"
+    },
+    "standardMoq": {
+      "title": "MOQ for standard branding",
+      "description": "Minimum order quantities for standard branding programs with logo cut-outs or printing.",
+      "productLabel": "Product",
+      "moqLabel": "MOQ [pcs]",
+      "note": "* If you would like to order only the Fresh Drop bases, the MOQ is 288 pcs."
+    },
+    "customMix": {
+      "title": "Custom color and fragrance mix",
+      "description": "We can produce a custom combination of fragrance and color from our range. Minimum order quantity corresponds to a full pallet of each customized product.",
+      "productLabel": "Product",
+      "moqLabel": "MOQ [pcs]",
+      "note": "* Basic Screen MOQ is for a half pallet."
+    },
+    "production": {
+      "title": "Production, delivery time and payment"
+    },
+    "process": {
+      "title": "Ein einfacher Prozess",
+      "steps": {
+        "0": "Wir vereinbaren Volumen, Regionen und Zeitplan.",
+        "1": "Sie geben Artwork, Materialien und Oberflächen frei.",
+        "2": "Wir fertigen mit Qualitätskontrolle in jedem Schritt.",
+        "3": "Wir liefern zu Ihren Standorten im gewünschten Rhythmus."
+      }
+    },
+    "inquiry": {
+      "title": "Informationen anfragen",
+      "hint": "Nennen Sie Volumen, Regionen und Branding-Anforderungen."
+    },
+    "introEyebrow": "Programmüberblick",
+    "introTitle": "Markenführung nach Spezifikation"
+  },
+  "contact": {
+    "details": {
+      "title": "Kontakt",
+      "email": "Email",
+      "phone": "Phone",
+      "hours": "Hours",
+      "hoursValue": "Monday–Friday, 09:00–17:00 CET"
+    },
+    "company": {
+      "title": "Rechtliche Unternehmensdaten",
+      "registryCode": "Handelsregisternummer (Estland)",
+      "vatIdCz": "USt-IdNr. (Tschechien)"
+    },
+    "form": {
+      "name": "Name",
+      "company": "Firma",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "message": "Nachricht",
+      "submit": "Nachricht senden",
+      "success": "Vielen Dank — wir melden uns bald.",
+      "error": "Etwas ist schiefgelaufen. Bitte erneut versuchen."
+    },
+    "hero": {
+      "eyebrow": "Technische & kommerzielle Unterstützung",
+      "title": "Kontakt",
+      "subtitle": "Fragen Sie zu Eco-One™, Spezifikationen oder B2B-Programmen — Bestellungen jederzeit im offiziellen Shop."
+    }
+  },
+  "products": {
+    "page": {
+      "title": "Produkte",
+      "intro": "Modell und Oberfläche ändern — dann im offiziellen Shop kaufen.",
+      "heroEyebrow": "Sortiment entdecken",
+      "heroTitle": "Jede Linie an einem Ort",
+      "heroSubtitle": "Oberflächen und Düfte — Shop öffnen, wenn Sie kaufen möchten.",
+      "heroLinkEco": "Mehr zu Eco-One™",
+      "heroLinkBranding": "Custom Branding"
+    },
+    "configurator": {
+      "color": "Oberfläche",
+      "selectProduct": "Produkt wählen",
+      "fragrance": "Duftoptionen",
+      "benefits": "Vorteile",
+      "productBenefits": "Product benefits",
+      "availableColorsFragrances": "Available colors & fragrances",
+      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
+      "byBrand": "by ëkcos",
+      "siteUrl": "www.ekcos.eu",
+      "useCases": "Typische Einsatzbereiche",
+      "brandingNote": "Custom Branding für qualifizierte Aufträge verfügbar."
+    },
+    "colors": {
+      "white": "White",
+      "grey": "Grey",
+      "black": "Black",
+      "blue": "Blue"
+    },
+    "fragrances": {
+      "fresh": "Fresh",
+      "citrus": "Citrus"
+    },
+    "variantLabels": {
+      "x1p": "Purple / Berry",
+      "x2g": "Light green / Apple",
+      "x3b": "Blue / Fresh",
+      "x4o": "Orange / Tropical fruit",
+      "x6c": "Clear / Tropical fruit",
+      "x7bk": "Black / Mint",
+      "x8bm": "Flame / Mango",
+      "x9g": "Dark green / Pine",
+      "x10r": "Red / Melon",
+      "x12p": "Dark purple / Lavender",
+      "x13c": "Yellow / Citrus"
+    },
+    "xcrenHd": {
+      "name": "xcrën HD",
+      "category": "Premium urinal screen",
+      "badge": "Xtreme anti-splash urinal screen",
+      "short": "High-performance urinal screen engineered for consistent fragrance release and a clean appearance.",
+      "long": "xcrën HD combines refined industrial design with dependable performance in high-traffic washrooms. Pair with Eco-One™ for end-of-life options aligned with your sustainability goals.",
+      "benefits": {
+        "0": "Patented bristle system covers 95% of the surface to prevent urine splashes and protects against viruses and bacteria",
+        "1": "Proprietary material infused with a deodorant-based fragrance that releases gradually for 60+ days",
+        "2": "Up to double the longevity and intensity of fragrance compared to standard market products",
+        "3": "Specially designed for high-traffic restrooms, such as in restaurants, bars, airports, shopping malls, etc.",
+        "4": "100% recyclable and also biodegradable",
+        "5": "Complies with European VOC standards",
+        "6": "Non-toxic to the environment, particularly water sources",
+        "7": "Perfect for waterless urinals",
+        "8": "Unique design, wide range of colors, and pleasant fragrances",
+        "9": "Option for private branding through material cutouts or printing"
+      },
+      "variants": {
+        "xhd1p": "Purple / Berry",
+        "xhd2g": "Light green / Apple",
+        "xhd3b": "Blue / Fresh",
+        "xhd4o": "Orange / Tropical fruit",
+        "xhd6c": "Clear / Tropical fruit",
+        "xhd7bk": "Black / Mint",
+        "xhd8bm": "Flame / Mango",
+        "xhd9g": "Dark green / Pine",
+        "xhd10r": "Red / Melon",
+        "xhd12p": "Dark purple / Lavender",
+        "xhd13c": "Yellow / Citrus"
+      },
+      "useCases": {
+        "0": "Corporate offices",
+        "1": "Hotels and hospitality"
+      }
+    },
+    "ekcoscreen": {
+      "name": "ëkcoscreen",
+      "category": "Urinal screen",
+      "short": "Balanced performance for everyday commercial washrooms with reliable odor control.",
+      "long": "ëkcoscreen delivers a practical balance of cost and performance for facilities that need dependable hygiene support without compromise on presentation.",
+      "benefits": {
+        "0": "Reliable odor control for steady traffic",
+        "1": "Easy visual inspection for service teams",
+        "2": "Compatible with Eco-One™ where applicable"
+      },
+      "useCases": {
+        "0": "Retail",
+        "1": "Public buildings"
+      }
+    },
+    "powerscreen": {
+      "name": "powër screen",
+      "category": "Performance urinal screen",
+      "short": "Built for demanding environments where performance and presentation matter.",
+      "long": "powër screen is tuned for venues with high throughput, helping maintain a premium washroom experience with structured fragrance delivery.",
+      "benefits": {
+        "0": "Engineered for high-traffic intervals",
+        "1": "Strong presentation for premium facilities",
+        "2": "Pairs with Eco-One™ compatible materials"
+      },
+      "useCases": {
+        "0": "Stadiums",
+        "1": "Transport hubs"
+      }
+    },
+    "basicScreen": {
+      "name": "basic scrëen",
+      "category": "Essential urinal screen",
+      "short": "Straightforward protection and freshness for standard washroom programs.",
+      "long": "basic scrëen is the practical choice for programs that need dependable hygiene support with clear service expectations.",
+      "benefits": {
+        "0": "Simple deployment across large estates",
+        "1": "Predictable replacement cadence",
+        "2": "Eco-One™ compatible options"
+      },
+      "useCases": {
+        "0": "Schools",
+        "1": "Light commercial"
+      }
+    },
+    "urolite": {
+      "name": "üro lite",
+      "category": "Compact urinal screen",
+      "short": "Compact format with flexible finish options for modern fixtures.",
+      "long": "üro lite fits compact urinal geometries while maintaining ëkcos quality cues and service-friendly handling.",
+      "benefits": {
+        "0": "Compact geometry for modern bowls",
+        "1": "Multiple finish options",
+        "2": "Eco-One™ compatible"
+      },
+      "useCases": {
+        "0": "Boutique hospitality",
+        "1": "Premium office"
+      }
+    },
+    "ekcoClip": {
+      "name": "ëkco clip",
+      "category": "Clip fixture",
+      "short": "Secure mounting accessory designed for stable placement and clean lines.",
+      "long": "ëkco clip helps maintain consistent positioning where a clip-style fixture is part of your program.",
+      "benefits": {
+        "0": "Stable placement",
+        "1": "Clean integration with surrounding surfaces",
+        "2": "Designed for professional installation workflows"
+      },
+      "useCases": {
+        "0": "Facility retrofits",
+        "1": "Specification-led projects"
+      }
+    },
+    "freshDrop": {
+      "name": "frësh drop",
+      "category": "Freshness system",
+      "short": "Targeted freshness delivery with selectable fragrance directions.",
+      "long": "frësh drop is built for programs that want flexible fragrance storytelling while keeping operations simple.",
+      "benefits": {
+        "0": "Designed for controlled fragrance release",
+        "1": "Supports differentiated scent options",
+        "2": "Eco-One™ compatible materials"
+      },
+      "useCases": {
+        "0": "Hospitality",
+        "1": "Premium retail"
+      }
+    },
+    "ezTrap": {
+      "name": "ëz trap",
+      "category": "Drain protection",
+      "short": "Helps protect drains while supporting hygiene routines.",
+      "long": "ëz trap is designed for practical maintenance workflows and dependable performance in daily operations.",
+      "variants": {
+        "withTool": "With removal tool",
+        "withoutTool": "Without removal tool"
+      },
+      "benefits": {
+        "0": "Supports maintenance-friendly routines",
+        "1": "Robust construction for daily use",
+        "2": "Eco-One™ compatible"
+      },
+      "useCases": {
+        "0": "Food service",
+        "1": "Healthcare support areas"
+      }
+    },
+    "xcrenPuck": {
+      "name": "xcrën puck",
+      "category": "Puck format",
+      "short": "NON-PARA-Puck-Urinalsieb für Geruchskontrolle und Abflussschutz.",
+      "long": "xcrën ist ein NON-PARA-Puck-Urinalsieb für wirksame Geruchskontrolle und Abflussschutz. Im Gegensatz zu herkömmlichen PARA-Produkten ist es frei von Paradichlorbenzen (PARA), einer von der WHO als möglicherweise krebserregend eingestuften Verbindung. Das einzigartige X-Design verhindert Verstopfungen durch Feststoffe und sorgt nach jeder Nutzung für bis zu 30 Tage für eine frische Duftabgabe.",
+      "variants": {
+        "whiteFresh": "White / Fresh",
+        "blueFresh": "Blue / Fresh"
+      },
+      "benefits": {
+        "0": "Compact footprint",
+        "1": "Flexible placement",
+        "2": "Consistent brand presentation"
+      },
+      "useCases": {
+        "0": "Compact washrooms",
+        "1": "Retrofit programs"
+      }
+    },
+    "ekcoMat": {
+      "name": "ëkco mat",
+      "category": "Floor mat",
+      "short": "Floor protection with a clean, professional look.",
+      "long": "ëkco mat supports facility hygiene zones with a product-focused approach to durability and presentation.",
+      "variants": {
+        "standard": "Standard"
+      },
+      "benefits": {
+        "0": "Durable surface for entry zones",
+        "1": "Professional appearance",
+        "2": "Eco-One™ compatible"
+      },
+      "useCases": {
+        "0": "Entrances",
+        "1": "Service corridors"
+      }
+    }
+  }
+}

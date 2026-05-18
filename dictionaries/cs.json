@@ -1,0 +1,636 @@
+{
+  "Metadata": {
+    "title": "ëkcos — Zeleněji při každém spláchnutí",
+    "description": "Ekologické sanitární produkty z recyklovaného EVA plastu s aditivem Eco-One™ — až 99 % biologicky rozložitelné.",
+    "productsTitle": "Produkty",
+    "productsDescription": "Prohlédněte si produkty ëkcos: přepínejte modely, povrchové úpravy a varianty — poté přejděte do oficiálního obchodu.",
+    "ecoOneTitle": "Eco-One™",
+    "ecoOneDescription": "Eco-One™ přehledně: výsledky testů, normy, produktové listy a dokumenty k vyhovění předpisům.",
+    "brandingTitle": "Vlastní branding",
+    "brandingDescription": "Vlastní značka, výřezy a tisk pro B2B programy.",
+    "articlesTitle": "Články",
+    "articlesDescription": "Postřehy, novinky a praktické články od týmu ëkcos.",
+    "contactTitle": "Kontakt",
+    "contactDescription": "Kontaktujte tým ëkcos ohledně specifikací, programů a partnerství."
+  },
+  "LocaleSwitcher": {
+    "label": "Jazyk",
+    "en": "Angličtina",
+    "es": "Španělština",
+    "fr": "Francouzština",
+    "de": "Němčina",
+    "it": "Italština",
+    "cs": "Čeština"
+  },
+  "nav": {
+    "aria": "Hlavní navigace",
+    "logoAlt": "ëkcos",
+    "openMenu": "Otevřít menu",
+    "mobileMenuTitle": "Menu",
+    "home": {
+      "label": "Úvod"
+    },
+    "products": {
+      "label": "Produkty"
+    },
+    "articles": {
+      "label": "Články"
+    },
+    "ecoOne": {
+      "label": "Eco-One™"
+    },
+    "customBranding": {
+      "label": "Vlastní branding"
+    },
+    "contact": {
+      "label": "Kontakt"
+    }
+  },
+  "footer": {
+    "tagline": "Ekologická sítka do pisoárů a doplňky — hygiena bez kompromisů, nižší náklady na úklid, oficiální distributor v EU.",
+    "explore": "Prozkoumat",
+    "newsletterTitle": "Newsletter",
+    "newsletterHint": "Novinky o produktech a programech. Odhlášení kdykoli.",
+    "company": {
+      "title": "Firemní údaje",
+      "registryCode": "Registrační kód společnosti (Estonsko)",
+      "vatIdCz": "DIČ (Česká republika)"
+    },
+    "copyright": "© {year} ëkcos. All rights reserved.",
+    "legalNote": "Informační web. Nákupy se dokončují v oficiálním obchodě."
+  },
+  "common": {
+    "shopCta": "Nakoupit na eshop.ekcos.eu",
+    "learnMore": "Zjistit více",
+    "getInTouch": "Kontaktovat nás",
+    "ecoOne": "Eco-One™"
+  },
+  "newsletter": {
+    "popupTitle": "Zůstaňte v obraze",
+    "popupDescription": "Občasné novinky o produktech, Eco-One™ a programech vlastního brandingu.",
+    "emailLabel": "E-mail",
+    "emailPlaceholder": "vy@firma.cz",
+    "submit": "Odebírat",
+    "configureBrevo": "Odběr newsletteru teď není k dispozici. Zkuste to prosím později.",
+    "submitError": "Odběr se nepodařilo dokončit. Zkuste to prosím za chvíli znovu.",
+    "dismiss": "Teď ne"
+  },
+  "home": {
+    "hero": {
+      "title": "Zeleněji při každém spláchnutí",
+      "tagline": "Až 99 % biologicky rozložitelné",
+      "body": "Ekologické sanitární produkty z recyklovaného EVA plastu s aditivem Eco-One™ — lepší pro planetu, bezpečnější pro vaše toalety.",
+      "ctaProducts": "Prozkoumat produkty",
+      "brandMark": "ekcos.eu"
+    },
+    "benefits": {
+      "eco": {
+        "title": "Ekologické a biologicky rozložitelné",
+        "body": "Vyrobeno z recyklovaného EVA plastu a díky technologii Eco-One™ je až z 99 % biologicky rozložitelné."
+      },
+      "hygiene": {
+        "title": "Hygiena bez kompromisů",
+        "body": "Zajišťuje čistší a pohodlnější používání díky minimalizaci rozstřikování moči a nepříjemných pachů."
+      },
+      "costs": {
+        "title": "Méně úklidu, nižší náklady",
+        "body": "Až 60 dní čerstvosti znamená méně úklidu a nižší náklady."
+      },
+      "distributor": {
+        "title": "Oficiální distributor v EU",
+        "body": "Přímý přístup k originálním produktům Ekcos s rychlým dodáním a příznivými cenami."
+      },
+      "ecoLink": "Více o Eco-One™"
+    },
+    "shipping": {
+      "title": "Rychlé doručení po celé Evropě",
+      "body": "Všechny produkty ëkcos odesíláme do 1–2 pracovních dnů po potvrzení platby. Bezpečné a spolehlivé doručení v rámci EU vám pomůže udržet stabilní zásoby pro váš provoz."
+    },
+    "productOfWeek": {
+      "title": "Produkt týdne",
+      "cta": "Přidat do košíku"
+    },
+    "productsTeaser": {
+      "title": "Objevte naše produkty",
+      "body": "Prohlédněte si xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip a další — poté přejděte do oficiálního obchodu.",
+      "link": "Všechny produkty"
+    },
+    "brandingTeaser": {
+      "title": "Vlastní branding pro B2B",
+      "body": "Vlastní značka, výřezy a tisk pro jednotné víceprovozní programy.",
+      "link": "Vlastní branding"
+    },
+    "trust": {
+      "title": "Navrženo pro náročné provozy",
+      "body": "Spolehlivá hygiena a prémiový dojem — od kanceláří po hotely."
+    },
+    "newsletter": {
+      "title": "Specifikace, novinky a programové aktuality",
+      "body": "Krátký newsletter pro facility týmy a partnery. Bez balastu."
+    },
+    "finalCta": {
+      "title": "Kontaktujte nás",
+      "body": "Máte dotaz k produktům, doručení nebo B2B objednávkám? Napište nám — rádi pomůžeme.",
+      "shop": "Do obchodu",
+      "contact": "Poslat zprávu"
+    },
+    "marketing": {
+      "featuresEyebrow": "Jedna platforma",
+      "featuresTitle": "Porovnejte, rozhodněte se, nakupte s jistotou",
+      "featuresSubtitle": "Prohlédněte si povrchy, přečtěte si fakta a otevřete obchod, až budete připraveni — v jednom plynulém kroku.",
+      "featureInteractTitle": "Interaktivní výběr",
+      "featureInteractBody": "Přepínejte modely, povrchy a vůně během chvilky — pro facility a správu provozů.",
+      "featureProofTitle": "Fakta, která můžete předat dál",
+      "featureProofBody": "Srozumitelné materiály ke stažení Eco-One™, aby váš tým mohl rozhodnutí vysvětlit kolegům nebo klientům.",
+      "featureB2bTitle": "Programy v měřítku",
+      "featureB2bBody": "Vlastní branding a B2B objednávky pro nasazení, kde záleží na jednotném vzhledu, rychlosti a dobrém dojmu na místě.",
+      "numbersEyebrow": "V číslech",
+      "numbersTitle": "Přehled pro provoz, prémiový dojem",
+      "statProductsLabel": "Produktové řady k prozkoumání",
+      "statTechLabel": "Eco-One™ fakta a dokumenty",
+      "statShopLabel": "Oficiální obchod",
+      "galleryEyebrow": "Portfolio",
+      "galleryTitle": "Fotografie z katalogu",
+      "gallerySubtitle": "Skutečné fotografie produktů pro nabídky, prezentace a prohlídky na místě."
+    }
+  },
+  "ecoOne": {
+    "hero": {
+      "eyebrow": "Biodegradace podložená důkazy",
+      "title": "Eco-One™",
+      "subtitle": "Laboratorní výsledky, certifikáty a produktové listy — kompletní přehled Eco-One™ na jednom místě.",
+      "body": "Přehled anaerobního testu, technických listů, FAQ a klíčových dokumentů k vyhovění předpisům.",
+      "coverAlt": "Titulní stránka dokumentace biodegradability Eco-One",
+      "metrics": {
+        "degradation": {
+          "value": "93.31%",
+          "label": "Uvedený výsledek pro testovaný vzorek (1 % aditiva, 1288 dní)."
+        },
+        "duration": {
+          "value": "1288 dní",
+          "label": "Délka testovaného období ve zprávě."
+        },
+        "standards": {
+          "value": "ASTM D5511 / ISO 15985",
+          "label": "Normy uvedené v laboratorní zprávě."
+        },
+        "additive": {
+          "value": "1 % aditiva",
+          "label": "Úroveň aditiva u testovaného vzorku."
+        }
+      }
+    },
+    "what": {
+      "title": "Co je Eco-One™",
+      "body": "Eco-One™ je aditivum míchané do kompatibilních plastů, aby se v prostředí s mikroorganismy snáze rozkládaly. Není to povolení k zahazování odpadu a nenahrazuje rozumné nakládání s odpady a recyklaci."
+    },
+    "how": {
+      "title": "Jak to funguje",
+      "steps": {
+        "0": "Eco-One™ se přidává do kompatibilních plastů při výrobě.",
+        "1": "V biologicky aktivním prostředí se materiál může rozkládat rychleji než běžné plasty — záleží na tvaru výrobku a způsobu likvidace.",
+        "2": "Pravidla a certifikace se liší podle země a použití; rádi vám pomůžeme vybrat správné dokumenty k vašemu projektu."
+      }
+    },
+    "value": {
+      "title": "Proč o něj mají zájem týmy",
+      "body": "Sanitární provozy potřebují věrohodný příběh o materiálech. Eco-One™ pomáže vysvětlit konci životnosti u kompatibilních plastů — vedle snižování odpadu a recyklace tam, kde to dává smysl."
+    },
+    "claims": {
+      "title": "Tvrzení a dokumentace",
+      "body": "Chování vůči životnímu prostředí závisí na výrobku, místních předpisech a nakládání s odpady. Pro veřejné sdělení vycházejte z našich oficiálních dokumentů a formulujte je přesně."
+    },
+    "faq": {
+      "title": "Časté dotazy",
+      "q1": "Je Eco-One™ náhradou recyklace?",
+      "a1": "Ne. Je to jeden z nástrojů širší materiálové strategie. Recyklace tam, kde je možná, zůstává důležitá.",
+      "q2": "Obsahuje každý výrobek ëkcos Eco-One™?",
+      "a2": "Záleží na produktu — u každého výrobku je to uvedeno na stránce produktu.",
+      "q3": "Kde se můžu dovědět víc?",
+      "a3": "Projděte si nabídku produktů nebo nás kontaktujte pro podklady k vašemu programu."
+    },
+    "cta": {
+      "download": "Celá technická dokumentace",
+      "products": "Prohlédnout produkty",
+      "contact": "Mluvit s týmem"
+    },
+    "reference": {
+      "linkLabel": "Stáhnout technickou dokumentaci",
+      "externalLabel": "Ecologic LLC - how Eco-One works",
+      "disclaimer": "Pravidla a možnosti likvidace se v jednotlivých zemích liší — ověřte, co platí pro váš provoz a výrobek."
+    },
+    "summary": {
+      "eyebrow": "Co zde najdete",
+      "title": "Dokumenty a soubory ke stažení",
+      "description": "Prohlédněte si náhledy níže nebo si kdykoli stáhněte celé PDF.",
+      "highlightsTitle": "Na této stránce",
+      "highlights": {
+        "0": "Úvod k souboru dokumentů o biodegradaci Eco-One™.",
+        "1": "Jak probíhal test, křivka biodegradace a výsledky u testovaného vzorku.",
+        "2": "Certifikační stránky, technický list a FAQ od EcoLogic.",
+        "3": "Dopisy k statusu FDA, kalifornskému Proposition 65 a bezpečnému použití v souvislosti s vodou."
+      },
+      "noteEyebrow": "Odpovědné použití",
+      "noteTitle": "Tvrzení závisí na vašem projektu",
+      "noteBody": "Výkon závisí na výrobku, místních předpisech a nakládání s odpady. Veřejná tvrzení přizpůsobte oficiálním dokumentům pro vaše použití."
+    },
+    "evidence": {
+      "eyebrow": "Laboratorní podklady",
+      "title": "Záznam anaerobní biodegradace",
+      "description": "Jak byl test nastaven, průběh biodegradace a závěr — se sadou Eco-One aditiva i bez něj u testovaného vzorku.",
+      "methodology": {
+        "title": "Jak test probíhal",
+        "body": "Sítko Ekcos screen s 1 % aditivem Eco-One bylo testováno vedle vzorků bez aditiva a celulózy jako pozitivní kontroly podle ASTM D5511-02 a ISO 15985:2014 v anaerobních podmínkách při 50 °C. Bioplyn byl měřen chromatografií; závěr potvrzuje výrazně vyšší biodegradaci oproti vzorku bez aditiva.",
+        "sample": "Testovaný vzorek: Ekcos screen s 1 % aditivem Eco-One",
+        "date": "Zpráva ze dne 30. listopadu 2017, Mexico City",
+        "author": "Ing. Amb. Rodrigo Abraham Castro Corona"
+      },
+      "cards": {
+        "certificate": {
+          "alt": "Certifikační stránka EcoLogic: rozšířená biodegradace v anaerobních podmínkách s Eco-One",
+          "title": "Certifikát biodegradability",
+          "body": "Formální certifikace EcoLogic popisující rozšířenou biodegradaci kompatibilních polymerů v anaerobním prostředí s uvedenými metodami ASTM a ISO."
+        },
+        "chart": {
+          "alt": "Graf biodegradace: kontrola celulóza, Ekcos screen s aditivem Eco One a vzorek bez aditiva",
+          "title": "Graf biodegradace",
+          "body": "Graf srovnávající biodegradaci mezi kontrolou celulózou, Ekcos screen s aditivem Eco One a vzorkem bez aditiva."
+        },
+        "table": {
+          "alt": "Tabulka výsledků a závěr s 93,31 % biodegradace po 1288 dnech",
+          "title": "Výsledky a závěr",
+          "body": "Tabulka výsledků a závěr s hodnotou 93,31 % biodegradace po 1288 dnech u vzorku s aditivem Eco One."
+        }
+      }
+    },
+    "documents": {
+      "eyebrow": "Produktová literatura",
+      "title": "Produktová literatura",
+      "description": "Certifikační texty, technický list a FAQ — jak se Eco-One™ srovnává s jinými materiály.",
+      "cards": {
+        "enhanced": {
+          "alt": "Stránka certifikace rozšířené biodegradace",
+          "title": "Certifikace rozšířené biodegradace",
+          "body": "Certifikační stránka EcoLogic popisující rozšířenou biodegradaci v anaerobních podmínkách a další odkazy ASTM."
+        },
+        "dataSheet": {
+          "alt": "Technický list Eco-One EG35: skladování, manipulace, identifikace",
+          "title": "Technický list",
+          "body": "Skladování, manipulace a identifikace pro Eco-One EG35."
+        },
+        "faq": {
+          "alt": "FAQ Eco-One: recyklovatelnost, FDA status, skladování a srovnání s jinými materiály",
+          "title": "List FAQ",
+          "body": "Otázky a odpovědi o pozicování vůči škrobovým a oxo-biodegradovatelným plastům, recyklovatelnosti, FDA statusu a skladování."
+        }
+      }
+    },
+    "regulatory": {
+      "eyebrow": "Bezpečnost a vyhovění předpisům",
+      "title": "Úřední dopisy a prohlášení",
+      "description": "Podepsané dopisy pro otázky kontaktu s potravinami, kalifornského Proposition 65 a vodních systémů.",
+      "cards": {
+        "fda": {
+          "alt": "Dopis o regulatorním statusu FDA pro kontakt s potravinami podle Title 21 CFR",
+          "title": "Regulatorní status FDA",
+          "body": "Dopis popisující pozicování pro kontakt s potravinami podle Title 21 CFR u relevantních olefinových polymerů."
+        },
+        "prop65": {
+          "alt": "Prohlášení k Proposition 65 v Kalifornii pro produkty Eco-One",
+          "title": "Prohlášení Proposition 65",
+          "body": "Dopis uvádějící, že produkty Eco-One nevyžadují varování Proposition 65 za popsaných podmínek."
+        },
+        "safeWater": {
+          "alt": "Prohlášení o bezpečnosti v souvislosti s vodním systémem pro Eco-One",
+          "title": "Prohlášení k bezpečnosti vody",
+          "body": "Prohlášení, že produkty Eco-One neobsahují látky, které by poškodily nebo uvolňovaly do vodního systému."
+        }
+      }
+    },
+    "breakdown": {
+      "eyebrow": "Vizualizace konce životnosti",
+      "title": "Závěrečné fáze rozkladu",
+      "body": "Přehledný pohled na závěrečné fáze rozkladu — jako doplněk k plné technické dokumentaci.",
+      "imageAlt": "Ilustrace závěrečných fází rozkladu materiálu"
+    }
+  },
+  "customBranding": {
+    "hero": {
+      "title": "Custom Branding",
+      "subtitle": "Vlastní značka, výřezy a tisk pro víceprovozní brandové programy.",
+      "eyebrow": "B2B specifikace"
+    },
+    "intro": "Pomůžeme vám dostat vaši značku na výrobek s kvalitou z výroby: jasné specifikace, stabilní výroba a dokumenty, které můžete předat auditu nebo klientovi.",
+    "sections": {
+      "private": {
+        "title": "Vlastní branding",
+        "body": "Vaše artworky konzistentně od schválení až po výrobu — aby každá šarže odpovídala značce."
+      },
+      "cutouts": {
+        "title": "Vlastní výřezy",
+        "body": "Tvary a výřezy přizpůsobené reálným armatürám a způsobu montáže u vás."
+      },
+      "print": {
+        "title": "Možnosti tisku",
+        "body": "Odolný tisk, který zůstane čitelný na výrobku i při každodenním provozu."
+      }
+    },
+    "pricing": {
+      "title": "Obchodní podmínky",
+      "description": "Zveřejněné poplatky: jednorázové zavedení, cena brandingu na kus a volitelné etikety na obalu.",
+      "entryFee": "Jednorázový vstupní poplatek",
+      "brandingCost": "Cena brandingu",
+      "packagingLabels": "Vlastní etikety na balení"
+    },
+    "standardMoq": {
+      "title": "MOQ pro standardní branding",
+      "description": "Minimální objednací množství pro branding pomocí výřezu loga nebo tisku.",
+      "productLabel": "Produkt",
+      "moqLabel": "MOQ [ks]",
+      "note": "* Pokud chcete objednat pouze báze Fresh Drop, MOQ je 288 ks."
+    },
+    "customMix": {
+      "title": "Vlastní kombinace barvy a vůně",
+      "description": "Umíme vyrobit vlastní kombinaci vůně a barvy z našeho sortimentu. Minimální objednávka odpovídá plné paletě každého upraveného produktu.",
+      "productLabel": "Produkt",
+      "moqLabel": "MOQ [ks]",
+      "note": "* U produktu Basic Screen jde o půl palety."
+    },
+    "production": {
+      "title": "Výroba, dodací lhůta a platba"
+    },
+    "process": {
+      "title": "Jednoduchý proces",
+      "steps": {
+        "0": "Domluvíme objemy, regiony a časový plán.",
+        "1": "Schválíte artwork, materiály a povrchy.",
+        "2": "Vyrábíme s kontrolami kvality v každém kroku.",
+        "3": "Dodáme na vaše provozy podle potřebného harmonogramu."
+      }
+    },
+    "inquiry": {
+      "title": "Vyžádat informace",
+      "hint": "Uveďte objemy, regiony a požadavky na branding."
+    },
+    "introEyebrow": "Přehled programu",
+    "introTitle": "Branding podle specifikace"
+  },
+  "contact": {
+    "details": {
+      "title": "Kontakt",
+      "email": "Email",
+      "phone": "Phone",
+      "hours": "Hours",
+      "hoursValue": "Monday–Friday, 09:00–17:00 CET"
+    },
+    "company": {
+      "title": "Právní údaje společnosti",
+      "registryCode": "Registrační kód společnosti (Estonsko)",
+      "vatIdCz": "DIČ (Česká republika)"
+    },
+    "form": {
+      "name": "Jméno",
+      "company": "Firma",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "message": "Zpráva",
+      "submit": "Odeslat zprávu",
+      "success": "Děkujeme — brzy se ozveme.",
+      "error": "Něco se pokazilo. Zkuste to znovu."
+    },
+    "hero": {
+      "eyebrow": "Technická a obchodní podpora",
+      "title": "Kontakt",
+      "subtitle": "Zeptejte se na Eco-One™, specifikace nebo B2B programy — běžné objednávky kdykoli v oficiálním obchodě."
+    }
+  },
+  "products": {
+    "page": {
+      "title": "Produkty",
+      "intro": "Změňte model a povrch — pak nakupte v oficiálním obchodě.",
+      "heroEyebrow": "Prohlédněte si nabídku",
+      "heroTitle": "Každou řadu na jednom místě",
+      "heroSubtitle": "Povrchy a vůně — otevřete obchod, až budete chtít koupit.",
+      "heroLinkEco": "Více o Eco-One™",
+      "heroLinkBranding": "Vlastní branding"
+    },
+    "configurator": {
+      "color": "Povrchová úprava",
+      "selectProduct": "Vybrat produkt",
+      "fragrance": "Varianty vůně",
+      "benefits": "Přínosy",
+      "productBenefits": "Přínosy produktu",
+      "availableColorsFragrances": "Dostupné barvy a vůně",
+      "sixtyDayBadge": "60denní PLUS protistříkací sítko na pisoár",
+      "byBrand": "značka ëkcos",
+      "siteUrl": "www.ekcos.eu",
+      "useCases": "Typické aplikace",
+      "brandingNote": "Vlastní branding u kvalifikovaných objednávek."
+    },
+    "colors": {
+      "white": "White",
+      "grey": "Grey",
+      "black": "Black",
+      "blue": "Blue"
+    },
+    "fragrances": {
+      "fresh": "Fresh",
+      "citrus": "Citrus"
+    },
+    "variantLabels": {
+      "x1p": "Fialová / lesní ovoce",
+      "x2g": "Světle zelená / jablko",
+      "x3b": "Modrá / svěží",
+      "x4o": "Oranžová / tropické ovoce",
+      "x6c": "Čirá / tropické ovoce",
+      "x7bk": "Černá / máta",
+      "x8bm": "Plamen / mango",
+      "x9g": "Tmavě zelená / borovice",
+      "x10r": "Červená / meloun",
+      "x12p": "Tmavě fialová / levandule",
+      "x13c": "Žlutá / citrus"
+    },
+    "xcrenHd": {
+      "name": "xcrën HD",
+      "category": "Premium urinal screen",
+      "badge": "Xtreme protistříkací sítko na pisoár",
+      "short": "High-performance urinal screen engineered for consistent fragrance release and a clean appearance.",
+      "long": "xcrën HD combines refined industrial design with dependable performance in high-traffic washrooms. Pair with Eco-One™ for end-of-life options aligned with your sustainability goals.",
+      "benefits": {
+        "0": "Patentovaný systém štětin pokrývá 95 % plochy, brání stříkání moči a chrání před viry a bakteriemi",
+        "1": "Vlastní materiál s vůní na bázi deodorantu, která se uvolňuje postupně 60+ dní",
+        "2": "Až dvojnásobná životnost a intenzita vůně oproti běžným produktům na trhu",
+        "3": "Navrženo pro rušné toalety — restaurace, bary, letiště, nákupní centra atd.",
+        "4": "100% recyklovatelné a také biologicky odbouratelné",
+        "5": "Splňuje evropské normy VOC",
+        "6": "Netoxické pro životní prostředí, zejména vodní zdroje",
+        "7": "Ideální pro bezvodé pisoáry",
+        "8": "Jedinečný design, široká škála barev a příjemné vůně",
+        "9": "Možnost vlastního brandingu výřezy nebo tiskem"
+      },
+      "variants": {
+        "xhd1p": "Fialová / lesní ovoce",
+        "xhd2g": "Světle zelená / jablko",
+        "xhd3b": "Modrá / svěží",
+        "xhd4o": "Oranžová / tropické ovoce",
+        "xhd6c": "Čirá / tropické ovoce",
+        "xhd7bk": "Černá / máta",
+        "xhd8bm": "Plamen / mango",
+        "xhd9g": "Tmavě zelená / borovice",
+        "xhd10r": "Červená / meloun",
+        "xhd12p": "Tmavě fialová / levandule",
+        "xhd13c": "Žlutá / citrus"
+      },
+      "useCases": {
+        "0": "Corporate offices",
+        "1": "Hotels and hospitality"
+      }
+    },
+    "ekcoscreen": {
+      "name": "ëkcoscreen",
+      "category": "Urinal screen",
+      "short": "Balanced performance for everyday commercial washrooms with reliable odor control.",
+      "long": "ëkcoscreen delivers a practical balance of cost and performance for facilities that need dependable hygiene support without compromise on presentation.",
+      "benefits": {
+        "0": "Reliable odor control for steady traffic",
+        "1": "Easy visual inspection for service teams",
+        "2": "Compatible with Eco-One™ where applicable"
+      },
+      "useCases": {
+        "0": "Retail",
+        "1": "Public buildings"
+      }
+    },
+    "powerscreen": {
+      "name": "powër screen",
+      "category": "Performance urinal screen",
+      "short": "Built for demanding environments where performance and presentation matter.",
+      "long": "powër screen is tuned for venues with high throughput, helping maintain a premium washroom experience with structured fragrance delivery.",
+      "benefits": {
+        "0": "Engineered for high-traffic intervals",
+        "1": "Strong presentation for premium facilities",
+        "2": "Pairs with Eco-One™ compatible materials"
+      },
+      "useCases": {
+        "0": "Stadiums",
+        "1": "Transport hubs"
+      }
+    },
+    "basicScreen": {
+      "name": "basic scrëen",
+      "category": "Essential urinal screen",
+      "short": "Straightforward protection and freshness for standard washroom programs.",
+      "long": "basic scrëen is the practical choice for programs that need dependable hygiene support with clear service expectations.",
+      "benefits": {
+        "0": "Simple deployment across large estates",
+        "1": "Predictable replacement cadence",
+        "2": "Eco-One™ compatible options"
+      },
+      "useCases": {
+        "0": "Schools",
+        "1": "Light commercial"
+      }
+    },
+    "urolite": {
+      "name": "üro lite",
+      "category": "Compact urinal screen",
+      "short": "Compact format with flexible finish options for modern fixtures.",
+      "long": "üro lite fits compact urinal geometries while maintaining ëkcos quality cues and service-friendly handling.",
+      "benefits": {
+        "0": "Compact geometry for modern bowls",
+        "1": "Multiple finish options",
+        "2": "Eco-One™ compatible"
+      },
+      "useCases": {
+        "0": "Boutique hospitality",
+        "1": "Premium office"
+      }
+    },
+    "ekcoClip": {
+      "name": "ëkco clip",
+      "category": "Clip fixture",
+      "short": "Secure mounting accessory designed for stable placement and clean lines.",
+      "long": "ëkco clip helps maintain consistent positioning where a clip-style fixture is part of your program.",
+      "benefits": {
+        "0": "Stable placement",
+        "1": "Clean integration with surrounding surfaces",
+        "2": "Designed for professional installation workflows"
+      },
+      "useCases": {
+        "0": "Facility retrofits",
+        "1": "Specification-led projects"
+      }
+    },
+    "freshDrop": {
+      "name": "frësh drop",
+      "category": "Freshness system",
+      "short": "Targeted freshness delivery with selectable fragrance directions.",
+      "long": "frësh drop is built for programs that want flexible fragrance storytelling while keeping operations simple.",
+      "benefits": {
+        "0": "Designed for controlled fragrance release",
+        "1": "Supports differentiated scent options",
+        "2": "Eco-One™ compatible materials"
+      },
+      "useCases": {
+        "0": "Hospitality",
+        "1": "Premium retail"
+      }
+    },
+    "ezTrap": {
+      "name": "ëz trap",
+      "category": "Drain protection",
+      "short": "Helps protect drains while supporting hygiene routines.",
+      "long": "ëz trap is designed for practical maintenance workflows and dependable performance in daily operations.",
+      "variants": {
+        "withTool": "S nástrojem na vyjmutí",
+        "withoutTool": "Bez nástroje na vyjmutí"
+      },
+      "benefits": {
+        "0": "Supports maintenance-friendly routines",
+        "1": "Robust construction for daily use",
+        "2": "Eco-One™ compatible"
+      },
+      "useCases": {
+        "0": "Food service",
+        "1": "Healthcare support areas"
+      }
+    },
+    "xcrenPuck": {
+      "name": "xcrën puck",
+      "category": "Puck format",
+      "short": "Písková zástěna do pisoárů bez PARA pro kontrolu zápachu a ochranu odtoku.",
+      "long": "xcrën je písková zástěna do pisoárů bez obsahu PARA, určená k účinné kontrole zápachu a ochraně odtokového systému. Na rozdíl od tradičních výrobků obsahujících PARA neobsahuje paradichlorbenzen (PARA), sloučeninu klasifikovanou Světovou zdravotnickou organizací (WHO) jako potenciálně karcinogenní. Její jedinečná konstrukce ve tvaru písmene X zabraňuje ucpávání odtokového systému pevnými částicemi a nečistotami a zároveň zajišťuje uvolňování čisté a svěží vůně po každém použití po dobu až 30 dnů.",
+      "variants": {
+        "whiteFresh": "Bílá / svěží",
+        "blueFresh": "Modrá / svěží"
+      },
+      "benefits": {
+        "0": "Compact footprint",
+        "1": "Flexible placement",
+        "2": "Consistent brand presentation"
+      },
+      "useCases": {
+        "0": "Compact washrooms",
+        "1": "Retrofit programs"
+      }
+    },
+    "ekcoMat": {
+      "name": "ëkco mat",
+      "category": "Floor mat",
+      "short": "Floor protection with a clean, professional look.",
+      "long": "ëkco mat supports facility hygiene zones with a product-focused approach to durability and presentation.",
+      "variants": {
+        "standard": "Standardní"
+      },
+      "benefits": {
+        "0": "Durable surface for entry zones",
+        "1": "Professional appearance",
+        "2": "Eco-One™ compatible"
+      },
+      "useCases": {
+        "0": "Entrances",
+        "1": "Service corridors"
+      }
+    }
+  }
+}

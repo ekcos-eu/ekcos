@@ -1,0 +1,27 @@
+/* Horizontal marquee for homepage hero — duration/delay set inline on the element */
+@keyframes heroMarquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.animMarquee {
+  animation-name: heroMarquee;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  will-change: transform;
+}
+
+.animMarqueeReverse {
+  animation-direction: reverse;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animMarquee {
+    animation: none;
+    transform: none;
+  }
+}
