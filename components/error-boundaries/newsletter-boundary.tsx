@@ -1,7 +1,6 @@
 'use client'
 
 import React from 'react'
-import { Link } from '@/i18n/routing'
 
 type BoundaryProps = {
   children: React.ReactNode
@@ -23,9 +22,12 @@ class NewsletterBoundaryInner extends React.Component<BoundaryProps, BoundarySta
       return (
         <div className="rounded-lg border border-black/[0.08] bg-white p-4">
           <p className="text-sm font-medium text-[#575756]">Newsletter form is temporarily unavailable.</p>
-          <Link href="/contact" className="mt-2 inline-block text-sm font-medium text-[#0F68B2] underline-offset-4 hover:underline">
+          <a
+            href="mailto:info@ekcos.eu"
+            className="mt-2 inline-block text-sm font-medium text-[#0F68B2] underline-offset-4 hover:underline"
+          >
             Contact us instead
-          </Link>
+          </a>
         </div>
       )
     }

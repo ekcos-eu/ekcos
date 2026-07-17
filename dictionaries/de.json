@@ -60,6 +60,7 @@
     "legalNote": "Informationswebsite. Käufe erfolgen im offiziellen Shop."
   },
   "common": {
+    "shop": "Shop",
     "shopCta": "Im Shop auf eshop.ekcos.eu kaufen",
     "learnMore": "Mehr erfahren",
     "getInTouch": "Kontakt aufnehmen",
@@ -76,6 +77,16 @@
     "dismiss": "Nicht jetzt"
   },
   "home": {
+    "map": {
+      "aria": "Interaktive Produktkarte im Waschraum",
+      "hint": "Produkt anklicken · Zum Schwenken scrollen",
+      "imageAlt": "ëkcos-Produkte in einem gewerblichen Waschraum"
+    },
+    "overlay": {
+      "moreVariants": "Im Shop auch in weiteren Farben und Düften erhältlich.",
+      "shopCta": "Im Shop kaufen",
+      "close": "Schließen"
+    },
     "hero": {
       "title": "Grüner bei jedem Spülgang",
       "tagline": "Bis zu 99 % biologisch abbaubar",
@@ -211,7 +222,7 @@
     },
     "cta": {
       "download": "Vollständige technische Dokumentation",
-      "products": "Produkte durchsuchen",
+      "products": "Shop",
       "contact": "Team kontaktieren"
     },
     "reference": {

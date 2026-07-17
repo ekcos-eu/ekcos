@@ -13,13 +13,13 @@ import { Button } from '@/components/ui/button'
 import { usePathname, useRouter } from '@/i18n/routing'
 import { routing } from '@/i18n/routing'
 
-const localeLabels: Record<string, string> = {
-  en: 'EN',
-  de: 'DE',
-  it: 'IT',
-  es: 'ES',
-  fr: 'FR',
-  cs: 'CS'
+const localeMeta: Record<string, { code: string; flag: string }> = {
+  en: { code: 'EN', flag: '🇬🇧' },
+  de: { code: 'DE', flag: '🇩🇪' },
+  it: { code: 'IT', flag: '🇮🇹' },
+  es: { code: 'ES', flag: '🇪🇸' },
+  fr: { code: 'FR', flag: '🇫🇷' },
+  cs: { code: 'CS', flag: '🇨🇿' },
 }
 
 export function LocaleSwitcher() {
@@ -28,6 +28,7 @@ export function LocaleSwitcher() {
   const router = useRouter()
   const pathname = usePathname()
   const [isPending, startTransition] = useTransition()
+  const current = localeMeta[locale] ?? { code: locale.toUpperCase(), flag: '🌐' }
 
   return (
     <DropdownMenu>
@@ -39,32 +40,38 @@ export function LocaleSwitcher() {
           disabled={isPending}
           aria-label={t('label')}
         >
-          {localeLabels[locale] ?? locale.toUpperCase()}
+          <span className='text-base leading-none' aria-hidden>
+            {current.flag}
+          </span>
+          {current.code}
           <ChevronDown className='h-4 w-4 opacity-60' />
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent
         align='end'
-        className='min-w-40'
+        className='min-w-44'
       >
-        {routing.locales.map((loc) => (
-          <DropdownMenuItem
-            key={loc}
-            className={
-              loc === locale ? 'bg-[#0F68B2]/8 font-medium text-[#0F68B2]' : ''
-            }
-            onSelect={() => {
-              startTransition(() => {
-                router.replace(pathname, { locale: loc })
-              })
-            }}
-          >
-            <span className='mr-2 w-6 text-xs text-[#575756]/60'>
-              {localeLabels[loc]}
-            </span>
-            {t(loc as 'en' | 'de' | 'it' | 'es' | 'fr' | 'cs')}
-          </DropdownMenuItem>
-        ))}
+        {routing.locales.map((loc) => {
+          const meta = localeMeta[loc] ?? { code: loc.toUpperCase(), flag: '🌐' }
+          return (
+            <DropdownMenuItem
+              key={loc}
+              className={
+                loc === locale ? 'bg-[#0F68B2]/8 font-medium text-[#0F68B2]' : ''
+              }
+              onSelect={() => {
+                startTransition(() => {
+                  router.replace(pathname, { locale: loc })
+                })
+              }}
+            >
+              <span className='mr-2 text-base leading-none' aria-hidden>
+                {meta.flag}
+              </span>
+              {t(loc as 'en' | 'de' | 'it' | 'es' | 'fr' | 'cs')}
+            </DropdownMenuItem>
+          )
+        })}
       </DropdownMenuContent>
     </DropdownMenu>
   )

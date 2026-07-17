@@ -60,6 +60,7 @@
     "legalNote": "Sitio informativo. Las compras se realizan en la tienda oficial."
   },
   "common": {
+    "shop": "Tienda",
     "shopCta": "Comprar en eshop.ekcos.eu",
     "learnMore": "Saber más",
     "getInTouch": "Contacto",
@@ -76,6 +77,16 @@
     "dismiss": "Ahora no"
   },
   "home": {
+    "map": {
+      "aria": "Mapa interactivo de productos en el baño",
+      "hint": "Haz clic en un producto · Desplaza para mover",
+      "imageAlt": "Productos ëkcos colocados en un baño comercial"
+    },
+    "overlay": {
+      "moreVariants": "También disponible en más colores y fragancias en la tienda.",
+      "shopCta": "Comprar en la tienda",
+      "close": "Cerrar"
+    },
     "hero": {
       "title": "Más verde en cada descarga",
       "tagline": "Hasta un 99 % biodegradable",
@@ -211,7 +222,7 @@
     },
     "cta": {
       "download": "Documentación técnica completa",
-      "products": "Ver productos",
+      "products": "Tienda",
       "contact": "Hablar con el equipo"
     },
     "reference": {

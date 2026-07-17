@@ -3,11 +3,11 @@ import Script from 'next/script'
 import { getTranslations } from 'next-intl/server'
 import type { LucideIcon } from 'lucide-react'
 import { Check, Download, ExternalLink, FlaskConical, Leaf, Recycle, ShieldCheck } from 'lucide-react'
-import { Link } from '@/i18n/routing'
 import { DocumentPreviewCard } from '@/components/eco-one/document-preview-card'
 import { Section, SectionHeading } from '@/components/section'
 import { Button } from '@/components/ui/button'
 import { FadeIn } from '@/components/ui/fade-in'
+import { SHOP_BASE_URL } from '@/lib/brand'
 
 const PDF_HREF = '/technical/eco-one.pdf'
 
@@ -122,7 +122,10 @@ export async function EcoOneView() {
                 </a>
               </Button>
               <Button asChild variant="secondary" size="lg">
-                <Link href="/products">{t('cta.products')}</Link>
+                <a href={SHOP_BASE_URL} target="_blank" rel="noopener noreferrer">
+                  {t('cta.products')}
+                  <ExternalLink className="size-4" aria-hidden />
+                </a>
               </Button>
             </div>
           </FadeIn>
@@ -294,13 +297,19 @@ export async function EcoOneView() {
               </a>
             </Button>
             <Button asChild size="lg" variant="secondary" className="border-white/30 bg-transparent text-white hover:bg-white/10">
-              <Link href="/products">{t('cta.products')}</Link>
+              <a href={SHOP_BASE_URL} target="_blank" rel="noopener noreferrer">
+                {t('cta.products')}
+                <ExternalLink className="size-4" aria-hidden />
+              </a>
             </Button>
           </div>
           <p className="mt-6 text-sm text-white/70">
-            <Link href="/contact" className="font-medium text-[#9ed0ff] underline-offset-4 hover:underline">
+            <a
+              href="mailto:info@ekcos.eu"
+              className="font-medium text-[#9ed0ff] underline-offset-4 hover:underline"
+            >
               {t('cta.contact')}
-            </Link>
+            </a>
           </p>
         </FadeIn>
       </Section>

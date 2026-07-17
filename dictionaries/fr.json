@@ -60,6 +60,7 @@
     "legalNote": "Site d’information. Les achats se finalisent sur la boutique officielle."
   },
   "common": {
+    "shop": "Boutique",
     "shopCta": "Acheter sur eshop.ekcos.eu",
     "learnMore": "En savoir plus",
     "getInTouch": "Nous contacter",
@@ -76,6 +77,16 @@
     "dismiss": "Pas maintenant"
   },
   "home": {
+    "map": {
+      "aria": "Carte interactive des produits dans les sanitaires",
+      "hint": "Cliquez sur un produit · Défilez pour panoramiquer",
+      "imageAlt": "Produits ëkcos placés dans des sanitaires commerciaux"
+    },
+    "overlay": {
+      "moreVariants": "Aussi disponible en d'autres couleurs et parfums sur la boutique.",
+      "shopCta": "Acheter sur la boutique",
+      "close": "Fermer"
+    },
     "hero": {
       "title": "Plus vert à chaque chasse",
       "tagline": "Jusqu'à 99 % biodégradable",
@@ -211,7 +222,7 @@
     },
     "cta": {
       "download": "Documentation technique complète",
-      "products": "Parcourir les produits",
+      "products": "Boutique",
       "contact": "Parler à l’équipe"
     },
     "reference": {

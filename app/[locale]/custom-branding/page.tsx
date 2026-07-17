@@ -4,7 +4,6 @@ import { routing } from '@/i18n/routing'
 import { Section, SectionHeading } from '@/components/section'
 import { ContactForm } from '@/components/contact/contact-form'
 import Script from 'next/script'
-import { Link } from '@/i18n/routing'
 import { Button } from '@/components/ui/button'
 import { FadeIn } from '@/components/ui/fade-in'
 import { SHOP_BASE_URL } from '@/lib/brand'
@@ -61,7 +60,7 @@ export default async function CustomBrandingPage() {
           <p className="mx-auto mt-5 max-w-2xl text-base leading-relaxed text-[#575756]/88 text-pretty text-balance">{t('hero.subtitle')}</p>
           <div className="mt-8 flex flex-wrap justify-center gap-3">
             <Button asChild size="lg">
-              <Link href="/contact">{t('inquiry.title')}</Link>
+              <a href="#inquiry">{t('inquiry.title')}</a>
             </Button>
             <Button asChild variant="secondary" size="lg">
               <a href={SHOP_BASE_URL} target="_blank" rel="noopener noreferrer">
@@ -162,7 +161,7 @@ export default async function CustomBrandingPage() {
         </FadeIn>
       </Section>
 
-      <Section>
+      <Section id="inquiry">
         <FadeIn>
           <SectionHeading title={t('inquiry.title')} description={t('inquiry.hint')} />
         </FadeIn>

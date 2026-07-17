@@ -19,11 +19,9 @@ import { VisuallyHidden } from '@radix-ui/react-visually-hidden'
 import { motion } from 'framer-motion'
 
 const navKeys = [
-  'products',
   'articles',
   'ecoOne',
   'customBranding',
-  'contact'
 ] as const
 
 export function SiteHeader() {
@@ -34,11 +32,9 @@ export function SiteHeader() {
   const links = navKeys.map((key) => ({
     key,
     href:
-      key === 'products' ? '/products'
-      : key === 'articles' ? '/articles'
+      key === 'articles' ? '/articles'
       : key === 'ecoOne' ? '/eco-one'
-      : key === 'customBranding' ? '/custom-branding'
-      : '/contact',
+      : '/custom-branding',
     label: t(`${key}.label`)
   }))
 
@@ -65,7 +61,7 @@ export function SiteHeader() {
         </Link>
 
         <nav
-          className='hidden items-center gap-1.5 md:flex'
+          className='hidden items-center gap-1.5 lg:flex'
           aria-label={t('aria')}
         >
           {links.map(({ href, label, key }) => (
@@ -83,7 +79,7 @@ export function SiteHeader() {
           <Button
             asChild
             size='sm'
-            className='hidden sm:inline-flex'
+            className='hidden lg:inline-flex'
           >
             <a
               href={SHOP_BASE_URL}
@@ -94,7 +90,7 @@ export function SiteHeader() {
                 className='mr-1.5 h-4 w-4'
                 aria-hidden
               />
-              {common('shopCta')}
+              {common('shop')}
             </a>
           </Button>
           <LocaleSwitcher />
@@ -103,11 +99,11 @@ export function SiteHeader() {
             onOpenChange={setOpen}
           >
             <DialogTrigger asChild>
-              <Button variant='ghost' size='icon' className='md:hidden' aria-label={t('openMenu')}>
+              <Button variant='ghost' size='icon' className='lg:hidden' aria-label={t('openMenu')}>
                 <Menu className='h-6 w-6' />
               </Button>
             </DialogTrigger>
-            <DialogContent className='fixed inset-0 top-0 left-0 flex h-full max-h-none w-full max-w-none translate-x-0 translate-y-0 flex-col gap-0 rounded-none border-0 p-0 md:hidden [&>button]:hidden'>
+            <DialogContent className='fixed inset-0 top-0 left-0 flex h-full max-h-none w-full max-w-none translate-x-0 translate-y-0 flex-col gap-0 rounded-none border-0 p-0 lg:hidden [&>button]:hidden'>
               <VisuallyHidden>
                 <DialogTitle>{t('mobileMenuTitle')}</DialogTitle>
               </VisuallyHidden>
@@ -157,7 +153,7 @@ export function SiteHeader() {
                       className='mr-2 h-4 w-4'
                       aria-hidden
                     />
-                    {common('shopCta')}
+                    {common('shop')}
                   </a>
                 </Button>
               </nav>

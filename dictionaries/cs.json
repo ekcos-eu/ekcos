@@ -60,6 +60,7 @@
     "legalNote": "Informační web. Nákupy se dokončují v oficiálním obchodě."
   },
   "common": {
+    "shop": "Obchod",
     "shopCta": "Nakoupit na eshop.ekcos.eu",
     "learnMore": "Zjistit více",
     "getInTouch": "Kontaktovat nás",
@@ -76,6 +77,16 @@
     "dismiss": "Teď ne"
   },
   "home": {
+    "map": {
+      "aria": "Interaktivní mapa produktů na toaletě",
+      "hint": "Klikni na produkt · Posun kolečkem",
+      "imageAlt": "Produkty ëkcos umístěné v komerční toaletě"
+    },
+    "overlay": {
+      "moreVariants": "Na eshopu najdete i další barvy a vůně.",
+      "shopCta": "Koupit na eshopu",
+      "close": "Zavřít"
+    },
     "hero": {
       "title": "Zeleněji při každém spláchnutí",
       "tagline": "Až 99 % biologicky rozložitelné",
@@ -211,7 +222,7 @@
     },
     "cta": {
       "download": "Celá technická dokumentace",
-      "products": "Prohlédnout produkty",
+      "products": "Obchod",
       "contact": "Mluvit s týmem"
     },
     "reference": {

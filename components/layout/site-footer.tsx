@@ -13,11 +13,9 @@ export async function SiteFooter() {
 
   const links = [
     { href: '/', label: nav('home.label') },
-    { href: '/products', label: nav('products.label') },
     { href: '/articles', label: nav('articles.label') },
     { href: '/eco-one', label: nav('ecoOne.label') },
     { href: '/custom-branding', label: nav('customBranding.label') },
-    { href: '/contact', label: nav('contact.label') },
   ]
 
   return (

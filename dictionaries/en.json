@@ -60,6 +60,7 @@
     "legalNote": "Informational site. Purchases are completed on the official store."
   },
   "common": {
+    "shop": "Shop",
     "shopCta": "Shop on eshop.ekcos.eu",
     "learnMore": "Learn more",
     "getInTouch": "Contact us",
@@ -76,6 +77,16 @@
     "dismiss": "Not now"
   },
   "home": {
+    "map": {
+      "aria": "Interactive restroom product map",
+      "hint": "Click a product to learn more · Scroll to pan",
+      "imageAlt": "ëkcos products placed in a commercial restroom"
+    },
+    "overlay": {
+      "moreVariants": "Also available in more colors and fragrances on the store.",
+      "shopCta": "Buy on eshop",
+      "close": "Close"
+    },
     "hero": {
       "title": "Go Green With Every Flush",
       "tagline": "Up to 99% biodegradable",
@@ -211,7 +222,7 @@
     },
     "cta": {
       "download": "Full technical documentation",
-      "products": "Browse products",
+      "products": "Shop",
       "contact": "Talk to the team"
     },
     "reference": {
