@@ -66,6 +66,13 @@
     "getInTouch": "Contact us",
     "ecoOne": "Eco-One™"
   },
+  "articles": {
+    "shopCta": {
+      "title": "Ready to upgrade your restrooms?",
+      "body": "Browse ëkcos urinal screens and accessories on the official store.",
+      "button": "Shop"
+    }
+  },
   "newsletter": {
     "popupTitle": "Stay informed",
     "popupDescription": "Occasional updates on products, Eco-One™, and custom branding programs.",

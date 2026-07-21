@@ -66,6 +66,13 @@
     "getInTouch": "Kontaktovat nás",
     "ecoOne": "Eco-One™"
   },
+  "articles": {
+    "shopCta": {
+      "title": "Chcete vylepšit své toalety?",
+      "body": "Prohlédněte si pisoárové sítka a příslušenství ëkcos na oficiálním eshopu.",
+      "button": "Shop"
+    }
+  },
   "newsletter": {
     "popupTitle": "Zůstaňte v obraze",
     "popupDescription": "Občasné novinky o produktech, Eco-One™ a programech vlastního brandingu.",

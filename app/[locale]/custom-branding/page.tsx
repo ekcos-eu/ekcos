@@ -6,6 +6,7 @@ import { ContactForm } from '@/components/contact/contact-form'
 import Script from 'next/script'
 import { Button } from '@/components/ui/button'
 import { FadeIn } from '@/components/ui/fade-in'
+import { PageHero } from '@/components/layout/page-hero'
 import { SHOP_BASE_URL } from '@/lib/brand'
 import {
   brandingPricingDetails,
@@ -47,17 +48,18 @@ export default async function CustomBrandingPage() {
   }))
 
   return (
-    <div className="overflow-x-hidden">
-      <section className="relative overflow-hidden border-b border-black/[0.06] bg-[#f8fafc] ekcos-noise">
-        <div className="absolute inset-0 z-0 opacity-[0.15] mix-blend-multiply pointer-events-none">
-          <video autoPlay loop muted playsInline className="h-full w-full object-cover">
-            <source src="/videos/background.mp4" type="video/mp4" />
-          </video>
-        </div>
-        <FadeIn className="mx-auto max-w-3xl px-4 py-12 text-center sm:px-6 sm:py-16 relative z-10">
-          <p className="text-xs font-semibold uppercase tracking-wider text-[#0F68B2]">{t('hero.eyebrow')}</p>
-          <h1 className="mt-3 text-4xl font-bold tracking-tight text-[#575756] text-balance sm:text-5xl">{t('hero.title')}</h1>
-          <p className="mx-auto mt-5 max-w-2xl text-base leading-relaxed text-[#575756]/88 text-pretty text-balance">{t('hero.subtitle')}</p>
+    <div className="overflow-x-hidden bg-white">
+      <PageHero>
+        <FadeIn className="text-center">
+          <p className="text-xs font-semibold uppercase tracking-wider text-[#0F68B2]">
+            {t('hero.eyebrow')}
+          </p>
+          <h1 className="mt-3 text-4xl font-bold tracking-tight text-[#575756] text-balance sm:text-5xl">
+            {t('hero.title')}
+          </h1>
+          <p className="mx-auto mt-5 max-w-2xl text-xl font-medium leading-snug text-[#0F68B2] text-balance sm:text-2xl">
+            {t('hero.subtitle')}
+          </p>
           <div className="mt-8 flex flex-wrap justify-center gap-3">
             <Button asChild size="lg">
               <a href="#inquiry">{t('inquiry.title')}</a>
@@ -69,7 +71,7 @@ export default async function CustomBrandingPage() {
             </Button>
           </div>
         </FadeIn>
-      </section>
+      </PageHero>
 
       <Section variant="muted">
         <FadeIn className="grid gap-5 md:grid-cols-3">

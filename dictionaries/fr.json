@@ -66,6 +66,13 @@
     "getInTouch": "Nous contacter",
     "ecoOne": "Eco-One™"
   },
+  "articles": {
+    "shopCta": {
+      "title": "Prêt à améliorer vos toilettes ?",
+      "body": "Découvrez les écrans d'urinoir et accessoires ëkcos sur la boutique officielle.",
+      "button": "Shop"
+    }
+  },
   "newsletter": {
     "popupTitle": "Restez informé",
     "popupDescription": "Mises à jour ponctuelles sur les produits, Eco-One™ et les programmes de marque.",

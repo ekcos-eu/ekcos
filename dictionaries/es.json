@@ -66,6 +66,13 @@
     "getInTouch": "Contacto",
     "ecoOne": "Eco-One™"
   },
+  "articles": {
+    "shopCta": {
+      "title": "¿Listo para mejorar sus aseos?",
+      "body": "Explore las pantallas de urinarios y accesorios ëkcos en la tienda oficial.",
+      "button": "Shop"
+    }
+  },
   "newsletter": {
     "popupTitle": "Mantente informado",
     "popupDescription": "Actualizaciones ocasionales sobre productos, Eco-One™ y programas de marca.",

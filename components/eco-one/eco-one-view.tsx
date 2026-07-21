@@ -1,18 +1,19 @@
-import Image from 'next/image'
+import {PageHero} from '@/components/layout/page-hero'
+import {FadeIn} from '@/components/ui/fade-in'
+import {Button} from '@/components/ui/button'
+import {SHOP_BASE_URL} from '@/lib/brand'
+import {ExternalLink} from 'lucide-react'
+import {getTranslations} from 'next-intl/server'
 import Script from 'next/script'
-import { getTranslations } from 'next-intl/server'
-import { ExternalLink } from 'lucide-react'
-import { Button } from '@/components/ui/button'
-import { FadeIn } from '@/components/ui/fade-in'
-import { SHOP_BASE_URL } from '@/lib/brand'
+import Image from 'next/image'
 
 export async function EcoOneView() {
   const t = await getTranslations('ecoOne')
 
   const metrics = [
-    { value: t('metrics.additive.value'), label: t('metrics.additive.label') },
-    { value: t('metrics.measured.value'), label: t('metrics.measured.label') },
-    { value: t('metrics.projected.value'), label: t('metrics.projected.label') },
+    {value: t('metrics.additive.value'), label: t('metrics.additive.label')},
+    {value: t('metrics.measured.value'), label: t('metrics.measured.label')},
+    {value: t('metrics.projected.value'), label: t('metrics.projected.label')},
   ] as const
 
   const ecoOneLdJson = {
@@ -25,21 +26,19 @@ export async function EcoOneView() {
 
   return (
     <div className="overflow-x-hidden bg-white">
-      <section className="relative border-b border-black/[0.06] bg-[linear-gradient(165deg,#eef6fc_0%,#f7fafc_42%,#ffffff_100%)] ekcos-noise">
-        <div className="mx-auto max-w-3xl px-4 py-16 sm:px-6 sm:py-20 lg:py-24">
-          <FadeIn>
-            <h1 className="text-4xl font-bold tracking-tight text-[#575756] text-balance sm:text-5xl lg:text-[3.25rem] lg:leading-[1.1]">
-              {t('hero.title')}
-            </h1>
-            <p className="mt-5 text-xl font-medium leading-snug text-[#0F68B2] text-balance sm:text-2xl">
-              {t('hero.tagline')}
-            </p>
-            <p className="mt-6 text-base leading-relaxed text-[#575756]/88 text-pretty sm:text-lg">
-              {t('hero.body')}
-            </p>
-          </FadeIn>
-        </div>
-      </section>
+      <PageHero>
+        <FadeIn>
+          <h1 className="text-4xl font-bold tracking-tight text-[#575756] text-balance sm:text-5xl lg:text-[3.25rem] lg:leading-[1.1]">
+            {t('hero.title')}
+          </h1>
+          <p className="mt-5 text-xl font-medium leading-snug text-[#0F68B2] text-balance sm:text-2xl">
+            {t('hero.tagline')}
+          </p>
+          <p className="mt-6 text-base leading-relaxed text-[#575756]/88 text-pretty sm:text-lg">
+            {t('hero.body')}
+          </p>
+        </FadeIn>
+      </PageHero>
 
       <section className="border-b border-black/[0.06]">
         <div className="mx-auto grid max-w-3xl gap-px bg-black/[0.06] sm:grid-cols-3">

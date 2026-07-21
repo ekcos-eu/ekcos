@@ -66,6 +66,13 @@
     "getInTouch": "Kontakt aufnehmen",
     "ecoOne": "Eco-One™"
   },
+  "articles": {
+    "shopCta": {
+      "title": "Bereit, Ihre Toiletten aufzurüsten?",
+      "body": "Entdecken Sie ëkcos Urinalsiebmatten und Zubehör im offiziellen Shop.",
+      "button": "Shop"
+    }
+  },
   "newsletter": {
     "popupTitle": "Bleiben Sie informiert",
     "popupDescription": "Gelegentliche Updates zu Produkten, Eco-One™ und Custom-Branding-Programmen.",

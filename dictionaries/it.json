@@ -66,6 +66,13 @@
     "getInTouch": "Contattaci",
     "ecoOne": "Eco-One™"
   },
+  "articles": {
+    "shopCta": {
+      "title": "Pronti a migliorare i vostri servizi?",
+      "body": "Scoprite gli schermi per orinatoio e gli accessori ëkcos nello store ufficiale.",
+      "button": "Shop"
+    }
+  },
   "newsletter": {
     "popupTitle": "Resta aggiornato",
     "popupDescription": "Aggiornamenti occasionali su prodotti, Eco-One™ e programmi di branding.",

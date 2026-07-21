@@ -118,7 +118,7 @@ export const products: Product[] = [
     ],
     heroImageSrc: publicPath('products', 'Urolite', 'PhotoStock', 'ULT-3B-V0.png'),
     colors: buildUrinalLineColors('ULT', 'ult', ['products', 'Urolite']),
-    shopPath: shop('/collections/urolite'),
+    shopPath: shop('/collections/uro-lite'),
     brandingAvailable: true,
     ecoOneCompatible: true,
     featured: true,
