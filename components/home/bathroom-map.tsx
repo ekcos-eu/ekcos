@@ -9,9 +9,9 @@ import type { Product } from '@/lib/types/product'
 import { BathroomHotspotButton } from '@/components/home/bathroom-hotspot'
 import { ProductOverlay } from '@/components/home/product-overlay'
 
-/** Native aspect of public/home/bathroom-map.jpg (2480×1804) */
-const SCENE_WIDTH = 2480
-const SCENE_HEIGHT = 1804
+/** Native aspect of public/home/bathroom-map.jpg (2160×1080) */
+const SCENE_WIDTH = 2160
+const SCENE_HEIGHT = 1080
 const SCENE_RATIO = SCENE_WIDTH / SCENE_HEIGHT
 
 export function BathroomMap() {
@@ -32,12 +32,13 @@ export function BathroomMap() {
       const availableH = section.clientHeight
       if (availableW <= 0 || availableH <= 0) return
 
-      // Fill height with correct ratio; if that is narrower than the viewport,
-      // fill width instead (letterbox vertically) — never stretch.
+      // Cover the viewport: always fill height and width (crop/pan the overflow).
       const widthIfFillHeight = availableH * SCENE_RATIO
       if (widthIfFillHeight >= availableW) {
+        // Taller/narrower viewport — fill height, pan horizontally.
         setScene({ width: widthIfFillHeight, height: availableH })
       } else {
+        // Wider viewport — fill width; height overflows and is clipped (cover).
         setScene({ width: availableW, height: availableW / SCENE_RATIO })
       }
     }
@@ -92,11 +93,10 @@ export function BathroomMap() {
           <Image
             src="/home/bathroom-map.jpg"
             alt={home('imageAlt')}
-            width={SCENE_WIDTH}
-            height={SCENE_HEIGHT}
+            fill
             priority
             draggable={false}
-            className="pointer-events-none h-full w-full select-none object-contain"
+            className="pointer-events-none select-none object-cover"
             sizes="100vw"
           />
 
