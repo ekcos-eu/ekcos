@@ -194,7 +194,7 @@
     },
     "problem": {
       "title": "Perché la plastica ordinaria è un problema",
-      "body": "I prodotti in plastica ordinaria sono progettati per durare. Senza un additivo di biodegradazione, un prodotto in plastica inviato in discarica può rimanervi da 300 a 1.000 anni; i clog in schiuma stile «Crocs» sono un esempio familiare di plastica non biodegradabile. I nostri prodotti sono realizzati nello stesso tipo di plastica durevole (EVA) — ma con una differenza decisiva: l’additivo Eco One.",
+      "body": "I prodotti in plastica ordinaria sono progettati per durare. Senza un additivo di biodegradazione, un prodotto in plastica inviato in discarica può rimanervi <bold>da 300 a 1.000 anni</bold>; i clog in schiuma stile «Crocs» sono un esempio familiare di plastica <bold>non biodegradabile</bold>. I nostri prodotti sono realizzati nello stesso tipo di plastica durevole (EVA) — ma con una differenza decisiva: l’additivo Eco One.",
       "chartAlt": "Prodotti senza Eco One confrontati con prodotti ëkcos contenenti l’additivo",
       "chartCaption": "Prodotti senza Eco One confrontati con prodotti ëkcos contenenti l’additivo.",
       "chart": {
@@ -215,13 +215,13 @@
     },
     "solution": {
       "title": "La nostra soluzione: l’additivo Eco One",
-      "body1": "Durante la produzione incorporiamo circa l’1 % di Eco One, un additivo organico dosato allo stesso modo di un colorante. Non influisce sulla resistenza, sull’aspetto né sulle prestazioni del prodotto.",
-      "body2": "In una discarica biologicamente attiva, i microrganismi presenti in natura scompongono la plastica trattata attraverso attività enzimatica, convertendola in biogas (metano, che le discariche moderne catturano per il recupero energetico), anidride carbonica e humus.",
-      "body3": "Poiché il prodotto si scompone infine in humus, restituisce materia organica alla discarica e aiuta ad accelerare i processi biochimici già in atto. Il prodotto contribuisce quindi non solo durante la sua vita utile, ma anche dopo."
+      "body1": "Durante la produzione incorporiamo circa <bold>l’1 % di Eco One</bold>, un additivo organico dosato allo stesso modo di un colorante. Non influisce sulla resistenza, sull’aspetto né sulle prestazioni del prodotto.",
+      "body2": "In una discarica biologicamente attiva, i microrganismi presenti in natura scompongono la plastica trattata attraverso attività enzimatica, convertendola in biogas (<bold>metano</bold>, che le discariche moderne catturano per il recupero energetico), anidride carbonica e humus.",
+      "body3": "Poiché il prodotto si scompone infine in humus, restituisce materia organica alla discarica e aiuta ad accelerare i processi biochimici già in atto. Il prodotto contribuisce quindi <bold>non solo durante la sua vita utile, ma anche dopo</bold>."
     },
     "testing": {
       "title": "Test indipendenti",
-      "body": "Il prodotto è stato testato da un laboratorio indipendente secondo gli standard internazionali ASTM D5511 e ISO 15985, confrontando lo stesso prodotto con e senza l’additivo Eco One. Con Eco One ha raggiunto il 93,31 % di biodegradazione in circa 3,5 anni, e fino al 99 % entro cinque anni; senza Eco One, il prodotto non ha mostrato biodegradazione misurabile.",
+      "body": "Il prodotto è stato testato da un laboratorio indipendente secondo gli standard internazionali <bold>ASTM D5511 e ISO 15985</bold>, confrontando lo stesso prodotto con e senza l’additivo Eco One. Con Eco One ha raggiunto <bold>il 93,31 % di biodegradazione in circa 3,5 anni, e fino al 99 % entro cinque anni</bold>; senza Eco One, il prodotto non ha mostrato biodegradazione misurabile.",
       "barChart": {
         "ariaLabel": "Biodegradazione a circa 3,5 anni con e senza Eco One",
         "yAxis": "Biodegradazione (%)",

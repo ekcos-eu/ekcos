@@ -194,7 +194,7 @@
     },
     "problem": {
       "title": "Warum herkömmlicher Kunststoff ein Problem ist",
-      "body": "Herkömmliche Kunststoffprodukte sind darauf ausgelegt, lange zu halten. Ohne Biodegradationsadditiv kann ein Kunststoffprodukt auf der Deponie 300 bis 1.000 Jahre verbleiben; Schaumstoff-Clogs im „Crocs“-Stil sind ein bekanntes Beispiel für nicht biologisch abbaubaren Kunststoff. Unsere Produkte bestehen aus demselben langlebigen Kunststoff (EVA) — mit einem entscheidenden Unterschied: dem Eco-One-Additiv.",
+      "body": "Herkömmliche Kunststoffprodukte sind darauf ausgelegt, lange zu halten. Ohne Biodegradationsadditiv kann ein Kunststoffprodukt auf der Deponie <bold>300 bis 1.000 Jahre</bold> verbleiben; Schaumstoff-Clogs im „Crocs“-Stil sind ein bekanntes Beispiel für <bold>nicht biologisch abbaubaren</bold> Kunststoff. Unsere Produkte bestehen aus demselben langlebigen Kunststoff (EVA) — mit einem entscheidenden Unterschied: dem Eco-One-Additiv.",
       "chartAlt": "Produkte ohne Eco One im Vergleich zu ëkcos-Produkten mit dem Additiv",
       "chartCaption": "Produkte ohne Eco One im Vergleich zu ëkcos-Produkten mit dem Additiv.",
       "chart": {
@@ -215,13 +215,13 @@
     },
     "solution": {
       "title": "Unsere Lösung: Das Eco-One-Additiv",
-      "body1": "Bei der Herstellung mischen wir etwa 1 % Eco One ein — ein organisches Additiv, das wie ein Farbstoff dosiert wird. Es beeinflusst weder Festigkeit, Aussehen noch Leistung des Produkts.",
-      "body2": "Auf einer biologisch aktiven Deponie bauen natürlich vorkommende Mikroorganismen den behandelten Kunststoff durch enzymatische Aktivität ab und wandeln ihn in Biogas (Methan, das moderne Deponien zur Energierückgewinnung erfassen), Kohlendioxid und Humus um.",
-      "body3": "Weil das Produkt letztlich zu Humus zerfällt, führt es organische Substanz in die Deponie zurück und beschleunigt die dort bereits ablaufenden biochemischen Prozesse. Das Produkt leistet damit einen Beitrag nicht nur während der Nutzungsdauer, sondern auch danach."
+      "body1": "Bei der Herstellung mischen wir etwa <bold>1 % Eco One</bold> ein — ein organisches Additiv, das wie ein Farbstoff dosiert wird. Es beeinflusst weder Festigkeit, Aussehen noch Leistung des Produkts.",
+      "body2": "Auf einer biologisch aktiven Deponie bauen natürlich vorkommende Mikroorganismen den behandelten Kunststoff durch enzymatische Aktivität ab und wandeln ihn in Biogas (<bold>Methan</bold>, das moderne Deponien zur Energierückgewinnung erfassen), Kohlendioxid und Humus um.",
+      "body3": "Weil das Produkt letztlich zu Humus zerfällt, führt es organische Substanz in die Deponie zurück und beschleunigt die dort bereits ablaufenden biochemischen Prozesse. Das Produkt leistet damit einen Beitrag <bold>nicht nur während der Nutzungsdauer, sondern auch danach</bold>."
     },
     "testing": {
       "title": "Unabhängige Prüfung",
-      "body": "Das Produkt wurde von einem unabhängigen Labor nach den internationalen Normen ASTM D5511 und ISO 15985 geprüft — im Vergleich desselben Produkts mit und ohne Eco-One-Additiv. Mit Eco One erreichte es 93,31 % Biodegradation in etwa 3,5 Jahren und bis zu 99 % innerhalb von fünf Jahren; ohne Eco One zeigte das Produkt keine messbare Biodegradation.",
+      "body": "Das Produkt wurde von einem unabhängigen Labor nach den internationalen Normen <bold>ASTM D5511 und ISO 15985</bold> geprüft — im Vergleich desselben Produkts mit und ohne Eco-One-Additiv. Mit Eco One erreichte es <bold>93,31 % Biodegradation in etwa 3,5 Jahren und bis zu 99 % innerhalb von fünf Jahren</bold>; ohne Eco One zeigte das Produkt keine messbare Biodegradation.",
       "barChart": {
         "ariaLabel": "Biodegradation nach etwa 3,5 Jahren mit und ohne Eco One",
         "yAxis": "Biodegradation (%)",

@@ -194,7 +194,7 @@
     },
     "problem": {
       "title": "Por qué el plástico ordinario es un problema",
-      "body": "Los productos de plástico ordinario están diseñados para durar. Sin un aditivo de biodegradación, un producto de plástico enviado a un vertedero puede permanecer allí de 300 a 1.000 años; los zuecos de espuma tipo «Crocs» son un ejemplo familiar de plástico no biodegradable. Nuestros productos están hechos del mismo tipo de plástico duradero (EVA) — pero con una diferencia decisiva: el aditivo Eco One.",
+      "body": "Los productos de plástico ordinario están diseñados para durar. Sin un aditivo de biodegradación, un producto de plástico enviado a un vertedero puede permanecer allí <bold>de 300 a 1.000 años</bold>; los zuecos de espuma tipo «Crocs» son un ejemplo familiar de plástico <bold>no biodegradable</bold>. Nuestros productos están hechos del mismo tipo de plástico duradero (EVA) — pero con una diferencia decisiva: el aditivo Eco One.",
       "chartAlt": "Productos sin Eco One comparados con productos ëkcos que contienen el aditivo",
       "chartCaption": "Productos sin Eco One comparados con productos ëkcos que contienen el aditivo.",
       "chart": {
@@ -215,13 +215,13 @@
     },
     "solution": {
       "title": "Nuestra solución: el aditivo Eco One",
-      "body1": "Durante la fabricación incorporamos aproximadamente un 1 % de Eco One, un aditivo orgánico dosificado de la misma forma que un colorante. No afecta a la resistencia, el aspecto ni el rendimiento del producto.",
-      "body2": "En un vertedero biológicamente activo, los microorganismos presentes de forma natural descomponen el plástico tratado mediante actividad enzimática, convirtiéndolo en biogás (metano, que los vertederos modernos capturan para la recuperación de energía), dióxido de carbono y humus.",
-      "body3": "Como el producto acaba descomponiéndose en humus, devuelve materia orgánica al vertedero y ayuda a acelerar los procesos bioquímicos que ya tienen lugar allí. El producto contribuye por tanto no solo durante su vida útil, sino también después."
+      "body1": "Durante la fabricación incorporamos aproximadamente <bold>un 1 % de Eco One</bold>, un aditivo orgánico dosificado de la misma forma que un colorante. No afecta a la resistencia, el aspecto ni el rendimiento del producto.",
+      "body2": "En un vertedero biológicamente activo, los microorganismos presentes de forma natural descomponen el plástico tratado mediante actividad enzimática, convirtiéndolo en biogás (<bold>metano</bold>, que los vertederos modernos capturan para la recuperación de energía), dióxido de carbono y humus.",
+      "body3": "Como el producto acaba descomponiéndose en humus, devuelve materia orgánica al vertedero y ayuda a acelerar los procesos bioquímicos que ya tienen lugar allí. El producto contribuye por tanto <bold>no solo durante su vida útil, sino también después</bold>."
     },
     "testing": {
       "title": "Ensayos independientes",
-      "body": "El producto fue ensayado por un laboratorio independiente según las normas internacionales ASTM D5511 e ISO 15985, comparando el mismo producto con y sin el aditivo Eco One. Con Eco One alcanzó un 93,31 % de biodegradación en aproximadamente 3,5 años, y hasta un 99 % en cinco años; sin Eco One, el producto no mostró biodegradación medible.",
+      "body": "El producto fue ensayado por un laboratorio independiente según las normas internacionales <bold>ASTM D5511 e ISO 15985</bold>, comparando el mismo producto con y sin el aditivo Eco One. Con Eco One alcanzó <bold>un 93,31 % de biodegradación en aproximadamente 3,5 años, y hasta un 99 % en cinco años</bold>; sin Eco One, el producto no mostró biodegradación medible.",
       "barChart": {
         "ariaLabel": "Biodegradación a aproximadamente 3,5 años con y sin Eco One",
         "yAxis": "Biodegradación (%)",

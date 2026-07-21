@@ -7,6 +7,11 @@ import {SHOP_BASE_URL} from '@/lib/brand'
 import {ExternalLink} from 'lucide-react'
 import {getTranslations} from 'next-intl/server'
 import Script from 'next/script'
+import type {ReactNode} from 'react'
+
+const richBold = {
+  bold: (chunks: ReactNode) => <strong className="font-semibold text-[#575756]">{chunks}</strong>,
+}
 
 export async function EcoOneView() {
   const t = await getTranslations('ecoOne')
@@ -61,7 +66,7 @@ export async function EcoOneView() {
               {t('problem.title')}
             </h2>
             <p className="mt-5 text-base leading-relaxed text-[#575756]/88 text-justify sm:text-lg">
-              {t('problem.body')}
+              {t.rich('problem.body', richBold)}
             </p>
             <ComparisonChart className="mt-8" />
           </section>
@@ -73,13 +78,13 @@ export async function EcoOneView() {
               {t('solution.title')}
             </h2>
             <p className="mt-5 text-base leading-relaxed text-[#575756]/88 text-justify sm:text-lg">
-              {t('solution.body1')}
+              {t.rich('solution.body1', richBold)}
             </p>
             <p className="mt-4 text-base leading-relaxed text-[#575756]/88 text-justify sm:text-lg">
-              {t('solution.body2')}
+              {t.rich('solution.body2', richBold)}
             </p>
-            <p className="mt-4 text-base leading-relaxed text-[#575756]/88 text-justify sm:text-lg">
-              {t('solution.body3')}
+            <p className="mt-6 border-l-4 border-[#0F68B2] bg-[#0F68B2]/[0.07] px-5 py-4 text-base leading-relaxed text-[#575756]/88 text-justify sm:px-6 sm:py-5 sm:text-lg">
+              {t.rich('solution.body3', richBold)}
             </p>
           </section>
         </FadeIn>
@@ -90,7 +95,7 @@ export async function EcoOneView() {
               {t('testing.title')}
             </h2>
             <p className="mt-5 text-base leading-relaxed text-[#575756]/88 text-justify sm:text-lg">
-              {t('testing.body')}
+              {t.rich('testing.body', richBold)}
             </p>
             <TestingCharts />
           </section>

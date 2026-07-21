@@ -194,7 +194,7 @@
     },
     "problem": {
       "title": "Why ordinary plastic is a problem",
-      "body": "Ordinary plastic products are engineered to last. Without a biodegradation additive, a plastic product sent to landfill can remain there for 300 to 1,000 years; foam “Crocs-style” clogs are a familiar example of plastic that is not biodegradable. Our products are made from the same kind of durable plastic (EVA) — but with one decisive difference: the Eco One additive.",
+      "body": "Ordinary plastic products are engineered to last. Without a biodegradation additive, a plastic product sent to landfill can remain there for <bold>300 to 1,000 years</bold>; foam “Crocs-style” clogs are a familiar example of plastic that is <bold>not biodegradable</bold>. Our products are made from the same kind of durable plastic (EVA) — but with one decisive difference: the Eco One additive.",
       "chartAlt": "Products without Eco One compared with ëkcos products containing the additive",
       "chartCaption": "Products without Eco One compared with ëkcos products containing the additive.",
       "chart": {
@@ -215,13 +215,13 @@
     },
     "solution": {
       "title": "Our solution: The Eco One additive",
-      "body1": "During manufacturing we incorporate approximately 1% of Eco One, an organic additive dosed in the same way as a colorant. It does not affect the product’s strength, appearance or performance.",
-      "body2": "In a biologically active landfill, naturally occurring microorganisms break down the treated plastic through enzymatic activity, converting it into biogas (methane, which modern landfill sites capture for energy recovery), carbon dioxide and humus.",
-      "body3": "Because the product ultimately breaks down into humus, it returns organic matter to the landfill and helps accelerate the biochemical processes already at work there. The product therefore contributes not only during its service life, but also after it."
+      "body1": "During manufacturing we incorporate approximately <bold>1% of Eco One</bold>, an organic additive dosed in the same way as a colorant. It does not affect the product’s strength, appearance or performance.",
+      "body2": "In a biologically active landfill, naturally occurring microorganisms break down the treated plastic through enzymatic activity, converting it into biogas (<bold>methane</bold>, which modern landfill sites capture for energy recovery), carbon dioxide and humus.",
+      "body3": "Because the product ultimately breaks down into humus, it returns organic matter to the landfill and helps accelerate the biochemical processes already at work there. The product therefore contributes <bold>not only during its service life, but also after it</bold>."
     },
     "testing": {
       "title": "Independent testing",
-      "body": "The product was tested by an independent laboratory to the international standards ASTM D5511 and ISO 15985, comparing the same product with and without the Eco One additive. With Eco One, it reached 93.31% biodegradation within approximately 3.5 years, and up to 99% within five years; without Eco One, the product showed no measurable biodegradation.",
+      "body": "The product was tested by an independent laboratory to the international standards <bold>ASTM D5511 and ISO 15985</bold>, comparing the same product with and without the Eco One additive. With Eco One, it reached <bold>93.31% biodegradation within approximately 3.5 years, and up to 99% within five years</bold>; without Eco One, the product showed no measurable biodegradation.",
       "barChart": {
         "ariaLabel": "Biodegradation at approximately 3.5 years with and without Eco One",
         "yAxis": "Biodegradation (%)",

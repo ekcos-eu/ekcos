@@ -194,7 +194,7 @@
     },
     "problem": {
       "title": "Proč je běžný plast problém",
-      "body": "Běžné plastové výrobky jsou navržené tak, aby vydržely. Bez biodegradačního aditiva může plast na skládce zůstat 300 až 1 000 let; známým příkladem nerozložitelného plastu jsou například pěnové pantofle typu „Crocs“. Naše produkty jsou vyrobené ze stejného typu odolného plastu (EVA) — ale s jedním zásadním rozdílem: aditivem Eco One.",
+      "body": "Běžné plastové výrobky jsou navržené tak, aby vydržely. Bez biodegradačního aditiva může plast na skládce zůstat <bold>300 až 1 000 let</bold>; známým příkladem <bold>nerozložitelného</bold> plastu jsou například pěnové pantofle typu „Crocs“. Naše produkty jsou vyrobené ze stejného typu odolného plastu (EVA) — ale s jedním zásadním rozdílem: aditivem Eco One.",
       "chartAlt": "Produkty bez Eco One ve srovnání s produkty ëkcos s aditivem",
       "chartCaption": "Produkty bez Eco One ve srovnání s produkty ëkcos s aditivem.",
       "chart": {
@@ -215,13 +215,13 @@
     },
     "solution": {
       "title": "Naše řešení: aditivum Eco One",
-      "body1": "Při výrobě přidáváme přibližně 1 % Eco One, organického aditiva dávkovaného stejně jako barvivo. Nemá vliv na pevnost, vzhled ani výkon produktu.",
-      "body2": "V biologicky aktivní skládce přirozeně se vyskytující mikroorganismy rozkládají ošetřený plast enzymatickou aktivitou a přeměňují ho na bioplyn (metan, který moderní skládky zachytávají pro energetické využití), oxid uhličitý a humus.",
-      "body3": "Protože se produkt nakonec rozloží na humus, vrací do skládky organickou hmotu a pomáhá urychlit biochemické procesy, které tam už probíhají. Produkt tak přispívá nejen během své životnosti, ale i po ní."
+      "body1": "Při výrobě přidáváme přibližně <bold>1 % Eco One</bold>, organického aditiva dávkovaného stejně jako barvivo. Nemá vliv na pevnost, vzhled ani výkon produktu.",
+      "body2": "V biologicky aktivní skládce přirozeně se vyskytující mikroorganismy rozkládají ošetřený plast enzymatickou aktivitou a přeměňují ho na bioplyn (<bold>metan</bold>, který moderní skládky zachytávají pro energetické využití), oxid uhličitý a humus.",
+      "body3": "Protože se produkt nakonec rozloží na humus, vrací do skládky organickou hmotu a pomáhá urychlit biochemické procesy, které tam už probíhají. Produkt tak přispívá <bold>nejen během své životnosti, ale i po ní</bold>."
     },
     "testing": {
       "title": "Nezávislé testování",
-      "body": "Produkt testovala nezávislá laboratoř podle mezinárodních norem ASTM D5511 a ISO 15985 a porovnala stejný produkt s aditivem Eco One i bez něj. S Eco One dosáhl 93,31 % biodegradace přibližně za 3,5 roku a až 99 % do pěti let; bez Eco One produkt nevykázal žádnou měřitelnou biodegradaci.",
+      "body": "Produkt testovala nezávislá laboratoř podle mezinárodních norem <bold>ASTM D5511 a ISO 15985</bold> a porovnala stejný produkt s aditivem Eco One i bez něj. S Eco One dosáhl <bold>93,31 % biodegradace přibližně za 3,5 roku a až 99 % do pěti let</bold>; bez Eco One produkt nevykázal žádnou měřitelnou biodegradaci.",
       "barChart": {
         "ariaLabel": "Biodegradace po přibližně 3,5 letech s Eco One a bez něj",
         "yAxis": "Biodegradace (%)",

@@ -194,7 +194,7 @@
     },
     "problem": {
       "title": "Pourquoi le plastique ordinaire est un problème",
-      "body": "Les produits en plastique ordinaires sont conçus pour durer. Sans additif de biodégradation, un produit plastique envoyé en décharge peut y rester de 300 à 1 000 ans ; les sabots en mousse de type « Crocs » en sont un exemple familier de plastique non biodégradable. Nos produits sont fabriqués dans le même type de plastique durable (EVA) — avec une différence décisive : l’additif Eco One.",
+      "body": "Les produits en plastique ordinaires sont conçus pour durer. Sans additif de biodégradation, un produit plastique envoyé en décharge peut y rester <bold>de 300 à 1 000 ans</bold> ; les sabots en mousse de type « Crocs » en sont un exemple familier de plastique <bold>non biodégradable</bold>. Nos produits sont fabriqués dans le même type de plastique durable (EVA) — avec une différence décisive : l’additif Eco One.",
       "chartAlt": "Produits sans Eco One comparés aux produits ëkcos contenant l’additif",
       "chartCaption": "Produits sans Eco One comparés aux produits ëkcos contenant l’additif.",
       "chart": {
@@ -215,13 +215,13 @@
     },
     "solution": {
       "title": "Notre solution : l’additif Eco One",
-      "body1": "Lors de la fabrication, nous incorporons environ 1 % d’Eco One, un additif organique dosé de la même manière qu’un colorant. Il n’affecte ni la résistance, ni l’apparence, ni les performances du produit.",
-      "body2": "Dans une décharge biologiquement active, les micro-organismes naturellement présents décomposent le plastique traité par activité enzymatique, le convertissant en biogaz (méthane, capté par les décharges modernes pour la récupération d’énergie), dioxyde de carbone et humus.",
-      "body3": "Parce que le produit se décompose finalement en humus, il restitue de la matière organique à la décharge et accélère les processus biochimiques qui y sont déjà à l’œuvre. Le produit contribue donc non seulement pendant sa durée de vie, mais aussi après."
+      "body1": "Lors de la fabrication, nous incorporons environ <bold>1 % d’Eco One</bold>, un additif organique dosé de la même manière qu’un colorant. Il n’affecte ni la résistance, ni l’apparence, ni les performances du produit.",
+      "body2": "Dans une décharge biologiquement active, les micro-organismes naturellement présents décomposent le plastique traité par activité enzymatique, le convertissant en biogaz (<bold>méthane</bold>, capté par les décharges modernes pour la récupération d’énergie), dioxyde de carbone et humus.",
+      "body3": "Parce que le produit se décompose finalement en humus, il restitue de la matière organique à la décharge et accélère les processus biochimiques qui y sont déjà à l’œuvre. Le produit contribue donc <bold>non seulement pendant sa durée de vie, mais aussi après</bold>."
     },
     "testing": {
       "title": "Tests indépendants",
-      "body": "Le produit a été testé par un laboratoire indépendant selon les normes internationales ASTM D5511 et ISO 15985, en comparant le même produit avec et sans l’additif Eco One. Avec Eco One, il a atteint 93,31 % de biodégradation en environ 3,5 ans, et jusqu’à 99 % en cinq ans ; sans Eco One, le produit n’a montré aucune biodégradation mesurable.",
+      "body": "Le produit a été testé par un laboratoire indépendant selon les normes internationales <bold>ASTM D5511 et ISO 15985</bold>, en comparant le même produit avec et sans l’additif Eco One. Avec Eco One, il a atteint <bold>93,31 % de biodégradation en environ 3,5 ans, et jusqu’à 99 % en cinq ans</bold> ; sans Eco One, le produit n’a montré aucune biodégradation mesurable.",
       "barChart": {
         "ariaLabel": "Biodégradation à environ 3,5 ans avec et sans Eco One",
         "yAxis": "Biodégradation (%)",
