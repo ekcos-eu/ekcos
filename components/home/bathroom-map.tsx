@@ -9,8 +9,10 @@ import type { Product } from '@/lib/types/product'
 import { BathroomHotspotButton } from '@/components/home/bathroom-hotspot'
 import { ProductOverlay } from '@/components/home/product-overlay'
 
-/** Native aspect of public/home/bathroom-map.jpg (2160×1080) */
-const SCENE_RATIO = 2160 / 1080
+/** Native aspect of public/home/bathroom-map.jpg (2480×1804) */
+const SCENE_WIDTH = 2480
+const SCENE_HEIGHT = 1804
+const SCENE_RATIO = SCENE_WIDTH / SCENE_HEIGHT
 
 export function BathroomMap() {
   const t = useTranslations()
@@ -19,7 +21,7 @@ export function BathroomMap() {
   const scrollRef = React.useRef<HTMLDivElement>(null)
   const [selected, setSelected] = React.useState<Product | null>(null)
   const [open, setOpen] = React.useState(false)
-  const [scene, setScene] = React.useState({ width: 2160, height: 1080 })
+  const [scene, setScene] = React.useState({ width: SCENE_WIDTH, height: SCENE_HEIGHT })
 
   React.useEffect(() => {
     const section = sectionRef.current
@@ -90,8 +92,8 @@ export function BathroomMap() {
           <Image
             src="/home/bathroom-map.jpg"
             alt={home('imageAlt')}
-            width={2160}
-            height={1080}
+            width={SCENE_WIDTH}
+            height={SCENE_HEIGHT}
             priority
             draggable={false}
             className="pointer-events-none h-full w-full select-none object-contain"
