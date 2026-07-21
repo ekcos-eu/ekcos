@@ -21,7 +21,6 @@ import { motion } from 'framer-motion'
 const navKeys = [
   'articles',
   'ecoOne',
-  'customBranding',
 ] as const
 
 export function SiteHeader() {
@@ -33,8 +32,7 @@ export function SiteHeader() {
     key,
     href:
       key === 'articles' ? '/articles'
-      : key === 'ecoOne' ? '/eco-one'
-      : '/custom-branding',
+      :  '/eco-one',
     label: t(`${key}.label`)
   }))
 
