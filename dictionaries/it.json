@@ -5,7 +5,7 @@
     "productsTitle": "Prodotti",
     "productsDescription": "Esplora i prodotti ëkcos: modelli, finiture e opzioni — poi visita lo store ufficiale.",
     "ecoOneTitle": "Eco-One™",
-    "ecoOneDescription": "Eco-One™ spiegato: risultati di laboratorio, norme, schede e documenti di conformità in un unico punto.",
+    "ecoOneDescription": "La plastica che torna alla natura. Stesso prodotto, stessa prestazione, una frazione dell’impronta — con l’additivo biodegradabile Eco One.",
     "brandingTitle": "Branding personalizzato",
     "brandingDescription": "Marchio privato, sagome e stampa per programmi B2B.",
     "articlesTitle": "Articoli",
@@ -167,163 +167,46 @@
   },
   "ecoOne": {
     "hero": {
-      "eyebrow": "Biodegradazione supportata da prove",
-      "title": "Eco-One™",
-      "subtitle": "Prove di laboratorio, certificati e schede — il quadro completo di Eco-One™ qui.",
-      "body": "Panoramica delle prove anaerobiche in laboratorio, schede, FAQ e documenti chiave di conformità.",
-      "coverAlt": "Eco-One biodegradability documentation cover",
-      "metrics": {
-        "degradation": {
-          "value": "93.31%",
-          "label": "Valore riportato nel rapporto per il campione testato (1 % additivo, 1288 giorni)."
-        },
-        "duration": {
-          "value": "1288 days",
-          "label": "Periodo coperto dal rapporto di prova."
-        },
-        "standards": {
-          "value": "ASTM D5511 / ISO 15985",
-          "label": "Norme citate nel rapporto di laboratorio."
-        },
-        "additive": {
-          "value": "1% additive",
-          "label": "Livello di additivo nel campione testato."
-        }
-      }
+      "title": "La plastica che torna alla natura",
+      "tagline": "Stesso prodotto. Stessa prestazione. Una frazione dell’impronta.",
+      "body": "Gli schermi per orinatoio non possono essere riciclati: a causa del contatto continuo con l’urina diventano biologicamente contaminati. Le uniche vie di smaltimento sono quindi l’incenerimento o la discarica. In discarica, la plastica convenzionale rimane per secoli. I nostri prodotti sono realizzati con l’additivo Eco One, che consente al materiale di biodegradarsi."
     },
-    "what": {
-      "title": "Cos’è Eco-One™",
-      "body": "Eco-One™ è un additivo miscelato alle plastiche compatibili perché si biodegradino più facilmente dove sono presenti microrganismi. Non è un permesso di abbandonare rifiuti e non sostituisce una gestione responsabile di rifiuti e riciclo."
-    },
-    "how": {
-      "title": "Come funziona",
-      "steps": {
-        "0": "Eco-One™ viene integrato in fase di produzione nei componenti in plastica compatibile.",
-        "1": "In ambienti biologicamente attivi il materiale può degradarsi più rapidamente delle plastiche tradizionali — a seconda della forma del prodotto e di come viene smaltito.",
-        "2": "Norme e certificazioni cambiano per paese e uso; vi aiutiamo a scegliere i documenti giusti per il vostro progetto."
-      }
-    },
-    "value": {
-      "title": "Perché i team lo richiedono",
-      "body": "I servizi igienici professionali hanno bisogno di una storia credibile sui materiali. Eco-One™ aiuta a spiegare la fine vita delle plastiche compatibili — insieme a ridurre i rifiuti e al riciclo dove possibile."
-    },
-    "claims": {
-      "title": "Messaggi e documentazione",
-      "body": "Le prestazioni ambientali dipendono dal prodotto, dalle norme locali e dalla gestione dei rifiuti. Per dichiarazioni pubbliche usate i nostri documenti ufficiali e siate precisi."
-    },
-    "faq": {
-      "title": "Domande frequenti",
-      "q1": "Eco-One™ sostituisce il riciclo?",
-      "a1": "No. È un elemento di una strategia materiali più ampia. Il riciclo resta importante dove è possibile.",
-      "q2": "Ogni prodotto ëkcos include Eco-One™?",
-      "a2": "Dipende dal prodotto — ogni scheda indica cosa vale.",
-      "q3": "Dove posso saperne di più?",
-      "a3": "Sfogliate la gamma o contattateci per documentazione sul vostro programma."
-    },
-    "cta": {
-      "download": "Documentazione tecnica completa",
-      "products": "Negozio",
-      "contact": "Parla con il team"
-    },
-    "reference": {
-      "linkLabel": "Scarica la documentazione tecnica",
-      "externalLabel": "Ecologic LLC - how Eco-One works",
-      "disclaimer": "Norme e modalità di smaltimento variano per paese — verificate cosa vale per il vostro sito e prodotto."
-    },
-    "summary": {
-      "eyebrow": "Cosa trovi qui",
-      "title": "Documenti e download",
-      "description": "Sfoglia le anteprime qui sotto o scarica i PDF completi quando ti servono.",
-      "highlightsTitle": "In questa pagina",
-      "highlights": {
-        "0": "Introduzione al fascicolo sulla biodegradazione Eco-One™.",
-        "1": "Svolgimento del test, curva di biodegradazione e risultati sul campione.",
-        "2": "Pagine di certificazione, scheda tecnica e FAQ da EcoLogic.",
-        "3": "Lettere su status FDA, Proposition 65 in California e uso sicuro sulle reti idriche."
+    "metrics": {
+      "additive": {
+        "value": "~1 %",
+        "label": "contenuto di additivo"
       },
-      "noteEyebrow": "Uso responsabile",
-      "noteTitle": "I messaggi dipendono dal vostro progetto",
-      "noteBody": "Le prestazioni dipendono dal prodotto, dalla legge locale e dalla gestione dei rifiuti. Adattate ogni dichiarazione pubblica ai documenti ufficiali per il vostro caso."
-    },
-    "evidence": {
-      "eyebrow": "Prove di laboratorio",
-      "title": "Resoconto di biodegradazione anaerobica",
-      "description": "Impostazione del test, curva di biodegradazione e conclusione — con e senza additivo Eco-One sul campione testato.",
-      "methodology": {
-        "title": "Come è stato eseguito il test",
-        "body": "Ekcos screen con 1 % di additivo Eco-One è stato testato insieme a campioni senza additivo e cellulosa come controllo positivo, secondo ASTM D5511-02 e ISO 15985:2014 in condizioni anaerobiche a 50 °C. Il biogas è stato misurato per cromatografia; la conclusione conferma una biodegradazione nettamente superiore rispetto al campione senza additivo.",
-        "sample": "Campione testato: Ekcos screen con 1 % di additivo Eco-One",
-        "date": "Rapporto del 30 novembre 2017, Città del Messico",
-        "author": "Ing. Amb. Rodrigo Abraham Castro Corona"
+      "measured": {
+        "value": "~3,5 anni",
+        "label": "fino al 93 % di biodegradazione"
       },
-      "cards": {
-        "certificate": {
-          "alt": "EcoLogic certification page: enhanced biodegradation in anaerobic conditions using Eco-One",
-          "title": "Biodegradable certificate",
-          "body": "Formal EcoLogic certification describing enhanced biodegradation for compatible polymers in anaerobic environments, with referenced ASTM and ISO test methods."
-        },
-        "chart": {
-          "alt": "Biodegradation comparison chart: cellulose control, Ekcos screen with Eco One additive, and sample without additive",
-          "title": "Biodegradation chart",
-          "body": "Figure comparing biodegradation between cellulose control, Ekcos screen with Eco One additive, and the sample without additive."
-        },
-        "table": {
-          "alt": "Test results table and conclusion citing 93.31% biodegradation at 1288 days",
-          "title": "Results and conclusion",
-          "body": "Results table and conclusion citing a 93.31% biodegradation result at 1288 days for the sample with Eco One additive."
-        }
+      "projected": {
+        "value": "fino al 99 %",
+        "label": "entro ~5 anni"
       }
     },
-    "documents": {
-      "eyebrow": "Documentazione prodotto",
-      "title": "Schede e dossier",
-      "description": "Testi di certificazione, scheda tecnica e FAQ — come Eco-One™ si colloca rispetto ad altre scelte di materiale.",
-      "cards": {
-        "enhanced": {
-          "alt": "Enhanced biodegradation certification page",
-          "title": "Enhanced biodegradation certification",
-          "body": "EcoLogic certification page describing enhanced biodegradation in anaerobic conditions and listing additional ASTM references."
-        },
-        "dataSheet": {
-          "alt": "Technical data sheet for Eco-One EG35: storage, handling, identification",
-          "title": "Technical data sheet",
-          "body": "Storage, handling, and company identification for Eco-One EG35."
-        },
-        "faq": {
-          "alt": "Eco-One FAQ: recyclability, FDA status, storage, and comparison to other material approaches",
-          "title": "FAQ sheet",
-          "body": "Question-and-answer page covering positioning versus starch-based and oxo-degradable plastics, recyclability, FDA status, and storage."
-        }
-      }
+    "problem": {
+      "title": "Perché la plastica ordinaria è un problema",
+      "body": "I prodotti in plastica ordinaria sono progettati per durare. Senza un additivo di biodegradazione, un prodotto in plastica inviato in discarica può rimanervi da 300 a 1.000 anni; i clog in schiuma stile «Crocs» sono un esempio familiare di plastica non biodegradabile. I nostri prodotti sono realizzati nello stesso tipo di plastica durevole (EVA) — ma con una differenza decisiva: l’additivo Eco One.",
+      "chartAlt": "Prodotti senza Eco One confrontati con prodotti ëkcos contenenti l’additivo",
+      "chartCaption": "Prodotti senza Eco One confrontati con prodotti ëkcos contenenti l’additivo."
     },
-    "regulatory": {
-      "eyebrow": "Sicurezza e conformità",
-      "title": "Lettere e dichiarazioni ufficiali",
-      "description": "Documenti firmati per contatto con alimenti, Proposition 65 in California e impianti idrici.",
-      "cards": {
-        "fda": {
-          "alt": "FDA regulatory status letter for food-contact positioning under Title 21 CFR",
-          "title": "FDA regulatory status",
-          "body": "Letter describing food-contact positioning under Title 21 CFR for relevant olefin polymer applications."
-        },
-        "prop65": {
-          "alt": "California Proposition 65 declaration letter for Eco-One products",
-          "title": "Proposition 65 declaration",
-          "body": "Letter stating that Eco-One products do not require a California Proposition 65 warning under the conditions described."
-        },
-        "safeWater": {
-          "alt": "Safe water system declaration for Eco-One products",
-          "title": "Safe water system declaration",
-          "body": "Declaration stating that Eco-One products do not contain substances that would harm or leach into the water system."
-        }
-      }
+    "solution": {
+      "title": "La nostra soluzione: l’additivo Eco One",
+      "body1": "Durante la produzione incorporiamo circa l’1 % di Eco One, un additivo organico dosato allo stesso modo di un colorante. Non influisce sulla resistenza, sull’aspetto né sulle prestazioni del prodotto.",
+      "body2": "In una discarica biologicamente attiva, i microrganismi presenti in natura scompongono la plastica trattata attraverso attività enzimatica, convertendola in biogas (metano, che le discariche moderne catturano per il recupero energetico), anidride carbonica e humus.",
+      "body3": "Poiché il prodotto si scompone infine in humus, restituisce materia organica alla discarica e aiuta ad accelerare i processi biochimici già in atto. Il prodotto contribuisce quindi non solo durante la sua vita utile, ma anche dopo."
     },
-    "breakdown": {
-      "eyebrow": "End-of-life visualization",
-      "title": "Final stages of breakdown",
-      "body": "Una visione chiara delle ultime fasi — complemento al pacchetto tecnico completo.",
-      "imageAlt": "Illustration of final stages of material breakdown"
-    }
+    "testing": {
+      "title": "Test indipendenti",
+      "body": "Il prodotto è stato testato da un laboratorio indipendente secondo gli standard internazionali ASTM D5511 e ISO 15985, confrontando lo stesso prodotto con e senza l’additivo Eco One. Con Eco One ha raggiunto il 93,31 % di biodegradazione in circa 3,5 anni, e fino al 99 % entro cinque anni; senza Eco One, il prodotto non ha mostrato biodegradazione misurabile."
+    },
+    "closing": {
+      "title": "Prodotti biodegradabili ëkcos",
+      "body": "I nostri prodotti per i servizi igienici sono realizzati con l’additivo Eco One e sono biodegradabili fino al 99 %, con prestazioni identiche ai prodotti senza di esso — e in molti aspetti le superano.",
+      "shopCta": "Shop"
+    },
+    "footnote": "Fonte dati: test di biodegradazione indipendente secondo ASTM D5511-02 e ISO 15985:2014 (Instituto Politécnico Nacional, Città del Messico) — prodotto ëkcos con 1 % di additivo Eco One: 93,31 % di biodegradazione in 1.288 giorni (≈3,5 anni); lo stesso prodotto senza additivo: 0 %. La biodegradazione oltre il periodo di test (fino al 99 % entro ~5 anni) è proiettata dal trend misurato. Le cifre di persistenza delle plastiche convenzionali (≈300–1.000 anni) sono stime di settore ampiamente citate. L’additivo Eco One® è prodotto e certificato da EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {

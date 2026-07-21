@@ -5,7 +5,7 @@
     "productsTitle": "Produkty",
     "productsDescription": "Prohlédněte si produkty ëkcos: přepínejte modely, povrchové úpravy a varianty — poté přejděte do oficiálního obchodu.",
     "ecoOneTitle": "Eco-One™",
-    "ecoOneDescription": "Eco-One™ přehledně: výsledky testů, normy, produktové listy a dokumenty k vyhovění předpisům.",
+    "ecoOneDescription": "Plast, který se vrací do přírody. Stejný produkt, stejný výkon, zlomek ekologické stopy — s biologicky rozložitelným aditivem Eco One.",
     "brandingTitle": "Vlastní branding",
     "brandingDescription": "Vlastní značka, výřezy a tisk pro B2B programy.",
     "articlesTitle": "Články",
@@ -167,163 +167,46 @@
   },
   "ecoOne": {
     "hero": {
-      "eyebrow": "Biodegradace podložená důkazy",
-      "title": "Eco-One™",
-      "subtitle": "Laboratorní výsledky, certifikáty a produktové listy — kompletní přehled Eco-One™ na jednom místě.",
-      "body": "Přehled anaerobního testu, technických listů, FAQ a klíčových dokumentů k vyhovění předpisům.",
-      "coverAlt": "Titulní stránka dokumentace biodegradability Eco-One",
-      "metrics": {
-        "degradation": {
-          "value": "93.31%",
-          "label": "Uvedený výsledek pro testovaný vzorek (1 % aditiva, 1288 dní)."
-        },
-        "duration": {
-          "value": "1288 dní",
-          "label": "Délka testovaného období ve zprávě."
-        },
-        "standards": {
-          "value": "ASTM D5511 / ISO 15985",
-          "label": "Normy uvedené v laboratorní zprávě."
-        },
-        "additive": {
-          "value": "1 % aditiva",
-          "label": "Úroveň aditiva u testovaného vzorku."
-        }
-      }
+      "title": "Plast, který se vrací do přírody",
+      "tagline": "Stejný produkt. Stejný výkon. Zlomek ekologické stopy.",
+      "body": "Sítka do pisoárů nelze recyklovat: kvůli trvalému kontaktu s močí dochází k biologické kontaminaci. Jediné možnosti likvidace jsou proto spalování nebo skládka. Na skládce běžný plast zůstává po staletí. Naše produkty vyrábíme s aditivem Eco One, které umožňuje biologický rozklad materiálu."
     },
-    "what": {
-      "title": "Co je Eco-One™",
-      "body": "Eco-One™ je aditivum míchané do kompatibilních plastů, aby se v prostředí s mikroorganismy snáze rozkládaly. Není to povolení k zahazování odpadu a nenahrazuje rozumné nakládání s odpady a recyklaci."
-    },
-    "how": {
-      "title": "Jak to funguje",
-      "steps": {
-        "0": "Eco-One™ se přidává do kompatibilních plastů při výrobě.",
-        "1": "V biologicky aktivním prostředí se materiál může rozkládat rychleji než běžné plasty — záleží na tvaru výrobku a způsobu likvidace.",
-        "2": "Pravidla a certifikace se liší podle země a použití; rádi vám pomůžeme vybrat správné dokumenty k vašemu projektu."
-      }
-    },
-    "value": {
-      "title": "Proč o něj mají zájem týmy",
-      "body": "Sanitární provozy potřebují věrohodný příběh o materiálech. Eco-One™ pomáže vysvětlit konci životnosti u kompatibilních plastů — vedle snižování odpadu a recyklace tam, kde to dává smysl."
-    },
-    "claims": {
-      "title": "Tvrzení a dokumentace",
-      "body": "Chování vůči životnímu prostředí závisí na výrobku, místních předpisech a nakládání s odpady. Pro veřejné sdělení vycházejte z našich oficiálních dokumentů a formulujte je přesně."
-    },
-    "faq": {
-      "title": "Časté dotazy",
-      "q1": "Je Eco-One™ náhradou recyklace?",
-      "a1": "Ne. Je to jeden z nástrojů širší materiálové strategie. Recyklace tam, kde je možná, zůstává důležitá.",
-      "q2": "Obsahuje každý výrobek ëkcos Eco-One™?",
-      "a2": "Záleží na produktu — u každého výrobku je to uvedeno na stránce produktu.",
-      "q3": "Kde se můžu dovědět víc?",
-      "a3": "Projděte si nabídku produktů nebo nás kontaktujte pro podklady k vašemu programu."
-    },
-    "cta": {
-      "download": "Celá technická dokumentace",
-      "products": "Obchod",
-      "contact": "Mluvit s týmem"
-    },
-    "reference": {
-      "linkLabel": "Stáhnout technickou dokumentaci",
-      "externalLabel": "Ecologic LLC - how Eco-One works",
-      "disclaimer": "Pravidla a možnosti likvidace se v jednotlivých zemích liší — ověřte, co platí pro váš provoz a výrobek."
-    },
-    "summary": {
-      "eyebrow": "Co zde najdete",
-      "title": "Dokumenty a soubory ke stažení",
-      "description": "Prohlédněte si náhledy níže nebo si kdykoli stáhněte celé PDF.",
-      "highlightsTitle": "Na této stránce",
-      "highlights": {
-        "0": "Úvod k souboru dokumentů o biodegradaci Eco-One™.",
-        "1": "Jak probíhal test, křivka biodegradace a výsledky u testovaného vzorku.",
-        "2": "Certifikační stránky, technický list a FAQ od EcoLogic.",
-        "3": "Dopisy k statusu FDA, kalifornskému Proposition 65 a bezpečnému použití v souvislosti s vodou."
+    "metrics": {
+      "additive": {
+        "value": "~1 %",
+        "label": "obsah aditiva"
       },
-      "noteEyebrow": "Odpovědné použití",
-      "noteTitle": "Tvrzení závisí na vašem projektu",
-      "noteBody": "Výkon závisí na výrobku, místních předpisech a nakládání s odpady. Veřejná tvrzení přizpůsobte oficiálním dokumentům pro vaše použití."
-    },
-    "evidence": {
-      "eyebrow": "Laboratorní podklady",
-      "title": "Záznam anaerobní biodegradace",
-      "description": "Jak byl test nastaven, průběh biodegradace a závěr — se sadou Eco-One aditiva i bez něj u testovaného vzorku.",
-      "methodology": {
-        "title": "Jak test probíhal",
-        "body": "Sítko Ekcos screen s 1 % aditivem Eco-One bylo testováno vedle vzorků bez aditiva a celulózy jako pozitivní kontroly podle ASTM D5511-02 a ISO 15985:2014 v anaerobních podmínkách při 50 °C. Bioplyn byl měřen chromatografií; závěr potvrzuje výrazně vyšší biodegradaci oproti vzorku bez aditiva.",
-        "sample": "Testovaný vzorek: Ekcos screen s 1 % aditivem Eco-One",
-        "date": "Zpráva ze dne 30. listopadu 2017, Mexico City",
-        "author": "Ing. Amb. Rodrigo Abraham Castro Corona"
+      "measured": {
+        "value": "~3,5 roku",
+        "label": "k 93% biodegradaci"
       },
-      "cards": {
-        "certificate": {
-          "alt": "Certifikační stránka EcoLogic: rozšířená biodegradace v anaerobních podmínkách s Eco-One",
-          "title": "Certifikát biodegradability",
-          "body": "Formální certifikace EcoLogic popisující rozšířenou biodegradaci kompatibilních polymerů v anaerobním prostředí s uvedenými metodami ASTM a ISO."
-        },
-        "chart": {
-          "alt": "Graf biodegradace: kontrola celulóza, Ekcos screen s aditivem Eco One a vzorek bez aditiva",
-          "title": "Graf biodegradace",
-          "body": "Graf srovnávající biodegradaci mezi kontrolou celulózou, Ekcos screen s aditivem Eco One a vzorkem bez aditiva."
-        },
-        "table": {
-          "alt": "Tabulka výsledků a závěr s 93,31 % biodegradace po 1288 dnech",
-          "title": "Výsledky a závěr",
-          "body": "Tabulka výsledků a závěr s hodnotou 93,31 % biodegradace po 1288 dnech u vzorku s aditivem Eco One."
-        }
+      "projected": {
+        "value": "až 99 %",
+        "label": "přibližně do 5 let"
       }
     },
-    "documents": {
-      "eyebrow": "Produktová literatura",
-      "title": "Produktová literatura",
-      "description": "Certifikační texty, technický list a FAQ — jak se Eco-One™ srovnává s jinými materiály.",
-      "cards": {
-        "enhanced": {
-          "alt": "Stránka certifikace rozšířené biodegradace",
-          "title": "Certifikace rozšířené biodegradace",
-          "body": "Certifikační stránka EcoLogic popisující rozšířenou biodegradaci v anaerobních podmínkách a další odkazy ASTM."
-        },
-        "dataSheet": {
-          "alt": "Technický list Eco-One EG35: skladování, manipulace, identifikace",
-          "title": "Technický list",
-          "body": "Skladování, manipulace a identifikace pro Eco-One EG35."
-        },
-        "faq": {
-          "alt": "FAQ Eco-One: recyklovatelnost, FDA status, skladování a srovnání s jinými materiály",
-          "title": "List FAQ",
-          "body": "Otázky a odpovědi o pozicování vůči škrobovým a oxo-biodegradovatelným plastům, recyklovatelnosti, FDA statusu a skladování."
-        }
-      }
+    "problem": {
+      "title": "Proč je běžný plast problém",
+      "body": "Běžné plastové výrobky jsou navržené tak, aby vydržely. Bez biodegradačního aditiva může plast na skládce zůstat 300 až 1 000 let; známým příkladem nerozložitelného plastu jsou například pěnové pantofle typu „Crocs“. Naše produkty jsou vyrobené ze stejného typu odolného plastu (EVA) — ale s jedním zásadním rozdílem: aditivem Eco One.",
+      "chartAlt": "Produkty bez Eco One ve srovnání s produkty ëkcos s aditivem",
+      "chartCaption": "Produkty bez Eco One ve srovnání s produkty ëkcos s aditivem."
     },
-    "regulatory": {
-      "eyebrow": "Bezpečnost a vyhovění předpisům",
-      "title": "Úřední dopisy a prohlášení",
-      "description": "Podepsané dopisy pro otázky kontaktu s potravinami, kalifornského Proposition 65 a vodních systémů.",
-      "cards": {
-        "fda": {
-          "alt": "Dopis o regulatorním statusu FDA pro kontakt s potravinami podle Title 21 CFR",
-          "title": "Regulatorní status FDA",
-          "body": "Dopis popisující pozicování pro kontakt s potravinami podle Title 21 CFR u relevantních olefinových polymerů."
-        },
-        "prop65": {
-          "alt": "Prohlášení k Proposition 65 v Kalifornii pro produkty Eco-One",
-          "title": "Prohlášení Proposition 65",
-          "body": "Dopis uvádějící, že produkty Eco-One nevyžadují varování Proposition 65 za popsaných podmínek."
-        },
-        "safeWater": {
-          "alt": "Prohlášení o bezpečnosti v souvislosti s vodním systémem pro Eco-One",
-          "title": "Prohlášení k bezpečnosti vody",
-          "body": "Prohlášení, že produkty Eco-One neobsahují látky, které by poškodily nebo uvolňovaly do vodního systému."
-        }
-      }
+    "solution": {
+      "title": "Naše řešení: aditivum Eco One",
+      "body1": "Při výrobě přidáváme přibližně 1 % Eco One, organického aditiva dávkovaného stejně jako barvivo. Nemá vliv na pevnost, vzhled ani výkon produktu.",
+      "body2": "V biologicky aktivní skládce přirozeně se vyskytující mikroorganismy rozkládají ošetřený plast enzymatickou aktivitou a přeměňují ho na bioplyn (metan, který moderní skládky zachytávají pro energetické využití), oxid uhličitý a humus.",
+      "body3": "Protože se produkt nakonec rozloží na humus, vrací do skládky organickou hmotu a pomáhá urychlit biochemické procesy, které tam už probíhají. Produkt tak přispívá nejen během své životnosti, ale i po ní."
     },
-    "breakdown": {
-      "eyebrow": "Vizualizace konce životnosti",
-      "title": "Závěrečné fáze rozkladu",
-      "body": "Přehledný pohled na závěrečné fáze rozkladu — jako doplněk k plné technické dokumentaci.",
-      "imageAlt": "Ilustrace závěrečných fází rozkladu materiálu"
-    }
+    "testing": {
+      "title": "Nezávislé testování",
+      "body": "Produkt testovala nezávislá laboratoř podle mezinárodních norem ASTM D5511 a ISO 15985 a porovnala stejný produkt s aditivem Eco One i bez něj. S Eco One dosáhl 93,31 % biodegradace přibližně za 3,5 roku a až 99 % do pěti let; bez Eco One produkt nevykázal žádnou měřitelnou biodegradaci."
+    },
+    "closing": {
+      "title": "Biologicky rozložitelné produkty ëkcos",
+      "body": "Naše sanitární produkty vyrábíme s aditivem Eco One a jsou až z 99 % biologicky rozložitelné — s výkonem shodným s produkty bez aditiva a v mnoha ohledech je i překonávají.",
+      "shopCta": "Shop"
+    },
+    "footnote": "Zdroj dat: nezávislý biodegradační test podle ASTM D5511-02 a ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) — produkt ëkcos s 1% aditivem Eco One: 93,31 % biodegradace za 1 288 dní (≈3,5 roku); stejný produkt bez aditiva: 0 %. Biodegradace nad rámec testovaného období (až 99 % do ~5 let) je projekcí z naměřeného trendu. Údaje o přetrvání běžných plastů (≈300–1 000 let) jsou široce citované oborové odhady. Aditivum Eco One® vyrábí a certifikuje EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {
