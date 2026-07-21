@@ -67,10 +67,10 @@ export async function SiteFooter() {
           </div>
         </FadeIn>
         <Separator className="my-8 bg-black/[0.08]" />
-        <FadeIn delay={0.2} className="flex flex-col gap-3 text-sm text-[#575756]/75 sm:flex-row sm:items-center sm:justify-between">
+        <div className="flex flex-col gap-3 text-sm text-[#575756]/75 sm:flex-row sm:items-center sm:justify-between">
           <p>{t('copyright', { year: new Date().getFullYear() })}</p>
           <p className="text-xs">{t('legalNote')}</p>
-        </FadeIn>
+        </div>
       </div>
     </footer>
   )

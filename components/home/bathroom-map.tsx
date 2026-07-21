@@ -75,7 +75,7 @@ export function BathroomMap() {
   return (
     <section
       ref={sectionRef}
-      className="relative h-[calc(100dvh-4rem)] w-full overflow-hidden bg-[#e8ecef] sm:h-[calc(100dvh-4.25rem)]"
+      className="relative h-full min-h-0 w-full flex-1 overflow-hidden bg-[#e8ecef]"
       aria-label={home('aria')}
     >
       <div

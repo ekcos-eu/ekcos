@@ -21,7 +21,7 @@ class BathroomMapBoundaryInner extends React.Component<BoundaryProps, BoundarySt
   render() {
     if (this.state.hasError) {
       return (
-        <div className="flex min-h-[50vh] items-center justify-center bg-[#e8ecef] px-6 text-center">
+        <div className="flex h-full min-h-0 flex-1 items-center justify-center bg-[#e8ecef] px-6 text-center">
           <div>
             <p className="text-base font-semibold text-[#575756]">
               Interactive map is temporarily unavailable.
