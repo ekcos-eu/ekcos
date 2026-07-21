@@ -221,7 +221,29 @@
     },
     "testing": {
       "title": "Nezávislé testování",
-      "body": "Produkt testovala nezávislá laboratoř podle mezinárodních norem ASTM D5511 a ISO 15985 a porovnala stejný produkt s aditivem Eco One i bez něj. S Eco One dosáhl 93,31 % biodegradace přibližně za 3,5 roku a až 99 % do pěti let; bez Eco One produkt nevykázal žádnou měřitelnou biodegradaci."
+      "body": "Produkt testovala nezávislá laboratoř podle mezinárodních norem ASTM D5511 a ISO 15985 a porovnala stejný produkt s aditivem Eco One i bez něj. S Eco One dosáhl 93,31 % biodegradace přibližně za 3,5 roku a až 99 % do pěti let; bez Eco One produkt nevykázal žádnou měřitelnou biodegradaci.",
+      "barChart": {
+        "ariaLabel": "Biodegradace po přibližně 3,5 letech s Eco One a bez něj",
+        "yAxis": "Biodegradace (%)",
+        "withLabel": "ëkcos s Eco One",
+        "withoutLabel": "Produkty bez Eco One",
+        "withDetail": "93,31 % biodegradace naměřeno v nezávislém testu ASTM D5511 / ISO 15985 po přibližně 3,5 letech.",
+        "withoutDetail": "Stejný produkt bez Eco One nevykázal během stejného testovacího období žádnou měřitelnou biodegradaci.",
+        "subtitle": "Stejný produkt · stejný laboratorní test (ASTM D5511 / ISO 15985) · ~3,5 roku"
+      },
+      "timelineChart": {
+        "ariaLabel": "Biodegradace během pěti let s Eco One a bez něj",
+        "yAxis": "Biodegradace (%)",
+        "xAxis": "Roky",
+        "withLabel": "ëkcos s Eco One",
+        "withoutLabel": "Produkty bez Eco One",
+        "zeroNote": "0 % po celou dobu",
+        "measured": "naměřeno",
+        "projected": "projekce",
+        "yearsUnit": "let",
+        "projectedNote": "Projekce z naměřeného trendu",
+        "caption": "Biodegradace s aditivem Eco One a bez něj. Hodnoty po 3,5 letech jsou projekcí z naměřeného trendu."
+      }
     },
     "closing": {
       "title": "Biologicky rozložitelné produkty ëkcos",

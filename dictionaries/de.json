@@ -221,7 +221,29 @@
     },
     "testing": {
       "title": "Unabhängige Prüfung",
-      "body": "Das Produkt wurde von einem unabhängigen Labor nach den internationalen Normen ASTM D5511 und ISO 15985 geprüft — im Vergleich desselben Produkts mit und ohne Eco-One-Additiv. Mit Eco One erreichte es 93,31 % Biodegradation in etwa 3,5 Jahren und bis zu 99 % innerhalb von fünf Jahren; ohne Eco One zeigte das Produkt keine messbare Biodegradation."
+      "body": "Das Produkt wurde von einem unabhängigen Labor nach den internationalen Normen ASTM D5511 und ISO 15985 geprüft — im Vergleich desselben Produkts mit und ohne Eco-One-Additiv. Mit Eco One erreichte es 93,31 % Biodegradation in etwa 3,5 Jahren und bis zu 99 % innerhalb von fünf Jahren; ohne Eco One zeigte das Produkt keine messbare Biodegradation.",
+      "barChart": {
+        "ariaLabel": "Biodegradation nach etwa 3,5 Jahren mit und ohne Eco One",
+        "yAxis": "Biodegradation (%)",
+        "withLabel": "ëkcos mit Eco One",
+        "withoutLabel": "Produkte ohne Eco One",
+        "withDetail": "93,31 % Biodegradation in einem unabhängigen ASTM-D5511- / ISO-15985-Labortest nach etwa 3,5 Jahren gemessen.",
+        "withoutDetail": "Dasselbe Produkt ohne Eco One zeigte im gleichen Testzeitraum keine messbare Biodegradation.",
+        "subtitle": "Gleiches Produkt · gleicher Labortest (ASTM D5511 / ISO 15985) · ~3,5 Jahre"
+      },
+      "timelineChart": {
+        "ariaLabel": "Biodegradation über fünf Jahre mit und ohne Eco One",
+        "yAxis": "Biodegradation (%)",
+        "xAxis": "Jahre",
+        "withLabel": "ëkcos mit Eco One",
+        "withoutLabel": "Produkte ohne Eco One",
+        "zeroNote": "0 % die ganze Zeit",
+        "measured": "gemessen",
+        "projected": "projiziert",
+        "yearsUnit": "J.",
+        "projectedNote": "Aus dem gemessenen Trend projiziert",
+        "caption": "Biodegradation mit und ohne Eco-One-Additiv. Werte jenseits von 3,5 Jahren sind aus dem gemessenen Trend projiziert."
+      }
     },
     "closing": {
       "title": "ëkcos biologisch abbaubare Produkte",

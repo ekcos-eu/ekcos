@@ -221,7 +221,29 @@
     },
     "testing": {
       "title": "Independent testing",
-      "body": "The product was tested by an independent laboratory to the international standards ASTM D5511 and ISO 15985, comparing the same product with and without the Eco One additive. With Eco One, it reached 93.31% biodegradation within approximately 3.5 years, and up to 99% within five years; without Eco One, the product showed no measurable biodegradation."
+      "body": "The product was tested by an independent laboratory to the international standards ASTM D5511 and ISO 15985, comparing the same product with and without the Eco One additive. With Eco One, it reached 93.31% biodegradation within approximately 3.5 years, and up to 99% within five years; without Eco One, the product showed no measurable biodegradation.",
+      "barChart": {
+        "ariaLabel": "Biodegradation at approximately 3.5 years with and without Eco One",
+        "yAxis": "Biodegradation (%)",
+        "withLabel": "ëkcos with Eco One",
+        "withoutLabel": "Products without Eco One",
+        "withDetail": "93.31% biodegradation measured in an independent ASTM D5511 / ISO 15985 lab test after about 3.5 years.",
+        "withoutDetail": "The same product without Eco One showed no measurable biodegradation over the same test period.",
+        "subtitle": "Same product · same lab test (ASTM D5511 / ISO 15985) · ~3.5 years"
+      },
+      "timelineChart": {
+        "ariaLabel": "Biodegradation over five years with and without Eco One",
+        "yAxis": "Biodegradation (%)",
+        "xAxis": "Years",
+        "withLabel": "ëkcos with Eco One",
+        "withoutLabel": "Products without Eco One",
+        "zeroNote": "0% the whole time",
+        "measured": "measured",
+        "projected": "projected",
+        "yearsUnit": "yrs",
+        "projectedNote": "Projected from the measured trend",
+        "caption": "Biodegradation with and without the Eco One additive. Values beyond 3.5 years are projected from the measured trend."
+      }
     },
     "closing": {
       "title": "ëkcos biodegradable products",

@@ -1,4 +1,5 @@
 import {ComparisonChart} from '@/components/eco-one/comparison-chart'
+import {TestingCharts} from '@/components/eco-one/testing-charts'
 import {PageHero} from '@/components/layout/page-hero'
 import {FadeIn} from '@/components/ui/fade-in'
 import {Button} from '@/components/ui/button'
@@ -91,6 +92,7 @@ export async function EcoOneView() {
             <p className="mt-5 text-base leading-relaxed text-[#575756]/88 text-justify sm:text-lg">
               {t('testing.body')}
             </p>
+            <TestingCharts />
           </section>
         </FadeIn>
 
