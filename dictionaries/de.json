@@ -196,7 +196,22 @@
       "title": "Warum herkömmlicher Kunststoff ein Problem ist",
       "body": "Herkömmliche Kunststoffprodukte sind darauf ausgelegt, lange zu halten. Ohne Biodegradationsadditiv kann ein Kunststoffprodukt auf der Deponie 300 bis 1.000 Jahre verbleiben; Schaumstoff-Clogs im „Crocs“-Stil sind ein bekanntes Beispiel für nicht biologisch abbaubaren Kunststoff. Unsere Produkte bestehen aus demselben langlebigen Kunststoff (EVA) — mit einem entscheidenden Unterschied: dem Eco-One-Additiv.",
       "chartAlt": "Produkte ohne Eco One im Vergleich zu ëkcos-Produkten mit dem Additiv",
-      "chartCaption": "Produkte ohne Eco One im Vergleich zu ëkcos-Produkten mit dem Additiv."
+      "chartCaption": "Produkte ohne Eco One im Vergleich zu ëkcos-Produkten mit dem Additiv.",
+      "chart": {
+        "ariaLabel": "Vergleich der Abbaujahre auf der Deponie",
+        "withoutLabel": "Produkte ohne Eco One",
+        "withLabel": "ëkcos mit Eco One",
+        "withoutValue": "300–1.000 Jahre",
+        "withValue": "3,5–5 Jahre",
+        "withoutDetail": "Ohne Biodegradationsadditiv kann herkömmlicher Kunststoff jahrhundertelang auf der Deponie bleiben.",
+        "withDetail": "Mit dem Eco-One-Additiv zeigt unabhängige Prüfung ~93 % Biodegradation in etwa 3,5 Jahren und bis zu 99 % innerhalb von fünf Jahren.",
+        "axisLabel": "Jahre bis zum Abbau (Deponie)",
+        "caption": "Produkte ohne Eco One im Vergleich zu ëkcos-Produkten mit dem Additiv.",
+        "scaleLabel": "Diagrammskala",
+        "scaleFull": "0–1.000 J.",
+        "scaleZoom": "0–10 J.",
+        "clippedNote": "weiter →"
+      }
     },
     "solution": {
       "title": "Unsere Lösung: Das Eco-One-Additiv",

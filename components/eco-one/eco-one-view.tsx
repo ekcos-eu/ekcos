@@ -1,3 +1,4 @@
+import {ComparisonChart} from '@/components/eco-one/comparison-chart'
 import {PageHero} from '@/components/layout/page-hero'
 import {FadeIn} from '@/components/ui/fade-in'
 import {Button} from '@/components/ui/button'
@@ -5,7 +6,6 @@ import {SHOP_BASE_URL} from '@/lib/brand'
 import {ExternalLink} from 'lucide-react'
 import {getTranslations} from 'next-intl/server'
 import Script from 'next/script'
-import Image from 'next/image'
 
 export async function EcoOneView() {
   const t = await getTranslations('ecoOne')
@@ -62,20 +62,7 @@ export async function EcoOneView() {
             <p className="mt-5 text-base leading-relaxed text-[#575756]/88 text-pretty sm:text-lg">
               {t('problem.body')}
             </p>
-            <figure className="mt-8 overflow-hidden rounded-xl border border-black/[0.08] bg-white">
-              <div className="relative aspect-[16/7] w-full">
-                <Image
-                  src="/technical/eco-one-pages/comparison-chart.png"
-                  alt={t('problem.chartAlt')}
-                  fill
-                  className="object-contain p-3 sm:p-5"
-                  sizes="(max-width: 768px) 100vw, 768px"
-                />
-              </div>
-              <figcaption className="border-t border-black/[0.06] px-4 py-3 text-sm leading-relaxed text-[#575756]/70 text-pretty">
-                {t('problem.chartCaption')}
-              </figcaption>
-            </figure>
+            <ComparisonChart className="mt-8" />
           </section>
         </FadeIn>
 

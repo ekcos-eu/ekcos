@@ -196,7 +196,22 @@
       "title": "Proč je běžný plast problém",
       "body": "Běžné plastové výrobky jsou navržené tak, aby vydržely. Bez biodegradačního aditiva může plast na skládce zůstat 300 až 1 000 let; známým příkladem nerozložitelného plastu jsou například pěnové pantofle typu „Crocs“. Naše produkty jsou vyrobené ze stejného typu odolného plastu (EVA) — ale s jedním zásadním rozdílem: aditivem Eco One.",
       "chartAlt": "Produkty bez Eco One ve srovnání s produkty ëkcos s aditivem",
-      "chartCaption": "Produkty bez Eco One ve srovnání s produkty ëkcos s aditivem."
+      "chartCaption": "Produkty bez Eco One ve srovnání s produkty ëkcos s aditivem.",
+      "chart": {
+        "ariaLabel": "Srovnání let do rozkladu na skládce",
+        "withoutLabel": "Produkty bez Eco One",
+        "withLabel": "ëkcos s Eco One",
+        "withoutValue": "300–1 000 let",
+        "withValue": "3,5–5 let",
+        "withoutDetail": "Bez biodegradačního aditiva může běžný plast na skládce zůstat po staletí.",
+        "withDetail": "S aditivem Eco One nezávislé testování ukazuje ~93 % biodegradace za přibližně 3,5 roku a až 99 % do pěti let.",
+        "axisLabel": "Roky do rozkladu (skládka)",
+        "caption": "Produkty bez Eco One ve srovnání s produkty ëkcos s aditivem.",
+        "scaleLabel": "Měřítko grafu",
+        "scaleFull": "0–1 000 let",
+        "scaleZoom": "0–10 let",
+        "clippedNote": "pokračuje →"
+      }
     },
     "solution": {
       "title": "Naše řešení: aditivum Eco One",

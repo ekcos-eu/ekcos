@@ -196,7 +196,22 @@
       "title": "Why ordinary plastic is a problem",
       "body": "Ordinary plastic products are engineered to last. Without a biodegradation additive, a plastic product sent to landfill can remain there for 300 to 1,000 years; foam “Crocs-style” clogs are a familiar example of plastic that is not biodegradable. Our products are made from the same kind of durable plastic (EVA) — but with one decisive difference: the Eco One additive.",
       "chartAlt": "Products without Eco One compared with ëkcos products containing the additive",
-      "chartCaption": "Products without Eco One compared with ëkcos products containing the additive."
+      "chartCaption": "Products without Eco One compared with ëkcos products containing the additive.",
+      "chart": {
+        "ariaLabel": "Comparison of years to break down in landfill",
+        "withoutLabel": "Products without Eco One",
+        "withLabel": "ëkcos with Eco One",
+        "withoutValue": "300–1,000 years",
+        "withValue": "3.5–5 years",
+        "withoutDetail": "Without a biodegradation additive, conventional plastic can remain in landfill for centuries.",
+        "withDetail": "With the Eco One additive, independent testing shows ~93% biodegradation in about 3.5 years, and up to 99% within five years.",
+        "axisLabel": "Years to break down (landfill)",
+        "caption": "Products without Eco One compared with ëkcos products containing the additive.",
+        "scaleLabel": "Chart scale",
+        "scaleFull": "0–1,000 yrs",
+        "scaleZoom": "0–10 yrs",
+        "clippedNote": "continues →"
+      }
     },
     "solution": {
       "title": "Our solution: The Eco One additive",

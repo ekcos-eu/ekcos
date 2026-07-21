@@ -196,7 +196,22 @@
       "title": "Por qué el plástico ordinario es un problema",
       "body": "Los productos de plástico ordinario están diseñados para durar. Sin un aditivo de biodegradación, un producto de plástico enviado a un vertedero puede permanecer allí de 300 a 1.000 años; los zuecos de espuma tipo «Crocs» son un ejemplo familiar de plástico no biodegradable. Nuestros productos están hechos del mismo tipo de plástico duradero (EVA) — pero con una diferencia decisiva: el aditivo Eco One.",
       "chartAlt": "Productos sin Eco One comparados con productos ëkcos que contienen el aditivo",
-      "chartCaption": "Productos sin Eco One comparados con productos ëkcos que contienen el aditivo."
+      "chartCaption": "Productos sin Eco One comparados con productos ëkcos que contienen el aditivo.",
+      "chart": {
+        "ariaLabel": "Comparación de años hasta la degradación en vertedero",
+        "withoutLabel": "Productos sin Eco One",
+        "withLabel": "ëkcos con Eco One",
+        "withoutValue": "300–1.000 años",
+        "withValue": "3,5–5 años",
+        "withoutDetail": "Sin un aditivo de biodegradación, el plástico convencional puede permanecer en el vertedero durante siglos.",
+        "withDetail": "Con el aditivo Eco One, ensayos independientes muestran ~93 % de biodegradación en unos 3,5 años, y hasta el 99 % en cinco años.",
+        "axisLabel": "Años hasta degradarse (vertedero)",
+        "caption": "Productos sin Eco One comparados con productos ëkcos que contienen el aditivo.",
+        "scaleLabel": "Escala del gráfico",
+        "scaleFull": "0–1.000 a.",
+        "scaleZoom": "0–10 a.",
+        "clippedNote": "sigue →"
+      }
     },
     "solution": {
       "title": "Nuestra solución: el aditivo Eco One",

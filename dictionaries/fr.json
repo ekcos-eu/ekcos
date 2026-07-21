@@ -196,7 +196,22 @@
       "title": "Pourquoi le plastique ordinaire est un problème",
       "body": "Les produits en plastique ordinaires sont conçus pour durer. Sans additif de biodégradation, un produit plastique envoyé en décharge peut y rester de 300 à 1 000 ans ; les sabots en mousse de type « Crocs » en sont un exemple familier de plastique non biodégradable. Nos produits sont fabriqués dans le même type de plastique durable (EVA) — avec une différence décisive : l’additif Eco One.",
       "chartAlt": "Produits sans Eco One comparés aux produits ëkcos contenant l’additif",
-      "chartCaption": "Produits sans Eco One comparés aux produits ëkcos contenant l’additif."
+      "chartCaption": "Produits sans Eco One comparés aux produits ëkcos contenant l’additif.",
+      "chart": {
+        "ariaLabel": "Comparaison des années de dégradation en décharge",
+        "withoutLabel": "Produits sans Eco One",
+        "withLabel": "ëkcos avec Eco One",
+        "withoutValue": "300–1 000 ans",
+        "withValue": "3,5–5 ans",
+        "withoutDetail": "Sans additif de biodégradation, le plastique conventionnel peut rester en décharge pendant des siècles.",
+        "withDetail": "Avec l’additif Eco One, des tests indépendants montrent ~93 % de biodégradation en environ 3,5 ans, et jusqu’à 99 % en cinq ans.",
+        "axisLabel": "Années avant dégradation (décharge)",
+        "caption": "Produits sans Eco One comparés aux produits ëkcos contenant l’additif.",
+        "scaleLabel": "Échelle du graphique",
+        "scaleFull": "0–1 000 ans",
+        "scaleZoom": "0–10 ans",
+        "clippedNote": "continue →"
+      }
     },
     "solution": {
       "title": "Notre solution : l’additif Eco One",

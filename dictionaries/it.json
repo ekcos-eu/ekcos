@@ -196,7 +196,22 @@
       "title": "Perché la plastica ordinaria è un problema",
       "body": "I prodotti in plastica ordinaria sono progettati per durare. Senza un additivo di biodegradazione, un prodotto in plastica inviato in discarica può rimanervi da 300 a 1.000 anni; i clog in schiuma stile «Crocs» sono un esempio familiare di plastica non biodegradabile. I nostri prodotti sono realizzati nello stesso tipo di plastica durevole (EVA) — ma con una differenza decisiva: l’additivo Eco One.",
       "chartAlt": "Prodotti senza Eco One confrontati con prodotti ëkcos contenenti l’additivo",
-      "chartCaption": "Prodotti senza Eco One confrontati con prodotti ëkcos contenenti l’additivo."
+      "chartCaption": "Prodotti senza Eco One confrontati con prodotti ëkcos contenenti l’additivo.",
+      "chart": {
+        "ariaLabel": "Confronto degli anni di degradazione in discarica",
+        "withoutLabel": "Prodotti senza Eco One",
+        "withLabel": "ëkcos con Eco One",
+        "withoutValue": "300–1.000 anni",
+        "withValue": "3,5–5 anni",
+        "withoutDetail": "Senza un additivo di biodegradazione, la plastica convenzionale può rimanere in discarica per secoli.",
+        "withDetail": "Con l’additivo Eco One, test indipendenti mostrano ~93 % di biodegradazione in circa 3,5 anni, e fino al 99 % entro cinque anni.",
+        "axisLabel": "Anni per degradarsi (discarica)",
+        "caption": "Prodotti senza Eco One confrontati con prodotti ëkcos contenenti l’additivo.",
+        "scaleLabel": "Scala del grafico",
+        "scaleFull": "0–1.000 anni",
+        "scaleZoom": "0–10 anni",
+        "clippedNote": "continua →"
+      }
     },
     "solution": {
       "title": "La nostra soluzione: l’additivo Eco One",
