@@ -34,7 +34,7 @@ export async function EcoOneView() {
           <p className="mt-5 text-xl font-medium leading-snug text-[#0F68B2] text-balance sm:text-2xl">
             {t('hero.tagline')}
           </p>
-          <p className="mt-6 text-base leading-relaxed text-[#575756]/88 text-pretty sm:text-lg">
+          <p className="mt-6 text-base leading-relaxed text-[#575756]/88 text-justify sm:text-lg">
             {t('hero.body')}
           </p>
         </FadeIn>
@@ -56,10 +56,10 @@ export async function EcoOneView() {
       <article className="mx-auto max-w-3xl px-4 py-14 sm:px-6 sm:py-16 lg:py-20">
         <FadeIn>
           <section>
-            <h2 className="text-2xl font-bold tracking-tight text-[#575756] text-balance sm:text-3xl">
+            <h2 className="text-2xl font-bold tracking-tight text-[#0F68B2] text-balance sm:text-3xl">
               {t('problem.title')}
             </h2>
-            <p className="mt-5 text-base leading-relaxed text-[#575756]/88 text-pretty sm:text-lg">
+            <p className="mt-5 text-base leading-relaxed text-[#575756]/88 text-justify sm:text-lg">
               {t('problem.body')}
             </p>
             <ComparisonChart className="mt-8" />
@@ -68,16 +68,16 @@ export async function EcoOneView() {
 
         <FadeIn delay={0.08}>
           <section className="mt-14 border-t border-black/[0.06] pt-14 sm:mt-16 sm:pt-16">
-            <h2 className="text-2xl font-bold tracking-tight text-[#575756] text-balance sm:text-3xl">
+            <h2 className="text-2xl font-bold tracking-tight text-[#0F68B2] text-balance sm:text-3xl">
               {t('solution.title')}
             </h2>
-            <p className="mt-5 text-base leading-relaxed text-[#575756]/88 text-pretty sm:text-lg">
+            <p className="mt-5 text-base leading-relaxed text-[#575756]/88 text-justify sm:text-lg">
               {t('solution.body1')}
             </p>
-            <p className="mt-4 text-base leading-relaxed text-[#575756]/88 text-pretty sm:text-lg">
+            <p className="mt-4 text-base leading-relaxed text-[#575756]/88 text-justify sm:text-lg">
               {t('solution.body2')}
             </p>
-            <p className="mt-4 text-base leading-relaxed text-[#575756]/88 text-pretty sm:text-lg">
+            <p className="mt-4 text-base leading-relaxed text-[#575756]/88 text-justify sm:text-lg">
               {t('solution.body3')}
             </p>
           </section>
@@ -85,10 +85,10 @@ export async function EcoOneView() {
 
         <FadeIn delay={0.1}>
           <section className="mt-14 border-t border-black/[0.06] pt-14 sm:mt-16 sm:pt-16">
-            <h2 className="text-2xl font-bold tracking-tight text-[#575756] text-balance sm:text-3xl">
+            <h2 className="text-2xl font-bold tracking-tight text-[#0F68B2] text-balance sm:text-3xl">
               {t('testing.title')}
             </h2>
-            <p className="mt-5 text-base leading-relaxed text-[#575756]/88 text-pretty sm:text-lg">
+            <p className="mt-5 text-base leading-relaxed text-[#575756]/88 text-justify sm:text-lg">
               {t('testing.body')}
             </p>
           </section>
@@ -97,7 +97,7 @@ export async function EcoOneView() {
         <FadeIn delay={0.12}>
           <section className="mt-14 rounded-2xl bg-[#0F68B2] px-6 py-10 text-white sm:mt-16 sm:px-10 sm:py-12">
             <h2 className="text-2xl font-bold tracking-tight text-balance sm:text-3xl">{t('closing.title')}</h2>
-            <p className="mt-4 text-base leading-relaxed text-white/90 text-pretty sm:text-lg">{t('closing.body')}</p>
+            <p className="mt-4 text-base leading-relaxed text-white/90 text-justify sm:text-lg">{t('closing.body')}</p>
             <div className="mt-8">
               <Button asChild size="lg" className="bg-white text-[#0F68B2] hover:bg-white/90">
                 <a href={SHOP_BASE_URL} target="_blank" rel="noopener noreferrer">

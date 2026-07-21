@@ -7,7 +7,7 @@ import {linkifyProductChildren} from '@/lib/article-product-links'
 const components: PortableTextComponents = {
   block: {
     normal: ({children}) => (
-      <p className="mt-4 text-base leading-relaxed text-[#575756]/90 first:mt-0">
+      <p className="mt-4 text-base leading-relaxed text-[#575756]/90 text-justify first:mt-0">
         {linkifyProductChildren(children)}
       </p>
     ),

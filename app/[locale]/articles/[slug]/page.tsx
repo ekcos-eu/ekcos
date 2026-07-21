@@ -93,7 +93,7 @@ export default async function ArticlePage({params}: {params: PageParams}) {
               <h2 className="text-2xl font-bold tracking-tight text-balance sm:text-3xl">
                 {t('shopCta.title')}
               </h2>
-              <p className="mt-4 text-base leading-relaxed text-white/90 text-pretty sm:text-lg">
+              <p className="mt-4 text-base leading-relaxed text-white/90 text-justify sm:text-lg">
                 {t('shopCta.body')}
               </p>
               <div className="mt-8">
