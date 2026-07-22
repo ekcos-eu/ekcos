@@ -1,6 +1,6 @@
 ## Learned User Preferences
 
-- Prefer marketing copy and tone aligned with https://eshop.ekcos.eu
+- Prefer marketing copy, tone, and typography aligned with https://eshop.ekcos.eu (Shopify content pages should match eshop text sizing, not smaller marketing-site type)
 - Bathroom hotspot clicks should open an on-page overlay (not navigate away); emphasize the blue product variant, briefly mention other colors/scents, and include a clear CTA to the eshop
 - Bathroom map should keep correct aspect ratio, cover the full viewport (edge-to-edge, top-to-bottom), stay stable on window resize with hotspots aligned to the image, avoid instructional UI chrome, and not show a vertical scrollbar
 - Collapse the site header into the mobile menu earlier (around `lg`) so nav does not overflow
@@ -25,4 +25,5 @@
 - Interactive bathroom UX was patterned after the flora-interactive map approach (pan/hotspots), adapted as an overlay-first experience
 - Standalone contact page was removed; site no longer exposes a Contact nav item
 - Site footer includes copyright and is omitted on the homepage so the bathroom map can stay full-viewport
-- Custom Branding lives on Shopify (`shopify/` theme assets → `https://eshop.ekcos.eu/pages/custom-branding`); Next.js `/{locale}/custom-branding` redirects there; inquiry form targets `support@ekcos.eu`
+- Custom Branding lives on Shopify (`shopify/` → `https://eshop.ekcos.eu/pages/custom-branding`); Next.js `/{locale}/custom-branding` redirects there; inquiry form targets `support@ekcos.eu` with per-product quantities and blue 3B thumbnails; do not publish MOQ/pricing/quantity tables (keep Commercial terms and Good to know); Shopify content pages should be localized for all shop languages
+- B2B & VAT Guide lives on Shopify (`shopify/` → `https://eshop.ekcos.eu/pages/b2b-vat-guide`)

@@ -1,0 +1,525 @@
+{% comment %}
+  B2B & 0% VAT Guide page for ëkcos Shopify store.
+  Assign this section via the page.b2b-vat-guide template.
+{% endcomment %}
+
+{% assign vat_lang = localization.language.iso_code | default: request.locale | default: 'en' | slice: 0, 2 %}
+
+{% assign vat_eyebrow = 'B2B checkout help' %}
+{% assign vat_title = 'B2B & 0% VAT Guide' %}
+{% assign vat_lead = 'How to purchase as a business and apply VAT exemption' %}
+{% assign vat_intro = 'Are you buying for a company within the European Union? Here is a step-by-step guide on how to automatically claim your 0% VAT (Reverse Charge) during checkout.' %}
+{% assign vat_step_1_title = '1. Enter your shipping and billing information' %}
+{% assign vat_step_1_body = 'When you proceed to checkout from your shopping cart, first fill in your standard contact and delivery details.' %}
+{% assign vat_step_2_title = '2. Fill in your company name and VAT ID' %}
+{% assign vat_step_2_body = 'To trigger the VAT validation system, fill in the company details fields carefully.' %}
+{% assign vat_step_2_item_1 = 'Your official Company Name.' %}
+{% assign vat_step_2_item_2 = 'Your valid EU VAT ID including the country prefix, for example DE123456789, FR123456789, or IT123456789.' %}
+{% assign vat_step_3_title = '3. Automatic VIES verification and 0% VAT application' %}
+{% assign vat_step_3_body = 'Our system automatically verifies your VAT ID in real time through the official EU VIES database. If your VAT ID is active for cross-border transactions, the total amount is recalculated immediately and the VAT rate drops to 0%.' %}
+{% assign vat_notice_title = 'Notice: Bank transfer / wire transfer available' %}
+{% assign vat_notice_body = 'Need to pay via invoice or standard bank transfer? You can select Bank Deposit / Wire Transfer as your payment method during checkout. Once your order is placed, you will receive our bank details and payment instructions automatically.' %}
+{% assign vat_support_title = 'Need help?' %}
+{% assign vat_support_body = 'If you are not sure whether your VAT ID is eligible, or if you need help with a B2B order, contact our team and we will guide you through the process.' %}
+{% assign vat_support_button = 'Contact support' %}
+
+{% case vat_lang %}
+  {% when 'cs' %}
+    {% assign vat_eyebrow = 'B2B nákupní průvodce' %}
+    {% assign vat_title = 'B2B & 0% VAT Guide' %}
+    {% assign vat_lead = 'Jak nakoupit jako firma a uplatnit osvobození od DPH' %}
+    {% assign vat_intro = 'Nakupujete za firmu v rámci Evropské unie? Tady je jednoduchý postup, jak při checkoutu automaticky uplatnit 0% DPH v režimu reverse charge.' %}
+    {% assign vat_step_1_title = '1. Vyplňte dodací a fakturační údaje' %}
+    {% assign vat_step_1_body = 'Při přechodu do checkoutu z košíku nejprve vyplňte standardní kontaktní a doručovací údaje.' %}
+    {% assign vat_step_2_title = '2. Vyplňte název firmy a VAT ID' %}
+    {% assign vat_step_2_body = 'Aby se spustilo ověření DPH, vyplňte pečlivě firemní údaje.' %}
+    {% assign vat_step_2_item_1 = 'Oficiální název vaší společnosti.' %}
+    {% assign vat_step_2_item_2 = 'Platné EU VAT ID včetně prefixu země, například DE123456789, FR123456789 nebo IT123456789.' %}
+    {% assign vat_step_3_title = '3. Automatické ověření přes VIES a uplatnění 0% DPH' %}
+    {% assign vat_step_3_body = 'Náš systém automaticky ověří vaše VAT ID v reálném čase přes oficiální databázi EU VIES. Pokud je VAT ID aktivní pro přeshraniční transakce, celková částka se ihned přepočítá a sazba DPH klesne na 0 %.' %}
+    {% assign vat_notice_title = 'Poznámka: k dispozici je i bankovní převod' %}
+    {% assign vat_notice_body = 'Potřebujete platit na fakturu nebo běžným bankovním převodem? V checkoutu můžete zvolit Bank Deposit / Wire Transfer. Po dokončení objednávky vám automaticky pošleme platební údaje i instrukce.' %}
+    {% assign vat_support_title = 'Potřebujete pomoct?' %}
+    {% assign vat_support_body = 'Pokud si nejste jistí, zda lze vaše VAT ID použít, nebo potřebujete pomoc s B2B objednávkou, kontaktujte náš tým a provedeme vás celým procesem.' %}
+    {% assign vat_support_button = 'Kontaktovat podporu' %}
+  {% when 'de' %}
+    {% assign vat_eyebrow = 'B2B-Kaufhilfe' %}
+    {% assign vat_title = 'B2B & 0% VAT Guide' %}
+    {% assign vat_lead = 'So kaufen Sie als Unternehmen ein und nutzen die Umsatzsteuerbefreiung' %}
+    {% assign vat_intro = 'Kaufen Sie für ein Unternehmen innerhalb der Europäischen Union ein? Hier finden Sie eine einfache Schritt-für-Schritt-Anleitung, wie Sie beim Checkout automatisch 0 % MwSt. im Reverse-Charge-Verfahren erhalten.' %}
+    {% assign vat_step_1_title = '1. Liefer- und Rechnungsdaten eingeben' %}
+    {% assign vat_step_1_body = 'Wenn Sie aus dem Warenkorb zum Checkout gehen, tragen Sie zuerst Ihre üblichen Kontakt- und Lieferdaten ein.' %}
+    {% assign vat_step_2_title = '2. Firmenname und USt-IdNr. eingeben' %}
+    {% assign vat_step_2_body = 'Damit die MwSt.-Prüfung ausgelöst wird, füllen Sie die Firmenangaben sorgfältig aus.' %}
+    {% assign vat_step_2_item_1 = 'Ihr offizieller Firmenname.' %}
+    {% assign vat_step_2_item_2 = 'Ihre gültige EU-USt-IdNr. inklusive Länderpräfix, z. B. DE123456789, FR123456789 oder IT123456789.' %}
+    {% assign vat_step_3_title = '3. Automatische VIES-Prüfung und 0 % MwSt.' %}
+    {% assign vat_step_3_body = 'Unser System prüft Ihre USt-IdNr. in Echtzeit über die offizielle EU-Datenbank VIES. Ist Ihre USt-IdNr. für grenzüberschreitende Transaktionen aktiv, wird der Gesamtbetrag sofort neu berechnet und die MwSt. auf 0 % gesetzt.' %}
+    {% assign vat_notice_title = 'Hinweis: Banküberweisung verfügbar' %}
+    {% assign vat_notice_body = 'Möchten Sie per Rechnung oder klassischer Banküberweisung zahlen? Wählen Sie im Checkout Bank Deposit / Wire Transfer. Nach Abschluss der Bestellung erhalten Sie automatisch unsere Bankdaten und Zahlungsanweisungen.' %}
+    {% assign vat_support_title = 'Brauchen Sie Hilfe?' %}
+    {% assign vat_support_body = 'Wenn Sie nicht sicher sind, ob Ihre USt-IdNr. berechtigt ist, oder wenn Sie Hilfe bei einer B2B-Bestellung benötigen, unterstützt Sie unser Team gern.' %}
+    {% assign vat_support_button = 'Support kontaktieren' %}
+  {% when 'fr' %}
+    {% assign vat_eyebrow = 'Aide achat B2B' %}
+    {% assign vat_title = 'B2B & 0% VAT Guide' %}
+    {% assign vat_lead = 'Comment acheter en tant qu’entreprise et appliquer l’exonération de TVA' %}
+    {% assign vat_intro = 'Vous achetez pour une entreprise au sein de l’Union européenne ? Voici un guide simple étape par étape pour appliquer automatiquement la TVA à 0 % en autoliquidation lors du checkout.' %}
+    {% assign vat_step_1_title = '1. Saisissez vos informations de livraison et de facturation' %}
+    {% assign vat_step_1_body = 'Lorsque vous passez du panier au checkout, commencez par remplir vos coordonnées et informations de livraison habituelles.' %}
+    {% assign vat_step_2_title = '2. Saisissez le nom de l’entreprise et le numéro de TVA' %}
+    {% assign vat_step_2_body = 'Pour déclencher la validation TVA, remplissez soigneusement les champs d’informations entreprise.' %}
+    {% assign vat_step_2_item_1 = 'Le nom officiel de votre société.' %}
+    {% assign vat_step_2_item_2 = 'Votre numéro de TVA intracommunautaire valide avec le préfixe pays, par exemple DE123456789, FR123456789 ou IT123456789.' %}
+    {% assign vat_step_3_title = '3. Vérification automatique VIES et application de la TVA à 0 %' %}
+    {% assign vat_step_3_body = 'Notre système vérifie automatiquement votre numéro de TVA en temps réel via la base officielle européenne VIES. Si votre numéro est actif pour les transactions transfrontalières, le montant total est immédiatement recalculé et le taux de TVA tombe à 0 %.' %}
+    {% assign vat_notice_title = 'Note : virement bancaire disponible' %}
+    {% assign vat_notice_body = 'Vous devez payer par facture ou par virement bancaire classique ? Vous pouvez sélectionner Bank Deposit / Wire Transfer au checkout. Une fois la commande passée, vous recevrez automatiquement nos coordonnées bancaires et les instructions de paiement.' %}
+    {% assign vat_support_title = 'Besoin d’aide ?' %}
+    {% assign vat_support_body = 'Si vous n’êtes pas certain que votre numéro de TVA est éligible, ou si vous avez besoin d’aide pour une commande B2B, contactez notre équipe et nous vous guiderons.' %}
+    {% assign vat_support_button = 'Contacter le support' %}
+  {% when 'es' %}
+    {% assign vat_eyebrow = 'Ayuda compra B2B' %}
+    {% assign vat_title = 'B2B & 0% VAT Guide' %}
+    {% assign vat_lead = 'Cómo comprar como empresa y aplicar la exención de IVA' %}
+    {% assign vat_intro = '¿Compra para una empresa dentro de la Unión Europea? Aquí tiene una guía sencilla paso a paso para aplicar automáticamente el 0 % de IVA con reverse charge durante el checkout.' %}
+    {% assign vat_step_1_title = '1. Introduzca los datos de envío y facturación' %}
+    {% assign vat_step_1_body = 'Cuando pase del carrito al checkout, primero rellene sus datos habituales de contacto y entrega.' %}
+    {% assign vat_step_2_title = '2. Introduzca el nombre de la empresa y el VAT ID' %}
+    {% assign vat_step_2_body = 'Para activar la validación del IVA, complete cuidadosamente los campos de empresa.' %}
+    {% assign vat_step_2_item_1 = 'El nombre oficial de su empresa.' %}
+    {% assign vat_step_2_item_2 = 'Su VAT ID válido de la UE con prefijo del país, por ejemplo DE123456789, FR123456789 o IT123456789.' %}
+    {% assign vat_step_3_title = '3. Verificación automática en VIES y aplicación del 0 % de IVA' %}
+    {% assign vat_step_3_body = 'Nuestro sistema verifica automáticamente su VAT ID en tiempo real mediante la base oficial VIES de la UE. Si el VAT ID está activo para transacciones transfronterizas, el importe total se recalcula al instante y el IVA baja al 0 %.' %}
+    {% assign vat_notice_title = 'Aviso: transferencia bancaria disponible' %}
+    {% assign vat_notice_body = '¿Necesita pagar por factura o transferencia bancaria estándar? Puede seleccionar Bank Deposit / Wire Transfer durante el checkout. Una vez realizado el pedido, recibirá automáticamente nuestros datos bancarios e instrucciones de pago.' %}
+    {% assign vat_support_title = '¿Necesita ayuda?' %}
+    {% assign vat_support_body = 'Si no está seguro de si su VAT ID es válido o necesita ayuda con un pedido B2B, contacte con nuestro equipo y le guiaremos durante el proceso.' %}
+    {% assign vat_support_button = 'Contactar soporte' %}
+  {% when 'it' %}
+    {% assign vat_eyebrow = 'Supporto acquisto B2B' %}
+    {% assign vat_title = 'B2B & 0% VAT Guide' %}
+    {% assign vat_lead = 'Come acquistare come azienda e applicare l’esenzione IVA' %}
+    {% assign vat_intro = 'Stai acquistando per un’azienda all’interno dell’Unione Europea? Ecco una guida semplice passo dopo passo per applicare automaticamente l’IVA allo 0 % in reverse charge durante il checkout.' %}
+    {% assign vat_step_1_title = '1. Inserisci i dati di spedizione e fatturazione' %}
+    {% assign vat_step_1_body = 'Quando passi dal carrello al checkout, inserisci prima i normali dati di contatto e consegna.' %}
+    {% assign vat_step_2_title = '2. Inserisci nome azienda e partita IVA' %}
+    {% assign vat_step_2_body = 'Per attivare la validazione IVA, compila con attenzione i campi aziendali.' %}
+    {% assign vat_step_2_item_1 = 'La ragione sociale ufficiale della tua azienda.' %}
+    {% assign vat_step_2_item_2 = 'La tua partita IVA UE valida con prefisso paese, ad esempio DE123456789, FR123456789 o IT123456789.' %}
+    {% assign vat_step_3_title = '3. Verifica automatica VIES e applicazione IVA 0 %' %}
+    {% assign vat_step_3_body = 'Il nostro sistema verifica automaticamente la tua partita IVA in tempo reale tramite il database ufficiale europeo VIES. Se la partita IVA è attiva per transazioni transfrontaliere, il totale viene ricalcolato subito e l’IVA scende allo 0 %.' %}
+    {% assign vat_notice_title = 'Nota: bonifico bancario disponibile' %}
+    {% assign vat_notice_body = 'Hai bisogno di pagare tramite fattura o bonifico standard? Puoi selezionare Bank Deposit / Wire Transfer durante il checkout. Una volta effettuato l’ordine, riceverai automaticamente le nostre coordinate bancarie e le istruzioni di pagamento.' %}
+    {% assign vat_support_title = 'Hai bisogno di aiuto?' %}
+    {% assign vat_support_body = 'Se non sei sicuro che la tua partita IVA sia idonea, oppure hai bisogno di aiuto per un ordine B2B, contatta il nostro team e ti guideremo nel processo.' %}
+    {% assign vat_support_button = 'Contatta il supporto' %}
+{% endcase %}
+
+<section class="vat-guide" aria-labelledby="vat-guide-title">
+  <div class="vat-guide__hero">
+    <div class="vat-guide__wrap">
+      <p class="vat-guide__eyebrow">{{ vat_eyebrow }}</p>
+      <h1 class="vat-guide__title" id="vat-guide-title">{{ vat_title }}</h1>
+      <p class="vat-guide__lead">{{ vat_lead }}</p>
+      <p class="vat-guide__intro">{{ vat_intro }}</p>
+    </div>
+  </div>
+
+  <div class="vat-guide__wrap vat-guide__section">
+    <div class="vat-guide__steps">
+      <article class="vat-guide__step">
+        <div class="vat-guide__step-copy">
+          <span class="vat-guide__step-kicker">01</span>
+          <h2 class="vat-guide__step-title">{{ vat_step_1_title }}</h2>
+          <p class="vat-guide__step-body">{{ vat_step_1_body }}</p>
+        </div>
+        <figure class="vat-guide__step-media">
+          <img
+            src="{{ 'vat-guide-step-1.png' | asset_url }}"
+            alt="{{ vat_step_1_title }}"
+            width="971"
+            height="1024"
+            loading="lazy"
+          >
+        </figure>
+      </article>
+
+      <article class="vat-guide__step">
+        <div class="vat-guide__step-copy">
+          <span class="vat-guide__step-kicker">02</span>
+          <h2 class="vat-guide__step-title">{{ vat_step_2_title }}</h2>
+          <p class="vat-guide__step-body">{{ vat_step_2_body }}</p>
+          <ul class="vat-guide__list">
+            <li>{{ vat_step_2_item_1 }}</li>
+            <li>{{ vat_step_2_item_2 }}</li>
+          </ul>
+        </div>
+        <figure class="vat-guide__step-media">
+          <img
+            src="{{ 'vat-guide-step-2.png' | asset_url }}"
+            alt="{{ vat_step_2_title }}"
+            width="971"
+            height="1024"
+            loading="lazy"
+          >
+        </figure>
+      </article>
+
+      <article class="vat-guide__step">
+        <div class="vat-guide__step-copy">
+          <span class="vat-guide__step-kicker">03</span>
+          <h2 class="vat-guide__step-title">{{ vat_step_3_title }}</h2>
+          <p class="vat-guide__step-body">{{ vat_step_3_body }}</p>
+        </div>
+        <figure class="vat-guide__step-media">
+          <img
+            src="{{ 'vat-guide-step-3.png' | asset_url }}"
+            alt="{{ vat_step_3_title }}"
+            width="971"
+            height="1024"
+            loading="lazy"
+          >
+        </figure>
+      </article>
+    </div>
+  </div>
+
+  <div class="vat-guide__band">
+    <div class="vat-guide__wrap vat-guide__section">
+      <div class="vat-guide__notice">
+        <div>
+          <p class="vat-guide__notice-kicker">B2B</p>
+          <h2 class="vat-guide__notice-title">{{ vat_notice_title }}</h2>
+          <p class="vat-guide__notice-body">{{ vat_notice_body }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="vat-guide__wrap vat-guide__section">
+    <div class="vat-guide__support">
+      <h2 class="vat-guide__support-title">{{ vat_support_title }}</h2>
+      <p class="vat-guide__support-body">{{ vat_support_body }}</p>
+      <a class="vat-guide__button" href="mailto:support@ekcos.eu">{{ vat_support_button }}</a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .vat-guide {
+    --vat-blue: #0F68B2;
+    --vat-ink: #1a1a1a;
+    --vat-body: #2c2c2c;
+    --vat-muted: #555555;
+    --vat-line: #e5e5e5;
+    --vat-soft: #f5f8fb;
+    --vat-white: #ffffff;
+    color: var(--vat-body);
+    background: var(--vat-white);
+    font-family: var(--font-body-family, inherit);
+    font-style: var(--font-body-style, normal);
+    font-weight: var(--font-body-weight, 400);
+    font-size: 1.6rem;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .vat-guide *,
+  .vat-guide *::before,
+  .vat-guide *::after {
+    box-sizing: border-box;
+  }
+
+  .vat-guide__wrap {
+    width: min(1100px, calc(100% - 3rem));
+    margin-inline: auto;
+  }
+
+  .vat-guide__hero {
+    background:
+      radial-gradient(120% 80% at 50% -20%, rgba(15, 104, 178, 0.14), transparent 55%),
+      linear-gradient(180deg, #eef5fb 0%, #ffffff 78%);
+    padding: 6rem 0 4.5rem;
+    text-align: center;
+  }
+
+  .vat-guide__eyebrow {
+    margin: 0;
+    font-family: var(--font-heading-family, inherit);
+    font-size: 1.3rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--vat-blue);
+  }
+
+  .vat-guide__title {
+    margin: 1.2rem 0 0;
+    font-family: var(--font-heading-family, inherit);
+    font-style: var(--font-heading-style, normal);
+    font-weight: var(--font-heading-weight, 700);
+    font-size: 3.6rem;
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+    color: var(--vat-ink);
+    text-wrap: balance;
+  }
+
+  .vat-guide__lead {
+    margin: 1.6rem auto 0;
+    max-width: 72rem;
+    font-family: var(--font-heading-family, inherit);
+    font-size: 2.4rem;
+    font-weight: 700;
+    line-height: 1.3;
+    color: var(--vat-blue);
+    text-wrap: balance;
+  }
+
+  .vat-guide__intro {
+    margin: 1.8rem auto 0;
+    max-width: 76rem;
+    font-size: 1.7rem;
+    line-height: 1.7;
+    color: var(--vat-body);
+    text-align: left;
+  }
+
+  .vat-guide__section {
+    padding: 5.5rem 0;
+  }
+
+  .vat-guide__steps {
+    display: grid;
+    gap: 3rem;
+  }
+
+  .vat-guide__step {
+    display: grid;
+    gap: 2.4rem;
+    align-items: start;
+    border: 0.1rem solid var(--vat-line);
+    background: var(--vat-white);
+    padding: 2.6rem;
+  }
+
+  .vat-guide__step-copy {
+    max-width: 48rem;
+  }
+
+  .vat-guide__step-kicker {
+    display: inline-block;
+    margin-bottom: 1.4rem;
+    font-family: var(--font-heading-family, inherit);
+    font-size: 1.2rem;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--vat-blue);
+  }
+
+  .vat-guide__step-title {
+    margin: 0;
+    font-family: var(--font-heading-family, inherit);
+    font-style: var(--font-heading-style, normal);
+    font-weight: var(--font-heading-weight, 700);
+    font-size: 2.4rem;
+    line-height: 1.25;
+    color: var(--vat-ink);
+  }
+
+  .vat-guide__step-body {
+    margin: 1.2rem 0 0;
+    font-size: 1.7rem;
+    line-height: 1.65;
+    color: var(--vat-body);
+  }
+
+  .vat-guide__step-media {
+    margin: 0;
+    border: 0.1rem solid var(--vat-line);
+    background: #f8fafc;
+    overflow: hidden;
+  }
+
+  .vat-guide__step-media img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .vat-guide__list {
+    margin: 1.4rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .vat-guide__list li {
+    position: relative;
+    margin-top: 0.9rem;
+    padding-left: 1.6rem;
+    font-size: 1.6rem;
+    line-height: 1.65;
+    color: var(--vat-body);
+  }
+
+  .vat-guide__list li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.7em;
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 999px;
+    background: var(--vat-blue);
+  }
+
+  .vat-guide__band {
+    background: var(--vat-soft);
+  }
+
+  .vat-guide__notice {
+    border: 0.1rem solid rgba(15, 104, 178, 0.18);
+    background: var(--vat-white);
+    padding: 2.8rem;
+    box-shadow: inset 0 0 0 0.1rem rgba(15, 104, 178, 0.04);
+  }
+
+  .vat-guide__notice-kicker {
+    margin: 0 0 1rem;
+    font-family: var(--font-heading-family, inherit);
+    font-size: 1.2rem;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--vat-blue);
+  }
+
+  .vat-guide__notice-title {
+    margin: 0;
+    font-family: var(--font-heading-family, inherit);
+    font-style: var(--font-heading-style, normal);
+    font-weight: var(--font-heading-weight, 700);
+    font-size: 2.6rem;
+    line-height: 1.25;
+    color: var(--vat-ink);
+  }
+
+  .vat-guide__notice-body {
+    margin: 1.3rem 0 0;
+    font-size: 1.7rem;
+    line-height: 1.7;
+    color: var(--vat-body);
+  }
+
+  .vat-guide__support {
+    max-width: 72rem;
+  }
+
+  .vat-guide__support-title {
+    margin: 0;
+    display: inline-block;
+    padding-bottom: 0.5rem;
+    border-bottom: 0.3rem solid var(--vat-blue);
+    font-family: var(--font-heading-family, inherit);
+    font-style: var(--font-heading-style, normal);
+    font-weight: var(--font-heading-weight, 700);
+    font-size: 3rem;
+    line-height: 1.2;
+    color: var(--vat-ink);
+  }
+
+  .vat-guide__support-body {
+    margin: 1.4rem 0 0;
+    font-size: 1.7rem;
+    line-height: 1.7;
+    color: var(--vat-body);
+  }
+
+  .vat-guide__button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 5rem;
+    margin-top: 2rem;
+    padding: 1.2rem 2.8rem;
+    border: 0.1rem solid transparent;
+    background: var(--vat-blue);
+    color: #fff;
+    font-family: var(--font-button-family, inherit);
+    font-size: 1.4rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: background 0.15s ease;
+  }
+
+  .vat-guide__button:hover {
+    background: #0c5796;
+  }
+
+  @media screen and (min-width: 750px) {
+    .vat-guide__title {
+      font-size: 4.8rem;
+    }
+
+    .vat-guide__lead {
+      font-size: 2.8rem;
+    }
+
+    .vat-guide__step {
+      grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.05fr);
+      gap: 3rem;
+      padding: 3rem;
+    }
+  }
+
+  @media (max-width: 860px) {
+    .vat-guide__wrap {
+      width: min(1100px, calc(100% - 2rem));
+    }
+
+    .vat-guide__hero {
+      padding: 4.5rem 0 3rem;
+    }
+
+    .vat-guide__section {
+      padding: 4rem 0;
+    }
+
+    .vat-guide__title {
+      font-size: 3.2rem;
+    }
+
+    .vat-guide__lead {
+      font-size: 2.2rem;
+    }
+
+    .vat-guide__step,
+    .vat-guide__notice {
+      padding: 2rem;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .vat-guide__button {
+      transition: none;
+    }
+  }
+</style>
+
+{% schema %}
+{
+  "name": "B2B & VAT Guide",
+  "tag": "section",
+  "class": "section-b2b-vat-guide",
+  "settings": [],
+  "presets": [
+    {
+      "name": "B2B & VAT Guide"
+    }
+  ]
+}
+{% endschema %}

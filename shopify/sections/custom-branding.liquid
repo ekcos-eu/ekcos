@@ -5,93 +5,439 @@
   (set to support@ekcos.eu in Settings → Notifications / Customer email).
 {% endcomment %}
 
+{% assign cb_lang = localization.language.iso_code | default: request.locale | default: 'en' | slice: 0, 2 %}
+{% assign cb_eyebrow = section.settings.eyebrow %}
+{% assign cb_title = section.settings.title %}
+{% assign cb_lead = section.settings.lead %}
+{% assign cb_intro = section.settings.intro %}
+{% assign cb_cta_label = section.settings.cta_label %}
+{% assign cb_why_title = section.settings.why_title %}
+{% assign cb_why_1_title = section.settings.why_1_title %}
+{% assign cb_why_1_body = section.settings.why_1_body %}
+{% assign cb_why_2_title = section.settings.why_2_title %}
+{% assign cb_why_2_body = section.settings.why_2_body %}
+{% assign cb_why_3_title = section.settings.why_3_title %}
+{% assign cb_why_3_body = section.settings.why_3_body %}
+{% assign cb_ways_title = section.settings.ways_title %}
+{% assign cb_way_print_title = section.settings.way_print_title %}
+{% assign cb_way_print_body = section.settings.way_print_body %}
+{% assign cb_way_cutout_title = section.settings.way_cutout_title %}
+{% assign cb_way_cutout_body = section.settings.way_cutout_body %}
+{% assign cb_beyond_title = section.settings.beyond_title %}
+{% assign cb_beyond_pack_title = section.settings.beyond_pack_title %}
+{% assign cb_beyond_pack_body = section.settings.beyond_pack_body %}
+{% assign cb_beyond_mix_title = section.settings.beyond_mix_title %}
+{% assign cb_beyond_mix_body = section.settings.beyond_mix_body %}
+{% assign cb_pricing_title = section.settings.pricing_title %}
+{% assign cb_pricing_desc = section.settings.pricing_desc %}
+{% assign cb_form_title = section.settings.form_title %}
+{% assign cb_form_desc = section.settings.form_desc %}
+{% assign cb_label_name = section.settings.label_name %}
+{% assign cb_label_company = section.settings.label_company %}
+{% assign cb_label_email = section.settings.label_email %}
+{% assign cb_label_phone = section.settings.label_phone %}
+{% assign cb_label_products = section.settings.label_products %}
+{% assign cb_products_hint = section.settings.products_hint %}
+{% assign cb_label_quantity = section.settings.label_quantity %}
+{% assign cb_label_message = section.settings.label_message %}
+{% assign cb_submit_label = section.settings.submit_label %}
+{% assign cb_form_success = section.settings.form_success %}
+{% assign cb_card_1_title = 'One-time entry fee' %}
+{% assign cb_card_1_item_1 = 'Option A: Logo cut-out — one-time fee of 350 EUR per product (mold inserts).' %}
+{% assign cb_card_1_item_2 = 'Option B: Print — one-time fee of 120 EUR per product (printing plates).' %}
+{% assign cb_card_2_title = 'Branding cost' %}
+{% assign cb_card_2_item_1 = 'Option A: Logo cut-out is free of charge after paying the entry fee.' %}
+{% assign cb_card_2_item_2 = 'Option B: Logo print is charged at +0.02 EUR per piece. Exception: Fresh Drop and EZ Trap are free of charge.' %}
+{% assign cb_card_3_title = 'Custom labels on packaging' %}
+{% assign cb_card_3_item_1 = 'B&W labels on boxes and master cases: free of charge.' %}
+{% assign cb_card_3_item_2 = 'Color labels: +0.02 EUR per product piece.' %}
+{% assign cb_card_3_item_3 = 'Additional labels on cellophane bags: B&W +0.02 EUR, color +0.06 EUR per bag.' %}
+{% assign cb_card_3_item_4 = 'Labels can include logo, address, product names, descriptions, EAN codes, and related data.' %}
+{% assign cb_good_title = 'Good to know' %}
+{% assign cb_good_1 = 'The minimum order quantity depends on the specific product you choose.' %}
+{% assign cb_good_2 = 'A one-time set-up fee applies for each product you wish to brand — it covers the tooling and preparation needed to reproduce your branding.' %}
+{% assign cb_good_3 = 'All branded products are made to order, to your specification.' %}
+{% assign cb_good_4 = 'We share the exact minimum quantities, pricing and lead times together with your quote, once we understand your specific requirements.' %}
+{% assign cb_good_5 = 'Production takes place in Mexico; products are delivered to the European hub in the Czech Republic.' %}
+{% assign cb_good_6 = 'Typical production and delivery time is 6 to 10 weeks.' %}
+{% assign cb_good_7 = 'All customized products must be paid 100% in advance.' %}
+{% assign cb_alert_select = 'Please enter a quantity for at least one product. You do not need to order every product.' %}
+
+{% case cb_lang %}
+  {% when 'cs' %}
+    {% assign cb_eyebrow = 'B2B specifikace' %}
+    {% assign cb_title = 'Vlastní branding' %}
+    {% assign cb_lead = 'Umístěte své logo na produkty, které používáte' %}
+    {% assign cb_intro = 'Udělejte z našich produktů vlastní. Pomocí custom brandingu personalizujeme naše osvědčené washroom produkty vaším logem, aby každý detail odrážel vaši firmu. Ideální pro restaurace, hotely, facility a úklidové firmy, kanceláře i řetězce, které chtějí konzistentní profesionální dojem na všech svých pobočkách. Stačí nám vaše logo — o zbytek se postaráme my.' %}
+    {% assign cb_cta_label = 'Poptat řešení' %}
+    {% assign cb_why_title = 'Proč zvolit vlastní branding' %}
+    {% assign cb_why_1_title = 'Osvědčené produkty' %}
+    {% assign cb_why_1_body = 'Každý produkt je výsledkem intenzivního vývoje a je navržen pro spolehlivý výkon. Vaše logo tak bude na produktu, který už funguje.' %}
+    {% assign cb_why_2_title = 'Jednoduchý proces' %}
+    {% assign cb_why_2_body = 'K přípravě personalizovaných produktů potřebujeme jen vaše logo a celý proces držíme co nejjednodušší.' %}
+    {% assign cb_why_3_title = 'Podpora po celou dobu' %}
+    {% assign cb_why_3_body = 'Náš tým vás provede celým procesem od prvního nápadu až po dodání.' %}
+    {% assign cb_ways_title = 'Dva způsoby brandingu produktů' %}
+    {% assign cb_way_print_title = 'Potisk' %}
+    {% assign cb_way_print_body = 'Vaše logo vytištěné přímo na produktu.' %}
+    {% assign cb_way_cutout_title = 'Výřez loga' %}
+    {% assign cb_way_cutout_body = 'Vaše logo integrované přímo do materiálu jako unikátní výřez — prémiové řešení, které žádný jiný výrobce nenabízí.' %}
+    {% assign cb_beyond_title = 'Úpravy i mimo samotný produkt' %}
+    {% assign cb_beyond_pack_title = 'Balení a etikety' %}
+    {% assign cb_beyond_pack_body = 'Přidejte logo, firemní údaje, názvy produktů, popisy, EAN kódy a další informace na krabice, master boxy nebo jednotlivé sáčky.' %}
+    {% assign cb_beyond_mix_title = 'Barva a vůně' %}
+    {% assign cb_beyond_mix_body = 'Vytvořte si vlastní kombinaci barvy a vůně z našeho sortimentu.' %}
+    {% assign cb_pricing_title = 'Obchodní podmínky' %}
+    {% assign cb_pricing_desc = 'Zveřejněné poplatky: jednorázové zavedení, cena brandingu za kus a volitelné etikety na obalu.' %}
+    {% assign cb_card_1_title = 'Jednorázový vstupní poplatek' %}
+    {% assign cb_card_1_item_1 = 'Varianta A: Výřez loga — jednorázový poplatek 350 EUR za produkt (vložky do formy).' %}
+    {% assign cb_card_1_item_2 = 'Varianta B: Potisk — jednorázový poplatek 120 EUR za produkt (tiskové štočky).' %}
+    {% assign cb_card_2_title = 'Cena brandingu' %}
+    {% assign cb_card_2_item_1 = 'Varianta A: Výřez loga je po uhrazení vstupního poplatku zdarma.' %}
+    {% assign cb_card_2_item_2 = 'Varianta B: Potisk je účtován +0,02 EUR za kus. Výjimka: Fresh Drop a EZ Trap jsou zdarma.' %}
+    {% assign cb_card_3_title = 'Vlastní etikety na balení' %}
+    {% assign cb_card_3_item_1 = 'Černobílé etikety na krabicích a master boxech: zdarma.' %}
+    {% assign cb_card_3_item_2 = 'Barevné etikety: +0,02 EUR za kus.' %}
+    {% assign cb_card_3_item_3 = 'Další etikety na celofánových sáčcích: černobílé +0,02 EUR, barevné +0,06 EUR za sáček.' %}
+    {% assign cb_card_3_item_4 = 'Etikety mohou obsahovat logo, adresu, názvy produktů, popisy, EAN kódy a související údaje.' %}
+    {% assign cb_good_title = 'Dobré vědět' %}
+    {% assign cb_good_1 = 'Minimální objednací množství závisí na konkrétním produktu, který si vyberete.' %}
+    {% assign cb_good_2 = 'U každého produktu s brandingem se účtuje jednorázový setup fee, který pokrývá nástroje a přípravu potřebnou pro reprodukci vašeho brandingu.' %}
+    {% assign cb_good_3 = 'Všechny brandované produkty vyrábíme na zakázku podle vaší specifikace.' %}
+    {% assign cb_good_4 = 'Přesná minimální množství, ceny a dodací lhůty sdílíme v nabídce poté, co pochopíme vaše konkrétní požadavky.' %}
+    {% assign cb_good_5 = 'Výroba probíhá v Mexiku; produkty se dodávají do evropského hubu v České republice.' %}
+    {% assign cb_good_6 = 'Typická doba výroby a dodání je 6 až 10 týdnů.' %}
+    {% assign cb_good_7 = 'Všechny produkty na zakázku musí být uhrazeny 100 % předem.' %}
+    {% assign cb_form_title = 'Máte zájem?' %}
+    {% assign cb_form_desc = 'Pošlete nám svou poptávku a jeden z našich obchodních zástupců vás bude přímo kontaktovat kvůli detailům.' %}
+    {% assign cb_label_name = 'Jméno' %}
+    {% assign cb_label_company = 'Název firmy' %}
+    {% assign cb_label_email = 'E-mail' %}
+    {% assign cb_label_phone = 'Telefon' %}
+    {% assign cb_label_products = 'Produkty pro vlastní branding' %}
+    {% assign cb_products_hint = 'Zadejte množství jen u produktů, které chcete brandovat. Nemusíte vyplnit všechny položky — detaily doladíme po poptávce.' %}
+    {% assign cb_label_quantity = 'Množství (ks)' %}
+    {% assign cb_label_message = 'Zpráva' %}
+    {% assign cb_submit_label = 'Odeslat zprávu' %}
+    {% assign cb_form_success = 'Děkujeme — brzy se vám ozveme.' %}
+    {% assign cb_alert_select = 'Zadejte prosím množství alespoň u jednoho produktu. Nemusíte objednávat všechny produkty.' %}
+  {% when 'de' %}
+    {% assign cb_eyebrow = 'B2B-Spezifikation' %}
+    {% assign cb_title = 'Individuelles Branding' %}
+    {% assign cb_lead = 'Bringen Sie Ihr Logo auf die Produkte, die Sie verwenden' %}
+    {% assign cb_intro = 'Machen Sie unsere Produkte zu Ihren eigenen. Mit individuellem Branding personalisieren wir unsere bewährten Waschraumprodukte mit Ihrem Logo, damit jedes Detail Ihr Unternehmen widerspiegelt. Ideal für Restaurants, Hotels, Facility- und Reinigungsunternehmen, Büros und Ketten mit dem Wunsch nach einem einheitlichen professionellen Eindruck an allen Standorten. Alles, was wir brauchen, ist Ihr Logo — wir kümmern uns um den Rest.' %}
+    {% assign cb_cta_label = 'Anfrage senden' %}
+    {% assign cb_why_title = 'Warum individuelles Branding' %}
+    {% assign cb_why_1_body = 'Jedes Produkt ist das Ergebnis intensiver Entwicklung und auf zuverlässige Leistung ausgelegt. Ihr Logo kommt auf ein Produkt, das bereits funktioniert.' %}
+    {% assign cb_why_1_title = 'Bewährte Produkte' %}
+    {% assign cb_why_2_body = 'Für Ihre personalisierten Produkte brauchen wir nur Ihr Logo, und wir halten jeden Schritt so einfach wie möglich.' %}
+    {% assign cb_why_2_title = 'Einfacher Prozess' %}
+    {% assign cb_why_3_body = 'Unser Team begleitet Sie durch den gesamten Prozess, von der ersten Idee bis zur Lieferung.' %}
+    {% assign cb_why_3_title = 'Begleitung von Anfang bis Ende' %}
+    {% assign cb_ways_title = 'Zwei Wege zur Produktkennzeichnung' %}
+    {% assign cb_way_print_title = 'Bedruckung' %}
+    {% assign cb_way_print_body = 'Ihr Logo direkt auf das Produkt gedruckt.' %}
+    {% assign cb_way_cutout_title = 'Logo-Ausschnitt' %}
+    {% assign cb_way_cutout_body = 'Ihr Logo direkt in das Material integriert als einzigartiger Ausschnitt — eine hochwertige Ausführung, die kein anderer Hersteller bietet.' %}
+    {% assign cb_beyond_title = 'Mehr als nur das Produkt' %}
+    {% assign cb_beyond_pack_title = 'Verpackung und Etiketten' %}
+    {% assign cb_beyond_pack_body = 'Fügen Sie Ihr Logo, Firmendaten, Produktnamen, Beschreibungen, EAN-Codes und mehr auf Kartons, Masterkartons oder einzelne Produktbeutel hinzu.' %}
+    {% assign cb_beyond_mix_title = 'Farbe und Duft' %}
+    {% assign cb_beyond_mix_body = 'Stellen Sie Ihre eigene Kombination aus Farbe und Duft aus unserem Sortiment zusammen.' %}
+    {% assign cb_pricing_title = 'Commercial terms' %}
+    {% assign cb_pricing_desc = 'Veröffentlichte Gebühren: einmalige Einrichtung, Branding pro Stück und optionale Etiketten auf der Verpackung.' %}
+    {% assign cb_card_1_title = 'Einmalige Einrichtungsgebühr' %}
+    {% assign cb_card_1_item_1 = 'Option A: Logo-Ausschnitt — einmalige Gebühr von 350 EUR pro Produkt (Formeinsätze).' %}
+    {% assign cb_card_1_item_2 = 'Option B: Druck — einmalige Gebühr von 120 EUR pro Produkt (Druckplatten).' %}
+    {% assign cb_card_2_title = 'Branding-Kosten' %}
+    {% assign cb_card_2_item_1 = 'Option A: Der Logo-Ausschnitt ist nach Zahlung der Einrichtungsgebühr kostenlos.' %}
+    {% assign cb_card_2_item_2 = 'Option B: Logodruck wird mit +0,02 EUR pro Stück berechnet. Ausnahme: Fresh Drop und EZ Trap sind kostenlos.' %}
+    {% assign cb_card_3_title = 'Individuelle Etiketten auf der Verpackung' %}
+    {% assign cb_card_3_item_1 = 'Schwarz-weiße Etiketten auf Kartons und Masterkartons: kostenlos.' %}
+    {% assign cb_card_3_item_2 = 'Farbige Etiketten: +0,02 EUR pro Stück.' %}
+    {% assign cb_card_3_item_3 = 'Zusätzliche Etiketten auf Zellophanbeuteln: schwarz-weiß +0,02 EUR, farbig +0,06 EUR pro Beutel.' %}
+    {% assign cb_card_3_item_4 = 'Etiketten können Logo, Adresse, Produktnamen, Beschreibungen, EAN-Codes und verwandte Daten enthalten.' %}
+    {% assign cb_good_title = 'Gut zu wissen' %}
+    {% assign cb_good_1 = 'Die Mindestbestellmenge hängt vom gewählten Produkt ab.' %}
+    {% assign cb_good_2 = 'Für jedes gebrandete Produkt fällt eine einmalige Einrichtungsgebühr an, die Werkzeug und Vorbereitung für die Umsetzung Ihres Brandings abdeckt.' %}
+    {% assign cb_good_3 = 'Alle gebrandeten Produkte werden nach Ihren Vorgaben auf Bestellung gefertigt.' %}
+    {% assign cb_good_4 = 'Die genauen Mindestmengen, Preise und Lieferzeiten teilen wir mit Ihrem Angebot mit, sobald wir Ihre Anforderungen kennen.' %}
+    {% assign cb_good_5 = 'Die Produktion erfolgt in Mexiko; die Produkte werden an das europäische Hub in Tschechien geliefert.' %}
+    {% assign cb_good_6 = 'Die übliche Produktions- und Lieferzeit beträgt 6 bis 10 Wochen.' %}
+    {% assign cb_good_7 = 'Alle individualisierten Produkte müssen zu 100 % im Voraus bezahlt werden.' %}
+    {% assign cb_form_title = 'Interessiert?' %}
+    {% assign cb_form_desc = 'Senden Sie uns Ihre konkrete Anfrage und einer unserer Vertriebsmitarbeiter meldet sich direkt bei Ihnen, um die Details zu besprechen.' %}
+    {% assign cb_label_name = 'Name' %}
+    {% assign cb_label_company = 'Firmenname' %}
+    {% assign cb_label_email = 'E-Mail' %}
+    {% assign cb_label_phone = 'Telefon' %}
+    {% assign cb_label_products = 'Produkte für individuelles Branding' %}
+    {% assign cb_products_hint = 'Geben Sie nur bei den Produkten eine Menge an, die Sie branden möchten. Sie müssen nicht jedes Produkt ausfüllen — die Details klären wir nach Ihrer Anfrage.' %}
+    {% assign cb_label_quantity = 'Menge (Stk.)' %}
+    {% assign cb_label_message = 'Nachricht' %}
+    {% assign cb_submit_label = 'Nachricht senden' %}
+    {% assign cb_form_success = 'Vielen Dank — wir melden uns in Kürze bei Ihnen.' %}
+    {% assign cb_alert_select = 'Bitte geben Sie bei mindestens einem Produkt eine Menge ein. Sie müssen nicht alle Produkte bestellen.' %}
+  {% when 'fr' %}
+    {% assign cb_eyebrow = 'Spécification B2B' %}
+    {% assign cb_title = 'Marque personnalisée' %}
+    {% assign cb_lead = 'Ajoutez votre logo sur les produits que vous utilisez' %}
+    {% assign cb_intro = 'Faites de nos produits les vôtres. Avec la marque personnalisée, nous personnalisons nos produits washroom éprouvés avec votre logo pour que chaque détail reflète votre entreprise. Idéal pour les restaurants, hôtels, sociétés de facility et de nettoyage, bureaux et chaînes qui souhaitent une image cohérente et professionnelle sur tous leurs sites. Il nous suffit de votre logo — nous nous occupons du reste.' %}
+    {% assign cb_cta_label = 'Demander un devis' %}
+    {% assign cb_why_title = 'Pourquoi choisir la marque personnalisée' %}
+    {% assign cb_why_1_title = 'Produits éprouvés' %}
+    {% assign cb_why_1_body = 'Chaque article est le résultat d’un développement intensif et conçu pour une performance fiable. Votre logo est apposé sur un produit qui fonctionne déjà.' %}
+    {% assign cb_why_2_title = 'Un processus simple' %}
+    {% assign cb_why_2_body = 'Nous n’avons besoin que de votre logo pour préparer vos produits personnalisés, et nous gardons chaque étape simple.' %}
+    {% assign cb_why_3_title = 'Un accompagnement complet' %}
+    {% assign cb_why_3_body = 'Notre équipe vous guide tout au long du processus, de la première idée jusqu’à la livraison.' %}
+    {% assign cb_ways_title = 'Deux façons de personnaliser nos produits' %}
+    {% assign cb_way_print_title = 'Branding imprimé' %}
+    {% assign cb_way_print_body = 'Votre logo imprimé directement sur le produit.' %}
+    {% assign cb_way_cutout_title = 'Découpe logo' %}
+    {% assign cb_way_cutout_body = 'Votre logo intégré directement dans la matière sous forme de découpe unique — une finition premium qu’aucun autre fabricant ne propose.' %}
+    {% assign cb_beyond_title = 'Personnalisez au-delà du produit' %}
+    {% assign cb_beyond_pack_title = 'Packaging et étiquettes' %}
+    {% assign cb_beyond_pack_body = 'Ajoutez votre logo, les coordonnées de votre entreprise, les noms des produits, descriptions, codes EAN et plus encore sur les boîtes, cartons maîtres ou sachets individuels.' %}
+    {% assign cb_beyond_mix_title = 'Couleur et parfum' %}
+    {% assign cb_beyond_mix_body = 'Créez votre propre combinaison de couleur et de parfum parmi notre gamme.' %}
+    {% assign cb_pricing_title = 'Commercial terms' %}
+    {% assign cb_pricing_desc = 'Tarifs publiés : mise en place unique, branding à l’unité et étiquettes optionnelles sur l’emballage.' %}
+    {% assign cb_card_1_title = 'Frais d’entrée uniques' %}
+    {% assign cb_card_1_item_1 = 'Option A : découpe du logo — frais uniques de 350 EUR par produit (inserts de moule).' %}
+    {% assign cb_card_1_item_2 = 'Option B : impression — frais uniques de 120 EUR par produit (plaques d’impression).' %}
+    {% assign cb_card_2_title = 'Coût du branding' %}
+    {% assign cb_card_2_item_1 = 'Option A : la découpe du logo est gratuite après paiement des frais d’entrée.' %}
+    {% assign cb_card_2_item_2 = 'Option B : l’impression du logo est facturée +0,02 EUR par pièce. Exception : Fresh Drop et EZ Trap sont gratuits.' %}
+    {% assign cb_card_3_title = 'Étiquettes personnalisées sur l’emballage' %}
+    {% assign cb_card_3_item_1 = 'Étiquettes noir et blanc sur les boîtes et cartons maîtres : gratuites.' %}
+    {% assign cb_card_3_item_2 = 'Étiquettes couleur : +0,02 EUR par pièce.' %}
+    {% assign cb_card_3_item_3 = 'Étiquettes supplémentaires sur sachets cellophane : noir et blanc +0,02 EUR, couleur +0,06 EUR par sachet.' %}
+    {% assign cb_card_3_item_4 = 'Les étiquettes peuvent inclure le logo, l’adresse, les noms de produits, descriptions, codes EAN et données associées.' %}
+    {% assign cb_good_title = 'Bon à savoir' %}
+    {% assign cb_good_1 = 'La quantité minimale dépend du produit choisi.' %}
+    {% assign cb_good_2 = 'Des frais de mise en place uniques s’appliquent à chaque produit que vous souhaitez personnaliser — ils couvrent l’outillage et la préparation nécessaires.' %}
+    {% assign cb_good_3 = 'Tous les produits personnalisés sont fabriqués à la commande selon vos spécifications.' %}
+    {% assign cb_good_4 = 'Nous partageons les quantités minimales exactes, les prix et les délais avec votre devis une fois vos besoins compris.' %}
+    {% assign cb_good_5 = 'La production a lieu au Mexique ; les produits sont livrés au hub européen en République tchèque.' %}
+    {% assign cb_good_6 = 'Le délai habituel de production et de livraison est de 6 à 10 semaines.' %}
+    {% assign cb_good_7 = 'Tous les produits personnalisés doivent être payés à 100 % d’avance.' %}
+    {% assign cb_form_title = 'Intéressé ?' %}
+    {% assign cb_form_desc = 'Envoyez-nous votre demande précise et l’un de nos représentants commerciaux vous contactera directement pour discuter des détails.' %}
+    {% assign cb_label_name = 'Nom' %}
+    {% assign cb_label_company = 'Nom de l’entreprise' %}
+    {% assign cb_label_email = 'E-mail' %}
+    {% assign cb_label_phone = 'Téléphone' %}
+    {% assign cb_label_products = 'Produits pour marque personnalisée' %}
+    {% assign cb_products_hint = 'Saisissez une quantité uniquement pour les produits que vous souhaitez personnaliser. Vous n’avez pas besoin de tout remplir — nous préciserons les détails après votre demande.' %}
+    {% assign cb_label_quantity = 'Qté (pcs)' %}
+    {% assign cb_label_message = 'Message' %}
+    {% assign cb_submit_label = 'Envoyer le message' %}
+    {% assign cb_form_success = 'Merci — nous reviendrons vers vous rapidement.' %}
+    {% assign cb_alert_select = 'Veuillez saisir une quantité pour au moins un produit. Vous n’avez pas besoin de commander tous les produits.' %}
+  {% when 'es' %}
+    {% assign cb_eyebrow = 'Especificación B2B' %}
+    {% assign cb_title = 'Marca personalizada' %}
+    {% assign cb_lead = 'Ponga su logotipo en los productos que utiliza' %}
+    {% assign cb_intro = 'Haga nuestros productos suyos. Con la marca personalizada personalizamos nuestros productos washroom probados con su logotipo para que cada detalle refleje su empresa. Ideal para restaurantes, hoteles, empresas de facility y limpieza, oficinas y cadenas que quieren una imagen coherente y profesional en todas sus ubicaciones. Solo necesitamos su logotipo — nosotros nos ocupamos del resto.' %}
+    {% assign cb_cta_label = 'Solicitar presupuesto' %}
+    {% assign cb_why_title = 'Por qué elegir la marca personalizada' %}
+    {% assign cb_why_1_title = 'Productos probados' %}
+    {% assign cb_why_1_body = 'Cada artículo es el resultado de un desarrollo intensivo y está diseñado para un rendimiento fiable. Su logotipo irá en un producto que ya funciona.' %}
+    {% assign cb_why_2_title = 'Un proceso sencillo' %}
+    {% assign cb_why_2_body = 'Solo necesitamos su logotipo para preparar sus productos personalizados y mantenemos cada paso simple.' %}
+    {% assign cb_why_3_title = 'Acompañamiento total' %}
+    {% assign cb_why_3_body = 'Nuestro equipo le guía durante todo el proceso, desde la primera idea hasta la entrega.' %}
+    {% assign cb_ways_title = 'Dos maneras de personalizar nuestros productos' %}
+    {% assign cb_way_print_title = 'Branding impreso' %}
+    {% assign cb_way_print_body = 'Su logotipo impreso directamente sobre el producto.' %}
+    {% assign cb_way_cutout_title = 'Recorte del logotipo' %}
+    {% assign cb_way_cutout_body = 'Su logotipo integrado en el propio material como un recorte único — un acabado premium que ningún otro fabricante ofrece.' %}
+    {% assign cb_beyond_title = 'Personalice más allá del producto' %}
+    {% assign cb_beyond_pack_title = 'Packaging y etiquetas' %}
+    {% assign cb_beyond_pack_body = 'Añada su logotipo, datos de la empresa, nombres de productos, descripciones, códigos EAN y más en cajas, master cases o bolsas individuales.' %}
+    {% assign cb_beyond_mix_title = 'Color y fragancia' %}
+    {% assign cb_beyond_mix_body = 'Cree su propia combinación de color y aroma a partir de nuestra gama.' %}
+    {% assign cb_pricing_title = 'Commercial terms' %}
+    {% assign cb_pricing_desc = 'Tarifas publicadas: puesta en marcha única, branding por unidad y etiquetas opcionales en el envase.' %}
+    {% assign cb_card_1_title = 'Cuota inicial única' %}
+    {% assign cb_card_1_item_1 = 'Opción A: recorte del logotipo — cuota única de 350 EUR por producto (insertos de molde).' %}
+    {% assign cb_card_1_item_2 = 'Opción B: impresión — cuota única de 120 EUR por producto (placas de impresión).' %}
+    {% assign cb_card_2_title = 'Coste del branding' %}
+    {% assign cb_card_2_item_1 = 'Opción A: el recorte del logotipo es gratuito tras pagar la cuota inicial.' %}
+    {% assign cb_card_2_item_2 = 'Opción B: la impresión del logotipo se cobra a +0,02 EUR por unidad. Excepción: Fresh Drop y EZ Trap son gratuitos.' %}
+    {% assign cb_card_3_title = 'Etiquetas personalizadas en el embalaje' %}
+    {% assign cb_card_3_item_1 = 'Etiquetas en blanco y negro en cajas y master cases: gratis.' %}
+    {% assign cb_card_3_item_2 = 'Etiquetas a color: +0,02 EUR por unidad.' %}
+    {% assign cb_card_3_item_3 = 'Etiquetas adicionales en bolsas de celofán: blanco y negro +0,02 EUR, color +0,06 EUR por bolsa.' %}
+    {% assign cb_card_3_item_4 = 'Las etiquetas pueden incluir logotipo, dirección, nombres de producto, descripciones, códigos EAN y datos relacionados.' %}
+    {% assign cb_good_title = 'Bueno saber' %}
+    {% assign cb_good_1 = 'La cantidad mínima depende del producto específico que elija.' %}
+    {% assign cb_good_2 = 'Se aplica una tarifa única de preparación a cada producto que quiera personalizar — cubre el utillaje y la preparación necesarios.' %}
+    {% assign cb_good_3 = 'Todos los productos personalizados se fabrican bajo pedido, según su especificación.' %}
+    {% assign cb_good_4 = 'Compartimos las cantidades mínimas exactas, precios y plazos junto con su oferta una vez entendamos sus requisitos.' %}
+    {% assign cb_good_5 = 'La producción se realiza en México; los productos se entregan al hub europeo en la República Checa.' %}
+    {% assign cb_good_6 = 'El plazo habitual de producción y entrega es de 6 a 10 semanas.' %}
+    {% assign cb_good_7 = 'Todos los productos personalizados deben pagarse al 100 % por adelantado.' %}
+    {% assign cb_form_title = '¿Interesado?' %}
+    {% assign cb_form_desc = 'Envíenos su solicitud específica y uno de nuestros representantes comerciales se pondrá en contacto directamente para comentar los detalles.' %}
+    {% assign cb_label_name = 'Nombre' %}
+    {% assign cb_label_company = 'Nombre de la empresa' %}
+    {% assign cb_label_email = 'Correo electrónico' %}
+    {% assign cb_label_phone = 'Teléfono' %}
+    {% assign cb_label_products = 'Productos para marca personalizada' %}
+    {% assign cb_products_hint = 'Introduzca cantidad solo en los productos que quiera personalizar. No necesita rellenar todos — concretaremos los detalles después de su consulta.' %}
+    {% assign cb_label_quantity = 'Cant. (pcs)' %}
+    {% assign cb_label_message = 'Mensaje' %}
+    {% assign cb_submit_label = 'Enviar mensaje' %}
+    {% assign cb_form_success = 'Gracias — nos pondremos en contacto con usted en breve.' %}
+    {% assign cb_alert_select = 'Introduzca una cantidad en al menos un producto. No necesita pedir todos los productos.' %}
+  {% when 'it' %}
+    {% assign cb_eyebrow = 'Specifica B2B' %}
+    {% assign cb_title = 'Branding personalizzato' %}
+    {% assign cb_lead = 'Metti il tuo logo sui prodotti che usi' %}
+    {% assign cb_intro = 'Rendi nostri i prodotti davvero tuoi. Con il branding personalizzato personalizziamo i nostri collaudati prodotti washroom con il tuo logo, così ogni dettaglio riflette la tua azienda. Ideale per ristoranti, hotel, aziende di facility e cleaning, uffici e catene che vogliono un’immagine coerente e professionale in tutte le sedi. A noi basta il tuo logo — al resto pensiamo noi.' %}
+    {% assign cb_cta_label = 'Richiedi un preventivo' %}
+    {% assign cb_why_title = 'Perché scegliere il branding personalizzato' %}
+    {% assign cb_why_1_title = 'Prodotti collaudati' %}
+    {% assign cb_why_1_body = 'Ogni articolo è il risultato di uno sviluppo intensivo ed è progettato per prestazioni affidabili. Il tuo logo sarà applicato su un prodotto che funziona già.' %}
+    {% assign cb_why_2_title = 'Un processo semplice' %}
+    {% assign cb_why_2_body = 'Per preparare i tuoi prodotti personalizzati ci serve solo il tuo logo e manteniamo ogni passaggio semplice.' %}
+    {% assign cb_why_3_title = 'Supporto completo' %}
+    {% assign cb_why_3_body = 'Il nostro team ti segue durante tutto il processo, dalla prima idea fino alla consegna.' %}
+    {% assign cb_ways_title = 'Due modi per personalizzare i nostri prodotti' %}
+    {% assign cb_way_print_title = 'Branding stampato' %}
+    {% assign cb_way_print_body = 'Il tuo logo stampato direttamente sul prodotto.' %}
+    {% assign cb_way_cutout_title = 'Intaglio del logo' %}
+    {% assign cb_way_cutout_body = 'Il tuo logo integrato nel materiale stesso come intaglio unico — una finitura premium che nessun altro produttore offre.' %}
+    {% assign cb_beyond_title = 'Personalizza oltre il prodotto' %}
+    {% assign cb_beyond_pack_title = 'Packaging ed etichette' %}
+    {% assign cb_beyond_pack_body = 'Aggiungi logo, dati aziendali, nomi prodotto, descrizioni, codici EAN e altro su scatole, master case o sacchetti singoli.' %}
+    {% assign cb_beyond_mix_title = 'Colore e fragranza' %}
+    {% assign cb_beyond_mix_body = 'Crea una combinazione esclusiva di colore e profumo dalla nostra gamma.' %}
+    {% assign cb_pricing_title = 'Commercial terms' %}
+    {% assign cb_pricing_desc = 'Tariffe pubblicate: avvio una tantum, branding a unità ed etichette opzionali sul packaging.' %}
+    {% assign cb_card_1_title = 'Costo iniziale una tantum' %}
+    {% assign cb_card_1_item_1 = 'Opzione A: intaglio del logo — costo una tantum di 350 EUR per prodotto (inserti stampo).' %}
+    {% assign cb_card_1_item_2 = 'Opzione B: stampa — costo una tantum di 120 EUR per prodotto (lastre di stampa).' %}
+    {% assign cb_card_2_title = 'Costo del branding' %}
+    {% assign cb_card_2_item_1 = 'Opzione A: l’intaglio del logo è gratuito dopo il pagamento del costo iniziale.' %}
+    {% assign cb_card_2_item_2 = 'Opzione B: la stampa del logo costa +0,02 EUR per pezzo. Eccezione: Fresh Drop ed EZ Trap sono gratuiti.' %}
+    {% assign cb_card_3_title = 'Etichette personalizzate sul packaging' %}
+    {% assign cb_card_3_item_1 = 'Etichette in bianco e nero su scatole e master case: gratuite.' %}
+    {% assign cb_card_3_item_2 = 'Etichette a colori: +0,02 EUR per pezzo.' %}
+    {% assign cb_card_3_item_3 = 'Etichette aggiuntive su sacchetti in cellophane: bianco e nero +0,02 EUR, colore +0,06 EUR per sacchetto.' %}
+    {% assign cb_card_3_item_4 = 'Le etichette possono includere logo, indirizzo, nomi prodotto, descrizioni, codici EAN e dati correlati.' %}
+    {% assign cb_good_title = 'Buono a sapersi' %}
+    {% assign cb_good_1 = 'La quantità minima dipende dal prodotto specifico che scegli.' %}
+    {% assign cb_good_2 = 'Per ogni prodotto brandizzato si applica un costo di set-up una tantum, che copre attrezzature e preparazione necessarie per riprodurre il tuo branding.' %}
+    {% assign cb_good_3 = 'Tutti i prodotti brandizzati sono realizzati su ordinazione, secondo le tue specifiche.' %}
+    {% assign cb_good_4 = 'Condivideremo quantità minime esatte, prezzi e tempi di consegna insieme al preventivo, una volta compresi i tuoi requisiti.' %}
+    {% assign cb_good_5 = 'La produzione avviene in Messico; i prodotti vengono consegnati all’hub europeo nella Repubblica Ceca.' %}
+    {% assign cb_good_6 = 'Il tempo tipico di produzione e consegna è di 6-10 settimane.' %}
+    {% assign cb_good_7 = 'Tutti i prodotti personalizzati devono essere pagati al 100 % in anticipo.' %}
+    {% assign cb_form_title = 'Interessato?' %}
+    {% assign cb_form_desc = 'Inviaci la tua richiesta specifica e uno dei nostri commerciali ti contatterà direttamente per discutere i dettagli.' %}
+    {% assign cb_label_name = 'Nome' %}
+    {% assign cb_label_company = 'Nome dell’azienda' %}
+    {% assign cb_label_email = 'Email' %}
+    {% assign cb_label_phone = 'Telefono' %}
+    {% assign cb_label_products = 'Prodotti per branding personalizzato' %}
+    {% assign cb_products_hint = 'Inserisci la quantità solo per i prodotti che vuoi brandizzare. Non devi compilare tutto — definiremo i dettagli dopo la richiesta.' %}
+    {% assign cb_label_quantity = 'Qta (pz)' %}
+    {% assign cb_label_message = 'Messaggio' %}
+    {% assign cb_submit_label = 'Invia messaggio' %}
+    {% assign cb_form_success = 'Grazie — ti ricontatteremo a breve.' %}
+    {% assign cb_alert_select = 'Inserisci una quantità per almeno un prodotto. Non è necessario ordinare tutti i prodotti.' %}
+{% endcase %}
+
 <section class="cb" id="custom-branding" aria-labelledby="cb-hero-title">
   <div class="cb__hero">
     <div class="cb__wrap cb__hero-inner">
-      <p class="cb__eyebrow">{{ section.settings.eyebrow }}</p>
-      <h1 class="cb__title" id="cb-hero-title">{{ section.settings.title }}</h1>
-      <p class="cb__lead">{{ section.settings.lead }}</p>
-      <p class="cb__intro">{{ section.settings.intro }}</p>
+      <p class="cb__eyebrow">{{ cb_eyebrow }}</p>
+      <h1 class="cb__title" id="cb-hero-title">{{ cb_title }}</h1>
+      <p class="cb__lead">{{ cb_lead }}</p>
+      <p class="cb__intro">{{ cb_intro }}</p>
       <div class="cb__hero-actions">
-        <a class="cb__btn cb__btn--primary" href="#inquiry">{{ section.settings.cta_label }}</a>
+        <a class="cb__btn cb__btn--primary" href="#inquiry">{{ cb_cta_label }}</a>
       </div>
     </div>
   </div>
 
   <div class="cb__wrap cb__section">
-    <h2 class="cb__h2">{{ section.settings.why_title }}</h2>
+    <h2 class="cb__h2">{{ cb_why_title }}</h2>
     <div class="cb__grid cb__grid--3">
       <article class="cb__card">
-        <h3 class="cb__h3">{{ section.settings.why_1_title }}</h3>
-        <p>{{ section.settings.why_1_body }}</p>
+        <h3 class="cb__h3">{{ cb_why_1_title }}</h3>
+        <p>{{ cb_why_1_body }}</p>
       </article>
       <article class="cb__card">
-        <h3 class="cb__h3">{{ section.settings.why_2_title }}</h3>
-        <p>{{ section.settings.why_2_body }}</p>
+        <h3 class="cb__h3">{{ cb_why_2_title }}</h3>
+        <p>{{ cb_why_2_body }}</p>
       </article>
       <article class="cb__card">
-        <h3 class="cb__h3">{{ section.settings.why_3_title }}</h3>
-        <p>{{ section.settings.why_3_body }}</p>
+        <h3 class="cb__h3">{{ cb_why_3_title }}</h3>
+        <p>{{ cb_why_3_body }}</p>
       </article>
     </div>
   </div>
 
   <div class="cb__band">
     <div class="cb__wrap cb__section">
-      <h2 class="cb__h2">{{ section.settings.ways_title }}</h2>
+      <h2 class="cb__h2">{{ cb_ways_title }}</h2>
       <div class="cb__grid cb__grid--2">
         <article class="cb__card cb__card--accent">
-          <h3 class="cb__h3">{{ section.settings.way_print_title }}</h3>
-          <p>{{ section.settings.way_print_body }}</p>
+          <h3 class="cb__h3">{{ cb_way_print_title }}</h3>
+          <p>{{ cb_way_print_body }}</p>
         </article>
         <article class="cb__card cb__card--accent">
-          <h3 class="cb__h3">{{ section.settings.way_cutout_title }}</h3>
-          <p>{{ section.settings.way_cutout_body }}</p>
+          <h3 class="cb__h3">{{ cb_way_cutout_title }}</h3>
+          <p>{{ cb_way_cutout_body }}</p>
         </article>
       </div>
     </div>
   </div>
 
   <div class="cb__wrap cb__section">
-    <h2 class="cb__h2">{{ section.settings.beyond_title }}</h2>
+    <h2 class="cb__h2">{{ cb_beyond_title }}</h2>
     <div class="cb__grid cb__grid--2">
       <article class="cb__card">
-        <h3 class="cb__h3">{{ section.settings.beyond_pack_title }}</h3>
-        <p>{{ section.settings.beyond_pack_body }}</p>
+        <h3 class="cb__h3">{{ cb_beyond_pack_title }}</h3>
+        <p>{{ cb_beyond_pack_body }}</p>
       </article>
       <article class="cb__card">
-        <h3 class="cb__h3">{{ section.settings.beyond_mix_title }}</h3>
-        <p>{{ section.settings.beyond_mix_body }}</p>
+        <h3 class="cb__h3">{{ cb_beyond_mix_title }}</h3>
+        <p>{{ cb_beyond_mix_body }}</p>
       </article>
     </div>
   </div>
 
   <div class="cb__band">
     <div class="cb__wrap cb__section">
-      <h2 class="cb__h2">{{ section.settings.pricing_title }}</h2>
-      <p class="cb__section-desc">{{ section.settings.pricing_desc }}</p>
+      <h2 class="cb__h2">{{ cb_pricing_title }}</h2>
+      <p class="cb__section-desc">{{ cb_pricing_desc }}</p>
       <div class="cb__grid cb__grid--3">
         <article class="cb__card cb__card--soft">
-          <h3 class="cb__h3">One-time entry fee</h3>
+          <h3 class="cb__h3">{{ cb_card_1_title }}</h3>
           <ul class="cb__list">
-            <li>Option A: Logo cut-out — one-time fee of <strong>350 EUR</strong> per product (mold inserts).</li>
-            <li>Option B: Print — one-time fee of <strong>120 EUR</strong> per product (printing plates).</li>
+            <li>{{ cb_card_1_item_1 }}</li>
+            <li>{{ cb_card_1_item_2 }}</li>
           </ul>
         </article>
         <article class="cb__card cb__card--soft">
-          <h3 class="cb__h3">Branding cost</h3>
+          <h3 class="cb__h3">{{ cb_card_2_title }}</h3>
           <ul class="cb__list">
-            <li>Option A: Logo cut-out is free of charge after paying the entry fee.</li>
-            <li>Option B: Logo print is charged at <strong>+0.02 EUR</strong> per piece. Exception: Fresh Drop and EZ Trap are free of charge.</li>
+            <li>{{ cb_card_2_item_1 }}</li>
+            <li>{{ cb_card_2_item_2 }}</li>
           </ul>
         </article>
         <article class="cb__card cb__card--soft">
-          <h3 class="cb__h3">Custom labels on packaging</h3>
+          <h3 class="cb__h3">{{ cb_card_3_title }}</h3>
           <ul class="cb__list">
-            <li>B&amp;W labels on boxes and master cases: free of charge.</li>
-            <li>Color labels: <strong>+0.02 EUR</strong> per product piece.</li>
-            <li>Additional labels on cellophane bags: B&amp;W <strong>+0.02 EUR</strong>, color <strong>+0.06 EUR</strong> per bag.</li>
-            <li>Labels can include logo, address, product names, descriptions, EAN codes, and related data.</li>
+            <li>{{ cb_card_3_item_1 }}</li>
+            <li>{{ cb_card_3_item_2 }}</li>
+            <li>{{ cb_card_3_item_3 }}</li>
+            <li>{{ cb_card_3_item_4 }}</li>
           </ul>
         </article>
       </div>
@@ -99,83 +445,27 @@
   </div>
 
   <div class="cb__wrap cb__section">
-    <h2 class="cb__h2">MOQ for standard branding</h2>
-    <p class="cb__section-desc">Minimum order quantities for standard branding with logo cut-outs or printing.</p>
-    <div class="cb__table-wrap">
-      <table class="cb__table">
-        <thead>
-          <tr>
-            <th scope="col">Product</th>
-            <th scope="col">MOQ [pcs]</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr><td>Xcreen HD</td><td>576</td></tr>
-          <tr><td>Ekcoscreen</td><td>576</td></tr>
-          <tr><td>Powerscreen</td><td>1080</td></tr>
-          <tr><td>Basic Screen</td><td>1080</td></tr>
-          <tr><td>Urolite</td><td>1080</td></tr>
-          <tr><td>Ekcoclip</td><td>1080</td></tr>
-          <tr><td>Fresh Drop Locks</td><td>Bases: 144 + Inserts: 288 = 480</td></tr>
-          <tr><td>EZ Trap</td><td>30</td></tr>
-          <tr><td>Xcreen Puck</td><td>720</td></tr>
-          <tr><td>Fresh Drop*</td><td>288 bases only</td></tr>
-        </tbody>
-      </table>
-    </div>
-    <p class="cb__note">* If you would like to order only the Fresh Drop bases, the MOQ is 288 pcs.</p>
-  </div>
-
-  <div class="cb__band">
-    <div class="cb__wrap cb__section">
-      <h2 class="cb__h2">Custom color and fragrance mix</h2>
-      <p class="cb__section-desc">We can produce a custom combination of fragrance and color from our range. Minimum order quantity corresponds to a full pallet of each customized product.</p>
-      <div class="cb__table-wrap">
-        <table class="cb__table">
-          <thead>
-            <tr>
-              <th scope="col">Product</th>
-              <th scope="col">MOQ [pcs]</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr><td>Xcreen HD</td><td>3600</td></tr>
-            <tr><td>Ekcoscreen</td><td>3600</td></tr>
-            <tr><td>Powerscreen</td><td>4320</td></tr>
-            <tr><td>Basic Screen*</td><td>6480</td></tr>
-            <tr><td>Urolite</td><td>6912</td></tr>
-            <tr><td>Ekcoclip</td><td>4320</td></tr>
-            <tr><td>Fresh Drop Inserts</td><td>2592</td></tr>
-            <tr><td>Xcreen Puck</td><td>2592</td></tr>
-          </tbody>
-        </table>
-      </div>
-      <p class="cb__note">* Basic Screen MOQ is for a half pallet.</p>
-    </div>
-  </div>
-
-  <div class="cb__wrap cb__section">
-    <h2 class="cb__h2">Good to know</h2>
+    <h2 class="cb__h2">{{ cb_good_title }}</h2>
     <ul class="cb__bullets">
-      <li>The minimum order quantity depends on the specific product you choose.</li>
-      <li>A one-time set-up fee applies for each product you wish to brand — it covers the tooling and preparation needed to reproduce your branding.</li>
-      <li>All branded products are made to order, to your specification.</li>
-      <li>We share the exact minimum quantities, pricing and lead times together with your quote, once we understand your specific requirements.</li>
-      <li>Production takes place in Mexico; products are delivered to the European hub in the Czech Republic.</li>
-      <li>Typical production and delivery time is <strong>6 to 10 weeks</strong>.</li>
-      <li>All customized products must be paid <strong>100% in advance</strong>.</li>
+      <li>{{ cb_good_1 }}</li>
+      <li>{{ cb_good_2 }}</li>
+      <li>{{ cb_good_3 }}</li>
+      <li>{{ cb_good_4 }}</li>
+      <li>{{ cb_good_5 }}</li>
+      <li>{{ cb_good_6 }}</li>
+      <li>{{ cb_good_7 }}</li>
     </ul>
   </div>
 
   <div class="cb__wrap cb__section" id="inquiry">
-    <h2 class="cb__h2">{{ section.settings.form_title }}</h2>
-    <p class="cb__section-desc">{{ section.settings.form_desc }}</p>
+    <h2 class="cb__h2">{{ cb_form_title }}</h2>
+    <p class="cb__section-desc">{{ cb_form_desc }}</p>
 
     <div class="cb__form-shell">
       {% form 'contact', id: 'custom-branding-form', class: 'cb__form' %}
         {% if form.posted_successfully? %}
           <p class="cb__alert cb__alert--success" role="status">
-            {{ section.settings.form_success }}
+            {{ cb_form_success }}
           </p>
         {% endif %}
 
@@ -189,7 +479,7 @@
 
         <div class="cb__form-grid">
           <div class="cb__field">
-            <label for="cb-name">{{ section.settings.label_name }}</label>
+            <label for="cb-name">{{ cb_label_name }}</label>
             <input
               id="cb-name"
               type="text"
@@ -201,7 +491,7 @@
           </div>
 
           <div class="cb__field">
-            <label for="cb-company">{{ section.settings.label_company }}</label>
+            <label for="cb-company">{{ cb_label_company }}</label>
             <input
               id="cb-company"
               type="text"
@@ -213,7 +503,7 @@
           </div>
 
           <div class="cb__field">
-            <label for="cb-email">{{ section.settings.label_email }}</label>
+            <label for="cb-email">{{ cb_label_email }}</label>
             <input
               id="cb-email"
               type="email"
@@ -225,7 +515,7 @@
           </div>
 
           <div class="cb__field">
-            <label for="cb-phone">{{ section.settings.label_phone }}</label>
+            <label for="cb-phone">{{ cb_label_phone }}</label>
             <input
               id="cb-phone"
               type="tel"
@@ -236,8 +526,8 @@
           </div>
 
           <div class="cb__field cb__field--full">
-            <span class="cb__products-label" id="cb-products-label">{{ section.settings.label_products }}</span>
-            <p class="cb__field-hint">{{ section.settings.products_hint }}</p>
+            <span class="cb__products-label" id="cb-products-label">{{ cb_label_products }}</span>
+            <p class="cb__field-hint">{{ cb_products_hint }}</p>
 
             <div
               class="cb__products"
@@ -245,14 +535,12 @@
               role="group"
               aria-labelledby="cb-products-label"
             >
-              {% comment %} Items separated by ;;  fields: name|image|moq_number|moq_label {% endcomment %}
-              {% assign branding_products = 'Xcreen HD|cb-xcreen-hd.png|576|Min. 576 pcs;;Ekcoscreen|cb-ekcoscreen.png|576|Min. 576 pcs;;Powerscreen|cb-powerscreen.png|1080|Min. 1080 pcs;;Basic Screen|cb-basic-screen.png|1080|Min. 1080 pcs;;Urolite|cb-urolite.png|1080|Min. 1080 pcs;;Ekcoclip|cb-ekcoclip.png|1080|Min. 1080 pcs;;Fresh Drop|cb-fresh-drop.png|288|Min. 288 pcs;;Fresh Drop Locks|cb-fresh-drop-locks.png|480|Min. 480 pcs;;EZ Trap|cb-ez-trap.png|30|Min. 30 pcs;;Xcreen Puck|cb-xcreen-puck.png|720|Min. 720 pcs' | split: ';;' %}
+              {% comment %} Items separated by ;;  fields: name|image {% endcomment %}
+              {% assign branding_products = 'Xcreen HD|cb-xcreen-hd.png;;Ekcoscreen|cb-ekcoscreen.png;;Powerscreen|cb-powerscreen.png;;Basic Screen|cb-basic-screen.png;;Urolite|cb-urolite.png;;Ekcoclip|cb-ekcoclip.png;;Fresh Drop|cb-fresh-drop.png;;Fresh Drop Locks|cb-fresh-drop-locks.png;;EZ Trap|cb-ez-trap.png;;Xcreen Puck|cb-xcreen-puck.png' | split: ';;' %}
               {% for item in branding_products %}
                 {% assign parts = item | split: '|' %}
                 {% assign product_name = parts[0] %}
                 {% assign product_image = parts[1] %}
-                {% assign product_moq = parts[2] %}
-                {% assign product_moq_label = parts[3] %}
                 {% assign product_id = product_name | handleize %}
                 <div class="cb__product-row" data-cb-product-row>
                   <div class="cb__product-info">
@@ -264,14 +552,11 @@
                       height="56"
                       loading="lazy"
                     >
-                    <div class="cb__product-meta">
-                      <span class="cb__product-name">{{ product_name }}</span>
-                      <span class="cb__product-moq">{{ product_moq_label }}</span>
-                    </div>
+                    <span class="cb__product-name">{{ product_name }}</span>
                   </div>
                   <div class="cb__product-qty">
                     <label class="cb__product-qty-label" for="cb-qty-{{ product_id }}">
-                      {{ section.settings.label_quantity }}
+                      {{ cb_label_quantity }}
                     </label>
                     <input
                       id="cb-qty-{{ product_id }}"
@@ -283,7 +568,6 @@
                       placeholder="0"
                       data-cb-product-qty
                       data-product-name="{{ product_name }}"
-                      data-product-moq="{{ product_moq }}"
                     >
                   </div>
                 </div>
@@ -295,7 +579,7 @@
           </div>
 
           <div class="cb__field cb__field--full">
-            <label for="cb-message">{{ section.settings.label_message }}</label>
+            <label for="cb-message">{{ cb_label_message }}</label>
             <textarea
               id="cb-message"
               name="contact[body]"
@@ -306,7 +590,7 @@
         </div>
 
         <button type="submit" class="cb__btn cb__btn--primary cb__btn--submit">
-          {{ section.settings.submit_label }}
+          {{ cb_submit_label }}
         </button>
       {% endform %}
     </div>
@@ -668,30 +952,11 @@
     border: 0.1rem solid var(--cb-line);
   }
 
-  .cb__product-meta {
-    display: flex;
-    flex-direction: column;
-    gap: 0.3rem;
-    min-width: 0;
-  }
-
   .cb__product-name {
     font-size: 1.6rem;
     font-weight: 700;
     color: var(--cb-ink);
     line-height: 1.3;
-  }
-
-  .cb__product-moq {
-    font-size: 1.35rem;
-    font-weight: 600;
-    color: var(--cb-blue);
-    line-height: 1.3;
-  }
-
-  .cb__product-row.is-invalid .cb__product-qty-input {
-    border-color: #b91c1c;
-    box-shadow: 0 0 0 0.2rem rgba(185, 28, 28, 0.15);
   }
 
   .cb__product-qty {
@@ -888,46 +1153,20 @@
         var qty = parseQty(input);
         var row = input.closest('[data-cb-product-row]');
         var name = input.getAttribute('data-product-name') || '';
-        var moq = parseInt(input.getAttribute('data-product-moq') || '0', 10);
 
         if (row) {
           row.classList.toggle('is-active', qty !== null && qty > 0);
-          row.classList.toggle('is-invalid', qty !== null && qty > 0 && qty < moq);
+          row.classList.remove('is-invalid');
         }
 
         if (qty === null || qty <= 0) return;
 
-        lines.push(name + ': ' + qty + ' pcs (MOQ ' + moq + ')');
+        lines.push(name + ': ' + qty + ' pcs');
         total += qty;
       });
 
       if (productsHidden) productsHidden.value = lines.join('; ');
       if (quantityHidden) quantityHidden.value = total > 0 ? String(total) : '';
-    }
-
-    function validate() {
-      var selected = 0;
-      var belowMoq = [];
-
-      Array.prototype.forEach.call(qtyInputs, function (input) {
-        var qty = parseQty(input);
-        var name = input.getAttribute('data-product-name') || '';
-        var moq = parseInt(input.getAttribute('data-product-moq') || '0', 10);
-
-        if (qty === null || qty <= 0) return;
-        selected += 1;
-        if (qty < moq) belowMoq.push(name + ' (min. ' + moq + ' pcs)');
-      });
-
-      if (!selected) {
-        return 'Please enter a quantity for at least one product. You do not need to order every product.';
-      }
-
-      if (belowMoq.length) {
-        return 'Quantity is below the minimum for: ' + belowMoq.join(', ') + '.';
-      }
-
-      return '';
     }
 
     Array.prototype.forEach.call(qtyInputs, function (input) {
@@ -938,13 +1177,12 @@
     if (form) {
       form.addEventListener('submit', function (event) {
         sync();
-        var error = validate();
-        if (error) {
+        if (!productsHidden || !productsHidden.value) {
           event.preventDefault();
           root.scrollIntoView({ behavior: 'smooth', block: 'center' });
-          var invalid = root.querySelector('.is-invalid [data-cb-product-qty]') || qtyInputs[0];
-          if (invalid) invalid.focus();
-          window.alert(error);
+          var firstQty = qtyInputs[0];
+          if (firstQty) firstQty.focus();
+          window.alert({{ cb_alert_select | json }});
         }
       });
     }
@@ -1149,7 +1387,7 @@
       "type": "text",
       "id": "products_hint",
       "label": "Products hint",
-      "default": "Enter a quantity only for products you want to brand. Each product has its own minimum order quantity (MOQ) — you do not need to order every product."
+      "default": "Enter a quantity for the products you want to brand. You do not need to fill in every product — we will discuss details after your inquiry."
     },
     {
       "type": "text",

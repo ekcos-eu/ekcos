@@ -52,8 +52,9 @@ Do e-mailu dorazí mimo jiné:
 ## Obsah na stránce
 
 - marketing copy z dokumentu (why / print vs cut-out / packaging / colour & fragrance / good to know)  
-- commercial terms + MOQ tabulky ze stávajícího webu  
-- produkční podmínky (MX → CZ, 6–10 týdnů, 100 % předem)
+- commercial terms (entry fee, branding cost, packaging labels)  
+- **bez** veřejných MOQ tabulek — množství ve formuláři je volné, detaily se domluví po poptávce  
+- produkční podmínky v Good to know (MX → CZ, 6–10 týdnů, 100 % předem)
 
 Texty v hero a formuláři jde upravit v Theme Editoru. Ceník a MOQ jsou v Liquid.
 
@@ -62,3 +63,42 @@ Texty v hero a formuláři jde upravit v Theme Editoru. Ceník a MOQ jsou v Liqu
 Next.js `/{locale}/custom-branding` je odstraněná a přesměrovaná na:
 
 `https://eshop.ekcos.eu/pages/custom-branding`
+
+## B2B & 0% VAT Guide
+
+Pro stránku B2B průvodce jsou připravené i tyto soubory:
+
+- `sections/b2b-vat-guide.liquid`
+- `templates/page.b2b-vat-guide.json`
+- `assets/vat-guide-step-1.png`
+- `assets/vat-guide-step-2.png`
+- `assets/vat-guide-step-3.png`
+
+Nasazení:
+
+1. Nahraj liquid, JSON template i 3 screenshoty do Shopify theme.
+2. Vytvoř page:
+   - Title: `B2B & 0% VAT Guide`
+   - Handle: `b2b-vat-guide`
+   - Theme template: **b2b-vat-guide**
+3. Otevři náhled na `/pages/b2b-vat-guide`.
+
+Stránka je vizuálně sladěná s `Custom Branding`, obsahuje checkout screenshoty ke každému kroku a překládá se podle aktivního jazyka eshopu.
+
+## FAQ
+
+Soubory:
+
+- `sections/faq-page.liquid`
+- `templates/page.faq.json`
+
+Nasazení:
+
+1. Nahraj oba soubory do Shopify theme.
+2. Vytvoř page:
+   - Title: `FAQ`
+   - Handle: `faq`
+   - Theme template: **faq**
+3. Otevři náhled na `/pages/faq`.
+
+FAQ má stejný vizuální styl (hero, typografie, CTA), accordion podle tvého HTML a překlady pro `en/cs/de/fr/es/it`.

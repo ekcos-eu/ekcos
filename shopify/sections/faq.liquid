@@ -1,0 +1,870 @@
+{% comment %}
+  FAQ page for ëkcos Shopify store.
+  Assign this section via the page.faq template.
+{% endcomment %}
+
+{% assign faq_lang = localization.language.iso_code | default: request.locale | default: 'en' | slice: 0, 2 %}
+
+{% assign faq_eyebrow = 'Help center' %}
+{% assign faq_title = 'FAQ' %}
+{% assign faq_lead = 'Answers about ëkcos products, hygiene performance, and ordering' %}
+{% assign faq_intro = 'Find clear answers about the brand, urinal screens, passive air fresheners, logistics, and custom branding.' %}
+
+{% assign faq_cat_1 = 'General information about ëkcos' %}
+{% assign faq_q_1_1 = 'Who is ëkcos?' %}
+{% assign faq_a_1_1 = 'ëkcos is an American brand with a factory in Mexico specializing in sustainable fragranced hygiene products for public restrooms. Their portfolio includes urinal screens, toilet bowl clips, and other passive air fresheners – all developed with a focus on performance, fragrance intensity and longevity, and splash control (urinal screens).' %}
+{% assign faq_q_1_2 = 'What makes ëkcos different from standard products?' %}
+{% assign faq_a_1_2 = 'ëkcos products last significantly longer (60+ days), release a consistently strong fragrance, and include advanced antisplash features. Despite being 60+ days lasting, they don’t cost twice as much as other high-quality 30-day alternatives – yet deliver much more in hygiene, sustainability, cost savings, and user satisfaction.' %}
+
+{% assign faq_cat_2 = 'Urinal screens: ëkcoscreen & xcrën HD' %}
+{% assign faq_q_2_1 = 'How long do ëkcos urinal screens last?' %}
+{% assign faq_a_2_1_item_1 = 'xcrën HD and ëkcoscreen: 60+ days' %}
+{% assign faq_a_2_1_item_2 = 'powër screen and üro lite: up to 30 days' %}
+{% assign faq_q_2_2 = 'What is antisplash technology and how does it work?' %}
+{% assign faq_a_2_2 = 'ëkcos screens feature a bristle system that effectively breaks the urine stream and prevents splash back. This keeps the surrounding floor cleaner and reduces bacterial contamination.' %}
+{% assign faq_q_2_3 = 'Is there scientific evidence for antisplash benefits?' %}
+{% assign faq_a_2_3 = 'Yes. A 2021 study in Antimicrobial Resistance & Infection Control (BioMed Central) shows that bacteria such as Klebsiella pneumoniae can be spread by urine splashes in public toilets. ëkcos antisplash technology significantly reduces this risk of spreading from urinals.' %}
+{% assign faq_q_2_4 = 'What are the main environmental benefits of ëkcos products?' %}
+{% assign faq_a_2_4_item_1 = 'All ëkcos products are 99% biodegradable in bioactive landfills within 5 years.' %}
+{% assign faq_a_2_4_item_2 = 'Made from recycled materials.' %}
+{% assign faq_a_2_4_item_3 = 'Packaged in eco-friendly cellophane bags.' %}
+{% assign faq_a_2_4_item_4 = 'Environmentally friendly fragrance composition (non-toxic to the environment, especially wastewater), VOC-compliant.' %}
+{% assign faq_a_2_4_item_5 = 'ëkcoscreen and xcrën HD last 60+ days compared to the typical 30 days on the market = extended time before replacement is needed.' %}
+{% assign faq_a_2_4_item_6 = 'Passive interior fragrance complete solution = urinal screen + frësh drop and ëkco clip; no aerosols or concentrated and heated aromatic oils (some of which may be carcinogenic).' %}
+{% assign faq_q_2_5 = 'How is the fragrance released?' %}
+{% assign faq_a_2_5 = 'The fragrance is infused directly into the polymer and is released passively over time. No dripping or refill is required. ëkcos products are known for their strong, long-lasting fragrance from day 1 to day 60 and even more.' %}
+{% assign faq_q_2_6 = 'Do customers return to cheaper screens after trying ëkcos?' %}
+{% assign faq_a_2_6 = 'Rarely. Once customers experience the hygiene, performance, and consistent fragrance of ëkcos screens, they tend to stick with the brand. Satisfaction levels are exceptionally high.' %}
+{% assign faq_q_2_7 = 'How do ëkcos prices compare to others?' %}
+{% assign faq_a_2_7 = 'ëkcos 60+ day screens are competitively priced – they cost less than two high-quality 30-day screens, yet deliver more value in fragrance strength, the most advanced antisplash system, eco-friendly features (recycled materials, biodegradability), and cost efficiency.' %}
+
+{% assign faq_cat_3 = 'Passive air fresheners: frësh drop & ëkco clip' %}
+{% assign faq_q_3_1 = 'What fragrances are available?' %}
+{% assign faq_a_3_1 = 'Popular fragrance options include citrus, mango, apple, melon, and more. All fragrances are designed to be noticeable yet pleasant, ideal for restrooms, lobbies, locker rooms, or commercial spaces.' %}
+{% assign faq_q_3_2 = 'What is the frësh drop system?' %}
+{% assign faq_a_3_2 = 'frësh drop is a passive air freshener that uses a fragrance-infused polymer. It doesn’t require any dripping mechanism or manual activation – the fragrance releases slowly and evenly.' %}
+
+{% assign faq_cat_4 = 'Logistics & customization' %}
+{% assign faq_q_4_1 = 'What is the minimum order quantity (MOQ)?' %}
+{% assign faq_a_4_1 = 'It depends on the specific product packaging; some are sold individually, and some in packs of two (for the latter, this is always indicated in the product name).' %}
+{% assign faq_q_4_2 = 'Where is your European warehouse located?' %}
+{% assign faq_a_4_2 = 'We maintain an EU warehouse in the Czech Republic, ensuring fast and cost-efficient delivery across Europe, Eurasia, and Africa.' %}
+{% assign faq_q_4_3 = 'Can you provide private labels or custom branding?' %}
+{% assign faq_a_4_3 = 'Yes. We offer custom branding directly on the product via cutting – a unique option that sets us apart from the competition. Conditions and minimums for private branding are available upon request.' %}
+
+{% assign faq_cat_5 = 'Payment' %}
+{% assign faq_q_5_1 = 'What payment methods do you accept?' %}
+{% assign faq_a_5_1_p1 = 'We accept standard online payment methods as well as' %}
+{% assign faq_a_5_1_strong = 'bank transfers' %}
+{% assign faq_a_5_1_p2 = '. Detailed bank transfer instructions and payment details will be provided during the checkout process.' %}
+{% assign faq_q_5_2 = 'How does 0% VAT (reverse charge) work for EU B2B purchases?' %}
+{% assign faq_a_5_2_p1 = 'If you are a company registered for VAT in an EU country outside of Estonia, you can enter your' %}
+{% assign faq_a_5_2_s1 = 'valid VAT number' %}
+{% assign faq_a_5_2_p2 = 'during checkout. Our system will automatically verify it via VIES and apply a' %}
+{% assign faq_a_5_2_s2 = '0% VAT rate (reverse charge)' %}
+{% assign faq_a_5_2_p3 = 'to your order.' %}
+
+{% assign faq_support_title = 'Still have a question?' %}
+{% assign faq_support_body = 'If you did not find the answer you need, contact our team and we will help you with products, B2B orders, or custom branding.' %}
+{% assign faq_support_button = 'Contact support' %}
+
+{% case faq_lang %}
+  {% when 'cs' %}
+    {% assign faq_eyebrow = 'Nápověda' %}
+    {% assign faq_title = 'FAQ' %}
+    {% assign faq_lead = 'Odpovědi na otázky o produktech ëkcos, hygieně a objednávkách' %}
+    {% assign faq_intro = 'Najdete zde jasné odpovědi o značce, pisoárových sítkách, pasivních osvěžovačích, logistice i vlastním brandingu.' %}
+    {% assign faq_cat_1 = 'Obecné informace o ëkcos' %}
+    {% assign faq_q_1_1 = 'Kdo je ëkcos?' %}
+    {% assign faq_a_1_1 = 'ëkcos je americká značka s výrobou v Mexiku, která se specializuje na udržitelné vonné hygienické produkty pro veřejné toalety. Portfolio zahrnuje pisoárové sítka, klipy do WC mísy a další pasivní osvěžovače – vše s důrazem na výkon, intenzitu a výdrž vůně i kontrolu stříkání.' %}
+    {% assign faq_q_1_2 = 'Čím se ëkcos liší od běžných produktů?' %}
+    {% assign faq_a_1_2 = 'Produkty ëkcos vydrží výrazně déle (60+ dní), uvolňují konzistentně silnou vůni a mají pokročilé antisplash funkce. Přestože vydrží 60+ dní, nestojí dvojnásobek kvalitních 30denních alternativ – a přitom přinášejí více v hygieně, udržitelnosti, úsporách i spokojenosti uživatelů.' %}
+    {% assign faq_cat_2 = 'Pisoárová sítka: ëkcoscreen & xcrën HD' %}
+    {% assign faq_q_2_1 = 'Jak dlouho vydrží pisoárová sítka ëkcos?' %}
+    {% assign faq_a_2_1_item_1 = 'xcrën HD a ëkcoscreen: 60+ dní' %}
+    {% assign faq_a_2_1_item_2 = 'powër screen a üro lite: až 30 dní' %}
+    {% assign faq_q_2_2 = 'Co je antisplash technologie a jak funguje?' %}
+    {% assign faq_a_2_2 = 'Sítka ëkcos mají systém štětin, který účinně rozbíjí proud moči a zabraňuje zpětnému stříkání. Okolní podlaha tak zůstává čistší a snižuje se bakteriální kontaminace.' %}
+    {% assign faq_q_2_3 = 'Existují vědecké důkazy o přínosech antisplash?' %}
+    {% assign faq_a_2_3 = 'Ano. Studie z roku 2021 v Antimicrobial Resistance & Infection Control (BioMed Central) ukazuje, že bakterie jako Klebsiella pneumoniae se mohou šířit stříkáním moči na veřejných toaletách. Antisplash technologie ëkcos toto riziko šíření z pisoárů výrazně snižuje.' %}
+    {% assign faq_q_2_4 = 'Jaké jsou hlavní ekologické výhody produktů ëkcos?' %}
+    {% assign faq_a_2_4_item_1 = 'Všechny produkty ëkcos jsou z 99 % biologicky rozložitelné v bioaktivních skládkách do 5 let.' %}
+    {% assign faq_a_2_4_item_2 = 'Vyrobené z recyklovaných materiálů.' %}
+    {% assign faq_a_2_4_item_3 = 'Balené v ekologických celofánových sáčcích.' %}
+    {% assign faq_a_2_4_item_4 = 'Ekologicky šetrné složení vůní (netoxické pro životní prostředí, zejména odpadní vody), v souladu s VOC.' %}
+    {% assign faq_a_2_4_item_5 = 'ëkcoscreen a xcrën HD vydrží 60+ dní oproti obvyklým 30 dnům na trhu = delší interval výměny.' %}
+    {% assign faq_a_2_4_item_6 = 'Kompletní pasivní řešení vůně interiéru = pisoárové sítko + frësh drop a ëkco clip; bez aerosolů a koncentrovaných ohřívaných aromatických olejů (některé mohou být karcinogenní).' %}
+    {% assign faq_q_2_5 = 'Jak se uvolňuje vůně?' %}
+    {% assign faq_a_2_5 = 'Vůně je přímo zapracovaná do polymeru a uvolňuje se pasivně v čase. Není potřeba kapání ani doplňování. Produkty ëkcos jsou známé silnou, dlouhotrvající vůní od 1. do 60. dne a déle.' %}
+    {% assign faq_q_2_6 = 'Vracejí se zákazníci po vyzkoušení ëkcos k levnějším sítkům?' %}
+    {% assign faq_a_2_6 = 'Zřídka. Jakmile zákazníci zažijí hygienu, výkon a konzistentní vůni sítěk ëkcos, u značky obvykle zůstanou. Spokojenost je výjimečně vysoká.' %}
+    {% assign faq_q_2_7 = 'Jak si stojí ceny ëkcos vůči konkurenci?' %}
+    {% assign faq_a_2_7 = '60+ denní sítka ëkcos jsou cenově konkurenceschopná – stojí méně než dvě kvalitní 30denní sítka, a přitom nabízejí větší hodnotu ve síle vůně, nejpokročilejším antisplash systému, ekologických vlastnostech (recyklované materiály, biodegradabilita) i nákladové efektivitě.' %}
+    {% assign faq_cat_3 = 'Pasivní osvěžovače: frësh drop & ëkco clip' %}
+    {% assign faq_q_3_1 = 'Jaké vůně jsou k dispozici?' %}
+    {% assign faq_a_3_1 = 'Oblíbené vůně zahrnují citrus, mango, jablko, meloun a další. Všechny jsou navržené tak, aby byly znatelné, ale příjemné – ideální pro toalety, lobby, šatny i komerční prostory.' %}
+    {% assign faq_q_3_2 = 'Co je systém frësh drop?' %}
+    {% assign faq_a_3_2 = 'frësh drop je pasivní osvěžovač z polymeru napuštěného vůní. Nevyžaduje kapací mechanismus ani manuální aktivaci – vůně se uvolňuje pomalu a rovnoměrně.' %}
+    {% assign faq_cat_4 = 'Logistika a personalizace' %}
+    {% assign faq_q_4_1 = 'Jaké je minimální objednací množství (MOQ)?' %}
+    {% assign faq_a_4_1 = 'Záleží na konkrétním balení produktu; některé se prodávají jednotlivě, jiné v balení po dvou (u těch je to vždy uvedeno v názvu produktu).' %}
+    {% assign faq_q_4_2 = 'Kde máte evropský sklad?' %}
+    {% assign faq_a_4_2 = 'Máme sklad v České republice, což zajišťuje rychlé a nákladově efektivní dodávky po Evropě, Eurasii a Africe.' %}
+    {% assign faq_q_4_3 = 'Nabízíte private label nebo vlastní branding?' %}
+    {% assign faq_a_4_3 = 'Ano. Nabízíme vlastní branding přímo na produktu pomocí výřezu – unikátní možnost, která nás odlišuje od konkurence. Podmínky a minima pro private branding jsou k dispozici na vyžádání.' %}
+    {% assign faq_cat_5 = 'Platba' %}
+    {% assign faq_q_5_1 = 'Jaké platební metody přijímáte?' %}
+    {% assign faq_a_5_1_p1 = 'Přijímáme standardní online platební metody i' %}
+    {% assign faq_a_5_1_strong = 'bankovní převody' %}
+    {% assign faq_a_5_1_p2 = '. Podrobné instrukce a platební údaje k bankovnímu převodu získáte během checkoutu.' %}
+    {% assign faq_q_5_2 = 'Jak funguje 0% DPH (reverse charge) u B2B nákupů v EU?' %}
+    {% assign faq_a_5_2_p1 = 'Pokud jste společnost registrovaná k DPH v zemi EU mimo Estonsko, můžete zadat své' %}
+    {% assign faq_a_5_2_s1 = 'platné DIČ (VAT číslo)' %}
+    {% assign faq_a_5_2_p2 = 'během checkoutu. Náš systém ho automaticky ověří přes VIES a na objednávku uplatní' %}
+    {% assign faq_a_5_2_s2 = 'sazbu DPH 0 % (reverse charge)' %}
+    {% assign faq_a_5_2_p3 = '.' %}
+    {% assign faq_support_title = 'Pořád máte otázku?' %}
+    {% assign faq_support_body = 'Pokud jste nenašli odpověď, kontaktujte náš tým. Rádi pomůžeme s produkty, B2B objednávkami i vlastním brandingem.' %}
+    {% assign faq_support_button = 'Kontaktovat podporu' %}
+  {% when 'de' %}
+    {% assign faq_eyebrow = 'Hilfezentrum' %}
+    {% assign faq_title = 'FAQ' %}
+    {% assign faq_lead = 'Antworten zu ëkcos-Produkten, Hygieneleistung und Bestellung' %}
+    {% assign faq_intro = 'Hier finden Sie klare Antworten zur Marke, zu Urinalsiebens, passiven Lufterfrischern, Logistik und individuellem Branding.' %}
+    {% assign faq_cat_1 = 'Allgemeine Informationen über ëkcos' %}
+    {% assign faq_q_1_1 = 'Wer ist ëkcos?' %}
+    {% assign faq_a_1_1 = 'ëkcos ist eine amerikanische Marke mit Produktion in Mexiko und spezialisiert sich auf nachhaltige, duftende Hygieneprodukte für öffentliche Waschräume. Zum Portfolio gehören Urinalsiebe, Toilettenklammern und andere passive Lufterfrischer – entwickelt mit Fokus auf Leistung, Duftintensität und -dauer sowie Spritzschutz.' %}
+    {% assign faq_q_1_2 = 'Was unterscheidet ëkcos von Standardprodukten?' %}
+    {% assign faq_a_1_2 = 'ëkcos-Produkte halten deutlich länger (60+ Tage), geben einen gleichmäßig starken Duft ab und verfügen über fortschrittliche Antisplash-Funktionen. Obwohl sie 60+ Tage halten, kosten sie nicht doppelt so viel wie hochwertige 30-Tage-Alternativen – und bieten dennoch mehr Hygiene, Nachhaltigkeit, Kosteneinsparungen und Nutzerzufriedenheit.' %}
+    {% assign faq_cat_2 = 'Urinalsiebe: ëkcoscreen & xcrën HD' %}
+    {% assign faq_q_2_1 = 'Wie lange halten ëkcos-Urinalsiebe?' %}
+    {% assign faq_a_2_1_item_1 = 'xcrën HD und ëkcoscreen: 60+ Tage' %}
+    {% assign faq_a_2_1_item_2 = 'powër screen und üro lite: bis zu 30 Tage' %}
+    {% assign faq_q_2_2 = 'Was ist Antisplash-Technologie und wie funktioniert sie?' %}
+    {% assign faq_a_2_2 = 'ëkcos-Siebe verfügen über ein Borstensystem, das den Urinstrahl wirksam bricht und Rückspritzer verhindert. So bleibt der umliegende Boden sauberer und die bakterielle Belastung sinkt.' %}
+    {% assign faq_q_2_3 = 'Gibt es wissenschaftliche Belege für Antisplash-Vorteile?' %}
+    {% assign faq_a_2_3 = 'Ja. Eine Studie aus dem Jahr 2021 in Antimicrobial Resistance & Infection Control (BioMed Central) zeigt, dass Bakterien wie Klebsiella pneumoniae durch Urinspritzer in öffentlichen Toiletten verbreitet werden können. Die Antisplash-Technologie von ëkcos reduziert dieses Risiko deutlich.' %}
+    {% assign faq_q_2_4 = 'Was sind die wichtigsten Umweltvorteile von ëkcos-Produkten?' %}
+    {% assign faq_a_2_4_item_1 = 'Alle ëkcos-Produkte sind zu 99 % biologisch abbaubar in bioaktiven Deponien innerhalb von 5 Jahren.' %}
+    {% assign faq_a_2_4_item_2 = 'Hergestellt aus recycelten Materialien.' %}
+    {% assign faq_a_2_4_item_3 = 'Verpackt in umweltfreundlichen Zellophanbeuteln.' %}
+    {% assign faq_a_2_4_item_4 = 'Umweltfreundliche Duftzusammensetzung (nicht toxisch für die Umwelt, insbesondere Abwasser), VOC-konform.' %}
+    {% assign faq_a_2_4_item_5 = 'ëkcoscreen und xcrën HD halten 60+ Tage im Vergleich zu typischen 30 Tagen am Markt = längere Austauschintervalle.' %}
+    {% assign faq_a_2_4_item_6 = 'Komplette passive Innenraumbeduftung = Urinalsieb + frësh drop und ëkco clip; ohne Aerosole oder konzentrierte erhitzte Aromaöle (manche davon können krebserregend sein).' %}
+    {% assign faq_q_2_5 = 'Wie wird der Duft freigesetzt?' %}
+    {% assign faq_a_2_5 = 'Der Duft ist direkt im Polymer eingearbeitet und wird passiv über die Zeit freigesetzt. Kein Tropfen und kein Nachfüllen nötig. ëkcos-Produkte sind für starken, langanhaltenden Duft von Tag 1 bis Tag 60 und darüber hinaus bekannt.' %}
+    {% assign faq_q_2_6 = 'Kehren Kunden nach dem Test von ëkcos zu günstigeren Sieben zurück?' %}
+    {% assign faq_a_2_6 = 'Selten. Sobald Kunden Hygiene, Leistung und gleichmäßigen Duft der ëkcos-Siebe erleben, bleiben sie meist bei der Marke. Die Zufriedenheit ist außergewöhnlich hoch.' %}
+    {% assign faq_q_2_7 = 'Wie stehen ëkcos-Preise im Vergleich?' %}
+    {% assign faq_a_2_7 = 'ëkcos 60+-Tage-Siebe sind wettbewerbsfähig bepreist – sie kosten weniger als zwei hochwertige 30-Tage-Siebe und bieten dennoch mehr Wert bei Duftstärke, dem fortschrittlichsten Antisplash-System, Umweltmerkmalen und Kosteneffizienz.' %}
+    {% assign faq_cat_3 = 'Passive Lufterfrischer: frësh drop & ëkco clip' %}
+    {% assign faq_q_3_1 = 'Welche Düfte sind verfügbar?' %}
+    {% assign faq_a_3_1 = 'Beliebte Düfte sind Zitrus, Mango, Apfel, Melone und mehr. Alle Düfte sind spürbar, aber angenehm – ideal für Waschräume, Lobbys, Umkleiden oder Gewerbeflächen.' %}
+    {% assign faq_q_3_2 = 'Was ist das frësh drop System?' %}
+    {% assign faq_a_3_2 = 'frësh drop ist ein passiver Lufterfrischer aus duftinfundiertem Polymer. Es braucht keinen Tropfmechanismus und keine manuelle Aktivierung – der Duft wird langsam und gleichmäßig freigesetzt.' %}
+    {% assign faq_cat_4 = 'Logistik & Individualisierung' %}
+    {% assign faq_q_4_1 = 'Was ist die Mindestbestellmenge (MOQ)?' %}
+    {% assign faq_a_4_1 = 'Sie hängt von der jeweiligen Produktverpackung ab; manche Artikel werden einzeln verkauft, manche im 2er-Pack (bei Letzteren ist das immer im Produktnamen angegeben).' %}
+    {% assign faq_q_4_2 = 'Wo befindet sich Ihr europäisches Lager?' %}
+    {% assign faq_a_4_2 = 'Wir betreiben ein EU-Lager in Tschechien und gewährleisten so schnelle und kosteneffiziente Lieferung in Europa, Eurasien und Afrika.' %}
+    {% assign faq_q_4_3 = 'Bieten Sie Private Label oder individuelles Branding an?' %}
+    {% assign faq_a_4_3 = 'Ja. Wir bieten individuelles Branding direkt am Produkt per Ausschnitt – eine einzigartige Option, die uns vom Wettbewerb abhebt. Bedingungen und Mindestmengen für Private Branding erhalten Sie auf Anfrage.' %}
+    {% assign faq_cat_5 = 'Zahlung' %}
+    {% assign faq_q_5_1 = 'Welche Zahlungsmethoden akzeptieren Sie?' %}
+    {% assign faq_a_5_1_p1 = 'Wir akzeptieren übliche Online-Zahlungsmethoden sowie' %}
+    {% assign faq_a_5_1_strong = 'Banküberweisungen' %}
+    {% assign faq_a_5_1_p2 = '. Detaillierte Anweisungen und Zahlungsdaten für die Überweisung erhalten Sie während des Checkouts.' %}
+    {% assign faq_q_5_2 = 'Wie funktioniert 0 % MwSt. (Reverse Charge) bei EU-B2B-Käufen?' %}
+    {% assign faq_a_5_2_p1 = 'Wenn Sie als Unternehmen in einem EU-Land außerhalb Estlands umsatzsteuerlich registriert sind, können Sie im Checkout Ihre' %}
+    {% assign faq_a_5_2_s1 = 'gültige USt-IdNr.' %}
+    {% assign faq_a_5_2_p2 = 'eingeben. Unser System prüft sie automatisch über VIES und wendet auf Ihre Bestellung einen' %}
+    {% assign faq_a_5_2_s2 = 'MwSt.-Satz von 0 % (Reverse Charge)' %}
+    {% assign faq_a_5_2_p3 = 'an.' %}
+    {% assign faq_support_title = 'Noch Fragen?' %}
+    {% assign faq_support_body = 'Wenn Sie die gewünschte Antwort nicht gefunden haben, kontaktieren Sie unser Team. Wir helfen bei Produkten, B2B-Bestellungen und individuellem Branding.' %}
+    {% assign faq_support_button = 'Support kontaktieren' %}
+  {% when 'fr' %}
+    {% assign faq_eyebrow = 'Centre d’aide' %}
+    {% assign faq_title = 'FAQ' %}
+    {% assign faq_lead = 'Réponses sur les produits ëkcos, la performance hygiène et les commandes' %}
+    {% assign faq_intro = 'Retrouvez des réponses claires sur la marque, les écrans d’urinoirs, les désodorisants passifs, la logistique et la marque personnalisée.' %}
+    {% assign faq_cat_1 = 'Informations générales sur ëkcos' %}
+    {% assign faq_q_1_1 = 'Qui est ëkcos ?' %}
+    {% assign faq_a_1_1 = 'ëkcos est une marque américaine avec une usine au Mexique, spécialisée dans les produits d’hygiène parfumés et durables pour les sanitaires publics. Le portefeuille comprend des écrans d’urinoirs, des clips WC et d’autres désodorisants passifs – conçus pour la performance, l’intensité et la longévité du parfum, ainsi que le contrôle des éclaboussures.' %}
+    {% assign faq_q_1_2 = 'Qu’est-ce qui différencie ëkcos des produits standards ?' %}
+    {% assign faq_a_1_2 = 'Les produits ëkcos durent nettement plus longtemps (60+ jours), diffusent un parfum constamment fort et intègrent des fonctions antisplash avancées. Bien qu’ils durent 60+ jours, ils ne coûtent pas deux fois plus cher que de bonnes alternatives 30 jours – tout en apportant plus d’hygiène, de durabilité, d’économies et de satisfaction.' %}
+    {% assign faq_cat_2 = 'Écrans d’urinoirs : ëkcoscreen & xcrën HD' %}
+    {% assign faq_q_2_1 = 'Combien durent les écrans d’urinoirs ëkcos ?' %}
+    {% assign faq_a_2_1_item_1 = 'xcrën HD et ëkcoscreen : 60+ jours' %}
+    {% assign faq_a_2_1_item_2 = 'powër screen et üro lite : jusqu’à 30 jours' %}
+    {% assign faq_q_2_2 = 'Qu’est-ce que la technologie antisplash et comment fonctionne-t-elle ?' %}
+    {% assign faq_a_2_2 = 'Les écrans ëkcos disposent d’un système de poils qui brise efficacement le jet d’urine et empêche les éclaboussures. Le sol autour reste plus propre et la contamination bactérienne diminue.' %}
+    {% assign faq_q_2_3 = 'Existe-t-il des preuves scientifiques des bénéfices antisplash ?' %}
+    {% assign faq_a_2_3 = 'Oui. Une étude de 2021 dans Antimicrobial Resistance & Infection Control (BioMed Central) montre que des bactéries comme Klebsiella pneumoniae peuvent se propager via les éclaboussures d’urine dans les toilettes publiques. La technologie antisplash ëkcos réduit fortement ce risque.' %}
+    {% assign faq_q_2_4 = 'Quels sont les principaux bénéfices environnementaux des produits ëkcos ?' %}
+    {% assign faq_a_2_4_item_1 = 'Tous les produits ëkcos sont biodégradables à 99 % dans des décharges bioactives en 5 ans.' %}
+    {% assign faq_a_2_4_item_2 = 'Fabriqués à partir de matériaux recyclés.' %}
+    {% assign faq_a_2_4_item_3 = 'Emballés dans des sachets cellophane écologiques.' %}
+    {% assign faq_a_2_4_item_4 = 'Composition parfumée respectueuse de l’environnement (non toxique, notamment pour les eaux usées), conforme VOC.' %}
+    {% assign faq_a_2_4_item_5 = 'ëkcoscreen et xcrën HD durent 60+ jours contre 30 jours typiques sur le marché = remplacement moins fréquent.' %}
+    {% assign faq_a_2_4_item_6 = 'Solution complète de parfum passif intérieur = écran d’urinoir + frësh drop et ëkco clip ; sans aérosols ni huiles aromatiques concentrées chauffées (certaines pouvant être cancérogènes).' %}
+    {% assign faq_q_2_5 = 'Comment le parfum est-il diffusé ?' %}
+    {% assign faq_a_2_5 = 'Le parfum est intégré directement dans le polymère et se diffuse passivement dans le temps. Aucun goutte-à-goutte ni recharge n’est nécessaire. Les produits ëkcos sont connus pour un parfum fort et durable du jour 1 au jour 60 et au-delà.' %}
+    {% assign faq_q_2_6 = 'Les clients reviennent-ils vers des écrans moins chers après avoir essayé ëkcos ?' %}
+    {% assign faq_a_2_6 = 'Rarement. Une fois qu’ils ont expérimenté l’hygiène, la performance et le parfum constant des écrans ëkcos, ils restent généralement fidèles à la marque. Le niveau de satisfaction est exceptionnellement élevé.' %}
+    {% assign faq_q_2_7 = 'Comment se comparent les prix ëkcos ?' %}
+    {% assign faq_a_2_7 = 'Les écrans 60+ jours ëkcos sont compétitifs – ils coûtent moins que deux écrans 30 jours de qualité, tout en apportant plus de valeur en intensité de parfum, antisplash, écoconception et efficacité économique.' %}
+    {% assign faq_cat_3 = 'Désodorisants passifs : frësh drop & ëkco clip' %}
+    {% assign faq_q_3_1 = 'Quelles fragrances sont disponibles ?' %}
+    {% assign faq_a_3_1 = 'Les options populaires incluent agrumes, mangue, pomme, melon et plus. Toutes sont conçues pour être perceptibles mais agréables, idéales pour sanitaires, halls, vestiaires ou espaces commerciaux.' %}
+    {% assign faq_q_3_2 = 'Qu’est-ce que le système frësh drop ?' %}
+    {% assign faq_a_3_2 = 'frësh drop est un désodorisant passif à base de polymère imprégné de parfum. Il ne nécessite aucun mécanisme goutte-à-goutte ni activation manuelle – le parfum se diffuse lentement et uniformément.' %}
+    {% assign faq_cat_4 = 'Logistique et personnalisation' %}
+    {% assign faq_q_4_1 = 'Quelle est la quantité minimale de commande (MOQ) ?' %}
+    {% assign faq_a_4_1 = 'Cela dépend de l’emballage du produit ; certains sont vendus à l’unité, d’autres par lots de deux (indiqué alors dans le nom du produit).' %}
+    {% assign faq_q_4_2 = 'Où se trouve votre entrepôt européen ?' %}
+    {% assign faq_a_4_2 = 'Nous disposons d’un entrepôt UE en République tchèque, pour une livraison rapide et rentable en Europe, Eurasie et Afrique.' %}
+    {% assign faq_q_4_3 = 'Proposez-vous private label ou marque personnalisée ?' %}
+    {% assign faq_a_4_3 = 'Oui. Nous proposons une personnalisation directement sur le produit par découpe – une option unique qui nous distingue. Conditions et minimums sur demande.' %}
+    {% assign faq_cat_5 = 'Paiement' %}
+    {% assign faq_q_5_1 = 'Quels moyens de paiement acceptez-vous ?' %}
+    {% assign faq_a_5_1_p1 = 'Nous acceptons les moyens de paiement en ligne standards ainsi que les' %}
+    {% assign faq_a_5_1_strong = 'virements bancaires' %}
+    {% assign faq_a_5_1_p2 = '. Les instructions détaillées et les coordonnées de paiement seront fournies pendant le checkout.' %}
+    {% assign faq_q_5_2 = 'Comment fonctionne la TVA à 0 % (autoliquidation) pour les achats B2B dans l’UE ?' %}
+    {% assign faq_a_5_2_p1 = 'Si vous êtes une entreprise assujettie à la TVA dans un pays de l’UE hors Estonie, vous pouvez saisir votre' %}
+    {% assign faq_a_5_2_s1 = 'numéro de TVA valide' %}
+    {% assign faq_a_5_2_p2 = 'lors du checkout. Notre système le vérifie automatiquement via VIES et applique un' %}
+    {% assign faq_a_5_2_s2 = 'taux de TVA de 0 % (autoliquidation / reverse charge)' %}
+    {% assign faq_a_5_2_p3 = 'à votre commande.' %}
+    {% assign faq_support_title = 'Encore une question ?' %}
+    {% assign faq_support_body = 'Si vous n’avez pas trouvé la réponse, contactez notre équipe. Nous vous aiderons pour les produits, les commandes B2B ou la marque personnalisée.' %}
+    {% assign faq_support_button = 'Contacter le support' %}
+  {% when 'es' %}
+    {% assign faq_eyebrow = 'Centro de ayuda' %}
+    {% assign faq_title = 'FAQ' %}
+    {% assign faq_lead = 'Respuestas sobre productos ëkcos, rendimiento higiénico y pedidos' %}
+    {% assign faq_intro = 'Encuentre respuestas claras sobre la marca, pantallas de urinarios, ambientadores pasivos, logística y marca personalizada.' %}
+    {% assign faq_cat_1 = 'Información general sobre ëkcos' %}
+    {% assign faq_q_1_1 = '¿Quién es ëkcos?' %}
+    {% assign faq_a_1_1 = 'ëkcos es una marca estadounidense con fábrica en México especializada en productos de higiene fraganciados y sostenibles para aseos públicos. Su catálogo incluye pantallas de urinarios, clips para inodoro y otros ambientadores pasivos – desarrollados con foco en rendimiento, intensidad y duración de la fragancia, y control de salpicaduras.' %}
+    {% assign faq_q_1_2 = '¿Qué hace diferente a ëkcos frente a productos estándar?' %}
+    {% assign faq_a_1_2 = 'Los productos ëkcos duran mucho más (60+ días), liberan una fragancia consistentemente intensa e incluyen funciones antisplash avanzadas. Aunque duran 60+ días, no cuestan el doble que alternativas de 30 días de calidad – y aportan más higiene, sostenibilidad, ahorro y satisfacción.' %}
+    {% assign faq_cat_2 = 'Pantallas de urinarios: ëkcoscreen & xcrën HD' %}
+    {% assign faq_q_2_1 = '¿Cuánto duran las pantallas de urinarios ëkcos?' %}
+    {% assign faq_a_2_1_item_1 = 'xcrën HD y ëkcoscreen: 60+ días' %}
+    {% assign faq_a_2_1_item_2 = 'powër screen y üro lite: hasta 30 días' %}
+    {% assign faq_q_2_2 = '¿Qué es la tecnología antisplash y cómo funciona?' %}
+    {% assign faq_a_2_2 = 'Las pantallas ëkcos tienen un sistema de cerdas que rompe eficazmente el chorro de orina y evita salpicaduras. Así el suelo alrededor permanece más limpio y se reduce la contaminación bacteriana.' %}
+    {% assign faq_q_2_3 = '¿Existe evidencia científica de los beneficios antisplash?' %}
+    {% assign faq_a_2_3 = 'Sí. Un estudio de 2021 en Antimicrobial Resistance & Infection Control (BioMed Central) muestra que bacterias como Klebsiella pneumoniae pueden propagarse por salpicaduras de orina en aseos públicos. La tecnología antisplash de ëkcos reduce significativamente ese riesgo.' %}
+    {% assign faq_q_2_4 = '¿Cuáles son los principales beneficios ambientales de los productos ëkcos?' %}
+    {% assign faq_a_2_4_item_1 = 'Todos los productos ëkcos son biodegradables al 99 % en vertederos bioactivos en 5 años.' %}
+    {% assign faq_a_2_4_item_2 = 'Fabricados con materiales reciclados.' %}
+    {% assign faq_a_2_4_item_3 = 'Envasados en bolsas de celofán ecológicas.' %}
+    {% assign faq_a_2_4_item_4 = 'Composición de fragancia respetuosa con el medio ambiente (no tóxica, especialmente para aguas residuales), conforme a VOC.' %}
+    {% assign faq_a_2_4_item_5 = 'ëkcoscreen y xcrën HD duran 60+ días frente a los típicos 30 días del mercado = mayor intervalo de sustitución.' %}
+    {% assign faq_a_2_4_item_6 = 'Solución completa de fragancia pasiva interior = pantalla de urinario + frësh drop y ëkco clip; sin aerosoles ni aceites aromáticos concentrados calentados (algunos pueden ser cancerígenos).' %}
+    {% assign faq_q_2_5 = '¿Cómo se libera la fragancia?' %}
+    {% assign faq_a_2_5 = 'La fragancia está impregnada directamente en el polímero y se libera de forma pasiva con el tiempo. No requiere goteo ni recarga. Los productos ëkcos destacan por una fragancia intensa y duradera del día 1 al 60 y más.' %}
+    {% assign faq_q_2_6 = '¿Los clientes vuelven a pantallas más baratas tras probar ëkcos?' %}
+    {% assign faq_a_2_6 = 'Rara vez. Cuando experimentan la higiene, el rendimiento y la fragancia constante de las pantallas ëkcos, suelen permanecer con la marca. La satisfacción es excepcionalmente alta.' %}
+    {% assign faq_q_2_7 = '¿Cómo se comparan los precios de ëkcos?' %}
+    {% assign faq_a_2_7 = 'Las pantallas 60+ días de ëkcos tienen un precio competitivo: cuestan menos que dos pantallas de 30 días de calidad, pero aportan más valor en intensidad de fragancia, sistema antisplash, sostenibilidad y eficiencia de costes.' %}
+    {% assign faq_cat_3 = 'Ambientadores pasivos: frësh drop & ëkco clip' %}
+    {% assign faq_q_3_1 = '¿Qué fragancias hay disponibles?' %}
+    {% assign faq_a_3_1 = 'Las opciones populares incluyen cítrico, mango, manzana, melón y más. Todas están diseñadas para ser perceptibles pero agradables, ideales para aseos, lobbies, vestuarios o espacios comerciales.' %}
+    {% assign faq_q_3_2 = '¿Qué es el sistema frësh drop?' %}
+    {% assign faq_a_3_2 = 'frësh drop es un ambientador pasivo de polímero impregnado de fragancia. No requiere mecanismo de goteo ni activación manual: la fragancia se libera lenta y uniformemente.' %}
+    {% assign faq_cat_4 = 'Logística y personalización' %}
+    {% assign faq_q_4_1 = '¿Cuál es la cantidad mínima de pedido (MOQ)?' %}
+    {% assign faq_a_4_1 = 'Depende del envase del producto; algunos se venden por unidad y otros en packs de dos (en estos últimos siempre se indica en el nombre del producto).' %}
+    {% assign faq_q_4_2 = '¿Dónde está su almacén europeo?' %}
+    {% assign faq_a_4_2 = 'Disponemos de un almacén en la República Checa, lo que garantiza una entrega rápida y eficiente en Europa, Eurasia y África.' %}
+    {% assign faq_q_4_3 = '¿Ofrecen private label o marca personalizada?' %}
+    {% assign faq_a_4_3 = 'Sí. Ofrecemos marca personalizada directamente en el producto mediante corte: una opción única que nos diferencia. Condiciones y mínimos bajo petición.' %}
+    {% assign faq_cat_5 = 'Pago' %}
+    {% assign faq_q_5_1 = '¿Qué métodos de pago aceptan?' %}
+    {% assign faq_a_5_1_p1 = 'Aceptamos métodos de pago online estándar así como' %}
+    {% assign faq_a_5_1_strong = 'transferencias bancarias' %}
+    {% assign faq_a_5_1_p2 = '. Las instrucciones detalladas y los datos de pago se facilitarán durante el checkout.' %}
+    {% assign faq_q_5_2 = '¿Cómo funciona el IVA al 0 % (inversión del sujeto pasivo) en compras B2B en la UE?' %}
+    {% assign faq_a_5_2_p1 = 'Si es una empresa registrada a efectos de IVA en un país de la UE fuera de Estonia, puede introducir su' %}
+    {% assign faq_a_5_2_s1 = 'número de IVA válido' %}
+    {% assign faq_a_5_2_p2 = 'durante el checkout. Nuestro sistema lo verificará automáticamente a través de VIES y aplicará un' %}
+    {% assign faq_a_5_2_s2 = 'tipo de IVA del 0 % (inversión del sujeto pasivo / reverse charge)' %}
+    {% assign faq_a_5_2_p3 = 'a su pedido.' %}
+    {% assign faq_support_title = '¿Todavía tiene una pregunta?' %}
+    {% assign faq_support_body = 'Si no encontró la respuesta, contacte con nuestro equipo. Le ayudaremos con productos, pedidos B2B o marca personalizada.' %}
+    {% assign faq_support_button = 'Contactar soporte' %}
+  {% when 'it' %}
+    {% assign faq_eyebrow = 'Centro assistenza' %}
+    {% assign faq_title = 'FAQ' %}
+    {% assign faq_lead = 'Risposte su prodotti ëkcos, prestazioni igieniche e ordini' %}
+    {% assign faq_intro = 'Trova risposte chiare sul brand, sugli schermi per orinatoi, sui deodoranti passivi, sulla logistica e sul branding personalizzato.' %}
+    {% assign faq_cat_1 = 'Informazioni generali su ëkcos' %}
+    {% assign faq_q_1_1 = 'Chi è ëkcos?' %}
+    {% assign faq_a_1_1 = 'ëkcos è un brand americano con stabilimento in Messico, specializzato in prodotti igienici profumati e sostenibili per bagni pubblici. Il portfolio include schermi per orinatoi, clip per WC e altri deodoranti passivi – sviluppati con focus su prestazioni, intensità e durata della fragranza e controllo degli schizzi.' %}
+    {% assign faq_q_1_2 = 'Cosa rende ëkcos diverso dai prodotti standard?' %}
+    {% assign faq_a_1_2 = 'I prodotti ëkcos durano significativamente di più (60+ giorni), rilasciano una fragranza costantemente intensa e includono funzioni antisplash avanzate. Anche se durano 60+ giorni, non costano il doppio delle alternative di qualità da 30 giorni – e offrono più igiene, sostenibilità, risparmio e soddisfazione.' %}
+    {% assign faq_cat_2 = 'Schermi per orinatoi: ëkcoscreen & xcrën HD' %}
+    {% assign faq_q_2_1 = 'Quanto durano gli schermi per orinatoi ëkcos?' %}
+    {% assign faq_a_2_1_item_1 = 'xcrën HD e ëkcoscreen: 60+ giorni' %}
+    {% assign faq_a_2_1_item_2 = 'powër screen e üro lite: fino a 30 giorni' %}
+    {% assign faq_q_2_2 = 'Cos’è la tecnologia antisplash e come funziona?' %}
+    {% assign faq_a_2_2 = 'Gli schermi ëkcos hanno un sistema a setole che interrompe efficacemente il getto di urina e previene gli schizzi. Il pavimento intorno resta più pulito e si riduce la contaminazione batterica.' %}
+    {% assign faq_q_2_3 = 'Esistono evidenze scientifiche sui benefici antisplash?' %}
+    {% assign faq_a_2_3 = 'Sì. Uno studio del 2021 in Antimicrobial Resistance & Infection Control (BioMed Central) mostra che batteri come Klebsiella pneumoniae possono diffondersi tramite schizzi di urina nei bagni pubblici. La tecnologia antisplash ëkcos riduce significativamente questo rischio.' %}
+    {% assign faq_q_2_4 = 'Quali sono i principali benefici ambientali dei prodotti ëkcos?' %}
+    {% assign faq_a_2_4_item_1 = 'Tutti i prodotti ëkcos sono biodegradabili al 99 % in discariche bioattive entro 5 anni.' %}
+    {% assign faq_a_2_4_item_2 = 'Realizzati con materiali riciclati.' %}
+    {% assign faq_a_2_4_item_3 = 'Confezionati in sacchetti di cellophane eco-friendly.' %}
+    {% assign faq_a_2_4_item_4 = 'Composizione della fragranza rispettosa dell’ambiente (non tossica, soprattutto per le acque reflue), conforme VOC.' %}
+    {% assign faq_a_2_4_item_5 = 'ëkcoscreen e xcrën HD durano 60+ giorni rispetto ai tipici 30 giorni di mercato = intervallo di sostituzione più lungo.' %}
+    {% assign faq_a_2_4_item_6 = 'Soluzione completa di fragranza passiva indoor = schermo orinatoio + frësh drop e ëkco clip; senza aerosol o oli aromatici concentrati riscaldati (alcuni dei quali possono essere cancerogeni).' %}
+    {% assign faq_q_2_5 = 'Come viene rilasciata la fragranza?' %}
+    {% assign faq_a_2_5 = 'La fragranza è infusa direttamente nel polimero e viene rilasciata passivamente nel tempo. Non serve gocciolamento né ricarica. I prodotti ëkcos sono noti per una fragranza intensa e duratura dal giorno 1 al giorno 60 e oltre.' %}
+    {% assign faq_q_2_6 = 'I clienti tornano a schermi più economici dopo aver provato ëkcos?' %}
+    {% assign faq_a_2_6 = 'Raramente. Una volta sperimentate igiene, prestazioni e fragranza costante degli schermi ëkcos, tendono a restare con il brand. Il livello di soddisfazione è eccezionalmente alto.' %}
+    {% assign faq_q_2_7 = 'Come si confrontano i prezzi ëkcos?' %}
+    {% assign faq_a_2_7 = 'Gli schermi 60+ giorni ëkcos hanno un prezzo competitivo: costano meno di due schermi di qualità da 30 giorni, ma offrono più valore in intensità di fragranza, sistema antisplash, sostenibilità ed efficienza dei costi.' %}
+    {% assign faq_cat_3 = 'Deodoranti passivi: frësh drop & ëkco clip' %}
+    {% assign faq_q_3_1 = 'Quali fragranze sono disponibili?' %}
+    {% assign faq_a_3_1 = 'Le opzioni più richieste includono agrumi, mango, mela, melone e altre. Tutte sono pensate per essere percettibili ma piacevoli, ideali per bagni, lobby, spogliatoi o spazi commerciali.' %}
+    {% assign faq_q_3_2 = 'Cos’è il sistema frësh drop?' %}
+    {% assign faq_a_3_2 = 'frësh drop è un deodorante passivo in polimero impregnato di fragranza. Non richiede meccanismo a goccia né attivazione manuale: la fragranza si rilascia lentamente e in modo uniforme.' %}
+    {% assign faq_cat_4 = 'Logistica e personalizzazione' %}
+    {% assign faq_q_4_1 = 'Qual è la quantità minima d’ordine (MOQ)?' %}
+    {% assign faq_a_4_1 = 'Dipende dal packaging del prodotto; alcuni sono venduti singolarmente, altri in pack da due (in quest’ultimo caso è sempre indicato nel nome prodotto).' %}
+    {% assign faq_q_4_2 = 'Dove si trova il vostro magazzino europeo?' %}
+    {% assign faq_a_4_2 = 'Gestiamo un magazzino UE nella Repubblica Ceca, garantendo consegne rapide ed efficienti in Europa, Eurasia e Africa.' %}
+    {% assign faq_q_4_3 = 'Offrite private label o branding personalizzato?' %}
+    {% assign faq_a_4_3 = 'Sì. Offriamo branding personalizzato direttamente sul prodotto tramite intaglio – un’opzione unica che ci distingue. Condizioni e minimi su richiesta.' %}
+    {% assign faq_cat_5 = 'Pagamento' %}
+    {% assign faq_q_5_1 = 'Quali metodi di pagamento accettate?' %}
+    {% assign faq_a_5_1_p1 = 'Accettiamo i metodi di pagamento online standard nonché i' %}
+    {% assign faq_a_5_1_strong = 'bonifici bancari' %}
+    {% assign faq_a_5_1_p2 = '. Istruzioni dettagliate e dati di pagamento saranno forniti durante il checkout.' %}
+    {% assign faq_q_5_2 = 'Come funziona l’IVA allo 0 % (reverse charge) per gli acquisti B2B nell’UE?' %}
+    {% assign faq_a_5_2_p1 = 'Se siete un’azienda registrata ai fini IVA in un Paese UE diverso dall’Estonia, potete inserire il vostro' %}
+    {% assign faq_a_5_2_s1 = 'numero di partita IVA valido' %}
+    {% assign faq_a_5_2_p2 = 'durante il checkout. Il nostro sistema lo verifica automaticamente tramite VIES e applica un' %}
+    {% assign faq_a_5_2_s2 = 'aliquota IVA dello 0 % (reverse charge)' %}
+    {% assign faq_a_5_2_p3 = 'al vostro ordine.' %}
+    {% assign faq_support_title = 'Hai ancora una domanda?' %}
+    {% assign faq_support_body = 'Se non hai trovato la risposta, contatta il nostro team. Ti aiuteremo con prodotti, ordini B2B o branding personalizzato.' %}
+    {% assign faq_support_button = 'Contatta il supporto' %}
+{% endcase %}
+
+<section class="faq-page" aria-labelledby="faq-page-title">
+  <div class="faq-page__hero">
+    <div class="faq-page__wrap">
+      <p class="faq-page__eyebrow">{{ faq_eyebrow }}</p>
+      <h1 class="faq-page__title" id="faq-page-title">{{ faq_title }}</h1>
+      <p class="faq-page__lead">{{ faq_lead }}</p>
+      <p class="faq-page__intro">{{ faq_intro }}</p>
+    </div>
+  </div>
+
+  <div class="faq-page__wrap faq-page__section">
+    <div class="faq-page__panel">
+      <h2 class="faq-page__category">{{ faq_cat_1 }}</h2>
+
+      <div class="faq-page__item">
+        <details class="faq-page__details">
+          <summary class="faq-page__summary">
+            <span>{{ faq_q_1_1 }}</span>
+            <span class="faq-page__icon" aria-hidden="true">+</span>
+          </summary>
+          <div class="faq-page__content">{{ faq_a_1_1 }}</div>
+        </details>
+      </div>
+
+      <div class="faq-page__item">
+        <details class="faq-page__details">
+          <summary class="faq-page__summary">
+            <span>{{ faq_q_1_2 }}</span>
+            <span class="faq-page__icon" aria-hidden="true">+</span>
+          </summary>
+          <div class="faq-page__content">{{ faq_a_1_2 }}</div>
+        </details>
+      </div>
+
+      <h2 class="faq-page__category">{{ faq_cat_2 }}</h2>
+
+      <div class="faq-page__item">
+        <details class="faq-page__details">
+          <summary class="faq-page__summary">
+            <span>{{ faq_q_2_1 }}</span>
+            <span class="faq-page__icon" aria-hidden="true">+</span>
+          </summary>
+          <div class="faq-page__content">
+            <ul>
+              <li><strong>{{ faq_a_2_1_item_1 }}</strong></li>
+              <li><strong>{{ faq_a_2_1_item_2 }}</strong></li>
+            </ul>
+          </div>
+        </details>
+      </div>
+
+      <div class="faq-page__item">
+        <details class="faq-page__details">
+          <summary class="faq-page__summary">
+            <span>{{ faq_q_2_2 }}</span>
+            <span class="faq-page__icon" aria-hidden="true">+</span>
+          </summary>
+          <div class="faq-page__content">{{ faq_a_2_2 }}</div>
+        </details>
+      </div>
+
+      <div class="faq-page__item">
+        <details class="faq-page__details">
+          <summary class="faq-page__summary">
+            <span>{{ faq_q_2_3 }}</span>
+            <span class="faq-page__icon" aria-hidden="true">+</span>
+          </summary>
+          <div class="faq-page__content">{{ faq_a_2_3 }}</div>
+        </details>
+      </div>
+
+      <div class="faq-page__item">
+        <details class="faq-page__details">
+          <summary class="faq-page__summary">
+            <span>{{ faq_q_2_4 }}</span>
+            <span class="faq-page__icon" aria-hidden="true">+</span>
+          </summary>
+          <div class="faq-page__content">
+            <ul>
+              <li>{{ faq_a_2_4_item_1 }}</li>
+              <li>{{ faq_a_2_4_item_2 }}</li>
+              <li>{{ faq_a_2_4_item_3 }}</li>
+              <li>{{ faq_a_2_4_item_4 }}</li>
+              <li>{{ faq_a_2_4_item_5 }}</li>
+              <li>{{ faq_a_2_4_item_6 }}</li>
+            </ul>
+          </div>
+        </details>
+      </div>
+
+      <div class="faq-page__item">
+        <details class="faq-page__details">
+          <summary class="faq-page__summary">
+            <span>{{ faq_q_2_5 }}</span>
+            <span class="faq-page__icon" aria-hidden="true">+</span>
+          </summary>
+          <div class="faq-page__content">{{ faq_a_2_5 }}</div>
+        </details>
+      </div>
+
+      <div class="faq-page__item">
+        <details class="faq-page__details">
+          <summary class="faq-page__summary">
+            <span>{{ faq_q_2_6 }}</span>
+            <span class="faq-page__icon" aria-hidden="true">+</span>
+          </summary>
+          <div class="faq-page__content">{{ faq_a_2_6 }}</div>
+        </details>
+      </div>
+
+      <div class="faq-page__item">
+        <details class="faq-page__details">
+          <summary class="faq-page__summary">
+            <span>{{ faq_q_2_7 }}</span>
+            <span class="faq-page__icon" aria-hidden="true">+</span>
+          </summary>
+          <div class="faq-page__content">{{ faq_a_2_7 }}</div>
+        </details>
+      </div>
+
+      <h2 class="faq-page__category">{{ faq_cat_3 }}</h2>
+
+      <div class="faq-page__item">
+        <details class="faq-page__details">
+          <summary class="faq-page__summary">
+            <span>{{ faq_q_3_1 }}</span>
+            <span class="faq-page__icon" aria-hidden="true">+</span>
+          </summary>
+          <div class="faq-page__content">{{ faq_a_3_1 }}</div>
+        </details>
+      </div>
+
+      <div class="faq-page__item">
+        <details class="faq-page__details">
+          <summary class="faq-page__summary">
+            <span>{{ faq_q_3_2 }}</span>
+            <span class="faq-page__icon" aria-hidden="true">+</span>
+          </summary>
+          <div class="faq-page__content">{{ faq_a_3_2 }}</div>
+        </details>
+      </div>
+
+      <h2 class="faq-page__category">{{ faq_cat_4 }}</h2>
+
+      <div class="faq-page__item">
+        <details class="faq-page__details">
+          <summary class="faq-page__summary">
+            <span>{{ faq_q_4_1 }}</span>
+            <span class="faq-page__icon" aria-hidden="true">+</span>
+          </summary>
+          <div class="faq-page__content">{{ faq_a_4_1 }}</div>
+        </details>
+      </div>
+
+      <div class="faq-page__item">
+        <details class="faq-page__details">
+          <summary class="faq-page__summary">
+            <span>{{ faq_q_4_2 }}</span>
+            <span class="faq-page__icon" aria-hidden="true">+</span>
+          </summary>
+          <div class="faq-page__content">{{ faq_a_4_2 }}</div>
+        </details>
+      </div>
+
+      <div class="faq-page__item">
+        <details class="faq-page__details">
+          <summary class="faq-page__summary">
+            <span>{{ faq_q_4_3 }}</span>
+            <span class="faq-page__icon" aria-hidden="true">+</span>
+          </summary>
+          <div class="faq-page__content">{{ faq_a_4_3 }}</div>
+        </details>
+      </div>
+
+      <h2 class="faq-page__category">{{ faq_cat_5 }}</h2>
+
+      <div class="faq-page__item">
+        <details class="faq-page__details">
+          <summary class="faq-page__summary">
+            <span>{{ faq_q_5_1 }}</span>
+            <span class="faq-page__icon" aria-hidden="true">+</span>
+          </summary>
+          <div class="faq-page__content">
+            {{ faq_a_5_1_p1 }} <strong>{{ faq_a_5_1_strong }}</strong>{{ faq_a_5_1_p2 }}
+          </div>
+        </details>
+      </div>
+
+      <div class="faq-page__item">
+        <details class="faq-page__details">
+          <summary class="faq-page__summary">
+            <span>{{ faq_q_5_2 }}</span>
+            <span class="faq-page__icon" aria-hidden="true">+</span>
+          </summary>
+          <div class="faq-page__content">
+            {{ faq_a_5_2_p1 }} <strong>{{ faq_a_5_2_s1 }}</strong> {{ faq_a_5_2_p2 }} <strong>{{ faq_a_5_2_s2 }}</strong> {{ faq_a_5_2_p3 }}
+          </div>
+        </details>
+      </div>
+    </div>
+  </div>
+
+  <div class="faq-page__wrap faq-page__section">
+    <div class="faq-page__support">
+      <h2 class="faq-page__support-title">{{ faq_support_title }}</h2>
+      <p class="faq-page__support-body">{{ faq_support_body }}</p>
+      <a class="faq-page__button" href="mailto:support@ekcos.eu">{{ faq_support_button }}</a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .faq-page {
+    --faq-blue: #0F68B2;
+    --faq-ink: #1a1a1a;
+    --faq-body: #2c2c2c;
+    --faq-muted: #555555;
+    --faq-line: #e5e5e5;
+    --faq-soft: #f5f8fb;
+    --faq-white: #ffffff;
+    color: var(--faq-body);
+    background: var(--faq-white);
+    font-family: var(--font-body-family, inherit);
+    font-style: var(--font-body-style, normal);
+    font-weight: var(--font-body-weight, 400);
+    font-size: 1.6rem;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .faq-page *,
+  .faq-page *::before,
+  .faq-page *::after {
+    box-sizing: border-box;
+  }
+
+  .faq-page__wrap {
+    width: min(920px, calc(100% - 3rem));
+    margin-inline: auto;
+  }
+
+  .faq-page__hero {
+    background:
+      radial-gradient(120% 80% at 50% -20%, rgba(15, 104, 178, 0.14), transparent 55%),
+      linear-gradient(180deg, #eef5fb 0%, #ffffff 78%);
+    padding: 6rem 0 4.5rem;
+    text-align: center;
+  }
+
+  .faq-page__eyebrow {
+    margin: 0;
+    font-family: var(--font-heading-family, inherit);
+    font-size: 1.3rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--faq-blue);
+  }
+
+  .faq-page__title {
+    margin: 1.2rem 0 0;
+    font-family: var(--font-heading-family, inherit);
+    font-style: var(--font-heading-style, normal);
+    font-weight: var(--font-heading-weight, 700);
+    font-size: 3.6rem;
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+    color: var(--faq-ink);
+  }
+
+  .faq-page__lead {
+    margin: 1.6rem auto 0;
+    max-width: 64rem;
+    font-family: var(--font-heading-family, inherit);
+    font-size: 2.4rem;
+    font-weight: 700;
+    line-height: 1.3;
+    color: var(--faq-blue);
+    text-wrap: balance;
+  }
+
+  .faq-page__intro {
+    margin: 1.8rem auto 0;
+    max-width: 68rem;
+    font-size: 1.9rem;
+    line-height: 1.7;
+    color: var(--faq-body);
+    text-align: left;
+  }
+
+  .faq-page__section {
+    padding: 0 0 5.5rem;
+  }
+
+  .faq-page__panel {
+    border: 0.1rem solid var(--faq-line);
+    background: var(--faq-white);
+    padding: 1.2rem 2.4rem 2.4rem;
+  }
+
+  .faq-page__category {
+    margin: 3.2rem 0 0.8rem;
+    padding-bottom: 1rem;
+    border-bottom: 0.2rem solid var(--faq-ink);
+    font-family: var(--font-heading-family, inherit);
+    font-size: 1.7rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--faq-ink);
+  }
+
+  .faq-page__category:first-child {
+    margin-top: 1.2rem;
+  }
+
+  .faq-page__item {
+    border-bottom: 0.1rem solid var(--faq-line);
+  }
+
+  .faq-page__summary {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1.6rem;
+    padding: 2.2rem 0;
+    font-family: var(--font-heading-family, inherit);
+    font-size: 1.95rem;
+    font-weight: 650;
+    color: var(--faq-ink);
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
+    transition: color 0.15s ease;
+  }
+
+  .faq-page__summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .faq-page__summary:hover {
+    color: var(--faq-blue);
+  }
+
+  .faq-page__icon {
+    flex-shrink: 0;
+    font-size: 2.4rem;
+    font-weight: 300;
+    line-height: 1;
+    color: var(--faq-blue);
+    transition: transform 0.2s ease;
+  }
+
+  .faq-page__details[open] .faq-page__icon {
+    transform: rotate(45deg);
+  }
+
+  .faq-page__content {
+    padding: 0 0 2rem;
+    font-size: 1.85rem;
+    line-height: 1.7;
+    color: var(--faq-body);
+  }
+
+  .faq-page__content strong {
+    color: var(--faq-ink);
+    font-weight: 700;
+  }
+
+  .faq-page__content ul {
+    margin: 0.4rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .faq-page__content li {
+    position: relative;
+    margin-top: 0.8rem;
+    padding-left: 1.6rem;
+  }
+
+  .faq-page__content li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.7em;
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 999px;
+    background: var(--faq-blue);
+  }
+
+  .faq-page__support {
+    max-width: 72rem;
+  }
+
+  .faq-page__support-title {
+    margin: 0;
+    display: inline-block;
+    padding-bottom: 0.5rem;
+    border-bottom: 0.3rem solid var(--faq-blue);
+    font-family: var(--font-heading-family, inherit);
+    font-weight: var(--font-heading-weight, 700);
+    font-size: 3rem;
+    line-height: 1.2;
+    color: var(--faq-ink);
+  }
+
+  .faq-page__support-body {
+    margin: 1.4rem 0 0;
+    font-size: 1.9rem;
+    line-height: 1.7;
+    color: var(--faq-body);
+  }
+
+  .faq-page__button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 5rem;
+    margin-top: 2rem;
+    padding: 1.2rem 2.8rem;
+    border: 0.1rem solid transparent;
+    background: var(--faq-blue);
+    color: #fff;
+    font-family: var(--font-button-family, inherit);
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: background 0.15s ease;
+  }
+
+  .faq-page__button:hover {
+    background: #0c5796;
+  }
+
+  @media screen and (min-width: 750px) {
+    .faq-page__title {
+      font-size: 5.2rem;
+    }
+
+    .faq-page__lead {
+      font-size: 3rem;
+    }
+
+    .faq-page__panel {
+      padding: 1.6rem 3.2rem 3.2rem;
+    }
+
+    .faq-page__summary {
+      font-size: 2.05rem;
+    }
+
+    .faq-page__content {
+      font-size: 1.95rem;
+    }
+  }
+
+  @media (max-width: 860px) {
+    .faq-page__wrap {
+      width: min(920px, calc(100% - 2rem));
+    }
+
+    .faq-page__hero {
+      padding: 4.5rem 0 3rem;
+    }
+
+    .faq-page__title {
+      font-size: 3.4rem;
+    }
+
+    .faq-page__lead {
+      font-size: 2.3rem;
+    }
+
+    .faq-page__panel {
+      padding: 0.8rem 1.6rem 1.8rem;
+    }
+
+    .faq-page__summary {
+      font-size: 1.75rem;
+    }
+
+    .faq-page__content {
+      font-size: 1.7rem;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .faq-page__summary,
+    .faq-page__icon,
+    .faq-page__button {
+      transition: none;
+    }
+  }
+</style>
+
+{% schema %}
+{
+  "name": "FAQ",
+  "tag": "section",
+  "class": "section-faq",
+  "settings": [],
+  "presets": [
+    {
+      "name": "FAQ"
+    }
+  ]
+}
+{% endschema %}

@@ -1,0 +1,9 @@
+{
+  "sections": {
+    "main": {
+      "type": "b2b-vat-guide",
+      "settings": {}
+    }
+  },
+  "order": ["main"]
+}
