@@ -6,15 +6,23 @@ import { FooterNewsletterForm } from '@/components/newsletter/footer-newsletter-
 import { CompanyDetailsBlock } from '@/components/company/company-details-block'
 import { NewsletterBoundary } from '@/components/error-boundaries/newsletter-boundary'
 import { FadeIn } from '@/components/ui/fade-in'
+import { SHOP_BASE_URL } from '@/lib/brand'
+
+type ExploreLink =
+  | { kind: 'internal'; href: '/' | '/articles' | '/eco-one' | '/private-label'; label: string }
+  | { kind: 'external'; href: string; label: string }
 
 export async function SiteFooter() {
   const t = await getTranslations('footer')
   const nav = await getTranslations('nav')
 
-  const links = [
-    { href: '/', label: nav('home.label') },
-    { href: '/articles', label: nav('articles.label') },
-    { href: '/eco-one', label: nav('ecoOne.label') },
+  const links: ExploreLink[] = [
+    { kind: 'internal', href: '/', label: nav('home.label') },
+    { kind: 'internal', href: '/articles', label: nav('articles.label') },
+    { kind: 'internal', href: '/eco-one', label: nav('ecoOne.label') },
+    { kind: 'internal', href: '/private-label', label: nav('privateLabel.label') },
+    { kind: 'external', href: `${SHOP_BASE_URL}/pages/faq`, label: nav('faq.label') },
+    { kind: 'external', href: `${SHOP_BASE_URL}/pages/contact`, label: nav('contact.label') },
   ]
 
   return (
@@ -36,14 +44,25 @@ export async function SiteFooter() {
               {t('explore')}
             </h3>
             <ul className="space-y-2">
-              {links.map(({ href, label }) => (
-                <li key={href}>
-                  <Link
-                    href={href}
-                    className="text-sm text-[#575756] transition-colors hover:text-[#0F68B2]"
-                  >
-                    {label}
-                  </Link>
+              {links.map((link) => (
+                <li key={link.href}>
+                  {link.kind === 'internal' ? (
+                    <Link
+                      href={link.href}
+                      className="text-sm text-[#575756] transition-colors hover:text-[#0F68B2]"
+                    >
+                      {link.label}
+                    </Link>
+                  ) : (
+                    <a
+                      href={link.href}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-sm text-[#575756] transition-colors hover:text-[#0F68B2]"
+                    >
+                      {link.label}
+                    </a>
+                  )}
                 </li>
               ))}
             </ul>

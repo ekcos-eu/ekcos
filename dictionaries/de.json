@@ -11,7 +11,9 @@
     "articlesTitle": "Artikel",
     "articlesDescription": "Einblicke, Updates und praktische Leitfäden vom ëkcos-Team.",
     "contactTitle": "Kontakt",
-    "contactDescription": "Kontaktieren Sie das ëkcos-Team für Spezifikationen, Programme und Partnerschaften."
+    "contactDescription": "Kontaktieren Sie das ëkcos-Team für Spezifikationen, Programme und Partnerschaften.",
+    "privateLabelTitle": "Private Label",
+    "privateLabelDescription": "Verkaufen Sie ëkcos Washroom-Produkte unter Ihrer eigenen Marke — Private Label für Distributoren."
   },
   "LocaleSwitcher": {
     "label": "Sprache",
@@ -44,6 +46,12 @@
     },
     "contact": {
       "label": "Kontakt"
+    },
+    "privateLabel": {
+      "label": "Private Label"
+    },
+    "faq": {
+      "label": "FAQ"
     }
   },
   "footer": {
@@ -569,6 +577,81 @@
         "0": "Entrances",
         "1": "Service corridors"
       }
+    }
+  },
+  "privateLabel": {
+    "hero": {
+      "eyebrow": "Für Distributoren",
+      "title": "Private-Label-Programm",
+      "lead": "Verkaufen Sie unsere Produkte unter Ihrer eigenen Marke",
+      "body": "Erweitern Sie Ihr Geschäft mit Ihrer eigenen Produktlinie. Unser Private-Label-Programm ermöglicht Distributoren, bewährte Washroom-Produkte mit hoher Leistung in ihr Portfolio aufzunehmen und unter der eigenen Marke zu verkaufen — ohne eigene Entwicklung oder Werkzeuge. Wir brauchen nur Ihr Logo; um den Rest kümmern wir uns.",
+      "cta": "Partner werden"
+    },
+    "why": {
+      "title": "Warum mit uns zusammenarbeiten",
+      "items": {
+        "0": {
+          "title": "Bewährte Lösungen",
+          "body": "Jedes Produkt ist das Ergebnis intensiver Entwicklung und auf zuverlässige Leistung ausgelegt — ein Sortiment, das Sie selbstbewusst unter Ihrem Namen anbieten können."
+        },
+        "1": {
+          "title": "Einfache Individualisierung",
+          "body": "Wir brauchen nur Ihr Logo, um Ihnen Produkte zu liefern, die Sie unter Ihrer eigenen Marke verkaufen können."
+        },
+        "2": {
+          "title": "Premium-Support",
+          "body": "Wir begleiten Sie durch den gesamten Prozess, damit Sie Ihre Marke und Ihren Umsatz ausbauen können."
+        }
+      }
+    },
+    "ways": {
+      "title": "Zwei Wege zur Produktkennzeichnung",
+      "print": {
+        "title": "Bedruckung",
+        "body": "Ihr Logo direkt auf das Produkt gedruckt."
+      },
+      "cutout": {
+        "title": "Logo-Ausschnitt",
+        "body": "Ihr Logo direkt in das Material integriert als einzigartiger Ausschnitt — eine hochwertige Ausführung, die kein anderer Hersteller bietet, und ein starkes Differenzierungsmerkmal für Ihr Sortiment."
+      }
+    },
+    "beyond": {
+      "title": "Mehr als nur das Produkt",
+      "packaging": {
+        "title": "Verpackung und Etiketten",
+        "body": "Fügen Sie Logo, Firmendaten, Produktnamen, Beschreibungen, EAN-Codes und mehr auf Kartons, Masterkartons oder einzelne Beutel hinzu — verkaufsfertig unter Ihrer Marke."
+      },
+      "mix": {
+        "title": "Farbe und Duft",
+        "body": "Bieten Sie Ihre eigene Kombination aus Farbe und Duft aus unserem Sortiment an."
+      }
+    },
+    "goodToKnow": {
+      "title": "Gut zu wissen",
+      "items": {
+        "0": "Die Mindestbestellmenge hängt vom gewählten Produkt ab.",
+        "1": "Für jedes gebrandete Produkt fällt eine einmalige Einrichtungsgebühr an, die Werkzeug und Vorbereitung für die Umsetzung Ihres Brandings abdeckt.",
+        "2": "Alle gebrandeten Produkte werden nach Ihren Vorgaben auf Bestellung gefertigt.",
+        "3": "Die genauen Mindestmengen, Preise und Lieferzeiten teilen wir mit Ihrem Angebot mit, sobald wir Ihre Anforderungen kennen."
+      }
+    },
+    "form": {
+      "title": "Partner werden",
+      "description": "Senden Sie uns Ihre konkrete Anfrage und einer unserer Vertriebsmitarbeiter meldet sich direkt bei Ihnen, um die Details zu besprechen.",
+      "name": "Name",
+      "company": "Firmenname",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "products": "Produkte für Private Label",
+      "productsHint": "Geben Sie nur bei den Produkten eine Menge an, die Sie branden möchten. Sie müssen nicht jedes Produkt ausfüllen — die Details klären wir nach Ihrer Anfrage.",
+      "quantity": "Menge (Stk.)",
+      "message": "Nachricht",
+      "submit": "Nachricht senden",
+      "submitting": "Wird gesendet…",
+      "success": "Vielen Dank — wir melden uns in Kürze bei Ihnen.",
+      "error": "Etwas ist schiefgelaufen. Bitte versuchen Sie es in einem Moment erneut.",
+      "alertSelect": "Bitte geben Sie bei mindestens einem Produkt eine Menge ein. Sie müssen nicht alle Produkte bestellen.",
+      "boundaryError": "Das Anfrageformular konnte nicht geladen werden. Bitte laden Sie die Seite neu oder schreiben Sie an support@ekcos.eu."
     }
   }
 }

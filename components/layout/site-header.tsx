@@ -21,7 +21,14 @@ import { motion } from 'framer-motion'
 const navKeys = [
   'articles',
   'ecoOne',
+  'privateLabel',
 ] as const
+
+const navHrefs = {
+  articles: '/articles',
+  ecoOne: '/eco-one',
+  privateLabel: '/private-label',
+} as const
 
 export function SiteHeader() {
   const t = useTranslations('nav')
@@ -30,9 +37,7 @@ export function SiteHeader() {
 
   const links = navKeys.map((key) => ({
     key,
-    href:
-      key === 'articles' ? '/articles'
-      :  '/eco-one',
+    href: navHrefs[key],
     label: t(`${key}.label`)
   }))
 

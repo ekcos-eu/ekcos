@@ -11,7 +11,9 @@
     "articlesTitle": "Articles",
     "articlesDescription": "Insights, updates, and practical guides from the ëkcos team.",
     "contactTitle": "Contact",
-    "contactDescription": "Reach the ëkcos team for specifications, programs, and partnerships."
+    "contactDescription": "Reach the ëkcos team for specifications, programs, and partnerships.",
+    "privateLabelTitle": "Private Label",
+    "privateLabelDescription": "Sell ëkcos washroom products under your own brand — private label for distributors."
   },
   "LocaleSwitcher": {
     "label": "Language",
@@ -44,6 +46,12 @@
     },
     "contact": {
       "label": "Contact"
+    },
+    "privateLabel": {
+      "label": "Private Label"
+    },
+    "faq": {
+      "label": "FAQ"
     }
   },
   "footer": {
@@ -569,6 +577,81 @@
         "0": "Entrances",
         "1": "Service corridors"
       }
+    }
+  },
+  "privateLabel": {
+    "hero": {
+      "eyebrow": "For distributors",
+      "title": "Private Label Program",
+      "lead": "Sell our products under your own brand",
+      "body": "Grow your business with your own line of products. Our Private Label Program lets distributors add proven, high-performing washroom products to their portfolio and sell them under their own brand — with no development or tooling of your own. All we need is your logo; we take care of the rest.",
+      "cta": "Become a partner"
+    },
+    "why": {
+      "title": "Why partner with us",
+      "items": {
+        "0": {
+          "title": "Proven solutions",
+          "body": "Every product is the result of intensive development and engineered for optimal, reliable performance — a range you can put your name on with confidence."
+        },
+        "1": {
+          "title": "Easy customization",
+          "body": "We only need your logo to provide you with a series of products that you can sell under your own brand."
+        },
+        "2": {
+          "title": "Premium support",
+          "body": "We guide you through the whole process, so you can expand your brand and your sales."
+        }
+      }
+    },
+    "ways": {
+      "title": "Two ways to brand the products",
+      "print": {
+        "title": "Printed branding",
+        "body": "Your logo printed directly onto the product."
+      },
+      "cutout": {
+        "title": "Logo cut-out",
+        "body": "Your logo integrated into the material itself as a unique cut-out — a distinctive, premium finish that no other manufacturer offers, and a strong differentiator for your range."
+      }
+    },
+    "beyond": {
+      "title": "Customize beyond the product",
+      "packaging": {
+        "title": "Packaging & labels",
+        "body": "Add your logo, company details, product names and descriptions, EAN codes and more to boxes, master cases or individual product bags — retail-ready under your own brand."
+      },
+      "mix": {
+        "title": "Colour & fragrance",
+        "body": "Offer your own signature combination of colour and scent from our range."
+      }
+    },
+    "goodToKnow": {
+      "title": "Good to know",
+      "items": {
+        "0": "The minimum order quantity depends on the specific product you choose.",
+        "1": "A one-time set-up fee applies for each product you wish to brand — it covers the tooling and preparation needed to reproduce your branding.",
+        "2": "All branded products are made to order, to your specification.",
+        "3": "We share the exact minimum quantities, pricing and lead times together with your quote, once we understand your specific requirements."
+      }
+    },
+    "form": {
+      "title": "Become a partner",
+      "description": "Send us your specific request and one of our sales representatives will contact you directly to discuss the details.",
+      "name": "Name",
+      "company": "Company name",
+      "email": "Email",
+      "phone": "Phone",
+      "products": "Products for private label",
+      "productsHint": "Enter a quantity for the products you want to brand. You do not need to fill in every product — we will discuss details after your inquiry.",
+      "quantity": "Qty (pcs)",
+      "message": "Message",
+      "submit": "Send message",
+      "submitting": "Sending…",
+      "success": "Thank you — we will get back to you shortly.",
+      "error": "Something went wrong. Please try again in a moment.",
+      "alertSelect": "Please enter a quantity for at least one product. You do not need to order every product.",
+      "boundaryError": "The inquiry form could not be loaded. Please refresh the page or email support@ekcos.eu."
     }
   }
 }

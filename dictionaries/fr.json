@@ -11,7 +11,9 @@
     "articlesTitle": "Articles",
     "articlesDescription": "Analyses, nouveautés et guides pratiques de l'équipe ëkcos.",
     "contactTitle": "Contact",
-    "contactDescription": "Contactez l’équipe ëkcos pour les spécifications, programmes et partenariats."
+    "contactDescription": "Contactez l’équipe ëkcos pour les spécifications, programmes et partenariats.",
+    "privateLabelTitle": "Private Label",
+    "privateLabelDescription": "Vendez les produits washroom ëkcos sous votre propre marque — private label pour distributeurs."
   },
   "LocaleSwitcher": {
     "label": "Langue",
@@ -44,6 +46,12 @@
     },
     "contact": {
       "label": "Contact"
+    },
+    "privateLabel": {
+      "label": "Private Label"
+    },
+    "faq": {
+      "label": "FAQ"
     }
   },
   "footer": {
@@ -569,6 +577,81 @@
         "0": "Entrances",
         "1": "Service corridors"
       }
+    }
+  },
+  "privateLabel": {
+    "hero": {
+      "eyebrow": "Pour les distributeurs",
+      "title": "Programme Private Label",
+      "lead": "Vendez nos produits sous votre propre marque",
+      "body": "Développez votre activité avec votre propre gamme. Notre programme Private Label permet aux distributeurs d’ajouter à leur portefeuille des produits washroom éprouvés et performants, et de les vendre sous leur propre marque — sans développement ni outillage de votre côté. Il nous suffit de votre logo ; nous nous occupons du reste.",
+      "cta": "Devenir partenaire"
+    },
+    "why": {
+      "title": "Pourquoi nous rejoindre",
+      "items": {
+        "0": {
+          "title": "Solutions éprouvées",
+          "body": "Chaque produit est le fruit d’un développement intensif et conçu pour une performance fiable — une gamme que vous pouvez signer en toute confiance."
+        },
+        "1": {
+          "title": "Personnalisation simple",
+          "body": "Nous n’avons besoin que de votre logo pour vous fournir une série de produits à vendre sous votre marque."
+        },
+        "2": {
+          "title": "Accompagnement premium",
+          "body": "Nous vous guidons tout au long du processus pour développer votre marque et vos ventes."
+        }
+      }
+    },
+    "ways": {
+      "title": "Deux façons de marquer les produits",
+      "print": {
+        "title": "Branding imprimé",
+        "body": "Votre logo imprimé directement sur le produit."
+      },
+      "cutout": {
+        "title": "Découpe logo",
+        "body": "Votre logo intégré dans la matière sous forme de découpe unique — une finition premium qu’aucun autre fabricant ne propose, et un fort différenciateur pour votre gamme."
+      }
+    },
+    "beyond": {
+      "title": "Personnalisez au-delà du produit",
+      "packaging": {
+        "title": "Packaging et étiquettes",
+        "body": "Ajoutez logo, coordonnées, noms de produits, descriptions, codes EAN et plus encore sur les cartons, master cases ou sachets individuels — prêts à la vente sous votre marque."
+      },
+      "mix": {
+        "title": "Couleur et parfum",
+        "body": "Proposez votre combinaison signature de couleur et de parfum à partir de notre gamme."
+      }
+    },
+    "goodToKnow": {
+      "title": "Bon à savoir",
+      "items": {
+        "0": "La quantité minimale dépend du produit choisi.",
+        "1": "Des frais de mise en place uniques s’appliquent pour chaque produit à personnaliser — ils couvrent l’outillage et la préparation nécessaires.",
+        "2": "Tous les produits personnalisés sont fabriqués sur commande, selon votre cahier des charges.",
+        "3": "Nous partageons les quantités minimales exactes, les prix et les délais avec votre devis, une fois vos besoins compris."
+      }
+    },
+    "form": {
+      "title": "Devenir partenaire",
+      "description": "Envoyez-nous votre demande et l’un de nos commerciaux vous contactera directement pour en discuter.",
+      "name": "Nom",
+      "company": "Nom de l’entreprise",
+      "email": "E-mail",
+      "phone": "Téléphone",
+      "products": "Produits pour private label",
+      "productsHint": "Indiquez une quantité uniquement pour les produits à personnaliser. Pas besoin de tout remplir — nous préciserons les détails après votre demande.",
+      "quantity": "Qté (pcs)",
+      "message": "Message",
+      "submit": "Envoyer le message",
+      "submitting": "Envoi…",
+      "success": "Merci — nous vous recontacterons bientôt.",
+      "error": "Une erreur s’est produite. Veuillez réessayer dans un instant.",
+      "alertSelect": "Veuillez indiquer une quantité pour au moins un produit. Vous n’avez pas besoin de tout commander.",
+      "boundaryError": "Le formulaire n’a pas pu être chargé. Actualisez la page ou écrivez à support@ekcos.eu."
     }
   }
 }

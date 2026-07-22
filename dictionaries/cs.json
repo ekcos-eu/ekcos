@@ -11,7 +11,9 @@
     "articlesTitle": "Články",
     "articlesDescription": "Postřehy, novinky a praktické články od týmu ëkcos.",
     "contactTitle": "Kontakt",
-    "contactDescription": "Kontaktujte tým ëkcos ohledně specifikací, programů a partnerství."
+    "contactDescription": "Kontaktujte tým ëkcos ohledně specifikací, programů a partnerství.",
+    "privateLabelTitle": "Private Label",
+    "privateLabelDescription": "Prodávejte washroom produkty ëkcos pod vlastní značkou — private label pro distributory."
   },
   "LocaleSwitcher": {
     "label": "Jazyk",
@@ -44,6 +46,12 @@
     },
     "contact": {
       "label": "Kontakt"
+    },
+    "privateLabel": {
+      "label": "Private Label"
+    },
+    "faq": {
+      "label": "FAQ"
     }
   },
   "footer": {
@@ -569,6 +577,81 @@
         "0": "Entrances",
         "1": "Service corridors"
       }
+    }
+  },
+  "privateLabel": {
+    "hero": {
+      "eyebrow": "Pro distributory",
+      "title": "Private Label Program",
+      "lead": "Prodávejte naše produkty pod vlastní značkou",
+      "body": "Rozšiřte své podnikání o vlastní řadu produktů. Náš Private Label Program umožňuje distributorům doplnit portfolio o osvědčené washroom produkty s vysokým výkonem a prodávat je pod vlastní značkou — bez vlastního vývoje nebo nástrojů. Stačí nám vaše logo; o zbytek se postaráme my.",
+      "cta": "Stát se partnerem"
+    },
+    "why": {
+      "title": "Proč s námi spolupracovat",
+      "items": {
+        "0": {
+          "title": "Osvědčená řešení",
+          "body": "Každý produkt je výsledkem intenzivního vývoje a je navržen pro spolehlivý výkon — řada, na kterou můžete dát své jméno s důvěrou."
+        },
+        "1": {
+          "title": "Snadná customizace",
+          "body": "K přípravě produktů, které můžete prodávat pod vlastní značkou, potřebujeme jen vaše logo."
+        },
+        "2": {
+          "title": "Prémiová podpora",
+          "body": "Provedeme vás celým procesem, abyste mohli rozšířit značku i prodeje."
+        }
+      }
+    },
+    "ways": {
+      "title": "Dva způsoby brandingu produktů",
+      "print": {
+        "title": "Potisk",
+        "body": "Vaše logo vytištěné přímo na produktu."
+      },
+      "cutout": {
+        "title": "Výřez loga",
+        "body": "Vaše logo integrované přímo do materiálu jako unikátní výřez — prémiové řešení, které žádný jiný výrobce nenabízí, a silný diferenciátor vaší řady."
+      }
+    },
+    "beyond": {
+      "title": "Úpravy i mimo samotný produkt",
+      "packaging": {
+        "title": "Balení a etikety",
+        "body": "Přidejte logo, firemní údaje, názvy produktů, popisy, EAN kódy a další informace na krabice, master boxy nebo jednotlivé sáčky — připravené k prodeji pod vaší značkou."
+      },
+      "mix": {
+        "title": "Barva a vůně",
+        "body": "Nabídněte vlastní podpisovou kombinaci barvy a vůně z našeho sortimentu."
+      }
+    },
+    "goodToKnow": {
+      "title": "Dobré vědět",
+      "items": {
+        "0": "Minimální objednací množství závisí na konkrétním produktu, který si vyberete.",
+        "1": "U každého produktu s brandingem se účtuje jednorázový setup fee, který pokrývá nástroje a přípravu potřebnou pro reprodukci vašeho brandingu.",
+        "2": "Všechny brandované produkty vyrábíme na zakázku podle vaší specifikace.",
+        "3": "Přesná minimální množství, ceny a dodací lhůty sdílíme v nabídce poté, co pochopíme vaše konkrétní požadavky."
+      }
+    },
+    "form": {
+      "title": "Staňte se partnerem",
+      "description": "Pošlete nám svou poptávku a jeden z našich obchodních zástupců vás bude přímo kontaktovat kvůli detailům.",
+      "name": "Jméno",
+      "company": "Název firmy",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "products": "Produkty pro private label",
+      "productsHint": "Zadejte množství jen u produktů, které chcete brandovat. Nemusíte vyplnit všechny položky — detaily doladíme po poptávce.",
+      "quantity": "Množství (ks)",
+      "message": "Zpráva",
+      "submit": "Odeslat zprávu",
+      "submitting": "Odesílám…",
+      "success": "Děkujeme — brzy se vám ozveme.",
+      "error": "Něco se pokazilo. Zkuste to prosím znovu za chvíli.",
+      "alertSelect": "Zadejte prosím množství alespoň u jednoho produktu. Nemusíte objednávat všechny produkty.",
+      "boundaryError": "Formulář se nepodařilo načíst. Obnovte stránku nebo napište na support@ekcos.eu."
     }
   }
 }
