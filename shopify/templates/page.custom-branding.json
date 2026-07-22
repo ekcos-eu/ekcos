@@ -1,0 +1,9 @@
+{
+  "sections": {
+    "main": {
+      "type": "custom-branding",
+      "settings": {}
+    }
+  },
+  "order": ["main"]
+}

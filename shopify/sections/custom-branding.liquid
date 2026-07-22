@@ -1,0 +1,1185 @@
+{% comment %}
+  Custom Branding landing page for ëkcos Shopify store.
+  Assign this section via the page.custom-branding template.
+  Contact submissions use Shopify's native contact form → store customer email
+  (set to support@ekcos.eu in Settings → Notifications / Customer email).
+{% endcomment %}
+
+<section class="cb" id="custom-branding" aria-labelledby="cb-hero-title">
+  <div class="cb__hero">
+    <div class="cb__wrap cb__hero-inner">
+      <p class="cb__eyebrow">{{ section.settings.eyebrow }}</p>
+      <h1 class="cb__title" id="cb-hero-title">{{ section.settings.title }}</h1>
+      <p class="cb__lead">{{ section.settings.lead }}</p>
+      <p class="cb__intro">{{ section.settings.intro }}</p>
+      <div class="cb__hero-actions">
+        <a class="cb__btn cb__btn--primary" href="#inquiry">{{ section.settings.cta_label }}</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="cb__wrap cb__section">
+    <h2 class="cb__h2">{{ section.settings.why_title }}</h2>
+    <div class="cb__grid cb__grid--3">
+      <article class="cb__card">
+        <h3 class="cb__h3">{{ section.settings.why_1_title }}</h3>
+        <p>{{ section.settings.why_1_body }}</p>
+      </article>
+      <article class="cb__card">
+        <h3 class="cb__h3">{{ section.settings.why_2_title }}</h3>
+        <p>{{ section.settings.why_2_body }}</p>
+      </article>
+      <article class="cb__card">
+        <h3 class="cb__h3">{{ section.settings.why_3_title }}</h3>
+        <p>{{ section.settings.why_3_body }}</p>
+      </article>
+    </div>
+  </div>
+
+  <div class="cb__band">
+    <div class="cb__wrap cb__section">
+      <h2 class="cb__h2">{{ section.settings.ways_title }}</h2>
+      <div class="cb__grid cb__grid--2">
+        <article class="cb__card cb__card--accent">
+          <h3 class="cb__h3">{{ section.settings.way_print_title }}</h3>
+          <p>{{ section.settings.way_print_body }}</p>
+        </article>
+        <article class="cb__card cb__card--accent">
+          <h3 class="cb__h3">{{ section.settings.way_cutout_title }}</h3>
+          <p>{{ section.settings.way_cutout_body }}</p>
+        </article>
+      </div>
+    </div>
+  </div>
+
+  <div class="cb__wrap cb__section">
+    <h2 class="cb__h2">{{ section.settings.beyond_title }}</h2>
+    <div class="cb__grid cb__grid--2">
+      <article class="cb__card">
+        <h3 class="cb__h3">{{ section.settings.beyond_pack_title }}</h3>
+        <p>{{ section.settings.beyond_pack_body }}</p>
+      </article>
+      <article class="cb__card">
+        <h3 class="cb__h3">{{ section.settings.beyond_mix_title }}</h3>
+        <p>{{ section.settings.beyond_mix_body }}</p>
+      </article>
+    </div>
+  </div>
+
+  <div class="cb__band">
+    <div class="cb__wrap cb__section">
+      <h2 class="cb__h2">{{ section.settings.pricing_title }}</h2>
+      <p class="cb__section-desc">{{ section.settings.pricing_desc }}</p>
+      <div class="cb__grid cb__grid--3">
+        <article class="cb__card cb__card--soft">
+          <h3 class="cb__h3">One-time entry fee</h3>
+          <ul class="cb__list">
+            <li>Option A: Logo cut-out — one-time fee of <strong>350 EUR</strong> per product (mold inserts).</li>
+            <li>Option B: Print — one-time fee of <strong>120 EUR</strong> per product (printing plates).</li>
+          </ul>
+        </article>
+        <article class="cb__card cb__card--soft">
+          <h3 class="cb__h3">Branding cost</h3>
+          <ul class="cb__list">
+            <li>Option A: Logo cut-out is free of charge after paying the entry fee.</li>
+            <li>Option B: Logo print is charged at <strong>+0.02 EUR</strong> per piece. Exception: Fresh Drop and EZ Trap are free of charge.</li>
+          </ul>
+        </article>
+        <article class="cb__card cb__card--soft">
+          <h3 class="cb__h3">Custom labels on packaging</h3>
+          <ul class="cb__list">
+            <li>B&amp;W labels on boxes and master cases: free of charge.</li>
+            <li>Color labels: <strong>+0.02 EUR</strong> per product piece.</li>
+            <li>Additional labels on cellophane bags: B&amp;W <strong>+0.02 EUR</strong>, color <strong>+0.06 EUR</strong> per bag.</li>
+            <li>Labels can include logo, address, product names, descriptions, EAN codes, and related data.</li>
+          </ul>
+        </article>
+      </div>
+    </div>
+  </div>
+
+  <div class="cb__wrap cb__section">
+    <h2 class="cb__h2">MOQ for standard branding</h2>
+    <p class="cb__section-desc">Minimum order quantities for standard branding with logo cut-outs or printing.</p>
+    <div class="cb__table-wrap">
+      <table class="cb__table">
+        <thead>
+          <tr>
+            <th scope="col">Product</th>
+            <th scope="col">MOQ [pcs]</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>Xcreen HD</td><td>576</td></tr>
+          <tr><td>Ekcoscreen</td><td>576</td></tr>
+          <tr><td>Powerscreen</td><td>1080</td></tr>
+          <tr><td>Basic Screen</td><td>1080</td></tr>
+          <tr><td>Urolite</td><td>1080</td></tr>
+          <tr><td>Ekcoclip</td><td>1080</td></tr>
+          <tr><td>Fresh Drop Locks</td><td>Bases: 144 + Inserts: 288 = 480</td></tr>
+          <tr><td>EZ Trap</td><td>30</td></tr>
+          <tr><td>Xcreen Puck</td><td>720</td></tr>
+          <tr><td>Fresh Drop*</td><td>288 bases only</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="cb__note">* If you would like to order only the Fresh Drop bases, the MOQ is 288 pcs.</p>
+  </div>
+
+  <div class="cb__band">
+    <div class="cb__wrap cb__section">
+      <h2 class="cb__h2">Custom color and fragrance mix</h2>
+      <p class="cb__section-desc">We can produce a custom combination of fragrance and color from our range. Minimum order quantity corresponds to a full pallet of each customized product.</p>
+      <div class="cb__table-wrap">
+        <table class="cb__table">
+          <thead>
+            <tr>
+              <th scope="col">Product</th>
+              <th scope="col">MOQ [pcs]</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>Xcreen HD</td><td>3600</td></tr>
+            <tr><td>Ekcoscreen</td><td>3600</td></tr>
+            <tr><td>Powerscreen</td><td>4320</td></tr>
+            <tr><td>Basic Screen*</td><td>6480</td></tr>
+            <tr><td>Urolite</td><td>6912</td></tr>
+            <tr><td>Ekcoclip</td><td>4320</td></tr>
+            <tr><td>Fresh Drop Inserts</td><td>2592</td></tr>
+            <tr><td>Xcreen Puck</td><td>2592</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="cb__note">* Basic Screen MOQ is for a half pallet.</p>
+    </div>
+  </div>
+
+  <div class="cb__wrap cb__section">
+    <h2 class="cb__h2">Good to know</h2>
+    <ul class="cb__bullets">
+      <li>The minimum order quantity depends on the specific product you choose.</li>
+      <li>A one-time set-up fee applies for each product you wish to brand — it covers the tooling and preparation needed to reproduce your branding.</li>
+      <li>All branded products are made to order, to your specification.</li>
+      <li>We share the exact minimum quantities, pricing and lead times together with your quote, once we understand your specific requirements.</li>
+      <li>Production takes place in Mexico; products are delivered to the European hub in the Czech Republic.</li>
+      <li>Typical production and delivery time is <strong>6 to 10 weeks</strong>.</li>
+      <li>All customized products must be paid <strong>100% in advance</strong>.</li>
+    </ul>
+  </div>
+
+  <div class="cb__wrap cb__section" id="inquiry">
+    <h2 class="cb__h2">{{ section.settings.form_title }}</h2>
+    <p class="cb__section-desc">{{ section.settings.form_desc }}</p>
+
+    <div class="cb__form-shell">
+      {% form 'contact', id: 'custom-branding-form', class: 'cb__form' %}
+        {% if form.posted_successfully? %}
+          <p class="cb__alert cb__alert--success" role="status">
+            {{ section.settings.form_success }}
+          </p>
+        {% endif %}
+
+        {% if form.errors %}
+          <div class="cb__alert cb__alert--error" role="alert">
+            {{ form.errors | default_errors }}
+          </div>
+        {% endif %}
+
+        <input type="hidden" name="contact[form_name]" value="Custom Branding inquiry">
+
+        <div class="cb__form-grid">
+          <div class="cb__field">
+            <label for="cb-name">{{ section.settings.label_name }}</label>
+            <input
+              id="cb-name"
+              type="text"
+              name="contact[name]"
+              autocomplete="name"
+              required
+              value="{% if form.name %}{{ form.name }}{% endif %}"
+            >
+          </div>
+
+          <div class="cb__field">
+            <label for="cb-company">{{ section.settings.label_company }}</label>
+            <input
+              id="cb-company"
+              type="text"
+              name="contact[company]"
+              autocomplete="organization"
+              required
+              value="{% if form.company %}{{ form.company }}{% endif %}"
+            >
+          </div>
+
+          <div class="cb__field">
+            <label for="cb-email">{{ section.settings.label_email }}</label>
+            <input
+              id="cb-email"
+              type="email"
+              name="contact[email]"
+              autocomplete="email"
+              required
+              value="{% if form.email %}{{ form.email }}{% endif %}"
+            >
+          </div>
+
+          <div class="cb__field">
+            <label for="cb-phone">{{ section.settings.label_phone }}</label>
+            <input
+              id="cb-phone"
+              type="tel"
+              name="contact[phone]"
+              autocomplete="tel"
+              value="{% if form.phone %}{{ form.phone }}{% endif %}"
+            >
+          </div>
+
+          <div class="cb__field cb__field--full">
+            <span class="cb__products-label" id="cb-products-label">{{ section.settings.label_products }}</span>
+            <p class="cb__field-hint">{{ section.settings.products_hint }}</p>
+
+            <div
+              class="cb__products"
+              data-cb-products
+              role="group"
+              aria-labelledby="cb-products-label"
+            >
+              {% comment %} Items separated by ;;  fields: name|image|moq_number|moq_label {% endcomment %}
+              {% assign branding_products = 'Xcreen HD|cb-xcreen-hd.png|576|Min. 576 pcs;;Ekcoscreen|cb-ekcoscreen.png|576|Min. 576 pcs;;Powerscreen|cb-powerscreen.png|1080|Min. 1080 pcs;;Basic Screen|cb-basic-screen.png|1080|Min. 1080 pcs;;Urolite|cb-urolite.png|1080|Min. 1080 pcs;;Ekcoclip|cb-ekcoclip.png|1080|Min. 1080 pcs;;Fresh Drop|cb-fresh-drop.png|288|Min. 288 pcs;;Fresh Drop Locks|cb-fresh-drop-locks.png|480|Min. 480 pcs;;EZ Trap|cb-ez-trap.png|30|Min. 30 pcs;;Xcreen Puck|cb-xcreen-puck.png|720|Min. 720 pcs' | split: ';;' %}
+              {% for item in branding_products %}
+                {% assign parts = item | split: '|' %}
+                {% assign product_name = parts[0] %}
+                {% assign product_image = parts[1] %}
+                {% assign product_moq = parts[2] %}
+                {% assign product_moq_label = parts[3] %}
+                {% assign product_id = product_name | handleize %}
+                <div class="cb__product-row" data-cb-product-row>
+                  <div class="cb__product-info">
+                    <img
+                      class="cb__product-thumb"
+                      src="{{ product_image | asset_url }}"
+                      alt="{{ product_name }}"
+                      width="56"
+                      height="56"
+                      loading="lazy"
+                    >
+                    <div class="cb__product-meta">
+                      <span class="cb__product-name">{{ product_name }}</span>
+                      <span class="cb__product-moq">{{ product_moq_label }}</span>
+                    </div>
+                  </div>
+                  <div class="cb__product-qty">
+                    <label class="cb__product-qty-label" for="cb-qty-{{ product_id }}">
+                      {{ section.settings.label_quantity }}
+                    </label>
+                    <input
+                      id="cb-qty-{{ product_id }}"
+                      class="cb__product-qty-input"
+                      type="number"
+                      min="0"
+                      step="1"
+                      inputmode="numeric"
+                      placeholder="0"
+                      data-cb-product-qty
+                      data-product-name="{{ product_name }}"
+                      data-product-moq="{{ product_moq }}"
+                    >
+                  </div>
+                </div>
+              {% endfor %}
+            </div>
+
+            <input type="hidden" name="contact[products]" id="cb-products" value="" data-cb-products-hidden>
+            <input type="hidden" name="contact[quantity]" id="cb-quantity-total" value="" data-cb-quantity-hidden>
+          </div>
+
+          <div class="cb__field cb__field--full">
+            <label for="cb-message">{{ section.settings.label_message }}</label>
+            <textarea
+              id="cb-message"
+              name="contact[body]"
+              rows="5"
+              required
+            >{% if form.body %}{{ form.body }}{% endif %}</textarea>
+          </div>
+        </div>
+
+        <button type="submit" class="cb__btn cb__btn--primary cb__btn--submit">
+          {{ section.settings.submit_label }}
+        </button>
+      {% endform %}
+    </div>
+  </div>
+</section>
+
+<style>
+  /*
+    Theme uses Dawn-style root: html { font-size: calc(var(--font-body-scale) * 62.5%) }
+    so 1rem ≈ 10px. Body copy on the shop is typically 1.5–1.6rem (15–16px).
+    All sizes below follow that scale.
+  */
+  .cb {
+    --cb-blue: #0F68B2;
+    --cb-ink: #1a1a1a;
+    --cb-body: #2c2c2c;
+    --cb-muted: #555555;
+    --cb-line: #e5e5e5;
+    --cb-soft: #f7f7f7;
+    --cb-band: #f5f8fb;
+    --cb-white: #ffffff;
+    --cb-radius: 0.4rem;
+    color: var(--cb-body);
+    background: var(--cb-white);
+    font-family: var(--font-body-family, inherit);
+    font-style: var(--font-body-style, normal);
+    font-weight: var(--font-body-weight, 400);
+    font-size: 1.6rem;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .cb *,
+  .cb *::before,
+  .cb *::after {
+    box-sizing: border-box;
+  }
+
+  .cb__wrap {
+    width: min(1100px, calc(100% - 3rem));
+    margin-inline: auto;
+  }
+
+  .cb__hero {
+    background:
+      radial-gradient(120% 80% at 50% -20%, rgba(15, 104, 178, 0.14), transparent 55%),
+      linear-gradient(180deg, #eef5fb 0%, #ffffff 78%);
+    padding: 6rem 0 4.5rem;
+    text-align: center;
+  }
+
+  .cb__eyebrow {
+    margin: 0;
+    font-family: var(--font-heading-family, inherit);
+    font-size: 1.3rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--cb-blue);
+  }
+
+  .cb__title {
+    margin: 1.2rem 0 0;
+    font-family: var(--font-heading-family, inherit);
+    font-style: var(--font-heading-style, normal);
+    font-weight: var(--font-heading-weight, 700);
+    font-size: 3.6rem;
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+    color: var(--cb-ink);
+    text-wrap: balance;
+  }
+
+  .cb__lead {
+    margin: 1.6rem auto 0;
+    max-width: 56rem;
+    font-family: var(--font-heading-family, inherit);
+    font-size: 2.4rem;
+    font-weight: 700;
+    line-height: 1.3;
+    color: var(--cb-blue);
+    text-wrap: balance;
+  }
+
+  .cb__intro {
+    margin: 1.8rem auto 0;
+    max-width: 68rem;
+    font-size: 1.7rem;
+    line-height: 1.7;
+    color: var(--cb-body);
+    text-align: left;
+  }
+
+  .cb__hero-actions {
+    margin-top: 2.8rem;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .cb__section {
+    padding: 5.5rem 0;
+  }
+
+  .cb__band {
+    background: var(--cb-band);
+  }
+
+  .cb__h2 {
+    margin: 0;
+    font-family: var(--font-heading-family, inherit);
+    font-style: var(--font-heading-style, normal);
+    font-weight: var(--font-heading-weight, 700);
+    font-size: 2.6rem;
+    line-height: 1.25;
+    letter-spacing: -0.01em;
+    color: var(--cb-ink);
+  }
+
+  #inquiry .cb__h2 {
+    color: var(--cb-ink);
+    display: inline-block;
+    padding-bottom: 0.5rem;
+    border-bottom: 0.3rem solid var(--cb-blue);
+  }
+
+  .cb__h3 {
+    margin: 0;
+    font-family: var(--font-heading-family, inherit);
+    font-style: var(--font-heading-style, normal);
+    font-weight: var(--font-heading-weight, 700);
+    font-size: 2rem;
+    line-height: 1.3;
+    color: var(--cb-ink);
+  }
+
+  .cb__section-desc {
+    margin: 1.2rem 0 0;
+    max-width: 70rem;
+    font-size: 1.7rem;
+    line-height: 1.65;
+    color: var(--cb-body);
+  }
+
+  .cb__grid {
+    display: grid;
+    gap: 2rem;
+    margin-top: 2.8rem;
+  }
+
+  .cb__grid--2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .cb__grid--3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .cb__card {
+    border: 0.1rem solid var(--cb-line);
+    border-radius: var(--cb-radius);
+    background: var(--cb-white);
+    padding: 2.4rem;
+  }
+
+  .cb__card p {
+    margin: 1.2rem 0 0;
+    color: var(--cb-body);
+    font-size: 1.6rem;
+    line-height: 1.65;
+  }
+
+  .cb__card--soft {
+    background: var(--cb-soft);
+  }
+
+  .cb__card--accent {
+    border-color: rgba(15, 104, 178, 0.22);
+  }
+
+  .cb__list,
+  .cb__bullets {
+    margin: 1.4rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .cb__list li,
+  .cb__bullets li {
+    position: relative;
+    padding-left: 1.6rem;
+    margin-top: 1rem;
+    color: var(--cb-body);
+    font-size: 1.6rem;
+    line-height: 1.65;
+  }
+
+  .cb__list li::before,
+  .cb__bullets li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.7em;
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 999px;
+    background: var(--cb-blue);
+  }
+
+  .cb__table-wrap {
+    margin-top: 2.4rem;
+    overflow-x: auto;
+    border: 0.1rem solid var(--cb-line);
+    border-radius: var(--cb-radius);
+    background: var(--cb-white);
+  }
+
+  .cb__table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 42rem;
+    font-size: 1.6rem;
+  }
+
+  .cb__table th,
+  .cb__table td {
+    text-align: left;
+    padding: 1.4rem 1.6rem;
+    border-bottom: 0.1rem solid var(--cb-line);
+  }
+
+  .cb__table th {
+    background: var(--cb-soft);
+    font-family: var(--font-heading-family, inherit);
+    font-weight: 700;
+    color: var(--cb-ink);
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  .cb__table tr:last-child td {
+    border-bottom: 0;
+  }
+
+  .cb__note {
+    margin: 1.4rem 0 0;
+    font-size: 1.5rem;
+    line-height: 1.55;
+    color: var(--cb-muted);
+  }
+
+  .cb__form-shell {
+    margin-top: 2.8rem;
+    max-width: 72rem;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    padding: 0;
+  }
+
+  .cb__form-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 2rem 2.2rem;
+  }
+
+  .cb__field {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+  }
+
+  .cb__field--full {
+    grid-column: 1 / -1;
+  }
+
+  .cb__field label {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--cb-ink);
+  }
+
+  .cb__field input,
+  .cb__field textarea {
+    width: 100%;
+    border: 0.1rem solid #cfcfcf;
+    border-radius: 0;
+    background: var(--cb-white);
+    color: var(--cb-ink);
+    padding: 1.4rem 1.5rem;
+    font: inherit;
+    font-size: 1.6rem;
+  }
+
+  .cb__field textarea {
+    resize: vertical;
+    min-height: 14rem;
+  }
+
+  .cb__field input:focus,
+  .cb__field textarea:focus {
+    outline: none;
+    border-color: var(--cb-blue);
+    box-shadow: 0 0 0 0.2rem rgba(15, 104, 178, 0.2);
+  }
+
+  .cb__field-hint {
+    margin: 0.4rem 0 1.4rem;
+    font-size: 1.4rem;
+    color: var(--cb-muted);
+  }
+
+  .cb__products-label {
+    display: block;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--cb-ink);
+  }
+
+  .cb__products {
+    display: grid;
+    gap: 0;
+    border: 0.1rem solid var(--cb-line);
+    background: var(--cb-white);
+  }
+
+  .cb__product-row {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 1.6rem;
+    align-items: center;
+    padding: 1.4rem 1.6rem;
+    border-bottom: 0.1rem solid var(--cb-line);
+  }
+
+  .cb__product-row:last-child {
+    border-bottom: 0;
+  }
+
+  .cb__product-row.is-active {
+    background: rgba(15, 104, 178, 0.04);
+  }
+
+  .cb__product-info {
+    display: flex;
+    align-items: center;
+    gap: 1.4rem;
+    min-width: 0;
+  }
+
+  .cb__product-thumb {
+    width: 5.6rem;
+    height: 5.6rem;
+    object-fit: contain;
+    flex-shrink: 0;
+    background: #f3f5f7;
+    border: 0.1rem solid var(--cb-line);
+  }
+
+  .cb__product-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    min-width: 0;
+  }
+
+  .cb__product-name {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--cb-ink);
+    line-height: 1.3;
+  }
+
+  .cb__product-moq {
+    font-size: 1.35rem;
+    font-weight: 600;
+    color: var(--cb-blue);
+    line-height: 1.3;
+  }
+
+  .cb__product-row.is-invalid .cb__product-qty-input {
+    border-color: #b91c1c;
+    box-shadow: 0 0 0 0.2rem rgba(185, 28, 28, 0.15);
+  }
+
+  .cb__product-qty {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .cb__product-qty-label {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: var(--cb-muted);
+    white-space: nowrap;
+  }
+
+  .cb__product-qty-input {
+    width: 11rem;
+    border: 0.1rem solid #cfcfcf;
+    border-radius: 0;
+    background: var(--cb-white);
+    color: var(--cb-ink);
+    padding: 1rem 1.2rem;
+    font: inherit;
+    font-size: 1.6rem;
+    text-align: right;
+  }
+
+  .cb__product-qty-input:focus {
+    outline: none;
+    border-color: var(--cb-blue);
+    box-shadow: 0 0 0 0.2rem rgba(15, 104, 178, 0.2);
+  }
+
+  .cb__btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 5rem;
+    padding: 1.2rem 2.8rem;
+    border-radius: 0;
+    border: 0.1rem solid transparent;
+    font-family: var(--font-button-family, inherit);
+    font-size: 1.4rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  }
+
+  .cb__btn--primary {
+    background: var(--cb-blue);
+    color: #fff;
+  }
+
+  .cb__btn--primary:hover {
+    background: #0c5796;
+  }
+
+  .cb__btn--submit {
+    width: auto;
+    min-width: 18rem;
+    margin-top: 2.2rem;
+  }
+
+  .cb__alert {
+    margin: 0 0 1.6rem;
+    padding: 1.4rem 1.6rem;
+    border-radius: 0;
+    font-size: 1.6rem;
+  }
+
+  .cb__alert--success {
+    background: rgba(15, 104, 178, 0.1);
+    color: var(--cb-blue);
+  }
+
+  .cb__alert--error {
+    background: #fef2f2;
+    color: #991b1b;
+  }
+
+  @media screen and (min-width: 750px) {
+    .cb__title {
+      font-size: 4.8rem;
+    }
+
+    .cb__lead {
+      font-size: 2.8rem;
+    }
+
+    .cb__h2 {
+      font-size: 3.2rem;
+    }
+
+    .cb__h3 {
+      font-size: 2.2rem;
+    }
+
+    .cb__intro,
+    .cb__section-desc,
+    .cb__card p,
+    .cb__list li,
+    .cb__bullets li,
+    .cb__table {
+      font-size: 1.7rem;
+    }
+  }
+
+  @media (max-width: 860px) {
+    .cb__wrap {
+      width: min(1100px, calc(100% - 2rem));
+    }
+
+    .cb__grid--2,
+    .cb__grid--3,
+    .cb__form-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .cb__hero {
+      padding: 4.5rem 0 3rem;
+    }
+
+    .cb__section {
+      padding: 4rem 0;
+    }
+
+    .cb__card {
+      padding: 2rem;
+    }
+
+    .cb__title {
+      font-size: 3.2rem;
+    }
+
+    .cb__lead {
+      font-size: 2.2rem;
+    }
+
+    .cb__h2 {
+      font-size: 2.4rem;
+    }
+
+    .cb__btn--submit {
+      width: 100%;
+    }
+
+    .cb__product-row {
+      grid-template-columns: 1fr;
+      gap: 1.2rem;
+    }
+
+    .cb__product-qty {
+      justify-content: space-between;
+    }
+
+    .cb__product-qty-input {
+      width: 12rem;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .cb__btn {
+      transition: none;
+    }
+  }
+</style>
+
+<script>
+  (function () {
+    var root = document.querySelector('[data-cb-products]');
+    if (!root) return;
+
+    var qtyInputs = root.querySelectorAll('[data-cb-product-qty]');
+    var productsHidden = document.querySelector('[data-cb-products-hidden]');
+    var quantityHidden = document.querySelector('[data-cb-quantity-hidden]');
+    var form = root.closest('form');
+
+    function parseQty(input) {
+      var raw = String(input.value || '').trim();
+      if (!raw) return null;
+      var qty = parseInt(raw, 10);
+      if (isNaN(qty)) return null;
+      return qty;
+    }
+
+    function sync() {
+      var lines = [];
+      var total = 0;
+
+      Array.prototype.forEach.call(qtyInputs, function (input) {
+        var qty = parseQty(input);
+        var row = input.closest('[data-cb-product-row]');
+        var name = input.getAttribute('data-product-name') || '';
+        var moq = parseInt(input.getAttribute('data-product-moq') || '0', 10);
+
+        if (row) {
+          row.classList.toggle('is-active', qty !== null && qty > 0);
+          row.classList.toggle('is-invalid', qty !== null && qty > 0 && qty < moq);
+        }
+
+        if (qty === null || qty <= 0) return;
+
+        lines.push(name + ': ' + qty + ' pcs (MOQ ' + moq + ')');
+        total += qty;
+      });
+
+      if (productsHidden) productsHidden.value = lines.join('; ');
+      if (quantityHidden) quantityHidden.value = total > 0 ? String(total) : '';
+    }
+
+    function validate() {
+      var selected = 0;
+      var belowMoq = [];
+
+      Array.prototype.forEach.call(qtyInputs, function (input) {
+        var qty = parseQty(input);
+        var name = input.getAttribute('data-product-name') || '';
+        var moq = parseInt(input.getAttribute('data-product-moq') || '0', 10);
+
+        if (qty === null || qty <= 0) return;
+        selected += 1;
+        if (qty < moq) belowMoq.push(name + ' (min. ' + moq + ' pcs)');
+      });
+
+      if (!selected) {
+        return 'Please enter a quantity for at least one product. You do not need to order every product.';
+      }
+
+      if (belowMoq.length) {
+        return 'Quantity is below the minimum for: ' + belowMoq.join(', ') + '.';
+      }
+
+      return '';
+    }
+
+    Array.prototype.forEach.call(qtyInputs, function (input) {
+      input.addEventListener('input', sync);
+      input.addEventListener('change', sync);
+    });
+
+    if (form) {
+      form.addEventListener('submit', function (event) {
+        sync();
+        var error = validate();
+        if (error) {
+          event.preventDefault();
+          root.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          var invalid = root.querySelector('.is-invalid [data-cb-product-qty]') || qtyInputs[0];
+          if (invalid) invalid.focus();
+          window.alert(error);
+        }
+      });
+    }
+
+    sync();
+  })();
+</script>
+
+{% schema %}
+{
+  "name": "Custom Branding",
+  "tag": "section",
+  "class": "section-custom-branding",
+  "settings": [
+    {
+      "type": "text",
+      "id": "eyebrow",
+      "label": "Eyebrow",
+      "default": "B2B custom branding"
+    },
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title",
+      "default": "Custom Branding"
+    },
+    {
+      "type": "textarea",
+      "id": "lead",
+      "label": "Lead",
+      "default": "Put your logo on the products you use"
+    },
+    {
+      "type": "textarea",
+      "id": "intro",
+      "label": "Intro",
+      "default": "Make our products your own. With custom branding we personalize our proven washroom products with your logo, so every detail reflects your business. Ideal for restaurants, hotels, facility and cleaning companies, offices and chains that want a consistent, professional impression across all locations. All we need is your logo — we take care of the rest."
+    },
+    {
+      "type": "text",
+      "id": "cta_label",
+      "label": "Hero CTA label",
+      "default": "Request a quote"
+    },
+    {
+      "type": "text",
+      "id": "why_title",
+      "label": "Why title",
+      "default": "Why choose custom branding"
+    },
+    {
+      "type": "text",
+      "id": "why_1_title",
+      "label": "Why card 1 title",
+      "default": "Proven products"
+    },
+    {
+      "type": "textarea",
+      "id": "why_1_body",
+      "label": "Why card 1 body",
+      "default": "Every item is the result of intensive development and engineered for reliable performance. Your logo goes on a product that already works."
+    },
+    {
+      "type": "text",
+      "id": "why_2_title",
+      "label": "Why card 2 title",
+      "default": "A simple process"
+    },
+    {
+      "type": "textarea",
+      "id": "why_2_body",
+      "label": "Why card 2 body",
+      "default": "We only need your logo to prepare your personalized products, and we keep every step easy."
+    },
+    {
+      "type": "text",
+      "id": "why_3_title",
+      "label": "Why card 3 title",
+      "default": "Support all the way"
+    },
+    {
+      "type": "textarea",
+      "id": "why_3_body",
+      "label": "Why card 3 body",
+      "default": "Our team guides you through the whole process, from the first idea to delivery."
+    },
+    {
+      "type": "text",
+      "id": "ways_title",
+      "label": "Ways title",
+      "default": "Two ways to brand our products"
+    },
+    {
+      "type": "text",
+      "id": "way_print_title",
+      "label": "Printed branding title",
+      "default": "Printed branding"
+    },
+    {
+      "type": "textarea",
+      "id": "way_print_body",
+      "label": "Printed branding body",
+      "default": "Your logo printed directly onto the product."
+    },
+    {
+      "type": "text",
+      "id": "way_cutout_title",
+      "label": "Logo cut-out title",
+      "default": "Logo cut-out"
+    },
+    {
+      "type": "textarea",
+      "id": "way_cutout_body",
+      "label": "Logo cut-out body",
+      "default": "Your logo integrated into the material itself as a unique cut-out — a distinctive, premium finish that no other manufacturer offers."
+    },
+    {
+      "type": "text",
+      "id": "beyond_title",
+      "label": "Beyond title",
+      "default": "Customize beyond the product"
+    },
+    {
+      "type": "text",
+      "id": "beyond_pack_title",
+      "label": "Packaging title",
+      "default": "Packaging & labels"
+    },
+    {
+      "type": "textarea",
+      "id": "beyond_pack_body",
+      "label": "Packaging body",
+      "default": "Add your logo, company details, product names and descriptions, EAN codes and more to boxes, master cases or individual product bags."
+    },
+    {
+      "type": "text",
+      "id": "beyond_mix_title",
+      "label": "Colour & fragrance title",
+      "default": "Colour & fragrance"
+    },
+    {
+      "type": "textarea",
+      "id": "beyond_mix_body",
+      "label": "Colour & fragrance body",
+      "default": "Create your own signature combination of colour and scent from our range."
+    },
+    {
+      "type": "text",
+      "id": "pricing_title",
+      "label": "Pricing title",
+      "default": "Commercial terms"
+    },
+    {
+      "type": "textarea",
+      "id": "pricing_desc",
+      "label": "Pricing description",
+      "default": "Published fees: one-time setup, per-unit branding, and optional packaging labels."
+    },
+    {
+      "type": "text",
+      "id": "form_title",
+      "label": "Form title",
+      "default": "Interested?"
+    },
+    {
+      "type": "textarea",
+      "id": "form_desc",
+      "label": "Form description",
+      "default": "Send us your specific request and one of our sales representatives will contact you directly to discuss the details."
+    },
+    {
+      "type": "text",
+      "id": "label_name",
+      "label": "Name label",
+      "default": "Name"
+    },
+    {
+      "type": "text",
+      "id": "label_company",
+      "label": "Company label",
+      "default": "Company name"
+    },
+    {
+      "type": "text",
+      "id": "label_email",
+      "label": "Email label",
+      "default": "Email"
+    },
+    {
+      "type": "text",
+      "id": "label_phone",
+      "label": "Phone label",
+      "default": "Phone"
+    },
+    {
+      "type": "text",
+      "id": "label_products",
+      "label": "Products label",
+      "default": "Products for custom branding"
+    },
+    {
+      "type": "text",
+      "id": "products_hint",
+      "label": "Products hint",
+      "default": "Enter a quantity only for products you want to brand. Each product has its own minimum order quantity (MOQ) — you do not need to order every product."
+    },
+    {
+      "type": "text",
+      "id": "label_quantity",
+      "label": "Quantity label",
+      "default": "Qty (pcs)"
+    },
+    {
+      "type": "text",
+      "id": "label_message",
+      "label": "Message label",
+      "default": "Message"
+    },
+    {
+      "type": "text",
+      "id": "submit_label",
+      "label": "Submit label",
+      "default": "Send message"
+    },
+    {
+      "type": "text",
+      "id": "form_success",
+      "label": "Success message",
+      "default": "Thank you — we will get back to you shortly."
+    }
+  ],
+  "presets": [
+    {
+      "name": "Custom Branding"
+    }
+  ]
+}
+{% endschema %}
