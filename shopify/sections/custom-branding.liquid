@@ -536,7 +536,7 @@
               aria-labelledby="cb-products-label"
             >
               {% comment %} Items separated by ;;  fields: name|image {% endcomment %}
-              {% assign branding_products = 'Xcreen HD|cb-xcreen-hd.png;;Ekcoscreen|cb-ekcoscreen.png;;Powerscreen|cb-powerscreen.png;;Basic Screen|cb-basic-screen.png;;Urolite|cb-urolite.png;;Ekcoclip|cb-ekcoclip.png;;Fresh Drop|cb-fresh-drop.png;;Fresh Drop Locks|cb-fresh-drop-locks.png;;EZ Trap|cb-ez-trap.png;;Xcreen Puck|cb-xcreen-puck.png' | split: ';;' %}
+              {% assign branding_products = 'Xcreen HD|cb-xcreen-hd.png;;Ekcoscreen|cb-ekcoscreen.png;;Powerscreen|cb-powerscreen.png;;Basic Screen|cb-basic-screen.png;;Urolite|cb-urolite.png;;Ekcoclip|cb-ekcoclip.png;;Fresh Drop|cb-fresh-drop.png;;EZ Trap|cb-ez-trap.png;;Xcreen Puck|cb-xcreen-puck.png' | split: ';;' %}
               {% for item in branding_products %}
                 {% assign parts = item | split: '|' %}
                 {% assign product_name = parts[0] %}
@@ -612,7 +612,7 @@
     --cb-soft: #f7f7f7;
     --cb-band: #f5f8fb;
     --cb-white: #ffffff;
-    --cb-radius: 0.4rem;
+    --cb-radius: 1.2rem;
     color: var(--cb-body);
     background: var(--cb-white);
     font-family: var(--font-body-family, inherit);
@@ -879,7 +879,7 @@
   .cb__field textarea {
     width: 100%;
     border: 0.1rem solid #cfcfcf;
-    border-radius: 0;
+    border-radius: 0.8rem;
     background: var(--cb-white);
     color: var(--cb-ink);
     padding: 1.4rem 1.5rem;
@@ -916,7 +916,9 @@
     display: grid;
     gap: 0;
     border: 0.1rem solid var(--cb-line);
+    border-radius: var(--cb-radius);
     background: var(--cb-white);
+    overflow: hidden;
   }
 
   .cb__product-row {
@@ -975,7 +977,7 @@
   .cb__product-qty-input {
     width: 11rem;
     border: 0.1rem solid #cfcfcf;
-    border-radius: 0;
+    border-radius: 0.8rem;
     background: var(--cb-white);
     color: var(--cb-ink);
     padding: 1rem 1.2rem;
