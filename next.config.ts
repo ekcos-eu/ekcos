@@ -13,6 +13,18 @@ const nextConfig: NextConfig = {
       },
     ],
   },
+  // Product photos live in public/ and are served as static assets. Never pack
+  // them into serverless functions (readdir/tracing would exceed the 250MB limit).
+  outputFileTracingExcludes: {
+    '*': [
+      './public/products/**/*.jpg',
+      './public/products/**/*.jpeg',
+      './public/products/**/*.png',
+      './public/products/**/*.webp',
+      './public/products/**/*.JPG',
+      './public/products/**/*.PNG',
+    ],
+  },
   async redirects() {
     return [
       {

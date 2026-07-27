@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "prebuild": "bun scripts/generate-product-image-manifest.ts",
+    "predev": "bun scripts/generate-product-image-manifest.ts",
+    "generate:product-images": "bun scripts/generate-product-image-manifest.ts",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",

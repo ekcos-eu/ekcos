@@ -2,6 +2,7 @@ import fs from 'fs'
 import path from 'path'
 import { getProductBySlug } from '@/lib/products'
 import { publicPath } from '@/lib/paths'
+import detailImagesManifest from '@/lib/generated/product-detail-images.json'
 
 export type CsvVariant = {
   sku: string
@@ -118,49 +119,19 @@ function parseCsv(raw: string): Record<string, string>[] {
 // ---------------------------------------------------------------------------
 
 function localPhotostockImages(slug: string): string[] {
-  const folder = SLUG_TO_FOLDER[slug]
-  if (!folder) return []
-
-  // Use the existing Product.colors from lib/products.ts to get all local images
-  // in the correct order (matches URINAL_VARIANT_DIMS)
+  // Prefer catalog colors — never readdir PhotoStock (keeps images out of the
+  // serverless function bundle; they are served as static public assets).
   const product = getProductBySlug(slug)
   if (product?.colors && product.colors.length > 0) {
     return product.colors.map((c) => c.imageSrc)
   }
-
-  // Fallback: scan directory
-  const dir = path.join(process.cwd(), 'public', 'products', folder, 'PhotoStock')
-  try {
-    return fs
-      .readdirSync(dir)
-      .filter((f) => /\.(png|jpg|jpeg|webp)$/i.test(f))
-      .sort()
-      .map((f) => publicPath('products', folder, 'PhotoStock', f))
-  } catch {
-    return []
-  }
+  return []
 }
 
-/** Close-up / detail shots — put files in public/products/{Folder}/Detail/ */
+/** Close-up shots from the build-time manifest (public/products/{Folder}/Detail/). */
 function localDetailImages(slug: string): string[] {
-  const folder = SLUG_TO_FOLDER[slug]
-  if (!folder) return []
-
-  for (const sub of ['Detail', 'Details', 'detail', 'details'] as const) {
-    const dir = path.join(process.cwd(), 'public', 'products', folder, sub)
-    try {
-      if (!fs.existsSync(dir) || !fs.statSync(dir).isDirectory()) continue
-      const files = fs
-        .readdirSync(dir)
-        .filter((f) => /\.(png|jpg|jpeg|webp)$/i.test(f))
-        .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }))
-      if (files.length === 0) continue
-      return files.map((f) => publicPath('products', folder, sub, f))
-    } catch {
-      continue
-    }
-  }
-  return []
+  const images = (detailImagesManifest as Record<string, string[]>)[slug]
+  return images ?? []
 }
 
 // ---------------------------------------------------------------------------
