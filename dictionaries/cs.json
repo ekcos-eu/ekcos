@@ -74,6 +74,16 @@
     "getInTouch": "Kontaktovat nás",
     "ecoOne": "Eco-One™"
   },
+  "productDetail": {
+    "backToMap": "Zpět na koupelnu",
+    "buyNow": "Koupit na eshopu",
+    "price": "Cena",
+    "from": "od",
+    "variants": "Dostupné varianty",
+    "colors": "Barvy a vůně",
+    "benefits": "Klíčové výhody",
+    "more": "Více informací"
+  },
   "articles": {
     "shopCta": {
       "title": "Chcete vylepšit své toalety?",
@@ -403,16 +413,13 @@
       "short": "High-performance urinal screen engineered for consistent fragrance release and a clean appearance.",
       "long": "xcrën HD combines refined industrial design with dependable performance in high-traffic washrooms. Pair with Eco-One™ for end-of-life options aligned with your sustainability goals.",
       "benefits": {
-        "0": "Patentovaný systém štětin pokrývá 95 % plochy, brání stříkání moči a chrání před viry a bakteriemi",
-        "1": "Vlastní materiál s vůní na bázi deodorantu, která se uvolňuje postupně 60+ dní",
-        "2": "Až dvojnásobná životnost a intenzita vůně oproti běžným produktům na trhu",
-        "3": "Navrženo pro rušné toalety — restaurace, bary, letiště, nákupní centra atd.",
+        "0": "Patentovaný systém štětin pokrývá 95 % plochy a brání stříkání moči",
+        "1": "Vůně je v materiálu a uvolňuje se postupně po dobu 60+ dní",
+        "2": "Až dvojnásobná životnost a intenzita vůně oproti běžným sítkům na trhu",
+        "3": "Navrženo pro rušné toalety — restaurace, bary, letiště, nákupní centra",
         "4": "100% recyklovatelné a také biologicky odbouratelné",
-        "5": "Splňuje evropské normy VOC",
-        "6": "Netoxické pro životní prostředí, zejména vodní zdroje",
-        "7": "Ideální pro bezvodé pisoáry",
-        "8": "Jedinečný design, široká škála barev a příjemné vůně",
-        "9": "Možnost vlastního brandingu výřezy nebo tiskem"
+        "5": "Splňuje evropské normy VOC a je netoxické pro vodní zdroje",
+        "6": "Vhodné pro bezvodé pisoáry; dostupný vlastní branding"
       },
       "variants": {
         "xhd1p": "Fialová / lesní ovoce",
@@ -438,9 +445,13 @@
       "short": "Balanced performance for everyday commercial washrooms with reliable odor control.",
       "long": "ëkcoscreen delivers a practical balance of cost and performance for facilities that need dependable hygiene support without compromise on presentation.",
       "benefits": {
-        "0": "Reliable odor control for steady traffic",
-        "1": "Easy visual inspection for service teams",
-        "2": "Compatible with Eco-One™ where applicable"
+        "0": "Patentované anti-splash štětiny — čistší podlaha a méně šíření bakterií",
+        "1": "Vůně se uvolňuje postupně po dobu 60+ dní",
+        "2": "Spolehlivá kontrola zápachu pro běžné komerční toalety",
+        "3": "Snadná vizuální kontrola pro servisní týmy",
+        "4": "100% recyklovatelné a také biologicky odbouratelné",
+        "5": "Splňuje evropské normy VOC",
+        "6": "Široká škála barev a vůní; dostupný vlastní branding"
       },
       "useCases": {
         "0": "Retail",
@@ -453,9 +464,13 @@
       "short": "Built for demanding environments where performance and presentation matter.",
       "long": "powër screen is tuned for venues with high throughput, helping maintain a premium washroom experience with structured fragrance delivery.",
       "benefits": {
-        "0": "Engineered for high-traffic intervals",
-        "1": "Strong presentation for premium facilities",
-        "2": "Pairs with Eco-One™ compatible materials"
+        "0": "Anti-splash štětiny pro účinnou ochranu proti stříkání",
+        "1": "Výkon vůně laděný na servisní interval až 30 dní",
+        "2": "Navrženo pro vysoce frekventovaná místa a náročná provozy",
+        "3": "Silná prezentace pro prémiové washroomy",
+        "4": "100% recyklovatelné a také biologicky odbouratelné",
+        "5": "Splňuje evropské normy VOC",
+        "6": "Dostupné v několika barvách a vůních"
       },
       "useCases": {
         "0": "Stadiums",
@@ -468,9 +483,13 @@
       "short": "Straightforward protection and freshness for standard washroom programs.",
       "long": "basic scrëen is the practical choice for programs that need dependable hygiene support with clear service expectations.",
       "benefits": {
-        "0": "Simple deployment across large estates",
-        "1": "Predictable replacement cadence",
-        "2": "Eco-One™ compatible options"
+        "0": "Jednoduchá anti-splash ochrana pro standardní pisoárové programy",
+        "1": "Podpora vůně v souladu s měsíční údržbou",
+        "2": "Snadné nasazení napříč velkými objekty a sítěmi poboček",
+        "3": "Předvídatelný cyklus výměny pro facility týmy",
+        "4": "100% recyklovatelné a také biologicky odbouratelné",
+        "5": "Splňuje evropské normy VOC",
+        "6": "Cenově výhodná volba s jasnou nabídkou barev a vůní"
       },
       "useCases": {
         "0": "Schools",
@@ -483,9 +502,13 @@
       "short": "Compact format with flexible finish options for modern fixtures.",
       "long": "üro lite fits compact urinal geometries while maintaining ëkcos quality cues and service-friendly handling.",
       "benefits": {
-        "0": "Compact geometry for modern bowls",
-        "1": "Multiple finish options",
-        "2": "Eco-One™ compatible"
+        "0": "Kompaktní tvar pro moderní a menší pisoárové mísy",
+        "1": "Anti-splash výkon v lehčím formátu sítka",
+        "2": "Uvolňování vůně vhodné pro interval až 30 dní",
+        "3": "Více variant barev a vůní",
+        "4": "100% recyklovatelné a také biologicky odbouratelné",
+        "5": "Splňuje evropské normy VOC",
+        "6": "Snadná manipulace pro boutique hotely a prémiové kanceláře"
       },
       "useCases": {
         "0": "Boutique hospitality",
@@ -498,9 +521,13 @@
       "short": "Secure mounting accessory designed for stable placement and clean lines.",
       "long": "ëkco clip helps maintain consistent positioning where a clip-style fixture is part of your program.",
       "benefits": {
-        "0": "Stable placement",
-        "1": "Clean integration with surrounding surfaces",
-        "2": "Designed for professional installation workflows"
+        "0": "Osvěžovač do WC mísy se spolehlivým klipem",
+        "1": "Pasivní uvolňování vůně — bez aerosolů a zahřívaných olejů",
+        "2": "Stabilní uchycení při každodenním používání",
+        "3": "Čistý vzhled u moderních sanitárních prvků",
+        "4": "100% recyklovatelné a také biologicky odbouratelné",
+        "5": "Splňuje evropské normy VOC",
+        "6": "Dostupné v několika barvách a vůních"
       },
       "useCases": {
         "0": "Facility retrofits",
@@ -513,9 +540,13 @@
       "short": "Targeted freshness delivery with selectable fragrance directions.",
       "long": "frësh drop is built for programs that want flexible fragrance storytelling while keeping operations simple.",
       "benefits": {
-        "0": "Designed for controlled fragrance release",
-        "1": "Supports differentiated scent options",
-        "2": "Eco-One™ compatible materials"
+        "0": "Pasivní multiuse osvěžovač s kontrolovaným uvolňováním vůně",
+        "1": "Bez odkapávání, baterií i aerosolového spreje",
+        "2": "Volitelné vůně pro různé typy prostor",
+        "3": "Vhodné na toalety, recepce, šatny a další místa",
+        "4": "100% recyklovatelné a také biologicky odbouratelné",
+        "5": "Splňuje evropské normy VOC",
+        "6": "Jednoduché umístění i výměna v profesionálních programech"
       },
       "useCases": {
         "0": "Hospitality",
@@ -532,9 +563,13 @@
         "withoutTool": "Bez nástroje na vyjmutí"
       },
       "benefits": {
-        "0": "Supports maintenance-friendly routines",
-        "1": "Robust construction for daily use",
-        "2": "Eco-One™ compatible"
+        "0": "Upgrade pro bezvodé pisoáry — pomáhá tlumit zápach u odtoku",
+        "1": "Robustní konstrukce pro denní komerční provoz",
+        "2": "Podporuje čistší a snazší údržbu",
+        "3": "Dostupné s nástrojem na vyjmutí i bez něj",
+        "4": "100% recyklovatelné a také biologicky odbouratelné",
+        "5": "Splňuje evropské normy VOC",
+        "6": "Doplňuje pisoárová sítka ëkcos v kompletním řešení washroomu"
       },
       "useCases": {
         "0": "Food service",
@@ -551,9 +586,13 @@
         "blueFresh": "Modrá / svěží"
       },
       "benefits": {
-        "0": "Compact footprint",
-        "1": "Flexible placement",
-        "2": "Consistent brand presentation"
+        "0": "Kompaktní non-para puck pro flexibilní umístění v pisoáru",
+        "1": "Dodává vůni tam, kde plné sítko není ideální volba",
+        "2": "Malý rozměr s jasnou značkovou přítomností",
+        "3": "Snadné umístění, kontrola i výměna při servisu",
+        "4": "100% recyklovatelné a také biologicky odbouratelné",
+        "5": "Splňuje evropské normy VOC",
+        "6": "Dostupné ve variantách se svěží vůní"
       },
       "useCases": {
         "0": "Compact washrooms",
@@ -569,9 +608,13 @@
         "standard": "Standardní"
       },
       "benefits": {
-        "0": "Durable surface for entry zones",
-        "1": "Professional appearance",
-        "2": "Eco-One™ compatible"
+        "0": "Podložka pod pisoár zachytává stříkance a udržuje podlahu čistší",
+        "1": "Odolný povrch pro denní komerční provoz",
+        "2": "Profesionální vzhled, který doplní celé řešení washroomu",
+        "3": "Snadné umístění pod pisoár a údržba při servisu",
+        "4": "100% recyklovatelné a také biologicky odbouratelné",
+        "5": "Splňuje evropské normy VOC",
+        "6": "Skvěle ladí se sítky ëkcos jako kompletní hygienické řešení"
       },
       "useCases": {
         "0": "Entrances",

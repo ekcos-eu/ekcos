@@ -182,6 +182,10 @@
     opacity: 1;
     transform: none;
   }
+
+  :root {
+    --breath-play: paused;
+  }
 }
 
 /* Headings & marketing copy: fewer orphan/widow lines (modern browsers) */

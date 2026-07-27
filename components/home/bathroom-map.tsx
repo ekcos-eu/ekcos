@@ -3,25 +3,21 @@
 import * as React from 'react'
 import Image from 'next/image'
 import { useTranslations } from 'next-intl'
+import { useRouter } from '@/i18n/routing'
 import { bathroomHotspots } from '@/lib/bathroom-hotspots'
 import { getProductBySlug } from '@/lib/products'
-import type { Product } from '@/lib/types/product'
 import { BathroomHotspotButton } from '@/components/home/bathroom-hotspot'
-import { ProductOverlay } from '@/components/home/product-overlay'
 
 /** Native aspect of public/home/bathroom-map.jpg (2160×1080) */
-const SCENE_WIDTH = 2160
-const SCENE_HEIGHT = 1080
-const SCENE_RATIO = SCENE_WIDTH / SCENE_HEIGHT
+const SCENE_RATIO = 2160 / 1080
 
 export function BathroomMap() {
   const t = useTranslations()
   const home = useTranslations('home.map')
+  const router = useRouter()
   const sectionRef = React.useRef<HTMLElement>(null)
   const scrollRef = React.useRef<HTMLDivElement>(null)
-  const [selected, setSelected] = React.useState<Product | null>(null)
-  const [open, setOpen] = React.useState(false)
-  const [scene, setScene] = React.useState({ width: SCENE_WIDTH, height: SCENE_HEIGHT })
+  const [scene, setScene] = React.useState({ width: 2160, height: 1080 })
 
   React.useEffect(() => {
     const section = sectionRef.current
@@ -32,13 +28,10 @@ export function BathroomMap() {
       const availableH = section.clientHeight
       if (availableW <= 0 || availableH <= 0) return
 
-      // Cover the viewport: always fill height and width (crop/pan the overflow).
       const widthIfFillHeight = availableH * SCENE_RATIO
       if (widthIfFillHeight >= availableW) {
-        // Taller/narrower viewport — fill height, pan horizontally.
         setScene({ width: widthIfFillHeight, height: availableH })
       } else {
-        // Wider viewport — fill width; height overflows and is clipped (cover).
         setScene({ width: availableW, height: availableW / SCENE_RATIO })
       }
     }
@@ -64,21 +57,13 @@ export function BathroomMap() {
   }, [])
 
   const handleSelect = (slug: string) => {
-    const product = getProductBySlug(slug)
-    if (!product) return
-    setSelected(product)
-    setOpen(true)
-  }
-
-  const handleOpenChange = (next: boolean) => {
-    setOpen(next)
-    if (!next) setSelected(null)
+    router.push(`/products/${slug}`)
   }
 
   return (
     <section
       ref={sectionRef}
-      className="relative h-full min-h-0 w-full flex-1 overflow-hidden bg-[#e8ecef]"
+      className="relative h-[calc(100dvh-4rem)] w-full overflow-hidden bg-[#e8ecef] sm:h-[calc(100dvh-4.25rem)]"
       aria-label={home('aria')}
     >
       <div
@@ -116,8 +101,6 @@ export function BathroomMap() {
           </div>
         </div>
       </div>
-
-      <ProductOverlay product={selected} open={open} onOpenChange={handleOpenChange} />
     </section>
   )
 }

@@ -1,7 +1,7 @@
 ## Learned User Preferences
 
 - Prefer marketing copy, tone, and typography aligned with https://eshop.ekcos.eu (Shopify content pages should match eshop text sizing, not smaller marketing-site type)
-- Bathroom hotspot clicks should open an on-page overlay (not navigate away); emphasize the blue product variant, briefly mention other colors/scents, and include a clear CTA to the eshop
+- Bathroom hotspot clicks should open a standalone Flora-style product detail page (not overlay-only); show key info, product colors, all photos, pulse/breath image effects, and interactive hover on the image, with a clear CTA to the eshop
 - Bathroom map should keep correct aspect ratio, cover the full viewport (edge-to-edge, top-to-bottom), stay stable on window resize with hotspots aligned to the image, avoid instructional UI chrome, and not show a vertical scrollbar
 - Collapse the site header into the mobile menu earlier (around `lg`) so nav does not overflow
 - Header eshop CTA should read "Shop" (and localized equivalents), not longer shop URLs or labels
@@ -16,15 +16,14 @@
 ## Learned Workspace Facts
 
 - ekcos is a Next.js App Router marketing site for ëkcos sanitary products; purchases go to the external Shopify shop at https://eshop.ekcos.eu
-- There is no in-app product configurator or `/products` browsing; main nav is Articles + Eco-One + Private Label, with Shop linking out to the eshop
-- Product data in `lib/products.ts` is for homepage bathroom-map hotspots/overlays, not a local shop catalog; Sanity is used for articles
+- Bathroom hotspots link to standalone product detail pages; there is still no full in-app shop catalog or configurator—main nav is Articles + Eco-One + Private Label, with Shop linking out to the eshop
+- Full product catalog data for detail pages comes from `public/products/products.csv`; `lib/products.ts` remains for homepage bathroom-map hotspots; Sanity is used for articles
 - Articles live at `/{locale}/articles`; Sanity Studio is at `/studio`
 - i18n uses next-intl with locales `en`, `es`, `fr`, `de`, `it`, `cs` and copy in `dictionaries/*.json`
-- Homepage is an interactive bathroom map with hotspots and product overlays (`components/home/bathroom-map.tsx`, asset `public/home/bathroom-map.jpg`, typically 2:1)
+- Homepage is an interactive bathroom map with hotspots (`components/home/bathroom-map.tsx`, asset `public/home/bathroom-map.jpg`, typically 2:1)
 - Brand primary blue is `#0F68B2`; package manager is bun
-- Interactive bathroom UX was patterned after the flora-interactive map approach (pan/hotspots), adapted as an overlay-first experience
+- Interactive bathroom UX is patterned after flora-interactive (pan/hotspots plus standalone product detail pages with rich media and image motion)
 - Standalone contact page was removed; site no longer exposes a Contact nav item
 - Site footer includes copyright and is omitted on the homepage so the bathroom map can stay full-viewport
-- Custom Branding lives on Shopify (`shopify/` → `https://eshop.ekcos.eu/pages/custom-branding`); Next.js `/{locale}/custom-branding` redirects there; inquiry form targets `support@ekcos.eu` with per-product quantities and blue 3B thumbnails; do not publish MOQ/pricing/quantity tables (keep Commercial terms and Good to know); Shopify content pages should be localized for all shop languages
-- B2B & VAT Guide lives on Shopify (`shopify/` → `https://eshop.ekcos.eu/pages/b2b-vat-guide`)
+- Custom Branding and B2B & VAT Guide live on Shopify (`shopify/` → `https://eshop.ekcos.eu/pages/custom-branding`, `https://eshop.ekcos.eu/pages/b2b-vat-guide`); Next.js `/{locale}/custom-branding` redirects there; Custom Branding inquiry form targets `support@ekcos.eu` with per-product quantities and blue 3B thumbnails; do not publish MOQ/pricing/quantity tables (keep Commercial terms and Good to know); Shopify content pages should be localized for all shop languages
 - Private Label lives on the Next.js marketing site at `/{locale}/private-label`; inquiry form posts to `/api/private-label` and sends email via Resend (`RESEND` / `RESEND_API_KEY`, optional `RESEND_FROM_EMAIL`, `PRIVATE_LABEL_TO_EMAIL`)

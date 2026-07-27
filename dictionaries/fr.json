@@ -74,6 +74,16 @@
     "getInTouch": "Nous contacter",
     "ecoOne": "Eco-One™"
   },
+  "productDetail": {
+    "backToMap": "Retour aux sanitaires",
+    "buyNow": "Acheter sur la boutique",
+    "price": "Prix",
+    "from": "à partir de",
+    "variants": "Variantes disponibles",
+    "colors": "Couleurs & fragrances",
+    "benefits": "Avantages clés",
+    "more": "Plus de détails"
+  },
   "articles": {
     "shopCta": {
       "title": "Prêt à améliorer vos toilettes ?",
@@ -403,16 +413,13 @@
       "short": "High-performance urinal screen engineered for consistent fragrance release and a clean appearance.",
       "long": "xcrën HD combines refined industrial design with dependable performance in high-traffic washrooms. Pair with Eco-One™ for end-of-life options aligned with your sustainability goals.",
       "benefits": {
-        "0": "Patented bristle system covers 95% of the surface to prevent urine splashes and protects against viruses and bacteria",
-        "1": "Proprietary material infused with a deodorant-based fragrance that releases gradually for 60+ days",
-        "2": "Up to double the longevity and intensity of fragrance compared to standard market products",
-        "3": "Specially designed for high-traffic restrooms, such as in restaurants, bars, airports, shopping malls, etc.",
+        "0": "Système de poils breveté couvrant 95 % de la surface pour limiter les éclaboussures",
+        "1": "Parfum intégré au matériau et libéré progressivement pendant 60+ jours",
+        "2": "Jusqu’à deux fois la longévité et l’intensité de parfum des écrans standards",
+        "3": "Conçu pour les sanitaires à fort trafic — restaurants, bars, aéroports, centres commerciaux",
         "4": "100% recyclable and also biodegradable",
-        "5": "Complies with European VOC standards",
-        "6": "Non-toxic to the environment, particularly water sources",
-        "7": "Perfect for waterless urinals",
-        "8": "Unique design, wide range of colors, and pleasant fragrances",
-        "9": "Option for private branding through material cutouts or printing"
+        "5": "Conforme aux normes VOC européennes et non toxique pour les sources d’eau",
+        "6": "Adapté aux urinoirs sans eau ; marquage privé disponible"
       },
       "variants": {
         "xhd1p": "Purple / Berry",
@@ -438,9 +445,13 @@
       "short": "Balanced performance for everyday commercial washrooms with reliable odor control.",
       "long": "ëkcoscreen delivers a practical balance of cost and performance for facilities that need dependable hygiene support without compromise on presentation.",
       "benefits": {
-        "0": "Reliable odor control for steady traffic",
-        "1": "Easy visual inspection for service teams",
-        "2": "Compatible with Eco-One™ where applicable"
+        "0": "Poils anti-éclaboussures brevetés pour des sols plus propres et moins de diffusion bactérienne",
+        "1": "Libération progressive du parfum pendant 60+ jours",
+        "2": "Contrôle d’odeurs fiable pour les sanitaires commerciaux du quotidien",
+        "3": "Contrôle visuel simple pour les équipes de maintenance",
+        "4": "100% recyclable and also biodegradable",
+        "5": "Conforme aux normes VOC européennes",
+        "6": "Large choix de couleurs et de parfums ; marquage privé disponible"
       },
       "useCases": {
         "0": "Retail",
@@ -453,9 +464,13 @@
       "short": "Built for demanding environments where performance and presentation matter.",
       "long": "powër screen is tuned for venues with high throughput, helping maintain a premium washroom experience with structured fragrance delivery.",
       "benefits": {
-        "0": "Engineered for high-traffic intervals",
-        "1": "Strong presentation for premium facilities",
-        "2": "Pairs with Eco-One™ compatible materials"
+        "0": "Conception anti-éclaboussures pour un contrôle efficace des projections",
+        "1": "Performance olfactive adaptée à des intervalles d’entretien jusqu’à 30 jours",
+        "2": "Conçu pour les sites à fort trafic et les environnements exigeants",
+        "3": "Présentation soignée pour les sanitaires premium",
+        "4": "100% recyclable and also biodegradable",
+        "5": "Conforme aux normes VOC européennes",
+        "6": "Disponible en plusieurs couleurs et parfums"
       },
       "useCases": {
         "0": "Stadiums",
@@ -468,9 +483,13 @@
       "short": "Straightforward protection and freshness for standard washroom programs.",
       "long": "basic scrëen is the practical choice for programs that need dependable hygiene support with clear service expectations.",
       "benefits": {
-        "0": "Simple deployment across large estates",
-        "1": "Predictable replacement cadence",
-        "2": "Eco-One™ compatible options"
+        "0": "Protection anti-éclaboussures simple pour les programmes d’urinoirs standards",
+        "1": "Parfum adapté aux cycles d’entretien mensuels",
+        "2": "Déploiement facile sur de grands sites et multi-sites",
+        "3": "Cadence de remplacement prévisible pour les équipes facility",
+        "4": "100% recyclable and also biodegradable",
+        "5": "Conforme aux normes VOC européennes",
+        "6": "Option économique avec une gamme claire de couleurs et de parfums"
       },
       "useCases": {
         "0": "Schools",
@@ -483,9 +502,13 @@
       "short": "Compact format with flexible finish options for modern fixtures.",
       "long": "üro lite fits compact urinal geometries while maintaining ëkcos quality cues and service-friendly handling.",
       "benefits": {
-        "0": "Compact geometry for modern bowls",
-        "1": "Multiple finish options",
-        "2": "Eco-One™ compatible"
+        "0": "Géométrie compacte pour les cuvettes modernes et plus petites",
+        "1": "Performance anti-éclaboussures dans un format d’écran plus léger",
+        "2": "Libération de parfum adaptée à des intervalles jusqu’à 30 jours",
+        "3": "Plusieurs finitions et parfums",
+        "4": "100% recyclable and also biodegradable",
+        "5": "Conforme aux normes VOC européennes",
+        "6": "Manipulation simple pour l’hôtellerie boutique et les bureaux premium"
       },
       "useCases": {
         "0": "Boutique hospitality",
@@ -498,9 +521,13 @@
       "short": "Secure mounting accessory designed for stable placement and clean lines.",
       "long": "ëkco clip helps maintain consistent positioning where a clip-style fixture is part of your program.",
       "benefits": {
-        "0": "Stable placement",
-        "1": "Clean integration with surrounding surfaces",
-        "2": "Designed for professional installation workflows"
+        "0": "Désodorisant pour cuvette WC avec clip sécurisé",
+        "1": "Libération passive du parfum — sans aérosols ni huiles chauffées",
+        "2": "Maintien stable au quotidien",
+        "3": "Intégration visuelle propre aux équipements modernes",
+        "4": "100% recyclable and also biodegradable",
+        "5": "Conforme aux normes VOC européennes",
+        "6": "Disponible en plusieurs couleurs et parfums"
       },
       "useCases": {
         "0": "Facility retrofits",
@@ -513,9 +540,13 @@
       "short": "Targeted freshness delivery with selectable fragrance directions.",
       "long": "frësh drop is built for programs that want flexible fragrance storytelling while keeping operations simple.",
       "benefits": {
-        "0": "Designed for controlled fragrance release",
-        "1": "Supports differentiated scent options",
-        "2": "Eco-One™ compatible materials"
+        "0": "Désodorisant passif multi-usage à libération contrôlée",
+        "1": "Sans goutte-à-goutte, piles ni spray aérosol",
+        "2": "Parfums sélectionnables selon les espaces",
+        "3": "Adapté aux sanitaires, halls, vestiaires et plus",
+        "4": "100% recyclable and also biodegradable",
+        "5": "Conforme aux normes VOC européennes",
+        "6": "Simple à placer et à remplacer en programme professionnel"
       },
       "useCases": {
         "0": "Hospitality",
@@ -532,9 +563,13 @@
         "withoutTool": "Without removal tool"
       },
       "benefits": {
-        "0": "Supports maintenance-friendly routines",
-        "1": "Robust construction for daily use",
-        "2": "Eco-One™ compatible"
+        "0": "Upgrade pour urinoirs sans eau — aide à contrôler les odeurs à l’évacuation",
+        "1": "Construction robuste pour un usage commercial quotidien",
+        "2": "Favorise des routines d’entretien plus propres et simples",
+        "3": "Disponible avec ou sans outil de retrait",
+        "4": "100% recyclable and also biodegradable",
+        "5": "Conforme aux normes VOC européennes",
+        "6": "Complète les écrans d’urinoir ëkcos dans une installation complète"
       },
       "useCases": {
         "0": "Food service",
@@ -551,9 +586,13 @@
         "blueFresh": "Blue / Fresh"
       },
       "benefits": {
-        "0": "Compact footprint",
-        "1": "Flexible placement",
-        "2": "Consistent brand presentation"
+        "0": "Format puck non-para compact pour une pose flexible dans l’urinoir",
+        "1": "Apporte du parfum là où un écran complet n’est pas adapté",
+        "2": "Empreinte réduite avec une présence de marque claire",
+        "3": "Facile à placer, vérifier et remplacer en tournée de service",
+        "4": "100% recyclable and also biodegradable",
+        "5": "Conforme aux normes VOC européennes",
+        "6": "Disponible en variantes à parfum frais"
       },
       "useCases": {
         "0": "Compact washrooms",
@@ -569,9 +608,13 @@
         "standard": "Standard"
       },
       "benefits": {
-        "0": "Durable surface for entry zones",
-        "1": "Professional appearance",
-        "2": "Eco-One™ compatible"
+        "0": "Tapis de sol d’urinoir qui retient les projections et garde le sol plus propre",
+        "1": "Surface durable pour le trafic commercial quotidien",
+        "2": "Apparence professionnelle pour compléter l’installation",
+        "3": "Facile à positionner sous les urinoirs et à nettoyer",
+        "4": "100% recyclable and also biodegradable",
+        "5": "Conforme aux normes VOC européennes",
+        "6": "S’associe aux écrans ëkcos pour une solution d’hygiène complète"
       },
       "useCases": {
         "0": "Entrances",
