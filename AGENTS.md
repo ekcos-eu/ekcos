@@ -1,7 +1,7 @@
 ## Learned User Preferences
 
 - Prefer marketing copy, tone, and typography aligned with https://eshop.ekcos.eu (Shopify content pages should match eshop text sizing, not smaller marketing-site type)
-- Bathroom hotspot clicks should open a standalone Flora-style product detail page at `/{locale}/products/[slug]` (not overlay-only); show key info, product colors, all photos, interactive hover on the image, a lowercase color/scent label in the image top-left (e.g. `yellow / citrus`, `blue / fresh`), auto color rotation about every 4s, and a clear CTA to the eshop—avoid continuous pulse, spotlight, canvas particles, and glow behind the image
+- Bathroom hotspot clicks should open a standalone Flora-style product detail page at `/{locale}/products/[slug]` (not overlay-only); show key info, product colors, all photos, interactive hover on the image, a lowercase localized color/scent label in the image top-left (e.g. `yellow / citrus`, `blue / fresh`), auto color rotation about every 4s, and a clear CTA to the eshop—detail lightbox/gallery should show only shots for the currently selected color; avoid continuous pulse, spotlight, canvas particles, and glow behind the image
 - Product detail layout: long description above key benefits (omit short intro); aim for 7 key benefits per product; link Eco-One / recyclable-biodegradable key-benefit copy to the Eco-One page
 - Bathroom map should keep correct aspect ratio, cover the full viewport (edge-to-edge, top-to-bottom), stay stable on window resize with hotspots aligned to the image, avoid instructional UI chrome, and not show a vertical scrollbar
 - Collapse the site header into the mobile menu earlier (around `lg`) so nav does not overflow
@@ -17,7 +17,7 @@
 
 - ekcos is a Next.js App Router marketing site for ëkcos sanitary products; purchases go to the external Shopify shop at https://eshop.ekcos.eu
 - Bathroom hotspots link to standalone product detail pages at `/{locale}/products/[slug]`; there is still no full in-app shop catalog or configurator—main nav is Articles + Eco-One + Private Label, with Shop linking out to the eshop
-- Product detail text/price/variants come from `public/products/products.csv`; product images come from local `public/products/*/PhotoStock/` (not Shopify CDN); `lib/products.ts` remains for homepage bathroom-map hotspots; Sanity is used for articles
+- Product detail text/price/variants come from `public/products/products.csv`; marketing copy/labels are localized in `dictionaries/*.json`; product images come from local `public/products/*/PhotoStock/` (main/variants) and `public/products/*/Detail/` (color-filtered detail shots)—not Shopify CDN; `lib/products.ts` remains for homepage bathroom-map hotspots; Sanity is used for articles
 - Articles live at `/{locale}/articles`; Sanity Studio is at `/studio`
 - i18n uses next-intl with locales `en`, `es`, `fr`, `de`, `it`, `cs` and copy in `dictionaries/*.json`
 - Homepage is an interactive bathroom map with hotspots (`components/home/bathroom-map.tsx`, asset `public/home/bathroom-map.jpg`, typically 2:1)
