@@ -408,10 +408,10 @@
     },
     "xcrenHd": {
       "name": "xcrën HD",
-      "category": "Premium urinal screen",
+      "category": "Prémiové sítko do pisoáru",
       "badge": "Xtreme protistříkací sítko na pisoár",
-      "short": "High-performance urinal screen engineered for consistent fragrance release and a clean appearance.",
-      "long": "xcrën HD combines refined industrial design with dependable performance in high-traffic washrooms. Pair with Eco-One™ for end-of-life options aligned with your sustainability goals.",
+      "short": "Vysoce výkonné sítko do pisoáru navržené pro stálé uvolňování vůně a čistý vzhled.",
+      "long": "xcrën HD spojuje propracovaný industriální design se spolehlivým výkonem ve frekventovaných umývárnách. Doplňte o Eco-One™ pro možnosti na konci životnosti v souladu s vašimi cíli udržitelnosti.",
       "benefits": {
         "0": "Patentovaný systém štětin pokrývá 95 % plochy a brání stříkání moči",
         "1": "Vůně je v materiálu a uvolňuje se postupně po dobu 60+ dní",
@@ -435,15 +435,15 @@
         "xhd13c": "Žlutá / citrus"
       },
       "useCases": {
-        "0": "Corporate offices",
-        "1": "Hotels and hospitality"
+        "0": "Firemní kanceláře",
+        "1": "Hotely a hospitality"
       }
     },
     "ekcoscreen": {
       "name": "ëkcoscreen",
-      "category": "Urinal screen",
-      "short": "Balanced performance for everyday commercial washrooms with reliable odor control.",
-      "long": "ëkcoscreen delivers a practical balance of cost and performance for facilities that need dependable hygiene support without compromise on presentation.",
+      "category": "Sítko do pisoáru",
+      "short": "Vyvážený výkon pro každodenní komerční umývárny se spolehlivou kontrolou zápachu.",
+      "long": "ëkcoscreen nabízí praktickou rovnováhu mezi cenou a výkonem pro provozy, které potřebují spolehlivou hygienickou podporu bez kompromisů v prezentaci.",
       "benefits": {
         "0": "Patentované anti-splash štětiny — čistší podlaha a méně šíření bakterií",
         "1": "Vůně se uvolňuje postupně po dobu 60+ dní",
@@ -455,14 +455,14 @@
       },
       "useCases": {
         "0": "Retail",
-        "1": "Public buildings"
+        "1": "Veřejné budovy"
       }
     },
     "powerscreen": {
       "name": "powër screen",
-      "category": "Performance urinal screen",
-      "short": "Built for demanding environments where performance and presentation matter.",
-      "long": "powër screen is tuned for venues with high throughput, helping maintain a premium washroom experience with structured fragrance delivery.",
+      "category": "Výkonné sítko do pisoáru",
+      "short": "Navrženo pro náročná prostředí, kde záleží na výkonu i prezentaci.",
+      "long": "powër screen je laděný pro místa s vysokou návštěvností a pomáhá udržet prémiový zážitek z umývárny díky strukturovanému uvolňování vůně.",
       "benefits": {
         "0": "Anti-splash štětiny pro účinnou ochranu proti stříkání",
         "1": "Výkon vůně laděný na servisní interval až 30 dní",
@@ -473,15 +473,15 @@
         "6": "Dostupné v několika barvách a vůních"
       },
       "useCases": {
-        "0": "Stadiums",
-        "1": "Transport hubs"
+        "0": "Stadiony",
+        "1": "Dopravní uzly"
       }
     },
     "basicScreen": {
       "name": "basic scrëen",
-      "category": "Essential urinal screen",
-      "short": "Straightforward protection and freshness for standard washroom programs.",
-      "long": "basic scrëen is the practical choice for programs that need dependable hygiene support with clear service expectations.",
+      "category": "Základní sítko do pisoáru",
+      "short": "Jednoduchá ochrana a svěžest pro standardní umyvárenské programy.",
+      "long": "basic scrëen je praktická volba pro programy, které potřebují spolehlivou hygienickou podporu s jasnými servisními očekáváními.",
       "benefits": {
         "0": "Jednoduchá anti-splash ochrana pro standardní pisoárové programy",
         "1": "Podpora vůně v souladu s měsíční údržbou",
@@ -492,15 +492,15 @@
         "6": "Cenově výhodná volba s jasnou nabídkou barev a vůní"
       },
       "useCases": {
-        "0": "Schools",
-        "1": "Light commercial"
+        "0": "Školy",
+        "1": "Lehký komerční provoz"
       }
     },
     "urolite": {
       "name": "üro lite",
-      "category": "Compact urinal screen",
-      "short": "Compact format with flexible finish options for modern fixtures.",
-      "long": "üro lite fits compact urinal geometries while maintaining ëkcos quality cues and service-friendly handling.",
+      "category": "Kompaktní sítko do pisoáru",
+      "short": "Kompaktní formát s flexibilními úpravami pro moderní armatury.",
+      "long": "üro lite sedí do kompaktních geometrií pisoárů a zároveň zachovává kvalitativní znaky ëkcos a snadnou obsluhu při servisu.",
       "benefits": {
         "0": "Kompaktní tvar pro moderní a menší pisoárové mísy",
         "1": "Anti-splash výkon v lehčím formátu sítka",
@@ -512,14 +512,14 @@
       },
       "useCases": {
         "0": "Boutique hospitality",
-        "1": "Premium office"
+        "1": "Prémiové kanceláře"
       }
     },
     "ekcoClip": {
       "name": "ëkco clip",
-      "category": "Clip fixture",
-      "short": "Secure mounting accessory designed for stable placement and clean lines.",
-      "long": "ëkco clip helps maintain consistent positioning where a clip-style fixture is part of your program.",
+      "category": "Klipová armatura",
+      "short": "Bezpečný montážní klip pro stabilní umístění a čisté linie.",
+      "long": "ëkco clip pomáhá udržet konzistentní pozici tam, kde je klipová armatura součástí vašeho programu.",
       "benefits": {
         "0": "Osvěžovač do WC mísy se spolehlivým klipem",
         "1": "Pasivní uvolňování vůně — bez aerosolů a zahřívaných olejů",
@@ -530,15 +530,15 @@
         "6": "Dostupné v několika barvách a vůních"
       },
       "useCases": {
-        "0": "Facility retrofits",
-        "1": "Specification-led projects"
+        "0": "Retrofit provozů",
+        "1": "Projekty podle specifikace"
       }
     },
     "freshDrop": {
       "name": "frësh drop",
-      "category": "Freshness system",
-      "short": "Targeted freshness delivery with selectable fragrance directions.",
-      "long": "frësh drop is built for programs that want flexible fragrance storytelling while keeping operations simple.",
+      "category": "Systém svěžesti",
+      "short": "Cílené uvolňování svěžesti s volitelnými směry vůní.",
+      "long": "frësh drop je určen pro programy, které chtějí flexibilní vůňový storytelling a zároveň jednoduchý provoz.",
       "benefits": {
         "0": "Pasivní multiuse osvěžovač s kontrolovaným uvolňováním vůně",
         "1": "Bez odkapávání, baterií i aerosolového spreje",
@@ -550,14 +550,14 @@
       },
       "useCases": {
         "0": "Hospitality",
-        "1": "Premium retail"
+        "1": "Prémiový retail"
       }
     },
     "ezTrap": {
       "name": "ëz trap",
-      "category": "Drain protection",
-      "short": "Helps protect drains while supporting hygiene routines.",
-      "long": "ëz trap is designed for practical maintenance workflows and dependable performance in daily operations.",
+      "category": "Ochrana odtoku",
+      "short": "Pomáhá chránit odpady a podporuje hygienické rutiny.",
+      "long": "ëz trap je navržen pro praktické údržbové postupy a spolehlivý výkon v každodenním provozu.",
       "variants": {
         "withTool": "S nástrojem na vyjmutí",
         "withoutTool": "Bez nástroje na vyjmutí"
@@ -573,12 +573,12 @@
       },
       "useCases": {
         "0": "Food service",
-        "1": "Healthcare support areas"
+        "1": "Podpůrné prostory ve zdravotnictví"
       }
     },
     "xcrenPuck": {
       "name": "xcrën puck",
-      "category": "Puck format",
+      "category": "Formát puck",
       "short": "Písková zástěna do pisoárů bez PARA pro kontrolu zápachu a ochranu odtoku.",
       "long": "xcrën je písková zástěna do pisoárů bez obsahu PARA, určená k účinné kontrole zápachu a ochraně odtokového systému. Na rozdíl od tradičních výrobků obsahujících PARA neobsahuje paradichlorbenzen (PARA), sloučeninu klasifikovanou Světovou zdravotnickou organizací (WHO) jako potenciálně karcinogenní. Její jedinečná konstrukce ve tvaru písmene X zabraňuje ucpávání odtokového systému pevnými částicemi a nečistotami a zároveň zajišťuje uvolňování čisté a svěží vůně po každém použití po dobu až 30 dnů.",
       "variants": {
@@ -595,15 +595,15 @@
         "6": "Dostupné ve variantách se svěží vůní"
       },
       "useCases": {
-        "0": "Compact washrooms",
-        "1": "Retrofit programs"
+        "0": "Kompaktní umývárny",
+        "1": "Retrofit programy"
       }
     },
     "ekcoMat": {
       "name": "ëkco mat",
-      "category": "Floor mat",
-      "short": "Floor protection with a clean, professional look.",
-      "long": "ëkco mat supports facility hygiene zones with a product-focused approach to durability and presentation.",
+      "category": "Podlahová podložka",
+      "short": "Ochrana podlahy s čistým, profesionálním vzhledem.",
+      "long": "ëkco mat podporuje hygienické zóny provozu s důrazem na odolnost a prezentaci.",
       "variants": {
         "standard": "Standardní"
       },
@@ -617,8 +617,8 @@
         "6": "Skvěle ladí se sítky ëkcos jako kompletní hygienické řešení"
       },
       "useCases": {
-        "0": "Entrances",
-        "1": "Service corridors"
+        "0": "Vstupy",
+        "1": "Servisní chodby"
       }
     }
   },

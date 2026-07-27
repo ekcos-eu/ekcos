@@ -28,9 +28,17 @@ export async function generateMetadata({
     return { title: t('title') }
   }
 
+  const product = getProductBySlug(slug)
+  const tProducts = await getTranslations({ locale })
+  const localizedTitle = product
+    ? tProducts(product.nameKey)
+    : detail.title
+
   return {
-    title: `${detail.title} | ëkcos`,
-    description: t('productsDescription'),
+    title: `${localizedTitle} | ëkcos`,
+    description: product
+      ? tProducts(product.shortDescriptionKey)
+      : t('productsDescription'),
     alternates: {
       canonical: `/${locale}/products/${slug}`,
       languages: Object.fromEntries(
@@ -59,8 +67,9 @@ export default async function ProductDetailPage({
     shortDescription: t(product.shortDescriptionKey),
     longDescription: t(product.longDescriptionKey),
     benefits: product.benefitKeys.map((k) => t(k)),
-    colorLabels: Object.fromEntries(
-      product.colors.map((c) => [c.id, t(c.labelKey)]),
+    /** Localized "color / scent" label keyed by imageSrc */
+    colorLabelsByImage: Object.fromEntries(
+      product.colors.map((c) => [c.imageSrc, t(c.labelKey)]),
     ),
   }
 

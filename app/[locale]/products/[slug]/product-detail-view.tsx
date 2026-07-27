@@ -55,7 +55,8 @@ type LocalizedProduct = {
   shortDescription: string
   longDescription: string
   benefits: string[]
-  colorLabels: Record<string, string>
+  /** Localized "Color / Scent" labels keyed by imageSrc */
+  colorLabelsByImage: Record<string, string>
 }
 
 type Props = {
@@ -65,59 +66,43 @@ type Props = {
 }
 
 // ---------------------------------------------------------------------------
-// Color swatch button
-// ---------------------------------------------------------------------------
-
-function ColorSwatch({
-  hex,
-  label,
-  active,
-  onClick,
-}: {
-  hex: string
-  label: string
-  active: boolean
-  onClick: () => void
-}) {
-  return (
-    <button
-      type="button"
-      onClick={onClick}
-      title={label}
-      aria-label={label}
-      aria-pressed={active}
-      className={cn(
-        'relative h-8 w-8 rounded-full border-2 transition-transform hover:scale-110 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#0F68B2] focus-visible:ring-offset-2',
-        active ? 'border-[#0F68B2] scale-110' : 'border-transparent',
-      )}
-      style={{ backgroundColor: hex }}
-    >
-      {active && (
-        <span className="absolute inset-0 flex items-center justify-center">
-          <Check className="h-3 w-3 text-white drop-shadow" aria-hidden />
-        </span>
-      )}
-    </button>
-  )
-}
-
-// ---------------------------------------------------------------------------
 // Main view
 // ---------------------------------------------------------------------------
 
 export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
   const t = useTranslations('productDetail')
+  const tProducts = useTranslations('products')
   const [activeImg, setActiveImg] = React.useState(0)
   const [activeVariant, setActiveVariant] = React.useState(0)
   const [autoplayPaused, setAutoplayPaused] = React.useState(false)
   const [userPausedUntil, setUserPausedUntil] = React.useState(0)
   const shopUrl = `${SHOP_BASE_URL}${detail.shopPath}`
 
-  const currentVariant = detail.variants[activeVariant]
-  const displayImg =
-    currentVariant?.imageSrc && detail.images.length === 0
-      ? currentVariant.imageSrc
-      : (detail.images[activeImg] ?? detail.images[0])
+  // Prefer product.colors-backed gallery; synthesize variants from images when CSV parse failed
+  const galleryImages =
+    detail.images.length > 0
+      ? detail.images
+      : detail.variants.map((v) => v.imageSrc).filter(Boolean)
+
+  const variants =
+    detail.variants.length > 0
+      ? detail.variants
+      : galleryImages.map((imageSrc, idx) => ({
+          sku: skuFromImageSrc(imageSrc) ?? `variant-${idx}`,
+          title: '',
+          price: detail.price,
+          imageSrc,
+        }))
+
+  const currentVariant = variants[activeVariant]
+  const displayImg = galleryImages[activeImg] ?? galleryImages[0] ?? currentVariant?.imageSrc ?? ''
+
+  const colorScentLabel = resolveColorScentLabel(
+    displayImg,
+    currentVariant,
+    localizedProduct.colorLabelsByImage,
+    tProducts,
+  )
 
   const pauseAutoplayBriefly = React.useCallback(() => {
     setUserPausedUntil(Date.now() + 8000)
@@ -125,30 +110,14 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
 
   const syncVariantFromImage = React.useCallback(
     (imgIdx: number) => {
-      const src = detail.images[imgIdx]
+      const src = galleryImages[imgIdx]
       if (!src) return
-      const match = detail.variants.findIndex((v) => v.imageSrc === src)
+      const match = variants.findIndex((v) => v.imageSrc === src)
       if (match !== -1) setActiveVariant(match)
+      else setActiveVariant(imgIdx)
     },
-    [detail.images, detail.variants],
+    [galleryImages, variants],
   )
-
-  const applyVariant = React.useCallback(
-    (idx: number) => {
-      setActiveVariant(idx)
-      const varSrc = detail.variants[idx]?.imageSrc
-      if (varSrc) {
-        const imgIdx = detail.images.indexOf(varSrc)
-        if (imgIdx !== -1) setActiveImg(imgIdx)
-      }
-    },
-    [detail.images, detail.variants],
-  )
-
-  const handleVariantSelect = (idx: number) => {
-    pauseAutoplayBriefly()
-    applyVariant(idx)
-  }
 
   const handleThumbnailSelect = (idx: number) => {
     pauseAutoplayBriefly()
@@ -156,8 +125,7 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
     syncVariantFromImage(idx)
   }
 
-  const hasMultipleVariants = detail.variants.length > 1
-  const canAutoplayColors = detail.images.length > 1
+  const canAutoplayColors = galleryImages.length > 1
 
   // Clear manual pause after the cooldown
   React.useEffect(() => {
@@ -184,10 +152,10 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
 
     const id = window.setInterval(() => {
       setActiveImg((prev) => {
-        const next = (prev + 1) % detail.images.length
-        const src = detail.images[next]
-        const match = detail.variants.findIndex((v) => v.imageSrc === src)
-        if (match !== -1) setActiveVariant(match)
+        const next = (prev + 1) % galleryImages.length
+        const src = galleryImages[next]
+        const match = variants.findIndex((v) => v.imageSrc === src)
+        setActiveVariant(match !== -1 ? match : next)
         return next
       })
     }, 4000)
@@ -196,8 +164,8 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
   }, [
     autoplayPaused,
     canAutoplayColors,
-    detail.images,
-    detail.variants,
+    galleryImages,
+    variants,
     userPausedUntil,
   ])
 
@@ -233,16 +201,31 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
               >
                 <ProductHeroImage
                   src={displayImg}
-                  alt={`${localizedProduct.name} — ${detail.images.indexOf(displayImg) + 1}`}
+                  alt={`${localizedProduct.name} — ${galleryImages.indexOf(displayImg) + 1}`}
                 />
               </motion.div>
             </AnimatePresence>
+
+            {colorScentLabel ? (
+              <AnimatePresence mode="wait">
+                <motion.p
+                  key={colorScentLabel}
+                  initial={{ opacity: 0, y: -4 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  exit={{ opacity: 0, y: -4 }}
+                  transition={{ duration: 0.2 }}
+                  className="pointer-events-none absolute left-4 top-4 z-10 text-xs font-medium lowercase tracking-wide text-[#575756]/80 sm:left-5 sm:top-5 sm:text-sm"
+                >
+                  {colorScentLabel}
+                </motion.p>
+              </AnimatePresence>
+            ) : null}
           </div>
 
           {/* Thumbnail rail */}
-          {detail.images.length > 1 && (
+          {galleryImages.length > 1 && (
             <div className="flex flex-wrap gap-2">
-              {detail.images.map((src, idx) => (
+              {galleryImages.map((src, idx) => (
                 <motion.button
                   key={src}
                   type="button"
@@ -289,47 +272,8 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
             </div>
           )}
 
-          {/* Color / variant swatches */}
-          {hasMultipleVariants && (
-            <div
-              onPointerEnter={() => setAutoplayPaused(true)}
-              onPointerLeave={() => setAutoplayPaused(false)}
-            >
-              <p className="mb-2 text-sm font-medium text-[#575756]">
-                {t('colors')}
-              </p>
-              <div className="flex flex-wrap gap-2">
-                {detail.variants.map((v, idx) => {
-                  // Find matching swatchHex from variant image path SKU
-                  const swatchHex = getSwatchHexFromSku(v.sku)
-                  const label = v.title ?? v.sku
-                  return (
-                    <ColorSwatch
-                      key={v.sku}
-                      hex={swatchHex}
-                      label={label}
-                      active={activeVariant === idx}
-                      onClick={() => handleVariantSelect(idx)}
-                    />
-                  )
-                })}
-              </div>
-              {currentVariant && (
-                <p className="mt-1.5 text-xs text-[#575756]/70">
-                  {currentVariant.title}
-                  {currentVariant.scent ? ` · ${currentVariant.scent}` : ''}
-                </p>
-              )}
-            </div>
-          )}
-
-          {/* Long description (from page bottom → above benefits) */}
-          {detail.bodyHtml ? (
-            <div
-              className="prose prose-sm max-w-none text-[#575756] prose-headings:text-[#0F68B2] prose-strong:text-[#575756] prose-li:marker:text-[#0F68B2]"
-              dangerouslySetInnerHTML={{ __html: detail.bodyHtml }}
-            />
-          ) : localizedProduct.longDescription ? (
+          {/* Localized long description (CSV bodyHtml is English-only — do not prefer it) */}
+          {localizedProduct.longDescription ? (
             <p className="text-base leading-relaxed text-[#575756] text-justify">
               {linkifyEcoOne(localizedProduct.longDescription)}
             </p>
@@ -366,30 +310,64 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
 }
 
 // ---------------------------------------------------------------------------
-// Helper: SKU → swatch colour (matches URINAL_VARIANT_DIMS in product-variants.ts)
+// Helpers: color / scent label from SKU + i18n
 // ---------------------------------------------------------------------------
 
-const SKU_SWATCH: Record<string, string> = {
-  '1P': '#7B4397',
-  '2G': '#8BC34A',
-  '3B': '#0F68B2',
-  '4O': '#F57C00',
-  '6C': '#CFD8DC',
-  '7BK': '#212121',
-  '8BM': '#E64A19',
-  '9G': '#2E7D32',
-  '10R': '#C62828',
-  '12P': '#5E35B1',
-  '13C': '#F9A825',
-  '02B': '#0F68B2',
-  '01W': '#ECEFF1',
-  '01': '#0F68B2',
-  '00': '#575756',
+/** Extract SKU like PWR-3B / XPU-02B from a PhotoStock path. */
+function skuFromImageSrc(src: string): string | null {
+  const file = decodeURIComponent(src.split('/').pop() ?? '')
+  const match = file.match(/^([A-Za-z]+)-([0-9A-Za-z]+)/)
+  if (!match) return null
+  const line = match[1].toUpperCase()
+  const mid = match[2].toUpperCase()
+  // Puck PhotoStock uses XPU-1P / XPU-2G filenames for SKUs XPU-02B / XPU-01W
+  if (line === 'XPU') {
+    if (mid === '1P') return 'XPU-02B'
+    if (mid === '2G') return 'XPU-01W'
+  }
+  return `${line}-${mid}`
 }
 
-function getSwatchHexFromSku(sku: string): string {
-  // SKU format: PREFIX-COLORCODE, e.g. XHD-3B, XPU-02B, EZT-01
-  const parts = sku.split('-')
-  const colorCode = parts.slice(1).join('-').toUpperCase()
-  return SKU_SWATCH[colorCode] ?? '#0F68B2'
+const SKU_MID_TO_LABEL_KEY: Record<string, string> = {
+  '1P': 'variantLabels.x1p',
+  '2G': 'variantLabels.x2g',
+  '3B': 'variantLabels.x3b',
+  '4O': 'variantLabels.x4o',
+  '6C': 'variantLabels.x6c',
+  '7BK': 'variantLabels.x7bk',
+  '8BM': 'variantLabels.x8bm',
+  '9G': 'variantLabels.x9g',
+  '10R': 'variantLabels.x10r',
+  '12P': 'variantLabels.x12p',
+  '13C': 'variantLabels.x13c',
+  '02B': 'xcrenPuck.variants.blueFresh',
+  '01W': 'xcrenPuck.variants.whiteFresh',
+}
+
+type TranslateProducts = (key: string) => string
+
+/** Always resolve via i18n — never fall back to English CSV color codes. */
+function resolveColorScentLabel(
+  imageSrc: string,
+  variant: CsvProductDetail['variants'][number] | undefined,
+  colorLabelsByImage: Record<string, string>,
+  tProducts: TranslateProducts,
+): string | null {
+  const fromMap =
+    colorLabelsByImage[imageSrc] ??
+    (variant?.imageSrc ? colorLabelsByImage[variant.imageSrc] : undefined)
+  if (fromMap) return fromMap.toLowerCase()
+
+  const sku = variant?.sku || skuFromImageSrc(imageSrc)
+  if (!sku) return null
+
+  const mid = sku.split('-').slice(1).join('-').toUpperCase()
+  const labelKey = SKU_MID_TO_LABEL_KEY[mid]
+  if (!labelKey) return null
+
+  try {
+    return tProducts(labelKey).toLowerCase()
+  } catch {
+    return null
+  }
 }

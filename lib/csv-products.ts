@@ -2,7 +2,6 @@ import fs from 'fs'
 import path from 'path'
 import { getProductBySlug } from '@/lib/products'
 import { publicPath } from '@/lib/paths'
-import { URINAL_VARIANT_DIMS } from '@/lib/product-variants'
 
 export type CsvVariant = {
   sku: string
@@ -259,15 +258,31 @@ export function getProductDetailBySlug(slug: string): CsvProductDetail | null {
   const price = primaryRow[COL.price] ?? ''
 
   // Variants: one per distinct SKU (rows with SKU set)
-  const variantRows = matchingRows.filter((r) => r[COL.sku])
-  const variants: CsvVariant[] = variantRows.map((r) => ({
-    sku: r[COL.sku],
-    title: r[COL.title] ?? title,
-    color: r[COL.color] || undefined,
-    scent: r[COL.scent] || undefined,
-    price: r[COL.price] ?? price,
-    imageSrc: resolveVariantImage(slug, r[COL.sku]),
-  }))
+  const seenSkus = new Set<string>()
+  let variants: CsvVariant[] = []
+  for (const r of matchingRows) {
+    const sku = r[COL.sku]
+    if (!sku || seenSkus.has(sku)) continue
+    seenSkus.add(sku)
+    variants.push({
+      sku,
+      title: r[COL.title] ?? title,
+      color: r[COL.color] || undefined,
+      scent: r[COL.scent] || undefined,
+      price: r[COL.price] ?? price,
+      imageSrc: resolveVariantImage(slug, sku),
+    })
+  }
+
+  // Multiline CSV body often breaks column alignment — fall back to local catalog colors
+  if (variants.length === 0 && product) {
+    variants = product.colors.map((c) => ({
+      sku: c.sku ?? c.id,
+      title: c.sku ?? c.id,
+      price,
+      imageSrc: c.imageSrc,
+    }))
+  }
 
   // Gallery: all local PhotoStock images
   const images = localPhotostockImages(slug)

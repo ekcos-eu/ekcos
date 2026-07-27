@@ -375,9 +375,9 @@
       "selectProduct": "Produkt wählen",
       "fragrance": "Duftoptionen",
       "benefits": "Vorteile",
-      "productBenefits": "Product benefits",
-      "availableColorsFragrances": "Available colors & fragrances",
-      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
+      "productBenefits": "Produktvorteile",
+      "availableColorsFragrances": "Verfügbare Farben & Düfte",
+      "sixtyDayBadge": "60-Tage PLUS Antisplash-Urinalsieb",
       "byBrand": "by ëkcos",
       "siteUrl": "www.ekcos.eu",
       "useCases": "Typische Einsatzbereiche",
@@ -394,24 +394,24 @@
       "citrus": "Citrus"
     },
     "variantLabels": {
-      "x1p": "Purple / Berry",
-      "x2g": "Light green / Apple",
-      "x3b": "Blue / Fresh",
-      "x4o": "Orange / Tropical fruit",
-      "x6c": "Clear / Tropical fruit",
-      "x7bk": "Black / Mint",
-      "x8bm": "Flame / Mango",
-      "x9g": "Dark green / Pine",
-      "x10r": "Red / Melon",
-      "x12p": "Dark purple / Lavender",
-      "x13c": "Yellow / Citrus"
+      "x1p": "Lila / Beere",
+      "x2g": "Hellgrün / Apfel",
+      "x3b": "Blau / Frisch",
+      "x4o": "Orange / Tropische Frucht",
+      "x6c": "Klar / Tropische Frucht",
+      "x7bk": "Schwarz / Minze",
+      "x8bm": "Flamme / Mango",
+      "x9g": "Dunkelgrün / Kiefer",
+      "x10r": "Rot / Melone",
+      "x12p": "Dunkellila / Lavendel",
+      "x13c": "Gelb / Zitrus"
     },
     "xcrenHd": {
       "name": "xcrën HD",
-      "category": "Premium urinal screen",
+      "category": "Premium-Urinalsieb",
       "badge": "Xtreme anti-splash urinal screen",
-      "short": "High-performance urinal screen engineered for consistent fragrance release and a clean appearance.",
-      "long": "xcrën HD combines refined industrial design with dependable performance in high-traffic washrooms. Pair with Eco-One™ for end-of-life options aligned with your sustainability goals.",
+      "short": "Hochleistungs-Urinalsieb für gleichmäßige Duftfreisetzung und ein sauberes Erscheinungsbild.",
+      "long": "xcrën HD verbindet raffiniertes Industriedesign mit zuverlässiger Leistung in stark frequentierten Waschräumen. Kombinieren Sie es mit Eco-One™ für End-of-Life-Optionen im Einklang mit Ihren Nachhaltigkeitszielen.",
       "benefits": {
         "0": "Patentiertes Borstensystem deckt 95 % der Fläche ab und verhindert Spritzrückschlag",
         "1": "Duft ist im Material gebunden und wird über 60+ Tage gleichmäßig freigesetzt",
@@ -422,28 +422,28 @@
         "6": "Geeignet für wasserlose Urinale; Private Branding möglich"
       },
       "variants": {
-        "xhd1p": "Purple / Berry",
-        "xhd2g": "Light green / Apple",
-        "xhd3b": "Blue / Fresh",
-        "xhd4o": "Orange / Tropical fruit",
-        "xhd6c": "Clear / Tropical fruit",
-        "xhd7bk": "Black / Mint",
-        "xhd8bm": "Flame / Mango",
-        "xhd9g": "Dark green / Pine",
-        "xhd10r": "Red / Melon",
-        "xhd12p": "Dark purple / Lavender",
-        "xhd13c": "Yellow / Citrus"
+        "xhd1p": "Lila / Beere",
+        "xhd2g": "Hellgrün / Apfel",
+        "xhd3b": "Blau / Frisch",
+        "xhd4o": "Orange / Tropische Frucht",
+        "xhd6c": "Klar / Tropische Frucht",
+        "xhd7bk": "Schwarz / Minze",
+        "xhd8bm": "Flamme / Mango",
+        "xhd9g": "Dunkelgrün / Kiefer",
+        "xhd10r": "Rot / Melone",
+        "xhd12p": "Dunkellila / Lavendel",
+        "xhd13c": "Gelb / Zitrus"
       },
       "useCases": {
-        "0": "Corporate offices",
-        "1": "Hotels and hospitality"
+        "0": "Unternehmensbüros",
+        "1": "Hotels und Hospitality"
       }
     },
     "ekcoscreen": {
       "name": "ëkcoscreen",
-      "category": "Urinal screen",
-      "short": "Balanced performance for everyday commercial washrooms with reliable odor control.",
-      "long": "ëkcoscreen delivers a practical balance of cost and performance for facilities that need dependable hygiene support without compromise on presentation.",
+      "category": "Urinalsieb",
+      "short": "Ausgewogene Leistung für den täglichen Einsatz in gewerblichen Waschräumen mit zuverlässiger Geruchskontrolle.",
+      "long": "ëkcoscreen bietet ein praktisches Gleichgewicht aus Kosten und Leistung für Einrichtungen, die verlässliche Hygieneunterstützung ohne Kompromisse bei der Präsentation brauchen.",
       "benefits": {
         "0": "Patentierte Antisplash-Borsten für sauberere Böden und weniger Keimübertragung",
         "1": "Gleichmäßige Duftfreisetzung über 60+ Tage",
@@ -454,15 +454,15 @@
         "6": "Breite Auswahl an Farben und Düften; Private Branding möglich"
       },
       "useCases": {
-        "0": "Retail",
-        "1": "Public buildings"
+        "0": "Einzelhandel",
+        "1": "Öffentliche Gebäude"
       }
     },
     "powerscreen": {
       "name": "powër screen",
-      "category": "Performance urinal screen",
-      "short": "Built for demanding environments where performance and presentation matter.",
-      "long": "powër screen is tuned for venues with high throughput, helping maintain a premium washroom experience with structured fragrance delivery.",
+      "category": "Hochleistungs-Urinalsieb",
+      "short": "Für anspruchsvolle Umgebungen gebaut, in denen Leistung und Präsentation zählen.",
+      "long": "powër screen ist auf Standorte mit hohem Durchsatz abgestimmt und hilft, mit strukturierter Duftabgabe ein Premium-Waschräumerlebnis zu erhalten.",
       "benefits": {
         "0": "Antisplash-Borsten für wirksame Spritzkontrolle",
         "1": "Duftleistung für Serviceintervalle von bis zu 30 Tagen",
@@ -473,15 +473,15 @@
         "6": "In mehreren Farben und Düften erhältlich"
       },
       "useCases": {
-        "0": "Stadiums",
-        "1": "Transport hubs"
+        "0": "Stadien",
+        "1": "Verkehrsknotenpunkte"
       }
     },
     "basicScreen": {
       "name": "basic scrëen",
-      "category": "Essential urinal screen",
-      "short": "Straightforward protection and freshness for standard washroom programs.",
-      "long": "basic scrëen is the practical choice for programs that need dependable hygiene support with clear service expectations.",
+      "category": "Basis-Urinalsieb",
+      "short": "Unkomplizierter Schutz und Frische für Standard-Waschräume.",
+      "long": "basic scrëen ist die praktische Wahl für Programme, die verlässliche Hygieneunterstützung mit klaren Serviceerwartungen brauchen.",
       "benefits": {
         "0": "Einfacher Antisplash-Schutz für Standard-Urinalprogramme",
         "1": "Duftunterstützung passend zu monatlichen Wartungszyklen",
@@ -492,15 +492,15 @@
         "6": "Kosteneffiziente Option mit klarer Farb- und Duftauswahl"
       },
       "useCases": {
-        "0": "Schools",
-        "1": "Light commercial"
+        "0": "Schulen",
+        "1": "Leichter Gewerbeeinsatz"
       }
     },
     "urolite": {
       "name": "üro lite",
-      "category": "Compact urinal screen",
-      "short": "Compact format with flexible finish options for modern fixtures.",
-      "long": "üro lite fits compact urinal geometries while maintaining ëkcos quality cues and service-friendly handling.",
+      "category": "Kompaktes Urinalsieb",
+      "short": "Kompaktes Format mit flexiblen Oberflächenoptionen für moderne Armaturen.",
+      "long": "üro lite passt in kompakte Urinalgeometrien und bewahrt zugleich die Qualitätsmerkmale von ëkcos sowie eine servicefreundliche Handhabung.",
       "benefits": {
         "0": "Kompakte Form für moderne und kleinere Urinalbecken",
         "1": "Antisplash-Leistung im leichteren Siebformat",
@@ -511,15 +511,15 @@
         "6": "Einfaches Handling für Boutique-Hotels und Premium-Büros"
       },
       "useCases": {
-        "0": "Boutique hospitality",
-        "1": "Premium office"
+        "0": "Boutique-Hospitality",
+        "1": "Premium-Büros"
       }
     },
     "ekcoClip": {
       "name": "ëkco clip",
-      "category": "Clip fixture",
-      "short": "Secure mounting accessory designed for stable placement and clean lines.",
-      "long": "ëkco clip helps maintain consistent positioning where a clip-style fixture is part of your program.",
+      "category": "Clip-Armatur",
+      "short": "Sicheres Montagezubehör für stabile Platzierung und klare Linien.",
+      "long": "ëkco clip sorgt für eine gleichbleibende Positionierung, wenn eine Clip-Armatur Teil Ihres Programms ist.",
       "benefits": {
         "0": "WC-Schalen-Lufterfrischer mit sicherem Clip",
         "1": "Passive Duftfreisetzung — ohne Aerosole oder erhitzte Öle",
@@ -530,15 +530,15 @@
         "6": "In mehreren Farben und Düften erhältlich"
       },
       "useCases": {
-        "0": "Facility retrofits",
-        "1": "Specification-led projects"
+        "0": "Facility-Retrofits",
+        "1": "Spezifikationsgeführte Projekte"
       }
     },
     "freshDrop": {
       "name": "frësh drop",
-      "category": "Freshness system",
-      "short": "Targeted freshness delivery with selectable fragrance directions.",
-      "long": "frësh drop is built for programs that want flexible fragrance storytelling while keeping operations simple.",
+      "category": "Frischesystem",
+      "short": "Gezielte Frischeabgabe mit wählbaren Duftrichtungen.",
+      "long": "frësh drop ist für Programme gedacht, die flexible Dufterzählung und zugleich einfache Abläufe wollen.",
       "benefits": {
         "0": "Passiver Multiuse-Lufterfrischer mit kontrollierter Duftfreisetzung",
         "1": "Ohne Tropfenmechanismus, Batterien oder Aerosolspray",
@@ -550,17 +550,17 @@
       },
       "useCases": {
         "0": "Hospitality",
-        "1": "Premium retail"
+        "1": "Premium-Einzelhandel"
       }
     },
     "ezTrap": {
       "name": "ëz trap",
-      "category": "Drain protection",
-      "short": "Helps protect drains while supporting hygiene routines.",
-      "long": "ëz trap is designed for practical maintenance workflows and dependable performance in daily operations.",
+      "category": "Ablaufschutz",
+      "short": "Schützt Abläufe und unterstützt Hygienroutinen.",
+      "long": "ëz trap ist für praktische Wartungsabläufe und zuverlässige Leistung im Tagesbetrieb ausgelegt.",
       "variants": {
-        "withTool": "With removal tool",
-        "withoutTool": "Without removal tool"
+        "withTool": "Mit Entnahmewerkzeug",
+        "withoutTool": "Ohne Entnahmewerkzeug"
       },
       "benefits": {
         "0": "Upgrade für wasserlose Urinale — hilft, Gerüche am Ablauf zu kontrollieren",
@@ -572,18 +572,18 @@
         "6": "Ergänzt ëkcos-Urinalsiebe in kompletten Washroom-Setups"
       },
       "useCases": {
-        "0": "Food service",
-        "1": "Healthcare support areas"
+        "0": "Gastronomie",
+        "1": "Unterstützungsbereiche im Gesundheitswesen"
       }
     },
     "xcrenPuck": {
       "name": "xcrën puck",
-      "category": "Puck format",
+      "category": "Puck-Format",
       "short": "NON-PARA-Puck-Urinalsieb für Geruchskontrolle und Abflussschutz.",
       "long": "xcrën ist ein NON-PARA-Puck-Urinalsieb für wirksame Geruchskontrolle und Abflussschutz. Im Gegensatz zu herkömmlichen PARA-Produkten ist es frei von Paradichlorbenzen (PARA), einer von der WHO als möglicherweise krebserregend eingestuften Verbindung. Das einzigartige X-Design verhindert Verstopfungen durch Feststoffe und sorgt nach jeder Nutzung für bis zu 30 Tage für eine frische Duftabgabe.",
       "variants": {
-        "whiteFresh": "White / Fresh",
-        "blueFresh": "Blue / Fresh"
+        "whiteFresh": "Weiß / Frisch",
+        "blueFresh": "Blau / Frisch"
       },
       "benefits": {
         "0": "Kompakter Non-Para-Puck für flexible Platzierung im Urinal",
@@ -595,15 +595,15 @@
         "6": "In frischen Duftvarianten erhältlich"
       },
       "useCases": {
-        "0": "Compact washrooms",
-        "1": "Retrofit programs"
+        "0": "Kompakte Waschräume",
+        "1": "Retrofit-Programme"
       }
     },
     "ekcoMat": {
       "name": "ëkco mat",
-      "category": "Floor mat",
-      "short": "Floor protection with a clean, professional look.",
-      "long": "ëkco mat supports facility hygiene zones with a product-focused approach to durability and presentation.",
+      "category": "Bodenmatte",
+      "short": "Bodenschutz mit sauberem, professionellem Look.",
+      "long": "ëkco mat unterstützt Hygienenzonen in Einrichtungen mit Fokus auf Haltbarkeit und Präsentation.",
       "variants": {
         "standard": "Standard"
       },
@@ -617,8 +617,8 @@
         "6": "Passt zu ëkcos-Sieben als vollständige Hygienelösung"
       },
       "useCases": {
-        "0": "Entrances",
-        "1": "Service corridors"
+        "0": "Eingänge",
+        "1": "Servicekorridore"
       }
     }
   },

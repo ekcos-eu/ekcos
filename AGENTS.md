@@ -1,7 +1,8 @@
 ## Learned User Preferences
 
 - Prefer marketing copy, tone, and typography aligned with https://eshop.ekcos.eu (Shopify content pages should match eshop text sizing, not smaller marketing-site type)
-- Bathroom hotspot clicks should open a standalone Flora-style product detail page (not overlay-only); show key info, product colors, all photos, pulse/breath image effects, and interactive hover on the image, with a clear CTA to the eshop
+- Bathroom hotspot clicks should open a standalone Flora-style product detail page at `/{locale}/products/[slug]` (not overlay-only); show key info, product colors, all photos, interactive hover on the image, a lowercase color/scent label in the image top-left (e.g. `yellow / citrus`, `blue / fresh`), auto color rotation about every 4s, and a clear CTA to the eshop—avoid continuous pulse, spotlight, canvas particles, and glow behind the image
+- Product detail layout: long description above key benefits (omit short intro); aim for 7 key benefits per product; link Eco-One / recyclable-biodegradable key-benefit copy to the Eco-One page
 - Bathroom map should keep correct aspect ratio, cover the full viewport (edge-to-edge, top-to-bottom), stay stable on window resize with hotspots aligned to the image, avoid instructional UI chrome, and not show a vertical scrollbar
 - Collapse the site header into the mobile menu earlier (around `lg`) so nav does not overflow
 - Header eshop CTA should read "Shop" (and localized equivalents), not longer shop URLs or labels
@@ -9,15 +10,14 @@
 - Treat assets under `public/technical/` (e.g. `eco-one.pdf`, `ekcos-biodegradable-products.docx`) as the source of truth for Eco-One page content, including bold/emphasis and callout styling from those docs
 - Prefer scannable long-form pages and Sanity articles with clear heading hierarchy; larger body text blocks should use `text-justify`
 - Articles index should show only title and intro image; detail pages omit a large hero image, end with an eshop CTA, and link product mentions to the eshop
-- Soft blue top-of-page gradient and blue accent headings/text should appear on marketing pages (articles, Eco-One, and Private Label)
-- Product link hovers should preview the blue 3B product image from `public/products/`
+- Soft blue top-of-page gradient and blue accent headings/text should appear on marketing pages (articles, Eco-One, and Private Label); product link hovers should preview the blue 3B product image from `public/products/`
 - User typically communicates in Czech
 
 ## Learned Workspace Facts
 
 - ekcos is a Next.js App Router marketing site for ëkcos sanitary products; purchases go to the external Shopify shop at https://eshop.ekcos.eu
-- Bathroom hotspots link to standalone product detail pages; there is still no full in-app shop catalog or configurator—main nav is Articles + Eco-One + Private Label, with Shop linking out to the eshop
-- Full product catalog data for detail pages comes from `public/products/products.csv`; `lib/products.ts` remains for homepage bathroom-map hotspots; Sanity is used for articles
+- Bathroom hotspots link to standalone product detail pages at `/{locale}/products/[slug]`; there is still no full in-app shop catalog or configurator—main nav is Articles + Eco-One + Private Label, with Shop linking out to the eshop
+- Product detail text/price/variants come from `public/products/products.csv`; product images come from local `public/products/*/PhotoStock/` (not Shopify CDN); `lib/products.ts` remains for homepage bathroom-map hotspots; Sanity is used for articles
 - Articles live at `/{locale}/articles`; Sanity Studio is at `/studio`
 - i18n uses next-intl with locales `en`, `es`, `fr`, `de`, `it`, `cs` and copy in `dictionaries/*.json`
 - Homepage is an interactive bathroom map with hotspots (`components/home/bathroom-map.tsx`, asset `public/home/bathroom-map.jpg`, typically 2:1)

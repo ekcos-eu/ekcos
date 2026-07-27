@@ -375,9 +375,9 @@
       "selectProduct": "Sélectionner un produit",
       "fragrance": "Options de parfum",
       "benefits": "Avantages",
-      "productBenefits": "Product benefits",
-      "availableColorsFragrances": "Available colors & fragrances",
-      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
+      "productBenefits": "Avantages produit",
+      "availableColorsFragrances": "Couleurs et parfums disponibles",
+      "sixtyDayBadge": "Grille urinoir anti-éclaboussures PLUS 60 jours",
       "byBrand": "by ëkcos",
       "siteUrl": "www.ekcos.eu",
       "useCases": "Applications typiques",
@@ -394,24 +394,24 @@
       "citrus": "Citrus"
     },
     "variantLabels": {
-      "x1p": "Purple / Berry",
-      "x2g": "Light green / Apple",
-      "x3b": "Blue / Fresh",
-      "x4o": "Orange / Tropical fruit",
-      "x6c": "Clear / Tropical fruit",
-      "x7bk": "Black / Mint",
-      "x8bm": "Flame / Mango",
-      "x9g": "Dark green / Pine",
-      "x10r": "Red / Melon",
-      "x12p": "Dark purple / Lavender",
-      "x13c": "Yellow / Citrus"
+      "x1p": "Violet / Baie",
+      "x2g": "Vert clair / Pomme",
+      "x3b": "Bleu / Frais",
+      "x4o": "Orange / Fruit tropical",
+      "x6c": "Transparent / Fruit tropical",
+      "x7bk": "Noir / Menthe",
+      "x8bm": "Flamme / Mangue",
+      "x9g": "Vert foncé / Pin",
+      "x10r": "Rouge / Melon",
+      "x12p": "Violet foncé / Lavande",
+      "x13c": "Jaune / Agrumes"
     },
     "xcrenHd": {
       "name": "xcrën HD",
-      "category": "Premium urinal screen",
+      "category": "Grille urinoir premium",
       "badge": "Xtreme anti-splash urinal screen",
-      "short": "High-performance urinal screen engineered for consistent fragrance release and a clean appearance.",
-      "long": "xcrën HD combines refined industrial design with dependable performance in high-traffic washrooms. Pair with Eco-One™ for end-of-life options aligned with your sustainability goals.",
+      "short": "Grille urinoir haut de gamme conçue pour une diffusion de parfum régulière et un aspect soigné.",
+      "long": "xcrën HD allie un design industriel raffiné à des performances fiables dans les sanitaires à fort trafic. Associez-la à Eco-One™ pour des options de fin de vie alignées sur vos objectifs de durabilité.",
       "benefits": {
         "0": "Système de poils breveté couvrant 95 % de la surface pour limiter les éclaboussures",
         "1": "Parfum intégré au matériau et libéré progressivement pendant 60+ jours",
@@ -422,28 +422,28 @@
         "6": "Adapté aux urinoirs sans eau ; marquage privé disponible"
       },
       "variants": {
-        "xhd1p": "Purple / Berry",
-        "xhd2g": "Light green / Apple",
-        "xhd3b": "Blue / Fresh",
-        "xhd4o": "Orange / Tropical fruit",
-        "xhd6c": "Clear / Tropical fruit",
-        "xhd7bk": "Black / Mint",
-        "xhd8bm": "Flame / Mango",
-        "xhd9g": "Dark green / Pine",
-        "xhd10r": "Red / Melon",
-        "xhd12p": "Dark purple / Lavender",
-        "xhd13c": "Yellow / Citrus"
+        "xhd1p": "Violet / Baie",
+        "xhd2g": "Vert clair / Pomme",
+        "xhd3b": "Bleu / Frais",
+        "xhd4o": "Orange / Fruit tropical",
+        "xhd6c": "Transparent / Fruit tropical",
+        "xhd7bk": "Noir / Menthe",
+        "xhd8bm": "Flamme / Mangue",
+        "xhd9g": "Vert foncé / Pin",
+        "xhd10r": "Rouge / Melon",
+        "xhd12p": "Violet foncé / Lavande",
+        "xhd13c": "Jaune / Agrumes"
       },
       "useCases": {
-        "0": "Corporate offices",
-        "1": "Hotels and hospitality"
+        "0": "Bureaux d’entreprise",
+        "1": "Hôtels et hôtellerie"
       }
     },
     "ekcoscreen": {
       "name": "ëkcoscreen",
-      "category": "Urinal screen",
-      "short": "Balanced performance for everyday commercial washrooms with reliable odor control.",
-      "long": "ëkcoscreen delivers a practical balance of cost and performance for facilities that need dependable hygiene support without compromise on presentation.",
+      "category": "Grille urinoir",
+      "short": "Efficacité équilibrée pour les sanitaires commerciaux du quotidien, avec un contrôle des odeurs fiable.",
+      "long": "ëkcoscreen offre un équilibre pratique entre coût et efficacité pour les établissements qui ont besoin d’un soutien hygiène fiable sans compromis sur la présentation.",
       "benefits": {
         "0": "Poils anti-éclaboussures brevetés pour des sols plus propres et moins de diffusion bactérienne",
         "1": "Libération progressive du parfum pendant 60+ jours",
@@ -454,15 +454,15 @@
         "6": "Large choix de couleurs et de parfums ; marquage privé disponible"
       },
       "useCases": {
-        "0": "Retail",
-        "1": "Public buildings"
+        "0": "Commerce de détail",
+        "1": "Bâtiments publics"
       }
     },
     "powerscreen": {
       "name": "powër screen",
-      "category": "Performance urinal screen",
-      "short": "Built for demanding environments where performance and presentation matter.",
-      "long": "powër screen is tuned for venues with high throughput, helping maintain a premium washroom experience with structured fragrance delivery.",
+      "category": "Grille urinoir haute efficacité",
+      "short": "Conçue pour les environnements exigeants où efficacité et présentation comptent.",
+      "long": "powër screen est calibrée pour les sites à fort débit et aide à maintenir une expérience sanitaire premium grâce à une diffusion de parfum structurée.",
       "benefits": {
         "0": "Conception anti-éclaboussures pour un contrôle efficace des projections",
         "1": "Performance olfactive adaptée à des intervalles d’entretien jusqu’à 30 jours",
@@ -473,15 +473,15 @@
         "6": "Disponible en plusieurs couleurs et parfums"
       },
       "useCases": {
-        "0": "Stadiums",
-        "1": "Transport hubs"
+        "0": "Stades",
+        "1": "Hubs de transport"
       }
     },
     "basicScreen": {
       "name": "basic scrëen",
-      "category": "Essential urinal screen",
-      "short": "Straightforward protection and freshness for standard washroom programs.",
-      "long": "basic scrëen is the practical choice for programs that need dependable hygiene support with clear service expectations.",
+      "category": "Grille urinoir essentielle",
+      "short": "Protection et fraîcheur simples pour les programmes sanitaires standards.",
+      "long": "basic scrëen est le choix pratique pour les programmes qui ont besoin d’un soutien hygiène fiable avec des attentes de service claires.",
       "benefits": {
         "0": "Protection anti-éclaboussures simple pour les programmes d’urinoirs standards",
         "1": "Parfum adapté aux cycles d’entretien mensuels",
@@ -492,15 +492,15 @@
         "6": "Option économique avec une gamme claire de couleurs et de parfums"
       },
       "useCases": {
-        "0": "Schools",
-        "1": "Light commercial"
+        "0": "Écoles",
+        "1": "Usage commercial léger"
       }
     },
     "urolite": {
       "name": "üro lite",
-      "category": "Compact urinal screen",
-      "short": "Compact format with flexible finish options for modern fixtures.",
-      "long": "üro lite fits compact urinal geometries while maintaining ëkcos quality cues and service-friendly handling.",
+      "category": "Grille urinoir compacte",
+      "short": "Format compact avec options de finition flexibles pour les équipements modernes.",
+      "long": "üro lite s’adapte aux géométries d’urinoir compactes tout en conservant les codes qualité ëkcos et une manipulation pratique en service.",
       "benefits": {
         "0": "Géométrie compacte pour les cuvettes modernes et plus petites",
         "1": "Performance anti-éclaboussures dans un format d’écran plus léger",
@@ -511,15 +511,15 @@
         "6": "Manipulation simple pour l’hôtellerie boutique et les bureaux premium"
       },
       "useCases": {
-        "0": "Boutique hospitality",
-        "1": "Premium office"
+        "0": "Hôtellerie boutique",
+        "1": "Bureaux premium"
       }
     },
     "ekcoClip": {
       "name": "ëkco clip",
-      "category": "Clip fixture",
-      "short": "Secure mounting accessory designed for stable placement and clean lines.",
-      "long": "ëkco clip helps maintain consistent positioning where a clip-style fixture is part of your program.",
+      "category": "Accessoire à clip",
+      "short": "Accessoire de fixation sécurisé pour une pose stable et des lignes nettes.",
+      "long": "ëkco clip aide à maintenir un positionnement constant lorsque un accessoire type clip fait partie de votre programme.",
       "benefits": {
         "0": "Désodorisant pour cuvette WC avec clip sécurisé",
         "1": "Libération passive du parfum — sans aérosols ni huiles chauffées",
@@ -530,15 +530,15 @@
         "6": "Disponible en plusieurs couleurs et parfums"
       },
       "useCases": {
-        "0": "Facility retrofits",
-        "1": "Specification-led projects"
+        "0": "Rénovations d’installations",
+        "1": "Projets sur spécification"
       }
     },
     "freshDrop": {
       "name": "frësh drop",
-      "category": "Freshness system",
-      "short": "Targeted freshness delivery with selectable fragrance directions.",
-      "long": "frësh drop is built for programs that want flexible fragrance storytelling while keeping operations simple.",
+      "category": "Système de fraîcheur",
+      "short": "Apport de fraîcheur ciblé avec des directions olfactives sélectionnables.",
+      "long": "frësh drop est conçu pour les programmes qui veulent un storytelling parfum flexible tout en gardant des opérations simples.",
       "benefits": {
         "0": "Désodorisant passif multi-usage à libération contrôlée",
         "1": "Sans goutte-à-goutte, piles ni spray aérosol",
@@ -549,18 +549,18 @@
         "6": "Simple à placer et à remplacer en programme professionnel"
       },
       "useCases": {
-        "0": "Hospitality",
-        "1": "Premium retail"
+        "0": "Hôtellerie",
+        "1": "Retail premium"
       }
     },
     "ezTrap": {
       "name": "ëz trap",
-      "category": "Drain protection",
-      "short": "Helps protect drains while supporting hygiene routines.",
-      "long": "ëz trap is designed for practical maintenance workflows and dependable performance in daily operations.",
+      "category": "Protection d’évacuation",
+      "short": "Aide à protéger les évacuations et à soutenir les routines d’hygiène.",
+      "long": "ëz trap est conçu pour des workflows de maintenance pratiques et des performances fiables au quotidien.",
       "variants": {
-        "withTool": "With removal tool",
-        "withoutTool": "Without removal tool"
+        "withTool": "Avec outil de retrait",
+        "withoutTool": "Sans outil de retrait"
       },
       "benefits": {
         "0": "Upgrade pour urinoirs sans eau — aide à contrôler les odeurs à l’évacuation",
@@ -572,18 +572,18 @@
         "6": "Complète les écrans d’urinoir ëkcos dans une installation complète"
       },
       "useCases": {
-        "0": "Food service",
-        "1": "Healthcare support areas"
+        "0": "Restauration",
+        "1": "Zones de support sanitaire"
       }
     },
     "xcrenPuck": {
       "name": "xcrën puck",
-      "category": "Puck format",
+      "category": "Format puck",
       "short": "Grille urinoir puck NON-PARA pour le contrôle des odeurs et la protection de l'évacuation.",
       "long": "xcrën est une grille urinoir puck NON-PARA conçue pour un contrôle efficace des odeurs et la protection de l'évacuation. Contrairement aux produits traditionnels à base de PARA, elle est exempte de paradichlorobenzène (PARA), composé classé comme potentiellement cancérigène par l'OMS. Son design en X unique empêche l'obstruction par les solides et assure une fragrance fraîche après chaque utilisation pendant jusqu'à 30 jours.",
       "variants": {
-        "whiteFresh": "White / Fresh",
-        "blueFresh": "Blue / Fresh"
+        "whiteFresh": "Blanc / Frais",
+        "blueFresh": "Bleu / Frais"
       },
       "benefits": {
         "0": "Format puck non-para compact pour une pose flexible dans l’urinoir",
@@ -595,15 +595,15 @@
         "6": "Disponible en variantes à parfum frais"
       },
       "useCases": {
-        "0": "Compact washrooms",
-        "1": "Retrofit programs"
+        "0": "Sanitaires compacts",
+        "1": "Programmes de retrofit"
       }
     },
     "ekcoMat": {
       "name": "ëkco mat",
-      "category": "Floor mat",
-      "short": "Floor protection with a clean, professional look.",
-      "long": "ëkco mat supports facility hygiene zones with a product-focused approach to durability and presentation.",
+      "category": "Tapis de sol",
+      "short": "Protection de sol au rendu propre et professionnel.",
+      "long": "ëkco mat soutient les zones d’hygiène des établissements avec un focus sur la durabilité et la présentation.",
       "variants": {
         "standard": "Standard"
       },
@@ -617,8 +617,8 @@
         "6": "S’associe aux écrans ëkcos pour une solution d’hygiène complète"
       },
       "useCases": {
-        "0": "Entrances",
-        "1": "Service corridors"
+        "0": "Entrées",
+        "1": "Couloirs de service"
       }
     }
   },
