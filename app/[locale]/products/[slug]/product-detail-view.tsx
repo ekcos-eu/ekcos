@@ -8,6 +8,7 @@ import { ArrowLeft, ExternalLink, Check } from 'lucide-react'
 import { Link } from '@/i18n/routing'
 import { Button } from '@/components/ui/button'
 import { ProductHeroImage } from '@/components/products/product-hero-image'
+import { ProductDetailLightbox } from '@/components/products/product-detail-lightbox'
 import { SHOP_BASE_URL } from '@/lib/brand'
 import type { CsvProductDetail } from '@/lib/csv-products'
 import { cn } from '@/lib/utils'
@@ -96,6 +97,13 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
 
   const currentVariant = variants[activeVariant]
   const displayImg = galleryImages[activeImg] ?? galleryImages[0] ?? currentVariant?.imageSrc ?? ''
+
+  const activeColorKey = colorKeyFromImageSrc(displayImg)
+  const detailImagesForColor = activeColorKey
+    ? detail.detailImages.filter(
+        (src) => colorKeyFromImageSrc(src) === activeColorKey,
+      )
+    : []
 
   const colorScentLabel = resolveColorScentLabel(
     displayImg,
@@ -220,6 +228,12 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
                 </motion.p>
               </AnimatePresence>
             ) : null}
+
+            <ProductDetailLightbox
+              key={activeColorKey ?? 'none'}
+              images={detailImagesForColor}
+              productName={localizedProduct.name}
+            />
           </div>
 
           {/* Thumbnail rail */}
@@ -234,7 +248,7 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
                   whileHover={{ y: -3, scale: 1.06 }}
                   whileTap={{ scale: 0.96 }}
                   className={cn(
-                    'relative h-16 w-16 shrink-0 overflow-hidden rounded-lg border-2 bg-white transition-colors',
+                    'relative h-16 w-16 shrink-0 cursor-pointer overflow-hidden rounded-lg border-2 bg-white transition-colors',
                     activeImg === idx
                       ? 'border-[#0F68B2] ring-1 ring-[#0F68B2]/30'
                       : 'border-black/10 hover:border-[#0F68B2]/40',
@@ -312,6 +326,13 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
 // ---------------------------------------------------------------------------
 // Helpers: color / scent label from SKU + i18n
 // ---------------------------------------------------------------------------
+
+/** Filename stem before -V… — matches PhotoStock + Detail (e.g. PWR-3B, XPU-1P). */
+function colorKeyFromImageSrc(src: string): string | null {
+  const file = decodeURIComponent(src.split('/').pop() ?? '').replace(/\s+/g, '')
+  const match = file.match(/^([A-Za-z]+-[0-9A-Za-z]+)-V/i)
+  return match ? match[1].toUpperCase() : null
+}
 
 /** Extract SKU like PWR-3B / XPU-02B from a PhotoStock path. */
 function skuFromImageSrc(src: string): string | null {

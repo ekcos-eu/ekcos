@@ -20,6 +20,8 @@ export type CsvProductDetail = {
   price: string
   /** All local PhotoStock images — used as gallery */
   images: string[]
+  /** Detail close-up photos from public/products/{Folder}/Detail/ */
+  detailImages: string[]
   variants: CsvVariant[]
   shopPath: string
 }
@@ -139,6 +141,28 @@ function localPhotostockImages(slug: string): string[] {
   }
 }
 
+/** Close-up / detail shots — put files in public/products/{Folder}/Detail/ */
+function localDetailImages(slug: string): string[] {
+  const folder = SLUG_TO_FOLDER[slug]
+  if (!folder) return []
+
+  for (const sub of ['Detail', 'Details', 'detail', 'details'] as const) {
+    const dir = path.join(process.cwd(), 'public', 'products', folder, sub)
+    try {
+      if (!fs.existsSync(dir) || !fs.statSync(dir).isDirectory()) continue
+      const files = fs
+        .readdirSync(dir)
+        .filter((f) => /\.(png|jpg|jpeg|webp)$/i.test(f))
+        .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }))
+      if (files.length === 0) continue
+      return files.map((f) => publicPath('products', folder, sub, f))
+    } catch {
+      continue
+    }
+  }
+  return []
+}
+
 // ---------------------------------------------------------------------------
 // CSV column name constants (exact Shopify export header text)
 // ---------------------------------------------------------------------------
@@ -240,6 +264,7 @@ export function getProductDetailBySlug(slug: string): CsvProductDetail | null {
       bodyHtml: '',
       price: '',
       images: localPhotostockImages(slug),
+      detailImages: localDetailImages(slug),
       variants: product.colors.map((c) => ({
         sku: c.sku ?? c.id,
         title: c.sku ?? c.id,
@@ -286,6 +311,7 @@ export function getProductDetailBySlug(slug: string): CsvProductDetail | null {
 
   // Gallery: all local PhotoStock images
   const images = localPhotostockImages(slug)
+  const detailImages = localDetailImages(slug)
 
   return {
     slug,
@@ -293,6 +319,7 @@ export function getProductDetailBySlug(slug: string): CsvProductDetail | null {
     bodyHtml,
     price,
     images,
+    detailImages,
     variants,
     shopPath: product?.shopPath ?? `/collections/${slug}`,
   }

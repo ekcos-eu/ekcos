@@ -82,7 +82,10 @@
     "variants": "Varianti disponibili",
     "colors": "Colori e fragranze",
     "benefits": "Vantaggi principali",
-    "more": "Ulteriori dettagli"
+    "more": "Ulteriori dettagli",
+    "openDetails": "Apri foto di dettaglio",
+    "detailGallery": "Foto di dettaglio — {name}",
+    "detailShot": "dettaglio"
   },
   "articles": {
     "shopCta": {

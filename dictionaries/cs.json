@@ -82,7 +82,10 @@
     "variants": "Dostupné varianty",
     "colors": "Barvy a vůně",
     "benefits": "Klíčové výhody",
-    "more": "Více informací"
+    "more": "Více informací",
+    "openDetails": "Otevřít detailní fotografie",
+    "detailGallery": "Detailní fotografie — {name}",
+    "detailShot": "detail"
   },
   "articles": {
     "shopCta": {
