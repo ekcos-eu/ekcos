@@ -76,6 +76,7 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
   const [activeImg, setActiveImg] = React.useState(0)
   const [activeVariant, setActiveVariant] = React.useState(0)
   const [autoplayPaused, setAutoplayPaused] = React.useState(false)
+  const [detailLightboxOpen, setDetailLightboxOpen] = React.useState(false)
   const [userPausedUntil, setUserPausedUntil] = React.useState(0)
   const shopUrl = `${SHOP_BASE_URL}${detail.shopPath}`
 
@@ -99,11 +100,15 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
   const displayImg = galleryImages[activeImg] ?? galleryImages[0] ?? currentVariant?.imageSrc ?? ''
 
   const activeColorKey = colorKeyFromImageSrc(displayImg)
-  const detailImagesForColor = activeColorKey
-    ? detail.detailImages.filter(
-        (src) => colorKeyFromImageSrc(src) === activeColorKey,
-      )
-    : []
+  const detailImagesForColor = React.useMemo(
+    () =>
+      activeColorKey
+        ? detail.detailImages.filter(
+            (src) => colorKeyFromImageSrc(src) === activeColorKey,
+          )
+        : [],
+    [activeColorKey, detail.detailImages],
+  )
 
   const colorScentLabel = resolveColorScentLabel(
     displayImg,
@@ -150,7 +155,7 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
   // Auto-rotate gallery colors every 4s
   React.useEffect(() => {
     if (!canAutoplayColors) return
-    if (autoplayPaused || userPausedUntil > Date.now()) return
+    if (autoplayPaused || detailLightboxOpen || userPausedUntil > Date.now()) return
     if (
       typeof window !== 'undefined' &&
       window.matchMedia('(prefers-reduced-motion: reduce)').matches
@@ -171,6 +176,7 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
     return () => window.clearInterval(id)
   }, [
     autoplayPaused,
+    detailLightboxOpen,
     canAutoplayColors,
     galleryImages,
     variants,
@@ -194,7 +200,9 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
         <div
           className="flex flex-col gap-4"
           onPointerEnter={() => setAutoplayPaused(true)}
-          onPointerLeave={() => setAutoplayPaused(false)}
+          onPointerLeave={() => {
+            if (!detailLightboxOpen) setAutoplayPaused(false)
+          }}
         >
           {/* Main image */}
           <div className="relative aspect-square overflow-hidden rounded-2xl bg-[#f0f4f8]">
@@ -230,9 +238,9 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
             ) : null}
 
             <ProductDetailLightbox
-              key={activeColorKey ?? 'none'}
               images={detailImagesForColor}
               productName={localizedProduct.name}
+              onOpenChange={setDetailLightboxOpen}
             />
           </div>
 
