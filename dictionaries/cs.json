@@ -71,6 +71,7 @@
     "shop": "Obchod",
     "shopCta": "Nakoupit na eshop.ekcos.eu",
     "learnMore": "Zjistit více",
+    "scrollDown": "Posuňte se dolů pro více informací",
     "getInTouch": "Kontaktovat nás",
     "ecoOne": "Eco-One™"
   },
@@ -107,7 +108,7 @@
   "home": {
     "map": {
       "aria": "Interaktivní mapa produktů na toaletě",
-      "hint": "Klikni na produkt · Posun kolečkem",
+      "hint": "Klikni na produkt",
       "imageAlt": "Produkty ëkcos umístěné v komerční toaletě"
     },
     "overlay": {

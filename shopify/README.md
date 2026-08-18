@@ -89,7 +89,7 @@ Stránka je vizuálně sladěná s `Custom Branding`, obsahuje checkout screensh
 
 Soubory:
 
-- `sections/faq-page.liquid`
+- `sections/faq.liquid`
 - `templates/page.faq.json`
 
 Nasazení:

@@ -71,6 +71,7 @@
     "shop": "Shop",
     "shopCta": "Im Shop auf eshop.ekcos.eu kaufen",
     "learnMore": "Mehr erfahren",
+    "scrollDown": "Nach unten scrollen für mehr Infos",
     "getInTouch": "Kontakt aufnehmen",
     "ecoOne": "Eco-One™"
   },
@@ -107,7 +108,7 @@
   "home": {
     "map": {
       "aria": "Interaktive Produktkarte im Waschraum",
-      "hint": "Produkt anklicken · Zum Schwenken scrollen",
+      "hint": "Produkt anklicken",
       "imageAlt": "ëkcos-Produkte in einem gewerblichen Waschraum"
     },
     "overlay": {

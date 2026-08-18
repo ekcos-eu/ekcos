@@ -1,104 +1,85 @@
 'use client'
 
-import * as React from 'react'
-import Image from 'next/image'
-import { useTranslations } from 'next-intl'
-import { useRouter } from '@/i18n/routing'
-import { bathroomHotspots } from '@/lib/bathroom-hotspots'
-import { getProductBySlug } from '@/lib/products'
-import { BathroomHotspotButton } from '@/components/home/bathroom-hotspot'
+import {getImageProps} from 'next/image'
+import {useTranslations} from 'next-intl'
+import {useRouter} from '@/i18n/routing'
+import {
+  desktopBathroomHotspots,
+  mobileBathroomHotspots,
+  type BathroomHotspot,
+} from '@/lib/bathroom-hotspots'
+import {getProductBySlug} from '@/lib/products'
+import {BathroomHotspotButton} from '@/components/home/bathroom-hotspot'
 
-/** Native aspect of public/home/bathroom-map.jpg (2160×1080) */
-const SCENE_RATIO = 2160 / 1080
+const MOBILE_MEDIA = '(max-width: 767px)'
 
 export function BathroomMap() {
   const t = useTranslations()
   const home = useTranslations('home.map')
   const router = useRouter()
-  const sectionRef = React.useRef<HTMLElement>(null)
-  const scrollRef = React.useRef<HTMLDivElement>(null)
-  const [scene, setScene] = React.useState({ width: 2160, height: 1080 })
+  const alt = home('imageAlt')
 
-  React.useEffect(() => {
-    const section = sectionRef.current
-    if (!section) return
-
-    const update = () => {
-      const availableW = section.clientWidth
-      const availableH = section.clientHeight
-      if (availableW <= 0 || availableH <= 0) return
-
-      const widthIfFillHeight = availableH * SCENE_RATIO
-      if (widthIfFillHeight >= availableW) {
-        setScene({ width: widthIfFillHeight, height: availableH })
-      } else {
-        setScene({ width: availableW, height: availableW / SCENE_RATIO })
-      }
-    }
-
-    update()
-    const observer = new ResizeObserver(update)
-    observer.observe(section)
-    return () => observer.disconnect()
-  }, [])
-
-  React.useEffect(() => {
-    const el = scrollRef.current
-    if (!el) return
-
-    const onWheel = (event: WheelEvent) => {
-      if (Math.abs(event.deltaY) <= Math.abs(event.deltaX)) return
-      event.preventDefault()
-      el.scrollLeft += event.deltaY
-    }
-
-    el.addEventListener('wheel', onWheel, { passive: false })
-    return () => el.removeEventListener('wheel', onWheel)
-  }, [])
+  const {
+    props: {srcSet: mobileSrcSet, sizes: mobileSizes},
+  } = getImageProps({
+    src: '/home/bathroom-map-mobile.jpg',
+    alt,
+    width: 700,
+    height: 1024,
+    priority: false,
+    sizes: '100vw',
+  })
+  const {
+    props: {srcSet: desktopSrcSet, src: desktopSrc, sizes: desktopSizes},
+  } = getImageProps({
+    src: '/home/bathroom-map.jpg',
+    alt,
+    width: 2160,
+    height: 1080,
+    priority: false,
+    sizes: '100vw',
+  })
 
   const handleSelect = (slug: string) => {
     router.push(`/products/${slug}`)
   }
 
+  const renderHotspots = (hotspots: BathroomHotspot[]) =>
+    hotspots.map((hotspot) => {
+      const product = getProductBySlug(hotspot.slug)
+      const label = product ? t(product.nameKey) : hotspot.slug
+      return (
+        <BathroomHotspotButton
+          key={hotspot.id}
+          hotspot={hotspot}
+          label={label}
+          onSelect={handleSelect}
+        />
+      )
+    })
+
   return (
     <section
-      ref={sectionRef}
-      className="relative h-[calc(100dvh-4rem)] w-full overflow-hidden bg-[#e8ecef] sm:h-[calc(100dvh-4.25rem)]"
+      className="w-full scroll-mt-16 overflow-x-hidden bg-[#e8ecef] sm:scroll-mt-[4.25rem]"
+      id="washroom"
       aria-label={home('aria')}
     >
-      <div
-        ref={scrollRef}
-        className="flex h-full w-full items-center overflow-x-auto overflow-y-hidden"
-        style={{ touchAction: 'pan-x' }}
-      >
-        <div
-          className="relative shrink-0"
-          style={{ width: scene.width, height: scene.height }}
-        >
-          <Image
-            src="/home/bathroom-map.jpg"
-            alt={home('imageAlt')}
-            fill
-            priority
+      <div className="relative w-full aspect-[700/1024] md:aspect-[2/1]">
+        <picture>
+          <source media={MOBILE_MEDIA} srcSet={mobileSrcSet} sizes={mobileSizes} />
+          <img
+            src={desktopSrc}
+            srcSet={desktopSrcSet}
+            sizes={desktopSizes}
+            alt={alt}
             draggable={false}
-            className="pointer-events-none select-none object-cover"
-            sizes="100vw"
+            className="pointer-events-none absolute inset-0 h-full w-full select-none object-cover"
           />
+        </picture>
 
-          <div className="absolute inset-0">
-            {bathroomHotspots.map((hotspot) => {
-              const product = getProductBySlug(hotspot.slug)
-              const label = product ? t(product.nameKey) : hotspot.slug
-              return (
-                <BathroomHotspotButton
-                  key={hotspot.id}
-                  hotspot={hotspot}
-                  label={label}
-                  onSelect={handleSelect}
-                />
-              )
-            })}
-          </div>
+        <div className="absolute inset-0 md:hidden">{renderHotspots(mobileBathroomHotspots)}</div>
+        <div className="absolute inset-0 hidden md:block">
+          {renderHotspots(desktopBathroomHotspots)}
         </div>
       </div>
     </section>

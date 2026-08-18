@@ -71,6 +71,7 @@
     "shop": "Shop",
     "shopCta": "Shop on eshop.ekcos.eu",
     "learnMore": "Learn more",
+    "scrollDown": "Scroll down for more info",
     "getInTouch": "Contact us",
     "ecoOne": "Eco-One™"
   },
@@ -107,7 +108,7 @@
   "home": {
     "map": {
       "aria": "Interactive restroom product map",
-      "hint": "Click a product to learn more · Scroll to pan",
+      "hint": "Click a product to learn more",
       "imageAlt": "ëkcos products placed in a commercial restroom"
     },
     "overlay": {

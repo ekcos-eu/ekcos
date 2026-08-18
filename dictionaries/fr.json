@@ -71,6 +71,7 @@
     "shop": "Boutique",
     "shopCta": "Acheter sur eshop.ekcos.eu",
     "learnMore": "En savoir plus",
+    "scrollDown": "Faites défiler pour plus d’infos",
     "getInTouch": "Nous contacter",
     "ecoOne": "Eco-One™"
   },
@@ -107,7 +108,7 @@
   "home": {
     "map": {
       "aria": "Carte interactive des produits dans les sanitaires",
-      "hint": "Cliquez sur un produit · Défilez pour panoramiquer",
+      "hint": "Cliquez sur un produit",
       "imageAlt": "Produits ëkcos placés dans des sanitaires commerciaux"
     },
     "overlay": {

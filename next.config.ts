@@ -13,8 +13,8 @@ const nextConfig: NextConfig = {
       },
     ],
   },
-  // Product photos live in public/ and are served as static assets. Never pack
-  // them into serverless functions (readdir/tracing would exceed the 250MB limit).
+  // Product photos and hero video live in public/ and are served as static CDN
+  // assets. Never pack them into serverless functions.
   outputFileTracingExcludes: {
     '*': [
       './public/products/**/*.jpg',
@@ -23,7 +23,21 @@ const nextConfig: NextConfig = {
       './public/products/**/*.webp',
       './public/products/**/*.JPG',
       './public/products/**/*.PNG',
+      './public/videos/**',
     ],
+  },
+  async headers() {
+    return [
+      {
+        source: '/videos/:path*',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=31536000, immutable',
+          },
+        ],
+      },
+    ]
   },
   async redirects() {
     return [

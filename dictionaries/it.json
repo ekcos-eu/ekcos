@@ -71,6 +71,7 @@
     "shop": "Negozio",
     "shopCta": "Acquista su eshop.ekcos.eu",
     "learnMore": "Scopri di più",
+    "scrollDown": "Scorri in basso per maggiori informazioni",
     "getInTouch": "Contattaci",
     "ecoOne": "Eco-One™"
   },
@@ -107,7 +108,7 @@
   "home": {
     "map": {
       "aria": "Mappa interattiva dei prodotti nel bagno",
-      "hint": "Clicca su un prodotto · Scorri per spostarti",
+      "hint": "Clicca su un prodotto",
       "imageAlt": "Prodotti ëkcos collocati in un bagno commerciale"
     },
     "overlay": {
