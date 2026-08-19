@@ -26,7 +26,7 @@ export function BathroomMap() {
     alt,
     width: 700,
     height: 1024,
-    priority: false,
+    priority: true,
     sizes: '100vw',
   })
   const {
@@ -36,7 +36,7 @@ export function BathroomMap() {
     alt,
     width: 2160,
     height: 1080,
-    priority: false,
+    priority: true,
     sizes: '100vw',
   })
 
