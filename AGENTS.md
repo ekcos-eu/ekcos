@@ -20,7 +20,7 @@
 - Product detail text/price/variants come from `public/products/products.csv`; marketing copy/labels are localized in `dictionaries/*.json`; product images come from local `public/products/*/PhotoStock/` (main/variants) and `public/products/*/Detail/` (color-filtered detail shots)—not Shopify CDN; `lib/products.ts` holds product metadata; `lib/bathroom-hotspots.ts` holds desktop/mobile hotspot positions; Sanity is used for articles
 - Articles live at `/{locale}/articles`; Sanity Studio is at `/studio`
 - i18n uses next-intl with locales `en`, `es`, `fr`, `de`, `it`, `cs` and copy in `dictionaries/*.json`
-- Homepage is an interactive bathroom map with hotspots (`components/home/bathroom-map.tsx`; desktop `public/home/bathroom-map.jpg` typically 2:1, mobile `public/home/bathroom-map-mobile.jpg`), followed by a homepage-only intro video (`components/layout/hero-intro-video.tsx`, `public/videos/ekcos-hero.mp4`) with no overlay gradient or text
+- Homepage is an interactive bathroom map with hotspots (`components/home/bathroom-map.tsx`; desktop `public/home/bathroom-map.jpg` typically 2:1, mobile `public/home/bathroom-map-mobile.jpg`)
 - Brand primary blue is `#0F68B2`; package manager is bun
 - Interactive bathroom UX is patterned after flora-interactive (pan/hotspots plus standalone product detail pages with rich media and image motion)
 - Standalone contact page was removed; site no longer exposes a Contact nav item
