@@ -1,0 +1,517 @@
+{%- comment -%}
+  Eurus Lookbook with an optional mobile image and per-hotspot mobile positions.
+  Replace the theme file sections/lookbook.liquid with this version.
+{%- endcomment -%}
+
+{%- style -%}
+  #shopify-section-{{ section.id }} {
+    --section-padding-top: {{ section.settings.padding_top }}px;
+    --section-padding-bottom: {{ section.settings.padding_bottom }}px;
+    --color-overlay-opacity: {{ section.settings.colors_overlay_opacity | divided_by: 100.0 }};
+    --color-overlay: {{ section.settings.colors_overlay.red }}, {{ section.settings.colors_overlay.green }}, {{ section.settings.colors_overlay.blue }};
+    {%- if section.settings.image != blank %}
+      --image-ratio-percent: {{ 1 | divided_by: section.settings.image.aspect_ratio | times: 100 }}%;
+    {% endif -%}
+    {%- if section.settings.image_mobile != blank %}
+      --image-ratio-percent-mobile: {{ 1 | divided_by: section.settings.image_mobile.aspect_ratio | times: 100 }}%;
+    {% endif -%}
+    --color-highlight: {{ section.settings.colors_highlight.red }}, {{ section.settings.colors_highlight.green }}, {{ section.settings.colors_highlight.blue }};
+  }
+
+  @media screen and (max-width: 749px) {
+    {%- if section.settings.image_mobile != blank %}
+      #shopify-section-{{ section.id }} .media--adapt {
+        padding-bottom: var(--image-ratio-percent-mobile);
+      }
+    {% endif -%}
+    #shopify-section-{{ section.id }} .look__hotspot {
+      left: var(--hotspot-x-mobile, var(--hotspot-x));
+      top: var(--hotspot-y-mobile, var(--hotspot-y));
+    }
+    #shopify-section-{{ section.id }} .look__hotspot--desktop-only,
+    #shopify-section-{{ section.id }} .look__hotspot-wrap--desktop-only {
+      display: none;
+    }
+    #shopify-section-{{ section.id }} .look__hotspot-product {
+      left: auto;
+      right: auto;
+      top: calc(100% + 1rem);
+      bottom: auto;
+    }
+    #shopify-section-{{ section.id }} .look__hotspot-product:after {
+      left: auto;
+      right: auto;
+      top: -0.6rem;
+      bottom: auto;
+      border-top: none;
+      border-bottom: 0.6rem solid rgb(var(--color-background));
+    }
+    #shopify-section-{{ section.id }} .look__hotspot-product--m-left {
+      left: 0;
+    }
+    #shopify-section-{{ section.id }} .look__hotspot-product--m-left:after {
+      left: 1.6rem;
+    }
+    #shopify-section-{{ section.id }} .look__hotspot-product--m-right {
+      right: 0;
+    }
+    #shopify-section-{{ section.id }} .look__hotspot-product--m-right:after {
+      right: 1.6rem;
+    }
+    #shopify-section-{{ section.id }} .look__hotspot-product--m-bottom {
+      top: auto;
+      bottom: calc(100% + 1rem);
+    }
+    #shopify-section-{{ section.id }} .look__hotspot-product--m-bottom:after {
+      top: auto;
+      bottom: -0.6rem;
+      border-bottom: none;
+      border-top: 0.6rem solid rgb(var(--color-background));
+    }
+  }
+{%- endstyle -%}
+
+{{ 'section-lookbook.css' | asset_url | stylesheet_tag }}
+
+<div class="section--padding{% if section.settings.show_divider %} section--divider{% endif %}">
+  <lookbook-component class="lookbook page-width{% if section.settings.full_width %} page-width--full-width{% endif %}">
+    <div class="title-wrapper{% if section.settings.heading == blank %} title-wrapper--no-heading{% endif %}{% if section.settings.full_width %} page-width{% endif %} {{ section.settings.heading_alignment }}">
+      <{{ section.settings.heading_tag }} class="title {{ section.settings.heading_size }}">
+        {%- render 'highlight-text',
+          hl_input: section.settings.heading,
+          hl_style: section.settings.highlight_style,
+          hl_enable: section.settings.enable_highlight,
+          hl_animateWrap: true -%}
+      </{{ section.settings.heading_tag }}>
+    </div>
+
+    <use-animate data-animate="zoom-fade" class="media-wrapper">
+      <div class="image-animate media--adapt{% if section.settings.image != blank %} media{% else %} lookbook--placeholder{% endif %}">
+        {%- if section.settings.image != blank -%}
+          {%- capture sizes -%}{% if section.settings.full_width %}100vw{% else %}(min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 }}px, (min-width: 750px) calc(100vw - 10rem), 100vw{% endif %}{%- endcapture -%}
+          {%- if section.settings.image_mobile != blank -%}
+            <picture>
+              <source
+                media="(max-width: 749px)"
+                srcset="
+                  {{ section.settings.image_mobile | image_url: width: 375 }} 375w,
+                  {{ section.settings.image_mobile | image_url: width: 750 }} 750w,
+                  {{ section.settings.image_mobile | image_url: width: 1100 }} 1100w
+                "
+                sizes="100vw"
+              >
+              {{ section.settings.image | image_url: width: 3840 | image_tag:
+                loading: 'lazy',
+                class: 'image-fit',
+                sizes: sizes,
+                widths: '375, 750, 1100, 1500, 1780, 2000, 3000, 3840',
+                is: 'lazy-image'
+              }}
+            </picture>
+          {%- else -%}
+            {{ section.settings.image | image_url: width: 3840 | image_tag:
+              loading: 'lazy',
+              class: 'image-fit',
+              sizes: sizes,
+              widths: '375, 750, 1100, 1500, 1780, 2000, 3000, 3840',
+              is: 'lazy-image'
+            }}
+          {%- endif -%}
+        {%- else -%}
+          {{ 'lifestyle-1' | placeholder_svg_tag: 'placeholder' }}
+        {%- endif -%}
+      </div>
+      {%- for block in section.blocks -%}
+        {%- liquid
+          assign card_product = block.settings.product
+          assign hs_x = block.settings.horizontal
+          assign hs_y = block.settings.vertical
+          assign hs_mx = block.settings.horizontal_mobile
+          assign hs_my = block.settings.vertical_mobile
+          if hs_mx == 0
+            assign hs_mx = hs_x
+          endif
+          if hs_my == 0
+            assign hs_my = hs_y
+          endif
+          assign hotspot_desktop_only = ''
+          if block.settings.hide_on_mobile
+            assign hotspot_desktop_only = ' look__hotspot--desktop-only'
+          endif
+        -%}
+        {%- capture hotspot_style -%}
+          --hotspot-color: {{ block.settings.color.red }}, {{ block.settings.color.green }}, {{ block.settings.color.blue }}; --hotspot-x: {{ hs_x }}%; --hotspot-y: {{ hs_y }}%; --hotspot-x-mobile: {{ hs_mx }}%; --hotspot-y-mobile: {{ hs_my }}%;
+        {%- endcapture -%}
+        {%- capture hotspot_product_class -%}
+          look__hotspot-product{% if hs_x < 15 %} look__hotspot-product--left{% elsif hs_x > 85 %} look__hotspot-product--right{% endif %}{% if hs_y > 70 %} look__hotspot-product--bottom{% endif %}{% if hs_mx < 15 %} look__hotspot-product--m-left{% elsif hs_mx > 85 %} look__hotspot-product--m-right{% endif %}{% if hs_my > 70 %} look__hotspot-product--m-bottom{% endif %}
+        {%- endcapture -%}
+        {%- if card_product != blank -%}
+          {%- if settings.quick_view_enabled and block.settings.enable_quick_view -%}
+            <link rel="stylesheet" href="{{ 'section-main-product.css' | asset_url }}" media="print" onload="this.media='all'">
+            <link rel="stylesheet" href="{{ 'component-deferred-media.css' | asset_url }}" media="print" onload="this.media='all'">
+            <link rel="stylesheet" href="{{ 'component-slider.css' | asset_url }}" media="print" onload="this.media='all'">
+            <link rel="stylesheet" href="{{ 'component-rating.css' | asset_url }}" media="print" onload="this.media='all'">
+            <noscript>
+              <a href="{{ card_product.url }}" class="look__hotspot{{ hotspot_desktop_only }}" style="{{ hotspot_style }}" {{ block.shopify_attributes }}>
+                <div class="{{ hotspot_product_class }}">
+                  <div class="h5">{{ card_product.title | escape }}</div>
+                  {% render 'price', product: card_product %}
+                </div>
+              </a>
+            </noscript>
+            <quick-view-drawer{% if block.settings.hide_on_mobile %} class="look__hotspot-wrap--desktop-only"{% endif %}>
+              <details>
+                <summary class="quick-view__summary" tabindex="-1">
+                  <span class="visually-hidden">{{ 'products.product.quick_view' | t }}</span>
+                  <div class="look__hotspot{{ hotspot_desktop_only }}" style="{{ hotspot_style }}" {{ block.shopify_attributes }}>
+                    <div class="{{ hotspot_product_class }}">
+                      <div class="h5">{{ card_product.title | escape }}</div>
+                      {% render 'price', product: card_product %}
+                    </div>
+                  </div>
+                </summary>
+                <quick-view class="quick-view" data-product-url="{{ card_product.url | within: collection }}">
+                  <div role="dialog" aria-label="{{ 'products.product.choose_product_options' | t: product_name: card_product.title | escape }}" aria-modal="true" class="quick-view__content" tabindex="-1"></div>
+                </quick-view>
+              </details>
+            </quick-view-drawer>
+          {%- else -%}
+            <a href="{{ card_product.url }}" class="look__hotspot{{ hotspot_desktop_only }}" style="{{ hotspot_style }}" {{ block.shopify_attributes }}>
+              <div class="{{ hotspot_product_class }}">
+                <div class="h5">{{ card_product.title | escape }}</div>
+                {% render 'price', product: card_product %}
+              </div>
+            </a>
+          {%- endif -%}
+        {%- else -%}
+          <div class="look__hotspot{{ hotspot_desktop_only }}" style="{{ hotspot_style }}" {{ block.shopify_attributes }}></div>
+        {%- endif -%}
+      {%- endfor -%}
+    </use-animate>
+  </lookbook-component>
+</div>
+
+{% schema %}
+{
+  "name": "t:sections.lookbook.name",
+  "tag": "section",
+  "class": "section",
+  "max_blocks": 12,
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "image",
+      "label": "t:sections.all.image.label"
+    },
+    {
+      "type": "image_picker",
+      "id": "image_mobile",
+      "label": "Mobile image",
+      "info": "Shown below 750px. For the washroom, use bathroom-map-mobile.jpg (700×1024)."
+    },
+    {
+      "type": "checkbox",
+      "id": "full_width",
+      "default": true,
+      "label": "t:sections.all.full_width.label"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_divider",
+      "default": false,
+      "label": "t:sections.all.show_divider.label"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.all.heading.label"
+    },
+    {
+      "type": "inline_richtext",
+      "id": "heading",
+      "default": "Lookbook",
+      "label": "t:sections.all.heading.label"
+    },
+    {
+      "type": "select",
+      "id": "heading_size",
+      "options": [
+        {
+          "value": "h2",
+          "label": "t:sections.all.heading_size.options__1.label"
+        },
+        {
+          "value": "h1",
+          "label": "t:sections.all.heading_size.options__2.label"
+        },
+        {
+          "value": "h0",
+          "label": "t:sections.all.heading_size.options__3.label"
+        }
+      ],
+      "default": "h1",
+      "label": "t:sections.all.heading_size.label"
+    },
+    {
+      "type": "select",
+      "id": "heading_alignment",
+      "label": "t:sections.all.heading_alignment.label",
+      "options": [
+        {
+          "value": "left",
+          "label": "t:sections.all.heading_alignment.options__1.label"
+        },
+        {
+          "value": "center",
+          "label": "t:sections.all.heading_alignment.options__2.label"
+        },
+        {
+          "value": "right",
+          "label": "t:sections.all.heading_alignment.options__3.label"
+        }
+      ],
+      "default": "center"
+    },
+    {
+      "type": "select",
+      "id": "heading_tag",
+      "options": [
+        {
+          "value": "h1",
+          "label": "t:sections.all.heading_tag.options__1.label"
+        },
+        {
+          "value": "h2",
+          "label": "t:sections.all.heading_tag.options__2.label"
+        },
+        {
+          "value": "h3",
+          "label": "t:sections.all.heading_tag.options__3.label"
+        },
+        {
+          "value": "h4",
+          "label": "t:sections.all.heading_tag.options__4.label"
+        },
+        {
+          "value": "h5",
+          "label": "t:sections.all.heading_tag.options__5.label"
+        },
+        {
+          "value": "h6",
+          "label": "t:sections.all.heading_tag.options__6.label"
+        },
+        {
+          "value": "div",
+          "label": "t:sections.all.heading_tag.options__7.label"
+        },
+        {
+          "value": "span",
+          "label": "t:sections.all.heading_tag.options__8.label"
+        },
+        {
+          "value": "p",
+          "label": "t:sections.all.heading_tag.options__9.label"
+        }
+      ],
+      "default": "h2",
+      "label": "t:sections.all.heading_tag.label",
+      "info": "t:sections.all.heading_tag.info"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.all.colors.header.content"
+    },
+    {
+      "type": "color",
+      "id": "colors_overlay",
+      "label": "t:sections.all.colors.colors_overlay.label",
+      "default": "#000000"
+    },
+    {
+      "type": "range",
+      "id": "colors_overlay_opacity",
+      "label": "t:sections.all.colors.overlay_opacity.label",
+      "default": 0,
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "t:sections.all.colors.overlay_opacity.unit"
+    },
+    {
+      "type": "color",
+      "id": "colors_highlight",
+      "label": "t:sections.all.colors.colors_highlight.label",
+      "default": "#ffb503"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.all.padding.header.content"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "t:sections.all.padding.padding_top.unit",
+      "label": "t:sections.all.padding.padding_top.label",
+      "default": 36
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "t:sections.all.padding.padding_bottom.unit",
+      "label": "t:sections.all.padding.padding_bottom.label",
+      "default": 36
+    },
+    {
+      "type": "header",
+      "content": "t:sections.all.highlight.header.content"
+    },
+    {
+      "type": "checkbox",
+      "id": "enable_highlight",
+      "label": "t:sections.all.highlight.enable.label",
+      "info": "t:sections.all.highlight.enable.info",
+      "default": false
+    },
+    {
+      "type": "select",
+      "id": "highlight_style",
+      "options": [
+        {
+          "value": "marker",
+          "label": "t:sections.all.highlight.style.options__1.label"
+        },
+        {
+          "value": "circle",
+          "label": "t:sections.all.highlight.style.options__2.label"
+        },
+        {
+          "value": "underline",
+          "label": "t:sections.all.highlight.style.options__3.label"
+        },
+        {
+          "value": "bold-underline",
+          "label": "t:sections.all.highlight.style.options__4.label"
+        },
+        {
+          "value": "modern-underline",
+          "label": "t:sections.all.highlight.style.options__5.label"
+        },
+        {
+          "value": "sketch-underline",
+          "label": "t:sections.all.highlight.style.options__6.label"
+        },
+        {
+          "value": "squiggle",
+          "label": "t:sections.all.highlight.style.options__7.label"
+        },
+        {
+          "value": "heavy-squiggle",
+          "label": "t:sections.all.highlight.style.options__8.label"
+        },
+        {
+          "value": "solid-color",
+          "label": "t:sections.all.highlight.style.options__9.label"
+        }
+      ],
+      "default": "marker",
+      "label": "t:sections.all.highlight.style.label"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "look",
+      "name": "t:sections.lookbook.blocks.look.name",
+      "settings": [
+        {
+          "type": "product",
+          "id": "product",
+          "label": "t:sections.lookbook.blocks.look.settings.product.label"
+        },
+        {
+          "type": "checkbox",
+          "id": "enable_quick_view",
+          "default": true,
+          "label": "t:sections.all.product_card.enable_quick_view.label"
+        },
+        {
+          "type": "header",
+          "content": "t:sections.lookbook.blocks.look.settings.header.content"
+        },
+        {
+          "type": "color",
+          "id": "color",
+          "label": "t:sections.lookbook.blocks.look.settings.color.label",
+          "default": "#000000"
+        },
+        {
+          "type": "range",
+          "id": "horizontal",
+          "default": 30,
+          "min": 5,
+          "max": 95,
+          "label": "t:sections.lookbook.blocks.look.settings.horizontal.label",
+          "unit": "t:sections.lookbook.blocks.look.settings.horizontal.unit"
+        },
+        {
+          "type": "range",
+          "id": "vertical",
+          "default": 40,
+          "min": 5,
+          "max": 95,
+          "label": "t:sections.lookbook.blocks.look.settings.vertical.label",
+          "unit": "t:sections.lookbook.blocks.look.settings.vertical.unit"
+        },
+        {
+          "type": "header",
+          "content": "Mobile hotspot"
+        },
+        {
+          "type": "checkbox",
+          "id": "hide_on_mobile",
+          "default": false,
+          "label": "Hide on mobile",
+          "info": "Use for products that are not in the mobile washroom image (e.g. xcrën PUCK)."
+        },
+        {
+          "type": "range",
+          "id": "horizontal_mobile",
+          "default": 0,
+          "min": 0,
+          "max": 95,
+          "label": "Horizontal position (mobile)",
+          "info": "0 keeps the desktop position.",
+          "unit": "%"
+        },
+        {
+          "type": "range",
+          "id": "vertical_mobile",
+          "default": 0,
+          "min": 0,
+          "max": 95,
+          "label": "Vertical position (mobile)",
+          "info": "0 keeps the desktop position.",
+          "unit": "%"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "t:sections.lookbook.presets.name",
+      "blocks": [
+        {
+          "type": "look"
+        }
+      ]
+    }
+  ],
+  "enabled_on": {
+    "templates": ["404", "article", "blog", "cart", "collection", "list-collections", "index", "page", "product", "search"]
+  }
+}
+{% endschema %}

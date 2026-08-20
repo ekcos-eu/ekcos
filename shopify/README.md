@@ -102,3 +102,35 @@ Nasazení:
 3. Otevři náhled na `/pages/faq`.
 
 FAQ má stejný vizuální styl (hero, typografie, CTA), accordion podle tvého HTML a překlady pro `en/cs/de/fr/es/it`.
+
+## Lookbook (washroom) — mobilní obrázek
+
+Eurus Lookbook umí jen jeden obrázek, proto široký washroom na mobilu skoro není vidět. Upravená sekce přidává samostatný portrait obrázek a mobilní pozice hotspotů.
+
+Soubory:
+
+- `sections/lookbook.liquid` — nahraď jím `sections/lookbook.liquid` v tématu
+- `assets/bathroom-map-mobile.jpg` — nahraj do Shopify **Files** (Content → Files) a vyber ho v editoru jako Mobile image
+
+Nasazení:
+
+1. **Online Store → Themes → … → Edit code** → přepiš `sections/lookbook.liquid`.
+2. **Customize** → homepage Lookbook:
+   - **Mobile image** → `bathroom-map-mobile.jpg` (700×1024)
+   - u každého hotspotu nastav **Horizontal/Vertical position (mobile)**
+   - **xcrën PUCK** zaškrtni **Hide on mobile** (v portrait obrázku není)
+
+Navržené mobilní pozice (stejné jako na marketing webu):
+
+| Produkt | Horizontal | Vertical |
+| --- | --- | --- |
+| frësh drop | 14 | 18 |
+| üro lite | 84 | 9 |
+| powër screen | 84 | 21 |
+| xcrën HD | 85 | 39 |
+| ëkcoscreen | 84 | 52 |
+| ëz trap | 80 | 64 |
+| ëkco clip | 27 | 63 |
+| ëkco mat | 76 | 91 |
+
+Desktop lookbook a existující hotspoty zůstanou beze změny, dokud mobilní pozice necháš na `0`.
