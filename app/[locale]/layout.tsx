@@ -4,7 +4,10 @@ import { getMessages, getTranslations } from 'next-intl/server'
 import { notFound } from 'next/navigation'
 import { routing } from '../../i18n/routing'
 import type { Metadata } from 'next'
+import { SITE_URL } from '@/lib/brand'
 import { SiteShell } from '@/components/layout/site-shell'
+
+export const dynamicParams = false
 
 export async function generateMetadata({
   params
@@ -13,7 +16,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params
   const t = await getTranslations({ locale, namespace: 'Metadata' })
-  const base = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://ekcos.eu'
+  const base = SITE_URL
 
   return {
     metadataBase: new URL(base),
@@ -64,7 +67,7 @@ export default async function LocaleLayout({
   }
 
   const messages = await getMessages()
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://ekcos.eu'
+  const siteUrl = SITE_URL
   // Chatfuel sometimes calls console.error(null), which Next.js devtools turns into a blocking overlay.
   const loadChatfuel =
     process.env.NODE_ENV === 'production' ||

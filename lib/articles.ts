@@ -152,3 +152,26 @@ export async function getArticleSlugs(): Promise<string[]> {
   const slugs = await client.fetch<(string | null)[]>(articleSlugsQuery)
   return [...new Set(slugs.filter((slug): slug is string => Boolean(slug)))]
 }
+
+export type ArticleSitemapItem = {
+  _updatedAt?: string
+  slugs: Partial<Record<ArticlesLocale, string | null>>
+}
+
+const articleSitemapQuery = `
+*[_type == "post"]{
+  _updatedAt,
+  "slugs": {
+    "cs": coalesce(cs.slug.current, en.slug.current),
+    "en": coalesce(en.slug.current, cs.slug.current, de.slug.current, fr.slug.current, it.slug.current, es.slug.current),
+    "de": coalesce(de.slug.current, en.slug.current),
+    "fr": coalesce(fr.slug.current, en.slug.current),
+    "it": coalesce(it.slug.current, en.slug.current),
+    "es": coalesce(es.slug.current, en.slug.current)
+  }
+}
+`
+
+export async function getArticleSitemapEntries(): Promise<ArticleSitemapItem[]> {
+  return client.fetch<ArticleSitemapItem[]>(articleSitemapQuery)
+}
