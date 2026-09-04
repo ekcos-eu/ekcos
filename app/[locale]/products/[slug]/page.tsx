@@ -4,6 +4,7 @@ import type { Metadata } from 'next'
 import { routing } from '@/i18n/routing'
 import { getProductDetailBySlug, getAllProductSlugs } from '@/lib/csv-products'
 import { getProductBySlug } from '@/lib/products'
+import { localeSeo } from '@/lib/seo'
 import { ProductDetailView } from './product-detail-view'
 
 type PageParams = Promise<{ locale: string; slug: string }>
@@ -39,12 +40,7 @@ export async function generateMetadata({
     description: product
       ? tProducts(product.shortDescriptionKey)
       : t('productsDescription'),
-    alternates: {
-      canonical: `/${locale}/products/${slug}`,
-      languages: Object.fromEntries(
-        routing.locales.map((l) => [l, `/${l}/products/${slug}`]),
-      ),
-    },
+    ...localeSeo(locale, `/products/${slug}`),
   }
 }
 

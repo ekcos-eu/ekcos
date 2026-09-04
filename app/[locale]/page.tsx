@@ -1,7 +1,7 @@
 import { HomeView } from '@/components/home/home-view'
 import { getTranslations } from 'next-intl/server'
 import type { Metadata } from 'next'
-import { routing } from '@/i18n/routing'
+import { localeSeo } from '@/lib/seo'
 
 export async function generateMetadata({
   params
@@ -14,10 +14,7 @@ export async function generateMetadata({
   return {
     title: t('title'),
     description: t('description'),
-    alternates: {
-      canonical: `/${locale}`,
-      languages: Object.fromEntries(routing.locales.map((l) => [l, `/${l}`]))
-    }
+    ...localeSeo(locale),
   }
 }
 

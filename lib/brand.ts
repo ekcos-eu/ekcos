@@ -4,5 +4,19 @@ export const BRAND = {
   name: 'ëkcos',
 } as const
 
-export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://ekcos.eu'
+function canonicalOrigin(value: string): string {
+  try {
+    const url = new URL(value)
+    if (url.hostname === 'ekcos.eu') {
+      url.hostname = 'www.ekcos.eu'
+    }
+    return url.origin
+  } catch {
+    return 'https://www.ekcos.eu'
+  }
+}
+
+export const SITE_URL = canonicalOrigin(
+  process.env.NEXT_PUBLIC_SITE_URL ?? 'https://www.ekcos.eu',
+)
 export const SHOP_BASE_URL = 'https://eshop.ekcos.eu'

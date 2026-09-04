@@ -1,7 +1,7 @@
 import { getTranslations } from 'next-intl/server'
 import type { Metadata } from 'next'
-import { routing } from '@/i18n/routing'
 import { PrivateLabelView } from '@/components/private-label/private-label-view'
+import { localeSeo } from '@/lib/seo'
 
 export async function generateMetadata({
   params,
@@ -13,12 +13,7 @@ export async function generateMetadata({
   return {
     title: t('privateLabelTitle'),
     description: t('privateLabelDescription'),
-    alternates: {
-      canonical: `/${locale}/private-label`,
-      languages: Object.fromEntries(
-        routing.locales.map((l) => [l, `/${l}/private-label`])
-      ),
-    },
+    ...localeSeo(locale, '/private-label'),
   }
 }
 

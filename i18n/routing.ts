@@ -2,11 +2,12 @@ import { defineRouting } from 'next-intl/routing'
 import { createNavigation } from 'next-intl/navigation'
 
 export const routing = defineRouting({
-  // A list of all locales that are supported
   locales: ['en', 'es', 'fr', 'de', 'it', 'cs'],
-
-  // Used when no locale matches
   defaultLocale: 'en',
+  localePrefix: 'always',
+  // next-intl would emit x-default without a locale (/eco-one → 404).
+  // Hreflang is set in metadata instead, with x-default → /en/…
+  alternateLinks: false,
 })
 
 // Lightweight wrappers around Next.js' navigation APIs

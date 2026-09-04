@@ -5,6 +5,7 @@ import { notFound } from 'next/navigation'
 import { routing } from '../../i18n/routing'
 import type { Metadata } from 'next'
 import { SITE_URL } from '@/lib/brand'
+import { localeSeo } from '@/lib/seo'
 import { SiteShell } from '@/components/layout/site-shell'
 
 export const dynamicParams = false
@@ -16,17 +17,14 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params
   const t = await getTranslations({ locale, namespace: 'Metadata' })
-  const base = SITE_URL
+  const seo = localeSeo(locale)
 
   return {
-    metadataBase: new URL(base),
     title: { default: t('title'), template: '%s | ëkcos' },
     description: t('description'),
-    alternates: {
-      canonical: `/${locale}`,
-      languages: Object.fromEntries(routing.locales.map((l) => [l, `/${l}`]))
-    },
+    ...seo,
     openGraph: {
+      ...seo.openGraph,
       title: t('title'),
       description: t('description'),
       locale,

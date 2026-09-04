@@ -1,7 +1,8 @@
 import Image from 'next/image'
 import type {Metadata} from 'next'
 import {getTranslations} from 'next-intl/server'
-import {Link, routing} from '@/i18n/routing'
+import {Link} from '@/i18n/routing'
+import {localeSeo} from '@/lib/seo'
 import {getArticles, type ArticlesLocale} from '@/lib/articles'
 import {urlFor} from '@/sanity/lib/image'
 import {FadeIn} from '@/components/ui/fade-in'
@@ -18,10 +19,7 @@ export async function generateMetadata({
   return {
     title: t('articlesTitle'),
     description: t('articlesDescription'),
-    alternates: {
-      canonical: `/${locale}/articles`,
-      languages: Object.fromEntries(routing.locales.map((l) => [l, `/${l}/articles`])),
-    },
+    ...localeSeo(locale, '/articles'),
   }
 }
 

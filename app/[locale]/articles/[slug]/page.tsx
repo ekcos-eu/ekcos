@@ -9,6 +9,7 @@ import {
   type ArticlesLocale,
 } from '@/lib/articles'
 import {SHOP_BASE_URL} from '@/lib/brand'
+import {localeSeo} from '@/lib/seo'
 import {ArticlePortableText} from '@/components/articles/portable-text'
 import {Button} from '@/components/ui/button'
 import {FadeIn} from '@/components/ui/fade-in'
@@ -35,17 +36,10 @@ export async function generateMetadata({
     return {title: 'Article'}
   }
 
-  const languages = Object.fromEntries(
-    routing.locales.map((l) => [l, `/${l}/articles/${slug}`]),
-  )
-
   return {
     title: article.title,
     description: article.excerpt,
-    alternates: {
-      canonical: `/${locale}/articles/${slug}`,
-      languages,
-    },
+    ...localeSeo(locale, `/articles/${slug}`),
   }
 }
 

@@ -1,7 +1,7 @@
 import { getTranslations } from 'next-intl/server'
 import type { Metadata } from 'next'
-import { routing } from '@/i18n/routing'
 import { EcoOneView } from '@/components/eco-one/eco-one-view'
+import { localeSeo } from '@/lib/seo'
 
 export async function generateMetadata({
   params,
@@ -13,10 +13,7 @@ export async function generateMetadata({
   return {
     title: t('ecoOneTitle'),
     description: t('ecoOneDescription'),
-    alternates: {
-      canonical: `/${locale}/eco-one`,
-      languages: Object.fromEntries(routing.locales.map((l) => [l, `/${l}/eco-one`])),
-    },
+    ...localeSeo(locale, '/eco-one'),
   }
 }
 
