@@ -1,7 +1,7 @@
 import { getTranslations } from 'next-intl/server'
 import type { Metadata } from 'next'
 import { EcoOneView } from '@/components/eco-one/eco-one-view'
-import { localeSeo } from '@/lib/seo'
+import { pageSeo } from '@/lib/seo'
 
 export async function generateMetadata({
   params,
@@ -10,11 +10,12 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params
   const t = await getTranslations({ locale, namespace: 'Metadata' })
-  return {
+  return pageSeo({
+    locale,
+    path: '/eco-one',
     title: t('ecoOneTitle'),
     description: t('ecoOneDescription'),
-    ...localeSeo(locale, '/eco-one'),
-  }
+  })
 }
 
 export default function EcoOnePage() {

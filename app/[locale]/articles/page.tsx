@@ -2,7 +2,7 @@ import Image from 'next/image'
 import type {Metadata} from 'next'
 import {getTranslations} from 'next-intl/server'
 import {Link} from '@/i18n/routing'
-import {localeSeo} from '@/lib/seo'
+import {pageSeo} from '@/lib/seo'
 import {getArticles, type ArticlesLocale} from '@/lib/articles'
 import {urlFor} from '@/sanity/lib/image'
 import {FadeIn} from '@/components/ui/fade-in'
@@ -16,11 +16,12 @@ export async function generateMetadata({
   const {locale} = await params
   const t = await getTranslations({locale, namespace: 'Metadata'})
 
-  return {
+  return pageSeo({
+    locale,
+    path: '/articles',
     title: t('articlesTitle'),
     description: t('articlesDescription'),
-    ...localeSeo(locale, '/articles'),
-  }
+  })
 }
 
 export default async function ArticlesPage({

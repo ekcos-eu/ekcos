@@ -1,7 +1,7 @@
 import { getTranslations } from 'next-intl/server'
 import type { Metadata } from 'next'
 import { PrivateLabelView } from '@/components/private-label/private-label-view'
-import { localeSeo } from '@/lib/seo'
+import { pageSeo } from '@/lib/seo'
 
 export async function generateMetadata({
   params,
@@ -10,11 +10,12 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params
   const t = await getTranslations({ locale, namespace: 'Metadata' })
-  return {
+  return pageSeo({
+    locale,
+    path: '/private-label',
     title: t('privateLabelTitle'),
     description: t('privateLabelDescription'),
-    ...localeSeo(locale, '/private-label'),
-  }
+  })
 }
 
 export default function PrivateLabelPage() {

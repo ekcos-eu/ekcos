@@ -5,7 +5,6 @@ import { notFound } from 'next/navigation'
 import { routing } from '../../i18n/routing'
 import type { Metadata } from 'next'
 import { SITE_URL } from '@/lib/brand'
-import { localeSeo } from '@/lib/seo'
 import { SiteShell } from '@/components/layout/site-shell'
 
 export const dynamicParams = false
@@ -17,33 +16,10 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params
   const t = await getTranslations({ locale, namespace: 'Metadata' })
-  const seo = localeSeo(locale)
 
   return {
     title: { default: t('title'), template: '%s | ëkcos' },
     description: t('description'),
-    ...seo,
-    openGraph: {
-      ...seo.openGraph,
-      title: t('title'),
-      description: t('description'),
-      locale,
-      type: 'website',
-      images: [
-        {
-          url: '/og.png',
-          width: 1024,
-          height: 536,
-          alt: 'ëkcos product lineup'
-        }
-      ]
-    },
-    twitter: {
-      card: 'summary_large_image',
-      title: t('title'),
-      description: t('description'),
-      images: ['/og.png']
-    }
   }
 }
 

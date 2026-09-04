@@ -1,7 +1,7 @@
 import { HomeView } from '@/components/home/home-view'
 import { getTranslations } from 'next-intl/server'
 import type { Metadata } from 'next'
-import { localeSeo } from '@/lib/seo'
+import { HOME_OG_IMAGE, pageSeo } from '@/lib/seo'
 
 export async function generateMetadata({
   params
@@ -11,11 +11,12 @@ export async function generateMetadata({
   const { locale } = await params
   const t = await getTranslations({ locale, namespace: 'Metadata' })
 
-  return {
+  return pageSeo({
+    locale,
     title: t('title'),
     description: t('description'),
-    ...localeSeo(locale),
-  }
+    image: HOME_OG_IMAGE,
+  })
 }
 
 export default async function HomePage() {

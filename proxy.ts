@@ -6,5 +6,7 @@ export const proxy = createMiddleware(routing)
 export const config = {
   // Skip API, Studio, Next internals, and files with extensions
   // (robots.txt, sitemap.xml, images) so [locale] cannot treat them as a language.
-  matcher: ['/((?!api|_next|_vercel|studio|.*\\..*).*)'],
+  matcher: [
+    '/((?!api|_next|_vercel|studio|.*/opengraph-image|.*/twitter-image|.*\\..*).*)',
+  ],
 }

@@ -4,7 +4,7 @@ import type { Metadata } from 'next'
 import { routing } from '@/i18n/routing'
 import { getProductDetailBySlug, getAllProductSlugs } from '@/lib/csv-products'
 import { getProductBySlug } from '@/lib/products'
-import { localeSeo } from '@/lib/seo'
+import { HOME_OG_IMAGE, pageSeo } from '@/lib/seo'
 import { ProductDetailView } from './product-detail-view'
 
 type PageParams = Promise<{ locale: string; slug: string }>
@@ -35,13 +35,20 @@ export async function generateMetadata({
     ? tProducts(product.nameKey)
     : detail.title
 
-  return {
-    title: `${localizedTitle} | ëkcos`,
+  return pageSeo({
+    locale,
+    path: `/products/${slug}`,
+    title: localizedTitle,
     description: product
       ? tProducts(product.shortDescriptionKey)
       : t('productsDescription'),
-    ...localeSeo(locale, `/products/${slug}`),
-  }
+    image: product
+      ? {
+          url: product.heroImageSrc,
+          alt: localizedTitle,
+        }
+      : HOME_OG_IMAGE,
+  })
 }
 
 export default async function ProductDetailPage({

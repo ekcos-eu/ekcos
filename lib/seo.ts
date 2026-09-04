@@ -1,16 +1,38 @@
 import type { Metadata } from 'next'
 import { routing } from '@/i18n/routing'
 
-const OG_IMAGE = {
+export const HOME_OG_IMAGE = {
   url: '/og.png',
   width: 1024,
   height: 536,
   alt: 'ëkcos product lineup',
 } as const
 
+const OG_LOCALE: Record<(typeof routing.locales)[number], string> = {
+  en: 'en_GB',
+  es: 'es_ES',
+  fr: 'fr_FR',
+  de: 'de_DE',
+  it: 'it_IT',
+  cs: 'cs_CZ',
+}
+
+export type OgImage = {
+  url: string
+  width?: number
+  height?: number
+  alt?: string
+}
+
 /** Path after the locale prefix. Use `'/'` for the homepage. */
 export function localizedPath(locale: string, path = '/'): string {
   return path === '/' || path === '' ? `/${locale}` : `/${locale}${path}`
+}
+
+export function ogLocale(locale: string): string {
+  return (
+    OG_LOCALE[locale as (typeof routing.locales)[number]] ?? `${locale}_${locale.toUpperCase()}`
+  )
 }
 
 export function localeAlternates(
@@ -30,18 +52,53 @@ export function localeAlternates(
   }
 }
 
-export function localeSeo(
-  locale: string,
+function socialTitle(title: string): string {
+  return /ëkcos/i.test(title) ? title : `${title} | ëkcos`
+}
+
+type PageSeoInput = {
+  locale: string
+  path?: string
+  title: string
+  description: string
+  image?: OgImage | OgImage[]
+  type?: 'website' | 'article'
+}
+
+export function pageSeo({
+  locale,
   path = '/',
-): Pick<Metadata, 'alternates' | 'openGraph'> {
+  title,
+  description,
+  image,
+  type = 'website',
+}: PageSeoInput): Metadata {
   const url = localizedPath(locale, path)
+  const ogTitle = socialTitle(title)
+  const images = image ? (Array.isArray(image) ? image : [image]) : undefined
+  const alternateLocale = routing.locales
+    .filter((l) => l !== locale)
+    .map((l) => ogLocale(l))
+
   return {
+    title: path === '/' ? { absolute: title } : title,
+    description,
     alternates: localeAlternates(locale, path),
     openGraph: {
+      type,
+      siteName: 'ëkcos',
+      title: ogTitle,
+      description,
       url,
-      type: 'website',
-      locale,
-      images: [OG_IMAGE],
+      locale: ogLocale(locale),
+      alternateLocale,
+      ...(images ? { images } : {}),
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: ogTitle,
+      description,
+      ...(images ? { images: images.map((item) => item.url) } : {}),
     },
   }
 }
