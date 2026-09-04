@@ -5,7 +5,7 @@
     "productsTitle": "Produkte",
     "productsDescription": "ëkcos-Produkte entdecken: Modelle, Oberflächen und Optionen wählen — dann zum offiziellen Shop.",
     "ecoOneTitle": "Eco-One™",
-    "ecoOneDescription": "Der Kunststoff, der zur Natur zurückkehrt. Gleiches Produkt, gleiche Leistung, ein Bruchteil des Fußabdrucks — mit dem biologisch abbaubaren Eco-One-Additiv.",
+    "ecoOneDescription": "Der Kunststoff, der zur Natur zurückkehrt. Gleiches Produkt, gleiche Leistung, ein Bruchteil des Fußabdrucks — mit dem biologisch abbaubaren Eco-One™-Additiv.",
     "brandingTitle": "Custom Branding",
     "brandingDescription": "Eigenmarke, Ausschnitte und Druck für B2B-Programme.",
     "articlesTitle": "Artikel",
@@ -197,7 +197,7 @@
     "hero": {
       "title": "Der Kunststoff, der zur Natur zurückkehrt",
       "tagline": "Gleiches Produkt. Gleiche Leistung. Ein Bruchteil des Fußabdrucks.",
-      "body": "Urinalsieb können nicht recycelt werden: Durch den ständigen Kontakt mit Urin werden sie biologisch kontaminiert. Die einzigen Entsorgungswege sind daher Verbrennung oder Deponie. Auf der Deponie bleibt herkömmlicher Kunststoff jahrhundertelang erhalten. Unsere Produkte werden mit dem Eco-One-Additiv hergestellt, das den biologischen Abbau des Materials ermöglicht."
+      "body": "Urinalsieb können nicht recycelt werden: Durch den ständigen Kontakt mit Urin werden sie biologisch kontaminiert. Die einzigen Entsorgungswege sind daher Verbrennung oder Deponie. Auf der Deponie bleibt herkömmlicher Kunststoff jahrhundertelang erhalten. Unsere Produkte werden mit dem Eco-One™-Additiv hergestellt, das den biologischen Abbau des Materials ermöglicht."
     },
     "metrics": {
       "additive": {
@@ -215,19 +215,19 @@
     },
     "problem": {
       "title": "Warum herkömmlicher Kunststoff ein Problem ist",
-      "body": "Herkömmliche Kunststoffprodukte sind darauf ausgelegt, lange zu halten. Ohne Biodegradationsadditiv kann ein Kunststoffprodukt auf der Deponie <bold>300 bis 1.000 Jahre</bold> verbleiben; Schaumstoff-Clogs im „Crocs“-Stil sind ein bekanntes Beispiel für <bold>nicht biologisch abbaubaren</bold> Kunststoff. Unsere Produkte bestehen aus demselben langlebigen Kunststoff (EVA) — mit einem entscheidenden Unterschied: dem Eco-One-Additiv.",
-      "chartAlt": "Produkte ohne Eco One im Vergleich zu ëkcos-Produkten mit dem Additiv",
-      "chartCaption": "Produkte ohne Eco One im Vergleich zu ëkcos-Produkten mit dem Additiv.",
+      "body": "Herkömmliche Kunststoffprodukte sind darauf ausgelegt, lange zu halten. Ohne Biodegradationsadditiv kann ein Kunststoffprodukt auf der Deponie <bold>300 bis 1.000 Jahre</bold> verbleiben; Schaumstoff-Clogs im „Crocs“-Stil sind ein bekanntes Beispiel für <bold>nicht biologisch abbaubaren</bold> Kunststoff. Unsere Produkte bestehen aus demselben langlebigen Kunststoff (EVA) — mit einem entscheidenden Unterschied: dem Eco-One™-Additiv.",
+      "chartAlt": "Produkte ohne Eco-One™ im Vergleich zu ëkcos-Produkten mit dem Additiv",
+      "chartCaption": "Produkte ohne Eco-One™ im Vergleich zu ëkcos-Produkten mit dem Additiv.",
       "chart": {
         "ariaLabel": "Vergleich der Abbaujahre auf der Deponie",
-        "withoutLabel": "Produkte ohne Eco One",
-        "withLabel": "ëkcos mit Eco One",
+        "withoutLabel": "Produkte ohne Eco-One™",
+        "withLabel": "ëkcos mit Eco-One™",
         "withoutValue": "300–1.000 Jahre",
         "withValue": "3,5–5 Jahre",
         "withoutDetail": "Ohne Biodegradationsadditiv kann herkömmlicher Kunststoff jahrhundertelang auf der Deponie bleiben.",
-        "withDetail": "Mit dem Eco-One-Additiv zeigt unabhängige Prüfung ~93 % Biodegradation in etwa 3,5 Jahren und bis zu 99 % innerhalb von fünf Jahren.",
+        "withDetail": "Mit dem Eco-One™-Additiv zeigt unabhängige Prüfung ~93 % Biodegradation in etwa 3,5 Jahren und bis zu 99 % innerhalb von fünf Jahren.",
         "axisLabel": "Jahre bis zum Abbau (Deponie)",
-        "caption": "Produkte ohne Eco One im Vergleich zu ëkcos-Produkten mit dem Additiv.",
+        "caption": "Produkte ohne Eco-One™ im Vergleich zu ëkcos-Produkten mit dem Additiv.",
         "scaleLabel": "Diagrammskala",
         "scaleFull": "0–1.000 J.",
         "scaleZoom": "0–10 J.",
@@ -235,43 +235,43 @@
       }
     },
     "solution": {
-      "title": "Unsere Lösung: Das Eco-One-Additiv",
-      "body1": "Bei der Herstellung mischen wir etwa <bold>1 % Eco One</bold> ein — ein organisches Additiv, das wie ein Farbstoff dosiert wird. Es beeinflusst weder Festigkeit, Aussehen noch Leistung des Produkts.",
+      "title": "Unsere Lösung: Das Eco-One™-Additiv",
+      "body1": "Bei der Herstellung mischen wir etwa <bold>1 % Eco-One™</bold> ein — ein organisches Additiv, das wie ein Farbstoff dosiert wird. Es beeinflusst weder Festigkeit, Aussehen noch Leistung des Produkts.",
       "body2": "Auf einer biologisch aktiven Deponie bauen natürlich vorkommende Mikroorganismen den behandelten Kunststoff durch enzymatische Aktivität ab und wandeln ihn in Biogas (<bold>Methan</bold>, das moderne Deponien zur Energierückgewinnung erfassen), Kohlendioxid und Humus um.",
       "body3": "Weil das Produkt letztlich zu Humus zerfällt, führt es organische Substanz in die Deponie zurück und beschleunigt die dort bereits ablaufenden biochemischen Prozesse. Das Produkt leistet damit einen Beitrag <bold>nicht nur während der Nutzungsdauer, sondern auch danach</bold>."
     },
     "testing": {
       "title": "Unabhängige Prüfung",
-      "body": "Das Produkt wurde von einem unabhängigen Labor nach den internationalen Normen <bold>ASTM D5511 und ISO 15985</bold> geprüft — im Vergleich desselben Produkts mit und ohne Eco-One-Additiv. Mit Eco One erreichte es <bold>93,31 % Biodegradation in etwa 3,5 Jahren und bis zu 99 % innerhalb von fünf Jahren</bold>; ohne Eco One zeigte das Produkt keine messbare Biodegradation.",
+      "body": "Das Produkt wurde von einem unabhängigen Labor nach den internationalen Normen <bold>ASTM D5511 und ISO 15985</bold> geprüft — im Vergleich desselben Produkts mit und ohne Eco-One™-Additiv. Mit Eco-One™ erreichte es <bold>93,31 % Biodegradation in etwa 3,5 Jahren und bis zu 99 % innerhalb von fünf Jahren</bold>; ohne Eco-One™ zeigte das Produkt keine messbare Biodegradation.",
       "barChart": {
-        "ariaLabel": "Biodegradation nach etwa 3,5 Jahren mit und ohne Eco One",
+        "ariaLabel": "Biodegradation nach etwa 3,5 Jahren mit und ohne Eco-One™",
         "yAxis": "Biodegradation (%)",
-        "withLabel": "ëkcos mit Eco One",
-        "withoutLabel": "Produkte ohne Eco One",
+        "withLabel": "ëkcos mit Eco-One™",
+        "withoutLabel": "Produkte ohne Eco-One™",
         "withDetail": "93,31 % Biodegradation in einem unabhängigen ASTM-D5511- / ISO-15985-Labortest nach etwa 3,5 Jahren gemessen.",
-        "withoutDetail": "Dasselbe Produkt ohne Eco One zeigte im gleichen Testzeitraum keine messbare Biodegradation.",
+        "withoutDetail": "Dasselbe Produkt ohne Eco-One™ zeigte im gleichen Testzeitraum keine messbare Biodegradation.",
         "subtitle": "Gleiches Produkt · gleicher Labortest (ASTM D5511 / ISO 15985) · ~3,5 Jahre"
       },
       "timelineChart": {
-        "ariaLabel": "Biodegradation über fünf Jahre mit und ohne Eco One",
+        "ariaLabel": "Biodegradation über fünf Jahre mit und ohne Eco-One™",
         "yAxis": "Biodegradation (%)",
         "xAxis": "Jahre",
-        "withLabel": "ëkcos mit Eco One",
-        "withoutLabel": "Produkte ohne Eco One",
+        "withLabel": "ëkcos mit Eco-One™",
+        "withoutLabel": "Produkte ohne Eco-One™",
         "zeroNote": "0 % die ganze Zeit",
         "measured": "gemessen",
         "projected": "projiziert",
         "yearsUnit": "J.",
         "projectedNote": "Aus dem gemessenen Trend projiziert",
-        "caption": "Biodegradation mit und ohne Eco-One-Additiv. Werte jenseits von 3,5 Jahren sind aus dem gemessenen Trend projiziert."
+        "caption": "Biodegradation mit und ohne Eco-One™-Additiv. Werte jenseits von 3,5 Jahren sind aus dem gemessenen Trend projiziert."
       }
     },
     "closing": {
       "title": "ëkcos biologisch abbaubare Produkte",
-      "body": "Unsere Waschraumprodukte werden mit dem Eco-One-Additiv hergestellt und sind zu bis zu 99 % biologisch abbaubar — bei gleicher Leistung wie Produkte ohne Additiv und in vielerlei Hinsicht sogar darüber hinaus.",
+      "body": "Unsere Waschraumprodukte werden mit dem Eco-One™-Additiv hergestellt und sind zu bis zu 99 % biologisch abbaubar — bei gleicher Leistung wie Produkte ohne Additiv und in vielerlei Hinsicht sogar darüber hinaus.",
       "shopCta": "Shop"
     },
-    "footnote": "Datenquelle: unabhängiger Biodegradationstest nach ASTM D5511-02 und ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) — ëkcos-Produkt mit 1 % Eco-One-Additiv: 93,31 % Biodegradation über 1.288 Tage (≈3,5 Jahre); dasselbe Produkt ohne Additiv: 0 %. Biodegradation jenseits des Testzeitraums (bis zu 99 % innerhalb von ~5 Jahren) ist aus dem gemessenen Trend projiziert. Persistenzwerte für herkömmliche Kunststoffe (≈300–1.000 Jahre) sind weithin zitierte Branchenschätzungen. Das Eco One®-Additiv wird von EcoLogic, LLC hergestellt und zertifiziert."
+    "footnote": "Datenquelle: unabhängiger Biodegradationstest nach ASTM D5511-02 und ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) — ëkcos-Produkt mit 1 % Eco-One™-Additiv: 93,31 % Biodegradation über 1.288 Tage (≈3,5 Jahre); dasselbe Produkt ohne Additiv: 0 %. Biodegradation jenseits des Testzeitraums (bis zu 99 % innerhalb von ~5 Jahren) ist aus dem gemessenen Trend projiziert. Persistenzwerte für herkömmliche Kunststoffe (≈300–1.000 Jahre) sind weithin zitierte Branchenschätzungen. Das Eco-One™-Additiv wird von EcoLogic, LLC hergestellt und zertifiziert."
   },
   "customBranding": {
     "hero": {
@@ -411,6 +411,7 @@
     },
     "xcrenHd": {
       "name": "xcrën HD",
+      "imageAlt": "Blaues xcrën HD Urinalsieb in X-Form mit Spritzschutzborsten, von oben vor schwarzem Hintergrund",
       "category": "Premium-Urinalsieb",
       "badge": "Xtreme anti-splash urinal screen",
       "short": "Hochleistungs-Urinalsieb für gleichmäßige Duftfreisetzung und ein sauberes Erscheinungsbild.",
@@ -444,6 +445,7 @@
     },
     "ekcoscreen": {
       "name": "ëkcoscreen",
+      "imageAlt": "Blaues ëkcoscreen Urinalsieb in Schildform mit Spritzschutzborsten, von oben vor schwarzem Hintergrund",
       "category": "Urinalsieb",
       "short": "Ausgewogene Leistung für den täglichen Einsatz in gewerblichen Waschräumen mit zuverlässiger Geruchskontrolle.",
       "long": "ëkcoscreen bietet ein praktisches Gleichgewicht aus Kosten und Leistung für Einrichtungen, die verlässliche Hygieneunterstützung ohne Kompromisse bei der Präsentation brauchen.",
@@ -463,6 +465,7 @@
     },
     "powerscreen": {
       "name": "powër screen",
+      "imageAlt": "Rundes blaues powër screen Urinalsieb mit Sternmitte und Spritzschutzborsten, von oben vor schwarzem Hintergrund",
       "category": "Hochleistungs-Urinalsieb",
       "short": "Für anspruchsvolle Umgebungen gebaut, in denen Leistung und Präsentation zählen.",
       "long": "powër screen ist auf Standorte mit hohem Durchsatz abgestimmt und hilft, mit strukturierter Duftabgabe ein Premium-Waschräumerlebnis zu erhalten.",
@@ -482,6 +485,7 @@
     },
     "basicScreen": {
       "name": "basic scrëen",
+      "imageAlt": "Blaues basic scrëen Urinalsieb in abgerundeter Dreiecksform mit Ablauföffnungen, von oben vor schwarzem Hintergrund",
       "category": "Basis-Urinalsieb",
       "short": "Unkomplizierter Schutz und Frische für Standard-Waschräume.",
       "long": "basic scrëen ist die praktische Wahl für Programme, die verlässliche Hygieneunterstützung mit klaren Serviceerwartungen brauchen.",
@@ -501,6 +505,7 @@
     },
     "urolite": {
       "name": "üro lite",
+      "imageAlt": "Kompaktes blaues üro lite Urinalsieb in Schildform mit Spritzschutzborsten, von oben vor schwarzem Hintergrund",
       "category": "Kompaktes Urinalsieb",
       "short": "Kompaktes Format mit flexiblen Oberflächenoptionen für moderne Armaturen.",
       "long": "üro lite passt in kompakte Urinalgeometrien und bewahrt zugleich die Qualitätsmerkmale von ëkcos sowie eine servicefreundliche Handhabung.",
@@ -520,6 +525,7 @@
     },
     "ekcoClip": {
       "name": "ëkco clip",
+      "imageAlt": "Blauer ëkco clip WC-Duftclip in Schleifenform mit Spritzschutzrillen, von oben vor schwarzem Hintergrund",
       "category": "Clip-Armatur",
       "short": "Sicheres Montagezubehör für stabile Platzierung und klare Linien.",
       "long": "ëkco clip sorgt für eine gleichbleibende Positionierung, wenn eine Clip-Armatur Teil Ihres Programms ist.",
@@ -539,6 +545,7 @@
     },
     "freshDrop": {
       "name": "frësh drop",
+      "imageAlt": "Blau-weißer tropfenförmiger frësh drop Lufterfrischer mit Spritzschutzborsten, von oben vor schwarzem Hintergrund",
       "category": "Frischesystem",
       "short": "Gezielte Frischeabgabe mit wählbaren Duftrichtungen.",
       "long": "frësh drop ist für Programme gedacht, die flexible Dufterzählung und zugleich einfache Abläufe wollen.",
@@ -558,6 +565,7 @@
     },
     "ezTrap": {
       "name": "ëz trap",
+      "imageAlt": "Weiße ëz trap Kartusche für wasserlose Urinale mit schwarzer Dichtung, schräg vor schwarzem Hintergrund",
       "category": "Ablaufschutz",
       "short": "Schützt Abläufe und unterstützt Hygienroutinen.",
       "long": "ëz trap ist für praktische Wartungsabläufe und zuverlässige Leistung im Tagesbetrieb ausgelegt.",
@@ -581,6 +589,7 @@
     },
     "xcrenPuck": {
       "name": "xcrën puck",
+      "imageAlt": "Blaues xcrën puck Urinalsieb in X-Form mit Puck-Halter in der Mitte, von oben vor schwarzem Hintergrund",
       "category": "Puck-Format",
       "short": "NON-PARA-Puck-Urinalsieb für Geruchskontrolle und Abflussschutz.",
       "long": "xcrën ist ein NON-PARA-Puck-Urinalsieb für wirksame Geruchskontrolle und Abflussschutz. Im Gegensatz zu herkömmlichen PARA-Produkten ist es frei von Paradichlorbenzen (PARA), einer von der WHO als möglicherweise krebserregend eingestuften Verbindung. Das einzigartige X-Design verhindert Verstopfungen durch Feststoffe und sorgt nach jeder Nutzung für bis zu 30 Tage für eine frische Duftabgabe.",
@@ -604,6 +613,7 @@
     },
     "ekcoMat": {
       "name": "ëkco mat",
+      "imageAlt": "Dunkelgraue saugfähige ëkco mat Urinal-Bodenmatte, von oben vor schwarzem Hintergrund",
       "category": "Bodenmatte",
       "short": "Bodenschutz mit sauberem, professionellem Look.",
       "long": "ëkco mat unterstützt Hygienenzonen in Einrichtungen mit Fokus auf Haltbarkeit und Präsentation.",

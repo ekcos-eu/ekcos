@@ -5,7 +5,7 @@
     "productsTitle": "Products",
     "productsDescription": "Explore ëkcos products: switch models, finishes, and options — then visit the official store.",
     "ecoOneTitle": "Eco-One™",
-    "ecoOneDescription": "The plastic that returns to nature. Same product, same performance, a fraction of the footprint — with Eco One biodegradable additive.",
+    "ecoOneDescription": "The plastic that returns to nature. Same product, same performance, a fraction of the footprint — with Eco-One™ biodegradable additive.",
     "brandingTitle": "Custom Branding",
     "brandingDescription": "Private branding, cutouts, and printing for B2B programs.",
     "articlesTitle": "Articles",
@@ -197,7 +197,7 @@
     "hero": {
       "title": "The plastic that returns to nature",
       "tagline": "Same product. Same performance. A fraction of the footprint.",
-      "body": "Urinal screens cannot be recycled: through constant contact with urine they become biologically contaminated. Their only disposal routes are therefore incineration or landfill. In landfill, conventional plastic remains for centuries. Our products are manufactured with the Eco One additive, which allows the material to biodegrade."
+      "body": "Urinal screens cannot be recycled: through constant contact with urine they become biologically contaminated. Their only disposal routes are therefore incineration or landfill. In landfill, conventional plastic remains for centuries. Our products are manufactured with the Eco-One™ additive, which allows the material to biodegrade."
     },
     "metrics": {
       "additive": {
@@ -215,19 +215,19 @@
     },
     "problem": {
       "title": "Why ordinary plastic is a problem",
-      "body": "Ordinary plastic products are engineered to last. Without a biodegradation additive, a plastic product sent to landfill can remain there for <bold>300 to 1,000 years</bold>; foam “Crocs-style” clogs are a familiar example of plastic that is <bold>not biodegradable</bold>. Our products are made from the same kind of durable plastic (EVA) — but with one decisive difference: the Eco One additive.",
-      "chartAlt": "Products without Eco One compared with ëkcos products containing the additive",
-      "chartCaption": "Products without Eco One compared with ëkcos products containing the additive.",
+      "body": "Ordinary plastic products are engineered to last. Without a biodegradation additive, a plastic product sent to landfill can remain there for <bold>300 to 1,000 years</bold>; foam “Crocs-style” clogs are a familiar example of plastic that is <bold>not biodegradable</bold>. Our products are made from the same kind of durable plastic (EVA) — but with one decisive difference: the Eco-One™ additive.",
+      "chartAlt": "Products without Eco-One™ compared with ëkcos products containing the additive",
+      "chartCaption": "Products without Eco-One™ compared with ëkcos products containing the additive.",
       "chart": {
         "ariaLabel": "Comparison of years to break down in landfill",
-        "withoutLabel": "Products without Eco One",
-        "withLabel": "ëkcos with Eco One",
+        "withoutLabel": "Products without Eco-One™",
+        "withLabel": "ëkcos with Eco-One™",
         "withoutValue": "300–1,000 years",
         "withValue": "3.5–5 years",
         "withoutDetail": "Without a biodegradation additive, conventional plastic can remain in landfill for centuries.",
-        "withDetail": "With the Eco One additive, independent testing shows ~93% biodegradation in about 3.5 years, and up to 99% within five years.",
+        "withDetail": "With the Eco-One™ additive, independent testing shows ~93% biodegradation in about 3.5 years, and up to 99% within five years.",
         "axisLabel": "Years to break down (landfill)",
-        "caption": "Products without Eco One compared with ëkcos products containing the additive.",
+        "caption": "Products without Eco-One™ compared with ëkcos products containing the additive.",
         "scaleLabel": "Chart scale",
         "scaleFull": "0–1,000 yrs",
         "scaleZoom": "0–10 yrs",
@@ -235,43 +235,43 @@
       }
     },
     "solution": {
-      "title": "Our solution: The Eco One additive",
-      "body1": "During manufacturing we incorporate approximately <bold>1% of Eco One</bold>, an organic additive dosed in the same way as a colorant. It does not affect the product’s strength, appearance or performance.",
+      "title": "Our solution: The Eco-One™ additive",
+      "body1": "During manufacturing we incorporate approximately <bold>1% of Eco-One™</bold>, an organic additive dosed in the same way as a colorant. It does not affect the product’s strength, appearance or performance.",
       "body2": "In a biologically active landfill, naturally occurring microorganisms break down the treated plastic through enzymatic activity, converting it into biogas (<bold>methane</bold>, which modern landfill sites capture for energy recovery), carbon dioxide and humus.",
       "body3": "Because the product ultimately breaks down into humus, it returns organic matter to the landfill and helps accelerate the biochemical processes already at work there. The product therefore contributes <bold>not only during its service life, but also after it</bold>."
     },
     "testing": {
       "title": "Independent testing",
-      "body": "The product was tested by an independent laboratory to the international standards <bold>ASTM D5511 and ISO 15985</bold>, comparing the same product with and without the Eco One additive. With Eco One, it reached <bold>93.31% biodegradation within approximately 3.5 years, and up to 99% within five years</bold>; without Eco One, the product showed no measurable biodegradation.",
+      "body": "The product was tested by an independent laboratory to the international standards <bold>ASTM D5511 and ISO 15985</bold>, comparing the same product with and without the Eco-One™ additive. With Eco-One™, it reached <bold>93.31% biodegradation within approximately 3.5 years, and up to 99% within five years</bold>; without Eco-One™, the product showed no measurable biodegradation.",
       "barChart": {
-        "ariaLabel": "Biodegradation at approximately 3.5 years with and without Eco One",
+        "ariaLabel": "Biodegradation at approximately 3.5 years with and without Eco-One™",
         "yAxis": "Biodegradation (%)",
-        "withLabel": "ëkcos with Eco One",
-        "withoutLabel": "Products without Eco One",
+        "withLabel": "ëkcos with Eco-One™",
+        "withoutLabel": "Products without Eco-One™",
         "withDetail": "93.31% biodegradation measured in an independent ASTM D5511 / ISO 15985 lab test after about 3.5 years.",
-        "withoutDetail": "The same product without Eco One showed no measurable biodegradation over the same test period.",
+        "withoutDetail": "The same product without Eco-One™ showed no measurable biodegradation over the same test period.",
         "subtitle": "Same product · same lab test (ASTM D5511 / ISO 15985) · ~3.5 years"
       },
       "timelineChart": {
-        "ariaLabel": "Biodegradation over five years with and without Eco One",
+        "ariaLabel": "Biodegradation over five years with and without Eco-One™",
         "yAxis": "Biodegradation (%)",
         "xAxis": "Years",
-        "withLabel": "ëkcos with Eco One",
-        "withoutLabel": "Products without Eco One",
+        "withLabel": "ëkcos with Eco-One™",
+        "withoutLabel": "Products without Eco-One™",
         "zeroNote": "0% the whole time",
         "measured": "measured",
         "projected": "projected",
         "yearsUnit": "yrs",
         "projectedNote": "Projected from the measured trend",
-        "caption": "Biodegradation with and without the Eco One additive. Values beyond 3.5 years are projected from the measured trend."
+        "caption": "Biodegradation with and without the Eco-One™ additive. Values beyond 3.5 years are projected from the measured trend."
       }
     },
     "closing": {
       "title": "ëkcos biodegradable products",
-      "body": "Our washroom products are manufactured with the Eco One additive and are up to 99% biodegradable, with performance identical to products without it and in many ways surpasses them.",
+      "body": "Our washroom products are manufactured with the Eco-One™ additive and are up to 99% biodegradable, with performance identical to products without it and in many ways surpasses them.",
       "shopCta": "Shop"
     },
-    "footnote": "Data source: independent biodegradation test per ASTM D5511-02 and ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) — ëkcos product with 1% Eco One additive: 93.31% biodegradation over 1,288 days (≈3.5 years); the same product without the additive: 0%. Biodegradation beyond the test period (up to 99% within ~5 years) is projected from the measured trend. Persistence figures for conventional plastics (≈300–1,000 years) are widely cited industry estimates. The Eco One® additive is manufactured and certified by EcoLogic, LLC."
+    "footnote": "Data source: independent biodegradation test per ASTM D5511-02 and ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) — ëkcos product with 1% Eco-One™ additive: 93.31% biodegradation over 1,288 days (≈3.5 years); the same product without the additive: 0%. Biodegradation beyond the test period (up to 99% within ~5 years) is projected from the measured trend. Persistence figures for conventional plastics (≈300–1,000 years) are widely cited industry estimates. The Eco-One™ additive is manufactured and certified by EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {
@@ -411,6 +411,7 @@
     },
     "xcrenHd": {
       "name": "xcrën HD",
+      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
       "category": "Premium urinal screen",
       "badge": "Xtreme anti-splash urinal screen",
       "short": "High-performance urinal screen engineered for consistent fragrance release and a clean appearance.",
@@ -444,6 +445,7 @@
     },
     "ekcoscreen": {
       "name": "ëkcoscreen",
+      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
       "category": "Urinal screen",
       "short": "Balanced performance for everyday commercial washrooms with reliable odor control.",
       "long": "ëkcoscreen delivers a practical balance of cost and performance for facilities that need dependable hygiene support without compromise on presentation.",
@@ -463,6 +465,7 @@
     },
     "powerscreen": {
       "name": "powër screen",
+      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
       "category": "Performance urinal screen",
       "short": "Built for demanding environments where performance and presentation matter.",
       "long": "powër screen is tuned for venues with high throughput, helping maintain a premium washroom experience with structured fragrance delivery.",
@@ -482,6 +485,7 @@
     },
     "basicScreen": {
       "name": "basic scrëen",
+      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
       "category": "Essential urinal screen",
       "short": "Straightforward protection and freshness for standard washroom programs.",
       "long": "basic scrëen is the practical choice for programs that need dependable hygiene support with clear service expectations.",
@@ -501,6 +505,7 @@
     },
     "urolite": {
       "name": "üro lite",
+      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
       "category": "Compact urinal screen",
       "short": "Compact format with flexible finish options for modern fixtures.",
       "long": "üro lite fits compact urinal geometries while maintaining ëkcos quality cues and service-friendly handling.",
@@ -520,6 +525,7 @@
     },
     "ekcoClip": {
       "name": "ëkco clip",
+      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
       "category": "Clip fixture",
       "short": "Secure mounting accessory designed for stable placement and clean lines.",
       "long": "ëkco clip helps maintain consistent positioning where a clip-style fixture is part of your program.",
@@ -539,6 +545,7 @@
     },
     "freshDrop": {
       "name": "frësh drop",
+      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
       "category": "Freshness system",
       "short": "Targeted freshness delivery with selectable fragrance directions.",
       "long": "frësh drop is built for programs that want flexible fragrance storytelling while keeping operations simple.",
@@ -558,6 +565,7 @@
     },
     "ezTrap": {
       "name": "ëz trap",
+      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
       "category": "Drain protection",
       "short": "Helps protect drains while supporting hygiene routines.",
       "long": "ëz trap is designed for practical maintenance workflows and dependable performance in daily operations.",
@@ -581,6 +589,7 @@
     },
     "xcrenPuck": {
       "name": "xcrën puck",
+      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
       "category": "Puck format",
       "short": "NON-PARA puck urinal screen for odor control and drainage protection.",
       "long": "xcrën is a NON-PARA puck urinal screen designed for effective odor control and drainage protection. Unlike traditional PARA-based products, it is free from paradichlorobenzene (PARA), a compound classified as possibly carcinogenic by the WHO. Its unique X-shaped design prevents solids and debris from clogging the drainage system while ensuring a clean and fresh fragrance release after each use for up to 30 days.",
@@ -604,6 +613,7 @@
     },
     "ekcoMat": {
       "name": "ëkco mat",
+      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
       "category": "Floor mat",
       "short": "Floor protection with a clean, professional look.",
       "long": "ëkco mat supports facility hygiene zones with a product-focused approach to durability and presentation.",

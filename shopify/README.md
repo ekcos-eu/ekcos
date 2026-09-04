@@ -103,6 +103,8 @@ Nasazení:
 
 FAQ má stejný vizuální styl (hero, typografie, CTA), accordion podle tvého HTML a překlady pro `en/cs/de/fr/es/it`.
 
+Kanonický zápis značky v copy: **Eco-One™**. V Theme Editoru u homepage/product Guarantees je teď „EcoOne™“ — přepiš na Eco-One™ (product body HTML už Eco-One™ používá).
+
 ## Lookbook (washroom) — mobilní obrázek
 
 Eurus Lookbook umí jen jeden obrázek, proto široký washroom na mobilu skoro není vidět. Upravená sekce přidává samostatný portrait obrázek a mobilní pozice hotspotů.

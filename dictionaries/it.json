@@ -5,7 +5,7 @@
     "productsTitle": "Prodotti",
     "productsDescription": "Esplora i prodotti ëkcos: modelli, finiture e opzioni — poi visita lo store ufficiale.",
     "ecoOneTitle": "Eco-One™",
-    "ecoOneDescription": "La plastica che torna alla natura. Stesso prodotto, stessa prestazione, una frazione dell’impronta — con l’additivo biodegradabile Eco One.",
+    "ecoOneDescription": "La plastica che torna alla natura. Stesso prodotto, stessa prestazione, una frazione dell’impronta — con l’additivo biodegradabile Eco-One™.",
     "brandingTitle": "Branding personalizzato",
     "brandingDescription": "Marchio privato, sagome e stampa per programmi B2B.",
     "articlesTitle": "Articoli",
@@ -197,7 +197,7 @@
     "hero": {
       "title": "La plastica che torna alla natura",
       "tagline": "Stesso prodotto. Stessa prestazione. Una frazione dell’impronta.",
-      "body": "Gli schermi per orinatoio non possono essere riciclati: a causa del contatto continuo con l’urina diventano biologicamente contaminati. Le uniche vie di smaltimento sono quindi l’incenerimento o la discarica. In discarica, la plastica convenzionale rimane per secoli. I nostri prodotti sono realizzati con l’additivo Eco One, che consente al materiale di biodegradarsi."
+      "body": "Gli schermi per orinatoio non possono essere riciclati: a causa del contatto continuo con l’urina diventano biologicamente contaminati. Le uniche vie di smaltimento sono quindi l’incenerimento o la discarica. In discarica, la plastica convenzionale rimane per secoli. I nostri prodotti sono realizzati con l’additivo Eco-One™, che consente al materiale di biodegradarsi."
     },
     "metrics": {
       "additive": {
@@ -215,19 +215,19 @@
     },
     "problem": {
       "title": "Perché la plastica ordinaria è un problema",
-      "body": "I prodotti in plastica ordinaria sono progettati per durare. Senza un additivo di biodegradazione, un prodotto in plastica inviato in discarica può rimanervi <bold>da 300 a 1.000 anni</bold>; i clog in schiuma stile «Crocs» sono un esempio familiare di plastica <bold>non biodegradabile</bold>. I nostri prodotti sono realizzati nello stesso tipo di plastica durevole (EVA) — ma con una differenza decisiva: l’additivo Eco One.",
-      "chartAlt": "Prodotti senza Eco One confrontati con prodotti ëkcos contenenti l’additivo",
-      "chartCaption": "Prodotti senza Eco One confrontati con prodotti ëkcos contenenti l’additivo.",
+      "body": "I prodotti in plastica ordinaria sono progettati per durare. Senza un additivo di biodegradazione, un prodotto in plastica inviato in discarica può rimanervi <bold>da 300 a 1.000 anni</bold>; i clog in schiuma stile «Crocs» sono un esempio familiare di plastica <bold>non biodegradabile</bold>. I nostri prodotti sono realizzati nello stesso tipo di plastica durevole (EVA) — ma con una differenza decisiva: l’additivo Eco-One™.",
+      "chartAlt": "Prodotti senza Eco-One™ confrontati con prodotti ëkcos contenenti l’additivo",
+      "chartCaption": "Prodotti senza Eco-One™ confrontati con prodotti ëkcos contenenti l’additivo.",
       "chart": {
         "ariaLabel": "Confronto degli anni di degradazione in discarica",
-        "withoutLabel": "Prodotti senza Eco One",
-        "withLabel": "ëkcos con Eco One",
+        "withoutLabel": "Prodotti senza Eco-One™",
+        "withLabel": "ëkcos con Eco-One™",
         "withoutValue": "300–1.000 anni",
         "withValue": "3,5–5 anni",
         "withoutDetail": "Senza un additivo di biodegradazione, la plastica convenzionale può rimanere in discarica per secoli.",
-        "withDetail": "Con l’additivo Eco One, test indipendenti mostrano ~93 % di biodegradazione in circa 3,5 anni, e fino al 99 % entro cinque anni.",
+        "withDetail": "Con l’additivo Eco-One™, test indipendenti mostrano ~93 % di biodegradazione in circa 3,5 anni, e fino al 99 % entro cinque anni.",
         "axisLabel": "Anni per degradarsi (discarica)",
-        "caption": "Prodotti senza Eco One confrontati con prodotti ëkcos contenenti l’additivo.",
+        "caption": "Prodotti senza Eco-One™ confrontati con prodotti ëkcos contenenti l’additivo.",
         "scaleLabel": "Scala del grafico",
         "scaleFull": "0–1.000 anni",
         "scaleZoom": "0–10 anni",
@@ -235,43 +235,43 @@
       }
     },
     "solution": {
-      "title": "La nostra soluzione: l’additivo Eco One",
-      "body1": "Durante la produzione incorporiamo circa <bold>l’1 % di Eco One</bold>, un additivo organico dosato allo stesso modo di un colorante. Non influisce sulla resistenza, sull’aspetto né sulle prestazioni del prodotto.",
+      "title": "La nostra soluzione: l’additivo Eco-One™",
+      "body1": "Durante la produzione incorporiamo circa <bold>l’1 % di Eco-One™</bold>, un additivo organico dosato allo stesso modo di un colorante. Non influisce sulla resistenza, sull’aspetto né sulle prestazioni del prodotto.",
       "body2": "In una discarica biologicamente attiva, i microrganismi presenti in natura scompongono la plastica trattata attraverso attività enzimatica, convertendola in biogas (<bold>metano</bold>, che le discariche moderne catturano per il recupero energetico), anidride carbonica e humus.",
       "body3": "Poiché il prodotto si scompone infine in humus, restituisce materia organica alla discarica e aiuta ad accelerare i processi biochimici già in atto. Il prodotto contribuisce quindi <bold>non solo durante la sua vita utile, ma anche dopo</bold>."
     },
     "testing": {
       "title": "Test indipendenti",
-      "body": "Il prodotto è stato testato da un laboratorio indipendente secondo gli standard internazionali <bold>ASTM D5511 e ISO 15985</bold>, confrontando lo stesso prodotto con e senza l’additivo Eco One. Con Eco One ha raggiunto <bold>il 93,31 % di biodegradazione in circa 3,5 anni, e fino al 99 % entro cinque anni</bold>; senza Eco One, il prodotto non ha mostrato biodegradazione misurabile.",
+      "body": "Il prodotto è stato testato da un laboratorio indipendente secondo gli standard internazionali <bold>ASTM D5511 e ISO 15985</bold>, confrontando lo stesso prodotto con e senza l’additivo Eco-One™. Con Eco-One™ ha raggiunto <bold>il 93,31 % di biodegradazione in circa 3,5 anni, e fino al 99 % entro cinque anni</bold>; senza Eco-One™, il prodotto non ha mostrato biodegradazione misurabile.",
       "barChart": {
-        "ariaLabel": "Biodegradazione a circa 3,5 anni con e senza Eco One",
+        "ariaLabel": "Biodegradazione a circa 3,5 anni con e senza Eco-One™",
         "yAxis": "Biodegradazione (%)",
-        "withLabel": "ëkcos con Eco One",
-        "withoutLabel": "Prodotti senza Eco One",
+        "withLabel": "ëkcos con Eco-One™",
+        "withoutLabel": "Prodotti senza Eco-One™",
         "withDetail": "93,31 % di biodegradazione misurata in un test di laboratorio indipendente ASTM D5511 / ISO 15985 dopo circa 3,5 anni.",
-        "withoutDetail": "Lo stesso prodotto senza Eco One non ha mostrato biodegradazione misurabile nello stesso periodo di test.",
+        "withoutDetail": "Lo stesso prodotto senza Eco-One™ non ha mostrato biodegradazione misurabile nello stesso periodo di test.",
         "subtitle": "Stesso prodotto · stesso test di laboratorio (ASTM D5511 / ISO 15985) · ~3,5 anni"
       },
       "timelineChart": {
-        "ariaLabel": "Biodegradazione in cinque anni con e senza Eco One",
+        "ariaLabel": "Biodegradazione in cinque anni con e senza Eco-One™",
         "yAxis": "Biodegradazione (%)",
         "xAxis": "Anni",
-        "withLabel": "ëkcos con Eco One",
-        "withoutLabel": "Prodotti senza Eco One",
+        "withLabel": "ëkcos con Eco-One™",
+        "withoutLabel": "Prodotti senza Eco-One™",
         "zeroNote": "0 % per tutto il tempo",
         "measured": "misurato",
         "projected": "proiettato",
         "yearsUnit": "anni",
         "projectedNote": "Proiettato dal trend misurato",
-        "caption": "Biodegradazione con e senza l’additivo Eco One. I valori oltre i 3,5 anni sono proiettati dal trend misurato."
+        "caption": "Biodegradazione con e senza l’additivo Eco-One™. I valori oltre i 3,5 anni sono proiettati dal trend misurato."
       }
     },
     "closing": {
       "title": "Prodotti biodegradabili ëkcos",
-      "body": "I nostri prodotti per i servizi igienici sono realizzati con l’additivo Eco One e sono biodegradabili fino al 99 %, con prestazioni identiche ai prodotti senza di esso — e in molti aspetti le superano.",
+      "body": "I nostri prodotti per i servizi igienici sono realizzati con l’additivo Eco-One™ e sono biodegradabili fino al 99 %, con prestazioni identiche ai prodotti senza di esso — e in molti aspetti le superano.",
       "shopCta": "Shop"
     },
-    "footnote": "Fonte dati: test di biodegradazione indipendente secondo ASTM D5511-02 e ISO 15985:2014 (Instituto Politécnico Nacional, Città del Messico) — prodotto ëkcos con 1 % di additivo Eco One: 93,31 % di biodegradazione in 1.288 giorni (≈3,5 anni); lo stesso prodotto senza additivo: 0 %. La biodegradazione oltre il periodo di test (fino al 99 % entro ~5 anni) è proiettata dal trend misurato. Le cifre di persistenza delle plastiche convenzionali (≈300–1.000 anni) sono stime di settore ampiamente citate. L’additivo Eco One® è prodotto e certificato da EcoLogic, LLC."
+    "footnote": "Fonte dati: test di biodegradazione indipendente secondo ASTM D5511-02 e ISO 15985:2014 (Instituto Politécnico Nacional, Città del Messico) — prodotto ëkcos con 1 % di additivo Eco-One™: 93,31 % di biodegradazione in 1.288 giorni (≈3,5 anni); lo stesso prodotto senza additivo: 0 %. La biodegradazione oltre il periodo di test (fino al 99 % entro ~5 anni) è proiettata dal trend misurato. Le cifre di persistenza delle plastiche convenzionali (≈300–1.000 anni) sono stime di settore ampiamente citate. L’additivo Eco-One™ è prodotto e certificato da EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {
@@ -411,6 +411,7 @@
     },
     "xcrenHd": {
       "name": "xcrën HD",
+      "imageAlt": "Griglia per orinatoio xcrën HD blu a forma di X con setole anti-schizzo, vista dall'alto su sfondo nero",
       "category": "Schermo orinatoio premium",
       "badge": "Xtreme anti-splash urinal screen",
       "short": "Schermo orinatoio ad alte prestazioni progettato per un rilascio costante di fragranza e un aspetto pulito.",
@@ -444,6 +445,7 @@
     },
     "ekcoscreen": {
       "name": "ëkcoscreen",
+      "imageAlt": "Griglia per orinatoio ëkcoscreen blu a forma di scudo con setole anti-schizzo, vista dall'alto su sfondo nero",
       "category": "Schermo orinatoio",
       "short": "Prestazioni equilibrate per i bagni commerciali di tutti i giorni, con un controllo odori affidabile.",
       "long": "ëkcoscreen offre un equilibrio pratico tra costo e prestazioni per strutture che necessitano di un supporto igienico affidabile senza compromessi sulla presentazione.",
@@ -463,6 +465,7 @@
     },
     "powerscreen": {
       "name": "powër screen",
+      "imageAlt": "Griglia per orinatoio powër screen blu circolare con centro a stella e setole anti-schizzo, vista dall'alto su sfondo nero",
       "category": "Schermo orinatoio ad alte prestazioni",
       "short": "Pensato per ambienti impegnativi dove contano prestazioni e presentazione.",
       "long": "powër screen è calibrato per location ad alto flusso e aiuta a mantenere un’esperienza premium nel bagno con un rilascio strutturato di fragranza.",
@@ -482,6 +485,7 @@
     },
     "basicScreen": {
       "name": "basic scrëen",
+      "imageAlt": "Griglia per orinatoio basic scrëen blu a triangolo arrotondato con fori di drenaggio, vista dall'alto su sfondo nero",
       "category": "Schermo orinatoio essenziale",
       "short": "Protezione e freschezza essenziali per programmi bagno standard.",
       "long": "basic scrëen è la scelta pratica per programmi che necessitano di un supporto igienico affidabile con aspettative di servizio chiare.",
@@ -501,6 +505,7 @@
     },
     "urolite": {
       "name": "üro lite",
+      "imageAlt": "Griglia compatta üro lite blu a forma di scudo con setole anti-schizzo, vista dall'alto su sfondo nero",
       "category": "Schermo orinatoio compatto",
       "short": "Formato compatto con opzioni di finitura flessibili per attrezzature moderne.",
       "long": "üro lite si adatta a geometrie di orinatoio compatte mantenendo i tratti qualitativi ëkcos e una gestione pratica in fase di servizio.",
@@ -520,6 +525,7 @@
     },
     "ekcoClip": {
       "name": "ëkco clip",
+      "imageAlt": "Deodorante ëkco clip blu a farfalla con nervature anti-schizzo, visto dall'alto su sfondo nero",
       "category": "Accessorio a clip",
       "short": "Accessorio di montaggio sicuro per un posizionamento stabile e linee pulite.",
       "long": "ëkco clip aiuta a mantenere un posizionamento costante quando un accessorio a clip fa parte del tuo programma.",
@@ -539,6 +545,7 @@
     },
     "freshDrop": {
       "name": "frësh drop",
+      "imageAlt": "Deodorante frësh drop blu e bianco a goccia con setole anti-schizzo, visto dall'alto su sfondo nero",
       "category": "Sistema di freschezza",
       "short": "Apporto di freschezza mirato con direzioni olfattive selezionabili.",
       "long": "frësh drop è pensato per programmi che vogliono uno storytelling olfattivo flessibile mantenendo operazioni semplici.",
@@ -558,6 +565,7 @@
     },
     "ezTrap": {
       "name": "ëz trap",
+      "imageAlt": "Cartuccia bianca ëz trap per orinatoio a secco con guarnizione nera, fotografata di tre quarti su sfondo nero",
       "category": "Protezione scarico",
       "short": "Aiuta a proteggere gli scarichi e a supportare le routine igieniche.",
       "long": "ëz trap è progettato per flussi di manutenzione pratici e prestazioni affidabili nelle operazioni quotidiane.",
@@ -581,6 +589,7 @@
     },
     "xcrenPuck": {
       "name": "xcrën puck",
+      "imageAlt": "Griglia per orinatoio xcrën puck blu a forma di X con alloggiamento pastiglia al centro, vista dall'alto su sfondo nero",
       "category": "Formato puck",
       "short": "Schermo urinario puck NON-PARA per controllo odori e protezione dello scarico.",
       "long": "xcrën è uno schermo urinario puck NON-PARA progettato per un efficace controllo degli odori e la protezione dello scarico. A differenza dei prodotti tradizionali a base di PARA, è privo di paradiclorobenzene (PARA), composto classificato dall'OMS come possibilmente cancerogeno. Il design a X unico impedisce l'ostruzione da solidi e garantisce una fragranza fresca dopo ogni utilizzo per fino a 30 giorni.",
@@ -604,6 +613,7 @@
     },
     "ekcoMat": {
       "name": "ëkco mat",
+      "imageAlt": "Tappetino assorbente ëkco mat grigio scuro per orinatoio, visto dall'alto su sfondo nero",
       "category": "Tappetino da pavimento",
       "short": "Protezione del pavimento con un look pulito e professionale.",
       "long": "ëkco mat supporta le zone igieniche della struttura con un focus su durata e presentazione.",

@@ -3,7 +3,7 @@ import {TestingCharts} from '@/components/eco-one/testing-charts'
 import {PageHero} from '@/components/layout/page-hero'
 import {FadeIn} from '@/components/ui/fade-in'
 import {Button} from '@/components/ui/button'
-import {SHOP_BASE_URL} from '@/lib/brand'
+import {SHOP_BASE_URL, BRAND} from '@/lib/brand'
 import {ExternalLink} from 'lucide-react'
 import {getTranslations} from 'next-intl/server'
 import Script from 'next/script'
@@ -27,7 +27,7 @@ export async function EcoOneView() {
     '@type': 'WebPage',
     name: t('hero.title'),
     description: t('hero.tagline'),
-    about: ['Eco One additive', 'biodegradable washroom products', 'landfill biodegradation'],
+    about: [`${BRAND.ecoOne} additive`, 'biodegradable washroom products', 'landfill biodegradation'],
   }
 
   return (

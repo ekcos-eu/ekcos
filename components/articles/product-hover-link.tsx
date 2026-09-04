@@ -3,11 +3,12 @@ import Image from 'next/image'
 type ProductHoverLinkProps = {
   href: string
   imageSrc: string
+  alt: string
   children: string
 }
 
 /** Server-safe product link with CSS-only hover preview (avoids Radix/useId hydration drift). */
-export function ProductHoverLink({href, imageSrc, children}: ProductHoverLinkProps) {
+export function ProductHoverLink({href, imageSrc, alt, children}: ProductHoverLinkProps) {
   return (
     <span className="group/product relative inline">
       <a
@@ -25,7 +26,7 @@ export function ProductHoverLink({href, imageSrc, children}: ProductHoverLinkPro
         <span className="relative block aspect-square overflow-hidden rounded-lg bg-[#f3f6f8]">
           <Image
             src={imageSrc}
-            alt=""
+            alt={alt}
             fill
             className="object-contain p-1.5"
             sizes="160px"

@@ -16,7 +16,7 @@ import { cn } from '@/lib/utils'
 const ECO_ONE_LINK_CLASS =
   'font-medium text-[#0F68B2] underline decoration-[#0F68B2]/35 underline-offset-2 transition-colors hover:decoration-[#0F68B2]'
 
-/** Phrases in Key benefits that should link to the Eco-One page */
+/** Phrases in Key benefits that should link to the Eco-One™ page */
 const ECO_ONE_LINK_PATTERN =
   /Eco[-\s]?One(?:™|®)?|100%\s+recyclable\s+and\s+also\s+biodegradable|100%\s+recyklovatelné\s+a\s+také\s+biologicky\s+odbouratelné/gi
 

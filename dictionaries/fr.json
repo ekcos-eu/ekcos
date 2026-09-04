@@ -5,7 +5,7 @@
     "productsTitle": "Produits",
     "productsDescription": "Découvrez les produits ëkcos : modèles, finitions et options — puis rendez-vous sur la boutique officielle.",
     "ecoOneTitle": "Eco-One™",
-    "ecoOneDescription": "Le plastique qui retourne à la nature. Même produit, même performance, une fraction de l’empreinte — avec l’additif biodégradable Eco One.",
+    "ecoOneDescription": "Le plastique qui retourne à la nature. Même produit, même performance, une fraction de l’empreinte — avec l’additif biodégradable Eco-One™.",
     "brandingTitle": "Marque personnalisée",
     "brandingDescription": "Marque propre, découpes et impression pour programmes B2B.",
     "articlesTitle": "Articles",
@@ -197,7 +197,7 @@
     "hero": {
       "title": "Le plastique qui retourne à la nature",
       "tagline": "Même produit. Même performance. Une fraction de l’empreinte.",
-      "body": "Les écrans d’urinoir ne peuvent pas être recyclés : au contact permanent de l’urine, ils deviennent biologiquement contaminés. Les seules voies d’élimination sont donc l’incinération ou la mise en décharge. En décharge, le plastique conventionnel demeure pendant des siècles. Nos produits sont fabriqués avec l’additif Eco One, qui permet au matériau de se biodégrader."
+      "body": "Les écrans d’urinoir ne peuvent pas être recyclés : au contact permanent de l’urine, ils deviennent biologiquement contaminés. Les seules voies d’élimination sont donc l’incinération ou la mise en décharge. En décharge, le plastique conventionnel demeure pendant des siècles. Nos produits sont fabriqués avec l’additif Eco-One™, qui permet au matériau de se biodégrader."
     },
     "metrics": {
       "additive": {
@@ -215,19 +215,19 @@
     },
     "problem": {
       "title": "Pourquoi le plastique ordinaire est un problème",
-      "body": "Les produits en plastique ordinaires sont conçus pour durer. Sans additif de biodégradation, un produit plastique envoyé en décharge peut y rester <bold>de 300 à 1 000 ans</bold> ; les sabots en mousse de type « Crocs » en sont un exemple familier de plastique <bold>non biodégradable</bold>. Nos produits sont fabriqués dans le même type de plastique durable (EVA) — avec une différence décisive : l’additif Eco One.",
-      "chartAlt": "Produits sans Eco One comparés aux produits ëkcos contenant l’additif",
-      "chartCaption": "Produits sans Eco One comparés aux produits ëkcos contenant l’additif.",
+      "body": "Les produits en plastique ordinaires sont conçus pour durer. Sans additif de biodégradation, un produit plastique envoyé en décharge peut y rester <bold>de 300 à 1 000 ans</bold> ; les sabots en mousse de type « Crocs » en sont un exemple familier de plastique <bold>non biodégradable</bold>. Nos produits sont fabriqués dans le même type de plastique durable (EVA) — avec une différence décisive : l’additif Eco-One™.",
+      "chartAlt": "Produits sans Eco-One™ comparés aux produits ëkcos contenant l’additif",
+      "chartCaption": "Produits sans Eco-One™ comparés aux produits ëkcos contenant l’additif.",
       "chart": {
         "ariaLabel": "Comparaison des années de dégradation en décharge",
-        "withoutLabel": "Produits sans Eco One",
-        "withLabel": "ëkcos avec Eco One",
+        "withoutLabel": "Produits sans Eco-One™",
+        "withLabel": "ëkcos avec Eco-One™",
         "withoutValue": "300–1 000 ans",
         "withValue": "3,5–5 ans",
         "withoutDetail": "Sans additif de biodégradation, le plastique conventionnel peut rester en décharge pendant des siècles.",
-        "withDetail": "Avec l’additif Eco One, des tests indépendants montrent ~93 % de biodégradation en environ 3,5 ans, et jusqu’à 99 % en cinq ans.",
+        "withDetail": "Avec l’additif Eco-One™, des tests indépendants montrent ~93 % de biodégradation en environ 3,5 ans, et jusqu’à 99 % en cinq ans.",
         "axisLabel": "Années avant dégradation (décharge)",
-        "caption": "Produits sans Eco One comparés aux produits ëkcos contenant l’additif.",
+        "caption": "Produits sans Eco-One™ comparés aux produits ëkcos contenant l’additif.",
         "scaleLabel": "Échelle du graphique",
         "scaleFull": "0–1 000 ans",
         "scaleZoom": "0–10 ans",
@@ -235,43 +235,43 @@
       }
     },
     "solution": {
-      "title": "Notre solution : l’additif Eco One",
-      "body1": "Lors de la fabrication, nous incorporons environ <bold>1 % d’Eco One</bold>, un additif organique dosé de la même manière qu’un colorant. Il n’affecte ni la résistance, ni l’apparence, ni les performances du produit.",
+      "title": "Notre solution : l’additif Eco-One™",
+      "body1": "Lors de la fabrication, nous incorporons environ <bold>1 % d’Eco-One™</bold>, un additif organique dosé de la même manière qu’un colorant. Il n’affecte ni la résistance, ni l’apparence, ni les performances du produit.",
       "body2": "Dans une décharge biologiquement active, les micro-organismes naturellement présents décomposent le plastique traité par activité enzymatique, le convertissant en biogaz (<bold>méthane</bold>, capté par les décharges modernes pour la récupération d’énergie), dioxyde de carbone et humus.",
       "body3": "Parce que le produit se décompose finalement en humus, il restitue de la matière organique à la décharge et accélère les processus biochimiques qui y sont déjà à l’œuvre. Le produit contribue donc <bold>non seulement pendant sa durée de vie, mais aussi après</bold>."
     },
     "testing": {
       "title": "Tests indépendants",
-      "body": "Le produit a été testé par un laboratoire indépendant selon les normes internationales <bold>ASTM D5511 et ISO 15985</bold>, en comparant le même produit avec et sans l’additif Eco One. Avec Eco One, il a atteint <bold>93,31 % de biodégradation en environ 3,5 ans, et jusqu’à 99 % en cinq ans</bold> ; sans Eco One, le produit n’a montré aucune biodégradation mesurable.",
+      "body": "Le produit a été testé par un laboratoire indépendant selon les normes internationales <bold>ASTM D5511 et ISO 15985</bold>, en comparant le même produit avec et sans l’additif Eco-One™. Avec Eco-One™, il a atteint <bold>93,31 % de biodégradation en environ 3,5 ans, et jusqu’à 99 % en cinq ans</bold> ; sans Eco-One™, le produit n’a montré aucune biodégradation mesurable.",
       "barChart": {
-        "ariaLabel": "Biodégradation à environ 3,5 ans avec et sans Eco One",
+        "ariaLabel": "Biodégradation à environ 3,5 ans avec et sans Eco-One™",
         "yAxis": "Biodégradation (%)",
-        "withLabel": "ëkcos avec Eco One",
-        "withoutLabel": "Produits sans Eco One",
+        "withLabel": "ëkcos avec Eco-One™",
+        "withoutLabel": "Produits sans Eco-One™",
         "withDetail": "93,31 % de biodégradation mesurée lors d’un essai de laboratoire indépendant ASTM D5511 / ISO 15985 après environ 3,5 ans.",
-        "withoutDetail": "Le même produit sans Eco One n’a montré aucune biodégradation mesurable sur la même période d’essai.",
+        "withoutDetail": "Le même produit sans Eco-One™ n’a montré aucune biodégradation mesurable sur la même période d’essai.",
         "subtitle": "Même produit · même essai de laboratoire (ASTM D5511 / ISO 15985) · ~3,5 ans"
       },
       "timelineChart": {
-        "ariaLabel": "Biodégradation sur cinq ans avec et sans Eco One",
+        "ariaLabel": "Biodégradation sur cinq ans avec et sans Eco-One™",
         "yAxis": "Biodégradation (%)",
         "xAxis": "Années",
-        "withLabel": "ëkcos avec Eco One",
-        "withoutLabel": "Produits sans Eco One",
+        "withLabel": "ëkcos avec Eco-One™",
+        "withoutLabel": "Produits sans Eco-One™",
         "zeroNote": "0 % tout le temps",
         "measured": "mesuré",
         "projected": "projeté",
         "yearsUnit": "ans",
         "projectedNote": "Projeté à partir de la tendance mesurée",
-        "caption": "Biodégradation avec et sans l’additif Eco One. Les valeurs au-delà de 3,5 ans sont projetées à partir de la tendance mesurée."
+        "caption": "Biodégradation avec et sans l’additif Eco-One™. Les valeurs au-delà de 3,5 ans sont projetées à partir de la tendance mesurée."
       }
     },
     "closing": {
       "title": "Produits biodégradables ëkcos",
-      "body": "Nos produits pour sanitaires sont fabriqués avec l’additif Eco One et sont biodégradables jusqu’à 99 %, avec des performances identiques à celles des produits sans additif — et qui les surpassent souvent.",
+      "body": "Nos produits pour sanitaires sont fabriqués avec l’additif Eco-One™ et sont biodégradables jusqu’à 99 %, avec des performances identiques à celles des produits sans additif — et qui les surpassent souvent.",
       "shopCta": "Shop"
     },
-    "footnote": "Source des données : test de biodégradation indépendant selon ASTM D5511-02 et ISO 15985:2014 (Instituto Politécnico Nacional, Mexico) — produit ëkcos avec 1 % d’additif Eco One : 93,31 % de biodégradation sur 1 288 jours (≈3,5 ans) ; le même produit sans additif : 0 %. La biodégradation au-delà de la période de test (jusqu’à 99 % en ~5 ans) est projetée à partir de la tendance mesurée. Les chiffres de persistance des plastiques conventionnels (≈300–1 000 ans) sont des estimations industrielles largement citées. L’additif Eco One® est fabriqué et certifié par EcoLogic, LLC."
+    "footnote": "Source des données : test de biodégradation indépendant selon ASTM D5511-02 et ISO 15985:2014 (Instituto Politécnico Nacional, Mexico) — produit ëkcos avec 1 % d’additif Eco-One™ : 93,31 % de biodégradation sur 1 288 jours (≈3,5 ans) ; le même produit sans additif : 0 %. La biodégradation au-delà de la période de test (jusqu’à 99 % en ~5 ans) est projetée à partir de la tendance mesurée. Les chiffres de persistance des plastiques conventionnels (≈300–1 000 ans) sont des estimations industrielles largement citées. L’additif Eco-One™ est fabriqué et certifié par EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {
@@ -411,6 +411,7 @@
     },
     "xcrenHd": {
       "name": "xcrën HD",
+      "imageAlt": "Écran d'urinoir xcrën HD bleu en forme de X avec poils anti-éclaboussures, vu de dessus sur fond noir",
       "category": "Grille urinoir premium",
       "badge": "Xtreme anti-splash urinal screen",
       "short": "Grille urinoir haut de gamme conçue pour une diffusion de parfum régulière et un aspect soigné.",
@@ -444,6 +445,7 @@
     },
     "ekcoscreen": {
       "name": "ëkcoscreen",
+      "imageAlt": "Écran d'urinoir ëkcoscreen bleu en forme de bouclier avec poils anti-éclaboussures, vu de dessus sur fond noir",
       "category": "Grille urinoir",
       "short": "Efficacité équilibrée pour les sanitaires commerciaux du quotidien, avec un contrôle des odeurs fiable.",
       "long": "ëkcoscreen offre un équilibre pratique entre coût et efficacité pour les établissements qui ont besoin d’un soutien hygiène fiable sans compromis sur la présentation.",
@@ -463,6 +465,7 @@
     },
     "powerscreen": {
       "name": "powër screen",
+      "imageAlt": "Écran d'urinoir powër screen bleu circulaire avec centre en étoile et poils anti-éclaboussures, vu de dessus sur fond noir",
       "category": "Grille urinoir haute efficacité",
       "short": "Conçue pour les environnements exigeants où efficacité et présentation comptent.",
       "long": "powër screen est calibrée pour les sites à fort débit et aide à maintenir une expérience sanitaire premium grâce à une diffusion de parfum structurée.",
@@ -482,6 +485,7 @@
     },
     "basicScreen": {
       "name": "basic scrëen",
+      "imageAlt": "Écran d'urinoir basic scrëen bleu en triangle arrondi avec trous d'évacuation, vu de dessus sur fond noir",
       "category": "Grille urinoir essentielle",
       "short": "Protection et fraîcheur simples pour les programmes sanitaires standards.",
       "long": "basic scrëen est le choix pratique pour les programmes qui ont besoin d’un soutien hygiène fiable avec des attentes de service claires.",
@@ -501,6 +505,7 @@
     },
     "urolite": {
       "name": "üro lite",
+      "imageAlt": "Écran d'urinoir compact üro lite bleu en forme de bouclier avec poils anti-éclaboussures, vu de dessus sur fond noir",
       "category": "Grille urinoir compacte",
       "short": "Format compact avec options de finition flexibles pour les équipements modernes.",
       "long": "üro lite s’adapte aux géométries d’urinoir compactes tout en conservant les codes qualité ëkcos et une manipulation pratique en service.",
@@ -520,6 +525,7 @@
     },
     "ekcoClip": {
       "name": "ëkco clip",
+      "imageAlt": "Désodorisant ëkco clip bleu en forme de nœud papillon avec rainures anti-éclaboussures, vu de dessus sur fond noir",
       "category": "Accessoire à clip",
       "short": "Accessoire de fixation sécurisé pour une pose stable et des lignes nettes.",
       "long": "ëkco clip aide à maintenir un positionnement constant lorsque un accessoire type clip fait partie de votre programme.",
@@ -539,6 +545,7 @@
     },
     "freshDrop": {
       "name": "frësh drop",
+      "imageAlt": "Désodorisant frësh drop bleu et blanc en goutte avec poils anti-éclaboussures, vu de dessus sur fond noir",
       "category": "Système de fraîcheur",
       "short": "Apport de fraîcheur ciblé avec des directions olfactives sélectionnables.",
       "long": "frësh drop est conçu pour les programmes qui veulent un storytelling parfum flexible tout en gardant des opérations simples.",
@@ -558,6 +565,7 @@
     },
     "ezTrap": {
       "name": "ëz trap",
+      "imageAlt": "Cartouche blanche ëz trap pour urinoir sans eau avec joint noir, photographiée de biais sur fond noir",
       "category": "Protection d’évacuation",
       "short": "Aide à protéger les évacuations et à soutenir les routines d’hygiène.",
       "long": "ëz trap est conçu pour des workflows de maintenance pratiques et des performances fiables au quotidien.",
@@ -581,6 +589,7 @@
     },
     "xcrenPuck": {
       "name": "xcrën puck",
+      "imageAlt": "Écran d'urinoir xcrën puck bleu en forme de X avec logement de galet au centre, vu de dessus sur fond noir",
       "category": "Format puck",
       "short": "Grille urinoir puck NON-PARA pour le contrôle des odeurs et la protection de l'évacuation.",
       "long": "xcrën est une grille urinoir puck NON-PARA conçue pour un contrôle efficace des odeurs et la protection de l'évacuation. Contrairement aux produits traditionnels à base de PARA, elle est exempte de paradichlorobenzène (PARA), composé classé comme potentiellement cancérigène par l'OMS. Son design en X unique empêche l'obstruction par les solides et assure une fragrance fraîche après chaque utilisation pendant jusqu'à 30 jours.",
@@ -604,6 +613,7 @@
     },
     "ekcoMat": {
       "name": "ëkco mat",
+      "imageAlt": "Tapis de sol absorbant ëkco mat gris foncé pour urinoir, vu de dessus sur fond noir",
       "category": "Tapis de sol",
       "short": "Protection de sol au rendu propre et professionnel.",
       "long": "ëkco mat soutient les zones d’hygiène des établissements avec un focus sur la durabilité et la présentation.",

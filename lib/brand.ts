@@ -2,6 +2,8 @@ export const BRAND = {
   primary: '#0F68B2',
   secondaryText: '#575756',
   name: 'ëkcos',
+  /** Canonical user-facing brand string. Never EcoOne / Eco One / Eco-One without ™. */
+  ecoOne: 'Eco-One™',
 } as const
 
 function canonicalOrigin(value: string): string {

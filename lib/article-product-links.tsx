@@ -15,6 +15,8 @@ type ProductLinkMatch = {
   shopPath: string
 }
 
+export type ProductImageAltLookup = (shopPath: string) => string
+
 /** Display-name aliases (as they appear in article copy) → shop collection path */
 const PRODUCT_NAME_ALIASES: ProductLinkMatch[] = [
   {pattern: /xcr[eë]n\s+HD/gi, shopPath: '/collections/xcren-hd'},
