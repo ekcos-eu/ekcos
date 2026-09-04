@@ -36,26 +36,30 @@ const COMBINED_PATTERN = new RegExp(
   'gi',
 )
 
-function resolveProductLink(matched: string): {href: string; imageSrc: string} | null {
+function resolveProductLink(
+  matched: string,
+  getImageAlt: ProductImageAltLookup,
+): {href: string; imageSrc: string; alt: string} | null {
   for (const entry of PRODUCT_NAME_ALIASES) {
     const tester = new RegExp(entry.pattern.source, entry.pattern.flags)
     if (!tester.test(matched)) continue
 
     const product = products.find((item) => item.shopPath === entry.shopPath)
     if (!product) {
-      return {href: `${SHOP_BASE_URL}${entry.shopPath}`, imageSrc: ''}
+      return {href: `${SHOP_BASE_URL}${entry.shopPath}`, imageSrc: '', alt: ''}
     }
 
     return {
       href: `${SHOP_BASE_URL}${entry.shopPath}`,
       imageSrc: getConfiguratorThumbnailSrc(product),
+      alt: getImageAlt(entry.shopPath),
     }
   }
 
   return null
 }
 
-function linkifyText(text: string): ReactNode[] {
+function linkifyText(text: string, getImageAlt: ProductImageAltLookup): ReactNode[] {
   const nodes: ReactNode[] = []
   let lastIndex = 0
   const pattern = new RegExp(COMBINED_PATTERN.source, COMBINED_PATTERN.flags)
@@ -67,13 +71,14 @@ function linkifyText(text: string): ReactNode[] {
       nodes.push(text.slice(lastIndex, match.index))
     }
 
-    const link = resolveProductLink(matched)
+    const link = resolveProductLink(matched, getImageAlt)
     nodes.push(
       link?.imageSrc ? (
         <ProductHoverLink
           key={`product-${match.index}-${matched}`}
           href={link.href}
           imageSrc={link.imageSrc}
+          alt={link.alt}
         >
           {matched}
         </ProductHoverLink>
@@ -105,10 +110,13 @@ function linkifyText(text: string): ReactNode[] {
 type ElementWithChildren = ReactElement<{children?: ReactNode}>
 
 /** Walk Portable Text React children and wrap product names with eshop links. */
-export function linkifyProductChildren(children: ReactNode): ReactNode {
+export function linkifyProductChildren(
+  children: ReactNode,
+  getImageAlt: ProductImageAltLookup,
+): ReactNode {
   return Children.map(children, (child) => {
     if (typeof child === 'string') {
-      return linkifyText(child)
+      return linkifyText(child, getImageAlt)
     }
 
     if (typeof child === 'number') {
@@ -129,7 +137,7 @@ export function linkifyProductChildren(children: ReactNode): ReactNode {
     }
 
     return cloneElement(element, {
-      children: linkifyProductChildren(element.props.children),
+      children: linkifyProductChildren(element.props.children, getImageAlt),
     })
   })
 }
