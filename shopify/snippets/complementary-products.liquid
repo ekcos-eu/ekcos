@@ -1,0 +1,84 @@
+{%- comment -%}
+  Complementary products from Search & Discovery metafields, not the
+  Product Recommendations API. Shopify's API hides items already in the cart;
+  this snippet keeps "Don't forget the base" visible after add to cart.
+
+  In sections/main-product.liquid replace the `{%- when 'complementary' -%}`
+  block with:
+
+    {%- when 'complementary' -%}
+      {% render 'complementary-products',
+        block: block,
+        product: product,
+        collection: collection
+      %}
+{%- endcomment -%}
+
+{%- liquid
+  assign complementary_list = product.metafields['shopify--discovery--product_recommendation'].complementary_products.value
+  assign complementary_limit = block.settings.product_list_limit | default: 10
+-%}
+
+{%- if complementary_list != blank and complementary_list.count > 0 -%}
+  <div class="complementary-products{% if block.settings.make_collapsible_row %} is-accordion{% endif %}">
+    {%- capture complementary_products -%}
+      <ul class="list-unstyled" role="list" style="--image-position: {{ block.settings.image_position }}">
+        {%- for complementary_product in complementary_list limit: complementary_limit -%}
+          {%- if complementary_product != blank -%}
+            <li>
+              {% render 'card-product',
+                card_product: complementary_product,
+                card_collection: collection,
+                media_size: block.settings.image_ratio,
+                show_secondary_image: false,
+                show_quick_buy: true,
+                show_vendor: block.settings.show_vendor,
+                show_rating: false,
+                enable_quick_view: false,
+                enable_color_swatches: false,
+                enable_countdown: false,
+                enable_image_fill: block.settings.enable_image_fill,
+                button_custom_class: 'button button--small button--cta'
+              %}
+            </li>
+          {%- endif -%}
+        {%- endfor -%}
+      </ul>
+    {%- endcapture -%}
+
+    {%- if block.settings.make_collapsible_row -%}
+      <accordion-tab class="product__accordion accordion" {{ block.shopify_attributes }}>
+        <details open>
+          <summary>
+            <span class="summary__title">
+              {% render 'icon-accordion', icon: block.settings.icon %}
+              <span class="accordion__title">
+                {{ block.settings.heading | escape }}
+              </span>
+            </span>
+            {% render 'icon', icon: 'caret' %}
+          </summary>
+          <div class="accordion__content">
+            {{ complementary_products }}
+          </div>
+        </details>
+      </accordion-tab>
+    {%- else -%}
+      <div class="product__accordion accordion" {{ block.shopify_attributes }}>
+        <span class="summary__title">
+          {% render 'icon-accordion', icon: block.settings.icon %}
+          <span class="accordion__title">
+            {{ block.settings.heading | escape }}
+          </span>
+        </span>
+        <div class="accordion__content">
+          {{ complementary_products }}
+        </div>
+      </div>
+    {%- endif -%}
+
+    {{ 'component-card.css' | asset_url | stylesheet_tag }}
+    {{ 'section-product-recommendations.css' | asset_url | stylesheet_tag }}
+    {{ 'component-complementary-products.css' | asset_url | stylesheet_tag }}
+  </div>
+{%- endif -%}

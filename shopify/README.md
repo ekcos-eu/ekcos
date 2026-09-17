@@ -136,3 +136,40 @@ Navržené mobilní pozice (stejné jako na marketing webu):
 | ëkco mat | 76 | 91 |
 
 Desktop lookbook a existující hotspoty zůstanou beze změny, dokud mobilní pozice necháš na `0`.
+
+## Complementary products — vedle sebe
+
+Eurus skládá complementary produkty pod sebe (horizontální řádky). Pro „Don't forget the base“ (bílá + černá základna) je lepší 2sloupcová mřížka.
+
+Soubor:
+
+- `assets/component-complementary-products.css` — nahraď jím `assets/component-complementary-products.css` v tématu
+
+Nasazení:
+
+1. **Online Store → Themes → … → Edit code** → otevři `assets/component-complementary-products.css`.
+2. Přepiš obsah souborem z tohoto repa a ulož.
+
+Dva produkty jdou vedle sebe, jeden zůstane na celou šířku, Add to cart zůstane viditelné i bez hoveru.
+
+Shopify Recommendations API schovává produkty, které už jsou v košíku — proto po přidání základny zmizí z Don't forget the base. Oprava čte complementary produkty z metafield Search & Discovery, takže zůstanou vidět pořád.
+
+Soubor:
+
+- `snippets/complementary-products.liquid` — nahraj jako `snippets/complementary-products.liquid`
+
+Nasazení:
+
+1. **Online Store → Themes → … → Edit code** → **Add a new snippet** → `complementary-products` a vlož obsah souboru.
+2. V `sections/main-product.liquid` najdi `{%- when 'complementary' -%}` a **celý ten `when` blok** (až po `{%- when 'line_item_property' -%}`, ten `when` nech) nahraď tímto:
+
+```liquid
+{%- when 'complementary' -%}
+  {% render 'complementary-products',
+    block: block,
+    product: product,
+    collection: collection
+  %}
+```
+
+3. Ulož a ověř: přidej bílou základnu do košíku — černá i bílá zůstanou v Don't forget the base.
