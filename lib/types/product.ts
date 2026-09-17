@@ -7,6 +7,8 @@ export type ProductColor = {
   sku?: string
   /** Optional CSS hex for the circular swatch */
   swatchHex?: string
+  /** Hardware option (e.g. Fresh Drop wall base), not a scent colorway */
+  group?: 'base'
   /** Secondary angle (e.g. side profile) */
   sideImageSrc?: string
   /** In-context shot (e.g. urinal mockup) */

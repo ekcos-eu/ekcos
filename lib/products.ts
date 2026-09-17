@@ -1,6 +1,6 @@
 import type { Product } from '@/lib/types/product'
 import { publicPath } from '@/lib/paths'
-import { buildUrinalLineColors } from '@/lib/product-variants'
+import { buildFreshDropBaseColors, buildUrinalLineColors } from '@/lib/product-variants'
 
 const shop = (path: string) => path
 
@@ -182,7 +182,10 @@ export const products: Product[] = [
       'products.freshDrop.useCases.1',
     ],
     heroImageSrc: publicPath('products', 'Freshdrop', 'PhotoStock', 'FDI-3B-V0.png'),
-    colors: buildUrinalLineColors('FDI', 'fdi', ['products', 'Freshdrop']),
+    colors: [
+      ...buildUrinalLineColors('FDI', 'fdi', ['products', 'Freshdrop']),
+      ...buildFreshDropBaseColors(['products', 'Freshdrop']),
+    ],
     fragrances: [
       { id: 'fresh', labelKey: 'products.fragrances.fresh' },
       { id: 'citrus', labelKey: 'products.fragrances.citrus' },

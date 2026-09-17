@@ -81,11 +81,13 @@
     "from": "od",
     "variants": "Dostupné varianty",
     "colors": "Barvy a vůně",
+    "bases": "Základny",
     "benefits": "Klíčové výhody",
     "more": "Více informací",
     "openDetails": "Otevřít detailní fotografie",
     "detailGallery": "Detailní fotografie — {name}",
-    "detailShot": "detail"
+    "detailShot": "detail",
+    "boundaryError": "Zobrazení produktu je dočasně nedostupné. Zkuste to prosím znovu."
   },
   "articles": {
     "shopCta": {
@@ -561,6 +563,10 @@
       "useCases": {
         "0": "Hospitality",
         "1": "Prémiový retail"
+      },
+      "bases": {
+        "white": "Bílá / základna",
+        "black": "Černá / základna"
       }
     },
     "ezTrap": {

@@ -81,11 +81,13 @@
     "from": "ab",
     "variants": "Verfügbare Varianten",
     "colors": "Farben & Düfte",
+    "bases": "Wandhalter",
     "benefits": "Hauptvorteile",
     "more": "Mehr Details",
     "openDetails": "Detailfotos öffnen",
     "detailGallery": "Detailfotos — {name}",
-    "detailShot": "Detail"
+    "detailShot": "Detail",
+    "boundaryError": "Diese Produktansicht ist vorübergehend nicht verfügbar. Bitte versuchen Sie es erneut."
   },
   "articles": {
     "shopCta": {
@@ -561,6 +563,10 @@
       "useCases": {
         "0": "Hospitality",
         "1": "Premium-Einzelhandel"
+      },
+      "bases": {
+        "white": "Weiß / Basis",
+        "black": "Schwarz / Basis"
       }
     },
     "ezTrap": {

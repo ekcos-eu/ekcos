@@ -81,11 +81,13 @@
     "from": "da",
     "variants": "Varianti disponibili",
     "colors": "Colori e fragranze",
+    "bases": "Basi a parete",
     "benefits": "Vantaggi principali",
     "more": "Ulteriori dettagli",
     "openDetails": "Apri foto di dettaglio",
     "detailGallery": "Foto di dettaglio — {name}",
-    "detailShot": "dettaglio"
+    "detailShot": "dettaglio",
+    "boundaryError": "Questa scheda prodotto è temporaneamente non disponibile. Riprova."
   },
   "articles": {
     "shopCta": {
@@ -561,6 +563,10 @@
       "useCases": {
         "0": "Hospitality",
         "1": "Retail premium"
+      },
+      "bases": {
+        "white": "Bianco / base",
+        "black": "Nero / base"
       }
     },
     "ezTrap": {

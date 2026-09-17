@@ -81,11 +81,13 @@
     "from": "from",
     "variants": "Available variants",
     "colors": "Colors & fragrances",
+    "bases": "Wall bases",
     "benefits": "Key benefits",
     "more": "More details",
     "openDetails": "Open detail photos",
     "detailGallery": "Detail photos — {name}",
-    "detailShot": "detail"
+    "detailShot": "detail",
+    "boundaryError": "This product view is temporarily unavailable. Please try again."
   },
   "articles": {
     "shopCta": {
@@ -561,6 +563,10 @@
       "useCases": {
         "0": "Hospitality",
         "1": "Premium retail"
+      },
+      "bases": {
+        "white": "White / Base",
+        "black": "Black / Base"
       }
     },
     "ezTrap": {

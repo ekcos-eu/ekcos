@@ -81,11 +81,13 @@
     "from": "desde",
     "variants": "Variantes disponibles",
     "colors": "Colores y fragancias",
+    "bases": "Bases de pared",
     "benefits": "Beneficios clave",
     "more": "Más detalles",
     "openDetails": "Abrir fotos de detalle",
     "detailGallery": "Fotos de detalle — {name}",
-    "detailShot": "detalle"
+    "detailShot": "detalle",
+    "boundaryError": "Esta ficha de producto no está disponible temporalmente. Inténtelo de nuevo."
   },
   "articles": {
     "shopCta": {
@@ -561,6 +563,10 @@
       "useCases": {
         "0": "Hostelería",
         "1": "Retail premium"
+      },
+      "bases": {
+        "white": "Blanco / base",
+        "black": "Negro / base"
       }
     },
     "ezTrap": {

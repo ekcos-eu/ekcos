@@ -13,6 +13,10 @@
       "mtimeMs": 1784712526610.5442,
       "mtimeSec": 1784712526.6105442
     },
+    "/Users/baudysdev/.cursor/projects/Users-baudysdev-Coding-www-ekcos/agent-transcripts/104170c8-dc44-4e9c-afff-99f0f2014cba/104170c8-dc44-4e9c-afff-99f0f2014cba.jsonl": {
+      "mtimeMs": 1788534216978.4836,
+      "mtimeSec": 1788534216.9784837
+    },
     "/Users/baudysdev/.cursor/projects/Users-baudysdev-Coding-www-ekcos/agent-transcripts/2add21cc-8e54-4d1f-a625-b68c51f22d5b/2add21cc-8e54-4d1f-a625-b68c51f22d5b.jsonl": {
       "mtimeMs": 1785167387693.8218,
       "mtimeSec": 1785167387.6938217
@@ -48,6 +52,14 @@
     "/Users/baudysdev/.cursor/projects/Users-baudysdev-Coding-www-ekcos/agent-transcripts/425b87cf-0c1c-439f-aa50-430722c04fc0/425b87cf-0c1c-439f-aa50-430722c04fc0.jsonl": {
       "mtimeMs": 1779055470492.3625,
       "mtimeSec": 1779055470.4923625
+    },
+    "/Users/baudysdev/.cursor/projects/Users-baudysdev-Coding-www-ekcos/agent-transcripts/4888f61d-3fb8-44e7-936e-e45849af400d/4888f61d-3fb8-44e7-936e-e45849af400d.jsonl": {
+      "mtimeMs": 1788534661399.354,
+      "mtimeSec": 1788534661.399354
+    },
+    "/Users/baudysdev/.cursor/projects/Users-baudysdev-Coding-www-ekcos/agent-transcripts/4888f61d-3fb8-44e7-936e-e45849af400d/subagents/1dc7823b-71a3-42e0-acc3-030b623f5190.jsonl": {
+      "mtimeMs": 1788534694998.572,
+      "mtimeSec": 1788534694.998572
     },
     "/Users/baudysdev/.cursor/projects/Users-baudysdev-Coding-www-ekcos/agent-transcripts/61040f36-a99b-428a-bb3d-d08ad124820f/61040f36-a99b-428a-bb3d-d08ad124820f.jsonl": {
       "mtimeMs": 1784645123888.129,
@@ -149,13 +161,17 @@
       "mtimeMs": 1785237893508.1309,
       "mtimeSec": 1785237893.5081308
     },
+    "/Users/baudysdev/.cursor/projects/Users-baudysdev-Coding-www-ekcos/agent-transcripts/9d286e52-317f-4053-b91b-2ce7c875cc59/9d286e52-317f-4053-b91b-2ce7c875cc59.jsonl": {
+      "mtimeMs": 1788534416648.3833,
+      "mtimeSec": 1788534416.6483834
+    },
     "/Users/baudysdev/.cursor/projects/Users-baudysdev-Coding-www-ekcos/agent-transcripts/efb2aa71-5ab8-46eb-8f9e-d698e56fa584/efb2aa71-5ab8-46eb-8f9e-d698e56fa584.jsonl": {
-      "mtimeMs": 1787121011239.0796,
-      "mtimeSec": 1787121011.2390795
+      "mtimeMs": 1787267940678.9421,
+      "mtimeSec": 1787267940.6789422
     },
     "/Users/baudysdev/.cursor/projects/Users-baudysdev-Coding-www-ekcos/agent-transcripts/efb2aa71-5ab8-46eb-8f9e-d698e56fa584/subagents/9ae56dee-13d8-48c7-9fc0-c0faba528b62.jsonl": {
-      "mtimeMs": 1787121061747.7307,
-      "mtimeSec": 1787121061.7477307
+      "mtimeMs": 1787121476353.3574,
+      "mtimeSec": 1787121476.3533573
     }
   }
 }

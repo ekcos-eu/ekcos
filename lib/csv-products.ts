@@ -2,6 +2,10 @@ import fs from 'fs'
 import path from 'path'
 import { getProductBySlug } from '@/lib/products'
 import { publicPath } from '@/lib/paths'
+import {
+  getProductBaseColors,
+  getProductInsertColors,
+} from '@/lib/product-variants'
 import detailImagesManifest from '@/lib/generated/product-detail-images.json'
 
 export type CsvVariant = {
@@ -14,13 +18,21 @@ export type CsvVariant = {
   imageSrc: string
 }
 
+export type CsvBase = {
+  sku: string
+  imageSrc: string
+  swatchHex: string
+}
+
 export type CsvProductDetail = {
   slug: string
   title: string
   bodyHtml: string
   price: string
-  /** All local PhotoStock images — used as gallery */
+  /** Insert / scent PhotoStock images — used as the rotating gallery */
   images: string[]
+  /** Wall bases (Fresh Drop) — shown as a separate finish picker */
+  bases: CsvBase[]
   /** Detail close-up photos from public/products/{Folder}/Detail/ */
   detailImages: string[]
   variants: CsvVariant[]
@@ -122,10 +134,18 @@ function localPhotostockImages(slug: string): string[] {
   // Prefer catalog colors — never readdir PhotoStock (keeps images out of the
   // serverless function bundle; they are served as static public assets).
   const product = getProductBySlug(slug)
-  if (product?.colors && product.colors.length > 0) {
-    return product.colors.map((c) => c.imageSrc)
-  }
-  return []
+  if (!product) return []
+  return getProductInsertColors(product).map((c) => c.imageSrc)
+}
+
+function localBaseOptions(slug: string): CsvBase[] {
+  const product = getProductBySlug(slug)
+  if (!product) return []
+  return getProductBaseColors(product).map((c) => ({
+    sku: c.sku ?? c.id,
+    imageSrc: c.imageSrc,
+    swatchHex: c.swatchHex ?? '#0F68B2',
+  }))
 }
 
 /** Close-up shots from the build-time manifest (public/products/{Folder}/Detail/). */
@@ -194,12 +214,25 @@ export type ColorSwatch = {
 export function getColorSwatches(slug: string): ColorSwatch[] {
   const product = getProductBySlug(slug)
   if (!product) return []
-  return product.colors.map((c) => ({
+  return getProductInsertColors(product).map((c) => ({
     sku: c.sku ?? c.id,
     labelKey: c.labelKey,
     swatchHex: c.swatchHex ?? '#0F68B2',
     imageSrc: c.imageSrc,
   }))
+}
+
+function isCsvHandleForSlug(handle: string, slug: string, prefix: string): boolean {
+  if (!handle.startsWith(prefix)) return false
+  // fresh-drop-base is a sibling Shopify product, not an insert colorway
+  if (slug === 'fresh-drop' && (handle === 'fresh-drop-base' || handle.startsWith('fresh-drop-base-'))) {
+    return false
+  }
+  return true
+}
+
+function isBaseSku(sku: string): boolean {
+  return sku.toUpperCase().startsWith('FDB-')
 }
 
 // ---------------------------------------------------------------------------
@@ -223,8 +256,9 @@ export function getProductDetailBySlug(slug: string): CsvProductDetail | null {
   const product = getProductBySlug(slug)
   const rows = getCsvRows()
 
-  // Collect all rows whose Handle starts with the prefix
-  const matchingRows = rows.filter((r) => r[COL.handle].startsWith(prefix))
+  // Collect insert rows for this product (exclude sibling SKUs such as fresh-drop-base)
+  const matchingRows = rows.filter((r) => isCsvHandleForSlug(r[COL.handle], slug, prefix))
+  const bases = localBaseOptions(slug)
 
   // Fallback when CSV has no rows for this product (e.g. basic-screen)
   if (matchingRows.length === 0) {
@@ -235,8 +269,9 @@ export function getProductDetailBySlug(slug: string): CsvProductDetail | null {
       bodyHtml: '',
       price: '',
       images: localPhotostockImages(slug),
+      bases,
       detailImages: localDetailImages(slug),
-      variants: product.colors.map((c) => ({
+      variants: getProductInsertColors(product).map((c) => ({
         sku: c.sku ?? c.id,
         title: c.sku ?? c.id,
         price: '',
@@ -258,7 +293,7 @@ export function getProductDetailBySlug(slug: string): CsvProductDetail | null {
   let variants: CsvVariant[] = []
   for (const r of matchingRows) {
     const sku = r[COL.sku]
-    if (!sku || seenSkus.has(sku)) continue
+    if (!sku || isBaseSku(sku) || seenSkus.has(sku)) continue
     seenSkus.add(sku)
     variants.push({
       sku,
@@ -272,7 +307,7 @@ export function getProductDetailBySlug(slug: string): CsvProductDetail | null {
 
   // Multiline CSV body often breaks column alignment — fall back to local catalog colors
   if (variants.length === 0 && product) {
-    variants = product.colors.map((c) => ({
+    variants = getProductInsertColors(product).map((c) => ({
       sku: c.sku ?? c.id,
       title: c.sku ?? c.id,
       price,
@@ -290,6 +325,7 @@ export function getProductDetailBySlug(slug: string): CsvProductDetail | null {
     bodyHtml,
     price,
     images,
+    bases,
     detailImages,
     variants,
     shopPath: product?.shopPath ?? `/collections/${slug}`,

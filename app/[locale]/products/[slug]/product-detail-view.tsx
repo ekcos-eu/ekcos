@@ -75,6 +75,8 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
   const tProducts = useTranslations('products')
   const [activeImg, setActiveImg] = React.useState(0)
   const [activeVariant, setActiveVariant] = React.useState(0)
+  const [galleryKind, setGalleryKind] = React.useState<'insert' | 'base'>('insert')
+  const [activeBase, setActiveBase] = React.useState(0)
   const [autoplayPaused, setAutoplayPaused] = React.useState(false)
   const [detailLightboxOpen, setDetailLightboxOpen] = React.useState(false)
   const [userPausedUntil, setUserPausedUntil] = React.useState(0)
@@ -97,7 +99,11 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
         }))
 
   const currentVariant = variants[activeVariant]
-  const displayImg = galleryImages[activeImg] ?? galleryImages[0] ?? currentVariant?.imageSrc ?? ''
+  const currentBase = detail.bases[activeBase]
+  const displayImg =
+    galleryKind === 'base'
+      ? (currentBase?.imageSrc ?? galleryImages[activeImg] ?? galleryImages[0] ?? '')
+      : (galleryImages[activeImg] ?? galleryImages[0] ?? currentVariant?.imageSrc ?? '')
 
   const activeColorKey = colorKeyFromImageSrc(displayImg)
   const detailImagesForColor = React.useMemo(
@@ -112,7 +118,16 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
 
   const colorScentLabel = resolveColorScentLabel(
     displayImg,
-    currentVariant,
+    galleryKind === 'base'
+      ? currentBase
+        ? {
+            sku: currentBase.sku,
+            title: '',
+            price: detail.price,
+            imageSrc: currentBase.imageSrc,
+          }
+        : undefined
+      : currentVariant,
     localizedProduct.colorLabelsByImage,
     tProducts,
   )
@@ -134,8 +149,15 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
 
   const handleThumbnailSelect = (idx: number) => {
     pauseAutoplayBriefly()
+    setGalleryKind('insert')
     setActiveImg(idx)
     syncVariantFromImage(idx)
+  }
+
+  const handleBaseSelect = (idx: number) => {
+    pauseAutoplayBriefly()
+    setGalleryKind('base')
+    setActiveBase(idx)
   }
 
   const canAutoplayColors = galleryImages.length > 1
@@ -154,7 +176,7 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
 
   // Auto-rotate gallery colors every 4s
   React.useEffect(() => {
-    if (!canAutoplayColors) return
+    if (!canAutoplayColors || galleryKind !== 'insert') return
     if (autoplayPaused || detailLightboxOpen || userPausedUntil > Date.now()) return
     if (
       typeof window !== 'undefined' &&
@@ -178,6 +200,7 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
     autoplayPaused,
     detailLightboxOpen,
     canAutoplayColors,
+    galleryKind,
     galleryImages,
     variants,
     userPausedUntil,
@@ -246,33 +269,87 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
 
           {/* Thumbnail rail */}
           {galleryImages.length > 1 && (
-            <div className="flex flex-wrap gap-2">
-              {galleryImages.map((src, idx) => (
-                <motion.button
-                  key={src}
-                  type="button"
-                  onClick={() => handleThumbnailSelect(idx)}
-                  aria-label={`${localizedProduct.name} — image ${idx + 1}`}
-                  whileHover={{ y: -3, scale: 1.06 }}
-                  whileTap={{ scale: 0.96 }}
-                  className={cn(
-                    'relative h-16 w-16 shrink-0 cursor-pointer overflow-hidden rounded-lg border-2 bg-white transition-colors',
-                    activeImg === idx
-                      ? 'border-[#0F68B2] ring-1 ring-[#0F68B2]/30'
-                      : 'border-black/10 hover:border-[#0F68B2]/40',
-                  )}
-                >
-                  <Image
-                    src={src}
-                    alt=""
-                    fill
-                    className="object-contain p-1"
-                    sizes="64px"
-                  />
-                </motion.button>
-              ))}
+            <div>
+              {detail.bases.length > 0 ? (
+                <p className="mb-2 text-sm font-medium text-[#575756]">
+                  {t('colors')}
+                </p>
+              ) : null}
+              <div className="flex flex-wrap gap-2">
+                {galleryImages.map((src, idx) => (
+                  <motion.button
+                    key={src}
+                    type="button"
+                    onClick={() => handleThumbnailSelect(idx)}
+                    aria-pressed={galleryKind === 'insert' && activeImg === idx}
+                    aria-label={`${localizedProduct.name} — image ${idx + 1}`}
+                    whileHover={{ y: -3, scale: 1.06 }}
+                    whileTap={{ scale: 0.96 }}
+                    className={cn(
+                      'relative h-16 w-16 shrink-0 cursor-pointer overflow-hidden rounded-lg border-2 bg-white transition-colors',
+                      galleryKind === 'insert' && activeImg === idx
+                        ? 'border-[#0F68B2] ring-1 ring-[#0F68B2]/30'
+                        : 'border-black/10 hover:border-[#0F68B2]/40',
+                    )}
+                  >
+                    <Image
+                      src={src}
+                      alt=""
+                      fill
+                      className="object-contain p-1"
+                      sizes="64px"
+                    />
+                  </motion.button>
+                ))}
+              </div>
             </div>
           )}
+
+          {detail.bases.length > 0 ? (
+            <div>
+              <p className="mb-2 text-sm font-medium text-[#575756]">{t('bases')}</p>
+              <div className="grid max-w-md grid-cols-2 gap-2">
+                {detail.bases.map((base, idx) => {
+                  const selected = galleryKind === 'base' && activeBase === idx
+                  const label =
+                    localizedProduct.colorLabelsByImage[base.imageSrc] ?? base.sku
+                  return (
+                    <motion.button
+                      key={base.sku}
+                      type="button"
+                      onClick={() => handleBaseSelect(idx)}
+                      aria-pressed={selected}
+                      aria-label={label}
+                      whileHover={{ y: -3, scale: 1.02 }}
+                      whileTap={{ scale: 0.98 }}
+                      className={cn(
+                        'relative aspect-[5/4] cursor-pointer overflow-hidden rounded-xl border-2 bg-white text-left transition-colors',
+                        selected
+                          ? 'border-[#0F68B2] ring-1 ring-[#0F68B2]/30'
+                          : 'border-black/10 hover:border-[#0F68B2]/40',
+                      )}
+                    >
+                      <Image
+                        src={base.imageSrc}
+                        alt=""
+                        fill
+                        className="object-contain p-3 sm:p-4"
+                        sizes="(max-width: 640px) 45vw, 200px"
+                      />
+                      <span
+                        className="absolute right-2.5 top-2.5 h-4 w-4 rounded-full border border-black/15 shadow-sm"
+                        style={{ backgroundColor: base.swatchHex }}
+                        aria-hidden
+                      />
+                      <span className="absolute bottom-2 left-2.5 text-xs font-medium lowercase tracking-wide text-[#575756]/80">
+                        {label.toLowerCase()}
+                      </span>
+                    </motion.button>
+                  )
+                })}
+              </div>
+            </div>
+          ) : null}
         </div>
 
         {/* Right: Info */}
@@ -389,6 +466,15 @@ function resolveColorScentLabel(
 
   const sku = variant?.sku || skuFromImageSrc(imageSrc)
   if (!sku) return null
+
+  if (sku.toUpperCase().startsWith('FDB-')) {
+    const finish = sku.toUpperCase().endsWith('-02') ? 'black' : 'white'
+    try {
+      return tProducts(`freshDrop.bases.${finish}`).toLowerCase()
+    } catch {
+      return null
+    }
+  }
 
   const mid = sku.split('-').slice(1).join('-').toUpperCase()
   const labelKey = SKU_MID_TO_LABEL_KEY[mid]

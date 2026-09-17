@@ -50,25 +50,60 @@ export function buildUrinalLineColors(
   })
 }
 
+export function isBaseColor(color: ProductColor): boolean {
+  return color.group === 'base'
+}
+
+export function getProductInsertColors(product: Product): ProductColor[] {
+  return product.colors.filter((c) => !isBaseColor(c))
+}
+
+export function getProductBaseColors(product: Product): ProductColor[] {
+  return product.colors.filter(isBaseColor)
+}
+
+export function buildFreshDropBaseColors(folder: UrinalFolder): ProductColor[] {
+  return [
+    {
+      id: 'fdb-01',
+      sku: 'FDB-01',
+      group: 'base',
+      labelKey: 'products.freshDrop.bases.white',
+      swatchHex: '#F4F6F8',
+      imageSrc: publicPath(...folder, 'PhotoStock', 'FDB-01-V0.png'),
+    },
+    {
+      id: 'fdb-02',
+      sku: 'FDB-02',
+      group: 'base',
+      labelKey: 'products.freshDrop.bases.black',
+      swatchHex: '#212121',
+      imageSrc: publicPath(...folder, 'PhotoStock', 'FDB-02-V0.png'),
+    },
+  ]
+}
+
 /** Main image + product-type thumbnails: prefer “blue / fresh” (3B) or puck blue (XPU-02B). */
 export function getConfiguratorThumbnailSrc(product: Product): string {
-  const blue = product.colors.find((c) => {
+  const inserts = getProductInsertColors(product)
+  const blue = inserts.find((c) => {
     const s = c.sku?.toUpperCase() ?? ''
     return s.includes('3B') || s.includes('02B')
   })
-  return blue?.imageSrc ?? product.colors[0]?.imageSrc ?? product.heroImageSrc
+  return blue?.imageSrc ?? inserts[0]?.imageSrc ?? product.heroImageSrc
 }
 
 /** Default selected color in the rail: blue / fresh when available. */
 export function getDefaultColorId(product: Product): string {
+  const inserts = getProductInsertColors(product)
   if (product.defaultColorId) {
-    const explicit = product.colors.find((c) => c.id === product.defaultColorId)
+    const explicit = inserts.find((c) => c.id === product.defaultColorId)
     if (explicit) return explicit.id
   }
 
-  const blue = product.colors.find((c) => {
+  const blue = inserts.find((c) => {
     const s = c.sku?.toUpperCase() ?? ''
     return s.includes('3B') || s.includes('02B')
   })
-  return blue?.id ?? product.colors[0]?.id ?? ''
+  return blue?.id ?? inserts[0]?.id ?? ''
 }

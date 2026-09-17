@@ -4,6 +4,7 @@ import type { Metadata } from 'next'
 import { routing } from '@/i18n/routing'
 import { getProductDetailBySlug, getAllProductSlugs } from '@/lib/csv-products'
 import { getProductBySlug } from '@/lib/products'
+import { ProductDetailBoundary } from '@/components/error-boundaries/product-detail-boundary'
 import { HOME_OG_IMAGE, pageSeo } from '@/lib/seo'
 import { ProductDetailView } from './product-detail-view'
 
@@ -64,6 +65,7 @@ export default async function ProductDetailPage({
   if (!product) notFound()
 
   const t = await getTranslations({ locale })
+  const tDetail = await getTranslations({ locale, namespace: 'productDetail' })
 
   const localizedProduct = {
     name: t(product.nameKey),
@@ -77,10 +79,12 @@ export default async function ProductDetailPage({
   }
 
   return (
-    <ProductDetailView
-      detail={detail}
-      localizedProduct={localizedProduct}
-      slug={slug}
-    />
+    <ProductDetailBoundary fallbackMessage={tDetail('boundaryError')}>
+      <ProductDetailView
+        detail={detail}
+        localizedProduct={localizedProduct}
+        slug={slug}
+      />
+    </ProductDetailBoundary>
   )
 }
