@@ -1,11 +1,11 @@
 {
   "Metadata": {
     "title": "ëkcos — Solutions sanitaires premium",
-    "description": "ëkcos conçoit des solutions premium pour sanitaires avec compatibilité Eco-One™ et marque personnalisée pour les sites professionnels.",
+    "description": "Nos grilles urinoir et nos désodorisants sont fabriqués avec de l’EVA recyclé. Le matériau lui-même peut être recyclé, mais pas une grille urinoir usagée, car elle est contaminée biologiquement. Elle finit en décharge ou à l’incinération : c’est pourquoi nous ajoutons l’additif Eco-One™ à tous nos produits.",
     "productsTitle": "Produits",
     "productsDescription": "Découvrez les produits ëkcos : modèles, finitions et options — puis rendez-vous sur la boutique officielle.",
     "ecoOneTitle": "Eco-One™",
-    "ecoOneDescription": "Le plastique qui retourne à la nature. Même produit, même performance, une fraction de l’empreinte — avec l’additif biodégradable Eco-One™.",
+    "ecoOneDescription": "Nos grilles urinoir et nos désodorisants sont fabriqués avec de l’EVA recyclé. Le matériau lui-même peut être recyclé, mais pas une grille urinoir usagée, car elle est contaminée biologiquement. Elle finit en décharge ou à l’incinération : c’est pourquoi nous ajoutons l’additif Eco-One™ à tous nos produits.",
     "brandingTitle": "Marque personnalisée",
     "brandingDescription": "Marque propre, découpes et impression pour programmes B2B.",
     "articlesTitle": "Articles",
@@ -55,7 +55,7 @@
     }
   },
   "footer": {
-    "tagline": "Grilles d'urinoir et accessoires écologiques — hygiène sans compromis, coûts de nettoyage réduits, distributeur officiel UE.",
+    "tagline": "ëkcos innovations propose des solutions d’hygiène qui gardent les sanitaires propres et frais, facilitent l’entretien et utilisent des matériaux recyclés et biodégradables.",
     "explore": "Explorer",
     "newsletterTitle": "Newsletter",
     "newsletterHint": "Actualités produits et programmes. Désinscription à tout moment.",
@@ -119,15 +119,15 @@
     },
     "hero": {
       "title": "Plus vert à chaque chasse",
-      "tagline": "Jusqu'à 99 % biodégradable",
-      "body": "Produits sanitaires écologiques en plastique EVA recyclé avec additif Eco-One™ — mieux pour la planète, plus sûrs pour vos sanitaires.",
+      "tagline": "Biodégradable en décharge avec Eco-One™",
+      "body": "Nos grilles urinoir et nos désodorisants sont fabriqués avec de l’EVA recyclé. Le matériau lui-même peut être recyclé, mais pas une grille urinoir usagée, car elle est contaminée biologiquement.",
       "ctaProducts": "Découvrir les produits",
       "brandMark": "ekcos.eu"
     },
     "benefits": {
       "eco": {
-        "title": "Écologique et biodégradable",
-        "body": "Fabriqué en plastique EVA recyclé et jusqu'à 99 % biodégradable avec Eco-One™."
+        "title": "EVA recyclé avec Eco-One™",
+        "body": "Des produits biodégradables fabriqués avec de l’EVA recyclé"
       },
       "hygiene": {
         "title": "Hygiène sans compromis",
@@ -197,9 +197,9 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "Le plastique qui retourne à la nature",
-      "tagline": "Même produit. Même performance. Une fraction de l’empreinte.",
-      "body": "Les écrans d’urinoir ne peuvent pas être recyclés : au contact permanent de l’urine, ils deviennent biologiquement contaminés. Les seules voies d’élimination sont donc l’incinération ou la mise en décharge. En décharge, le plastique conventionnel demeure pendant des siècles. Nos produits sont fabriqués avec l’additif Eco-One™, qui permet au matériau de se biodégrader."
+      "title": "Eco-One™ pour la biodégradation en décharge",
+      "tagline": "Même produit. Mêmes performances. Avec EVA recyclé et Eco-One™.",
+      "body": "Nos grilles urinoir et nos désodorisants sont fabriqués avec de l’EVA recyclé. Le matériau lui-même peut être recyclé, mais pas une grille urinoir usagée, car elle est contaminée biologiquement. Elle finit en décharge ou à l’incinération : c’est pourquoi nous ajoutons l’additif Eco-One™ à tous nos produits. Lors d’un test indépendant selon les normes ASTM D5511 et ISO 15985, mené à l’Instituto Politécnico Nacional de Mexico, l’EVA ëkcos avec Eco-One™ a atteint 93 % de biodégradation en 3,5 ans, contre 0 % pour le même matériau sans l’additif. Une biodégradation allant jusqu’à 99 % est prévue en 5 ans. Nos boîtes sont en carton 100 % recyclé."
     },
     "metrics": {
       "additive": {
@@ -269,8 +269,8 @@
       }
     },
     "closing": {
-      "title": "Produits biodégradables ëkcos",
-      "body": "Nos produits pour sanitaires sont fabriqués avec l’additif Eco-One™ et sont biodégradables jusqu’à 99 %, avec des performances identiques à celles des produits sans additif — et qui les surpassent souvent.",
+      "title": "Produits ëkcos avec Eco-One™",
+      "body": "Nos produits pour sanitaires sont fabriqués avec l’additif Eco-One™. Lors d’un essai laboratoire indépendant, l’EVA ëkcos avec Eco-One™ a atteint 93 % de biodégradation en 3,5 ans, et jusqu’à 99 % sont projetés sous 5 ans en décharge — avec les mêmes performances que sans additif.",
       "shopCta": "Shop"
     },
     "footnote": "Source des données : test de biodégradation indépendant selon ASTM D5511-02 et ISO 15985:2014 (Instituto Politécnico Nacional, Mexico) — produit ëkcos avec 1 % d’additif Eco-One™ : 93,31 % de biodégradation sur 1 288 jours (≈3,5 ans) ; le même produit sans additif : 0 %. La biodégradation au-delà de la période de test (jusqu’à 99 % en ~5 ans) est projetée à partir de la tendance mesurée. Les chiffres de persistance des plastiques conventionnels (≈300–1 000 ans) sont des estimations industrielles largement citées. L’additif Eco-One™ est fabriqué et certifié par EcoLogic, LLC."
@@ -399,46 +399,50 @@
       "citrus": "Citrus"
     },
     "variantLabels": {
-      "x1p": "Violet / Baie",
-      "x2g": "Vert clair / Pomme",
-      "x3b": "Bleu / Frais",
-      "x4o": "Orange / Fruit tropical",
-      "x6c": "Transparent / Fruit tropical",
-      "x7bk": "Noir / Menthe",
-      "x8bm": "Flamme / Mangue",
-      "x9g": "Vert foncé / Pin",
-      "x10r": "Rouge / Melon",
-      "x12p": "Violet foncé / Lavande",
-      "x13c": "Jaune / Agrumes"
+      "x1p": "violet / fruits rouges",
+      "x2g": "vert / pomme",
+      "x3b": "bleu / fresh",
+      "x4o": "orange / fruits tropicaux",
+      "x6c": "transparent / fruits tropicaux",
+      "x7bk": "noir / menthe",
+      "x8bm": "flamme / mangue",
+      "x9g": "vert / pin",
+      "x10r": "rouge / melon",
+      "x12p": "violet / lavande",
+      "x13c": "jaune / agrumes"
     },
     "xcrenHd": {
       "name": "xcrën HD",
       "imageAlt": "Écran d'urinoir xcrën HD bleu en forme de X avec poils anti-éclaboussures, vu de dessus sur fond noir",
-      "category": "Grille urinoir premium",
-      "badge": "Xtreme anti-splash urinal screen",
-      "short": "Grille urinoir haut de gamme conçue pour une diffusion de parfum régulière et un aspect soigné.",
-      "long": "xcrën HD allie un design industriel raffiné à des performances fiables dans les sanitaires à fort trafic. Associez-la à Eco-One™ pour des options de fin de vie alignées sur vos objectifs de durabilité.",
+      "category": "grille urinoir design à protection anti-éclaboussures xtreme",
+      "badge": "grille urinoir design à protection anti-éclaboussures xtreme",
+      "short": "xcrën HD 60+ est une grille urinoir parfumée à la forme brevetée qui se démarque dans l’urinoir. Contrairement aux grilles ovales habituelles, elle fait de l’urinoir un élément de design. Ses picots brevetés (Sealed Bristles Technology™) couvrent 92 % de la grille et réduisent au minimum les éclaboussures d’urine et les mauvaises odeurs. Fabriquée dans un matériau exclusif imprégné d’un parfum désodorisant, elle diffuse son parfum progressivement pendant 60+ jours. Dans les toilettes peu fréquentées, elle dure encore plus longtemps.",
+      "long": "xcrën HD 60+ est une grille urinoir parfumée à la forme brevetée qui se démarque dans l’urinoir. Contrairement aux grilles ovales habituelles, elle fait de l’urinoir un élément de design. Ses picots brevetés (Sealed Bristles Technology™) couvrent 92 % de la grille et réduisent au minimum les éclaboussures d’urine et les mauvaises odeurs. Fabriquée dans un matériau exclusif imprégné d’un parfum désodorisant, elle diffuse son parfum progressivement pendant 60+ jours. Dans les toilettes peu fréquentées, elle dure encore plus longtemps.\n\nConçue pour les toilettes très fréquentées des restaurants, bars, aéroports et centres commerciaux, xcrën HD 60+ allie hygiène et style pour des toilettes qui se démarquent.\n\nxcrën HD 60+ est fabriquée avec de l’EVA recyclé. Le matériau lui-même peut être recyclé, mais pas une grille urinoir usagée, car elle est contaminée biologiquement. Elle finit en décharge ou à l’incinération : c’est pourquoi xcrën HD 60+ contient l’additif Eco-One™. Lors d’un test indépendant en laboratoire, l’EVA ëkcos avec Eco-One™ a atteint 93 % de biodégradation en 3,5 ans, et jusqu’à 99 % sont prévus en 5 ans.\n\nxcrën HD 60+ allie une forte protection anti-éclaboussures, 60+ jours de parfum et un design breveté qui se démarque dans toutes les toilettes.",
       "benefits": {
-        "0": "Système de poils breveté couvrant 95 % de la surface pour limiter les éclaboussures",
-        "1": "Parfum intégré au matériau et libéré progressivement pendant 60+ jours",
-        "2": "Jusqu’à deux fois la longévité et l’intensité de parfum des écrans standards",
-        "3": "Conçu pour les sanitaires à fort trafic — restaurants, bars, aéroports, centres commerciaux",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Conforme aux normes VOC européennes et non toxique pour les sources d’eau",
-        "6": "Adapté aux urinoirs sans eau ; marquage privé disponible"
+        "0": "Forme brevetée qui se démarque des grilles ovales classiques",
+        "1": "Picots anti-éclaboussures brevetés couvrant 92 % de la surface de la grille, pour aider à protéger les utilisateurs des éclaboussures indésirables et garder les abords plus propres",
+        "2": "Matériau exclusif imprégné d’un parfum désodorisant qui se diffuse progressivement pendant 60+ jours",
+        "3": "Parfum qui dure deux fois plus longtemps que les grilles standard de 30 jours",
+        "4": "Spécialement conçue pour les toilettes très fréquentées : restaurants, bars, aéroports, centres commerciaux, etc.",
+        "5": "Contient de l’EVA recyclé, biodégradable en décharge avec Eco-One™",
+        "6": "Conditionnement en boîtes de carton 100 % recyclé",
+        "7": "Parfaite pour les urinoirs sans eau",
+        "8": "Dimensions : 17 x 18 x 2,1 cm",
+        "9": "Large choix de couleurs et de parfums agréables",
+        "10": "Personnalisation avec votre logo, découpé dans le matériau ou imprimé"
       },
       "variants": {
-        "xhd1p": "Violet / Baie",
-        "xhd2g": "Vert clair / Pomme",
-        "xhd3b": "Bleu / Frais",
-        "xhd4o": "Orange / Fruit tropical",
-        "xhd6c": "Transparent / Fruit tropical",
-        "xhd7bk": "Noir / Menthe",
-        "xhd8bm": "Flamme / Mangue",
-        "xhd9g": "Vert foncé / Pin",
-        "xhd10r": "Rouge / Melon",
-        "xhd12p": "Violet foncé / Lavande",
-        "xhd13c": "Jaune / Agrumes"
+        "xhd1p": "violet / fruits rouges",
+        "xhd2g": "vert / pomme",
+        "xhd3b": "bleu / fresh",
+        "xhd4o": "orange / fruits tropicaux",
+        "xhd6c": "transparent / fruits tropicaux",
+        "xhd7bk": "noir / menthe",
+        "xhd8bm": "flamme / mangue",
+        "xhd9g": "vert / pin",
+        "xhd10r": "rouge / melon",
+        "xhd12p": "violet / lavande",
+        "xhd13c": "jaune / agrumes"
       },
       "useCases": {
         "0": "Bureaux d’entreprise",
@@ -448,17 +452,22 @@
     "ekcoscreen": {
       "name": "ëkcoscreen",
       "imageAlt": "Écran d'urinoir ëkcoscreen bleu en forme de bouclier avec poils anti-éclaboussures, vu de dessus sur fond noir",
-      "category": "Grille urinoir",
-      "short": "Efficacité équilibrée pour les sanitaires commerciaux du quotidien, avec un contrôle des odeurs fiable.",
-      "long": "ëkcoscreen offre un équilibre pratique entre coût et efficacité pour les établissements qui ont besoin d’un soutien hygiène fiable sans compromis sur la présentation.",
+      "category": "grille urinoir lourde anti-éclaboussures, tenue du parfum doublée",
+      "short": "ëkcoscreen 60+ est une grille urinoir parfumée dotée de picots brevetés (Sealed Bristles Technology™) qui couvrent 95 % de la grille. Elle réduit au minimum les éclaboussures d’urine et les mauvaises odeurs, pour des toilettes plus propres et plus agréables. Fabriquée dans un matériau exclusif imprégné d’un parfum désodorisant, elle diffuse son parfum progressivement pendant 60+ jours, soit deux fois plus longtemps que les grilles standard de 30 jours. Dans les toilettes peu fréquentées, elle dure encore plus longtemps.",
+      "long": "ëkcoscreen 60+ est une grille urinoir parfumée dotée de picots brevetés (Sealed Bristles Technology™) qui couvrent 95 % de la grille. Elle réduit au minimum les éclaboussures d’urine et les mauvaises odeurs, pour des toilettes plus propres et plus agréables. Fabriquée dans un matériau exclusif imprégné d’un parfum désodorisant, elle diffuse son parfum progressivement pendant 60+ jours, soit deux fois plus longtemps que les grilles standard de 30 jours. Dans les toilettes peu fréquentées, elle dure encore plus longtemps.\n\nConçue pour les toilettes très fréquentées des restaurants, bars, aéroports, centres commerciaux et autres établissements soucieux d’hygiène, ëkcoscreen 60+ améliore la propreté et le contrôle des odeurs.\n\nëkcoscreen 60+ est fabriquée avec de l’EVA recyclé. Le matériau lui-même peut être recyclé, mais pas une grille urinoir usagée, car elle est contaminée biologiquement. Elle finit en décharge ou à l’incinération : c’est pourquoi ëkcoscreen 60+ contient l’additif Eco-One™. Lors d’un test indépendant en laboratoire, l’EVA ëkcos avec Eco-One™ a atteint 93 % de biodégradation en 3,5 ans, et jusqu’à 99 % sont prévus en 5 ans.\n\nëkcoscreen 60+ allie une protection efficace contre les éclaboussures, 60+ jours de parfum et de l’EVA recyclé et biodégradable, pour les toilettes très fréquentées.",
       "benefits": {
-        "0": "Poils anti-éclaboussures brevetés pour des sols plus propres et moins de diffusion bactérienne",
-        "1": "Libération progressive du parfum pendant 60+ jours",
-        "2": "Contrôle d’odeurs fiable pour les sanitaires commerciaux du quotidien",
-        "3": "Contrôle visuel simple pour les équipes de maintenance",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Conforme aux normes VOC européennes",
-        "6": "Large choix de couleurs et de parfums ; marquage privé disponible"
+        "0": "Picots anti-éclaboussures brevetés couvrant 95 % de la surface de la grille, pour aider à protéger les utilisateurs des éclaboussures indésirables et garder les abords plus propres",
+        "1": "Aucune éclaboussure visible hors de la grille lors d’un test comparatif d’éclaboussures sous UV, dans des conditions identiques",
+        "2": "Matériau exclusif imprégné d’un parfum désodorisant qui se diffuse progressivement pendant 60+ jours",
+        "3": "Parfum qui dure deux fois plus longtemps que les grilles de 30 jours, à coût par jour similaire",
+        "4": "141 g de matériau parfumé par grille, soit plus de trois fois une grille classique",
+        "5": "Spécialement conçue pour les toilettes très fréquentées : restaurants, bars, aéroports, centres commerciaux, etc.",
+        "6": "Contient de l’EVA recyclé, biodégradable en décharge avec Eco-One™",
+        "7": "Conditionnement en boîtes de carton 100 % recyclé",
+        "8": "Idéale pour les urinoirs sans eau",
+        "9": "Dimensions : 20 x 21 x 2,2 cm",
+        "10": "Design unique, large choix de couleurs et de parfums agréables",
+        "11": "Personnalisation avec votre logo, découpé dans le matériau ou imprimé"
       },
       "useCases": {
         "0": "Commerce de détail",
@@ -468,17 +477,21 @@
     "powerscreen": {
       "name": "powër screen",
       "imageAlt": "Écran d'urinoir powër screen bleu circulaire avec centre en étoile et poils anti-éclaboussures, vu de dessus sur fond noir",
-      "category": "Grille urinoir haute efficacité",
-      "short": "Conçue pour les environnements exigeants où efficacité et présentation comptent.",
-      "long": "powër screen est calibrée pour les sites à fort débit et aide à maintenir une expérience sanitaire premium grâce à une diffusion de parfum structurée.",
+      "category": "grille urinoir anti-éclaboussures puissante, à changement mensuel",
+      "short": "powër screen est une grille urinoir parfumée dotée d’un système de picots breveté (Sealed Bristles Technology™). Elle réduit au minimum les éclaboussures d’urine et les mauvaises odeurs, pour des toilettes plus propres et plus agréables. Fabriquée dans un matériau exclusif imprégné d’un parfum désodorisant, elle diffuse son parfum progressivement jusqu’à 30 jours, ce qui la rend idéale pour l’entretien mensuel des urinoirs.",
+      "long": "powër screen est une grille urinoir parfumée dotée d’un système de picots breveté (Sealed Bristles Technology™). Elle réduit au minimum les éclaboussures d’urine et les mauvaises odeurs, pour des toilettes plus propres et plus agréables. Fabriquée dans un matériau exclusif imprégné d’un parfum désodorisant, elle diffuse son parfum progressivement jusqu’à 30 jours, ce qui la rend idéale pour l’entretien mensuel des urinoirs.\n\npowër screen est fabriquée avec de l’EVA recyclé. Le matériau lui-même peut être recyclé, mais pas une grille urinoir usagée, car elle est contaminée biologiquement. Elle finit en décharge ou à l’incinération : c’est pourquoi powër screen contient l’additif Eco-One™. Lors d’un test indépendant en laboratoire, l’EVA ëkcos avec Eco-One™ a atteint 93 % de biodégradation en 3,5 ans, et jusqu’à 99 % sont prévus en 5 ans.\n\npowër screen allie une protection efficace contre les éclaboussures, jusqu’à 30 jours de parfum et de l’EVA recyclé et biodégradable, pour l’entretien mensuel des toilettes.",
       "benefits": {
-        "0": "Conception anti-éclaboussures pour un contrôle efficace des projections",
-        "1": "Performance olfactive adaptée à des intervalles d’entretien jusqu’à 30 jours",
-        "2": "Conçu pour les sites à fort trafic et les environnements exigeants",
-        "3": "Présentation soignée pour les sanitaires premium",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Conforme aux normes VOC européennes",
-        "6": "Disponible en plusieurs couleurs et parfums"
+        "0": "Picots anti-éclaboussures brevetés pour aider à protéger les utilisateurs des éclaboussures indésirables et garder les abords plus propres",
+        "1": "Matériau exclusif imprégné d’un parfum désodorisant qui se diffuse progressivement jusqu’à 30 jours",
+        "2": "Idéale pour l’entretien mensuel des urinoirs",
+        "3": "Contient de l’EVA recyclé, biodégradable en décharge avec Eco-One™",
+        "4": "Conditionnement en boîtes de carton 100 % recyclé",
+        "5": "Adaptée aux urinoirs sans eau",
+        "6": "Forme souple qui s’adapte à presque tous les types d’urinoirs",
+        "7": "Un design qui valorise toutes les toilettes",
+        "8": "Dimensions : 18 x 20 x 1,8 cm",
+        "9": "Design unique, large choix de couleurs et de parfums agréables",
+        "10": "Personnalisation avec votre logo, découpé dans le matériau ou imprimé"
       },
       "useCases": {
         "0": "Stades",
@@ -488,17 +501,21 @@
     "basicScreen": {
       "name": "basic scrëen",
       "imageAlt": "Écran d'urinoir basic scrëen bleu en triangle arrondi avec trous d'évacuation, vu de dessus sur fond noir",
-      "category": "Grille urinoir essentielle",
-      "short": "Protection et fraîcheur simples pour les programmes sanitaires standards.",
-      "long": "basic scrëen est le choix pratique pour les programmes qui ont besoin d’un soutien hygiène fiable avec des attentes de service claires.",
+      "category": "grille urinoir biodégradable en décharge, à petit prix",
+      "short": "basic scrëen est une grille urinoir économique qui désodorise les urinoirs et empêche l’accumulation de débris. Fabriquée dans un matériau exclusif imprégné d’un parfum désodorisant, elle diffuse son parfum progressivement jusqu’à 30 jours, ce qui la rend idéale pour l’entretien mensuel des urinoirs.",
+      "long": "basic scrëen est une grille urinoir économique qui désodorise les urinoirs et empêche l’accumulation de débris. Fabriquée dans un matériau exclusif imprégné d’un parfum désodorisant, elle diffuse son parfum progressivement jusqu’à 30 jours, ce qui la rend idéale pour l’entretien mensuel des urinoirs.\n\nbasic scrëen est fabriquée avec de l’EVA recyclé. Le matériau lui-même peut être recyclé, mais pas une grille urinoir usagée, car elle est contaminée biologiquement. Elle finit en décharge ou à l’incinération : c’est pourquoi basic scrëen contient l’additif Eco-One™. Lors d’un test indépendant en laboratoire, l’EVA ëkcos avec Eco-One™ a atteint 93 % de biodégradation en 3,5 ans, et jusqu’à 99 % sont prévus en 5 ans.\n\nbasic scrëen allie un contrôle fiable des odeurs, une protection contre les débris et de l’EVA recyclé et biodégradable, à moindre coût.",
       "benefits": {
-        "0": "Protection anti-éclaboussures simple pour les programmes d’urinoirs standards",
-        "1": "Parfum adapté aux cycles d’entretien mensuels",
-        "2": "Déploiement facile sur de grands sites et multi-sites",
-        "3": "Cadence de remplacement prévisible pour les équipes facility",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Conforme aux normes VOC européennes",
-        "6": "Option économique avec une gamme claire de couleurs et de parfums"
+        "0": "Matériau exclusif imprégné d’un parfum désodorisant qui se diffuse progressivement",
+        "1": "Diffusion du parfum jusqu’à 30 jours",
+        "2": "Idéale pour l’entretien mensuel des urinoirs",
+        "3": "Adaptée aux urinoirs sans eau",
+        "4": "Forme souple qui s’adapte à presque tous les types d’urinoirs",
+        "5": "Dimensions : 20 x 19 cm",
+        "6": "Design unique, large choix de couleurs et de parfums agréables",
+        "7": "Solution à petit prix pour l’hygiène mensuelle des urinoirs",
+        "8": "Contient de l’EVA recyclé, biodégradable en décharge avec Eco-One™",
+        "9": "Expédition dans des cartons 100 % recyclés",
+        "10": "Personnalisation avec votre logo, découpé dans le matériau ou imprimé"
       },
       "useCases": {
         "0": "Écoles",
@@ -508,17 +525,21 @@
     "urolite": {
       "name": "üro lite",
       "imageAlt": "Écran d'urinoir compact üro lite bleu en forme de bouclier avec poils anti-éclaboussures, vu de dessus sur fond noir",
-      "category": "Grille urinoir compacte",
-      "short": "Format compact avec options de finition flexibles pour les équipements modernes.",
-      "long": "üro lite s’adapte aux géométries d’urinoir compactes tout en conservant les codes qualité ëkcos et une manipulation pratique en service.",
+      "category": "petite grille urinoir, grande protection anti-éclaboussures",
+      "short": "üro lite est une grille urinoir parfumée et souple, conçue pour les petits urinoirs. Elle utilise le même système breveté Sealed Bristles Technology™ que la grille ëkcoscreen 60+ et, au lieu d’un diamètre plus grand, mise sur de longs picots qui offrent une grande protection anti-éclaboussures dans une petite grille. Elle réduit au minimum les éclaboussures d’urine et les mauvaises odeurs. Fabriquée dans un matériau exclusif imprégné d’un parfum désodorisant, elle diffuse son parfum progressivement jusqu’à 30 jours, ce qui la rend idéale pour l’entretien mensuel des urinoirs.",
+      "long": "üro lite est une grille urinoir parfumée et souple, conçue pour les petits urinoirs. Elle utilise le même système breveté Sealed Bristles Technology™ que la grille ëkcoscreen 60+ et, au lieu d’un diamètre plus grand, mise sur de longs picots qui offrent une grande protection anti-éclaboussures dans une petite grille. Elle réduit au minimum les éclaboussures d’urine et les mauvaises odeurs. Fabriquée dans un matériau exclusif imprégné d’un parfum désodorisant, elle diffuse son parfum progressivement jusqu’à 30 jours, ce qui la rend idéale pour l’entretien mensuel des urinoirs.\n\nüro lite est fabriquée avec de l’EVA recyclé. Le matériau lui-même peut être recyclé, mais pas une grille urinoir usagée, car elle est contaminée biologiquement. Elle finit en décharge ou à l’incinération : c’est pourquoi üro lite contient l’additif Eco-One™. Lors d’un test indépendant en laboratoire, l’EVA ëkcos avec Eco-One™ a atteint 93 % de biodégradation en 3,5 ans, et jusqu’à 99 % sont prévus en 5 ans.\n\nüro lite offre aux petits urinoirs une grande protection anti-éclaboussures grâce à ses longs picots brevetés uniques, dans une grille compacte et économique fabriquée avec de l’EVA recyclé et biodégradable.",
       "benefits": {
-        "0": "Géométrie compacte pour les cuvettes modernes et plus petites",
-        "1": "Performance anti-éclaboussures dans un format d’écran plus léger",
-        "2": "Libération de parfum adaptée à des intervalles jusqu’à 30 jours",
-        "3": "Plusieurs finitions et parfums",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Conforme aux normes VOC européennes",
-        "6": "Manipulation simple pour l’hôtellerie boutique et les bureaux premium"
+        "0": "Longs picots brevetés uniques qui aident à protéger les utilisateurs des éclaboussures et gardent les abords plus propres",
+        "1": "Même système breveté Sealed Bristles Technology™ que la grille ëkcoscreen 60+",
+        "2": "Matériau exclusif imprégné d’un parfum désodorisant qui se diffuse progressivement jusqu’à 30 jours",
+        "3": "Format compact spécialement conçu pour les petits urinoirs",
+        "4": "Idéale pour l’entretien mensuel des urinoirs",
+        "5": "Adaptée aux urinoirs sans eau",
+        "6": "Contient de l’EVA recyclé, biodégradable en décharge avec Eco-One™",
+        "7": "Conditionnement en boîtes de carton 100 % recyclé",
+        "8": "Dimensions : 13 x 13 x 1,8 cm",
+        "9": "Design unique, large choix de couleurs et de parfums agréables",
+        "10": "Personnalisation avec votre logo, découpé dans le matériau ou imprimé"
       },
       "useCases": {
         "0": "Hôtellerie boutique",
@@ -528,17 +549,21 @@
     "ekcoClip": {
       "name": "ëkco clip",
       "imageAlt": "Désodorisant ëkco clip bleu en forme de nœud papillon avec rainures anti-éclaboussures, vu de dessus sur fond noir",
-      "category": "Accessoire à clip",
-      "short": "Accessoire de fixation sécurisé pour une pose stable et des lignes nettes.",
-      "long": "ëkco clip aide à maintenir un positionnement constant lorsque un accessoire type clip fait partie de votre programme.",
+      "category": "clip WC fraîcheur qui s’adapte à presque toutes les cuvettes",
+      "short": "ëkco clip est un clip désodorisant pour cuvette de WC qui assure un contrôle continu des odeurs et garde les cabines WC fraîches. Fabriqué dans un matériau exclusif imprégné d’un parfum désodorisant, il diffuse son parfum progressivement jusqu’à 30 jours. Sa forme souple s’adapte à la plupart des types de cuvettes : il se fixe facilement et diffuse bien le parfum.",
+      "long": "ëkco clip est un clip désodorisant pour cuvette de WC qui assure un contrôle continu des odeurs et garde les cabines WC fraîches. Fabriqué dans un matériau exclusif imprégné d’un parfum désodorisant, il diffuse son parfum progressivement jusqu’à 30 jours. Sa forme souple s’adapte à la plupart des types de cuvettes : il se fixe facilement et diffuse bien le parfum.\n\nëkco clip est fabriqué avec de l’EVA recyclé. Le matériau lui-même peut être recyclé, mais pas un clip WC usagé, car il est contaminé biologiquement. Il finit en décharge ou à l’incinération : c’est pourquoi ëkco clip contient l’additif Eco-One™. Lors d’un test indépendant en laboratoire, l’EVA ëkcos avec Eco-One™ a atteint 93 % de biodégradation en 3,5 ans, et jusqu’à 99 % sont prévus en 5 ans.\n\nëkco clip allie un contrôle continu des odeurs jusqu’à 30 jours, une fixation facile sur la plupart des cuvettes et de l’EVA recyclé et biodégradable.",
       "benefits": {
-        "0": "Désodorisant pour cuvette WC avec clip sécurisé",
-        "1": "Libération passive du parfum — sans aérosols ni huiles chauffées",
-        "2": "Maintien stable au quotidien",
-        "3": "Intégration visuelle propre aux équipements modernes",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Conforme aux normes VOC européennes",
-        "6": "Disponible en plusieurs couleurs et parfums"
+        "0": "Matériau exclusif imprégné d’un parfum désodorisant qui se diffuse progressivement",
+        "1": "Protection efficace contre les odeurs",
+        "2": "Design unique pour une diffusion optimale du parfum",
+        "3": "Diffusion du parfum jusqu’à 30 jours",
+        "4": "Forme souple qui s’adapte à presque tous les types de cuvettes",
+        "5": "Dimensions : 10 x 5 x 4,5 cm",
+        "6": "Large choix de couleurs et de parfums agréables",
+        "7": "Parfumage économique des toilettes",
+        "8": "Contient de l’EVA recyclé, biodégradable en décharge avec Eco-One™",
+        "9": "Conditionnement en boîtes de carton 100 % recyclé",
+        "10": "Personnalisation avec votre logo, découpé dans le matériau ou imprimé"
       },
       "useCases": {
         "0": "Rénovations d’installations",
@@ -548,45 +573,50 @@
     "freshDrop": {
       "name": "frësh drop",
       "imageAlt": "Désodorisant frësh drop bleu et blanc en goutte avec poils anti-éclaboussures, vu de dessus sur fond noir",
-      "category": "Système de fraîcheur",
-      "short": "Apport de fraîcheur ciblé avec des directions olfactives sélectionnables.",
-      "long": "frësh drop est conçu pour les programmes qui veulent un storytelling parfum flexible tout en gardant des opérations simples.",
+      "category": "désodorisant WC longue durée, sans piles",
+      "short": "frësh drop est un désodorisant d’intérieur conçu pour les cabines WC et les toilettes. Sa recharge, fabriquée dans un matériau exclusif imprégné d’un parfum désodorisant, diffuse le parfum progressivement, sans piles ni électricité. Dans les cabines fermées peu ou pas ventilées, elle dure 60+ jours ; là où l’air circule davantage, le parfum se disperse plus vite. Son design en forme de goutte d’eau s’accorde avec tous les intérieurs de toilettes, et le ruban adhésif fourni permet une installation facile sur presque toutes les surfaces. Pour les petits espaces, choisissez le compact ëkco loop.",
+      "long": "frësh drop est un désodorisant d’intérieur conçu pour les cabines WC et les toilettes. Sa recharge, fabriquée dans un matériau exclusif imprégné d’un parfum désodorisant, diffuse le parfum progressivement, sans piles ni électricité. Dans les cabines fermées peu ou pas ventilées, elle dure 60+ jours ; là où l’air circule davantage, le parfum se disperse plus vite. Son design en forme de goutte d’eau s’accorde avec tous les intérieurs de toilettes, et le ruban adhésif fourni permet une installation facile sur presque toutes les surfaces. Pour les petits espaces, choisissez le compact ëkco loop.\n\nLa recharge frësh drop est fabriquée avec de l’EVA recyclé, et ce matériau peut être recyclé. La recharge et la base contiennent toutes deux l’additif Eco-One™ : elles sont donc toutes deux biodégradables en décharge. Lors d’un test indépendant en laboratoire, l’EVA ëkcos avec Eco-One™ a atteint 93 % de biodégradation en 3,5 ans, et jusqu’à 99 % sont prévus en 5 ans.\n\nfrësh drop allie 60+ jours de parfum, une installation facile et une recharge en EVA recyclé et biodégradable, pour les cabines WC et les toilettes.",
       "benefits": {
-        "0": "Désodorisant passif multi-usage à libération contrôlée",
-        "1": "Sans goutte-à-goutte, piles ni spray aérosol",
-        "2": "Parfums sélectionnables selon les espaces",
-        "3": "Adapté aux sanitaires, halls, vestiaires et plus",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Conforme aux normes VOC européennes",
-        "6": "Simple à placer et à remplacer en programme professionnel"
+        "0": "Matériau exclusif imprégné d’un parfum désodorisant qui se diffuse progressivement",
+        "1": "Solution idéale pour garder des toilettes fraîches et propres, spécialement conçue pour les cabines WC",
+        "2": "Diffusion du parfum pendant 60+ jours dans les cabines fermées, sans piles ni électricité",
+        "3": "Design en goutte d’eau qui s’accorde avec tous les intérieurs de toilettes",
+        "4": "Installation facile grâce au ruban adhésif fourni",
+        "5": "Dimensions : 23 x 12 x 3,5 cm",
+        "6": "Large choix de couleurs et de parfums agréables",
+        "7": "Recharge fabriquée avec de l’EVA recyclé et recyclable",
+        "8": "Recharge et base biodégradables en décharge avec Eco-One™",
+        "9": "Conditionnement en boîtes de carton 100 % recyclé",
+        "10": "Personnalisation à votre marque possible par impression"
       },
       "useCases": {
         "0": "Hôtellerie",
         "1": "Retail premium"
       },
       "bases": {
-        "white": "Blanc / base",
-        "black": "Noir / base"
+        "white": "blanche",
+        "black": "noire"
       }
     },
     "ezTrap": {
       "name": "ëz trap",
       "imageAlt": "Cartouche blanche ëz trap pour urinoir sans eau avec joint noir, photographiée de biais sur fond noir",
-      "category": "Protection d’évacuation",
-      "short": "Aide à protéger les évacuations et à soutenir les routines d’hygiène.",
-      "long": "ëz trap est conçu pour des workflows de maintenance pratiques et des performances fiables au quotidien.",
+      "category": "cartouche urinoir sans eau anti-odeurs, facile d’entretien",
+      "short": "ëz trap est un système de cartouche innovant conçu pour améliorer l’efficacité, la propreté et le contrôle des odeurs des urinoirs sans eau, tout en réduisant considérablement les coûts d’entretien.",
+      "long": "ëz trap est un système de cartouche innovant conçu pour améliorer l’efficacité, la propreté et le contrôle des odeurs des urinoirs sans eau, tout en réduisant considérablement les coûts d’entretien.\n\nGrâce au système de cartouche breveté ëz trap, l’urine s’écoule naturellement à travers le siphon, et un clapet de fermeture se referme hermétiquement après chaque utilisation. Cela empêche les odeurs de s’échapper et garantit qu’à chaque utilisation, l’urine précédente est évacuée du système, pour des toilettes plus fraîches.\n\nëz trap est fabriqué avec l’additif Eco-One™, qui le rend biodégradable en décharge. Lors d’un test indépendant en laboratoire, le matériau ëkcos avec Eco-One™ a atteint 93 % de biodégradation en 3,5 ans, et jusqu’à 99 % sont prévus en 5 ans.\n\nëz trap offre un moyen efficace, peu exigeant en entretien et économique d’empêcher les odeurs de canalisation de remonter dans les urinoirs sans eau.",
       "variants": {
-        "withTool": "Avec outil de retrait",
-        "withoutTool": "Sans outil de retrait"
+        "withoutTool": "sans outil d’extraction",
+        "withTool": "avec outil d’extraction"
       },
       "benefits": {
-        "0": "Upgrade pour urinoirs sans eau — aide à contrôler les odeurs à l’évacuation",
-        "1": "Construction robuste pour un usage commercial quotidien",
-        "2": "Favorise des routines d’entretien plus propres et simples",
-        "3": "Disponible avec ou sans outil de retrait",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Conforme aux normes VOC européennes",
-        "6": "Complète les écrans d’urinoir ëkcos dans une installation complète"
+        "0": "Bloque les odeurs de canalisation : le siphon et le clapet de fermeture empêchent les mauvaises odeurs de remonter",
+        "1": "Plus besoin de gels coûteux ni de nettoyants spécialisés",
+        "2": "Entretien simple et économique : il suffit de verser un verre d’eau chaque jour pour éviter les dépôts de calcaire",
+        "3": "Longue durée de vie : la cartouche dure de 4 à 6+ mois, et un nettoyage régulier avec un produit anticalcaire (p. ex. un gel WC de qualité) prolonge sa durée de vie",
+        "4": "Large compatibilité : convient aux urinoirs Sloan, Falcon, Vitra, Bobrick et aux autres marques utilisant le système Falcon Velocity (diamètre 11,8 cm, hauteur 11,5 cm)",
+        "5": "Dimensions : Ø 11,8 x 11,5 cm",
+        "6": "Conditionnement en boîtes de carton 100 % recyclé",
+        "7": "Biodégradable en décharge avec l’additif Eco-One™"
       },
       "useCases": {
         "0": "Restauration",
@@ -596,21 +626,25 @@
     "xcrenPuck": {
       "name": "xcrën puck",
       "imageAlt": "Écran d'urinoir xcrën puck bleu en forme de X avec logement de galet au centre, vu de dessus sur fond noir",
-      "category": "Format puck",
-      "short": "Grille urinoir puck NON-PARA pour le contrôle des odeurs et la protection de l'évacuation.",
-      "long": "xcrën est une grille urinoir puck NON-PARA conçue pour un contrôle efficace des odeurs et la protection de l'évacuation. Contrairement aux produits traditionnels à base de PARA, elle est exempte de paradichlorobenzène (PARA), composé classé comme potentiellement cancérigène par l'OMS. Son design en X unique empêche l'obstruction par les solides et assure une fragrance fraîche après chaque utilisation pendant jusqu'à 30 jours.",
+      "category": "grille urinoir en forme de X avec pastille désodorisante",
+      "short": "xcrën puck est une grille urinoir dotée d’une pastille désodorisante NON-PARA, conçue pour un contrôle efficace des odeurs et la protection de l’évacuation. Elle ne contient pas de paradichlorobenzène (PARA), que l’OMS classe comme cancérogène possible. Des pastilles au PARA sont encore utilisées dans certaines grilles urinoir, alors que la réglementation de l’UE restreint le PARA dans les désodorisants pour toilettes. Sa forme en X empêche les solides et les débris d’obstruer l’évacuation, et elle diffuse un parfum propre et frais à chaque utilisation, jusqu’à 30 jours.",
+      "long": "xcrën puck est une grille urinoir dotée d’une pastille désodorisante NON-PARA, conçue pour un contrôle efficace des odeurs et la protection de l’évacuation. Elle ne contient pas de paradichlorobenzène (PARA), que l’OMS classe comme cancérogène possible. Des pastilles au PARA sont encore utilisées dans certaines grilles urinoir, alors que la réglementation de l’UE restreint le PARA dans les désodorisants pour toilettes. Sa forme en X empêche les solides et les débris d’obstruer l’évacuation, et elle diffuse un parfum propre et frais à chaque utilisation, jusqu’à 30 jours.\n\nLa pastille est composée principalement de cire et de glycérine et se dissout à l’usage. xcrën puck est fabriquée avec l’additif Eco-One™, qui la rend biodégradable en décharge. Lors d’un test indépendant en laboratoire, le matériau ëkcos avec Eco-One™ a atteint 93 % de biodégradation en 3,5 ans, et jusqu’à 99 % sont prévus en 5 ans. C’est un produit jetable : la pastille ne peut pas être remplacée par une neuve.\n\nxcrën puck est un moyen simple et efficace de garder les urinoirs frais et les évacuations dégagées jusqu’à 30 jours.",
       "variants": {
-        "whiteFresh": "Blanc / Frais",
-        "blueFresh": "Bleu / Frais"
+        "whiteFresh": "blanc / fresh",
+        "blueFresh": "bleu / fresh"
       },
       "benefits": {
-        "0": "Format puck non-para compact pour une pose flexible dans l’urinoir",
-        "1": "Apporte du parfum là où un écran complet n’est pas adapté",
-        "2": "Empreinte réduite avec une présence de marque claire",
-        "3": "Facile à placer, vérifier et remplacer en tournée de service",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Conforme aux normes VOC européennes",
-        "6": "Disponible en variantes à parfum frais"
+        "0": "Pastille NON-PARA : sans paradichlorobenzène, que l’OMS classe comme cancérogène possible",
+        "1": "Empêche les solides et autres débris d’obstruer l’évacuation",
+        "2": "Diffuse un parfum propre et frais à chaque utilisation, jusqu’à 30 jours",
+        "3": "Idéale pour l’entretien mensuel des urinoirs",
+        "4": "Pastille composée principalement de cire et de glycérine",
+        "5": "Jetable : la pastille ne peut pas être remplacée par une neuve",
+        "6": "Dimensions : 17 x 17 x 2,9 cm",
+        "7": "Conditionnement en boîtes de carton 100 % recyclé",
+        "8": "Biodégradable en décharge avec l’additif Eco-One™",
+        "9": "Un design en X nouveau et unique",
+        "10": "Personnalisation avec votre logo, découpé dans le matériau ou imprimé"
       },
       "useCases": {
         "0": "Sanitaires compacts",
@@ -620,20 +654,19 @@
     "ekcoMat": {
       "name": "ëkco mat",
       "imageAlt": "Tapis de sol absorbant ëkco mat gris foncé pour urinoir, vu de dessus sur fond noir",
-      "category": "Tapis de sol",
-      "short": "Protection de sol au rendu propre et professionnel.",
-      "long": "ëkco mat soutient les zones d’hygiène des établissements avec un focus sur la durabilité et la présentation.",
+      "category": "tapis de sol économique pour urinoir, qui protège vos sols",
+      "short": "ëkco mat est un tapis de sol absorbant pour urinoir, conçu pour améliorer l’hygiène des toilettes et protéger le sol de l’accumulation d’urine. Avec ses dimensions de 54 x 51 x 0,5 cm, il couvre efficacement la zone autour de la plupart des urinoirs standard, évite d’abîmer le sol et réduit le transfert d’urine sous les semelles des utilisateurs. Il contribue ainsi à des toilettes plus propres et plus agréables.",
+      "long": "ëkco mat est un tapis de sol absorbant pour urinoir, conçu pour améliorer l’hygiène des toilettes et protéger le sol de l’accumulation d’urine. Avec ses dimensions de 54 x 51 x 0,5 cm, il couvre efficacement la zone autour de la plupart des urinoirs standard, évite d’abîmer le sol et réduit le transfert d’urine sous les semelles des utilisateurs. Il contribue ainsi à des toilettes plus propres et plus agréables.\n\nëkco mat est une solution jetable et économique, idéale pour les restaurants, hôtels et autres lieux très fréquentés où l’hygiène est une priorité.\n\nëkco mat offre une solution pratique, hygiénique et économique pour garder des toilettes propres et professionnelles.",
       "variants": {
-        "standard": "Standard"
+        "standard": "noir"
       },
       "benefits": {
-        "0": "Tapis de sol d’urinoir qui retient les projections et garde le sol plus propre",
-        "1": "Surface durable pour le trafic commercial quotidien",
-        "2": "Apparence professionnelle pour compléter l’installation",
-        "3": "Facile à positionner sous les urinoirs et à nettoyer",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Conforme aux normes VOC européennes",
-        "6": "S’associe aux écrans ëkcos pour une solution d’hygiène complète"
+        "0": "Protège le sol sous l’urinoir",
+        "1": "Réduit la propagation de l’urine sous les semelles",
+        "2": "Solution d’hygiène économique",
+        "3": "À usage unique",
+        "4": "Personnalisation à votre marque possible",
+        "5": "Dimensions : 54 x 51 x 0,5 cm"
       },
       "useCases": {
         "0": "Entrées",

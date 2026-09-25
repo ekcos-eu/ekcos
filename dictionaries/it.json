@@ -1,11 +1,11 @@
 {
   "Metadata": {
     "title": "ëkcos — Soluzioni sanitarie premium",
-    "description": "ëkcos progetta soluzioni premium per bagni con compatibilità Eco-One™ e branding personalizzato per strutture professionali.",
+    "description": "I nostri tappetini per orinatoio e i nostri deodoranti sono realizzati con EVA riciclato. Il materiale in sé può essere riciclato, ma un tappetino per orinatoio usato no, perché è contaminato biologicamente.",
     "productsTitle": "Prodotti",
     "productsDescription": "Esplora i prodotti ëkcos: modelli, finiture e opzioni — poi visita lo store ufficiale.",
     "ecoOneTitle": "Eco-One™",
-    "ecoOneDescription": "La plastica che torna alla natura. Stesso prodotto, stessa prestazione, una frazione dell’impronta — con l’additivo biodegradabile Eco-One™.",
+    "ecoOneDescription": "I nostri tappetini per orinatoio e i nostri deodoranti sono realizzati con EVA riciclato. Il materiale in sé può essere riciclato, ma un tappetino per orinatoio usato no, perché è contaminato biologicamente.",
     "brandingTitle": "Branding personalizzato",
     "brandingDescription": "Marchio privato, sagome e stampa per programmi B2B.",
     "articlesTitle": "Articoli",
@@ -55,7 +55,7 @@
     }
   },
   "footer": {
-    "tagline": "Schermi per orinatoi e accessori ecologici — igiene senza compromessi, costi di pulizia ridotti, distributore ufficiale UE.",
+    "tagline": "ëkcos innovations offre soluzioni per l’igiene che mantengono i bagni puliti e freschi, semplificano la manutenzione e utilizzano materiali riciclati e biodegradabili.",
     "explore": "Esplora",
     "newsletterTitle": "Newsletter",
     "newsletterHint": "Aggiornamenti su prodotti e programmi. Disiscriviti quando vuoi.",
@@ -119,15 +119,15 @@
     },
     "hero": {
       "title": "Più verde a ogni scarico",
-      "tagline": "Fino al 99% biodegradabile",
-      "body": "Prodotti sanitari ecologici in plastica EVA riciclata con additivo Eco-One™ — meglio per il pianeta, più sicuri per i vostri bagni.",
+      "tagline": "Biodegradabile in discarica con Eco-One™",
+      "body": "I nostri tappetini per orinatoio e i nostri deodoranti sono realizzati con EVA riciclato. Il materiale in sé può essere riciclato, ma un tappetino per orinatoio usato no, perché è contaminato biologicamente.",
       "ctaProducts": "Esplora i prodotti",
       "brandMark": "ekcos.eu"
     },
     "benefits": {
       "eco": {
-        "title": "Ecologico e biodegradabile",
-        "body": "Realizzato in plastica EVA riciclata e fino al 99% biodegradabile con Eco-One™."
+        "title": "EVA riciclato con Eco-One™",
+        "body": "Prodotti biodegradabili realizzati con EVA riciclato"
       },
       "hygiene": {
         "title": "Igiene senza compromessi",
@@ -197,9 +197,9 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "La plastica che torna alla natura",
-      "tagline": "Stesso prodotto. Stessa prestazione. Una frazione dell’impronta.",
-      "body": "Gli schermi per orinatoio non possono essere riciclati: a causa del contatto continuo con l’urina diventano biologicamente contaminati. Le uniche vie di smaltimento sono quindi l’incenerimento o la discarica. In discarica, la plastica convenzionale rimane per secoli. I nostri prodotti sono realizzati con l’additivo Eco-One™, che consente al materiale di biodegradarsi."
+      "title": "Eco-One™ per la biodegradazione in discarica",
+      "tagline": "Stesso prodotto. Stesse prestazioni. Con EVA riciclato e Eco-One™.",
+      "body": "I nostri tappetini per orinatoio e i nostri deodoranti sono realizzati con EVA riciclato. Il materiale in sé può essere riciclato, ma un tappetino per orinatoio usato no, perché è contaminato biologicamente. Finisce in discarica o nell’inceneritore, ed è per questo che aggiungiamo l’additivo Eco-One™ a tutti i nostri prodotti. In un test indipendente secondo ASTM D5511 e ISO 15985 presso l’Instituto Politécnico Nacional di Città del Messico, l’EVA ëkcos con Eco-One™ ha raggiunto il 93% di biodegradazione in 3,5 anni, mentre lo stesso materiale senza additivo ha registrato lo 0%. Si prevede una biodegradazione fino al 99% entro 5 anni. Le nostre scatole sono in cartone riciclato al 100%."
     },
     "metrics": {
       "additive": {
@@ -269,8 +269,8 @@
       }
     },
     "closing": {
-      "title": "Prodotti biodegradabili ëkcos",
-      "body": "I nostri prodotti per i servizi igienici sono realizzati con l’additivo Eco-One™ e sono biodegradabili fino al 99 %, con prestazioni identiche ai prodotti senza di esso — e in molti aspetti le superano.",
+      "title": "Prodotti ëkcos con Eco-One™",
+      "body": "I nostri prodotti per i servizi igienici sono realizzati con l’additivo Eco-One™. In un test di laboratorio indipendente, l’EVA ëkcos con Eco-One™ ha raggiunto il 93 % di biodegradazione in 3,5 anni, e si proietta fino al 99 % entro 5 anni in discarica — con le stesse prestazioni dei prodotti senza additivo.",
       "shopCta": "Shop"
     },
     "footnote": "Fonte dati: test di biodegradazione indipendente secondo ASTM D5511-02 e ISO 15985:2014 (Instituto Politécnico Nacional, Città del Messico) — prodotto ëkcos con 1 % di additivo Eco-One™: 93,31 % di biodegradazione in 1.288 giorni (≈3,5 anni); lo stesso prodotto senza additivo: 0 %. La biodegradazione oltre il periodo di test (fino al 99 % entro ~5 anni) è proiettata dal trend misurato. Le cifre di persistenza delle plastiche convenzionali (≈300–1.000 anni) sono stime di settore ampiamente citate. L’additivo Eco-One™ è prodotto e certificato da EcoLogic, LLC."
@@ -399,46 +399,50 @@
       "citrus": "Citrus"
     },
     "variantLabels": {
-      "x1p": "Viola / Frutti di bosco",
-      "x2g": "Verde chiaro / Mela",
-      "x3b": "Blu / Fresco",
-      "x4o": "Arancione / Frutto tropicale",
-      "x6c": "Trasparente / Frutto tropicale",
-      "x7bk": "Nero / Menta",
-      "x8bm": "Fiamma / Mango",
-      "x9g": "Verde scuro / Pino",
-      "x10r": "Rosso / Melone",
-      "x12p": "Viola scuro / Lavanda",
-      "x13c": "Giallo / Agrumi"
+      "x1p": "viola / frutti di bosco",
+      "x2g": "verde / mela",
+      "x3b": "blu / fresh",
+      "x4o": "arancione / frutta tropicale",
+      "x6c": "trasparente / frutta tropicale",
+      "x7bk": "nero / menta",
+      "x8bm": "fiamma / mango",
+      "x9g": "verde / pino",
+      "x10r": "rosso / melone",
+      "x12p": "viola / lavanda",
+      "x13c": "giallo / agrumi"
     },
     "xcrenHd": {
       "name": "xcrën HD",
       "imageAlt": "Griglia per orinatoio xcrën HD blu a forma di X con setole anti-schizzo, vista dall'alto su sfondo nero",
-      "category": "Schermo orinatoio premium",
-      "badge": "Xtreme anti-splash urinal screen",
-      "short": "Schermo orinatoio ad alte prestazioni progettato per un rilascio costante di fragranza e un aspetto pulito.",
-      "long": "xcrën HD unisce un design industriale raffinato a prestazioni affidabili nei bagni ad alto traffico. Abbinalo a Eco-One™ per opzioni di fine vita allineate ai tuoi obiettivi di sostenibilità.",
+      "category": "tappetino per orinatoio di design, protezione antischizzi xtreme",
+      "badge": "tappetino per orinatoio di design, protezione antischizzi xtreme",
+      "short": "xcrën HD 60+ è un tappetino profumato per orinatoio dalla forma brevettata che risalta nell’orinatoio. A differenza dei classici tappetini ovali, trasforma l’orinatoio in un elemento di design. Le setole brevettate (Sealed Bristles Technology™) coprono il 92% del tappetino e riducono al minimo gli schizzi di urina e i cattivi odori. Realizzato in un materiale esclusivo impregnato di una fragranza deodorante, rilascia gradualmente il profumo per 60+ giorni. Nei bagni poco frequentati dura ancora di più.",
+      "long": "xcrën HD 60+ è un tappetino profumato per orinatoio dalla forma brevettata che risalta nell’orinatoio. A differenza dei classici tappetini ovali, trasforma l’orinatoio in un elemento di design. Le setole brevettate (Sealed Bristles Technology™) coprono il 92% del tappetino e riducono al minimo gli schizzi di urina e i cattivi odori. Realizzato in un materiale esclusivo impregnato di una fragranza deodorante, rilascia gradualmente il profumo per 60+ giorni. Nei bagni poco frequentati dura ancora di più.\n\nProgettato per i bagni molto frequentati di ristoranti, bar, aeroporti e centri commerciali, xcrën HD 60+ unisce igiene e uno stile che distingue il bagno.\n\nxcrën HD 60+ è realizzato con EVA riciclato. Il materiale in sé può essere riciclato, ma un tappetino per orinatoio usato no, perché è contaminato biologicamente. Finisce in discarica o nell’inceneritore, ed è per questo che xcrën HD 60+ contiene l’additivo Eco-One™. In un test di laboratorio indipendente, l’EVA ëkcos con Eco-One™ ha raggiunto il 93% di biodegradazione in 3,5 anni, e si prevede fino al 99% entro 5 anni.\n\nxcrën HD 60+ unisce una forte protezione antischizzi, 60+ giorni di profumo e un design brevettato che si distingue in ogni bagno.",
       "benefits": {
-        "0": "Sistema di setole brevettato che copre il 95 % della superficie e previene gli schizzi",
-        "1": "Fragranza integrata nel materiale e rilasciata gradualmente per 60+ giorni",
-        "2": "Fino al doppio di durata e intensità di fragranza rispetto agli schermi tipici",
-        "3": "Progettato per bagni ad alto traffico — ristoranti, bar, aeroporti, centri commerciali",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Conforme agli standard VOC europei e non tossico per le fonti d’acqua",
-        "6": "Adatto a orinatoi waterless; branding privato disponibile"
+        "0": "Forma brevettata che si distingue dai classici tappetini ovali",
+        "1": "Setole antischizzi brevettate che coprono il 92% della superficie del tappetino, per aiutare a proteggere gli utenti dagli schizzi indesiderati e mantenere più pulita l’area circostante",
+        "2": "Materiale esclusivo impregnato di una fragranza deodorante che viene rilasciata gradualmente per 60+ giorni",
+        "3": "Il profumo dura il doppio rispetto ai tappetini standard da 30 giorni",
+        "4": "Progettato appositamente per bagni molto frequentati, come quelli di ristoranti, bar, aeroporti, centri commerciali ecc.",
+        "5": "Contiene EVA riciclato, biodegradabile in discarica con Eco-One™",
+        "6": "Confezione in scatole di cartone riciclato al 100%",
+        "7": "Perfetto per orinatoi senza acqua",
+        "8": "Dimensioni: 17 x 18 x 2,1 cm",
+        "9": "Ampia scelta di colori e fragranze piacevoli",
+        "10": "Personalizzazione con il vostro logo ritagliato nel materiale o stampato"
       },
       "variants": {
-        "xhd1p": "Viola / Frutti di bosco",
-        "xhd2g": "Verde chiaro / Mela",
-        "xhd3b": "Blu / Fresco",
-        "xhd4o": "Arancione / Frutto tropicale",
-        "xhd6c": "Trasparente / Frutto tropicale",
-        "xhd7bk": "Nero / Menta",
-        "xhd8bm": "Fiamma / Mango",
-        "xhd9g": "Verde scuro / Pino",
-        "xhd10r": "Rosso / Melone",
-        "xhd12p": "Viola scuro / Lavanda",
-        "xhd13c": "Giallo / Agrumi"
+        "xhd1p": "viola / frutti di bosco",
+        "xhd2g": "verde / mela",
+        "xhd3b": "blu / fresh",
+        "xhd4o": "arancione / frutta tropicale",
+        "xhd6c": "trasparente / frutta tropicale",
+        "xhd7bk": "nero / menta",
+        "xhd8bm": "fiamma / mango",
+        "xhd9g": "verde / pino",
+        "xhd10r": "rosso / melone",
+        "xhd12p": "viola / lavanda",
+        "xhd13c": "giallo / agrumi"
       },
       "useCases": {
         "0": "Uffici aziendali",
@@ -448,17 +452,22 @@
     "ekcoscreen": {
       "name": "ëkcoscreen",
       "imageAlt": "Griglia per orinatoio ëkcoscreen blu a forma di scudo con setole anti-schizzo, vista dall'alto su sfondo nero",
-      "category": "Schermo orinatoio",
-      "short": "Prestazioni equilibrate per i bagni commerciali di tutti i giorni, con un controllo odori affidabile.",
-      "long": "ëkcoscreen offre un equilibrio pratico tra costo e prestazioni per strutture che necessitano di un supporto igienico affidabile senza compromessi sulla presentazione.",
+      "category": "tappetino per orinatoio antischizzi pesante, profumo a doppia durata",
+      "short": "ëkcoscreen 60+ è un tappetino profumato per orinatoio con setole brevettate (Sealed Bristles Technology™) che coprono il 95% del tappetino. Riduce al minimo gli schizzi di urina e i cattivi odori, per un bagno più pulito e confortevole. Realizzato in un materiale esclusivo impregnato di una fragranza deodorante, rilascia gradualmente il profumo per 60+ giorni, il doppio rispetto ai tappetini standard da 30 giorni. Nei bagni poco frequentati dura ancora di più.",
+      "long": "ëkcoscreen 60+ è un tappetino profumato per orinatoio con setole brevettate (Sealed Bristles Technology™) che coprono il 95% del tappetino. Riduce al minimo gli schizzi di urina e i cattivi odori, per un bagno più pulito e confortevole. Realizzato in un materiale esclusivo impregnato di una fragranza deodorante, rilascia gradualmente il profumo per 60+ giorni, il doppio rispetto ai tappetini standard da 30 giorni. Nei bagni poco frequentati dura ancora di più.\n\nProgettato per i bagni molto frequentati di ristoranti, bar, aeroporti, centri commerciali e altre strutture attente all’igiene, ëkcoscreen 60+ migliora la pulizia e il controllo degli odori.\n\nëkcoscreen 60+ è realizzato con EVA riciclato. Il materiale in sé può essere riciclato, ma un tappetino per orinatoio usato no, perché è contaminato biologicamente. Finisce in discarica o nell’inceneritore, ed è per questo che ëkcoscreen 60+ contiene l’additivo Eco-One™. In un test di laboratorio indipendente, l’EVA ëkcos con Eco-One™ ha raggiunto il 93% di biodegradazione in 3,5 anni, e si prevede fino al 99% entro 5 anni.\n\nëkcoscreen 60+ unisce un’efficace protezione antischizzi, 60+ giorni di profumo ed EVA riciclato e biodegradabile per bagni molto frequentati.",
       "benefits": {
-        "0": "Setole anti-splash brevettate per pavimenti più puliti e meno diffusione batterica",
-        "1": "Rilascio graduale della fragranza per 60+ giorni",
-        "2": "Controllo odori affidabile per bagni commerciali di tutti i giorni",
-        "3": "Controllo visivo semplice per i team di manutenzione",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Conforme agli standard VOC europei",
-        "6": "Ampia gamma di colori e fragranze; branding privato disponibile"
+        "0": "Setole antischizzi brevettate che coprono il 95% della superficie del tappetino, per aiutare a proteggere gli utenti dagli schizzi indesiderati e mantenere più pulita l’area circostante",
+        "1": "Nessuno schizzo visibile fuori dal tappetino in un test comparativo degli schizzi con luce UV, a parità di condizioni",
+        "2": "Materiale esclusivo impregnato di una fragranza deodorante che viene rilasciata gradualmente per 60+ giorni",
+        "3": "Il profumo dura il doppio rispetto ai tappetini da 30 giorni, con un costo giornaliero simile",
+        "4": "141 g di materiale profumato per tappetino, più del triplo di un tappetino tipico",
+        "5": "Progettato appositamente per bagni molto frequentati, come quelli di ristoranti, bar, aeroporti, centri commerciali ecc.",
+        "6": "Contiene EVA riciclato, biodegradabile in discarica con Eco-One™",
+        "7": "Confezione in scatole di cartone riciclato al 100%",
+        "8": "Ideale per orinatoi senza acqua",
+        "9": "Dimensioni: 20 x 21 x 2,2 cm",
+        "10": "Design unico, ampia scelta di colori e fragranze piacevoli",
+        "11": "Personalizzazione con il vostro logo ritagliato nel materiale o stampato"
       },
       "useCases": {
         "0": "Retail",
@@ -468,17 +477,21 @@
     "powerscreen": {
       "name": "powër screen",
       "imageAlt": "Griglia per orinatoio powër screen blu circolare con centro a stella e setole anti-schizzo, vista dall'alto su sfondo nero",
-      "category": "Schermo orinatoio ad alte prestazioni",
-      "short": "Pensato per ambienti impegnativi dove contano prestazioni e presentazione.",
-      "long": "powër screen è calibrato per location ad alto flusso e aiuta a mantenere un’esperienza premium nel bagno con un rilascio strutturato di fragranza.",
+      "category": "potente tappetino per orinatoio antischizzi, a cambio mensile",
+      "short": "powër screen è un tappetino profumato per orinatoio con un sistema di setole brevettato (Sealed Bristles Technology™). Riduce al minimo gli schizzi di urina e i cattivi odori, per un bagno più pulito e confortevole. Realizzato in un materiale esclusivo impregnato di una fragranza deodorante, rilascia gradualmente il profumo fino a 30 giorni ed è quindi ideale per la manutenzione mensile degli orinatoi.",
+      "long": "powër screen è un tappetino profumato per orinatoio con un sistema di setole brevettato (Sealed Bristles Technology™). Riduce al minimo gli schizzi di urina e i cattivi odori, per un bagno più pulito e confortevole. Realizzato in un materiale esclusivo impregnato di una fragranza deodorante, rilascia gradualmente il profumo fino a 30 giorni ed è quindi ideale per la manutenzione mensile degli orinatoi.\n\npowër screen è realizzato con EVA riciclato. Il materiale in sé può essere riciclato, ma un tappetino per orinatoio usato no, perché è contaminato biologicamente. Finisce in discarica o nell’inceneritore, ed è per questo che powër screen contiene l’additivo Eco-One™. In un test di laboratorio indipendente, l’EVA ëkcos con Eco-One™ ha raggiunto il 93% di biodegradazione in 3,5 anni, e si prevede fino al 99% entro 5 anni.\n\npowër screen unisce un’efficace protezione antischizzi, fino a 30 giorni di profumo ed EVA riciclato e biodegradabile per la manutenzione mensile del bagno.",
       "benefits": {
-        "0": "Design anti-splash per un controllo efficace degli schizzi",
-        "1": "Prestazioni di fragranza pensate per intervalli fino a 30 giorni",
-        "2": "Progettato per sedi ad alto traffico e ambienti impegnativi",
-        "3": "Presentazione forte per bagni premium",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Conforme agli standard VOC europei",
-        "6": "Disponibile in più colori e fragranze"
+        "0": "Setole antischizzi brevettate per aiutare a proteggere gli utenti dagli schizzi indesiderati e mantenere più pulita l’area circostante",
+        "1": "Materiale esclusivo impregnato di una fragranza deodorante che viene rilasciata gradualmente fino a 30 giorni",
+        "2": "Ideale per la manutenzione mensile degli orinatoi",
+        "3": "Contiene EVA riciclato, biodegradabile in discarica con Eco-One™",
+        "4": "Confezione in scatole di cartone riciclato al 100%",
+        "5": "Adatto agli orinatoi senza acqua",
+        "6": "Forma flessibile che si adatta a quasi tutti i tipi di orinatoio",
+        "7": "Design che valorizza ogni bagno",
+        "8": "Dimensioni: 18 x 20 x 1,8 cm",
+        "9": "Design unico, ampia scelta di colori e fragranze piacevoli",
+        "10": "Personalizzazione con il vostro logo ritagliato nel materiale o stampato"
       },
       "useCases": {
         "0": "Stadi",
@@ -488,17 +501,21 @@
     "basicScreen": {
       "name": "basic scrëen",
       "imageAlt": "Griglia per orinatoio basic scrëen blu a triangolo arrotondato con fori di drenaggio, vista dall'alto su sfondo nero",
-      "category": "Schermo orinatoio essenziale",
-      "short": "Protezione e freschezza essenziali per programmi bagno standard.",
-      "long": "basic scrëen è la scelta pratica per programmi che necessitano di un supporto igienico affidabile con aspettative di servizio chiare.",
+      "category": "tappetino per orinatoio economico, biodegradabile in discarica",
+      "short": "basic scrëen è un tappetino per orinatoio conveniente che deodora gli orinatoi e previene l’accumulo di residui. Realizzato in un materiale esclusivo impregnato di una fragranza deodorante, rilascia gradualmente il profumo fino a 30 giorni ed è quindi ideale per la manutenzione mensile degli orinatoi.",
+      "long": "basic scrëen è un tappetino per orinatoio conveniente che deodora gli orinatoi e previene l’accumulo di residui. Realizzato in un materiale esclusivo impregnato di una fragranza deodorante, rilascia gradualmente il profumo fino a 30 giorni ed è quindi ideale per la manutenzione mensile degli orinatoi.\n\nbasic scrëen è realizzato con EVA riciclato. Il materiale in sé può essere riciclato, ma un tappetino per orinatoio usato no, perché è contaminato biologicamente. Finisce in discarica o nell’inceneritore, ed è per questo che basic scrëen contiene l’additivo Eco-One™. In un test di laboratorio indipendente, l’EVA ëkcos con Eco-One™ ha raggiunto il 93% di biodegradazione in 3,5 anni, e si prevede fino al 99% entro 5 anni.\n\nbasic scrëen unisce un controllo affidabile degli odori, la protezione dai residui ed EVA riciclato e biodegradabile a basso costo.",
       "benefits": {
-        "0": "Protezione anti-splash semplice per programmi orinatoio standard",
-        "1": "Fragranza allineata ai cicli di manutenzione mensili",
-        "2": "Facile da distribuire su grandi sedi e reti multi-sede",
-        "3": "Cadenza di sostituzione prevedibile per i team facility",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Conforme agli standard VOC europei",
-        "6": "Opzione conveniente con una gamma chiara di colori e fragranze"
+        "0": "Materiale esclusivo impregnato di una fragranza deodorante che viene rilasciata gradualmente",
+        "1": "Rilascio del profumo fino a 30 giorni",
+        "2": "Ideale per la manutenzione mensile degli orinatoi",
+        "3": "Adatto agli orinatoi senza acqua",
+        "4": "Forma flessibile che si adatta a quasi tutti i tipi di orinatoio",
+        "5": "Dimensioni: 20 x 19 cm",
+        "6": "Design unico, ampia scelta di colori e fragranze piacevoli",
+        "7": "Soluzione economica per l’igiene mensile degli orinatoi",
+        "8": "Contiene EVA riciclato, biodegradabile in discarica con Eco-One™",
+        "9": "Spedizione in scatoloni di cartone riciclato al 100%",
+        "10": "Personalizzazione con il vostro logo ritagliato nel materiale o stampato"
       },
       "useCases": {
         "0": "Scuole",
@@ -508,17 +525,21 @@
     "urolite": {
       "name": "üro lite",
       "imageAlt": "Griglia compatta üro lite blu a forma di scudo con setole anti-schizzo, vista dall'alto su sfondo nero",
-      "category": "Schermo orinatoio compatto",
-      "short": "Formato compatto con opzioni di finitura flessibili per attrezzature moderne.",
-      "long": "üro lite si adatta a geometrie di orinatoio compatte mantenendo i tratti qualitativi ëkcos e una gestione pratica in fase di servizio.",
+      "category": "piccolo tappetino per orinatoio, grande protezione antischizzi",
+      "short": "üro lite è un tappetino profumato e flessibile per orinatoio, pensato per orinatoi più piccoli. Utilizza lo stesso sistema brevettato Sealed Bristles Technology™ di ëkcoscreen 60+ e, invece di un diametro maggiore, punta su setole lunghe che offrono una grande protezione antischizzi in un tappetino piccolo. Riduce al minimo gli schizzi di urina e i cattivi odori. Realizzato in un materiale esclusivo impregnato di una fragranza deodorante, rilascia gradualmente il profumo fino a 30 giorni ed è quindi ideale per la manutenzione mensile degli orinatoi.",
+      "long": "üro lite è un tappetino profumato e flessibile per orinatoio, pensato per orinatoi più piccoli. Utilizza lo stesso sistema brevettato Sealed Bristles Technology™ di ëkcoscreen 60+ e, invece di un diametro maggiore, punta su setole lunghe che offrono una grande protezione antischizzi in un tappetino piccolo. Riduce al minimo gli schizzi di urina e i cattivi odori. Realizzato in un materiale esclusivo impregnato di una fragranza deodorante, rilascia gradualmente il profumo fino a 30 giorni ed è quindi ideale per la manutenzione mensile degli orinatoi.\n\nüro lite è realizzato con EVA riciclato. Il materiale in sé può essere riciclato, ma un tappetino per orinatoio usato no, perché è contaminato biologicamente. Finisce in discarica o nell’inceneritore, ed è per questo che üro lite contiene l’additivo Eco-One™. In un test di laboratorio indipendente, l’EVA ëkcos con Eco-One™ ha raggiunto il 93% di biodegradazione in 3,5 anni, e si prevede fino al 99% entro 5 anni.\n\nüro lite offre agli orinatoi più piccoli una grande protezione antischizzi grazie alle sue setole lunghe, uniche e brevettate, in un tappetino compatto e conveniente realizzato con EVA riciclato e biodegradabile.",
       "benefits": {
-        "0": "Geometria compatta per vasche moderne e più piccole",
-        "1": "Prestazioni anti-splash in un formato schermo più leggero",
-        "2": "Rilascio di fragranza adatto a intervalli fino a 30 giorni",
-        "3": "Più finiture e fragranze disponibili",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Conforme agli standard VOC europei",
-        "6": "Facile da gestire per hospitality boutique e uffici premium"
+        "0": "Setole lunghe, uniche e brevettate che aiutano a proteggere gli utenti dagli schizzi e mantengono più pulita l’area circostante",
+        "1": "Stesso sistema brevettato Sealed Bristles Technology™ di ëkcoscreen 60+",
+        "2": "Materiale esclusivo impregnato di una fragranza deodorante che viene rilasciata gradualmente fino a 30 giorni",
+        "3": "Formato compatto pensato appositamente per orinatoi più piccoli",
+        "4": "Ideale per la manutenzione mensile degli orinatoi",
+        "5": "Adatto agli orinatoi senza acqua",
+        "6": "Contiene EVA riciclato, biodegradabile in discarica con Eco-One™",
+        "7": "Confezione in scatole di cartone riciclato al 100%",
+        "8": "Dimensioni: 13 x 13 x 1,8 cm",
+        "9": "Design unico, ampia scelta di colori e fragranze piacevoli",
+        "10": "Personalizzazione con il vostro logo ritagliato nel materiale o stampato"
       },
       "useCases": {
         "0": "Hospitality boutique",
@@ -528,17 +549,21 @@
     "ekcoClip": {
       "name": "ëkco clip",
       "imageAlt": "Deodorante ëkco clip blu a farfalla con nervature anti-schizzo, visto dall'alto su sfondo nero",
-      "category": "Accessorio a clip",
-      "short": "Accessorio di montaggio sicuro per un posizionamento stabile e linee pulite.",
-      "long": "ëkco clip aiuta a mantenere un posizionamento costante quando un accessorio a clip fa parte del tuo programma.",
+      "category": "clip deodorante per WC, fresca e adatta a quasi tutti i vasi",
+      "short": "ëkco clip è una clip deodorante per WC che offre un controllo continuo degli odori e mantiene fresche le cabine WC. Realizzata in un materiale esclusivo impregnato di una fragranza deodorante, rilascia gradualmente il profumo fino a 30 giorni. La forma flessibile si adatta alla maggior parte dei vasi WC, quindi si aggancia facilmente e diffonde bene il profumo.",
+      "long": "ëkco clip è una clip deodorante per WC che offre un controllo continuo degli odori e mantiene fresche le cabine WC. Realizzata in un materiale esclusivo impregnato di una fragranza deodorante, rilascia gradualmente il profumo fino a 30 giorni. La forma flessibile si adatta alla maggior parte dei vasi WC, quindi si aggancia facilmente e diffonde bene il profumo.\n\nëkco clip è realizzata con EVA riciclato. Il materiale in sé può essere riciclato, ma una clip per WC usata no, perché è contaminata biologicamente. Finisce in discarica o nell’inceneritore, ed è per questo che ëkco clip contiene l’additivo Eco-One™. In un test di laboratorio indipendente, l’EVA ëkcos con Eco-One™ ha raggiunto il 93% di biodegradazione in 3,5 anni, e si prevede fino al 99% entro 5 anni.\n\nëkco clip unisce un controllo continuo degli odori fino a 30 giorni, un facile aggancio alla maggior parte dei vasi WC ed EVA riciclato e biodegradabile.",
       "benefits": {
-        "0": "Deodorante per vaso WC con clip sicuro",
-        "1": "Rilascio passivo di fragranza — senza aerosol né oli riscaldati",
-        "2": "Posizionamento stabile nell’uso quotidiano",
-        "3": "Integrazione visiva pulita con sanitari moderni",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Conforme agli standard VOC europei",
-        "6": "Disponibile in più colori e fragranze"
+        "0": "Materiale esclusivo impregnato di una fragranza deodorante che viene rilasciata gradualmente",
+        "1": "Efficace protezione dagli odori",
+        "2": "Design unico per un rilascio ottimale del profumo",
+        "3": "Rilascio del profumo fino a 30 giorni",
+        "4": "Forma flessibile che si adatta a quasi tutti i tipi di vaso WC",
+        "5": "Dimensioni: 10 x 5 x 4,5 cm",
+        "6": "Ampia scelta di colori e fragranze piacevoli",
+        "7": "Profumazione economica per il WC",
+        "8": "Contiene EVA riciclato, biodegradabile in discarica con Eco-One™",
+        "9": "Confezione in scatole di cartone riciclato al 100%",
+        "10": "Personalizzazione con il vostro logo ritagliato nel materiale o stampato"
       },
       "useCases": {
         "0": "Retrofit di impianti",
@@ -548,45 +573,50 @@
     "freshDrop": {
       "name": "frësh drop",
       "imageAlt": "Deodorante frësh drop blu e bianco a goccia con setole anti-schizzo, visto dall'alto su sfondo nero",
-      "category": "Sistema di freschezza",
-      "short": "Apporto di freschezza mirato con direzioni olfattive selezionabili.",
-      "long": "frësh drop è pensato per programmi che vogliono uno storytelling olfattivo flessibile mantenendo operazioni semplici.",
+      "category": "deodorante per ambienti WC a lunga durata, senza pile",
+      "short": "frësh drop è un deodorante per ambienti interni pensato per cabine WC e bagni. La sua ricarica, realizzata in un materiale esclusivo impregnato di una fragranza deodorante, rilascia gradualmente il profumo senza pile né elettricità. Nelle cabine chiuse con poca o nessuna ventilazione dura 60+ giorni, mentre dove l’aria circola di più il profumo si disperde più in fretta. Il design a goccia d’acqua si abbina a ogni bagno e il nastro adesivo incluso permette una facile installazione su quasi tutte le superfici. Per spazi piccoli, scegliete il compatto ëkco loop.",
+      "long": "frësh drop è un deodorante per ambienti interni pensato per cabine WC e bagni. La sua ricarica, realizzata in un materiale esclusivo impregnato di una fragranza deodorante, rilascia gradualmente il profumo senza pile né elettricità. Nelle cabine chiuse con poca o nessuna ventilazione dura 60+ giorni, mentre dove l’aria circola di più il profumo si disperde più in fretta. Il design a goccia d’acqua si abbina a ogni bagno e il nastro adesivo incluso permette una facile installazione su quasi tutte le superfici. Per spazi piccoli, scegliete il compatto ëkco loop.\n\nLa ricarica frësh drop è realizzata con EVA riciclato e il materiale può essere riciclato. La ricarica e la base contengono entrambe l’additivo Eco-One™, quindi sono entrambe biodegradabili in discarica. In un test di laboratorio indipendente, l’EVA ëkcos con Eco-One™ ha raggiunto il 93% di biodegradazione in 3,5 anni, e si prevede fino al 99% entro 5 anni.\n\nfrësh drop unisce 60+ giorni di profumo, installazione facile e una ricarica in EVA riciclato e biodegradabile per cabine WC e bagni.",
       "benefits": {
-        "0": "Deodorante passivo multiuso con rilascio controllato di fragranza",
-        "1": "Senza gocciolamento, batterie o spray aerosol",
-        "2": "Fragranze selezionabili per spazi diversi",
-        "3": "Adatto a bagni, lobby, spogliatoi e altro",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Conforme agli standard VOC europei",
-        "6": "Semplice da posizionare e sostituire nei programmi professionali"
+        "0": "Materiale esclusivo impregnato di una fragranza deodorante che viene rilasciata gradualmente",
+        "1": "Il modo perfetto per mantenere il bagno fresco e pulito, pensato appositamente per le cabine WC",
+        "2": "Rilascio del profumo per 60+ giorni nelle cabine chiuse, senza pile né elettricità",
+        "3": "Design a goccia d’acqua che si abbina a ogni bagno",
+        "4": "Installazione facile con il nastro adesivo incluso",
+        "5": "Dimensioni: 23 x 12 x 3,5 cm",
+        "6": "Ampia scelta di colori e fragranze piacevoli",
+        "7": "Ricarica realizzata con EVA riciclato e riciclabile",
+        "8": "Ricarica e base biodegradabili in discarica con Eco-One™",
+        "9": "Confezione in scatole di cartone riciclato al 100%",
+        "10": "Possibilità di personalizzazione con stampa"
       },
       "useCases": {
         "0": "Hospitality",
         "1": "Retail premium"
       },
       "bases": {
-        "white": "Bianco / base",
-        "black": "Nero / base"
+        "white": "bianca",
+        "black": "nera"
       }
     },
     "ezTrap": {
       "name": "ëz trap",
       "imageAlt": "Cartuccia bianca ëz trap per orinatoio a secco con guarnizione nera, fotografata di tre quarti su sfondo nero",
-      "category": "Protezione scarico",
-      "short": "Aiuta a proteggere gli scarichi e a supportare le routine igieniche.",
-      "long": "ëz trap è progettato per flussi di manutenzione pratici e prestazioni affidabili nelle operazioni quotidiane.",
+      "category": "cartuccia antiodore per orinatoi senza acqua, facile manutenzione",
+      "short": "ëz trap è un innovativo sistema a cartuccia pensato per migliorare l’efficienza, la pulizia e il controllo degli odori degli orinatoi senza acqua, riducendo sensibilmente i costi di manutenzione.",
+      "long": "ëz trap è un innovativo sistema a cartuccia pensato per migliorare l’efficienza, la pulizia e il controllo degli odori degli orinatoi senza acqua, riducendo sensibilmente i costi di manutenzione.\n\nGrazie al sistema a cartuccia brevettato ëz trap, l’urina scorre naturalmente attraverso il sifone, con un tappo di chiusura che sigilla dopo ogni utilizzo. Questo impedisce la fuoriuscita degli odori e garantisce che a ogni utilizzo l’urina vecchia venga rimossa dal sistema, mantenendo il bagno più fresco.\n\nëz trap è realizzato con l’additivo Eco-One™, che lo rende biodegradabile in discarica. In un test di laboratorio indipendente, il materiale ëkcos con Eco-One™ ha raggiunto il 93% di biodegradazione in 3,5 anni, e si prevede fino al 99% entro 5 anni.\n\nëz trap offre un modo efficiente, a bassa manutenzione ed economico per tenere gli odori di scarico fuori dagli orinatoi senza acqua.",
       "variants": {
-        "withTool": "Con utensile di rimozione",
-        "withoutTool": "Senza utensile di rimozione"
+        "withoutTool": "senza strumento di rimozione",
+        "withTool": "con strumento di rimozione"
       },
       "benefits": {
-        "0": "Upgrade per orinatoi waterless — aiuta a controllare gli odori allo scarico",
-        "1": "Costruzione robusta per uso commerciale quotidiano",
-        "2": "Supporta routine di manutenzione più pulite e semplici",
-        "3": "Disponibile con o senza utensile di rimozione",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Conforme agli standard VOC europei",
-        "6": "Completa gli schermi orinatoio ëkcos in un setup completo"
+        "0": "Blocca gli odori di scarico: il sifone e il tappo di chiusura impediscono la fuoriuscita dei cattivi odori dello scarico",
+        "1": "Nessun bisogno di gel costosi o detergenti specifici",
+        "2": "Manutenzione semplice ed economica: basta versare un bicchiere d’acqua al giorno per prevenire i depositi di calcare",
+        "3": "Lunga durata: la cartuccia dura da 4 a 6+ mesi e una pulizia regolare con un anticalcare (ad es. un buon gel per WC) ne prolunga la vita",
+        "4": "Ampia compatibilità: adatta a Sloan, Falcon, Vitra, Bobrick e altre marche che utilizzano il sistema Falcon Velocity (diametro 11,8 cm, altezza 11,5 cm)",
+        "5": "Dimensioni: Ø 11,8 x 11,5 cm",
+        "6": "Confezione in scatole di cartone riciclato al 100%",
+        "7": "Biodegradabile in discarica con l’additivo Eco-One™"
       },
       "useCases": {
         "0": "Ristorazione",
@@ -596,21 +626,25 @@
     "xcrenPuck": {
       "name": "xcrën puck",
       "imageAlt": "Griglia per orinatoio xcrën puck blu a forma di X con alloggiamento pastiglia al centro, vista dall'alto su sfondo nero",
-      "category": "Formato puck",
-      "short": "Schermo urinario puck NON-PARA per controllo odori e protezione dello scarico.",
-      "long": "xcrën è uno schermo urinario puck NON-PARA progettato per un efficace controllo degli odori e la protezione dello scarico. A differenza dei prodotti tradizionali a base di PARA, è privo di paradiclorobenzene (PARA), composto classificato dall'OMS come possibilmente cancerogeno. Il design a X unico impedisce l'ostruzione da solidi e garantisce una fragranza fresca dopo ogni utilizzo per fino a 30 giorni.",
+      "category": "tappetino per orinatoio a forma di X con pastiglia deodorante",
+      "short": "xcrën puck è un tappetino per orinatoio con pastiglia deodorante NON-PARA, pensato per un efficace controllo degli odori e la protezione dello scarico. Non contiene paradiclorobenzene (PARA), che l’OMS classifica come possibile cancerogeno. Le pastiglie al PARA sono ancora usate in alcuni tappetini per orinatoio, mentre le norme UE limitano il PARA nei deodoranti per WC. La forma a X impedisce a solidi e detriti di ostruire lo scarico e il tappetino rilascia un profumo pulito e fresco a ogni utilizzo, fino a 30 giorni.",
+      "long": "xcrën puck è un tappetino per orinatoio con pastiglia deodorante NON-PARA, pensato per un efficace controllo degli odori e la protezione dello scarico. Non contiene paradiclorobenzene (PARA), che l’OMS classifica come possibile cancerogeno. Le pastiglie al PARA sono ancora usate in alcuni tappetini per orinatoio, mentre le norme UE limitano il PARA nei deodoranti per WC. La forma a X impedisce a solidi e detriti di ostruire lo scarico e il tappetino rilascia un profumo pulito e fresco a ogni utilizzo, fino a 30 giorni.\n\nLa pastiglia è composta principalmente da cera e glicerina e si scioglie con l’uso. xcrën puck è realizzato con l’additivo Eco-One™, che lo rende biodegradabile in discarica. In un test di laboratorio indipendente, il materiale ëkcos con Eco-One™ ha raggiunto il 93% di biodegradazione in 3,5 anni, e si prevede fino al 99% entro 5 anni. È un prodotto usa e getta: la pastiglia non può essere sostituita con una nuova.\n\nxcrën puck è un modo semplice ed efficace per mantenere freschi gli orinatoi e liberi gli scarichi fino a 30 giorni.",
       "variants": {
-        "whiteFresh": "Bianco / Fresco",
-        "blueFresh": "Blu / Fresco"
+        "whiteFresh": "bianco / fresh",
+        "blueFresh": "blu / fresh"
       },
       "benefits": {
-        "0": "Formato puck non-para compatto per un posizionamento flessibile nell’orinatoio",
-        "1": "Fornisce fragranza dove uno schermo completo non è adatto",
-        "2": "Ingombro ridotto con presenza di brand chiara",
-        "3": "Facile da posizionare, controllare e sostituire nei giri di service",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Conforme agli standard VOC europei",
-        "6": "Disponibile in varianti con fragranza fresh"
+        "0": "Pastiglia NON-PARA: senza paradiclorobenzene, che l’OMS classifica come possibile cancerogeno",
+        "1": "Impedisce a solidi e altri detriti di ostruire lo scarico",
+        "2": "Rilascia un profumo pulito e fresco a ogni utilizzo, fino a 30 giorni",
+        "3": "Ideale per la manutenzione mensile degli orinatoi",
+        "4": "Pastiglia composta principalmente da cera e glicerina",
+        "5": "Usa e getta: la pastiglia non può essere sostituita con una nuova",
+        "6": "Dimensioni: 17 x 17 x 2,9 cm",
+        "7": "Confezione in scatole di cartone riciclato al 100%",
+        "8": "Biodegradabile in discarica con l’additivo Eco-One™",
+        "9": "Un design a X nuovo e unico",
+        "10": "Personalizzazione con il vostro logo ritagliato nel materiale o stampato"
       },
       "useCases": {
         "0": "Bagni compatti",
@@ -620,20 +654,19 @@
     "ekcoMat": {
       "name": "ëkco mat",
       "imageAlt": "Tappetino assorbente ëkco mat grigio scuro per orinatoio, visto dall'alto su sfondo nero",
-      "category": "Tappetino da pavimento",
-      "short": "Protezione del pavimento con un look pulito e professionale.",
-      "long": "ëkco mat supporta le zone igieniche della struttura con un focus su durata e presentazione.",
+      "category": "tappeto per orinatoio economico che protegge il pavimento",
+      "short": "ëkco mat è un tappeto assorbente da pavimento per orinatoio, pensato per migliorare l’igiene del bagno e proteggere i pavimenti dall’accumulo di urina. Con le sue dimensioni di 54 x 51 x 0,5 cm copre efficacemente l’area intorno alla maggior parte degli orinatoi standard, previene danni al pavimento e riduce il trasferimento di urina sulle suole delle scarpe degli utenti. Contribuisce così a mantenere il bagno più pulito e confortevole.",
+      "long": "ëkco mat è un tappeto assorbente da pavimento per orinatoio, pensato per migliorare l’igiene del bagno e proteggere i pavimenti dall’accumulo di urina. Con le sue dimensioni di 54 x 51 x 0,5 cm copre efficacemente l’area intorno alla maggior parte degli orinatoi standard, previene danni al pavimento e riduce il trasferimento di urina sulle suole delle scarpe degli utenti. Contribuisce così a mantenere il bagno più pulito e confortevole.\n\nëkco mat è una soluzione usa e getta conveniente, ideale per ristoranti, hotel e altri luoghi molto frequentati in cui l’igiene è una priorità.\n\nëkco mat offre una soluzione pratica, igienica ed economica per mantenere bagni puliti e professionali.",
       "variants": {
-        "standard": "Standard"
+        "standard": "nero"
       },
       "benefits": {
-        "0": "Tappetino per orinatoio che raccoglie gli schizzi e tiene i pavimenti più puliti",
-        "1": "Superficie durevole per il traffico commerciale quotidiano",
-        "2": "Aspetto professionale che completa l’allestimento del bagno",
-        "3": "Facile da posizionare sotto gli orinatoi e da pulire in service",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Conforme agli standard VOC europei",
-        "6": "Si abbina agli schermi ëkcos come soluzione igienica completa"
+        "0": "Protegge il pavimento sotto l’orinatoio",
+        "1": "Riduce la diffusione dell’urina sotto le suole delle scarpe",
+        "2": "Soluzione per l’igiene conveniente",
+        "3": "Monouso",
+        "4": "Possibilità di personalizzazione con il vostro marchio",
+        "5": "Dimensioni: 54 x 51 x 0,5 cm"
       },
       "useCases": {
         "0": "Ingressi",

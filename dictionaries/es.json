@@ -1,11 +1,11 @@
 {
   "Metadata": {
     "title": "ëkcos — Soluciones sanitarias premium",
-    "description": "ëkcos diseña soluciones premium para baños con compatibilidad Eco-One™ y marca personalizada para instalaciones profesionales.",
+    "description": "Nuestras rejillas para urinarios y nuestros ambientadores están fabricados con EVA reciclado. El material en sí puede reciclarse, pero una rejilla para urinario usada no, porque está contaminada biológicamente.",
     "productsTitle": "Productos",
     "productsDescription": "Explora productos ëkcos: cambia modelos, acabados y opciones — luego visita la tienda oficial.",
     "ecoOneTitle": "Eco-One™",
-    "ecoOneDescription": "El plástico que vuelve a la naturaleza. Mismo producto, mismo rendimiento, una fracción de la huella — con el aditivo biodegradable Eco-One™.",
+    "ecoOneDescription": "Nuestras rejillas para urinarios y nuestros ambientadores están fabricados con EVA reciclado. El material en sí puede reciclarse, pero una rejilla para urinario usada no, porque está contaminada biológicamente.",
     "brandingTitle": "Marca personalizada",
     "brandingDescription": "Marca propia, recortes e impresión para programas B2B.",
     "articlesTitle": "Artículos",
@@ -55,7 +55,7 @@
     }
   },
   "footer": {
-    "tagline": "Rejillas de urinario y accesorios ecológicos — higiene sin compromisos, menos costes de limpieza, distribuidor oficial UE.",
+    "tagline": "ëkcos innovations ofrece soluciones de higiene que mantienen los aseos limpios y frescos, facilitan el mantenimiento y utilizan materiales reciclados y biodegradables.",
     "explore": "Explorar",
     "newsletterTitle": "Newsletter",
     "newsletterHint": "Novedades de producto y programas. Baja cuando quieras.",
@@ -119,15 +119,15 @@
     },
     "hero": {
       "title": "Más verde en cada descarga",
-      "tagline": "Hasta un 99 % biodegradable",
-      "body": "Productos sanitarios ecológicos de plástico EVA reciclado con aditivo Eco-One™ — mejor para el planeta, más seguros para sus baños.",
+      "tagline": "Biodegradable en vertedero con Eco-One™",
+      "body": "Nuestras rejillas para urinarios y nuestros ambientadores están fabricados con EVA reciclado. El material en sí puede reciclarse, pero una rejilla para urinario usada no, porque está contaminada biológicamente.",
       "ctaProducts": "Explorar productos",
       "brandMark": "ekcos.eu"
     },
     "benefits": {
       "eco": {
-        "title": "Ecológico y biodegradable",
-        "body": "Fabricado con plástico EVA reciclado y hasta un 99 % biodegradable con Eco-One™."
+        "title": "EVA reciclado con Eco-One™",
+        "body": "Productos biodegradables fabricados con EVA reciclado"
       },
       "hygiene": {
         "title": "Higiene sin compromisos",
@@ -197,9 +197,9 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "El plástico que vuelve a la naturaleza",
-      "tagline": "Mismo producto. Mismo rendimiento. Una fracción de la huella.",
-      "body": "Las pantallas de urinarios no se pueden reciclar: por el contacto constante con la orina se contaminan biológicamente. Sus únicas vías de eliminación son por tanto la incineración o el vertedero. En el vertedero, el plástico convencional permanece durante siglos. Nuestros productos se fabrican con el aditivo Eco-One™, que permite que el material se biodegrade."
+      "title": "Eco-One™ para biodegradación en vertedero",
+      "tagline": "Mismo producto. Mismo rendimiento. Con EVA reciclado y Eco-One™.",
+      "body": "Nuestras rejillas para urinarios y nuestros ambientadores están fabricados con EVA reciclado. El material en sí puede reciclarse, pero una rejilla para urinario usada no, porque está contaminada biológicamente. Acaba en un vertedero o en una incineradora, y por eso añadimos el aditivo Eco-One™ a todos nuestros productos. En un ensayo independiente según ASTM D5511 e ISO 15985 realizado en el Instituto Politécnico Nacional de Ciudad de México, el EVA de ëkcos con Eco-One™ alcanzó un 93 % de biodegradación en 3,5 años, mientras que el mismo material sin el aditivo mostró un 0 %. Se prevé hasta un 99 % de biodegradación en 5 años. Nuestras cajas son de cartón 100 % reciclado."
     },
     "metrics": {
       "additive": {
@@ -269,8 +269,8 @@
       }
     },
     "closing": {
-      "title": "Productos biodegradables ëkcos",
-      "body": "Nuestros productos para aseos se fabrican con el aditivo Eco-One™ y son biodegradables hasta en un 99 %, con un rendimiento idéntico al de los productos sin él — y en muchos aspectos lo superan.",
+      "title": "Productos ëkcos con Eco-One™",
+      "body": "Nuestros productos para aseos se fabrican con el aditivo Eco-One™. En un ensayo de laboratorio independiente, el EVA ëkcos con Eco-One™ alcanzó un 93 % de biodegradación en 3,5 años, y se proyecta hasta un 99 % en 5 años en vertedero — con el mismo rendimiento que sin el aditivo.",
       "shopCta": "Shop"
     },
     "footnote": "Fuente de datos: ensayo de biodegradación independiente según ASTM D5511-02 e ISO 15985:2014 (Instituto Politécnico Nacional, Ciudad de México) — producto ëkcos con 1 % de aditivo Eco-One™: 93,31 % de biodegradación en 1.288 días (≈3,5 años); el mismo producto sin aditivo: 0 %. La biodegradación más allá del periodo de ensayo (hasta el 99 % en ~5 años) se proyecta a partir de la tendencia medida. Las cifras de persistencia de los plásticos convencionales (≈300–1.000 años) son estimaciones del sector ampliamente citadas. El aditivo Eco-One™ lo fabrica y certifica EcoLogic, LLC."
@@ -399,46 +399,50 @@
       "citrus": "Citrus"
     },
     "variantLabels": {
-      "x1p": "Morado / Bayas",
-      "x2g": "Verde claro / Manzana",
-      "x3b": "Azul / Fresco",
-      "x4o": "Naranja / Fruta tropical",
-      "x6c": "Transparente / Fruta tropical",
-      "x7bk": "Negro / Menta",
-      "x8bm": "Llama / Mango",
-      "x9g": "Verde oscuro / Pino",
-      "x10r": "Rojo / Melón",
-      "x12p": "Morado oscuro / Lavanda",
-      "x13c": "Amarillo / Cítrico"
+      "x1p": "morado / frutos rojos",
+      "x2g": "verde / manzana",
+      "x3b": "azul / fresh",
+      "x4o": "naranja / frutas tropicales",
+      "x6c": "transparente / frutas tropicales",
+      "x7bk": "negro / menta",
+      "x8bm": "fuego / mango",
+      "x9g": "verde / pino",
+      "x10r": "rojo / melón",
+      "x12p": "morado / lavanda",
+      "x13c": "amarillo / cítricos"
     },
     "xcrenHd": {
       "name": "xcrën HD",
       "imageAlt": "Pantalla de urinario xcrën HD azul en forma de X con cerdas antisalpicaduras, vista desde arriba sobre fondo negro",
-      "category": "Pantalla de urinario premium",
-      "badge": "Xtreme anti-splash urinal screen",
-      "short": "Pantalla de urinario de alto rendimiento diseñada para una liberación constante de fragancia y un aspecto limpio.",
-      "long": "xcrën HD combina un diseño industrial refinado con un rendimiento fiable en aseos de alto tráfico. Combínelo con Eco-One™ para opciones de fin de vida alineadas con sus objetivos de sostenibilidad.",
+      "category": "rejilla para urinario de diseño, antisalpicaduras xtreme",
+      "badge": "rejilla para urinario de diseño, antisalpicaduras xtreme",
+      "short": "xcrën HD 60+ es una rejilla perfumada para urinario con una forma patentada que destaca en el urinario. A diferencia de las típicas rejillas ovaladas, convierte el urinario en un elemento de diseño. Sus cerdas patentadas (Sealed Bristles Technology™) cubren el 92 % de la rejilla y minimizan las salpicaduras de orina y los malos olores. Fabricada con un material exclusivo impregnado de una fragancia desodorante, libera el aroma de forma gradual durante 60+ días. En aseos con poco tránsito, dura aún más.",
+      "long": "xcrën HD 60+ es una rejilla perfumada para urinario con una forma patentada que destaca en el urinario. A diferencia de las típicas rejillas ovaladas, convierte el urinario en un elemento de diseño. Sus cerdas patentadas (Sealed Bristles Technology™) cubren el 92 % de la rejilla y minimizan las salpicaduras de orina y los malos olores. Fabricada con un material exclusivo impregnado de una fragancia desodorante, libera el aroma de forma gradual durante 60+ días. En aseos con poco tránsito, dura aún más.\n\nDiseñada para aseos de gran afluencia en restaurantes, bares, aeropuertos y centros comerciales, xcrën HD 60+ combina higiene con una estética que distingue el aseo.\n\nxcrën HD 60+ está fabricada con EVA reciclado. El material en sí puede reciclarse, pero una rejilla para urinario usada no, porque está contaminada biológicamente. Acaba en un vertedero o en una incineradora, y por eso xcrën HD 60+ contiene el aditivo Eco-One™. En un ensayo de laboratorio independiente, el EVA de ëkcos con Eco-One™ alcanzó un 93 % de biodegradación en 3,5 años, y se prevé hasta un 99 % en 5 años.\n\nxcrën HD 60+ combina una gran protección antisalpicaduras, 60+ días de fragancia y un diseño patentado que destaca en cualquier aseo.",
       "benefits": {
-        "0": "Sistema de cerdas patentado que cubre el 95 % de la superficie y evita salpicaduras",
-        "1": "Fragancia integrada en el material y liberada de forma gradual durante 60+ días",
-        "2": "Hasta el doble de duración e intensidad de fragancia frente a pantallas habituales",
-        "3": "Diseñado para aseos de alto tráfico — restaurantes, bares, aeropuertos, centros comerciales",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Cumple las normas VOC europeas y no es tóxico para fuentes de agua",
-        "6": "Apto para urinarios sin agua; branding privado disponible"
+        "0": "Forma patentada que se distingue de las típicas rejillas ovaladas",
+        "1": "Cerdas antisalpicaduras patentadas que cubren el 92 % de la superficie de la rejilla para ayudar a proteger a los usuarios de salpicaduras no deseadas y mantener más limpia la zona de alrededor",
+        "2": "Material exclusivo impregnado de una fragancia desodorante que se libera gradualmente durante 60+ días",
+        "3": "La fragancia dura el doble que las rejillas estándar de 30 días",
+        "4": "Diseñada especialmente para aseos de gran afluencia, como los de restaurantes, bares, aeropuertos, centros comerciales, etc.",
+        "5": "Contiene EVA reciclado, biodegradable en vertedero con Eco-One™",
+        "6": "Embalaje en cajas de cartón 100 % reciclado",
+        "7": "Perfecta para urinarios sin agua",
+        "8": "Dimensiones: 17 x 18 x 2,1 cm",
+        "9": "Amplia gama de colores y fragancias agradables",
+        "10": "Personalización con su logotipo recortado en el material o impreso"
       },
       "variants": {
-        "xhd1p": "Morado / Bayas",
-        "xhd2g": "Verde claro / Manzana",
-        "xhd3b": "Azul / Fresco",
-        "xhd4o": "Naranja / Fruta tropical",
-        "xhd6c": "Transparente / Fruta tropical",
-        "xhd7bk": "Negro / Menta",
-        "xhd8bm": "Llama / Mango",
-        "xhd9g": "Verde oscuro / Pino",
-        "xhd10r": "Rojo / Melón",
-        "xhd12p": "Morado oscuro / Lavanda",
-        "xhd13c": "Amarillo / Cítrico"
+        "xhd1p": "morado / frutos rojos",
+        "xhd2g": "verde / manzana",
+        "xhd3b": "azul / fresh",
+        "xhd4o": "naranja / frutas tropicales",
+        "xhd6c": "transparente / frutas tropicales",
+        "xhd7bk": "negro / menta",
+        "xhd8bm": "fuego / mango",
+        "xhd9g": "verde / pino",
+        "xhd10r": "rojo / melón",
+        "xhd12p": "morado / lavanda",
+        "xhd13c": "amarillo / cítricos"
       },
       "useCases": {
         "0": "Oficinas corporativas",
@@ -448,17 +452,22 @@
     "ekcoscreen": {
       "name": "ëkcoscreen",
       "imageAlt": "Pantalla de urinario ëkcoscreen azul en forma de escudo con cerdas antisalpicaduras, vista desde arriba sobre fondo negro",
-      "category": "Pantalla de urinario",
-      "short": "Rendimiento equilibrado para aseos comerciales cotidianos con un control de olores fiable.",
-      "long": "ëkcoscreen ofrece un equilibrio práctico entre coste y rendimiento para instalaciones que necesitan un apoyo higiénico fiable sin renunciar a la presentación.",
+      "category": "rejilla para urinario antisalpicaduras pesada, aroma de doble duración",
+      "short": "ëkcoscreen 60+ es una rejilla perfumada para urinario con cerdas patentadas (Sealed Bristles Technology™) que cubren el 95 % de la rejilla. Minimiza las salpicaduras de orina y los malos olores para un aseo más limpio y confortable. Fabricada con un material exclusivo impregnado de una fragancia desodorante, libera el aroma de forma gradual durante 60+ días, el doble que las rejillas estándar de 30 días. En aseos con poco tránsito, dura aún más.",
+      "long": "ëkcoscreen 60+ es una rejilla perfumada para urinario con cerdas patentadas (Sealed Bristles Technology™) que cubren el 95 % de la rejilla. Minimiza las salpicaduras de orina y los malos olores para un aseo más limpio y confortable. Fabricada con un material exclusivo impregnado de una fragancia desodorante, libera el aroma de forma gradual durante 60+ días, el doble que las rejillas estándar de 30 días. En aseos con poco tránsito, dura aún más.\n\nDiseñada para aseos de gran afluencia en restaurantes, bares, aeropuertos, centros comerciales y otros establecimientos que cuidan la higiene, ëkcoscreen 60+ mejora la limpieza y el control de olores.\n\nëkcoscreen 60+ está fabricada con EVA reciclado. El material en sí puede reciclarse, pero una rejilla para urinario usada no, porque está contaminada biológicamente. Acaba en un vertedero o en una incineradora, y por eso ëkcoscreen 60+ contiene el aditivo Eco-One™. En un ensayo de laboratorio independiente, el EVA de ëkcos con Eco-One™ alcanzó un 93 % de biodegradación en 3,5 años, y se prevé hasta un 99 % en 5 años.\n\nëkcoscreen 60+ combina una protección eficaz contra salpicaduras, 60+ días de fragancia y EVA reciclado y biodegradable para aseos de gran afluencia.",
       "benefits": {
-        "0": "Cerdas antisalpicaduras patentadas para suelos más limpios y menos propagación bacteriana",
-        "1": "Liberación gradual de fragancia durante 60+ días",
-        "2": "Control de olores fiable para aseos comerciales cotidianos",
-        "3": "Inspección visual sencilla para equipos de mantenimiento",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Cumple las normas VOC europeas",
-        "6": "Amplia gama de colores y fragancias; branding privado disponible"
+        "0": "Cerdas antisalpicaduras patentadas que cubren el 95 % de la superficie de la rejilla para ayudar a proteger a los usuarios de salpicaduras no deseadas y mantener más limpia la zona de alrededor",
+        "1": "Ninguna salpicadura visible fuera de la rejilla en una prueba comparativa de salpicaduras con luz UV en idénticas condiciones",
+        "2": "Material exclusivo impregnado de una fragancia desodorante que se libera gradualmente durante 60+ días",
+        "3": "La fragancia dura el doble que las rejillas de 30 días, con un coste diario similar",
+        "4": "141 g de material perfumado por rejilla, más del triple que una rejilla típica",
+        "5": "Diseñada especialmente para aseos de gran afluencia, como los de restaurantes, bares, aeropuertos, centros comerciales, etc.",
+        "6": "Contiene EVA reciclado, biodegradable en vertedero con Eco-One™",
+        "7": "Embalaje en cajas de cartón 100 % reciclado",
+        "8": "Ideal para urinarios sin agua",
+        "9": "Dimensiones: 20 x 21 x 2,2 cm",
+        "10": "Diseño único, amplia gama de colores y fragancias agradables",
+        "11": "Personalización con su logotipo recortado en el material o impreso"
       },
       "useCases": {
         "0": "Retail",
@@ -468,17 +477,21 @@
     "powerscreen": {
       "name": "powër screen",
       "imageAlt": "Pantalla de urinario powër screen azul circular con centro en estrella y cerdas antisalpicaduras, vista desde arriba sobre fondo negro",
-      "category": "Pantalla de urinario de alto rendimiento",
-      "short": "Diseñada para entornos exigentes donde importan el rendimiento y la presentación.",
-      "long": "powër screen está afinada para espacios de alto flujo y ayuda a mantener una experiencia premium en el aseo con una liberación estructurada de fragancia.",
+      "category": "potente rejilla para urinario antisalpicaduras, de cambio mensual",
+      "short": "powër screen es una rejilla perfumada para urinario con un sistema de cerdas patentado (Sealed Bristles Technology™). Minimiza las salpicaduras de orina y los malos olores para un aseo más limpio y confortable. Fabricada con un material exclusivo impregnado de una fragancia desodorante, libera el aroma de forma gradual hasta 30 días, lo que la hace ideal para el mantenimiento mensual de urinarios.",
+      "long": "powër screen es una rejilla perfumada para urinario con un sistema de cerdas patentado (Sealed Bristles Technology™). Minimiza las salpicaduras de orina y los malos olores para un aseo más limpio y confortable. Fabricada con un material exclusivo impregnado de una fragancia desodorante, libera el aroma de forma gradual hasta 30 días, lo que la hace ideal para el mantenimiento mensual de urinarios.\n\npowër screen está fabricada con EVA reciclado. El material en sí puede reciclarse, pero una rejilla para urinario usada no, porque está contaminada biológicamente. Acaba en un vertedero o en una incineradora, y por eso powër screen contiene el aditivo Eco-One™. En un ensayo de laboratorio independiente, el EVA de ëkcos con Eco-One™ alcanzó un 93 % de biodegradación en 3,5 años, y se prevé hasta un 99 % en 5 años.\n\npowër screen combina una protección eficaz contra salpicaduras, hasta 30 días de fragancia y EVA reciclado y biodegradable para el mantenimiento mensual del aseo.",
       "benefits": {
-        "0": "Diseño antisalpicaduras para un control eficaz del splashback",
-        "1": "Rendimiento de fragancia pensado para intervalos de hasta 30 días",
-        "2": "Diseñado para espacios de alto tráfico e instalaciones exigentes",
-        "3": "Presentación potente para aseos premium",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Cumple las normas VOC europeas",
-        "6": "Disponible en varios colores y fragancias"
+        "0": "Cerdas antisalpicaduras patentadas para ayudar a proteger a los usuarios de salpicaduras no deseadas y mantener más limpia la zona de alrededor",
+        "1": "Material exclusivo impregnado de una fragancia desodorante que se libera gradualmente hasta 30 días",
+        "2": "Ideal para el mantenimiento mensual de urinarios",
+        "3": "Contiene EVA reciclado, biodegradable en vertedero con Eco-One™",
+        "4": "Embalaje en cajas de cartón 100 % reciclado",
+        "5": "Apta para urinarios sin agua",
+        "6": "Forma flexible que se adapta a casi todos los tipos de urinario",
+        "7": "Diseño que realza cualquier aseo",
+        "8": "Dimensiones: 18 x 20 x 1,8 cm",
+        "9": "Diseño único, amplia gama de colores y fragancias agradables",
+        "10": "Personalización con su logotipo recortado en el material o impreso"
       },
       "useCases": {
         "0": "Estadios",
@@ -488,17 +501,21 @@
     "basicScreen": {
       "name": "basic scrëen",
       "imageAlt": "Pantalla de urinario basic scrëen azul en triángulo redondeado con orificios de drenaje, vista desde arriba sobre fondo negro",
-      "category": "Pantalla de urinario esencial",
-      "short": "Protección y frescura sencillas para programas de aseo estándar.",
-      "long": "basic scrëen es la opción práctica para programas que necesitan un apoyo higiénico fiable con expectativas de servicio claras.",
+      "category": "rejilla para urinario biodegradable en vertedero, a bajo precio",
+      "short": "basic scrëen es una rejilla para urinario económica que desodoriza los urinarios y evita la acumulación de residuos. Fabricada con un material exclusivo impregnado de una fragancia desodorante, libera el aroma de forma gradual hasta 30 días, lo que la hace ideal para el mantenimiento mensual de urinarios.",
+      "long": "basic scrëen es una rejilla para urinario económica que desodoriza los urinarios y evita la acumulación de residuos. Fabricada con un material exclusivo impregnado de una fragancia desodorante, libera el aroma de forma gradual hasta 30 días, lo que la hace ideal para el mantenimiento mensual de urinarios.\n\nbasic scrëen está fabricada con EVA reciclado. El material en sí puede reciclarse, pero una rejilla para urinario usada no, porque está contaminada biológicamente. Acaba en un vertedero o en una incineradora, y por eso basic scrëen contiene el aditivo Eco-One™. En un ensayo de laboratorio independiente, el EVA de ëkcos con Eco-One™ alcanzó un 93 % de biodegradación en 3,5 años, y se prevé hasta un 99 % en 5 años.\n\nbasic scrëen combina un control de olores fiable, protección contra residuos y EVA reciclado y biodegradable a bajo coste.",
       "benefits": {
-        "0": "Protección antisalpicaduras sencilla para programas de urinario estándar",
-        "1": "Fragancia alineada con ciclos de mantenimiento mensuales",
-        "2": "Fácil de desplegar en grandes sedes y redes multi-sede",
-        "3": "Cadencia de sustitución predecible para equipos de facility",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Cumple las normas VOC europeas",
-        "6": "Opción rentable con una gama clara de colores y fragancias"
+        "0": "Material exclusivo impregnado de una fragancia desodorante que se libera gradualmente",
+        "1": "Liberación de fragancia hasta 30 días",
+        "2": "Ideal para el mantenimiento mensual de urinarios",
+        "3": "Apta para urinarios sin agua",
+        "4": "Forma flexible que se adapta a casi todos los tipos de urinario",
+        "5": "Dimensiones: 20 x 19 cm",
+        "6": "Diseño único, amplia gama de colores y fragancias agradables",
+        "7": "Solución económica para la higiene mensual de urinarios",
+        "8": "Contiene EVA reciclado, biodegradable en vertedero con Eco-One™",
+        "9": "Envío en cajas de cartón 100 % reciclado",
+        "10": "Personalización con su logotipo recortado en el material o impreso"
       },
       "useCases": {
         "0": "Colegios",
@@ -508,17 +525,21 @@
     "urolite": {
       "name": "üro lite",
       "imageAlt": "Pantalla compacta üro lite azul en forma de escudo con cerdas antisalpicaduras, vista desde arriba sobre fondo negro",
-      "category": "Pantalla de urinario compacta",
-      "short": "Formato compacto con opciones de acabado flexibles para instalaciones modernas.",
-      "long": "üro lite se adapta a geometrías de urinario compactas manteniendo las señas de calidad ëkcos y un manejo cómodo en el servicio.",
+      "category": "pequeña rejilla para urinario, gran protección antisalpicaduras",
+      "short": "üro lite es una rejilla perfumada y flexible para urinario, diseñada para urinarios más pequeños. Utiliza el mismo sistema patentado Sealed Bristles Technology™ que ëkcoscreen 60+ y, en lugar de un diámetro mayor, apuesta por cerdas largas que ofrecen una gran protección antisalpicaduras en una rejilla pequeña. Reduce al mínimo las salpicaduras de orina y los malos olores. Fabricada con un material exclusivo impregnado de una fragancia desodorante, libera el aroma de forma gradual hasta 30 días, lo que la hace ideal para el mantenimiento mensual de urinarios.",
+      "long": "üro lite es una rejilla perfumada y flexible para urinario, diseñada para urinarios más pequeños. Utiliza el mismo sistema patentado Sealed Bristles Technology™ que ëkcoscreen 60+ y, en lugar de un diámetro mayor, apuesta por cerdas largas que ofrecen una gran protección antisalpicaduras en una rejilla pequeña. Reduce al mínimo las salpicaduras de orina y los malos olores. Fabricada con un material exclusivo impregnado de una fragancia desodorante, libera el aroma de forma gradual hasta 30 días, lo que la hace ideal para el mantenimiento mensual de urinarios.\n\nüro lite está fabricada con EVA reciclado. El material en sí puede reciclarse, pero una rejilla para urinario usada no, porque está contaminada biológicamente. Acaba en un vertedero o en una incineradora, y por eso üro lite contiene el aditivo Eco-One™. En un ensayo de laboratorio independiente, el EVA de ëkcos con Eco-One™ alcanzó un 93 % de biodegradación en 3,5 años, y se prevé hasta un 99 % en 5 años.\n\nüro lite ofrece a los urinarios más pequeños una gran protección antisalpicaduras gracias a sus cerdas largas, únicas y patentadas, en una rejilla compacta y económica fabricada con EVA reciclado y biodegradable.",
       "benefits": {
-        "0": "Geometría compacta para tazas modernas y más pequeñas",
-        "1": "Rendimiento antisalpicaduras en formato de pantalla más ligero",
-        "2": "Liberación de fragancia adecuada para intervalos de hasta 30 días",
-        "3": "Varias opciones de acabado y fragancia",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Cumple las normas VOC europeas",
-        "6": "Manejo sencillo para hostelería boutique y oficinas premium"
+        "0": "Cerdas largas, únicas y patentadas que ayudan a proteger a los usuarios de las salpicaduras y mantienen más limpia la zona de alrededor",
+        "1": "Mismo sistema patentado Sealed Bristles Technology™ que ëkcoscreen 60+",
+        "2": "Material exclusivo impregnado de una fragancia desodorante que se libera gradualmente hasta 30 días",
+        "3": "Tamaño compacto diseñado especialmente para urinarios más pequeños",
+        "4": "Ideal para el mantenimiento mensual de urinarios",
+        "5": "Apta para urinarios sin agua",
+        "6": "Contiene EVA reciclado, biodegradable en vertedero con Eco-One™",
+        "7": "Embalaje en cajas de cartón 100 % reciclado",
+        "8": "Dimensiones: 13 x 13 x 1,8 cm",
+        "9": "Diseño único, amplia gama de colores y fragancias agradables",
+        "10": "Personalización con su logotipo recortado en el material o impreso"
       },
       "useCases": {
         "0": "Hostelería boutique",
@@ -528,17 +549,21 @@
     "ekcoClip": {
       "name": "ëkco clip",
       "imageAlt": "Ambientador ëkco clip azul en forma de pajarita con ranuras antisalpicaduras, visto desde arriba sobre fondo negro",
-      "category": "Accesorio con clip",
-      "short": "Accesorio de montaje seguro para una colocación estable y líneas limpias.",
-      "long": "ëkco clip ayuda a mantener una posición constante cuando un accesorio tipo clip forma parte de su programa.",
+      "category": "clip para inodoro que refresca y se adapta a casi cualquier taza",
+      "short": "ëkco clip es un clip ambientador para inodoro que ofrece un control continuo de olores y mantiene frescas las cabinas de WC. Fabricado con un material exclusivo impregnado de una fragancia desodorante, libera el aroma de forma gradual hasta 30 días. Su diseño flexible se adapta a la mayoría de los tipos de taza, por lo que se coloca fácilmente y difunde bien la fragancia.",
+      "long": "ëkco clip es un clip ambientador para inodoro que ofrece un control continuo de olores y mantiene frescas las cabinas de WC. Fabricado con un material exclusivo impregnado de una fragancia desodorante, libera el aroma de forma gradual hasta 30 días. Su diseño flexible se adapta a la mayoría de los tipos de taza, por lo que se coloca fácilmente y difunde bien la fragancia.\n\nëkco clip está fabricado con EVA reciclado. El material en sí puede reciclarse, pero un clip para inodoro usado no, porque está contaminado biológicamente. Acaba en un vertedero o en una incineradora, y por eso ëkco clip contiene el aditivo Eco-One™. En un ensayo de laboratorio independiente, el EVA de ëkcos con Eco-One™ alcanzó un 93 % de biodegradación en 3,5 años, y se prevé hasta un 99 % en 5 años.\n\nëkco clip combina un control continuo de olores hasta 30 días, una fácil colocación en la mayoría de las tazas y EVA reciclado y biodegradable.",
       "benefits": {
-        "0": "Ambientador para taza de WC con clip seguro",
-        "1": "Liberación pasiva de fragancia — sin aerosoles ni aceites calentados",
-        "2": "Colocación estable en el uso diario",
-        "3": "Integración visual limpia con sanitarios modernos",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Cumple las normas VOC europeas",
-        "6": "Disponible en varios colores y fragancias"
+        "0": "Material exclusivo impregnado de una fragancia desodorante que se libera gradualmente",
+        "1": "Protección eficaz contra los olores",
+        "2": "Diseño único para una liberación óptima de la fragancia",
+        "3": "Liberación de fragancia hasta 30 días",
+        "4": "Forma flexible que se adapta a casi todos los tipos de taza",
+        "5": "Dimensiones: 10 x 5 x 4,5 cm",
+        "6": "Amplia gama de colores y fragancias agradables",
+        "7": "Aromatización económica del inodoro",
+        "8": "Contiene EVA reciclado, biodegradable en vertedero con Eco-One™",
+        "9": "Embalaje en cajas de cartón 100 % reciclado",
+        "10": "Personalización con su logotipo recortado en el material o impreso"
       },
       "useCases": {
         "0": "Retrofits de instalaciones",
@@ -548,45 +573,50 @@
     "freshDrop": {
       "name": "frësh drop",
       "imageAlt": "Ambientador frësh drop azul y blanco en forma de gota con cerdas antisalpicaduras, visto desde arriba sobre fondo negro",
-      "category": "Sistema de frescura",
-      "short": "Aporte de frescura dirigido con direcciones de fragancia seleccionables.",
-      "long": "frësh drop está pensado para programas que quieren un storytelling flexible de fragancias manteniendo operaciones sencillas.",
+      "category": "ambientador para WC de larga duración, sin pilas",
+      "short": "frësh drop es un ambientador de interior diseñado para cabinas de WC y aseos. Su recarga, fabricada con un material exclusivo impregnado de una fragancia desodorante, libera el aroma de forma gradual sin pilas ni electricidad. En cabinas cerradas con poca o ninguna ventilación dura 60+ días, y donde el aire circula más, la fragancia se dispersa más rápido. Su diseño en forma de gota de agua complementa cualquier aseo, y la cinta adhesiva incluida permite una instalación fácil en casi cualquier superficie. Para espacios pequeños, elija el compacto ëkco loop.",
+      "long": "frësh drop es un ambientador de interior diseñado para cabinas de WC y aseos. Su recarga, fabricada con un material exclusivo impregnado de una fragancia desodorante, libera el aroma de forma gradual sin pilas ni electricidad. En cabinas cerradas con poca o ninguna ventilación dura 60+ días, y donde el aire circula más, la fragancia se dispersa más rápido. Su diseño en forma de gota de agua complementa cualquier aseo, y la cinta adhesiva incluida permite una instalación fácil en casi cualquier superficie. Para espacios pequeños, elija el compacto ëkco loop.\n\nLa recarga frësh drop está fabricada con EVA reciclado, y el material puede reciclarse. Tanto la recarga como la base contienen el aditivo Eco-One™, por lo que ambas son biodegradables en vertedero. En un ensayo de laboratorio independiente, el EVA de ëkcos con Eco-One™ alcanzó un 93 % de biodegradación en 3,5 años, y se prevé hasta un 99 % en 5 años.\n\nfrësh drop combina 60+ días de fragancia, instalación fácil y una recarga de EVA reciclado y biodegradable para cabinas de WC y aseos.",
       "benefits": {
-        "0": "Ambientador pasivo multiuso con liberación controlada de fragancia",
-        "1": "Sin goteo, baterías ni spray aerosol",
-        "2": "Fragancias seleccionables según el espacio",
-        "3": "Adecuado para aseos, vestíbulos, vestuarios y más",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Cumple las normas VOC europeas",
-        "6": "Fácil de colocar y sustituir en programas profesionales"
+        "0": "Material exclusivo impregnado de una fragancia desodorante que se libera gradualmente",
+        "1": "La forma perfecta de mantener un aseo fresco y limpio, diseñada especialmente para cabinas de WC",
+        "2": "Liberación de fragancia durante 60+ días en cabinas cerradas, sin pilas ni electricidad",
+        "3": "Diseño en forma de gota de agua que complementa cualquier aseo",
+        "4": "Instalación fácil con la cinta adhesiva incluida",
+        "5": "Dimensiones: 23 x 12 x 3,5 cm",
+        "6": "Amplia gama de colores y fragancias agradables",
+        "7": "Recarga fabricada con EVA reciclado y reciclable",
+        "8": "Recarga y base biodegradables en vertedero con Eco-One™",
+        "9": "Embalaje en cajas de cartón 100 % reciclado",
+        "10": "Opción de personalización mediante impresión"
       },
       "useCases": {
         "0": "Hostelería",
         "1": "Retail premium"
       },
       "bases": {
-        "white": "Blanco / base",
-        "black": "Negro / base"
+        "white": "blanca",
+        "black": "negra"
       }
     },
     "ezTrap": {
       "name": "ëz trap",
       "imageAlt": "Cartucho blanco ëz trap para urinario sin agua con junta negra, fotografiado en ángulo sobre fondo negro",
-      "category": "Protección de desagüe",
-      "short": "Ayuda a proteger los desagües y a respaldar las rutinas de higiene.",
-      "long": "ëz trap está diseñado para flujos de mantenimiento prácticos y un rendimiento fiable en el día a día.",
+      "category": "cartucho antiolores para urinario sin agua, fácil de mantener",
+      "short": "ëz trap es un innovador sistema de cartucho diseñado para mejorar la eficiencia, la limpieza y el control de olores de los urinarios sin agua, a la vez que reduce considerablemente los costes de mantenimiento.",
+      "long": "ëz trap es un innovador sistema de cartucho diseñado para mejorar la eficiencia, la limpieza y el control de olores de los urinarios sin agua, a la vez que reduce considerablemente los costes de mantenimiento.\n\nGracias al sistema de cartucho patentado ëz trap, la orina fluye de forma natural a través del sifón, con un tapón de cierre que sella tras cada uso. Esto evita que se escapen los olores y garantiza que, con cada uso, la orina anterior se retire del sistema, manteniendo un aseo más fresco.\n\nëz trap está fabricado con el aditivo Eco-One™, que lo hace biodegradable en vertedero. En un ensayo de laboratorio independiente, el material de ëkcos con Eco-One™ alcanzó un 93 % de biodegradación en 3,5 años, y se prevé hasta un 99 % en 5 años.\n\nëz trap ofrece una forma eficiente, de bajo mantenimiento y económica de mantener los olores del desagüe fuera de los urinarios sin agua.",
       "variants": {
-        "withTool": "Con herramienta de extracción",
-        "withoutTool": "Sin herramienta de extracción"
+        "withoutTool": "sin herramienta de extracción",
+        "withTool": "con herramienta de extracción"
       },
       "benefits": {
-        "0": "Mejora para urinarios sin agua — ayuda a controlar olores en el desagüe",
-        "1": "Construcción robusta para uso comercial diario",
-        "2": "Favorece rutinas de mantenimiento más limpias y sencillas",
-        "3": "Disponible con o sin herramienta de extracción",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Cumple las normas VOC europeas",
-        "6": "Complementa las pantallas de urinario ëkcos en una instalación completa"
+        "0": "Bloquea los olores del desagüe: el sifón y el tapón de cierre impiden que escapen los malos olores de las tuberías",
+        "1": "Sin necesidad de geles caros ni limpiadores especiales",
+        "2": "Mantenimiento fácil y económico: basta con echar un vaso de agua al día para evitar la acumulación de cal",
+        "3": "Larga duración: el cartucho dura de 4 a 6+ meses, y una limpieza regular con un producto antical (p. ej., un buen gel para WC) prolonga su vida útil",
+        "4": "Amplia compatibilidad: apto para Sloan, Falcon, Vitra, Bobrick y otras marcas que usan el sistema Falcon Velocity (diámetro 11,8 cm, altura 11,5 cm)",
+        "5": "Dimensiones: Ø 11,8 x 11,5 cm",
+        "6": "Embalaje en cajas de cartón 100 % reciclado",
+        "7": "Biodegradable en vertedero con el aditivo Eco-One™"
       },
       "useCases": {
         "0": "Restauración",
@@ -596,21 +626,25 @@
     "xcrenPuck": {
       "name": "xcrën puck",
       "imageAlt": "Pantalla de urinario xcrën puck azul en forma de X con alojamiento para pastilla en el centro, vista desde arriba sobre fondo negro",
-      "category": "Formato puck",
-      "short": "Rejilla urinario puck NON-PARA para control de olores y protección del desagüe.",
-      "long": "xcrën es una rejilla urinario puck NON-PARA diseñada para un control eficaz de olores y protección del desagüe. A diferencia de los productos tradicionales con PARA, está libre de paradiclorobenceno (PARA), compuesto clasificado por la OMS como posiblemente cancerígeno. Su diseño en X evita obstrucciones por sólidos y asegura una fragancia fresca tras cada uso durante hasta 30 días.",
+      "category": "rejilla para urinario en forma de X con pastilla desodorizante",
+      "short": "xcrën puck es una rejilla para urinario con pastilla desodorizante NON-PARA, diseñada para un control eficaz de olores y la protección del desagüe. No contiene paradiclorobenceno (PARA), que la OMS clasifica como posiblemente cancerígeno. Las pastillas con PARA aún se usan en algunas rejillas para urinarios, mientras que la normativa de la UE restringe el PARA en los desodorizantes para inodoros. Su diseño en forma de X impide que sólidos y residuos atasquen el desagüe, y la rejilla libera una fragancia limpia y fresca con cada uso hasta 30 días.",
+      "long": "xcrën puck es una rejilla para urinario con pastilla desodorizante NON-PARA, diseñada para un control eficaz de olores y la protección del desagüe. No contiene paradiclorobenceno (PARA), que la OMS clasifica como posiblemente cancerígeno. Las pastillas con PARA aún se usan en algunas rejillas para urinarios, mientras que la normativa de la UE restringe el PARA en los desodorizantes para inodoros. Su diseño en forma de X impide que sólidos y residuos atasquen el desagüe, y la rejilla libera una fragancia limpia y fresca con cada uso hasta 30 días.\n\nLa pastilla está hecha principalmente de cera y glicerina y se disuelve con el uso. xcrën puck está fabricada con el aditivo Eco-One™, que la hace biodegradable en vertedero. En un ensayo de laboratorio independiente, el material de ëkcos con Eco-One™ alcanzó un 93 % de biodegradación en 3,5 años, y se prevé hasta un 99 % en 5 años. Es un producto desechable y la pastilla no puede sustituirse por una nueva.\n\nxcrën puck es una forma sencilla y eficaz de mantener los urinarios frescos y los desagües despejados hasta 30 días.",
       "variants": {
-        "whiteFresh": "Blanco / Fresco",
-        "blueFresh": "Azul / Fresco"
+        "whiteFresh": "blanco / fresh",
+        "blueFresh": "azul / fresh"
       },
       "benefits": {
-        "0": "Formato puck non-para compacto para colocación flexible en el urinario",
-        "1": "Aporta fragancia donde una pantalla completa no encaja",
-        "2": "Huella pequeña con presencia de marca clara",
-        "3": "Fácil de colocar, revisar y sustituir en rondas de servicio",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Cumple las normas VOC europeas",
-        "6": "Disponible en variantes de fragancia fresh"
+        "0": "Pastilla NON-PARA: sin paradiclorobenceno, que la OMS clasifica como posiblemente cancerígeno",
+        "1": "Evita que sólidos y otros residuos atasquen el desagüe",
+        "2": "Libera una fragancia limpia y fresca con cada uso hasta 30 días",
+        "3": "Ideal para el mantenimiento mensual de urinarios",
+        "4": "Pastilla hecha principalmente de cera y glicerina",
+        "5": "Desechable: la pastilla no puede sustituirse por una nueva",
+        "6": "Dimensiones: 17 x 17 x 2,9 cm",
+        "7": "Embalaje en cajas de cartón 100 % reciclado",
+        "8": "Biodegradable en vertedero con el aditivo Eco-One™",
+        "9": "Un diseño en X nuevo y único",
+        "10": "Personalización con su logotipo recortado en el material o impreso"
       },
       "useCases": {
         "0": "Aseos compactos",
@@ -620,20 +654,19 @@
     "ekcoMat": {
       "name": "ëkco mat",
       "imageAlt": "Alfombrilla absorbente ëkco mat gris oscuro para urinario, vista desde arriba sobre fondo negro",
-      "category": "Alfombrilla de suelo",
-      "short": "Protección del suelo con un aspecto limpio y profesional.",
-      "long": "ëkco mat refuerza las zonas de higiene de la instalación con un enfoque en la durabilidad y la presentación.",
+      "category": "alfombrilla para urinario económica que protege el suelo",
+      "short": "ëkco mat es una alfombrilla absorbente de suelo para urinario, diseñada para mejorar la higiene del aseo y proteger el suelo de la acumulación de orina. Con unas dimensiones de 54 x 51 x 0,5 cm, cubre eficazmente la zona alrededor de la mayoría de los urinarios estándar, evita daños en el suelo y reduce la orina que se transfiere a las suelas de los zapatos de los usuarios. Esto ayuda a mantener un aseo más limpio y confortable.",
+      "long": "ëkco mat es una alfombrilla absorbente de suelo para urinario, diseñada para mejorar la higiene del aseo y proteger el suelo de la acumulación de orina. Con unas dimensiones de 54 x 51 x 0,5 cm, cubre eficazmente la zona alrededor de la mayoría de los urinarios estándar, evita daños en el suelo y reduce la orina que se transfiere a las suelas de los zapatos de los usuarios. Esto ayuda a mantener un aseo más limpio y confortable.\n\nëkco mat es una solución desechable y económica, ideal para restaurantes, hoteles y otros lugares de gran afluencia donde la higiene es una prioridad.\n\nëkco mat ofrece una solución práctica, higiénica y económica para mantener aseos limpios y profesionales.",
       "variants": {
-        "standard": "Standard"
+        "standard": "negro"
       },
       "benefits": {
-        "0": "Alfombrilla de urinario que recoge salpicaduras y mantiene el suelo más limpio",
-        "1": "Superficie durable para tráfico comercial diario",
-        "2": "Aspecto profesional que completa la instalación del aseo",
-        "3": "Fácil de situar bajo urinarios y limpiar en el servicio",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Cumple las normas VOC europeas",
-        "6": "Se combina con pantallas ëkcos como solución higiénica completa"
+        "0": "Protege el suelo bajo el urinario",
+        "1": "Reduce la propagación de orina en las suelas de los zapatos",
+        "2": "Solución de higiene económica",
+        "3": "De un solo uso",
+        "4": "Opción de personalización con su marca",
+        "5": "Dimensiones: 54 x 51 x 0,5 cm"
       },
       "useCases": {
         "0": "Entradas",

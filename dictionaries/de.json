@@ -1,11 +1,11 @@
 {
   "Metadata": {
     "title": "ëkcos — Premium-Sanitärlösungen",
-    "description": "ëkcos entwickelt Premium-Waschraumlösungen mit Eco-One™-Kompatibilität und Custom Branding für professionelle Objekte.",
+    "description": "Unsere Urinalsiebe, WC- und Lufterfrischer werden mit recyceltem EVA hergestellt. Das Material selbst ist recycelbar, ein gebrauchtes Urinalsieb jedoch nicht, da es biologisch kontaminiert ist.",
     "productsTitle": "Produkte",
     "productsDescription": "ëkcos-Produkte entdecken: Modelle, Oberflächen und Optionen wählen — dann zum offiziellen Shop.",
     "ecoOneTitle": "Eco-One™",
-    "ecoOneDescription": "Der Kunststoff, der zur Natur zurückkehrt. Gleiches Produkt, gleiche Leistung, ein Bruchteil des Fußabdrucks — mit dem biologisch abbaubaren Eco-One™-Additiv.",
+    "ecoOneDescription": "Unsere Urinalsiebe, WC- und Lufterfrischer werden mit recyceltem EVA hergestellt. Das Material selbst ist recycelbar, ein gebrauchtes Urinalsieb jedoch nicht, da es biologisch kontaminiert ist.",
     "brandingTitle": "Custom Branding",
     "brandingDescription": "Eigenmarke, Ausschnitte und Druck für B2B-Programme.",
     "articlesTitle": "Artikel",
@@ -55,7 +55,7 @@
     }
   },
   "footer": {
-    "tagline": "Umweltfreundliche Urinal-Siebe und Zubehör — Hygiene ohne Kompromisse, geringere Reinigungskosten, offizieller EU-Distributor.",
+    "tagline": "ëkcos innovations liefert Hygienelösungen, die Sanitärräume sauber und frisch halten, die Pflege erleichtern und recycelte, biologisch abbaubare Materialien nutzen.",
     "explore": "Entdecken",
     "newsletterTitle": "Newsletter",
     "newsletterHint": "Produktupdates und Programm-News. Jederzeit abmeldbar.",
@@ -119,15 +119,15 @@
     },
     "hero": {
       "title": "Grüner bei jedem Spülgang",
-      "tagline": "Bis zu 99 % biologisch abbaubar",
-      "body": "Umweltfreundliche Sanitärprodukte aus recyceltem EVA-Kunststoff mit Eco-One™-Additiv — besser für den Planeten, sicherer für Ihre Waschräume.",
+      "tagline": "Auf der Deponie biologisch abbaubar mit Eco-One™",
+      "body": "Unsere Urinalsiebe, WC- und Lufterfrischer werden mit recyceltem EVA hergestellt. Das Material selbst ist recycelbar, ein gebrauchtes Urinalsieb jedoch nicht, da es biologisch kontaminiert ist.",
       "ctaProducts": "Produkte entdecken",
       "brandMark": "ekcos.eu"
     },
     "benefits": {
       "eco": {
-        "title": "Umweltfreundlich & biologisch abbaubar",
-        "body": "Aus recyceltem EVA-Kunststoff und mit Eco-One™ bis zu 99 % biologisch abbaubar."
+        "title": "Recyceltes EVA mit Eco-One™",
+        "body": "Biologisch abbaubare Produkte, hergestellt mit recyceltem EVA"
       },
       "hygiene": {
         "title": "Hygiene ohne Kompromisse",
@@ -197,9 +197,9 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "Der Kunststoff, der zur Natur zurückkehrt",
-      "tagline": "Gleiches Produkt. Gleiche Leistung. Ein Bruchteil des Fußabdrucks.",
-      "body": "Urinalsieb können nicht recycelt werden: Durch den ständigen Kontakt mit Urin werden sie biologisch kontaminiert. Die einzigen Entsorgungswege sind daher Verbrennung oder Deponie. Auf der Deponie bleibt herkömmlicher Kunststoff jahrhundertelang erhalten. Unsere Produkte werden mit dem Eco-One™-Additiv hergestellt, das den biologischen Abbau des Materials ermöglicht."
+      "title": "Eco-One™ für den biologischen Abbau auf der Deponie",
+      "tagline": "Gleiches Produkt. Gleiche Leistung. Mit recyceltem EVA und Eco-One™.",
+      "body": "Unsere Urinalsiebe, WC- und Lufterfrischer werden mit recyceltem EVA hergestellt. Das Material selbst ist recycelbar, ein gebrauchtes Urinalsieb jedoch nicht, da es biologisch kontaminiert ist. Es landet auf der Deponie oder in der Müllverbrennung, und deshalb setzen wir allen unseren Produkten das Additiv Eco-One™ zu. In einem unabhängigen Test nach ASTM D5511 und ISO 15985 am Instituto Politécnico Nacional in Mexiko-Stadt wurde EVA von ëkcos mit Eco-One™ innerhalb von 3,5 Jahren zu 93 % biologisch abgebaut, dasselbe Material ohne das Additiv dagegen zu 0 %. Innerhalb von 5 Jahren wird ein biologischer Abbau von bis zu 99 % prognostiziert. Unsere Schachteln bestehen zu 100 % aus Recyclingkarton."
     },
     "metrics": {
       "additive": {
@@ -269,8 +269,8 @@
       }
     },
     "closing": {
-      "title": "ëkcos biologisch abbaubare Produkte",
-      "body": "Unsere Waschraumprodukte werden mit dem Eco-One™-Additiv hergestellt und sind zu bis zu 99 % biologisch abbaubar — bei gleicher Leistung wie Produkte ohne Additiv und in vielerlei Hinsicht sogar darüber hinaus.",
+      "title": "ëkcos-Produkte mit Eco-One™",
+      "body": "Unsere Sanitärprodukte werden mit dem Eco-One™-Additiv hergestellt. In einem unabhängigen Labortest erreichte ëkcos-EVA mit Eco-One™ innerhalb von 3,5 Jahren 93 % biologischen Abbau; innerhalb von 5 Jahren werden auf der Deponie bis zu 99 % projiziert — bei gleicher Leistung wie ohne Additiv.",
       "shopCta": "Shop"
     },
     "footnote": "Datenquelle: unabhängiger Biodegradationstest nach ASTM D5511-02 und ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) — ëkcos-Produkt mit 1 % Eco-One™-Additiv: 93,31 % Biodegradation über 1.288 Tage (≈3,5 Jahre); dasselbe Produkt ohne Additiv: 0 %. Biodegradation jenseits des Testzeitraums (bis zu 99 % innerhalb von ~5 Jahren) ist aus dem gemessenen Trend projiziert. Persistenzwerte für herkömmliche Kunststoffe (≈300–1.000 Jahre) sind weithin zitierte Branchenschätzungen. Das Eco-One™-Additiv wird von EcoLogic, LLC hergestellt und zertifiziert."
@@ -399,46 +399,50 @@
       "citrus": "Citrus"
     },
     "variantLabels": {
-      "x1p": "Lila / Beere",
-      "x2g": "Hellgrün / Apfel",
-      "x3b": "Blau / Frisch",
-      "x4o": "Orange / Tropische Frucht",
-      "x6c": "Klar / Tropische Frucht",
-      "x7bk": "Schwarz / Minze",
-      "x8bm": "Flamme / Mango",
-      "x9g": "Dunkelgrün / Kiefer",
-      "x10r": "Rot / Melone",
-      "x12p": "Dunkellila / Lavendel",
-      "x13c": "Gelb / Zitrus"
+      "x1p": "violett / waldbeere",
+      "x2g": "grün / apfel",
+      "x3b": "blau / fresh",
+      "x4o": "orange / tropische früchte",
+      "x6c": "klar / tropische früchte",
+      "x7bk": "schwarz / minze",
+      "x8bm": "flamme / mango",
+      "x9g": "grün / kiefer",
+      "x10r": "rot / melone",
+      "x12p": "violett / lavendel",
+      "x13c": "gelb / zitrone"
     },
     "xcrenHd": {
       "name": "xcrën HD",
       "imageAlt": "Blaues xcrën HD Urinalsieb in X-Form mit Spritzschutzborsten, von oben vor schwarzem Hintergrund",
-      "category": "Premium-Urinalsieb",
-      "badge": "Xtreme anti-splash urinal screen",
-      "short": "Hochleistungs-Urinalsieb für gleichmäßige Duftfreisetzung und ein sauberes Erscheinungsbild.",
-      "long": "xcrën HD verbindet raffiniertes Industriedesign mit zuverlässiger Leistung in stark frequentierten Waschräumen. Kombinieren Sie es mit Eco-One™ für End-of-Life-Optionen im Einklang mit Ihren Nachhaltigkeitszielen.",
+      "category": "Design-Urinalsieb mit Xtrem-Spritzschutz",
+      "badge": "Design-Urinalsieb mit Xtrem-Spritzschutz",
+      "short": "xcrën HD 60+ ist ein Urinalsieb mit Duft und patentierter Form, die im Urinal auffällt. Anders als übliche ovale Siebe macht es das Urinal zum Designelement. Seine patentierten Borsten (Sealed Bristles Technology™) bedecken 92 % des Siebs und minimieren Urinspritzer und unangenehme Gerüche. Das eigens entwickelte Material ist mit einem Duft auf Deodorantbasis versetzt und gibt ihn 60+ Tage lang nach und nach ab. In wenig frequentierten Toiletten hält es sogar noch länger.",
+      "long": "xcrën HD 60+ ist ein Urinalsieb mit Duft und patentierter Form, die im Urinal auffällt. Anders als übliche ovale Siebe macht es das Urinal zum Designelement. Seine patentierten Borsten (Sealed Bristles Technology™) bedecken 92 % des Siebs und minimieren Urinspritzer und unangenehme Gerüche. Das eigens entwickelte Material ist mit einem Duft auf Deodorantbasis versetzt und gibt ihn 60+ Tage lang nach und nach ab. In wenig frequentierten Toiletten hält es sogar noch länger.\n\nEntwickelt für stark frequentierte Toiletten in Restaurants, Bars, Flughäfen und Einkaufszentren, verbindet xcrën HD 60+ Hygiene mit einer Optik, die den Sanitärraum von anderen abhebt.\n\nxcrën HD 60+ wird mit recyceltem EVA hergestellt. Das Material selbst ist recycelbar, ein gebrauchtes Urinalsieb jedoch nicht, da es biologisch kontaminiert ist. Es landet auf der Deponie oder in der Müllverbrennung, und deshalb enthält xcrën HD 60+ das Additiv Eco-One™. In einem unabhängigen Labortest wurde EVA von ëkcos mit Eco-One™ innerhalb von 3,5 Jahren zu 93 % biologisch abgebaut, und innerhalb von 5 Jahren werden bis zu 99 % prognostiziert.\n\nxcrën HD 60+ vereint starken Spritzschutz, 60+ Tage Duft und ein patentiertes Design, das in jedem Sanitärraum auffällt.",
       "benefits": {
-        "0": "Patentiertes Borstensystem deckt 95 % der Fläche ab und verhindert Spritzrückschlag",
-        "1": "Duft ist im Material gebunden und wird über 60+ Tage gleichmäßig freigesetzt",
-        "2": "Bis zu doppelte Lebensdauer und Duftintensität im Vergleich zu marktüblichen Sieben",
-        "3": "Für stark frequentierte Waschräume — Restaurants, Bars, Flughäfen, Einkaufszentren",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Erfüllt europäische VOC-Standards und ist unschädlich für Gewässer",
-        "6": "Geeignet für wasserlose Urinale; Private Branding möglich"
+        "0": "Patentierte Form, die sich von üblichen ovalen Sieben abhebt",
+        "1": "Patentierte Anti-Spritz-Borsten bedecken 92 % der Siebfläche, tragen zum Schutz der Nutzer vor unerwünschten Spritzern bei und halten die Umgebung sauberer",
+        "2": "Eigens entwickeltes Material, versetzt mit einem Duft auf Deodorantbasis, der 60+ Tage lang nach und nach freigesetzt wird",
+        "3": "Duft hält doppelt so lange wie bei Standard-30-Tage-Sieben",
+        "4": "Speziell für stark frequentierte Toiletten entwickelt, z. B. in Restaurants, Bars, Flughäfen, Einkaufszentren usw.",
+        "5": "Mit recyceltem EVA hergestellt, mit Eco-One™ auf der Deponie biologisch abbaubar",
+        "6": "Verpackt in Schachteln aus 100 % Recyclingkarton",
+        "7": "Perfekt für wasserlose Urinale",
+        "8": "Abmessungen: 17 x 18 x 2,1 cm",
+        "9": "Große Auswahl an Farben und angenehmen Düften",
+        "10": "Private Branding mit Ihrem Logo, ins Material geschnitten oder aufgedruckt"
       },
       "variants": {
-        "xhd1p": "Lila / Beere",
-        "xhd2g": "Hellgrün / Apfel",
-        "xhd3b": "Blau / Frisch",
-        "xhd4o": "Orange / Tropische Frucht",
-        "xhd6c": "Klar / Tropische Frucht",
-        "xhd7bk": "Schwarz / Minze",
-        "xhd8bm": "Flamme / Mango",
-        "xhd9g": "Dunkelgrün / Kiefer",
-        "xhd10r": "Rot / Melone",
-        "xhd12p": "Dunkellila / Lavendel",
-        "xhd13c": "Gelb / Zitrus"
+        "xhd1p": "violett / waldbeere",
+        "xhd2g": "grün / apfel",
+        "xhd3b": "blau / fresh",
+        "xhd4o": "orange / tropische früchte",
+        "xhd6c": "klar / tropische früchte",
+        "xhd7bk": "schwarz / minze",
+        "xhd8bm": "flamme / mango",
+        "xhd9g": "grün / kiefer",
+        "xhd10r": "rot / melone",
+        "xhd12p": "violett / lavendel",
+        "xhd13c": "gelb / zitrone"
       },
       "useCases": {
         "0": "Unternehmensbüros",
@@ -448,17 +452,22 @@
     "ekcoscreen": {
       "name": "ëkcoscreen",
       "imageAlt": "Blaues ëkcoscreen Urinalsieb in Schildform mit Spritzschutzborsten, von oben vor schwarzem Hintergrund",
-      "category": "Urinalsieb",
-      "short": "Ausgewogene Leistung für den täglichen Einsatz in gewerblichen Waschräumen mit zuverlässiger Geruchskontrolle.",
-      "long": "ëkcoscreen bietet ein praktisches Gleichgewicht aus Kosten und Leistung für Einrichtungen, die verlässliche Hygieneunterstützung ohne Kompromisse bei der Präsentation brauchen.",
+      "category": "schweres Anti-Spritz-Urinalsieb mit doppelter Duftdauer",
+      "short": "ëkcoscreen 60+ ist ein Urinalsieb mit Duft und patentierten Borsten (Sealed Bristles Technology™), die 95 % des Siebs bedecken. Es minimiert Urinspritzer und unangenehme Gerüche für einen saubereren, angenehmeren Sanitärraum. Das eigens entwickelte Material ist mit einem Duft auf Deodorantbasis versetzt und gibt ihn 60+ Tage lang nach und nach ab, doppelt so lange wie Standard-30-Tage-Siebe. In wenig frequentierten Toiletten hält es sogar noch länger.",
+      "long": "ëkcoscreen 60+ ist ein Urinalsieb mit Duft und patentierten Borsten (Sealed Bristles Technology™), die 95 % des Siebs bedecken. Es minimiert Urinspritzer und unangenehme Gerüche für einen saubereren, angenehmeren Sanitärraum. Das eigens entwickelte Material ist mit einem Duft auf Deodorantbasis versetzt und gibt ihn 60+ Tage lang nach und nach ab, doppelt so lange wie Standard-30-Tage-Siebe. In wenig frequentierten Toiletten hält es sogar noch länger.\n\nEntwickelt für stark frequentierte Toiletten in Restaurants, Bars, Flughäfen, Einkaufszentren und anderen Einrichtungen mit Fokus auf Hygiene, sorgt ëkcoscreen 60+ für mehr Sauberkeit und bessere Geruchskontrolle.\n\nëkcoscreen 60+ wird mit recyceltem EVA hergestellt. Das Material selbst ist recycelbar, ein gebrauchtes Urinalsieb jedoch nicht, da es biologisch kontaminiert ist. Es landet auf der Deponie oder in der Müllverbrennung, und deshalb enthält ëkcoscreen 60+ das Additiv Eco-One™. In einem unabhängigen Labortest wurde EVA von ëkcos mit Eco-One™ innerhalb von 3,5 Jahren zu 93 % biologisch abgebaut, und innerhalb von 5 Jahren werden bis zu 99 % prognostiziert.\n\nëkcoscreen 60+ vereint wirksamen Spritzschutz, 60+ Tage Duft und recyceltes, biologisch abbaubares EVA für stark frequentierte Toiletten.",
       "benefits": {
-        "0": "Patentierte Antisplash-Borsten für sauberere Böden und weniger Keimübertragung",
-        "1": "Gleichmäßige Duftfreisetzung über 60+ Tage",
-        "2": "Zuverlässige Geruchskontrolle für alltägliche Gewerbe-Waschräume",
-        "3": "Einfache Sichtkontrolle für Service- und Austauschteams",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Erfüllt europäische VOC-Standards",
-        "6": "Breite Auswahl an Farben und Düften; Private Branding möglich"
+        "0": "Patentierte Anti-Spritz-Borsten bedecken 95 % der Siebfläche, tragen zum Schutz der Nutzer vor unerwünschten Spritzern bei und halten die Umgebung sauberer",
+        "1": "Keine sichtbaren Spritzer außerhalb des Siebs bei einem UV-Spritztest im direkten Vergleich unter identischen Bedingungen",
+        "2": "Eigens entwickeltes Material, versetzt mit einem Duft auf Deodorantbasis, der 60+ Tage lang nach und nach freigesetzt wird",
+        "3": "Duft hält doppelt so lange wie bei 30-Tage-Sieben, bei ähnlichen Kosten pro Tag",
+        "4": "141 g duftendes Material pro Sieb, mehr als das Dreifache eines üblichen Siebs",
+        "5": "Speziell für stark frequentierte Toiletten entwickelt, z. B. in Restaurants, Bars, Flughäfen, Einkaufszentren usw.",
+        "6": "Mit recyceltem EVA hergestellt, mit Eco-One™ auf der Deponie biologisch abbaubar",
+        "7": "Verpackt in Schachteln aus 100 % Recyclingkarton",
+        "8": "Ideal für wasserlose Urinale",
+        "9": "Abmessungen: 20 x 21 x 2,2 cm",
+        "10": "Einzigartiges Design, große Farbauswahl und angenehme Düfte",
+        "11": "Private Branding mit Ihrem Logo, ins Material geschnitten oder aufgedruckt"
       },
       "useCases": {
         "0": "Einzelhandel",
@@ -468,17 +477,21 @@
     "powerscreen": {
       "name": "powër screen",
       "imageAlt": "Rundes blaues powër screen Urinalsieb mit Sternmitte und Spritzschutzborsten, von oben vor schwarzem Hintergrund",
-      "category": "Hochleistungs-Urinalsieb",
-      "short": "Für anspruchsvolle Umgebungen gebaut, in denen Leistung und Präsentation zählen.",
-      "long": "powër screen ist auf Standorte mit hohem Durchsatz abgestimmt und hilft, mit strukturierter Duftabgabe ein Premium-Waschräumerlebnis zu erhalten.",
+      "category": "starkes Anti-Spritz-Urinalsieb für den monatlichen Wechsel",
+      "short": "powër screen ist ein Urinalsieb mit Duft und patentiertem Borstensystem (Sealed Bristles Technology™). Es minimiert Urinspritzer und unangenehme Gerüche für einen saubereren, angenehmeren Sanitärraum. Das eigens entwickelte Material ist mit einem Duft auf Deodorantbasis versetzt und gibt ihn bis zu 30 Tage lang nach und nach ab. Damit ist es ideal für die monatliche Urinalpflege.",
+      "long": "powër screen ist ein Urinalsieb mit Duft und patentiertem Borstensystem (Sealed Bristles Technology™). Es minimiert Urinspritzer und unangenehme Gerüche für einen saubereren, angenehmeren Sanitärraum. Das eigens entwickelte Material ist mit einem Duft auf Deodorantbasis versetzt und gibt ihn bis zu 30 Tage lang nach und nach ab. Damit ist es ideal für die monatliche Urinalpflege.\n\npowër screen wird mit recyceltem EVA hergestellt. Das Material selbst ist recycelbar, ein gebrauchtes Urinalsieb jedoch nicht, da es biologisch kontaminiert ist. Es landet auf der Deponie oder in der Müllverbrennung, und deshalb enthält powër screen das Additiv Eco-One™. In einem unabhängigen Labortest wurde EVA von ëkcos mit Eco-One™ innerhalb von 3,5 Jahren zu 93 % biologisch abgebaut, und innerhalb von 5 Jahren werden bis zu 99 % prognostiziert.\n\npowër screen vereint wirksamen Spritzschutz, bis zu 30 Tage Duft und recyceltes, biologisch abbaubares EVA für die monatliche Pflege von Sanitärräumen.",
       "benefits": {
-        "0": "Antisplash-Borsten für wirksame Spritzkontrolle",
-        "1": "Duftleistung für Serviceintervalle von bis zu 30 Tagen",
-        "2": "Für stark frequentierte Standorte und anspruchsvolle Betriebe",
-        "3": "Starke Optik für Premium-Waschräume",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Erfüllt europäische VOC-Standards",
-        "6": "In mehreren Farben und Düften erhältlich"
+        "0": "Patentierte Anti-Spritz-Borsten tragen zum Schutz der Nutzer vor unerwünschten Spritzern bei und halten die Umgebung sauberer",
+        "1": "Eigens entwickeltes Material, versetzt mit einem Duft auf Deodorantbasis, der bis zu 30 Tage lang nach und nach freigesetzt wird",
+        "2": "Ideal für die monatliche Urinalpflege",
+        "3": "Mit recyceltem EVA hergestellt, mit Eco-One™ auf der Deponie biologisch abbaubar",
+        "4": "Verpackt in Schachteln aus 100 % Recyclingkarton",
+        "5": "Geeignet für wasserlose Urinale",
+        "6": "Flexible Form passt in fast alle Urinaltypen",
+        "7": "Design, das jeden Sanitärraum aufwertet",
+        "8": "Abmessungen: 18 x 20 x 1,8 cm",
+        "9": "Einzigartiges Design, große Farbauswahl und angenehme Düfte",
+        "10": "Private Branding mit Ihrem Logo, ins Material geschnitten oder aufgedruckt"
       },
       "useCases": {
         "0": "Stadien",
@@ -488,17 +501,21 @@
     "basicScreen": {
       "name": "basic scrëen",
       "imageAlt": "Blaues basic scrëen Urinalsieb in abgerundeter Dreiecksform mit Ablauföffnungen, von oben vor schwarzem Hintergrund",
-      "category": "Basis-Urinalsieb",
-      "short": "Unkomplizierter Schutz und Frische für Standard-Waschräume.",
-      "long": "basic scrëen ist die praktische Wahl für Programme, die verlässliche Hygieneunterstützung mit klaren Serviceerwartungen brauchen.",
+      "category": "günstiges Urinalsieb, auf der Deponie biologisch abbaubar",
+      "short": "basic scrëen ist ein kostengünstiges Urinalsieb, das Urinale desodoriert und verhindert, dass sich Fremdkörper ansammeln. Das eigens entwickelte Material ist mit einem Duft auf Deodorantbasis versetzt und gibt ihn bis zu 30 Tage lang nach und nach ab. Damit ist es ideal für die monatliche Urinalpflege.",
+      "long": "basic scrëen ist ein kostengünstiges Urinalsieb, das Urinale desodoriert und verhindert, dass sich Fremdkörper ansammeln. Das eigens entwickelte Material ist mit einem Duft auf Deodorantbasis versetzt und gibt ihn bis zu 30 Tage lang nach und nach ab. Damit ist es ideal für die monatliche Urinalpflege.\n\nbasic scrëen wird mit recyceltem EVA hergestellt. Das Material selbst ist recycelbar, ein gebrauchtes Urinalsieb jedoch nicht, da es biologisch kontaminiert ist. Es landet auf der Deponie oder in der Müllverbrennung, und deshalb enthält basic scrëen das Additiv Eco-One™. In einem unabhängigen Labortest wurde EVA von ëkcos mit Eco-One™ innerhalb von 3,5 Jahren zu 93 % biologisch abgebaut, und innerhalb von 5 Jahren werden bis zu 99 % prognostiziert.\n\nbasic scrëen vereint zuverlässige Geruchskontrolle, Schutz vor Fremdkörpern und recyceltes, biologisch abbaubares EVA zu niedrigen Kosten.",
       "benefits": {
-        "0": "Einfacher Antisplash-Schutz für Standard-Urinalprogramme",
-        "1": "Duftunterstützung passend zu monatlichen Wartungszyklen",
-        "2": "Einfach über große Liegenschaften und Standortnetze ausrollbar",
-        "3": "Vorhersehbare Austauschintervalle für Facility-Teams",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Erfüllt europäische VOC-Standards",
-        "6": "Kosteneffiziente Option mit klarer Farb- und Duftauswahl"
+        "0": "Eigens entwickeltes Material, versetzt mit einem Duft auf Deodorantbasis, der nach und nach freigesetzt wird",
+        "1": "Duftabgabe bis zu 30 Tage lang",
+        "2": "Ideal für die monatliche Urinalpflege",
+        "3": "Geeignet für wasserlose Urinale",
+        "4": "Flexible Form passt in fast alle Urinaltypen",
+        "5": "Abmessungen: 20 x 19 cm",
+        "6": "Einzigartiges Design, große Farbauswahl und angenehme Düfte",
+        "7": "Kostengünstige Lösung für die monatliche Urinalhygiene",
+        "8": "Mit recyceltem EVA hergestellt, mit Eco-One™ auf der Deponie biologisch abbaubar",
+        "9": "Versand in Kartons aus 100 % Recyclingkarton",
+        "10": "Private Branding mit Ihrem Logo, ins Material geschnitten oder aufgedruckt"
       },
       "useCases": {
         "0": "Schulen",
@@ -508,17 +525,21 @@
     "urolite": {
       "name": "üro lite",
       "imageAlt": "Kompaktes blaues üro lite Urinalsieb in Schildform mit Spritzschutzborsten, von oben vor schwarzem Hintergrund",
-      "category": "Kompaktes Urinalsieb",
-      "short": "Kompaktes Format mit flexiblen Oberflächenoptionen für moderne Armaturen.",
-      "long": "üro lite passt in kompakte Urinalgeometrien und bewahrt zugleich die Qualitätsmerkmale von ëkcos sowie eine servicefreundliche Handhabung.",
+      "category": "kleines Urinalsieb, großer Spritzschutz",
+      "short": "üro lite ist ein flexibles Urinalsieb mit Duft, entwickelt für kleinere Urinale. Es nutzt dieselbe patentierte Sealed Bristles Technology™ wie ëkcoscreen 60+ und setzt statt auf einen größeren Durchmesser auf lange Borsten, die in einem kleinen Sieb großen Spritzschutz bieten. Es reduziert Urinspritzer und unangenehme Gerüche auf ein Minimum. Das eigens entwickelte Material ist mit einem Duft auf Deodorantbasis versetzt und gibt ihn bis zu 30 Tage lang nach und nach ab. Damit ist es ideal für die monatliche Urinalpflege.",
+      "long": "üro lite ist ein flexibles Urinalsieb mit Duft, entwickelt für kleinere Urinale. Es nutzt dieselbe patentierte Sealed Bristles Technology™ wie ëkcoscreen 60+ und setzt statt auf einen größeren Durchmesser auf lange Borsten, die in einem kleinen Sieb großen Spritzschutz bieten. Es reduziert Urinspritzer und unangenehme Gerüche auf ein Minimum. Das eigens entwickelte Material ist mit einem Duft auf Deodorantbasis versetzt und gibt ihn bis zu 30 Tage lang nach und nach ab. Damit ist es ideal für die monatliche Urinalpflege.\n\nüro lite wird mit recyceltem EVA hergestellt. Das Material selbst ist recycelbar, ein gebrauchtes Urinalsieb jedoch nicht, da es biologisch kontaminiert ist. Es landet auf der Deponie oder in der Müllverbrennung, und deshalb enthält üro lite das Additiv Eco-One™. In einem unabhängigen Labortest wurde EVA von ëkcos mit Eco-One™ innerhalb von 3,5 Jahren zu 93 % biologisch abgebaut, und innerhalb von 5 Jahren werden bis zu 99 % prognostiziert.\n\nüro lite bietet kleineren Urinalen großen Spritzschutz dank seiner einzigartigen, patentierten langen Borsten, in einem kompakten, kostengünstigen Sieb, hergestellt mit recyceltem, biologisch abbaubarem EVA.",
       "benefits": {
-        "0": "Kompakte Form für moderne und kleinere Urinalbecken",
-        "1": "Antisplash-Leistung im leichteren Siebformat",
-        "2": "Duftfreisetzung für Intervalle von bis zu 30 Tagen",
-        "3": "Mehrere Finish- und Duftoptionen",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Erfüllt europäische VOC-Standards",
-        "6": "Einfaches Handling für Boutique-Hotels und Premium-Büros"
+        "0": "Einzigartige, patentierte lange Borsten tragen zum Schutz der Nutzer vor Spritzern bei und halten die Umgebung sauberer",
+        "1": "Dieselbe patentierte Sealed Bristles Technology™ wie ëkcoscreen 60+",
+        "2": "Eigens entwickeltes Material, versetzt mit einem Duft auf Deodorantbasis, der bis zu 30 Tage lang nach und nach freigesetzt wird",
+        "3": "Kompakte Größe, speziell für kleinere Urinale entwickelt",
+        "4": "Ideal für die monatliche Urinalpflege",
+        "5": "Geeignet für wasserlose Urinale",
+        "6": "Mit recyceltem EVA hergestellt, mit Eco-One™ auf der Deponie biologisch abbaubar",
+        "7": "Verpackt in Schachteln aus 100 % Recyclingkarton",
+        "8": "Abmessungen: 13 x 13 x 1,8 cm",
+        "9": "Einzigartiges Design, große Farbauswahl und angenehme Düfte",
+        "10": "Private Branding mit Ihrem Logo, ins Material geschnitten oder aufgedruckt"
       },
       "useCases": {
         "0": "Boutique-Hospitality",
@@ -528,17 +549,21 @@
     "ekcoClip": {
       "name": "ëkco clip",
       "imageAlt": "Blauer ëkco clip WC-Duftclip in Schleifenform mit Spritzschutzrillen, von oben vor schwarzem Hintergrund",
-      "category": "Clip-Armatur",
-      "short": "Sicheres Montagezubehör für stabile Platzierung und klare Linien.",
-      "long": "ëkco clip sorgt für eine gleichbleibende Positionierung, wenn eine Clip-Armatur Teil Ihres Programms ist.",
+      "category": "WC-Clip für frischen Duft, passt an fast jede WC-Schüssel",
+      "short": "ëkco clip ist ein Duftclip für die WC-Schüssel, der für kontinuierliche Geruchskontrolle sorgt und Toilettenkabinen frisch hält. Das eigens entwickelte Material ist mit einem Duft auf Deodorantbasis versetzt und gibt ihn bis zu 30 Tage lang nach und nach ab. Dank des flexiblen Designs passt der Clip an die meisten Arten von WC-Schüsseln, lässt sich leicht anbringen und verteilt den Duft gut.",
+      "long": "ëkco clip ist ein Duftclip für die WC-Schüssel, der für kontinuierliche Geruchskontrolle sorgt und Toilettenkabinen frisch hält. Das eigens entwickelte Material ist mit einem Duft auf Deodorantbasis versetzt und gibt ihn bis zu 30 Tage lang nach und nach ab. Dank des flexiblen Designs passt der Clip an die meisten Arten von WC-Schüsseln, lässt sich leicht anbringen und verteilt den Duft gut.\n\nëkco clip wird mit recyceltem EVA hergestellt. Das Material selbst ist recycelbar, ein gebrauchter WC-Clip jedoch nicht, da er biologisch kontaminiert ist. Er landet auf der Deponie oder in der Müllverbrennung, und deshalb enthält ëkco clip das Additiv Eco-One™. In einem unabhängigen Labortest wurde EVA von ëkcos mit Eco-One™ innerhalb von 3,5 Jahren zu 93 % biologisch abgebaut, und innerhalb von 5 Jahren werden bis zu 99 % prognostiziert.\n\nëkco clip vereint kontinuierliche Geruchskontrolle für bis zu 30 Tage, einfache Anbringung an den meisten WC-Schüsseln und recyceltes, biologisch abbaubares EVA.",
       "benefits": {
-        "0": "WC-Schalen-Lufterfrischer mit sicherem Clip",
-        "1": "Passive Duftfreisetzung — ohne Aerosole oder erhitzte Öle",
-        "2": "Stabiler Sitz bei täglicher Nutzung",
-        "3": "Saubere Optik an modernen Sanitärelementen",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Erfüllt europäische VOC-Standards",
-        "6": "In mehreren Farben und Düften erhältlich"
+        "0": "Eigens entwickeltes Material, versetzt mit einem Duft auf Deodorantbasis, der nach und nach freigesetzt wird",
+        "1": "Wirksamer Schutz vor Gerüchen",
+        "2": "Einzigartiges Design für optimale Duftabgabe",
+        "3": "Duftabgabe bis zu 30 Tage lang",
+        "4": "Flexible Form passt an fast alle Arten von WC-Schüsseln",
+        "5": "Abmessungen: 10 x 5 x 4,5 cm",
+        "6": "Große Auswahl an Farben und angenehmen Düften",
+        "7": "Kostengünstige WC-Beduftung",
+        "8": "Mit recyceltem EVA hergestellt, mit Eco-One™ auf der Deponie biologisch abbaubar",
+        "9": "Verpackt in Schachteln aus 100 % Recyclingkarton",
+        "10": "Private Branding mit Ihrem Logo, ins Material geschnitten oder aufgedruckt"
       },
       "useCases": {
         "0": "Facility-Retrofits",
@@ -548,45 +573,50 @@
     "freshDrop": {
       "name": "frësh drop",
       "imageAlt": "Blau-weißer tropfenförmiger frësh drop Lufterfrischer mit Spritzschutzborsten, von oben vor schwarzem Hintergrund",
-      "category": "Frischesystem",
-      "short": "Gezielte Frischeabgabe mit wählbaren Duftrichtungen.",
-      "long": "frësh drop ist für Programme gedacht, die flexible Dufterzählung und zugleich einfache Abläufe wollen.",
+      "category": "langanhaltender WC-Lufterfrischer ohne Batterien",
+      "short": "frësh drop ist ein Lufterfrischer für Innenräume, entwickelt für Toilettenkabinen und Sanitärräume. Sein Einsatz aus eigens entwickeltem Material mit Duft auf Deodorantbasis gibt den Duft nach und nach ab, ohne Batterien oder Strom. In geschlossenen Kabinen mit wenig oder keiner Belüftung hält er 60+ Tage, bei stärkerer Luftbewegung verflüchtigt sich der Duft schneller. Das Design in Wassertropfenform passt zu jeder Toiletteneinrichtung, und dank des mitgelieferten Klebebands lässt er sich auf fast jeder Oberfläche einfach anbringen. Für kleine Räume wählen Sie den kompakten ëkco loop.",
+      "long": "frësh drop ist ein Lufterfrischer für Innenräume, entwickelt für Toilettenkabinen und Sanitärräume. Sein Einsatz aus eigens entwickeltem Material mit Duft auf Deodorantbasis gibt den Duft nach und nach ab, ohne Batterien oder Strom. In geschlossenen Kabinen mit wenig oder keiner Belüftung hält er 60+ Tage, bei stärkerer Luftbewegung verflüchtigt sich der Duft schneller. Das Design in Wassertropfenform passt zu jeder Toiletteneinrichtung, und dank des mitgelieferten Klebebands lässt er sich auf fast jeder Oberfläche einfach anbringen. Für kleine Räume wählen Sie den kompakten ëkco loop.\n\nDer Einsatz des frësh drop wird mit recyceltem EVA hergestellt, und das Material ist recycelbar. Einsatz und Halterung enthalten beide das Additiv Eco-One™ und sind daher beide auf der Deponie biologisch abbaubar. In einem unabhängigen Labortest wurde EVA von ëkcos mit Eco-One™ innerhalb von 3,5 Jahren zu 93 % biologisch abgebaut, und innerhalb von 5 Jahren werden bis zu 99 % prognostiziert.\n\nfrësh drop vereint 60+ Tage Duft, einfache Montage und einen Einsatz mit recyceltem, biologisch abbaubarem EVA für Toilettenkabinen und Sanitärräume.",
       "benefits": {
-        "0": "Passiver Multiuse-Lufterfrischer mit kontrollierter Duftfreisetzung",
-        "1": "Ohne Tropfenmechanismus, Batterien oder Aerosolspray",
-        "2": "Wählbare Düfte für unterschiedliche Räume",
-        "3": "Geeignet für Waschräume, Lobbys, Umkleiden und mehr",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Erfüllt europäische VOC-Standards",
-        "6": "Einfach zu platzieren und im professionellen Service zu tauschen"
+        "0": "Eigens entwickeltes Material, versetzt mit einem Duft auf Deodorantbasis, der nach und nach freigesetzt wird",
+        "1": "Perfekt, um Sanitärräume frisch und sauber zu halten, speziell für Toilettenkabinen entwickelt",
+        "2": "Duftabgabe 60+ Tage in geschlossenen Kabinen, ohne Batterien oder Strom",
+        "3": "Design in Wassertropfenform, das zu jeder Toiletteneinrichtung passt",
+        "4": "Einfache Montage mit dem mitgelieferten Klebeband",
+        "5": "Abmessungen: 23 x 12 x 3,5 cm",
+        "6": "Große Auswahl an Farben und angenehmen Düften",
+        "7": "Einsatz hergestellt mit recyceltem, recycelbarem EVA",
+        "8": "Einsatz und Halterung mit Eco-One™ auf der Deponie biologisch abbaubar",
+        "9": "Verpackt in Schachteln aus 100 % Recyclingkarton",
+        "10": "Private Branding per Aufdruck möglich"
       },
       "useCases": {
         "0": "Hospitality",
         "1": "Premium-Einzelhandel"
       },
       "bases": {
-        "white": "Weiß / Basis",
-        "black": "Schwarz / Basis"
+        "white": "frësh drop halterung weiß",
+        "black": "frësh drop halterung schwarz"
       }
     },
     "ezTrap": {
       "name": "ëz trap",
       "imageAlt": "Weiße ëz trap Kartusche für wasserlose Urinale mit schwarzer Dichtung, schräg vor schwarzem Hintergrund",
-      "category": "Ablaufschutz",
-      "short": "Schützt Abläufe und unterstützt Hygienroutinen.",
-      "long": "ëz trap ist für praktische Wartungsabläufe und zuverlässige Leistung im Tagesbetrieb ausgelegt.",
+      "category": "geruchsdichte, pflegeleichte Kartusche für wasserlose Urinale",
+      "short": "ëz trap ist ein innovatives Kartuschensystem, entwickelt, um Effizienz, Sauberkeit und Geruchskontrolle wasserloser Urinale zu verbessern und zugleich die Wartungskosten deutlich zu senken.",
+      "long": "ëz trap ist ein innovatives Kartuschensystem, entwickelt, um Effizienz, Sauberkeit und Geruchskontrolle wasserloser Urinale zu verbessern und zugleich die Wartungskosten deutlich zu senken.\n\nMit dem patentierten Kartuschensystem von ëz trap fließt der Urin auf natürliche Weise durch den Siphon ab, und eine Verschlusskappe dichtet nach jeder Benutzung ab. Das verhindert, dass Gerüche entweichen, und sorgt dafür, dass bei jeder Benutzung alter Urin aus dem System entfernt wird. So bleibt der Sanitärraum frischer.\n\nëz trap wird mit dem Additiv Eco-One™ hergestellt, wodurch die Kartusche auf der Deponie biologisch abbaubar ist. In einem unabhängigen Labortest wurde Material von ëkcos mit Eco-One™ innerhalb von 3,5 Jahren zu 93 % biologisch abgebaut, und innerhalb von 5 Jahren werden bis zu 99 % prognostiziert.\n\nëz trap bietet eine effiziente, wartungsarme und kostensparende Lösung, um Abflussgerüche aus wasserlosen Urinalen fernzuhalten.",
       "variants": {
-        "withTool": "Mit Entnahmewerkzeug",
-        "withoutTool": "Ohne Entnahmewerkzeug"
+        "withoutTool": "ohne Ausbauwerkzeug",
+        "withTool": "mit Ausbauwerkzeug"
       },
       "benefits": {
-        "0": "Upgrade für wasserlose Urinale — hilft, Gerüche am Ablauf zu kontrollieren",
-        "1": "Robuste Konstruktion für den täglichen Gewerbebetrieb",
-        "2": "Unterstützt sauberere und wartungsfreundlichere Abläufe",
-        "3": "Mit oder ohne Entnahmewerkzeug erhältlich",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Erfüllt europäische VOC-Standards",
-        "6": "Ergänzt ëkcos-Urinalsiebe in kompletten Washroom-Setups"
+        "0": "Blockiert Abflussgerüche: Siphon und Verschlusskappe verhindern, dass unangenehme Kanalgerüche entweichen",
+        "1": "Keine teuren Gele oder Spezialreiniger nötig",
+        "2": "Einfache, kostengünstige Pflege: täglich nur ein Glas Wasser nachgießen, um Kalkablagerungen zu verhindern",
+        "3": "Lange Haltbarkeit: Die Kartusche hält 4 bis 6+ Monate, und regelmäßige Reinigung mit einem Kalklöser (z. B. hochwertigem WC-Gel) verlängert ihre Lebensdauer",
+        "4": "Breite Kompatibilität: geeignet für Sloan, Falcon, Vitra, Bobrick und andere Marken mit dem Falcon-Velocity-System (Durchmesser 11,8 cm, Höhe 11,5 cm)",
+        "5": "Abmessungen: Ø 11,8 x 11,5 cm",
+        "6": "Verpackt in Schachteln aus 100 % Recyclingkarton",
+        "7": "Mit dem Additiv Eco-One™ auf der Deponie biologisch abbaubar"
       },
       "useCases": {
         "0": "Gastronomie",
@@ -596,21 +626,25 @@
     "xcrenPuck": {
       "name": "xcrën puck",
       "imageAlt": "Blaues xcrën puck Urinalsieb in X-Form mit Puck-Halter in der Mitte, von oben vor schwarzem Hintergrund",
-      "category": "Puck-Format",
-      "short": "NON-PARA-Puck-Urinalsieb für Geruchskontrolle und Abflussschutz.",
-      "long": "xcrën ist ein NON-PARA-Puck-Urinalsieb für wirksame Geruchskontrolle und Abflussschutz. Im Gegensatz zu herkömmlichen PARA-Produkten ist es frei von Paradichlorbenzen (PARA), einer von der WHO als möglicherweise krebserregend eingestuften Verbindung. Das einzigartige X-Design verhindert Verstopfungen durch Feststoffe und sorgt nach jeder Nutzung für bis zu 30 Tage für eine frische Duftabgabe.",
+      "category": "X-förmiges Urinalsieb mit desodorierendem Puck",
+      "short": "xcrën puck ist ein Urinalsieb mit desodorierendem NON-PARA-Puck, entwickelt für wirksame Geruchskontrolle und den Schutz des Abflusses. Es enthält kein Paradichlorbenzol (PARA), das die WHO als möglicherweise krebserregend einstuft. PARA-Pucks werden noch in manchen Urinalsieben verwendet, während EU-Vorschriften PARA in Desodorierungsmitteln für Toiletten beschränken. Sein X-förmiges Design verhindert, dass Feststoffe und Schmutz den Abfluss verstopfen, und bei jeder Benutzung gibt es bis zu 30 Tage lang einen sauberen, frischen Duft ab.",
+      "long": "xcrën puck ist ein Urinalsieb mit desodorierendem NON-PARA-Puck, entwickelt für wirksame Geruchskontrolle und den Schutz des Abflusses. Es enthält kein Paradichlorbenzol (PARA), das die WHO als möglicherweise krebserregend einstuft. PARA-Pucks werden noch in manchen Urinalsieben verwendet, während EU-Vorschriften PARA in Desodorierungsmitteln für Toiletten beschränken. Sein X-förmiges Design verhindert, dass Feststoffe und Schmutz den Abfluss verstopfen, und bei jeder Benutzung gibt es bis zu 30 Tage lang einen sauberen, frischen Duft ab.\n\nDer Puck besteht hauptsächlich aus Wachs und Glycerin und löst sich bei Gebrauch auf. xcrën puck wird mit dem Additiv Eco-One™ hergestellt, wodurch es auf der Deponie biologisch abbaubar ist. In einem unabhängigen Labortest wurde Material von ëkcos mit Eco-One™ innerhalb von 3,5 Jahren zu 93 % biologisch abgebaut, und innerhalb von 5 Jahren werden bis zu 99 % prognostiziert. Es ist ein Einwegprodukt, und der Puck kann nicht durch einen neuen ersetzt werden.\n\nxcrën puck ist eine einfache, wirksame Lösung, um Urinale bis zu 30 Tage lang frisch und Abflüsse frei zu halten.",
       "variants": {
-        "whiteFresh": "Weiß / Frisch",
-        "blueFresh": "Blau / Frisch"
+        "whiteFresh": "weiß / fresh",
+        "blueFresh": "blau / fresh"
       },
       "benefits": {
-        "0": "Kompakter Non-Para-Puck für flexible Platzierung im Urinal",
-        "1": "Liefert Duft dort, wo ein volles Sieb nicht passt",
-        "2": "Kleine Stellfläche mit klarer Markenpräsenz",
-        "3": "Einfach zu platzieren, zu prüfen und auszutauschen",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Erfüllt europäische VOC-Standards",
-        "6": "In frischen Duftvarianten erhältlich"
+        "0": "NON-PARA-Puck: kein Paradichlorbenzol, das die WHO als möglicherweise krebserregend einstuft",
+        "1": "Verhindert, dass Feststoffe und andere Fremdkörper den Abfluss verstopfen",
+        "2": "Gibt bei jeder Benutzung bis zu 30 Tage lang einen sauberen, frischen Duft ab",
+        "3": "Ideal für die monatliche Urinalpflege",
+        "4": "Puck hauptsächlich aus Wachs und Glycerin",
+        "5": "Einwegprodukt: Der Puck kann nicht durch einen neuen ersetzt werden",
+        "6": "Abmessungen: 17 x 17 x 2,9 cm",
+        "7": "Verpackt in Schachteln aus 100 % Recyclingkarton",
+        "8": "Mit dem Additiv Eco-One™ auf der Deponie biologisch abbaubar",
+        "9": "Neues, einzigartiges X-Design",
+        "10": "Private Branding mit Ihrem Logo, ins Material geschnitten oder aufgedruckt"
       },
       "useCases": {
         "0": "Kompakte Waschräume",
@@ -620,20 +654,19 @@
     "ekcoMat": {
       "name": "ëkco mat",
       "imageAlt": "Dunkelgraue saugfähige ëkco mat Urinal-Bodenmatte, von oben vor schwarzem Hintergrund",
-      "category": "Bodenmatte",
-      "short": "Bodenschutz mit sauberem, professionellem Look.",
-      "long": "ëkco mat unterstützt Hygienenzonen in Einrichtungen mit Fokus auf Haltbarkeit und Präsentation.",
+      "category": "preiswerte Urinal-Bodenmatte, die Ihren Fußboden schützt",
+      "short": "ëkco mat ist eine saugfähige Urinal-Bodenmatte, entwickelt, um die Hygiene im Sanitärraum zu verbessern und Böden vor Urinansammlungen zu schützen. Mit 54 x 51 x 0,5 cm deckt sie den Bereich um die meisten Standardurinale wirksam ab, verhindert Bodenschäden und verringert die Verschleppung von Urin über die Schuhsohlen der Nutzer. Das hilft, den Sanitärraum sauberer und angenehmer zu halten.",
+      "long": "ëkco mat ist eine saugfähige Urinal-Bodenmatte, entwickelt, um die Hygiene im Sanitärraum zu verbessern und Böden vor Urinansammlungen zu schützen. Mit 54 x 51 x 0,5 cm deckt sie den Bereich um die meisten Standardurinale wirksam ab, verhindert Bodenschäden und verringert die Verschleppung von Urin über die Schuhsohlen der Nutzer. Das hilft, den Sanitärraum sauberer und angenehmer zu halten.\n\nëkco mat ist eine kostengünstige Einweglösung, ideal für Restaurants, Hotels und andere stark frequentierte Orte, an denen Hygiene Priorität hat.\n\nëkco mat bietet eine praktische, hygienische und preiswerte Lösung für saubere, professionell gepflegte Sanitärräume.",
       "variants": {
-        "standard": "Standard"
+        "standard": "schwarz"
       },
       "benefits": {
-        "0": "Urinal-Bodenmatte fängt Spritzer auf und hält Böden sauberer",
-        "1": "Langlebige Oberfläche für täglichen Gewerbeverkehr",
-        "2": "Professionelle Optik für das komplette Washroom-Setup",
-        "3": "Einfach unter Urinalen zu positionieren und zu reinigen",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Erfüllt europäische VOC-Standards",
-        "6": "Passt zu ëkcos-Sieben als vollständige Hygienelösung"
+        "0": "Schützt den Boden unter dem Urinal",
+        "1": "Verringert die Verschleppung von Urin über Schuhsohlen",
+        "2": "Kostengünstige Hygienelösung",
+        "3": "Für den Einmalgebrauch",
+        "4": "Private Branding möglich",
+        "5": "Abmessungen: 54 x 51 x 0,5 cm"
       },
       "useCases": {
         "0": "Eingänge",

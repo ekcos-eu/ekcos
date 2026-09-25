@@ -1,11 +1,11 @@
 {
   "Metadata": {
     "title": "ëkcos — Go Green With Every Flush",
-    "description": "Eco-friendly sanitary products made from recycled EVA plastic with Eco-One™ additive — up to 99% biodegradable.",
+    "description": "Our urinal screens and fresheners are made with recycled EVA. The material itself can be recycled, but a used urinal screen cannot, because it is biologically contaminated. It ends up in landfill or incineration, and that is why we add the Eco-One™ additive to all our products.",
     "productsTitle": "Products",
     "productsDescription": "Explore ëkcos products: switch models, finishes, and options — then visit the official store.",
     "ecoOneTitle": "Eco-One™",
-    "ecoOneDescription": "The plastic that returns to nature. Same product, same performance, a fraction of the footprint — with Eco-One™ biodegradable additive.",
+    "ecoOneDescription": "Our urinal screens and fresheners are made with recycled EVA. The material itself can be recycled, but a used urinal screen cannot, because it is biologically contaminated. It ends up in landfill or incineration, and that is why we add the Eco-One™ additive to all our products.",
     "brandingTitle": "Custom Branding",
     "brandingDescription": "Private branding, cutouts, and printing for B2B programs.",
     "articlesTitle": "Articles",
@@ -55,7 +55,7 @@
     }
   },
   "footer": {
-    "tagline": "Eco-friendly urinal screens and accessories — hygiene without compromise, lower cleaning costs, official EU distributor.",
+    "tagline": "ëkcos innovations delivers hygiene solutions that keep restrooms clean and fresh, make maintenance easier, and use recycled, biodegradable materials.",
     "explore": "Explore",
     "newsletterTitle": "Newsletter",
     "newsletterHint": "Product updates and program news. Unsubscribe anytime.",
@@ -119,15 +119,15 @@
     },
     "hero": {
       "title": "Go Green With Every Flush",
-      "tagline": "Up to 99% biodegradable",
-      "body": "Eco-friendly sanitary products made from recycled EVA plastic with Eco-One™ additive — better for the planet, safer for your restrooms.",
+      "tagline": "Biodegradable in landfill with Eco-One™",
+      "body": "Our urinal screens and fresheners are made with recycled EVA. The material itself can be recycled, but a used urinal screen cannot, because it is biologically contaminated.",
       "ctaProducts": "Explore products",
       "brandMark": "ekcos.eu"
     },
     "benefits": {
       "eco": {
-        "title": "Eco-Friendly & Biodegradable",
-        "body": "Made from recycled EVA plastic and up to 99% biodegradable with Eco-One™."
+        "title": "Recycled EVA with Eco-One™",
+        "body": "Biodegradable products made with recycled EVA"
       },
       "hygiene": {
         "title": "Hygiene Without Compromise",
@@ -197,9 +197,9 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "The plastic that returns to nature",
-      "tagline": "Same product. Same performance. A fraction of the footprint.",
-      "body": "Urinal screens cannot be recycled: through constant contact with urine they become biologically contaminated. Their only disposal routes are therefore incineration or landfill. In landfill, conventional plastic remains for centuries. Our products are manufactured with the Eco-One™ additive, which allows the material to biodegrade."
+      "title": "Eco-One™ for landfill biodegradation",
+      "tagline": "Same product. Same performance. Made with recycled EVA and Eco-One™.",
+      "body": "Our urinal screens and fresheners are made with recycled EVA. The material itself can be recycled, but a used urinal screen cannot, because it is biologically contaminated. It ends up in landfill or incineration, and that is why we add the Eco-One™ additive to all our products. In an independent test under ASTM D5511 and ISO 15985 at the Instituto Politécnico Nacional in Mexico City, ëkcos EVA with Eco-One™ reached 93% biodegradation within 3.5 years, while the same material without the additive showed 0%. Up to 99% biodegradation is projected within 5 years. Our boxes are made from 100% recycled cardboard."
     },
     "metrics": {
       "additive": {
@@ -269,8 +269,8 @@
       }
     },
     "closing": {
-      "title": "ëkcos biodegradable products",
-      "body": "Our washroom products are manufactured with the Eco-One™ additive and are up to 99% biodegradable, with performance identical to products without it and in many ways surpasses them.",
+      "title": "ëkcos products with Eco-One™",
+      "body": "Our washroom products are manufactured with the Eco-One™ additive. In an independent laboratory test, ëkcos EVA with Eco-One™ reached 93% biodegradation within 3.5 years, and up to 99% is projected within 5 years in landfill conditions — with performance identical to products without the additive.",
       "shopCta": "Shop"
     },
     "footnote": "Data source: independent biodegradation test per ASTM D5511-02 and ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) — ëkcos product with 1% Eco-One™ additive: 93.31% biodegradation over 1,288 days (≈3.5 years); the same product without the additive: 0%. Biodegradation beyond the test period (up to 99% within ~5 years) is projected from the measured trend. Persistence figures for conventional plastics (≈300–1,000 years) are widely cited industry estimates. The Eco-One™ additive is manufactured and certified by EcoLogic, LLC."
@@ -399,46 +399,50 @@
       "citrus": "Citrus"
     },
     "variantLabels": {
-      "x1p": "Purple / Berry",
-      "x2g": "Light green / Apple",
-      "x3b": "Blue / Fresh",
-      "x4o": "Orange / Tropical fruit",
-      "x6c": "Clear / Tropical fruit",
-      "x7bk": "Black / Mint",
-      "x8bm": "Flame / Mango",
-      "x9g": "Dark green / Pine",
-      "x10r": "Red / Melon",
-      "x12p": "Dark purple / Lavender",
-      "x13c": "Yellow / Citrus"
+      "x1p": "purple / berry",
+      "x2g": "green / apple",
+      "x3b": "blue / fresh",
+      "x4o": "orange / tropical fruit",
+      "x6c": "clear / tropical fruit",
+      "x7bk": "black / mint",
+      "x8bm": "flame / mango",
+      "x9g": "green / pine",
+      "x10r": "red / melon",
+      "x12p": "purple / lavender",
+      "x13c": "yellow / citrus"
     },
     "xcrenHd": {
       "name": "xcrën HD",
       "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
-      "category": "Premium urinal screen",
-      "badge": "Xtreme anti-splash urinal screen",
-      "short": "High-performance urinal screen engineered for consistent fragrance release and a clean appearance.",
-      "long": "xcrën HD combines refined industrial design with dependable performance in high-traffic washrooms. Pair with Eco-One™ for end-of-life options aligned with your sustainability goals.",
+      "category": "high-design urinal screen with xtreme splash protection",
+      "badge": "high-design urinal screen with xtreme splash protection",
+      "short": "xcrën HD 60+ is a fragranced urinal screen with a patented shape that stands out in the urinal. Unlike typical oval screens, it turns the urinal into a design element. Its patented bristles (Sealed Bristles Technology™) cover 92% of the screen and minimize urine splashback and unpleasant odors. Made from a proprietary material infused with a deodorant-based fragrance, it releases fragrance gradually for 60+ days. In low-traffic restrooms, it lasts even longer.",
+      "long": "xcrën HD 60+ is a fragranced urinal screen with a patented shape that stands out in the urinal. Unlike typical oval screens, it turns the urinal into a design element. Its patented bristles (Sealed Bristles Technology™) cover 92% of the screen and minimize urine splashback and unpleasant odors. Made from a proprietary material infused with a deodorant-based fragrance, it releases fragrance gradually for 60+ days. In low-traffic restrooms, it lasts even longer.\n\nDesigned for high-traffic restrooms in restaurants, bars, airports, and shopping malls, xcrën HD 60+ combines hygiene with a look that sets the restroom apart.\n\nxcrën HD 60+ is made with recycled EVA. The material itself can be recycled, but a used urinal screen cannot, because it is biologically contaminated. It ends up in landfill or incineration, and that is why xcrën HD 60+ contains the Eco-One™ additive. In an independent laboratory test, ëkcos EVA with Eco-One™ reached 93% biodegradation within 3.5 years, and up to 99% is projected within 5 years.\n\nxcrën HD 60+ combines strong splash protection, 60+ days of fragrance, and a patented design that stands out in any restroom.",
       "benefits": {
-        "0": "Patented bristle system covers 95% of the surface to prevent urine splashback",
-        "1": "Fragrance infused into the material and released gradually for 60+ days",
-        "2": "Up to double the longevity and fragrance intensity of typical market screens",
-        "3": "Built for high-traffic restrooms — restaurants, bars, airports, malls, and more",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Complies with European VOC standards and is non-toxic to water sources",
-        "6": "Suitable for waterless urinals; private branding available"
+        "0": "Patented shape that stands out from typical oval screens",
+        "1": "Patented anti-splash bristles cover 92% of the screen surface to help protect users from unwanted splashback and keep the surrounding area cleaner",
+        "2": "Proprietary material infused with a deodorant-based fragrance that releases gradually for 60+ days",
+        "3": "Fragrance lasts twice as long as standard 30-day screens",
+        "4": "Specially designed for high-traffic restrooms, such as in restaurants, bars, airports, shopping malls, etc.",
+        "5": "Made with recycled EVA, biodegradable in landfill with Eco-One™",
+        "6": "Packed in boxes made from 100% recycled cardboard",
+        "7": "Perfect for waterless urinals",
+        "8": "Dimensions: 17 x 18 x 2.1 cm",
+        "9": "Wide range of colors and pleasant fragrances",
+        "10": "Private branding with your logo cut into the material or printed"
       },
       "variants": {
-        "xhd1p": "Purple / Berry",
-        "xhd2g": "Light green / Apple",
-        "xhd3b": "Blue / Fresh",
-        "xhd4o": "Orange / Tropical fruit",
-        "xhd6c": "Clear / Tropical fruit",
-        "xhd7bk": "Black / Mint",
-        "xhd8bm": "Flame / Mango",
-        "xhd9g": "Dark green / Pine",
-        "xhd10r": "Red / Melon",
-        "xhd12p": "Dark purple / Lavender",
-        "xhd13c": "Yellow / Citrus"
+        "xhd1p": "purple / berry",
+        "xhd2g": "green / apple",
+        "xhd3b": "blue / fresh",
+        "xhd4o": "orange / tropical fruit",
+        "xhd6c": "clear / tropical fruit",
+        "xhd7bk": "black / mint",
+        "xhd8bm": "flame / mango",
+        "xhd9g": "green / pine",
+        "xhd10r": "red / melon",
+        "xhd12p": "purple / lavender",
+        "xhd13c": "yellow / citrus"
       },
       "useCases": {
         "0": "Corporate offices",
@@ -448,17 +452,22 @@
     "ekcoscreen": {
       "name": "ëkcoscreen",
       "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
-      "category": "Urinal screen",
-      "short": "Balanced performance for everyday commercial washrooms with reliable odor control.",
-      "long": "ëkcoscreen delivers a practical balance of cost and performance for facilities that need dependable hygiene support without compromise on presentation.",
+      "category": "heavyweight anti-splash urinal screen with double the fragrance life",
+      "short": "ëkcoscreen 60+ is a fragranced urinal screen with patented bristles (Sealed Bristles Technology™) that cover 95% of the screen. It minimizes urine splashback and unpleasant odors for a cleaner, more comfortable restroom. Made from a proprietary material infused with a deodorant-based fragrance, it releases fragrance gradually for 60+ days, twice as long as standard 30-day screens. In low-traffic restrooms, it lasts even longer.",
+      "long": "ëkcoscreen 60+ is a fragranced urinal screen with patented bristles (Sealed Bristles Technology™) that cover 95% of the screen. It minimizes urine splashback and unpleasant odors for a cleaner, more comfortable restroom. Made from a proprietary material infused with a deodorant-based fragrance, it releases fragrance gradually for 60+ days, twice as long as standard 30-day screens. In low-traffic restrooms, it lasts even longer.\n\nDesigned for high-traffic restrooms in restaurants, bars, airports, shopping malls, and other hygiene-focused facilities, ëkcoscreen 60+ enhances cleanliness and odor control.\n\nëkcoscreen 60+ is made with recycled EVA. The material itself can be recycled, but a used urinal screen cannot, because it is biologically contaminated. It ends up in landfill or incineration, and that is why ëkcoscreen 60+ contains the Eco-One™ additive. In an independent laboratory test, ëkcos EVA with Eco-One™ reached 93% biodegradation within 3.5 years, and up to 99% is projected within 5 years.\n\nëkcoscreen 60+ combines effective splash protection, 60+ days of fragrance, and recycled, biodegradable EVA for high-traffic restrooms.",
       "benefits": {
-        "0": "Patented anti-splash bristles for cleaner floors and less bacterial spread",
-        "1": "Fragrance released gradually for 60+ days of freshness",
-        "2": "Reliable odor control for everyday commercial washrooms",
-        "3": "Easy visual check for service and replacement teams",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Complies with European VOC standards",
-        "6": "Wide range of colors and fragrances; private branding available"
+        "0": "Patented anti-splash bristles cover 95% of the screen surface to help protect users from unwanted splashback and keep the surrounding area cleaner",
+        "1": "No visible splashback outside the screen in a side-by-side UV splash test under identical conditions",
+        "2": "Proprietary material infused with a deodorant-based fragrance that releases gradually for 60+ days",
+        "3": "Fragrance lasts twice as long as 30-day screens, at a similar cost per day",
+        "4": "141 g of fragranced material per screen, more than three times a typical screen",
+        "5": "Specially designed for high-traffic restrooms, such as in restaurants, bars, airports, shopping malls, etc.",
+        "6": "Made with recycled EVA, biodegradable in landfill with Eco-One™",
+        "7": "Packed in boxes made from 100% recycled cardboard",
+        "8": "Ideal for waterless urinals",
+        "9": "Dimensions: 20 x 21 x 2.2 cm",
+        "10": "Unique design, wide range of colors, and pleasant fragrances",
+        "11": "Private branding with your logo cut into the material or printed"
       },
       "useCases": {
         "0": "Retail",
@@ -468,17 +477,21 @@
     "powerscreen": {
       "name": "powër screen",
       "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
-      "category": "Performance urinal screen",
-      "short": "Built for demanding environments where performance and presentation matter.",
-      "long": "powër screen is tuned for venues with high throughput, helping maintain a premium washroom experience with structured fragrance delivery.",
+      "category": "powërful anti-splash urinal screen for monthly changes",
+      "short": "powër screen is a fragranced urinal screen with a patented bristle system (Sealed Bristles Technology™). It minimizes urine splashback and unpleasant odors for a cleaner, more comfortable restroom. Made from a proprietary material infused with a deodorant-based fragrance, it releases fragrance gradually for up to 30 days, which makes it ideal for monthly urinal maintenance.",
+      "long": "powër screen is a fragranced urinal screen with a patented bristle system (Sealed Bristles Technology™). It minimizes urine splashback and unpleasant odors for a cleaner, more comfortable restroom. Made from a proprietary material infused with a deodorant-based fragrance, it releases fragrance gradually for up to 30 days, which makes it ideal for monthly urinal maintenance.\n\npowër screen is made with recycled EVA. The material itself can be recycled, but a used urinal screen cannot, because it is biologically contaminated. It ends up in landfill or incineration, and that is why powër screen contains the Eco-One™ additive. In an independent laboratory test, ëkcos EVA with Eco-One™ reached 93% biodegradation within 3.5 years, and up to 99% is projected within 5 years.\n\npowër screen combines effective splash protection, up to 30 days of fragrance, and recycled, biodegradable EVA for monthly restroom maintenance.",
       "benefits": {
-        "0": "Anti-splash bristle design for effective splashback control",
-        "1": "Fragrance performance tuned for up to 30-day service intervals",
-        "2": "Engineered for high-traffic venues and demanding facilities",
-        "3": "Strong on-site presentation for premium washrooms",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Complies with European VOC standards",
-        "6": "Available in multiple colors and fragrances"
+        "0": "Patented anti-splash bristles to help protect users from unwanted splashback and keep the surrounding area cleaner",
+        "1": "Proprietary material infused with a deodorant-based fragrance that releases gradually for up to 30 days",
+        "2": "Ideal for monthly urinal maintenance",
+        "3": "Made with recycled EVA, biodegradable in landfill with Eco-One™",
+        "4": "Packed in boxes made from 100% recycled cardboard",
+        "5": "Suitable for waterless urinals",
+        "6": "Flexible shape fits almost all types of urinals",
+        "7": "Design that enhances any restroom",
+        "8": "Dimensions: 18 x 20 x 1.8 cm",
+        "9": "Unique design, wide range of colors, and pleasant fragrances",
+        "10": "Private branding with your logo cut into the material or printed"
       },
       "useCases": {
         "0": "Stadiums",
@@ -488,17 +501,21 @@
     "basicScreen": {
       "name": "basic scrëen",
       "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
-      "category": "Essential urinal screen",
-      "short": "Straightforward protection and freshness for standard washroom programs.",
-      "long": "basic scrëen is the practical choice for programs that need dependable hygiene support with clear service expectations.",
+      "category": "landfill-biodegradable urinal screen at a basic price",
+      "short": "basic scrëen is a cost-effective urinal screen that deodorizes urinals and prevents debris buildup. Made from a proprietary material infused with a deodorant-based fragrance, it releases fragrance gradually for up to 30 days, which makes it ideal for monthly urinal maintenance.",
+      "long": "basic scrëen is a cost-effective urinal screen that deodorizes urinals and prevents debris buildup. Made from a proprietary material infused with a deodorant-based fragrance, it releases fragrance gradually for up to 30 days, which makes it ideal for monthly urinal maintenance.\n\nbasic scrëen is made with recycled EVA. The material itself can be recycled, but a used urinal screen cannot, because it is biologically contaminated. It ends up in landfill or incineration, and that is why basic scrëen contains the Eco-One™ additive. In an independent laboratory test, ëkcos EVA with Eco-One™ reached 93% biodegradation within 3.5 years, and up to 99% is projected within 5 years.\n\nbasic scrëen combines reliable odor control, protection against debris, and recycled, biodegradable EVA at a low cost.",
       "benefits": {
-        "0": "Straightforward anti-splash protection for standard urinal programs",
-        "1": "Fragrance support aligned with monthly maintenance cycles",
-        "2": "Simple to deploy across large estates and multi-site portfolios",
-        "3": "Predictable replacement cadence for facility teams",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Complies with European VOC standards",
-        "6": "Cost-effective option with a clear color and scent range"
+        "0": "Proprietary material infused with a deodorant-based fragrance that releases gradually",
+        "1": "Fragrance release for up to 30 days",
+        "2": "Ideal for monthly urinal maintenance",
+        "3": "Suitable for waterless urinals",
+        "4": "Flexible shape fits almost all types of urinals",
+        "5": "Dimensions: 20 x 19 cm",
+        "6": "Unique design, wide range of colors, and pleasant fragrances",
+        "7": "Low-cost solution for monthly urinal hygiene",
+        "8": "Made with recycled EVA, biodegradable in landfill with Eco-One™",
+        "9": "Shipped in cartons made from 100% recycled cardboard",
+        "10": "Private branding with your logo cut into the material or printed"
       },
       "useCases": {
         "0": "Schools",
@@ -508,17 +525,21 @@
     "urolite": {
       "name": "üro lite",
       "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
-      "category": "Compact urinal screen",
-      "short": "Compact format with flexible finish options for modern fixtures.",
-      "long": "üro lite fits compact urinal geometries while maintaining ëkcos quality cues and service-friendly handling.",
+      "category": "small urinal screen, big splash protection",
+      "short": "üro lite is a flexible fragranced urinal screen designed for smaller urinals. It uses the same patented Sealed Bristles Technology™ as ëkcoscreen 60+, and instead of a larger diameter it relies on long bristles that deliver big splash protection in a small screen. It keeps urine splashback and unpleasant odors to a minimum. Made from a proprietary material infused with a deodorant-based fragrance, it releases fragrance gradually for up to 30 days, which makes it ideal for monthly urinal maintenance.",
+      "long": "üro lite is a flexible fragranced urinal screen designed for smaller urinals. It uses the same patented Sealed Bristles Technology™ as ëkcoscreen 60+, and instead of a larger diameter it relies on long bristles that deliver big splash protection in a small screen. It keeps urine splashback and unpleasant odors to a minimum. Made from a proprietary material infused with a deodorant-based fragrance, it releases fragrance gradually for up to 30 days, which makes it ideal for monthly urinal maintenance.\n\nüro lite is made with recycled EVA. The material itself can be recycled, but a used urinal screen cannot, because it is biologically contaminated. It ends up in landfill or incineration, and that is why üro lite contains the Eco-One™ additive. In an independent laboratory test, ëkcos EVA with Eco-One™ reached 93% biodegradation within 3.5 years, and up to 99% is projected within 5 years.\n\nüro lite gives smaller urinals big splash protection with its unique patented long bristles, in a compact, cost-effective screen made with recycled, biodegradable EVA.",
       "benefits": {
-        "0": "Compact geometry that fits modern and smaller urinal bowls",
-        "1": "Anti-splash performance in a lighter-format screen",
-        "2": "Fragrance release suited to up to 30-day service intervals",
-        "3": "Multiple finish and fragrance options",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Complies with European VOC standards",
-        "6": "Easy handling for boutique hospitality and premium offices"
+        "0": "Unique patented long bristles help protect users from splashback and keep the surrounding area cleaner",
+        "1": "Same patented Sealed Bristles Technology™ as ëkcoscreen 60+",
+        "2": "Proprietary material infused with a deodorant-based fragrance that releases gradually for up to 30 days",
+        "3": "Compact size specially designed for smaller urinals",
+        "4": "Ideal for monthly urinal maintenance",
+        "5": "Suitable for waterless urinals",
+        "6": "Made with recycled EVA, biodegradable in landfill with Eco-One™",
+        "7": "Packed in boxes made from 100% recycled cardboard",
+        "8": "Dimensions: 13 x 13 x 1.8 cm",
+        "9": "Unique design, wide range of colors, and pleasant fragrances",
+        "10": "Private branding with your logo cut into the material or printed"
       },
       "useCases": {
         "0": "Boutique hospitality",
@@ -528,17 +549,21 @@
     "ekcoClip": {
       "name": "ëkco clip",
       "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
-      "category": "Clip fixture",
-      "short": "Secure mounting accessory designed for stable placement and clean lines.",
-      "long": "ëkco clip helps maintain consistent positioning where a clip-style fixture is part of your program.",
+      "category": "fresh toilet bowl clip that fits almost any bowl",
+      "short": "ëkco clip is a toilet bowl freshener clip that provides continuous odor control and keeps toilet cubicles fresh. Made from a proprietary material infused with a deodorant-based fragrance, it releases fragrance gradually for up to 30 days. Its flexible design fits most toilet bowl types, so it is easy to attach and spreads fragrance well.",
+      "long": "ëkco clip is a toilet bowl freshener clip that provides continuous odor control and keeps toilet cubicles fresh. Made from a proprietary material infused with a deodorant-based fragrance, it releases fragrance gradually for up to 30 days. Its flexible design fits most toilet bowl types, so it is easy to attach and spreads fragrance well.\n\nëkco clip is made with recycled EVA. The material itself can be recycled, but a used toilet bowl clip cannot, because it is biologically contaminated. It ends up in landfill or incineration, and that is why ëkco clip contains the Eco-One™ additive. In an independent laboratory test, ëkcos EVA with Eco-One™ reached 93% biodegradation within 3.5 years, and up to 99% is projected within 5 years.\n\nëkco clip combines continuous odor control for up to 30 days, an easy fit on most toilet bowls, and recycled, biodegradable EVA.",
       "benefits": {
-        "0": "Toilet-bowl air freshener with secure clip placement",
-        "1": "Passive fragrance release — no aerosols or heated oils",
-        "2": "Stable fit that stays in place during daily use",
-        "3": "Clean visual integration with modern washroom fixtures",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Complies with European VOC standards",
-        "6": "Available in multiple colors and fragrances"
+        "0": "Proprietary material infused with a deodorant-based fragrance that releases gradually",
+        "1": "Effective odor protection",
+        "2": "Unique design for optimal fragrance release",
+        "3": "Fragrance release for up to 30 days",
+        "4": "Flexible shape fits almost all toilet bowl types",
+        "5": "Dimensions: 10 x 5 x 4.5 cm",
+        "6": "Wide range of colors and pleasant fragrances",
+        "7": "Cost-effective toilet fragrancing",
+        "8": "Made with recycled EVA, biodegradable in landfill with Eco-One™",
+        "9": "Packed in boxes made from 100% recycled cardboard",
+        "10": "Private branding with your logo cut into the material or printed"
       },
       "useCases": {
         "0": "Facility retrofits",
@@ -548,45 +573,50 @@
     "freshDrop": {
       "name": "frësh drop",
       "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
-      "category": "Freshness system",
-      "short": "Targeted freshness delivery with selectable fragrance directions.",
-      "long": "frësh drop is built for programs that want flexible fragrance storytelling while keeping operations simple.",
+      "category": "long-lasting WC air freshener that needs no batteries",
+      "short": "frësh drop is an interior air freshener designed for toilet cubicles and restrooms. Its insert, made from a proprietary material infused with a deodorant-based fragrance, releases fragrance gradually without batteries or electricity. In closed cubicles with little or no ventilation it lasts 60+ days, and where the air moves more the fragrance disperses faster. Its waterdrop-shaped design complements any restroom interior, while the included adhesive tape allows for easy installation on almost any surface. For small spaces, choose the compact ëkco loop.",
+      "long": "frësh drop is an interior air freshener designed for toilet cubicles and restrooms. Its insert, made from a proprietary material infused with a deodorant-based fragrance, releases fragrance gradually without batteries or electricity. In closed cubicles with little or no ventilation it lasts 60+ days, and where the air moves more the fragrance disperses faster. Its waterdrop-shaped design complements any restroom interior, while the included adhesive tape allows for easy installation on almost any surface. For small spaces, choose the compact ëkco loop.\n\nThe frësh drop insert is made with recycled EVA, and the material can be recycled. The insert and the base both contain the Eco-One™ additive, so both are biodegradable in landfill. In an independent laboratory test, ëkcos EVA with Eco-One™ reached 93% biodegradation within 3.5 years, and up to 99% is projected within 5 years.\n\nfrësh drop combines 60+ days of fragrance, easy installation, and a recycled, biodegradable EVA insert for toilet cubicles and restrooms.",
       "benefits": {
-        "0": "Passive multi-use air freshener with controlled fragrance release",
-        "1": "No dripping mechanism, batteries, or aerosol spray",
-        "2": "Selectable scent directions for different spaces",
-        "3": "Suitable for restrooms, lobbies, locker rooms, and more",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Complies with European VOC standards",
-        "6": "Simple to place and replace in professional programs"
+        "0": "Proprietary material infused with a deodorant-based fragrance that releases gradually",
+        "1": "Perfect way to maintain a fresh and clean restroom environment, specially designed for toilet cubicles",
+        "2": "Fragrance release for 60+ days in closed cubicles, no batteries or electricity needed",
+        "3": "Waterdrop design that complements any restroom interior",
+        "4": "Easy installation using the included adhesive tape",
+        "5": "Dimensions: 23 x 12 x 3.5 cm",
+        "6": "Wide range of colors and pleasant fragrances",
+        "7": "Insert made with recycled, recyclable EVA",
+        "8": "Insert and base biodegradable in landfill with Eco-One™",
+        "9": "Packed in boxes made from 100% recycled cardboard",
+        "10": "Option for private branding through printing"
       },
       "useCases": {
         "0": "Hospitality",
         "1": "Premium retail"
       },
       "bases": {
-        "white": "White / Base",
-        "black": "Black / Base"
+        "white": "white",
+        "black": "black"
       }
     },
     "ezTrap": {
       "name": "ëz trap",
       "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
-      "category": "Drain protection",
-      "short": "Helps protect drains while supporting hygiene routines.",
-      "long": "ëz trap is designed for practical maintenance workflows and dependable performance in daily operations.",
+      "category": "odor-sealing, easy-care waterless urinal cartridge",
+      "short": "ëz trap is an innovative cartridge system designed to enhance the efficiency, cleanliness, and odor control of waterless urinals while significantly reducing maintenance costs.",
+      "long": "ëz trap is an innovative cartridge system designed to enhance the efficiency, cleanliness, and odor control of waterless urinals while significantly reducing maintenance costs.\n\nFeaturing the patented ëz trap Cartridge System, it allows urine to flow naturally through the siphon, with a closing cap that seals after each use. This prevents odors from escaping and ensures that with every use, old urine is removed from the system, maintaining a fresher restroom environment.\n\nëz trap is made with the Eco-One™ additive, which makes it biodegradable in landfill. In an independent laboratory test, ëkcos material with Eco-One™ reached 93% biodegradation within 3.5 years, and up to 99% is projected within 5 years.\n\nëz trap offers an efficient, low-maintenance, and cost-saving way to keep drain odors out of waterless urinals.",
       "variants": {
-        "withTool": "With removal tool",
-        "withoutTool": "Without removal tool"
+        "withoutTool": "without removal tool",
+        "withTool": "with removal tool"
       },
       "benefits": {
-        "0": "Upgrade for waterless urinals — helps control odors at the drain",
-        "1": "Robust construction for daily commercial use",
-        "2": "Supports cleaner, more maintenance-friendly routines",
-        "3": "Available with or without a removal tool",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Complies with European VOC standards",
-        "6": "Complements ëkcos urinal screens in full washroom setups"
+        "0": "Blocks drain odors: the siphon and closing cap keep unpleasant drainage smells from escaping",
+        "1": "No need for costly gels or specialized cleaners",
+        "2": "Easy and cost-effective maintenance: simply pour a glass of water daily to prevent calcium buildup",
+        "3": "Long-lasting durability: the cartridge lasts 4 to 6+ months, and regular cleaning with an anti-calcium agent (e.g., quality toilet gel) extends its lifespan",
+        "4": "Wide compatibility: suitable for Sloan, Falcon, Vitra, Bobrick, and other brands using the Falcon Velocity system (diameter 11.8 cm, height 11.5 cm)",
+        "5": "Dimensions: Ø 11.8 x 11.5 cm",
+        "6": "Packed in boxes made from 100% recycled cardboard",
+        "7": "Biodegradable in landfill with the Eco-One™ additive"
       },
       "useCases": {
         "0": "Food service",
@@ -596,21 +626,25 @@
     "xcrenPuck": {
       "name": "xcrën puck",
       "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
-      "category": "Puck format",
-      "short": "NON-PARA puck urinal screen for odor control and drainage protection.",
-      "long": "xcrën is a NON-PARA puck urinal screen designed for effective odor control and drainage protection. Unlike traditional PARA-based products, it is free from paradichlorobenzene (PARA), a compound classified as possibly carcinogenic by the WHO. Its unique X-shaped design prevents solids and debris from clogging the drainage system while ensuring a clean and fresh fragrance release after each use for up to 30 days.",
+      "category": "X-shaped urinal screen with a deodorizing puck",
+      "short": "xcrën puck is a urinal screen with a NON-PARA deodorizing puck, designed for effective odor control and drain protection. It contains no paradichlorobenzene (PARA), which the WHO classifies as possibly carcinogenic. PARA pucks are still used in some urinal screens, while EU rules restrict PARA in toilet deodorizers. Its X-shaped design stops solids and debris from clogging the drain, and it releases a clean, fresh fragrance with each use for up to 30 days.",
+      "long": "xcrën puck is a urinal screen with a NON-PARA deodorizing puck, designed for effective odor control and drain protection. It contains no paradichlorobenzene (PARA), which the WHO classifies as possibly carcinogenic. PARA pucks are still used in some urinal screens, while EU rules restrict PARA in toilet deodorizers. Its X-shaped design stops solids and debris from clogging the drain, and it releases a clean, fresh fragrance with each use for up to 30 days.\n\nThe puck is made mainly from wax and glycerin and dissolves with use. xcrën puck is made with the Eco-One™ additive, which makes it biodegradable in landfill. In an independent laboratory test, ëkcos material with Eco-One™ reached 93% biodegradation within 3.5 years, and up to 99% is projected within 5 years. It is a disposable product, and the puck cannot be replaced with a new one.\n\nxcrën puck is a simple, effective way to keep urinals fresh and drains clear for up to 30 days.",
       "variants": {
-        "whiteFresh": "White / Fresh",
-        "blueFresh": "Blue / Fresh"
+        "whiteFresh": "white / fresh",
+        "blueFresh": "blue / fresh"
       },
       "benefits": {
-        "0": "Compact non-para puck format for flexible urinal placement",
-        "1": "Delivers fragrance where a full screen is not the right fit",
-        "2": "Small footprint with a clear branded presence",
-        "3": "Easy to place, check, and replace on service rounds",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Complies with European VOC standards",
-        "6": "Available in fresh scent variants"
+        "0": "NON-PARA puck: no paradichlorobenzene, which the WHO classifies as possibly carcinogenic",
+        "1": "Prevents solids and other debris from clogging the drain",
+        "2": "Releases a clean, fresh fragrance with each use for up to 30 days",
+        "3": "Ideal for monthly urinal maintenance",
+        "4": "Puck made mainly from wax and glycerin",
+        "5": "Disposable: the puck cannot be replaced with a new one",
+        "6": "Dimensions: 17 x 17 x 2.9 cm",
+        "7": "Packed in boxes made from 100% recycled cardboard",
+        "8": "Biodegradable in landfill with the Eco-One™ additive",
+        "9": "A new unique X design",
+        "10": "Private branding with your logo cut into the material or printed"
       },
       "useCases": {
         "0": "Compact washrooms",
@@ -620,20 +654,19 @@
     "ekcoMat": {
       "name": "ëkco mat",
       "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
-      "category": "Floor mat",
-      "short": "Floor protection with a clean, professional look.",
-      "long": "ëkco mat supports facility hygiene zones with a product-focused approach to durability and presentation.",
+      "category": "economical urinal mat that protects your floor",
+      "short": "ëkco mat is an absorbent urinal floor mat designed to enhance restroom hygiene and protect floors from urine accumulation. With dimensions of 54 x 51 x 0.5 cm, it effectively covers the area around most standard urinals, preventing floor damage and reducing urine transfer on users’ shoe soles. This helps maintain a cleaner and more comfortable restroom environment.",
+      "long": "ëkco mat is an absorbent urinal floor mat designed to enhance restroom hygiene and protect floors from urine accumulation. With dimensions of 54 x 51 x 0.5 cm, it effectively covers the area around most standard urinals, preventing floor damage and reducing urine transfer on users’ shoe soles. This helps maintain a cleaner and more comfortable restroom environment.\n\nëkco mat is a cost-effective, disposable solution ideal for restaurants, hotels, and other high-traffic locations where hygiene is a priority.\n\nëkco mat offers a practical, hygienic, and budget-friendly solution for maintaining clean and professional restroom spaces.",
       "variants": {
-        "standard": "Standard"
+        "standard": "black"
       },
       "benefits": {
-        "0": "Urinal floor mat that catches splash and keeps floors cleaner",
-        "1": "Durable surface built for daily commercial traffic",
-        "2": "Professional look that completes the washroom setup",
-        "3": "Easy to position under urinals and clean during service",
-        "4": "100% recyclable and also biodegradable",
-        "5": "Complies with European VOC standards",
-        "6": "Pairs with ëkcos screens for a full hygiene solution"
+        "0": "Protects the floor beneath the urinal",
+        "1": "Reduces the spread of urine on the soles of shoes",
+        "2": "Cost-effective hygiene solution",
+        "3": "Disposable use",
+        "4": "Option for private branding",
+        "5": "Dimensions: 54 x 51 x 0.5 cm"
       },
       "useCases": {
         "0": "Entrances",

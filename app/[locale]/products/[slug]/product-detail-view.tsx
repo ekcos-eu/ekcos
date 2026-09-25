@@ -16,14 +16,25 @@ import { cn } from '@/lib/utils'
 const ECO_ONE_LINK_CLASS =
   'font-medium text-[#0F68B2] underline decoration-[#0F68B2]/35 underline-offset-2 transition-colors hover:decoration-[#0F68B2]'
 
-/** Phrases in Key benefits that should link to the Eco-One™ page */
-const ECO_ONE_LINK_PATTERN =
-  /Eco[-\s]?One(?:™|®)?|100%\s+recyclable\s+and\s+also\s+biodegradable|100%\s+recyklovatelné\s+a\s+také\s+biologicky\s+odbouratelné/gi
+const ECO_ONE_NAME_PATTERN = /Eco[-\s]?One(?:™|®)?/gi
+/** Landfill / recycled-EVA context — full benefit strings with Eco-One™ link as a whole */
+const ECO_ONE_CLAIM_CONTEXT =
+  /biodegrad|biodégrad|recykl|recycl|skládk|landfill|vertedero|décharge|Deponie|discarica|biologicky|abbaubar/i
 
 function linkifyEcoOne(text: string): React.ReactNode {
+  const hasEcoOne = /Eco[-\s]?One(?:™|®)?/i.test(text)
+  // Whole string is an Eco-One™ claim → link entire phrase
+  if (hasEcoOne && ECO_ONE_CLAIM_CONTEXT.test(text)) {
+    return (
+      <Link href="/eco-one" className={ECO_ONE_LINK_CLASS}>
+        {text}
+      </Link>
+    )
+  }
+
   const nodes: React.ReactNode[] = []
   let lastIndex = 0
-  const pattern = new RegExp(ECO_ONE_LINK_PATTERN.source, ECO_ONE_LINK_PATTERN.flags)
+  const pattern = new RegExp(ECO_ONE_NAME_PATTERN.source, ECO_ONE_NAME_PATTERN.flags)
 
   let match: RegExpExecArray | null
   while ((match = pattern.exec(text)) !== null) {
@@ -373,9 +384,15 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
 
           {/* Localized long description (CSV bodyHtml is English-only — do not prefer it) */}
           {localizedProduct.longDescription ? (
-            <p className="text-base leading-relaxed text-[#575756] text-justify">
-              {linkifyEcoOne(localizedProduct.longDescription)}
-            </p>
+            <div className="space-y-3 text-base leading-relaxed text-[#575756] text-justify">
+              {localizedProduct.longDescription
+                .split(/\n\n+/)
+                .map((para) => para.trim())
+                .filter(Boolean)
+                .map((para, index) => (
+                  <p key={index}>{linkifyEcoOne(para)}</p>
+                ))}
+            </div>
           ) : null}
 
           {/* Benefits */}
