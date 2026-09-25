@@ -76,7 +76,7 @@
   },
   "productDetail": {
     "backToMap": "Torna ai servizi igienici",
-    "buyNow": "Acquista sullo store",
+    "buyNow": "Vai al negozio",
     "price": "Prezzo",
     "from": "da",
     "variants": "Varianti disponibili",
@@ -114,7 +114,7 @@
     },
     "overlay": {
       "moreVariants": "Disponibile anche in altri colori e fragranze sullo store.",
-      "shopCta": "Acquista sullo store",
+      "shopCta": "Vai al negozio",
       "close": "Chiudi"
     },
     "hero": {

@@ -76,7 +76,7 @@
   },
   "productDetail": {
     "backToMap": "Zurück zum Waschraum",
-    "buyNow": "Im Shop kaufen",
+    "buyNow": "Zum Shop",
     "price": "Preis",
     "from": "ab",
     "variants": "Verfügbare Varianten",
@@ -114,7 +114,7 @@
     },
     "overlay": {
       "moreVariants": "Im Shop auch in weiteren Farben und Düften erhältlich.",
-      "shopCta": "Im Shop kaufen",
+      "shopCta": "Zum Shop",
       "close": "Schließen"
     },
     "hero": {

@@ -76,7 +76,7 @@
   },
   "productDetail": {
     "backToMap": "Nazaj na stranišče",
-    "buyNow": "Kupi v eshopu",
+    "buyNow": "V trgovino",
     "price": "Cena",
     "from": "od",
     "variants": "Razpoložljive variante",
@@ -114,7 +114,7 @@
     },
     "overlay": {
       "moreVariants": "Na voljo tudi v več barvah in dišavah v trgovini.",
-      "shopCta": "Kupi v eshopu",
+      "shopCta": "V trgovino",
       "close": "Zapri"
     },
     "hero": {

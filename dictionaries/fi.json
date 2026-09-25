@@ -76,7 +76,7 @@
   },
   "productDetail": {
     "backToMap": "Takaisin wc:hen",
-    "buyNow": "Osta verkkokaupasta",
+    "buyNow": "Kauppaan",
     "price": "Hinta",
     "from": "alkaen",
     "variants": "Saatavilla muunnelmia",
@@ -114,7 +114,7 @@
     },
     "overlay": {
       "moreVariants": "Myymälästä löytyy myös useampia värejä ja tuoksuja.",
-      "shopCta": "Osta verkkokaupasta",
+      "shopCta": "Kauppaan",
       "close": "Lähellä"
     },
     "hero": {

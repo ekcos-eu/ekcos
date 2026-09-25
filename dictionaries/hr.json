@@ -76,7 +76,7 @@
   },
   "productDetail": {
     "backToMap": "Natrag u toalet",
-    "buyNow": "Kupite na eshopu",
+    "buyNow": "U trgovinu",
     "price": "Cijena",
     "from": "iz",
     "variants": "Dostupne varijante",
@@ -114,7 +114,7 @@
     },
     "overlay": {
       "moreVariants": "Također dostupan u više boja i mirisa u trgovini.",
-      "shopCta": "Kupite na eshopu",
+      "shopCta": "U trgovinu",
       "close": "Zatvoriti"
     },
     "hero": {

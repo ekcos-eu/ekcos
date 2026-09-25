@@ -76,7 +76,7 @@
   },
   "productDetail": {
     "backToMap": "Înapoi la toaletă",
-    "buyNow": "Cumpărați pe eshop",
+    "buyNow": "Către magazin",
     "price": "Preţ",
     "from": "din",
     "variants": "Variante disponibile",
@@ -114,7 +114,7 @@
     },
     "overlay": {
       "moreVariants": "Disponibil și în mai multe culori și parfumuri în magazin.",
-      "shopCta": "Cumpărați pe eshop",
+      "shopCta": "Către magazin",
       "close": "Aproape"
     },
     "hero": {

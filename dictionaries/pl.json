@@ -76,7 +76,7 @@
   },
   "productDetail": {
     "backToMap": "Powrót do toalety",
-    "buyNow": "Kup w sklepie internetowym",
+    "buyNow": "Do sklepu",
     "price": "Cena",
     "from": "z",
     "variants": "Dostępne warianty",
@@ -114,7 +114,7 @@
     },
     "overlay": {
       "moreVariants": "Dostępne również w większej liczbie kolorów i zapachów w sklepie.",
-      "shopCta": "Kup w sklepie internetowym",
+      "shopCta": "Do sklepu",
       "close": "Zamknąć"
     },
     "hero": {

@@ -76,7 +76,7 @@
   },
   "productDetail": {
     "backToMap": "Atgal į tualetą",
-    "buyNow": "Pirkite elektroninėje parduotuvėje",
+    "buyNow": "Į parduotuvę",
     "price": "Kaina",
     "from": "iš",
     "variants": "Galimi variantai",
@@ -114,7 +114,7 @@
     },
     "overlay": {
       "moreVariants": "Parduotuvėje taip pat galima įsigyti daugiau spalvų ir kvapų.",
-      "shopCta": "Pirkite elektroninėje parduotuvėje",
+      "shopCta": "Į parduotuvę",
       "close": "Uždaryti"
     },
     "hero": {

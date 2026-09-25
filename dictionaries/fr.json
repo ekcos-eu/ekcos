@@ -76,7 +76,7 @@
   },
   "productDetail": {
     "backToMap": "Retour aux sanitaires",
-    "buyNow": "Acheter sur la boutique",
+    "buyNow": "Vers la boutique",
     "price": "Prix",
     "from": "à partir de",
     "variants": "Variantes disponibles",
@@ -114,7 +114,7 @@
     },
     "overlay": {
       "moreVariants": "Aussi disponible en d'autres couleurs et parfums sur la boutique.",
-      "shopCta": "Acheter sur la boutique",
+      "shopCta": "Vers la boutique",
       "close": "Fermer"
     },
     "hero": {

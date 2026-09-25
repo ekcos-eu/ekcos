@@ -76,7 +76,7 @@
   },
   "productDetail": {
     "backToMap": "Zpět na koupelnu",
-    "buyNow": "Koupit na eshopu",
+    "buyNow": "Do obchodu",
     "price": "Cena",
     "from": "od",
     "variants": "Dostupné varianty",
@@ -114,7 +114,7 @@
     },
     "overlay": {
       "moreVariants": "Na eshopu najdete i další barvy a vůně.",
-      "shopCta": "Koupit na eshopu",
+      "shopCta": "Do obchodu",
       "close": "Zavřít"
     },
     "hero": {

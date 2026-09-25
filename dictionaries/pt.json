@@ -76,7 +76,7 @@
   },
   "productDetail": {
     "backToMap": "De volta ao banheiro",
-    "buyNow": "Compre na eshop",
+    "buyNow": "Ir à loja",
     "price": "Preço",
     "from": "de",
     "variants": "Variantes disponíveis",
@@ -114,7 +114,7 @@
     },
     "overlay": {
       "moreVariants": "Também disponível em mais cores e fragrâncias na loja.",
-      "shopCta": "Compre na eshop",
+      "shopCta": "Ir à loja",
       "close": "Fechar"
     },
     "hero": {

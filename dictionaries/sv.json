@@ -76,7 +76,7 @@
   },
   "productDetail": {
     "backToMap": "Tillbaka till toaletten",
-    "buyNow": "Köp på eshop",
+    "buyNow": "Till butiken",
     "price": "Pris",
     "from": "från",
     "variants": "Tillgängliga varianter",
@@ -114,7 +114,7 @@
     },
     "overlay": {
       "moreVariants": "Finns även i fler färger och dofter i butiken.",
-      "shopCta": "Köp på eshop",
+      "shopCta": "Till butiken",
       "close": "Nära"
     },
     "hero": {

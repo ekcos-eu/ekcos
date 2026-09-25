@@ -76,7 +76,7 @@
   },
   "productDetail": {
     "backToMap": "Späť na toaletu",
-    "buyNow": "Nakupujte na eshope",
+    "buyNow": "Do obchodu",
     "price": "Cena",
     "from": "od",
     "variants": "Dostupné varianty",
@@ -114,7 +114,7 @@
     },
     "overlay": {
       "moreVariants": "Na predajni dostupné aj vo viacerých farbách a vôňach.",
-      "shopCta": "Nakupujte na eshope",
+      "shopCta": "Do obchodu",
       "close": "Zavrieť"
     },
     "hero": {

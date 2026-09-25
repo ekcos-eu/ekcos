@@ -76,7 +76,7 @@
   },
   "productDetail": {
     "backToMap": "Atpakaļ uz tualeti",
-    "buyNow": "Pērciet e-veikalā",
+    "buyNow": "Uz veikalu",
     "price": "Cena",
     "from": "no",
     "variants": "Pieejamie varianti",
@@ -114,7 +114,7 @@
     },
     "overlay": {
       "moreVariants": "Veikalā pieejams arī vairākās krāsās un smaržās.",
-      "shopCta": "Pērciet e-veikalā",
+      "shopCta": "Uz veikalu",
       "close": "Aizvērt"
     },
     "hero": {

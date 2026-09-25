@@ -76,7 +76,7 @@
   },
   "productDetail": {
     "backToMap": "Обратно към тоалетната",
-    "buyNow": "Купете в eshop",
+    "buyNow": "Към магазина",
     "price": "Цена",
     "from": "от",
     "variants": "Налични варианти",
@@ -114,7 +114,7 @@
     },
     "overlay": {
       "moreVariants": "Предлага се и в повече цветове и аромати в магазина.",
-      "shopCta": "Купете в eshop",
+      "shopCta": "Към магазина",
       "close": "затвори"
     },
     "hero": {

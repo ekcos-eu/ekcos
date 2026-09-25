@@ -76,7 +76,7 @@
   },
   "productDetail": {
     "backToMap": "Volver al baño",
-    "buyNow": "Comprar en la tienda",
+    "buyNow": "Ir a la tienda",
     "price": "Precio",
     "from": "desde",
     "variants": "Variantes disponibles",
@@ -114,7 +114,7 @@
     },
     "overlay": {
       "moreVariants": "También disponible en más colores y fragancias en la tienda.",
-      "shopCta": "Comprar en la tienda",
+      "shopCta": "Ir a la tienda",
       "close": "Cerrar"
     },
     "hero": {

@@ -76,7 +76,7 @@
   },
   "productDetail": {
     "backToMap": "Back to restroom",
-    "buyNow": "Buy on eshop",
+    "buyNow": "To the shop",
     "price": "Price",
     "from": "from",
     "variants": "Available variants",
@@ -114,7 +114,7 @@
     },
     "overlay": {
       "moreVariants": "Also available in more colors and fragrances on the store.",
-      "shopCta": "Buy on eshop",
+      "shopCta": "To the shop",
       "close": "Close"
     },
     "hero": {

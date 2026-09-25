@@ -76,7 +76,7 @@
   },
   "productDetail": {
     "backToMap": "Terug naar toilet",
-    "buyNow": "Koop op eshop",
+    "buyNow": "Naar de winkel",
     "price": "Prijs",
     "from": "van",
     "variants": "Beschikbare varianten",
@@ -114,7 +114,7 @@
     },
     "overlay": {
       "moreVariants": "Ook verkrijgbaar in meer kleuren en geuren in de winkel.",
-      "shopCta": "Koop op eshop",
+      "shopCta": "Naar de winkel",
       "close": "Dichtbij"
     },
     "hero": {

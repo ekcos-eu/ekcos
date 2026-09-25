@@ -76,7 +76,7 @@
   },
   "productDetail": {
     "backToMap": "Vissza a mellékhelyiségbe",
-    "buyNow": "Vásároljon az eshopban",
+    "buyNow": "A boltba",
     "price": "Ár",
     "from": "-tól",
     "variants": "Elérhető változatok",
@@ -114,7 +114,7 @@
     },
     "overlay": {
       "moreVariants": "Több színben és illatban is kapható a boltban.",
-      "shopCta": "Vásároljon az eshopban",
+      "shopCta": "A boltba",
       "close": "Közeli"
     },
     "hero": {

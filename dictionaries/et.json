@@ -76,7 +76,7 @@
   },
   "productDetail": {
     "backToMap": "Tagasi tualetti",
-    "buyNow": "Osta epoest",
+    "buyNow": "Poodi",
     "price": "Hind",
     "from": "alates",
     "variants": "Saadaval variandid",
@@ -114,7 +114,7 @@
     },
     "overlay": {
       "moreVariants": "Poes saadaval ka rohkemates värvides ja lõhnades.",
-      "shopCta": "Osta epoest",
+      "shopCta": "Poodi",
       "close": "Sule"
     },
     "hero": {
