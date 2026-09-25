@@ -1,0 +1,752 @@
+{
+  "Metadata": {
+    "title": "ëkcos — Bliv grøn med hver skylning",
+    "description": "Vores urinalmåtter og friskere er fremstillet med genanvendt EVA. Selve materialet kan genanvendes, men det kan en brugt urinalmåtte ikke, fordi den er biologisk forurenet. Den ender på deponi eller til forbrænding, og derfor tilsætter vi additivet Eco-One™ til alle vores produkter.",
+    "productsTitle": "Produkter",
+    "productsDescription": "Udforsk ëkcos-produkter: skift modeller, finish og muligheder - så besøg den officielle butik.",
+    "ecoOneTitle": "Eco-One™",
+    "ecoOneDescription": "Vores urinalmåtter og friskere er fremstillet med genanvendt EVA. Selve materialet kan genanvendes, men det kan en brugt urinalmåtte ikke, fordi den er biologisk forurenet. Den ender på deponi eller til forbrænding, og derfor tilsætter vi additivet Eco-One™ til alle vores produkter.",
+    "brandingTitle": "Brugerdefineret branding",
+    "brandingDescription": "Privat branding, udskæringer og print til B2B-programmer.",
+    "articlesTitle": "Artikler",
+    "articlesDescription": "Indsigt, opdateringer og praktiske guider fra ëkcos-teamet.",
+    "contactTitle": "Kontakte",
+    "contactDescription": "Nå ëkcos-teamet for specifikationer, programmer og partnerskaber.",
+    "privateLabelTitle": "Private Label",
+    "privateLabelDescription": "Sælg ëkcos toiletartikler under dit eget varemærke - private label for distributører."
+  },
+  "LocaleSwitcher": {
+    "label": "Sprog",
+    "en": "English",
+    "es": "Spanish",
+    "fr": "French",
+    "de": "German",
+    "it": "Italian",
+    "cs": "Czech"
+  },
+  "nav": {
+    "aria": "Primær",
+    "logoAlt": "ëkcos",
+    "openMenu": "Åbn menuen",
+    "mobileMenuTitle": "Menu",
+    "home": {
+      "label": "Hjem"
+    },
+    "products": {
+      "label": "Produkter"
+    },
+    "articles": {
+      "label": "Artikler"
+    },
+    "ecoOne": {
+      "label": "Eco-One™"
+    },
+    "customBranding": {
+      "label": "Brugerdefineret branding"
+    },
+    "contact": {
+      "label": "Kontakte"
+    },
+    "privateLabel": {
+      "label": "Private Label"
+    },
+    "faq": {
+      "label": "FAQ"
+    }
+  },
+  "footer": {
+    "tagline": "ëkcos innovations leverer hygiejneløsninger, der holder toiletterne rene og friske, gør vedligeholdelsen lettere og bruger genanvendte, biologisk nedbrydelige materialer.",
+    "explore": "Udforske",
+    "newsletterTitle": "Nyhedsbrev",
+    "newsletterHint": "Produktopdateringer og programnyheder. Afmeld når som helst.",
+    "company": {
+      "title": "Virksomhedsoplysninger",
+      "registryCode": "Virksomhedsregistreringskode (Estland)",
+      "vatIdCz": "VAT ID (Tjekkiet)"
+    },
+    "copyright": "© {year} ëkcos. Alle rettigheder forbeholdes.",
+    "legalNote": "Informationssted. Køb gennemføres i den officielle butik."
+  },
+  "common": {
+    "shop": "Butik",
+    "shopCta": "Shop på eshop.ekcos.eu",
+    "learnMore": "Få flere oplysninger",
+    "getInTouch": "Kontakt os",
+    "ecoOne": "Eco-One™"
+  },
+  "productDetail": {
+    "backToMap": "Tilbage til toilettet",
+    "buyNow": "Køb på eshop",
+    "price": "Pris",
+    "from": "fra",
+    "variants": "Tilgængelige varianter",
+    "colors": "Farver og dufte",
+    "bases": "Vægbunde",
+    "benefits": "Vigtige fordele",
+    "more": "Flere detaljer",
+    "openDetails": "Åbn detaljerede billeder",
+    "detailGallery": "Detaljerede billeder — {name}",
+    "detailShot": "detalje",
+    "boundaryError": "Denne produktvisning er midlertidigt utilgængelig. Prøv venligst igen."
+  },
+  "articles": {
+    "shopCta": {
+      "title": "Klar til at opgradere dine toiletter?",
+      "body": "Gennemse ëkcos urinalskærme og tilbehør i den officielle butik.",
+      "button": "Butik"
+    }
+  },
+  "newsletter": {
+    "popupTitle": "Hold dig informeret",
+    "popupDescription": "Lejlighedsvise opdateringer om produkter, Eco-One™ og tilpassede branding-programmer.",
+    "emailLabel": "E-mail",
+    "emailPlaceholder": "you@company.com",
+    "submit": "Abonner",
+    "configureBrevo": "Tilmelding til nyhedsbrev er midlertidigt utilgængelig. Prøv venligst igen senere.",
+    "submitError": "Abonnement mislykkedes. Prøv venligst igen om et øjeblik.",
+    "dismiss": "Ikke nu"
+  },
+  "home": {
+    "map": {
+      "aria": "Interaktivt toilet produktkort",
+      "hint": "Klik på et produkt for at lære mere",
+      "imageAlt": "ëkcos produkter placeret i et kommercielt toilet"
+    },
+    "overlay": {
+      "moreVariants": "Fås også i flere farver og dufte i butikken.",
+      "shopCta": "Køb på eshop",
+      "close": "Tæt"
+    },
+    "hero": {
+      "title": "Bliv grøn med hver skylning",
+      "tagline": "Fremstillet med genanvendt EVA, biologisk nedbrydelig på deponi med Eco-One™",
+      "body": "Vores urinalmåtter og friskere er fremstillet med genanvendt EVA. Selve materialet kan genanvendes, men det kan en brugt urinalmåtte ikke, fordi den er biologisk forurenet.",
+      "ctaProducts": "Udforsk produkter",
+      "brandMark": "ekcos.eu"
+    },
+    "benefits": {
+      "eco": {
+        "title": "Genanvendt EVA med Eco-One™",
+        "body": "Biologisk nedbrydelige produkter fremstillet med genanvendt EVA"
+      },
+      "hygiene": {
+        "title": "Hygiejne uden kompromis",
+        "body": "Giver en renere og mere behagelig oplevelse ved at minimere urinstænk og ubehagelige lugte."
+      },
+      "costs": {
+        "title": "Mindre rengøring, lavere omkostninger",
+        "body": "Op til 60 dages friskhed betyder færre rengøringer og reducerede udgifter."
+      },
+      "distributor": {
+        "title": "Officiel EU-distributør",
+        "body": "Direkte adgang til originale Ekcos-produkter med hurtig levering og fair priser."
+      },
+      "ecoLink": "Om Eco-One™"
+    },
+    "shipping": {
+      "title": "Hurtig forsendelse i hele Europa",
+      "body": "Alle ëkcos-produkter afsendes inden for 1-2 arbejdsdage efter betalingsbekræftelse. Med sikker og effektiv levering i hele EU kan du stole på ensartet lageropfyldning til din virksomhed."
+    },
+    "productOfWeek": {
+      "title": "Ugens produkt",
+      "cta": "Tilføj til kurv"
+    },
+    "productsTeaser": {
+      "title": "Opdag vores produkter",
+      "body": "Udforsk xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip og mere — åbn derefter den officielle butik.",
+      "link": "Se alle produkter"
+    },
+    "brandingTeaser": {
+      "title": "Custom Branding til B2B",
+      "body": "Privat mærkning, udskæringer og udskrivning for ensartede multi-site programmer.",
+      "link": "Brugerdefineret branding"
+    },
+    "trust": {
+      "title": "Bygget til krævende faciliteter",
+      "body": "Pålidelig hygiejne og et førsteklasses indtryk på stedet - fra kontorer til gæstfrihed."
+    },
+    "newsletter": {
+      "title": "Specifikationer, lanceringer og programopdateringer",
+      "body": "Et kort nyhedsbrev til facilitetsteams og partnere. Intet rod."
+    },
+    "finalCta": {
+      "title": "Tag kontakt",
+      "body": "Spørgsmål om produkter, levering eller B2B-ordrer? Send os en besked - vi hjælper gerne.",
+      "shop": "Gå i butikken",
+      "contact": "Send besked"
+    },
+    "marketing": {
+      "featuresEyebrow": "Samlet platform",
+      "featuresTitle": "Sammenlign, beslut og køb med tillid",
+      "featuresSubtitle": "Udforsk finish, gennemgå fakta, og åbn butikken, når du er klar - alt i ét flow.",
+      "featureInteractTitle": "Interaktiv specifikation",
+      "featureInteractBody": "Skift modeller, finish og dufte på få sekunder – bygget til facility- og FM-teams.",
+      "featureProofTitle": "Fakta du kan dele",
+      "featureProofBody": "Ryd Eco-One™-downloads, så dit team kan forklare valget til kolleger eller kunder.",
+      "featureB2bTitle": "Programmer, der skaleres",
+      "featureB2bBody": "Tilpasset branding og B2B-bestilling til udrulninger, der har brug for konsistens, hastighed og et poleret look på stedet.",
+      "numbersEyebrow": "Ved tallene",
+      "numbersTitle": "Operationel klarhed, premium præsentation",
+      "statProductsLabel": "Produktfamilier at udforske",
+      "statTechLabel": "Eco-One™ fakta og downloads",
+      "statShopLabel": "Officiel butik",
+      "galleryEyebrow": "Opstilling",
+      "galleryTitle": "Foto fra kataloget",
+      "gallerySubtitle": "Ægte produktfotografering til forslag, præsentationer og gennemgange."
+    }
+  },
+  "ecoOne": {
+    "hero": {
+      "title": "Eco-One™ til bionedbrydning på lossepladser",
+      "tagline": "Samme produkt. Samme præstation. Fremstillet med genbrugt EVA og Eco-One™.",
+      "body": "Vores urinalmåtter og friskere er fremstillet med genanvendt EVA. Selve materialet kan genanvendes, men det kan en brugt urinalmåtte ikke, fordi den er biologisk forurenet. Den ender på deponi eller til forbrænding, og derfor tilsætter vi additivet Eco-One™ til alle vores produkter. I en uafhængig test efter ASTM D5511 og ISO 15985 på Instituto Politécnico Nacional i Mexico City nåede EVA fra ëkcos med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, mens det samme materiale uden additivet viste 0 %. Inden for 5 år forventes op til 99 % biologisk nedbrydning. Vores æsker er lavet af 100 % genanvendt pap."
+    },
+    "metrics": {
+      "additive": {
+        "value": "~1 %",
+        "label": "additivt indhold"
+      },
+      "measured": {
+        "value": "~3,5 år",
+        "label": "til 93 % biologisk nedbrydning"
+      },
+      "projected": {
+        "value": "op til 99 %",
+        "label": "inden for ~5 år"
+      }
+    },
+    "problem": {
+      "title": "Hvorfor almindelig plast er et problem",
+      "body": "Almindelige plastprodukter er konstrueret til at holde. Uden et bionedbrydningsadditiv kan et plastikprodukt, der sendes til losseplads, forblive der i <bold>300 til 1.000 år</bold>; skum \"Crocs-style\" træsko er et velkendt eksempel på plastik, der er <bold>ikke biologisk nedbrydeligt</bold>. Vores produkter er lavet af den samme slags holdbare plastik (EVA) - men med én afgørende forskel: Eco-One™-additivet.",
+      "chartAlt": "Produkter uden Eco-One™ sammenlignet med ëkcos produkter, der indeholder tilsætningsstoffet",
+      "chartCaption": "Produkter uden Eco-One™ sammenlignet med ëkcos produkter, der indeholder tilsætningsstoffet.",
+      "chart": {
+        "ariaLabel": "Sammenligning af år at nedbryde på losseplads",
+        "withoutLabel": "Produkter uden Eco-One™",
+        "withLabel": "ëkcos med Eco-One™",
+        "withoutValue": "300-1.000 år",
+        "withValue": "3,5-5 år",
+        "withoutDetail": "Uden et bionedbrydningsadditiv kan konventionel plast forblive på lossepladsen i århundreder.",
+        "withDetail": "Med tilsætningsstoffet Eco-One™ viser uafhængig test ~93 % biologisk nedbrydning på omkring 3,5 år og op til 99 % inden for fem år.",
+        "axisLabel": "År at bryde ned (losseplads)",
+        "caption": "Produkter uden Eco-One™ sammenlignet med ëkcos produkter, der indeholder tilsætningsstoffet.",
+        "scaleLabel": "Diagram skala",
+        "scaleFull": "0-1.000 år",
+        "scaleZoom": "0-10 år",
+        "clippedNote": "fortsætter →"
+      }
+    },
+    "solution": {
+      "title": "Vores løsning: Eco-One™-additivet",
+      "body1": "Under fremstillingen inkorporerer vi cirka <bold>1% af Eco-One™</bold>, et organisk tilsætningsstof doseret på samme måde som et farvestof. Det påvirker ikke produktets styrke, udseende eller ydeevne.",
+      "body2": "I en biologisk aktiv losseplads nedbryder naturligt forekommende mikroorganismer det behandlede plastik gennem enzymatisk aktivitet og omdanner det til biogas (<bold>methan</bold>, som moderne lossepladser opfanger til energigenvinding), kuldioxid og humus.",
+      "body3": "Fordi produktet i sidste ende nedbrydes til humus, returnerer det organisk materiale til lossepladsen og hjælper med at accelerere de biokemiske processer, der allerede er i gang der. Produktet bidrager derfor <bold>ikke kun i dets levetid, men også efter det</bold>."
+    },
+    "testing": {
+      "title": "Uafhængig test",
+      "body": "Produktet blev testet af et uafhængigt laboratorium i henhold til de internationale standarder <bold>ASTM D5511 og ISO 15985</bold>, hvor man sammenligner det samme produkt med og uden Eco-One™-additivet. Med Eco-One™ nåede den <bold>93,31 % biologisk nedbrydning inden for cirka 3,5 år og op til 99 % inden for fem år</bold>; uden Eco-One™ viste produktet ingen målbar biologisk nedbrydning.",
+      "barChart": {
+        "ariaLabel": "Biologisk nedbrydning efter cirka 3,5 år med og uden Eco-One™",
+        "yAxis": "Bionedbrydning (%)",
+        "withLabel": "ëkcos med Eco-One™",
+        "withoutLabel": "Produkter uden Eco-One™",
+        "withDetail": "93,31% biologisk nedbrydning målt i en uafhængig ASTM D5511 / ISO 15985 laboratorietest efter ca. 3,5 år.",
+        "withoutDetail": "Det samme produkt uden Eco-One™ viste ingen målbar biologisk nedbrydning i den samme testperiode.",
+        "subtitle": "Samme produkt · samme laboratorietest (ASTM D5511 / ISO 15985) · ~3,5 år"
+      },
+      "timelineChart": {
+        "ariaLabel": "Biologisk nedbrydning over fem år med og uden Eco-One™",
+        "yAxis": "Bionedbrydning (%)",
+        "xAxis": "år",
+        "withLabel": "ëkcos med Eco-One™",
+        "withoutLabel": "Produkter uden Eco-One™",
+        "zeroNote": "0% hele tiden",
+        "measured": "målt",
+        "projected": "projekteret",
+        "yearsUnit": "år",
+        "projectedNote": "Fremskrevet ud fra den målte tendens",
+        "caption": "Biologisk nedbrydning med og uden tilsætningsstoffet Eco-One™. Værdier ud over 3,5 år er fremskrevet ud fra den målte trend."
+      }
+    },
+    "closing": {
+      "title": "ëkcos produkter med Eco-One™",
+      "body": "Vores toiletartikler er fremstillet med tilsætningsstoffet Eco-One™. I en uafhængig laboratorietest nåede ëkcos EVA med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, og op til 99 % forventes inden for 5 år under lossepladsforhold - med ydelse identisk med produkter uden tilsætningsstoffet.",
+      "shopCta": "Butik"
+    },
+    "footnote": "Datakilde: uafhængig bionedbrydningstest i henhold til ASTM D5511-02 og ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) — ëkcos-produkt med 1 % Eco-One™-additiv: 93,31 % biologisk nedbrydning over 1,28,5 år (≈28,5 år); samme produkt uden tilsætningsstoffet: 0%. Biologisk nedbrydning ud over testperioden (op til 99 % inden for ~5 år) forventes ud fra den målte trend. Persistenstal for konventionel plast (≈300-1.000 år) er meget citerede industriestimater. Eco-One™-additivet er fremstillet og certificeret af EcoLogic, LLC."
+  },
+  "customBranding": {
+    "hero": {
+      "eyebrow": "B2B specifikation",
+      "title": "Brugerdefineret branding",
+      "subtitle": "Privat mærkning, udskæringer og udskrivning til multi-site brand-programmer."
+    },
+    "introEyebrow": "Programoversigt",
+    "introTitle": "Specifikationsstyret branding",
+    "intro": "Vi hjælper dig med at sætte dit brand på produktet med fabrikskvalitet: klare specifikationer, stabil produktion og papirarbejde, dit team kan give til revisorer eller kunder.",
+    "sections": {
+      "private": {
+        "title": "Privat branding",
+        "body": "Dit kunstværk håndteres konsekvent fra godkendelse til produktion - så hver batch matcher dit brand."
+      },
+      "cutouts": {
+        "title": "Brugerdefinerede udskæringer",
+        "body": "Formede åbninger og fordybninger, der passer til rigtige armaturer, og hvordan dine teams installerer dem."
+      },
+      "print": {
+        "title": "Udskrivningsmuligheder",
+        "body": "Holdbart tryk, der forbliver læseligt på produktet ved daglig brug."
+      }
+    },
+    "pricing": {
+      "title": "Kommercielle vilkår",
+      "description": "Udgivne gebyrer: engangsopsætning, branding pr. enhed og valgfri emballageetiketter.",
+      "entryFee": "Engangsadgangsgebyr",
+      "brandingCost": "Branding omkostninger",
+      "packagingLabels": "Brugerdefinerede etiketter på emballagen"
+    },
+    "standardMoq": {
+      "title": "MOQ for standard branding",
+      "description": "Minimumsbestillingsmængder for standard branding-programmer med logoudskæringer eller tryk.",
+      "productLabel": "Produkt",
+      "moqLabel": "MOQ [stk]",
+      "note": "* Hvis du kun vil bestille Fresh Drop-baserne, er MOQ 288 stk."
+    },
+    "customMix": {
+      "title": "Brugerdefineret farve- og duftmix",
+      "description": "Vi kan fremstille en skræddersyet kombination af duft og farve fra vores sortiment. Minimum ordremængde svarer til en hel palle af hvert kundetilpasset produkt.",
+      "productLabel": "Produkt",
+      "moqLabel": "MOQ [stk]",
+      "note": "* Basic Screen MOQ er til en halv palle."
+    },
+    "production": {
+      "title": "Produktion, leveringstid og betaling"
+    },
+    "process": {
+      "title": "En simpel proces",
+      "steps": {
+        "0": "Vi er enige om mængder, regioner og timing.",
+        "1": "Du godkender kunst, materialer og finish.",
+        "2": "Vi fremstiller med kvalitetstjek ved hvert trin.",
+        "3": "Vi sender til dine websteder efter den tidsplan, du har brug for."
+      }
+    },
+    "inquiry": {
+      "title": "Anmod om oplysninger",
+      "hint": "Fortæl os om mængder, regioner og brandingkrav."
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Teknisk og kommerciel support",
+      "title": "Kontakte",
+      "subtitle": "Spørg os om Eco-One™, specifikationer eller B2B-programmer — bestil når som helst i den officielle butik."
+    },
+    "details": {
+      "title": "Kontakte",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "hours": "Timer",
+      "hoursValue": "Mandag-fredag, 09:00-17:00 CET"
+    },
+    "company": {
+      "title": "Registrerede virksomhedsoplysninger",
+      "registryCode": "Virksomhedsregistreringskode (Estland)",
+      "vatIdCz": "VAT ID (Tjekkiet)"
+    },
+    "form": {
+      "name": "Navn",
+      "company": "Selskab",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "message": "Besked",
+      "submit": "Send besked",
+      "success": "Tak – vi vender tilbage til dig snarest.",
+      "error": "Noget gik galt. Prøv venligst igen."
+    }
+  },
+  "products": {
+    "page": {
+      "title": "Products",
+      "intro": "Switch models and finishes, then buy in the official store.",
+      "heroEyebrow": "Explore the range",
+      "heroTitle": "Configure every line in one place",
+      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroLinkEco": "About Eco-One™",
+      "heroLinkBranding": "Custom branding"
+    },
+    "configurator": {
+      "color": "Finish",
+      "selectProduct": "Select product",
+      "fragrance": "Fragrance options",
+      "benefits": "Benefits",
+      "productBenefits": "Product benefits",
+      "availableColorsFragrances": "Available colors & fragrances",
+      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
+      "byBrand": "by ëkcos",
+      "siteUrl": "www.ekcos.eu",
+      "useCases": "Typical applications",
+      "brandingNote": "Custom branding available for qualified orders."
+    },
+    "colors": {
+      "white": "White",
+      "grey": "Grey",
+      "black": "Black",
+      "blue": "Blue"
+    },
+    "fragrances": {
+      "fresh": "Fresh",
+      "citrus": "Citrus"
+    },
+    "variantLabels": {
+      "x1p": "lilla / skovbær",
+      "x2g": "grøn / æble",
+      "x3b": "blå / fresh",
+      "x4o": "orange / tropisk frugt",
+      "x6c": "transparent / tropisk frugt",
+      "x7bk": "sort / mynte",
+      "x8bm": "flamme / mango",
+      "x9g": "grøn / fyrrenål",
+      "x10r": "rød / melon",
+      "x12p": "lilla / lavendel",
+      "x13c": "gul / citrus"
+    },
+    "xcrenHd": {
+      "name": "xcrën HD",
+      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "category": "designurinalmåtte med xtrem stænkbeskyttelse",
+      "badge": "designurinalmåtte med xtrem stænkbeskyttelse",
+      "short": "xcrën HD 60+ er en urinalmåtte med duft og en patenteret form, der skiller sig ud i urinalet. I modsætning til typiske ovale måtter gør den urinalet til et designelement. Dens patenterede børstehår (Sealed Bristles Technology™) dækker 92 % af måtten og minimerer urinstænk og ubehagelig lugt. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i 60+ dage. På toiletter med få besøgende holder den endnu længere.",
+      "long": "xcrën HD 60+ er en urinalmåtte med duft og en patenteret form, der skiller sig ud i urinalet. I modsætning til typiske ovale måtter gør den urinalet til et designelement. Dens patenterede børstehår (Sealed Bristles Technology™) dækker 92 % af måtten og minimerer urinstænk og ubehagelig lugt. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i 60+ dage. På toiletter med få besøgende holder den endnu længere.\n\nUdviklet til travle toiletter i restauranter, barer, lufthavne og indkøbscentre kombinerer xcrën HD 60+ hygiejne med et udseende, der får toilettet til at skille sig ud.\n\nxcrën HD 60+ er fremstillet med genanvendt EVA. Selve materialet kan genanvendes, men det kan en brugt urinalmåtte ikke, fordi den er biologisk forurenet. Den ender på deponi eller til forbrænding, og derfor indeholder xcrën HD 60+ additivet Eco-One™. I en uafhængig laboratorietest nåede EVA fra ëkcos med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, og op til 99 % forventes inden for 5 år.\n\nxcrën HD 60+ kombinerer stærk stænkbeskyttelse, 60+ dages duft og et patenteret design, der skiller sig ud på ethvert toilet.",
+      "benefits": {
+        "0": "Patenteret form, der skiller sig ud fra typiske ovale måtter",
+        "1": "Patenterede børstehår mod stænk dækker 92 % af måttens overflade, hjælper med at beskytte brugerne mod uønsket tilbagesprøjt og holder omgivelserne renere",
+        "2": "Specialudviklet materiale tilsat en duft på deodorantbasis, der afgives gradvist i 60+ dage",
+        "3": "Duften holder dobbelt så længe som standardmåtter med 30 dages duft",
+        "4": "Specielt udviklet til travle toiletter, fx i restauranter, barer, lufthavne, indkøbscentre osv.",
+        "5": "Fremstillet med genanvendt EVA, biologisk nedbrydelig på deponi med Eco-One™",
+        "6": "Pakket i æsker af 100 % genanvendt pap",
+        "7": "Perfekt til vandfri urinaler",
+        "8": "Mål: 17 x 18 x 2,1 cm",
+        "9": "Stort udvalg af farver og behagelige dufte",
+        "10": "Private branding med eget logo skåret ind i materialet eller trykt"
+      },
+      "variants": {
+        "xhd1p": "lilla / skovbær",
+        "xhd2g": "grøn / æble",
+        "xhd3b": "blå / fresh",
+        "xhd4o": "orange / tropisk frugt",
+        "xhd6c": "transparent / tropisk frugt",
+        "xhd7bk": "sort / mynte",
+        "xhd8bm": "flamme / mango",
+        "xhd9g": "grøn / fyrrenål",
+        "xhd10r": "rød / melon",
+        "xhd12p": "lilla / lavendel",
+        "xhd13c": "gul / citrus"
+      },
+      "useCases": {
+        "0": "Corporate offices",
+        "1": "Hotels and hospitality"
+      }
+    },
+    "ekcoscreen": {
+      "name": "ëkcoscreen",
+      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "tung anti-stænk urinalmåtte, der dufter dobbelt så længe",
+      "short": "ëkcoscreen 60+ er en urinalmåtte med duft og patenterede børstehår (Sealed Bristles Technology™), der dækker 95 % af måtten. Den minimerer urinstænk og ubehagelig lugt og giver et renere og mere behageligt toilet. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i 60+ dage, dobbelt så længe som standardmåtter med 30 dages duft. På toiletter med få besøgende holder den endnu længere.",
+      "long": "ëkcoscreen 60+ er en urinalmåtte med duft og patenterede børstehår (Sealed Bristles Technology™), der dækker 95 % af måtten. Den minimerer urinstænk og ubehagelig lugt og giver et renere og mere behageligt toilet. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i 60+ dage, dobbelt så længe som standardmåtter med 30 dages duft. På toiletter med få besøgende holder den endnu længere.\n\nUdviklet til travle toiletter i restauranter, barer, lufthavne, indkøbscentre og andre steder med fokus på hygiejne forbedrer ëkcoscreen 60+ renligheden og lugtkontrollen.\n\nëkcoscreen 60+ er fremstillet med genanvendt EVA. Selve materialet kan genanvendes, men det kan en brugt urinalmåtte ikke, fordi den er biologisk forurenet. Den ender på deponi eller til forbrænding, og derfor indeholder ëkcoscreen 60+ additivet Eco-One™. I en uafhængig laboratorietest nåede EVA fra ëkcos med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, og op til 99 % forventes inden for 5 år.\n\nëkcoscreen 60+ kombinerer effektiv stænkbeskyttelse, 60+ dages duft og genanvendt, biologisk nedbrydeligt EVA-materiale til travle toiletter.",
+      "benefits": {
+        "0": "Patenterede børstehår mod stænk dækker 95 % af måttens overflade, hjælper med at beskytte brugerne mod uønsket tilbagesprøjt og holder omgivelserne renere",
+        "1": "Intet synligt stænk uden for måtten i en UV-stænktest side om side under identiske forhold",
+        "2": "Specialudviklet materiale tilsat en duft på deodorantbasis, der afgives gradvist i 60+ dage",
+        "3": "Duften holder dobbelt så længe som måtter med 30 dages duft, til en lignende pris pr. dag",
+        "4": "141 g duftende materiale pr. måtte, mere end tre gange så meget som en typisk måtte",
+        "5": "Specielt udviklet til travle toiletter, fx i restauranter, barer, lufthavne, indkøbscentre osv.",
+        "6": "Fremstillet med genanvendt EVA, biologisk nedbrydelig på deponi med Eco-One™",
+        "7": "Pakket i æsker af 100 % genanvendt pap",
+        "8": "Ideel til vandfri urinaler",
+        "9": "Mål: 20 x 21 x 2,2 cm",
+        "10": "Unikt design, stort udvalg af farver og behagelige dufte",
+        "11": "Private branding med eget logo skåret ind i materialet eller trykt"
+      },
+      "useCases": {
+        "0": "Retail",
+        "1": "Public buildings"
+      }
+    },
+    "powerscreen": {
+      "name": "powër screen",
+      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "category": "kraftig anti-stænk urinalmåtte til månedlig udskiftning",
+      "short": "powër screen er en urinalmåtte med duft og et patenteret børstesystem (Sealed Bristles Technology™). Den minimerer urinstænk og ubehagelig lugt og giver et renere og mere behageligt toilet. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i op til 30 dage, hvilket gør den ideel til månedlig vedligeholdelse af urinaler.",
+      "long": "powër screen er en urinalmåtte med duft og et patenteret børstesystem (Sealed Bristles Technology™). Den minimerer urinstænk og ubehagelig lugt og giver et renere og mere behageligt toilet. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i op til 30 dage, hvilket gør den ideel til månedlig vedligeholdelse af urinaler.\n\npowër screen er fremstillet med genanvendt EVA. Selve materialet kan genanvendes, men det kan en brugt urinalmåtte ikke, fordi den er biologisk forurenet. Den ender på deponi eller til forbrænding, og derfor indeholder powër screen additivet Eco-One™. I en uafhængig laboratorietest nåede EVA fra ëkcos med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, og op til 99 % forventes inden for 5 år.\n\npowër screen kombinerer effektiv stænkbeskyttelse, op til 30 dages duft og genanvendt, biologisk nedbrydeligt EVA-materiale til månedlig vedligeholdelse af toiletter.",
+      "benefits": {
+        "0": "Patenterede børstehår mod stænk hjælper med at beskytte brugerne mod uønsket tilbagesprøjt og holder omgivelserne renere",
+        "1": "Specialudviklet materiale tilsat en duft på deodorantbasis, der afgives gradvist i op til 30 dage",
+        "2": "Ideel til månedlig vedligeholdelse af urinaler",
+        "3": "Fremstillet med genanvendt EVA, biologisk nedbrydelig på deponi med Eco-One™",
+        "4": "Pakket i æsker af 100 % genanvendt pap",
+        "5": "Egnet til vandfri urinaler",
+        "6": "Fleksibel form passer til næsten alle typer urinaler",
+        "7": "Design, der løfter ethvert toilet",
+        "8": "Mål: 18 x 20 x 1,8 cm",
+        "9": "Unikt design, stort udvalg af farver og behagelige dufte",
+        "10": "Private branding med eget logo skåret ind i materialet eller trykt"
+      },
+      "useCases": {
+        "0": "Stadiums",
+        "1": "Transport hubs"
+      }
+    },
+    "basicScreen": {
+      "name": "basic scrëen",
+      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "category": "prisvenlig urinalmåtte, biologisk nedbrydelig på deponi",
+      "short": "basic scrëen er en prisvenlig urinalmåtte, der deodoriserer urinaler og forhindrer, at snavs samler sig. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i op til 30 dage, hvilket gør den ideel til månedlig vedligeholdelse af urinaler.",
+      "long": "basic scrëen er en prisvenlig urinalmåtte, der deodoriserer urinaler og forhindrer, at snavs samler sig. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i op til 30 dage, hvilket gør den ideel til månedlig vedligeholdelse af urinaler.\n\nbasic scrëen er fremstillet med genanvendt EVA. Selve materialet kan genanvendes, men det kan en brugt urinalmåtte ikke, fordi den er biologisk forurenet. Den ender på deponi eller til forbrænding, og derfor indeholder basic scrëen additivet Eco-One™. I en uafhængig laboratorietest nåede EVA fra ëkcos med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, og op til 99 % forventes inden for 5 år.\n\nbasic scrëen kombinerer pålidelig lugtkontrol, beskyttelse mod snavs og genanvendt, biologisk nedbrydeligt EVA-materiale til en lav pris.",
+      "benefits": {
+        "0": "Specialudviklet materiale tilsat en duft på deodorantbasis, der afgives gradvist",
+        "1": "Duftafgivelse i op til 30 dage",
+        "2": "Ideel til månedlig vedligeholdelse af urinaler",
+        "3": "Egnet til vandfri urinaler",
+        "4": "Fleksibel form passer til næsten alle typer urinaler",
+        "5": "Mål: 20 x 19 cm",
+        "6": "Unikt design, stort udvalg af farver og behagelige dufte",
+        "7": "Prisvenlig løsning til månedlig urinalhygiejne",
+        "8": "Fremstillet med genanvendt EVA, biologisk nedbrydelig på deponi med Eco-One™",
+        "9": "Sendes i kasser af 100 % genanvendt pap",
+        "10": "Private branding med eget logo skåret ind i materialet eller trykt"
+      },
+      "useCases": {
+        "0": "Schools",
+        "1": "Light commercial"
+      }
+    },
+    "urolite": {
+      "name": "üro lite",
+      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "lille urinalmåtte, stor stænkbeskyttelse",
+      "short": "üro lite er en fleksibel urinalmåtte med duft, udviklet til mindre urinaler. Den bruger den samme patenterede Sealed Bristles Technology™ som ëkcoscreen 60+, og i stedet for en større diameter satser den på lange børstehår, der giver stor stænkbeskyttelse i en lille måtte. Den holder urinstænk og ubehagelig lugt på et minimum. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i op til 30 dage, hvilket gør den ideel til månedlig vedligeholdelse af urinaler.",
+      "long": "üro lite er en fleksibel urinalmåtte med duft, udviklet til mindre urinaler. Den bruger den samme patenterede Sealed Bristles Technology™ som ëkcoscreen 60+, og i stedet for en større diameter satser den på lange børstehår, der giver stor stænkbeskyttelse i en lille måtte. Den holder urinstænk og ubehagelig lugt på et minimum. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i op til 30 dage, hvilket gør den ideel til månedlig vedligeholdelse af urinaler.\n\nüro lite er fremstillet med genanvendt EVA. Selve materialet kan genanvendes, men det kan en brugt urinalmåtte ikke, fordi den er biologisk forurenet. Den ender på deponi eller til forbrænding, og derfor indeholder üro lite additivet Eco-One™. I en uafhængig laboratorietest nåede EVA fra ëkcos med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, og op til 99 % forventes inden for 5 år.\n\nüro lite giver mindre urinaler stor stænkbeskyttelse med sine unikke, patenterede lange børstehår i en kompakt, prisvenlig måtte fremstillet med genanvendt, biologisk nedbrydeligt EVA-materiale.",
+      "benefits": {
+        "0": "Unikke, patenterede lange børstehår hjælper med at beskytte brugerne mod tilbagesprøjt og holder omgivelserne renere",
+        "1": "Samme patenterede Sealed Bristles Technology™ som ëkcoscreen 60+",
+        "2": "Specialudviklet materiale tilsat en duft på deodorantbasis, der afgives gradvist i op til 30 dage",
+        "3": "Kompakt størrelse, specielt udviklet til mindre urinaler",
+        "4": "Ideel til månedlig vedligeholdelse af urinaler",
+        "5": "Egnet til vandfri urinaler",
+        "6": "Fremstillet med genanvendt EVA, biologisk nedbrydelig på deponi med Eco-One™",
+        "7": "Pakket i æsker af 100 % genanvendt pap",
+        "8": "Mål: 13 x 13 x 1,8 cm",
+        "9": "Unikt design, stort udvalg af farver og behagelige dufte",
+        "10": "Private branding med eget logo skåret ind i materialet eller trykt"
+      },
+      "useCases": {
+        "0": "Boutique hospitality",
+        "1": "Premium office"
+      }
+    },
+    "ekcoClip": {
+      "name": "ëkco clip",
+      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "category": "toiletclips med frisk duft til næsten alle toiletkummer",
+      "short": "ëkco clip er en toiletfrisker med clips, der giver løbende lugtkontrol og holder toiletbåsene friske. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i op til 30 dage. Det fleksible design passer til de fleste typer toiletkummer, så den er nem at sætte på og spreder duften godt.",
+      "long": "ëkco clip er en toiletfrisker med clips, der giver løbende lugtkontrol og holder toiletbåsene friske. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i op til 30 dage. Det fleksible design passer til de fleste typer toiletkummer, så den er nem at sætte på og spreder duften godt.\n\nëkco clip er fremstillet med genanvendt EVA. Selve materialet kan genanvendes, men det kan en brugt toiletclips ikke, fordi den er biologisk forurenet. Den ender på deponi eller til forbrænding, og derfor indeholder ëkco clip additivet Eco-One™. I en uafhængig laboratorietest nåede EVA fra ëkcos med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, og op til 99 % forventes inden for 5 år.\n\nëkco clip kombinerer løbende lugtkontrol i op til 30 dage, nem montering på de fleste toiletkummer og genanvendt, biologisk nedbrydeligt EVA-materiale.",
+      "benefits": {
+        "0": "Specialudviklet materiale tilsat en duft på deodorantbasis, der afgives gradvist",
+        "1": "Effektiv beskyttelse mod lugt",
+        "2": "Unikt design for optimal duftafgivelse",
+        "3": "Duftafgivelse i op til 30 dage",
+        "4": "Fleksibel form passer til næsten alle typer toiletkummer",
+        "5": "Mål: 10 x 5 x 4,5 cm",
+        "6": "Stort udvalg af farver og behagelige dufte",
+        "7": "Prisvenlig duft til toilettet",
+        "8": "Fremstillet med genanvendt EVA, biologisk nedbrydelig på deponi med Eco-One™",
+        "9": "Pakket i æsker af 100 % genanvendt pap",
+        "10": "Private branding med eget logo skåret ind i materialet eller trykt"
+      },
+      "useCases": {
+        "0": "Facility retrofits",
+        "1": "Specification-led projects"
+      }
+    },
+    "freshDrop": {
+      "name": "frësh drop",
+      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "category": "langtidsvirkende WC-luftfrisker uden batterier",
+      "short": "frësh drop er en luftfrisker til indendørs brug, udviklet til toiletbåse og toiletter. Indsatsen er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft uden batterier eller strøm. I lukkede toiletbåse med lidt eller ingen ventilation holder den i 60+ dage, og hvor luften bevæger sig mere, spredes duften hurtigere. Det dråbeformede design passer til ethvert toiletinteriør, og med den medfølgende tape er den nem at montere på næsten enhver overflade. Til små rum er den kompakte ëkco loop det rette valg.",
+      "long": "frësh drop er en luftfrisker til indendørs brug, udviklet til toiletbåse og toiletter. Indsatsen er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft uden batterier eller strøm. I lukkede toiletbåse med lidt eller ingen ventilation holder den i 60+ dage, og hvor luften bevæger sig mere, spredes duften hurtigere. Det dråbeformede design passer til ethvert toiletinteriør, og med den medfølgende tape er den nem at montere på næsten enhver overflade. Til små rum er den kompakte ëkco loop det rette valg.\n\nIndsatsen i frësh drop er fremstillet med genanvendt EVA, og materialet kan genanvendes. Både indsatsen og holderen indeholder additivet Eco-One™, så begge er biologisk nedbrydelige på deponi. I en uafhængig laboratorietest nåede EVA fra ëkcos med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, og op til 99 % forventes inden for 5 år.\n\nfrësh drop kombinerer 60+ dages duft, nem montering og en indsats med genanvendt, biologisk nedbrydeligt EVA-materiale til toiletbåse og toiletter.",
+      "benefits": {
+        "0": "Specialudviklet materiale tilsat en duft på deodorantbasis, der afgives gradvist",
+        "1": "Perfekt til at holde toilettet friskt og rent, specielt udviklet til toiletbåse",
+        "2": "Duftafgivelse i 60+ dage i lukkede toiletbåse, kræver hverken batterier eller strøm",
+        "3": "Dråbeformet design, der passer til ethvert toiletinteriør",
+        "4": "Nem montering med den medfølgende tape",
+        "5": "Mål: 23 x 12 x 3,5 cm",
+        "6": "Stort udvalg af farver og behagelige dufte",
+        "7": "Indsats fremstillet med genanvendt og genanvendeligt EVA-materiale",
+        "8": "Indsats og holder biologisk nedbrydelige på deponi med Eco-One™",
+        "9": "Pakket i æsker af 100 % genanvendt pap",
+        "10": "Mulighed for private branding med tryk"
+      },
+      "useCases": {
+        "0": "Hospitality",
+        "1": "Premium retail"
+      },
+      "bases": {
+        "white": "holder hvid",
+        "black": "holder sort"
+      }
+    },
+    "ezTrap": {
+      "name": "ëz trap",
+      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "category": "lugttæt, vedligeholdelsesvenlig patron til vandfri urinaler",
+      "short": "ëz trap er et innovativt patronsystem, udviklet til at forbedre effektiviteten, renligheden og lugtkontrollen i vandfri urinaler og samtidig sænke vedligeholdelsesomkostningerne betydeligt.",
+      "long": "ëz trap er et innovativt patronsystem, udviklet til at forbedre effektiviteten, renligheden og lugtkontrollen i vandfri urinaler og samtidig sænke vedligeholdelsesomkostningerne betydeligt.\n\nDet patenterede patronsystem fra ëz trap lader urinen løbe naturligt gennem vandlåsen, og en lukkehætte slutter tæt efter hver brug. Det forhindrer lugt i at slippe ud og sikrer, at gammel urin fjernes fra systemet ved hver brug, så toilettet holdes friskere.\n\nëz trap er fremstillet med additivet Eco-One™, som gør den biologisk nedbrydelig på deponi. I en uafhængig laboratorietest nåede materiale fra ëkcos med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, og op til 99 % forventes inden for 5 år.\n\nëz trap er en effektiv, vedligeholdelsesvenlig og omkostningsbesparende løsning, der holder lugt fra afløbet væk fra vandfri urinaler.",
+      "variants": {
+        "withoutTool": "uden demonteringsværktøj",
+        "withTool": "med demonteringsværktøj"
+      },
+      "benefits": {
+        "0": "Blokerer lugt fra afløbet: vandlås og lukkehætte forhindrer ubehagelig kloaklugt i at slippe ud",
+        "1": "Intet behov for dyre geler eller specialrengøringsmidler",
+        "2": "Nem og billig vedligeholdelse: hæld blot et glas vand i dagligt for at forhindre kalkaflejringer",
+        "3": "Lang holdbarhed: patronen holder 4 til 6+ måneder, og regelmæssig rengøring med et kalkfjernende middel (fx en god toiletgel) forlænger levetiden",
+        "4": "Bred kompatibilitet: passer til Sloan, Falcon, Vitra, Bobrick og andre mærker med Falcon Velocity-systemet (diameter 11,8 cm, højde 11,5 cm)",
+        "5": "Mål: Ø 11,8 x 11,5 cm",
+        "6": "Pakket i æsker af 100 % genanvendt pap",
+        "7": "Biologisk nedbrydelig på deponi med additivet Eco-One™"
+      },
+      "useCases": {
+        "0": "Food service",
+        "1": "Healthcare support areas"
+      }
+    },
+    "xcrenPuck": {
+      "name": "xcrën puck",
+      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "category": "X-formet urinalmåtte med deodoriserende puck",
+      "short": "xcrën puck er en urinalmåtte med en deodoriserende NON-PARA-puck, udviklet til effektiv lugtkontrol og beskyttelse af afløbet. Den indeholder ikke paradichlorbenzen (PARA), som WHO klassificerer som muligvis kræftfremkaldende. PARA-pucke bruges stadig i nogle urinalmåtter, mens EU-regler begrænser PARA i toiletfriskere. Det X-formede design forhindrer faste stoffer og snavs i at stoppe afløbet til, og den afgiver en ren, frisk duft ved hver brug i op til 30 dage.",
+      "long": "xcrën puck er en urinalmåtte med en deodoriserende NON-PARA-puck, udviklet til effektiv lugtkontrol og beskyttelse af afløbet. Den indeholder ikke paradichlorbenzen (PARA), som WHO klassificerer som muligvis kræftfremkaldende. PARA-pucke bruges stadig i nogle urinalmåtter, mens EU-regler begrænser PARA i toiletfriskere. Det X-formede design forhindrer faste stoffer og snavs i at stoppe afløbet til, og den afgiver en ren, frisk duft ved hver brug i op til 30 dage.\n\nPucken består hovedsageligt af voks og glycerin og opløses ved brug. xcrën puck er fremstillet med additivet Eco-One™, som gør den biologisk nedbrydelig på deponi. I en uafhængig laboratorietest nåede materiale fra ëkcos med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, og op til 99 % forventes inden for 5 år. Det er et engangsprodukt, og pucken kan ikke erstattes med en ny.\n\nxcrën puck er en enkel og effektiv måde at holde urinaler friske og afløb frie på i op til 30 dage.",
+      "variants": {
+        "whiteFresh": "hvid / fresh",
+        "blueFresh": "blå / fresh"
+      },
+      "benefits": {
+        "0": "NON-PARA-puck: ingen paradichlorbenzen, som WHO klassificerer som muligvis kræftfremkaldende",
+        "1": "Forhindrer faste stoffer og andet snavs i at stoppe afløbet til",
+        "2": "Afgiver en ren, frisk duft ved hver brug i op til 30 dage",
+        "3": "Ideel til månedlig vedligeholdelse af urinaler",
+        "4": "Puck hovedsageligt af voks og glycerin",
+        "5": "Engangsprodukt: pucken kan ikke erstattes med en ny",
+        "6": "Mål: 17 x 17 x 2,9 cm",
+        "7": "Pakket i æsker af 100 % genanvendt pap",
+        "8": "Biologisk nedbrydelig på deponi med additivet Eco-One™",
+        "9": "Et nyt, unikt X-design",
+        "10": "Private branding med eget logo skåret ind i materialet eller trykt"
+      },
+      "useCases": {
+        "0": "Compact washrooms",
+        "1": "Retrofit programs"
+      }
+    },
+    "ekcoMat": {
+      "name": "ëkco mat",
+      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "category": "økonomisk urinalgulvmåtte, der beskytter gulvet",
+      "short": "ëkco mat er en absorberende gulvmåtte til urinaler, udviklet til at forbedre hygiejnen på toilettet og beskytte gulve mod ophobning af urin. Med målene 54 x 51 x 0,5 cm dækker den effektivt området omkring de fleste standardurinaler, forhindrer skader på gulvet og mindsker overførsel af urin via brugernes skosåler. Det hjælper med at holde toilettet renere og mere behageligt.",
+      "long": "ëkco mat er en absorberende gulvmåtte til urinaler, udviklet til at forbedre hygiejnen på toilettet og beskytte gulve mod ophobning af urin. Med målene 54 x 51 x 0,5 cm dækker den effektivt området omkring de fleste standardurinaler, forhindrer skader på gulvet og mindsker overførsel af urin via brugernes skosåler. Det hjælper med at holde toilettet renere og mere behageligt.\n\nëkco mat er en prisvenlig engangsløsning, ideel til restauranter, hoteller og andre travle steder, hvor hygiejne prioriteres.\n\nëkco mat er en praktisk, hygiejnisk og budgetvenlig løsning til rene og professionelle toiletter.",
+      "variants": {
+        "standard": "sort"
+      },
+      "benefits": {
+        "0": "Beskytter gulvet under urinalet",
+        "1": "Mindsker spredning af urin via skosåler",
+        "2": "Prisvenlig hygiejneløsning",
+        "3": "Til engangsbrug",
+        "4": "Mulighed for private branding",
+        "5": "Mål: 54 x 51 x 0,5 cm"
+      },
+      "useCases": {
+        "0": "Entrances",
+        "1": "Service corridors"
+      }
+    }
+  },
+  "privateLabel": {
+    "hero": {
+      "eyebrow": "Til distributører",
+      "title": "Private Label-program",
+      "lead": "Sælg vores produkter under dit eget mærke",
+      "body": "Udvid din virksomhed med din egen serie af produkter. Vores Private Label-program lader distributører tilføje gennemprøvede, højtydende toiletprodukter til deres portefølje og sælge dem under deres eget varemærke - uden egen udvikling eller værktøj. Alt hvad vi behøver er dit logo; vi tager os af resten.",
+      "cta": "Bliv partner"
+    },
+    "why": {
+      "title": "Hvorfor samarbejde med os",
+      "items": {
+        "0": {
+          "title": "Gennemprøvede løsninger",
+          "body": "Hvert produkt er resultatet af intensiv udvikling og konstrueret til optimal, pålidelig ydeevne - en serie, du kan sætte dit navn på med tillid."
+        },
+        "1": {
+          "title": "Nem tilpasning",
+          "body": "Vi behøver kun dit logo for at give dig en række produkter, som du kan sælge under dit eget brand."
+        },
+        "2": {
+          "title": "Premium support",
+          "body": "Vi guider dig igennem hele processen, så du kan udvide dit brand og dit salg."
+        }
+      }
+    },
+    "ways": {
+      "title": "To måder at mærke produkterne på",
+      "print": {
+        "title": "Trykt branding",
+        "body": "Dit logo printes direkte på produktet."
+      },
+      "cutout": {
+        "title": "Logo udskæring",
+        "body": "Dit logo integreret i selve materialet som en unik udskæring - en karakteristisk, førsteklasses finish, som ingen anden producent tilbyder, og en stærk differentiator til dit sortiment."
+      }
+    },
+    "beyond": {
+      "title": "Tilpas ud over produktet",
+      "packaging": {
+        "title": "Emballage og etiketter",
+        "body": "Tilføj dit logo, virksomhedsoplysninger, produktnavne og beskrivelser, EAN-koder og mere til æsker, mastercases eller individuelle produktposer - klar til detail under dit eget brand."
+      },
+      "mix": {
+        "title": "Farve & duft",
+        "body": "Tilbyd din egen signaturkombination af farve og duft fra vores sortiment."
+      }
+    },
+    "goodToKnow": {
+      "title": "Godt at vide",
+      "items": {
+        "0": "Minimumsordremængden afhænger af det specifikke produkt, du vælger.",
+        "1": "Et engangsgebyr for opsætning gælder for hvert produkt, du ønsker at mærke – det dækker det værktøj og den forberedelse, der er nødvendig for at reproducere dit branding.",
+        "2": "Alle mærkevarer fremstilles på bestilling efter dine specifikationer.",
+        "3": "Vi deler de nøjagtige minimumsmængder, priser og leveringstider sammen med dit tilbud, når vi forstår dine specifikke krav."
+      }
+    },
+    "form": {
+      "title": "Bliv partner",
+      "description": "Send os din specifikke anmodning, og en af ​​vores salgsrepræsentanter vil kontakte dig direkte for at diskutere detaljerne.",
+      "name": "Navn",
+      "company": "Firmanavn",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "products": "Produkter til private label",
+      "productsHint": "Indtast et antal for de produkter, du vil mærke. Du behøver ikke at udfylde hvert produkt - vi vil diskutere detaljer efter din forespørgsel.",
+      "quantity": "Antal (stk)",
+      "message": "Besked",
+      "submit": "Send besked",
+      "submitting": "Sender...",
+      "success": "Tak – vi vender tilbage til dig snarest.",
+      "error": "Noget gik galt. Prøv venligst igen om et øjeblik.",
+      "alertSelect": "Indtast venligst et antal for mindst ét ​​produkt. Du behøver ikke at bestille hvert produkt.",
+      "boundaryError": "Forespørgselsformularen kunne ikke indlæses. Opdater venligst siden eller send en e-mail til support@ekcos.eu."
+    }
+  }
+}

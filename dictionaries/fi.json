@@ -1,0 +1,752 @@
+{
+  "Metadata": {
+    "title": "ëkcos — Mene vihreäksi jokaisella värillä",
+    "description": "Urinaalimattojemme ja raikastimiemme valmistuksessa käytetään kierrätettyä EVA-materiaalia. Itse materiaalin voi kierrättää, mutta käytettyä urinaalimattoa ei, koska se on biologisesti saastunut. Se päätyy kaatopaikalle tai poltettavaksi, ja siksi lisäämme kaikkiin tuotteisiimme Eco-One™-lisäainetta.",
+    "productsTitle": "Tuotteet",
+    "productsDescription": "Tutustu ëkcos-tuotteisiin: vaihda malleja, viimeistelyjä ja vaihtoehtoja – käy sitten virallisessa myymälässä.",
+    "ecoOneTitle": "Eco-One™",
+    "ecoOneDescription": "Urinaalimattojemme ja raikastimiemme valmistuksessa käytetään kierrätettyä EVA-materiaalia. Itse materiaalin voi kierrättää, mutta käytettyä urinaalimattoa ei, koska se on biologisesti saastunut. Se päätyy kaatopaikalle tai poltettavaksi, ja siksi lisäämme kaikkiin tuotteisiimme Eco-One™-lisäainetta.",
+    "brandingTitle": "Mukautettu brändäys",
+    "brandingDescription": "Yksityinen brändäys, leikkaukset ja tulostus B2B-ohjelmia varten.",
+    "articlesTitle": "Artikkelit",
+    "articlesDescription": "ëkcos-tiimin oivalluksia, päivityksiä ja käytännön oppaita.",
+    "contactTitle": "Ota yhteyttä",
+    "contactDescription": "Ota yhteyttä ëkcos-tiimiin saadaksesi tietoja teknisistä tiedoista, ohjelmista ja kumppanuuksista.",
+    "privateLabelTitle": "Yksityinen merkki",
+    "privateLabelDescription": "Myy ëkcos pesuhuonetuotteita omalla tuotemerkilläsi – oma merkki jälleenmyyjille."
+  },
+  "LocaleSwitcher": {
+    "label": "Kieli",
+    "en": "English",
+    "es": "Spanish",
+    "fr": "French",
+    "de": "German",
+    "it": "Italian",
+    "cs": "Czech"
+  },
+  "nav": {
+    "aria": "Ensisijainen",
+    "logoAlt": "ëkcos",
+    "openMenu": "Avaa valikko",
+    "mobileMenuTitle": "Valikko",
+    "home": {
+      "label": "Kotiin"
+    },
+    "products": {
+      "label": "Tuotteet"
+    },
+    "articles": {
+      "label": "Artikkelit"
+    },
+    "ecoOne": {
+      "label": "Eco-One™"
+    },
+    "customBranding": {
+      "label": "Mukautettu brändäys"
+    },
+    "contact": {
+      "label": "Ota yhteyttä"
+    },
+    "privateLabel": {
+      "label": "Yksityinen merkki"
+    },
+    "faq": {
+      "label": "FAQ"
+    }
+  },
+  "footer": {
+    "tagline": "ëkcos innovations tarjoaa hygieniaratkaisuja, jotka pitävät WC-tilat puhtaina ja raikkaina, helpottavat ylläpitoa ja hyödyntävät kierrätettyjä, biohajoavia materiaaleja.",
+    "explore": "Tutkia",
+    "newsletterTitle": "Uutiskirje",
+    "newsletterHint": "Tuotepäivitykset ja ohjelmauutiset. Peruuta tilaus milloin tahansa.",
+    "company": {
+      "title": "Yrityksen tiedot",
+      "registryCode": "Yritysrekisteritunnus (Viro)",
+      "vatIdCz": "ALV-tunnus (Tšekki)"
+    },
+    "copyright": "© {year} ëkcos. Kaikki oikeudet pidätetään.",
+    "legalNote": "Informaatiosivusto. Ostokset tehdään virallisessa myymälässä."
+  },
+  "common": {
+    "shop": "Kauppa",
+    "shopCta": "Shoppaile osoitteessa eshop.ekcos.eu",
+    "learnMore": "Lue lisää",
+    "getInTouch": "Ota yhteyttä",
+    "ecoOne": "Eco-One™"
+  },
+  "productDetail": {
+    "backToMap": "Takaisin wc:hen",
+    "buyNow": "Osta verkkokaupasta",
+    "price": "Hinta",
+    "from": "alkaen",
+    "variants": "Saatavilla muunnelmia",
+    "colors": "Värit & tuoksut",
+    "bases": "Seinäpohjat",
+    "benefits": "Tärkeimmät edut",
+    "more": "Lisätietoja",
+    "openDetails": "Avaa yksityiskohtaiset kuvat",
+    "detailGallery": "Yksityiskohtaiset kuvat — {name}",
+    "detailShot": "yksityiskohta",
+    "boundaryError": "Tämä tuotenäkymä on väliaikaisesti poissa käytöstä. Yritä uudelleen."
+  },
+  "articles": {
+    "shopCta": {
+      "title": "Oletko valmis päivittämään wc:si?",
+      "body": "Selaa ëkcos pisuaarien näyttöjä ja tarvikkeita virallisessa myymälässä.",
+      "button": "Kauppa"
+    }
+  },
+  "newsletter": {
+    "popupTitle": "Pysy ajan tasalla",
+    "popupDescription": "Ajoittain päivityksiä tuotteisiin, Eco-One™- ja mukautettuihin brändäysohjelmiin.",
+    "emailLabel": "Sähköposti",
+    "emailPlaceholder": "you@company.com",
+    "submit": "Tilaa",
+    "configureBrevo": "Uutiskirjeen tilaaminen on tilapäisesti poissa käytöstä. Yritä myöhemmin uudelleen.",
+    "submitError": "Tilaus epäonnistui. Yritä hetken kuluttua uudelleen.",
+    "dismiss": "Ei nyt"
+  },
+  "home": {
+    "map": {
+      "aria": "Interaktiivinen wc-tuotekartta",
+      "hint": "Napsauta tuotetta saadaksesi lisätietoja",
+      "imageAlt": "ëkcos-tuotteet kaupalliseen wc-tilaan"
+    },
+    "overlay": {
+      "moreVariants": "Myymälästä löytyy myös useampia värejä ja tuoksuja.",
+      "shopCta": "Osta verkkokaupasta",
+      "close": "Lähellä"
+    },
+    "hero": {
+      "title": "Mene vihreäksi jokaisella värillä",
+      "tagline": "Sisältää kierrätettyä EVA-materiaalia, biohajoaa kaatopaikalla Eco-One™-lisäaineella",
+      "body": "Urinaalimattojemme ja raikastimiemme valmistuksessa käytetään kierrätettyä EVA-materiaalia. Itse materiaalin voi kierrättää, mutta käytettyä urinaalimattoa ei, koska se on biologisesti saastunut.",
+      "ctaProducts": "Tutustu tuotteisiin",
+      "brandMark": "ekcos.eu"
+    },
+    "benefits": {
+      "eco": {
+        "title": "Kierrätetty EVA ja Eco-One™",
+        "body": "Biohajoavat tuotteet, joiden valmistuksessa käytetään kierrätettyä EVA-materiaalia"
+      },
+      "hygiene": {
+        "title": "Hygienia ilman kompromisseja",
+        "body": "Tarjoaa puhtaamman ja mukavamman kokemuksen minimoimalla virtsan roiskeet ja epämiellyttävät hajut."
+      },
+      "costs": {
+        "title": "Vähemmän siivousta, pienemmät kustannukset",
+        "body": "Jopa 60 päivää tuoreena tarkoittaa vähemmän siivouksia ja pienempiä kustannuksia."
+      },
+      "distributor": {
+        "title": "Virallinen EU-jakelija",
+        "body": "Suora pääsy alkuperäisiin Ekcos-tuotteisiin nopealla toimituksella ja reilulla hinnoittelulla."
+      },
+      "ecoLink": "Tietoja ⟦ECOONEsta⟧"
+    },
+    "shipping": {
+      "title": "Nopea toimitus ympäri Eurooppaa",
+      "body": "Kaikki ëkcos-tuotteet lähetetään 1-2 arkipäivän kuluessa maksun vahvistuksesta. Turvallisen ja tehokkaan toimituksen ansiosta koko EU:n alueella voit luottaa yrityksesi jatkuvaan varastointiin."
+    },
+    "productOfWeek": {
+      "title": "Viikon tuote",
+      "cta": "Lisää ostoskoriin"
+    },
+    "productsTeaser": {
+      "title": "Tutustu tuotteisiimme",
+      "body": "Tutustu xcrën HD:hen, ëkcoscreeniin, powerscreeniin, frësh dropiin, ëkco clipiin ja muihin – avaa sitten virallinen kauppa.",
+      "link": "Katso kaikki tuotteet"
+    },
+    "brandingTeaser": {
+      "title": "Mukautettu brändäys B2B:lle",
+      "body": "Yksityinen etiketöinti, leikkaukset ja tulostus johdonmukaisiin usean sivuston ohjelmiin.",
+      "link": "Mukautettu brändäys"
+    },
+    "trust": {
+      "title": "Rakennettu vaativiin tiloihin",
+      "body": "Luotettava hygienia ja ensiluokkainen vaikutelma paikan päällä – toimistoista vieraanvaraisuuteen."
+    },
+    "newsletter": {
+      "title": "Tekniset tiedot, julkaisut ja ohjelmapäivitykset",
+      "body": "Lyhyt uutiskirje laitostiimeille ja yhteistyökumppaneille. Ei sotkua."
+    },
+    "finalCta": {
+      "title": "Ota yhteyttä",
+      "body": "Onko sinulla kysyttävää tuotteista, toimituksista tai B2B-tilauksista? Lähetä meille viesti – autamme mielellämme.",
+      "shop": "Mene kauppaan",
+      "contact": "Lähetä viesti"
+    },
+    "marketing": {
+      "featuresEyebrow": "Yhtenäinen alusta",
+      "featuresTitle": "Vertaa, päätä ja osta luottavaisin mielin",
+      "featuresSubtitle": "Tutki viimeistelyjä, tarkista tosiasiat ja avaa kauppa, kun olet valmis – kaikki yhdessä prosessissa.",
+      "featureInteractTitle": "Interaktiivinen määritys",
+      "featureInteractBody": "Vaihda mallia, viimeistelyä ja tuoksua sekunneissa – suunniteltu laitos- ja FM-tiimeille.",
+      "featureProofTitle": "Faktat, jotka voit jakaa",
+      "featureProofBody": "Tyhjennä Eco-One™-lataukset, jotta tiimisi voi selittää valinnan kollegoille tai asiakkaille.",
+      "featureB2bTitle": "Skaalautuvat ohjelmat",
+      "featureB2bBody": "Mukautettu brändäys ja B2B-tilaukset käyttöönotoksille, jotka vaativat johdonmukaisuutta, nopeutta ja hienostuneen ulkoasun paikan päällä.",
+      "numbersEyebrow": "Numeroiden mukaan",
+      "numbersTitle": "Toiminnan selkeys, ensiluokkainen esitys",
+      "statProductsLabel": "Tuoteperheet tutkittavaksi",
+      "statTechLabel": "Eco-One™ tosiasiat ja lataukset",
+      "statShopLabel": "Virallinen kauppa",
+      "galleryEyebrow": "Kokoonpano",
+      "galleryTitle": "Valokuva luettelosta",
+      "gallerySubtitle": "Aitoa tuotekuvausta ehdotuksiin, esityksiin ja esittelyihin."
+    }
+  },
+  "ecoOne": {
+    "hero": {
+      "title": "Eco-One™ kaatopaikoilla tapahtuvaan biohajoamiseen",
+      "tagline": "Sama tuote. Sama suorituskyky. Valmistettu kierrätetystä EVA:sta ja ECOONEsta.",
+      "body": "Urinaalimattojemme ja raikastimiemme valmistuksessa käytetään kierrätettyä EVA-materiaalia. Itse materiaalin voi kierrättää, mutta käytettyä urinaalimattoa ei, koska se on biologisesti saastunut. Se päätyy kaatopaikalle tai poltettavaksi, ja siksi lisäämme kaikkiin tuotteisiimme Eco-One™-lisäainetta. Riippumattomassa ASTM D5511- ja ISO 15985 -standardien mukaisessa testissä, joka tehtiin Instituto Politécnico Nacional -yliopistossa Méxicossa, Eco-One™-lisäainetta sisältävästä ëkcos-EVA-materiaalista biohajosi 3,5 vuodessa 93 %, kun taas ilman lisäainetta saman materiaalin tulos oli 0 %. Ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %. Laatikkomme on valmistettu 100 % kierrätetystä kartongista."
+    },
+    "metrics": {
+      "additive": {
+        "value": "~1 %",
+        "label": "lisäainesisältö"
+      },
+      "measured": {
+        "value": "~3,5v",
+        "label": "93 % biologiseen hajoamiseen"
+      },
+      "projected": {
+        "value": "jopa 99 %",
+        "label": "~5 vuoden sisällä"
+      }
+    },
+    "problem": {
+      "title": "Miksi tavallinen muovi on ongelma?",
+      "body": "Tavalliset muovituotteet on suunniteltu kestämään. Ilman biohajoavaa lisäainetta kaatopaikalle lähetetty muovituote voi jäädä sinne <bold>300–1 000 vuotta</bold>; vaahtomuovi \"Crocs-tyylinen\" puukengät ovat tuttu esimerkki muovista, joka <bold>ei ole biohajoavaa</bold>. Tuotteemme on valmistettu samanlaisesta kestävästä muovista (EVA) – mutta yhdellä ratkaisevalla erolla: Eco-One™-lisäaine.",
+      "chartAlt": "Tuotteet, joissa ei ole Eco-One™a verrattuna lisäainetta sisältäviin ëkcos tuotteisiin",
+      "chartCaption": "Tuotteet, joissa ei ole Eco-One™a, verrattuna lisäainetta sisältäviin ëkcos-tuotteisiin.",
+      "chart": {
+        "ariaLabel": "Vuosien vertailu kaatopaikalle hajoamiseen",
+        "withoutLabel": "Tuotteet ilman Eco-One™",
+        "withLabel": "ëkcos ja Eco-One™",
+        "withoutValue": "300-1000 vuotta",
+        "withValue": "3,5-5 vuotta",
+        "withoutDetail": "Ilman biohajoavaa lisäainetta tavanomainen muovi voi jäädä kaatopaikalle vuosisatoja.",
+        "withDetail": "Eco-One™-lisäaineella riippumaton testaus osoittaa ~93 % biologisen hajoamisen noin 3,5 vuodessa ja jopa 99 % viiden vuoden sisällä.",
+        "axisLabel": "Vuosia hajottaa (kaatopaikka)",
+        "caption": "Tuotteet, joissa ei ole Eco-One™a, verrattuna lisäainetta sisältäviin ëkcos-tuotteisiin.",
+        "scaleLabel": "Kaavion mittakaava",
+        "scaleFull": "0-1000 v",
+        "scaleZoom": "0-10 v",
+        "clippedNote": "jatkuu →"
+      }
+    },
+    "solution": {
+      "title": "Ratkaisumme: Eco-One™ -lisäaine",
+      "body1": "Valmistuksen aikana lisäämme noin <bold>1 % Eco-One™</bold>, orgaanista lisäainetta, joka annostellaan samalla tavalla kuin väriainetta. Se ei vaikuta tuotteen lujuuteen, ulkonäköön tai suorituskykyyn.",
+      "body2": "Biologisesti aktiivisella kaatopaikalla luonnossa esiintyvät mikro-organismit hajottavat käsitellyn muovin entsymaattisen toiminnan kautta ja muuttavat sen biokaasuksi (<bold>metaaniksi</bold>, jonka nykyaikaiset kaatopaikat talteenovat energian talteenottoon), hiilidioksidiksi ja humukseksi.",
+      "body3": "Koska tuote lopulta hajoaa humukseksi, se palauttaa orgaanista ainetta kaatopaikalle ja auttaa nopeuttamaan siellä jo toimivia biokemiallisia prosesseja. Siksi tuote vaikuttaa <bold>ei vain sen käyttöiän aikana, vaan myös sen jälkeen</bold>."
+    },
+    "testing": {
+      "title": "Riippumaton testaus",
+      "body": "Tuote on testattu riippumattomassa laboratoriossa kansainvälisten standardien <bold>ASTM D5511 ja ISO 15985</bold> mukaisesti, vertaamalla samaa tuotetta Eco-One™-lisäaineen kanssa ja ilman. ⟦ECOONElla⟧ se saavutti <bold>93,31 % biologisen hajoamisen noin 3,5 vuodessa ja jopa 99 % viidessä vuodessa</bold>; ilman ⟦ECOONEa⟧, tuote ei osoittanut mitattavissa olevaa biologista hajoamista.",
+      "barChart": {
+        "ariaLabel": "Biologinen hajoaminen noin 3,5 vuoden kuluttua ⟦ECOONEen⟧ kanssa ja ilman",
+        "yAxis": "Biologinen hajoaminen (%)",
+        "withLabel": "ëkcos ja Eco-One™",
+        "withoutLabel": "Tuotteet ilman Eco-One™",
+        "withDetail": "93,31 %:n biohajoavuus mitattuna riippumattomassa ASTM D5511 / ISO 15985 -laboratoriotestissä noin 3,5 vuoden kuluttua.",
+        "withoutDetail": "Sama tuote ilman ⟦ECOONEa⟧ ei osoittanut mitattavissa olevaa biologista hajoamista saman testijakson aikana.",
+        "subtitle": "Sama tuote · sama laboratoriotesti (ASTM D5511 / ISO 15985) · ~3,5 vuotta"
+      },
+      "timelineChart": {
+        "ariaLabel": "Biologinen hajoaminen viiden vuoden ajan ⟦ECOONEen⟧ kanssa ja ilman",
+        "yAxis": "Biologinen hajoaminen (%)",
+        "xAxis": "Vuosia",
+        "withLabel": "ëkcos ja Eco-One™",
+        "withoutLabel": "Tuotteet ilman Eco-One™",
+        "zeroNote": "0% koko ajan",
+        "measured": "mitattu",
+        "projected": "ennustetaan",
+        "yearsUnit": "v",
+        "projectedNote": "Projisoitu mitatusta trendistä",
+        "caption": "Biologinen hajoaminen Eco-One™-lisäaineen kanssa ja ilman. Yli 3,5 vuoden arvot ennustetaan mitatusta trendistä."
+      }
+    },
+    "closing": {
+      "title": "ëkcos tuotteet, joissa on Eco-One™",
+      "body": "Pesuhuonetuotteemme valmistetaan Eco-One™-lisäaineella. Riippumattomassa laboratoriotestissä ëkcos EVA ja Eco-One™ saavuttivat 93 %:n biohajoavuuden 3,5 vuodessa, ja jopa 99 %:n ennustetaan olevan 5 vuoden sisällä kaatopaikkaolosuhteissa – suorituskyvyn ollessa identtinen ilman lisäainetta sisältävien tuotteiden kanssa.",
+      "shopCta": "Kauppa"
+    },
+    "footnote": "Tietolähde: riippumaton biohajoavuustesti ASTM D5511-02:n ja ISO 15985:2014:n mukaan (Instituto Politécnico Nacional, Mexico City) — ëkcos tuote, jossa on 1 % Eco-One™ lisäainetta: 93,31 % biohajoavuus 5 vuoden aikana (≈ 283 päivää); sama tuote ilman lisäainetta: 0 %. Biohajoaminen testijakson jälkeen (jopa 99 % ~5 vuoden sisällä) ennustetaan mitatusta trendistä. Perinteisten muovien kestävyysluvut (≈300–1 000 vuotta) ovat laajalti siteerattuja teollisuuden arvioita. Eco-One™-lisäaineen valmistaa ja sertifioi EcoLogic, LLC."
+  },
+  "customBranding": {
+    "hero": {
+      "eyebrow": "B2B-spesifikaatio",
+      "title": "Mukautettu brändäys",
+      "subtitle": "Yksityinen etiketöinti, leikkaukset ja tulostus usean sivuston tuotemerkkiohjelmiin."
+    },
+    "introEyebrow": "Ohjelman yleiskatsaus",
+    "introTitle": "Erittelyihin perustuva brändäys",
+    "intro": "Autamme sinua tuomaan tuotemerkkisi tehdastason laadukkaaseen tuotteeseen: selkeät tekniset tiedot, tasainen tuotanto ja paperityö, jonka tiimisi voi toimittaa tilintarkastajille tai asiakkaille.",
+    "sections": {
+      "private": {
+        "title": "Yksityinen brändäys",
+        "body": "Taideteoksiasi käsitellään johdonmukaisesti hyväksynnästä tuotantoon – joten jokainen erä vastaa brändiäsi."
+      },
+      "cutouts": {
+        "title": "Mukautetut leikkaukset",
+        "body": "Muotoillut aukot ja syvennykset, jotka sopivat oikeisiin kalusteisiin ja kuinka tiimisi asentavat ne."
+      },
+      "print": {
+        "title": "Tulostusvaihtoehdot",
+        "body": "Kestävä painatus, joka pysyy tuotteessa luettavissa päivittäisessä käytössä."
+      }
+    },
+    "pricing": {
+      "title": "Kaupalliset ehdot",
+      "description": "Julkaistut maksut: kertakäyttöiset asetukset, yksikkökohtainen brändäys ja valinnaiset pakkaustarrat.",
+      "entryFee": "Kertamaksu",
+      "brandingCost": "Brändäyksen kustannukset",
+      "packagingLabels": "Mukautetut etiketit pakkauksissa"
+    },
+    "standardMoq": {
+      "title": "MOQ vakiobrändille",
+      "description": "Minimitilausmäärät tavallisille tuotemerkkiohjelmille, joissa on logoleikkaukset tai painatus.",
+      "productLabel": "Tuote",
+      "moqLabel": "MOQ [kpl]",
+      "note": "* Jos haluat tilata vain Fresh Drop -pohjat, MOQ on 288 kpl."
+    },
+    "customMix": {
+      "title": "Mukautettu väri- ja tuoksuyhdistelmä",
+      "description": "Voimme valmistaa valikoimastamme räätälöidyn tuoksu- ja väriyhdistelmän. Minimitilausmäärä vastaa kunkin räätälöidyn tuotteen täyttä lavaa.",
+      "productLabel": "Tuote",
+      "moqLabel": "MOQ [kpl]",
+      "note": "* Basic Screen MOQ on puolilavalle."
+    },
+    "production": {
+      "title": "Tuotanto, toimitusaika ja maksu"
+    },
+    "process": {
+      "title": "Yksinkertainen prosessi",
+      "steps": {
+        "0": "Sovimme määristä, alueista ja ajoituksista.",
+        "1": "Hyväksyt taideteokset, materiaalit ja viimeistelyt.",
+        "2": "Valmistamme laaduntarkastuksia jokaisessa vaiheessa.",
+        "3": "Toimitamme sivustollesi tarvitsemasi aikataulun mukaan."
+      }
+    },
+    "inquiry": {
+      "title": "Pyydä tietoja",
+      "hint": "Kerro meille määristä, alueista ja brändäysvaatimuksista."
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Tekninen ja kaupallinen tuki",
+      "title": "Ota yhteyttä",
+      "subtitle": "Kysy meiltä ⟦ECOONEsta⟧, teknisistä tiedoista tai B2B-ohjelmista – tee tilauksia milloin tahansa virallisessa myymälässä."
+    },
+    "details": {
+      "title": "Ota yhteyttä",
+      "email": "Sähköposti",
+      "phone": "Puhelin",
+      "hours": "Tuntia",
+      "hoursValue": "maanantaista perjantaihin klo 9.00–17.00 CET"
+    },
+    "company": {
+      "title": "Rekisteröidyn yrityksen tiedot",
+      "registryCode": "Yritysrekisteritunnus (Viro)",
+      "vatIdCz": "ALV-tunnus (Tšekki)"
+    },
+    "form": {
+      "name": "Nimi",
+      "company": "Yritys",
+      "email": "Sähköposti",
+      "phone": "Puhelin",
+      "message": "Viesti",
+      "submit": "Lähetä viesti",
+      "success": "Kiitos – palaamme sinuun pian.",
+      "error": "Jotain meni pieleen. Yritä uudelleen."
+    }
+  },
+  "products": {
+    "page": {
+      "title": "Products",
+      "intro": "Switch models and finishes, then buy in the official store.",
+      "heroEyebrow": "Explore the range",
+      "heroTitle": "Configure every line in one place",
+      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroLinkEco": "About Eco-One™",
+      "heroLinkBranding": "Custom branding"
+    },
+    "configurator": {
+      "color": "Finish",
+      "selectProduct": "Select product",
+      "fragrance": "Fragrance options",
+      "benefits": "Benefits",
+      "productBenefits": "Product benefits",
+      "availableColorsFragrances": "Available colors & fragrances",
+      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
+      "byBrand": "by ëkcos",
+      "siteUrl": "www.ekcos.eu",
+      "useCases": "Typical applications",
+      "brandingNote": "Custom branding available for qualified orders."
+    },
+    "colors": {
+      "white": "White",
+      "grey": "Grey",
+      "black": "Black",
+      "blue": "Blue"
+    },
+    "fragrances": {
+      "fresh": "Fresh",
+      "citrus": "Citrus"
+    },
+    "variantLabels": {
+      "x1p": "violetti / metsämarja",
+      "x2g": "vihreä / omena",
+      "x3b": "sininen / fresh",
+      "x4o": "oranssi / trooppiset hedelmät",
+      "x6c": "läpinäkyvä / trooppiset hedelmät",
+      "x7bk": "musta / minttu",
+      "x8bm": "liekki / mango",
+      "x9g": "vihreä / mänty",
+      "x10r": "punainen / meloni",
+      "x12p": "violetti / laventeli",
+      "x13c": "keltainen / sitrus"
+    },
+    "xcrenHd": {
+      "name": "xcrën HD",
+      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "category": "näyttävästi muotoiltu urinaalimatto xtreme-roiskesuojalla",
+      "badge": "näyttävästi muotoiltu urinaalimatto xtreme-roiskesuojalla",
+      "short": "xcrën HD 60+ on tuoksuva urinaalimatto, jonka patentoitu muoto erottuu urinaalissa. Toisin kuin tavalliset soikeat matot, se tekee urinaalista designelementin. Sen patentoidut harjakset (Sealed Bristles Technology™) peittävät 92 % matosta ja minimoivat virtsaroiskeet ja epämiellyttävät hajut. Matto on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen 60+ päivän ajan. Vähemmän käytetyissä WC-tiloissa se kestää vielä pidempään.",
+      "long": "xcrën HD 60+ on tuoksuva urinaalimatto, jonka patentoitu muoto erottuu urinaalissa. Toisin kuin tavalliset soikeat matot, se tekee urinaalista designelementin. Sen patentoidut harjakset (Sealed Bristles Technology™) peittävät 92 % matosta ja minimoivat virtsaroiskeet ja epämiellyttävät hajut. Matto on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen 60+ päivän ajan. Vähemmän käytetyissä WC-tiloissa se kestää vielä pidempään.\n\nxcrën HD 60+ on suunniteltu vilkkaisiin WC-tiloihin ravintoloissa, baareissa, lentokentillä ja kauppakeskuksissa, ja se yhdistää hygienian ja ilmeen, joka erottaa WC-tilan muista.\n\nxcrën HD 60+ -urinaalimaton valmistuksessa käytetään kierrätettyä EVA-materiaalia. Itse materiaalin voi kierrättää, mutta käytettyä urinaalimattoa ei, koska se on biologisesti saastunut. Se päätyy kaatopaikalle tai poltettavaksi, ja siksi xcrën HD 60+ sisältää Eco-One™-lisäainetta. Riippumattomassa laboratoriotestissä Eco-One™-lisäainetta sisältävästä ëkcos-EVA-materiaalista biohajosi 3,5 vuodessa 93 %, ja ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %.\n\nxcrën HD 60+ yhdistää vahvan roiskesuojan, 60+ päivän tuoksun ja patentoidun muotoilun, joka erottuu missä tahansa WC-tilassa.",
+      "benefits": {
+        "0": "Patentoitu muoto, joka erottuu tavallisista soikeista matoista",
+        "1": "Patentoidut roiskeita estävät harjakset peittävät 92 % maton pinnasta, auttavat suojaamaan käyttäjiä ei-toivotuilta roiskeilta ja pitävät ympäröivän alueen puhtaampana",
+        "2": "Oma erikoismateriaali, johon on imeytetty deodoranttipohjainen tuoksu, joka vapautuu vähitellen 60+ päivän ajan",
+        "3": "Tuoksu kestää kaksi kertaa pidempään kuin tavallisissa 30 päivän matoissa",
+        "4": "Suunniteltu erityisesti vilkkaisiin WC-tiloihin, esim. ravintoloihin, baareihin, lentokentille, kauppakeskuksiin ym.",
+        "5": "Sisältää kierrätettyä EVA-materiaalia, biohajoaa kaatopaikalla Eco-One™-lisäaineella",
+        "6": "Pakattu 100 % kierrätetystä kartongista valmistettuihin laatikoihin",
+        "7": "Sopii erinomaisesti vedettömiin urinaaleihin",
+        "8": "Mitat: 17 x 18 x 2,1 cm",
+        "9": "Laaja valikoima värejä ja miellyttäviä tuoksuja",
+        "10": "Oma brändäys: logonne leikattuna materiaaliin tai painettuna"
+      },
+      "variants": {
+        "xhd1p": "violetti / metsämarja",
+        "xhd2g": "vihreä / omena",
+        "xhd3b": "sininen / fresh",
+        "xhd4o": "oranssi / trooppiset hedelmät",
+        "xhd6c": "läpinäkyvä / trooppiset hedelmät",
+        "xhd7bk": "musta / minttu",
+        "xhd8bm": "liekki / mango",
+        "xhd9g": "vihreä / mänty",
+        "xhd10r": "punainen / meloni",
+        "xhd12p": "violetti / laventeli",
+        "xhd13c": "keltainen / sitrus"
+      },
+      "useCases": {
+        "0": "Corporate offices",
+        "1": "Hotels and hospitality"
+      }
+    },
+    "ekcoscreen": {
+      "name": "ëkcoscreen",
+      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "painava roiskeita estävä urinaalimatto, tuoksu kestää tuplasti",
+      "short": "ëkcoscreen 60+ on tuoksuva urinaalimatto, jonka patentoidut harjakset (Sealed Bristles Technology™) peittävät 95 % matosta. Se minimoi virtsaroiskeet ja epämiellyttävät hajut, joten WC-tila pysyy puhtaampana ja viihtyisämpänä. Matto on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen 60+ päivän ajan, kaksi kertaa pidempään kuin tavalliset 30 päivän matot. Vähemmän käytetyissä WC-tiloissa se kestää vielä pidempään.",
+      "long": "ëkcoscreen 60+ on tuoksuva urinaalimatto, jonka patentoidut harjakset (Sealed Bristles Technology™) peittävät 95 % matosta. Se minimoi virtsaroiskeet ja epämiellyttävät hajut, joten WC-tila pysyy puhtaampana ja viihtyisämpänä. Matto on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen 60+ päivän ajan, kaksi kertaa pidempään kuin tavalliset 30 päivän matot. Vähemmän käytetyissä WC-tiloissa se kestää vielä pidempään.\n\nëkcoscreen 60+ on suunniteltu vilkkaisiin WC-tiloihin ravintoloissa, baareissa, lentokentillä, kauppakeskuksissa ja muissa hygieniaan panostavissa kohteissa, ja se parantaa siisteyttä ja hajunhallintaa.\n\nëkcoscreen 60+ -urinaalimaton valmistuksessa käytetään kierrätettyä EVA-materiaalia. Itse materiaalin voi kierrättää, mutta käytettyä urinaalimattoa ei, koska se on biologisesti saastunut. Se päätyy kaatopaikalle tai poltettavaksi, ja siksi ëkcoscreen 60+ sisältää Eco-One™-lisäainetta. Riippumattomassa laboratoriotestissä Eco-One™-lisäainetta sisältävästä ëkcos-EVA-materiaalista biohajosi 3,5 vuodessa 93 %, ja ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %.\n\nëkcoscreen 60+ yhdistää tehokkaan roiskesuojan, 60+ päivän tuoksun sekä kierrätettyä, biohajoavaa EVA-materiaalia vilkkaisiin WC-tiloihin.",
+      "benefits": {
+        "0": "Patentoidut roiskeita estävät harjakset peittävät 95 % maton pinnasta, auttavat suojaamaan käyttäjiä ei-toivotuilta roiskeilta ja pitävät ympäröivän alueen puhtaampana",
+        "1": "Ei näkyviä roiskeita maton ulkopuolella rinnakkaisessa UV-roisketestissä identtisissä olosuhteissa",
+        "2": "Oma erikoismateriaali, johon on imeytetty deodoranttipohjainen tuoksu, joka vapautuu vähitellen 60+ päivän ajan",
+        "3": "Tuoksu kestää kaksi kertaa pidempään kuin 30 päivän matoissa samankaltaisella päiväkustannuksella",
+        "4": "141 g tuoksuvaa materiaalia mattoa kohden, yli kolme kertaa enemmän kuin tavallisessa matossa",
+        "5": "Suunniteltu erityisesti vilkkaisiin WC-tiloihin, esim. ravintoloihin, baareihin, lentokentille, kauppakeskuksiin ym.",
+        "6": "Sisältää kierrätettyä EVA-materiaalia, biohajoaa kaatopaikalla Eco-One™-lisäaineella",
+        "7": "Pakattu 100 % kierrätetystä kartongista valmistettuihin laatikoihin",
+        "8": "Ihanteellinen vedettömiin urinaaleihin",
+        "9": "Mitat: 20 x 21 x 2,2 cm",
+        "10": "Ainutlaatuinen muotoilu, laaja värivalikoima ja miellyttävät tuoksut",
+        "11": "Oma brändäys: logonne leikattuna materiaaliin tai painettuna"
+      },
+      "useCases": {
+        "0": "Retail",
+        "1": "Public buildings"
+      }
+    },
+    "powerscreen": {
+      "name": "powër screen",
+      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "category": "tehokkaasti roiskeita estävä urinaalimatto kuukausivaihtoon",
+      "short": "powër screen on tuoksuva urinaalimatto, jossa on patentoitu harjasjärjestelmä (Sealed Bristles Technology™). Se minimoi virtsaroiskeet ja epämiellyttävät hajut, joten WC-tila pysyy puhtaampana ja viihtyisämpänä. Matto on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen jopa 30 päivän ajan, joten se sopii erinomaisesti urinaalien kuukausittaiseen huoltoon.",
+      "long": "powër screen on tuoksuva urinaalimatto, jossa on patentoitu harjasjärjestelmä (Sealed Bristles Technology™). Se minimoi virtsaroiskeet ja epämiellyttävät hajut, joten WC-tila pysyy puhtaampana ja viihtyisämpänä. Matto on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen jopa 30 päivän ajan, joten se sopii erinomaisesti urinaalien kuukausittaiseen huoltoon.\n\npowër screen -urinaalimaton valmistuksessa käytetään kierrätettyä EVA-materiaalia. Itse materiaalin voi kierrättää, mutta käytettyä urinaalimattoa ei, koska se on biologisesti saastunut. Se päätyy kaatopaikalle tai poltettavaksi, ja siksi powër screen sisältää Eco-One™-lisäainetta. Riippumattomassa laboratoriotestissä Eco-One™-lisäainetta sisältävästä ëkcos-EVA-materiaalista biohajosi 3,5 vuodessa 93 %, ja ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %.\n\npowër screen yhdistää tehokkaan roiskesuojan, jopa 30 päivän tuoksun sekä kierrätettyä, biohajoavaa EVA-materiaalia WC-tilojen kuukausittaiseen ylläpitoon.",
+      "benefits": {
+        "0": "Patentoidut roiskeita estävät harjakset auttavat suojaamaan käyttäjiä ei-toivotuilta roiskeilta ja pitävät ympäröivän alueen puhtaampana",
+        "1": "Oma erikoismateriaali, johon on imeytetty deodoranttipohjainen tuoksu, joka vapautuu vähitellen jopa 30 päivän ajan",
+        "2": "Ihanteellinen urinaalien kuukausittaiseen huoltoon",
+        "3": "Sisältää kierrätettyä EVA-materiaalia, biohajoaa kaatopaikalla Eco-One™-lisäaineella",
+        "4": "Pakattu 100 % kierrätetystä kartongista valmistettuihin laatikoihin",
+        "5": "Sopii vedettömiin urinaaleihin",
+        "6": "Joustava muoto sopii lähes kaikkiin urinaalityyppeihin",
+        "7": "Muotoilu, joka kohottaa minkä tahansa WC-tilan ilmettä",
+        "8": "Mitat: 18 x 20 x 1,8 cm",
+        "9": "Ainutlaatuinen muotoilu, laaja värivalikoima ja miellyttävät tuoksut",
+        "10": "Oma brändäys: logonne leikattuna materiaaliin tai painettuna"
+      },
+      "useCases": {
+        "0": "Stadiums",
+        "1": "Transport hubs"
+      }
+    },
+    "basicScreen": {
+      "name": "basic scrëen",
+      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "category": "kaatopaikalla biohajoava urinaalimatto edulliseen hintaan",
+      "short": "basic scrëen on kustannustehokas urinaalimatto, joka poistaa urinaalien hajuja ja estää roskien kertymisen. Matto on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen jopa 30 päivän ajan, joten se sopii erinomaisesti urinaalien kuukausittaiseen huoltoon.",
+      "long": "basic scrëen on kustannustehokas urinaalimatto, joka poistaa urinaalien hajuja ja estää roskien kertymisen. Matto on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen jopa 30 päivän ajan, joten se sopii erinomaisesti urinaalien kuukausittaiseen huoltoon.\n\nbasic scrëen -urinaalimaton valmistuksessa käytetään kierrätettyä EVA-materiaalia. Itse materiaalin voi kierrättää, mutta käytettyä urinaalimattoa ei, koska se on biologisesti saastunut. Se päätyy kaatopaikalle tai poltettavaksi, ja siksi basic scrëen sisältää Eco-One™-lisäainetta. Riippumattomassa laboratoriotestissä Eco-One™-lisäainetta sisältävästä ëkcos-EVA-materiaalista biohajosi 3,5 vuodessa 93 %, ja ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %.\n\nbasic scrëen yhdistää luotettavan hajunhallinnan, suojan roskia vastaan sekä kierrätettyä, biohajoavaa EVA-materiaalia edulliseen hintaan.",
+      "benefits": {
+        "0": "Oma erikoismateriaali, johon on imeytetty deodoranttipohjainen tuoksu, joka vapautuu vähitellen",
+        "1": "Tuoksu vapautuu jopa 30 päivän ajan",
+        "2": "Ihanteellinen urinaalien kuukausittaiseen huoltoon",
+        "3": "Sopii vedettömiin urinaaleihin",
+        "4": "Joustava muoto sopii lähes kaikkiin urinaalityyppeihin",
+        "5": "Mitat: 20 x 19 cm",
+        "6": "Ainutlaatuinen muotoilu, laaja värivalikoima ja miellyttävät tuoksut",
+        "7": "Edullinen ratkaisu urinaalien kuukausittaiseen hygieniaan",
+        "8": "Sisältää kierrätettyä EVA-materiaalia, biohajoaa kaatopaikalla Eco-One™-lisäaineella",
+        "9": "Toimitetaan 100 % kierrätetystä kartongista valmistetuissa laatikoissa",
+        "10": "Oma brändäys: logonne leikattuna materiaaliin tai painettuna"
+      },
+      "useCases": {
+        "0": "Schools",
+        "1": "Light commercial"
+      }
+    },
+    "urolite": {
+      "name": "üro lite",
+      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "pieni urinaalimatto, suuri roiskesuoja",
+      "short": "üro lite on joustava, tuoksuva urinaalimatto, joka on suunniteltu pienempiin urinaaleihin. Siinä on sama patentoitu Sealed Bristles Technology™ kuin ëkcoscreen 60+ -urinaalimatossa, mutta suuremman halkaisijan sijaan se luottaa pitkiin harjaksiin, jotka antavat suuren roiskesuojan pienessä matossa. Se pitää virtsaroiskeet ja epämiellyttävät hajut minimissä. Matto on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen jopa 30 päivän ajan, joten se sopii erinomaisesti urinaalien kuukausittaiseen huoltoon.",
+      "long": "üro lite on joustava, tuoksuva urinaalimatto, joka on suunniteltu pienempiin urinaaleihin. Siinä on sama patentoitu Sealed Bristles Technology™ kuin ëkcoscreen 60+ -urinaalimatossa, mutta suuremman halkaisijan sijaan se luottaa pitkiin harjaksiin, jotka antavat suuren roiskesuojan pienessä matossa. Se pitää virtsaroiskeet ja epämiellyttävät hajut minimissä. Matto on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen jopa 30 päivän ajan, joten se sopii erinomaisesti urinaalien kuukausittaiseen huoltoon.\n\nüro lite -urinaalimaton valmistuksessa käytetään kierrätettyä EVA-materiaalia. Itse materiaalin voi kierrättää, mutta käytettyä urinaalimattoa ei, koska se on biologisesti saastunut. Se päätyy kaatopaikalle tai poltettavaksi, ja siksi üro lite sisältää Eco-One™-lisäainetta. Riippumattomassa laboratoriotestissä Eco-One™-lisäainetta sisältävästä ëkcos-EVA-materiaalista biohajosi 3,5 vuodessa 93 %, ja ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %.\n\nüro lite antaa pienemmille urinaaleille suuren roiskesuojan ainutlaatuisilla, patentoiduilla pitkillä harjaksillaan. Kompakti ja kustannustehokas matto sisältää kierrätettyä, biohajoavaa EVA-materiaalia.",
+      "benefits": {
+        "0": "Ainutlaatuiset patentoidut pitkät harjakset auttavat suojaamaan käyttäjiä roiskeilta ja pitävät ympäröivän alueen puhtaampana",
+        "1": "Sama patentoitu Sealed Bristles Technology™ kuin ëkcoscreen 60+ -urinaalimatossa",
+        "2": "Oma erikoismateriaali, johon on imeytetty deodoranttipohjainen tuoksu, joka vapautuu vähitellen jopa 30 päivän ajan",
+        "3": "Kompakti koko, suunniteltu erityisesti pienempiin urinaaleihin",
+        "4": "Ihanteellinen urinaalien kuukausittaiseen huoltoon",
+        "5": "Sopii vedettömiin urinaaleihin",
+        "6": "Sisältää kierrätettyä EVA-materiaalia, biohajoaa kaatopaikalla Eco-One™-lisäaineella",
+        "7": "Pakattu 100 % kierrätetystä kartongista valmistettuihin laatikoihin",
+        "8": "Mitat: 13 x 13 x 1,8 cm",
+        "9": "Ainutlaatuinen muotoilu, laaja värivalikoima ja miellyttävät tuoksut",
+        "10": "Oma brändäys: logonne leikattuna materiaaliin tai painettuna"
+      },
+      "useCases": {
+        "0": "Boutique hospitality",
+        "1": "Premium office"
+      }
+    },
+    "ekcoClip": {
+      "name": "ëkco clip",
+      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "category": "WC-raikastinklipsi, joka sopii lähes kaikkiin WC-pönttöihin",
+      "short": "ëkco clip on WC-pöntön reunaan kiinnitettävä raikastinklipsi, joka hallitsee hajuja jatkuvasti ja pitää WC-kopit raikkaina. Se on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen jopa 30 päivän ajan. Joustavan muotonsa ansiosta se sopii useimpiin WC-pönttömalleihin, on helppo kiinnittää ja levittää tuoksua hyvin.",
+      "long": "ëkco clip on WC-pöntön reunaan kiinnitettävä raikastinklipsi, joka hallitsee hajuja jatkuvasti ja pitää WC-kopit raikkaina. Se on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen jopa 30 päivän ajan. Joustavan muotonsa ansiosta se sopii useimpiin WC-pönttömalleihin, on helppo kiinnittää ja levittää tuoksua hyvin.\n\nëkco clip -klipsin valmistuksessa käytetään kierrätettyä EVA-materiaalia. Itse materiaalin voi kierrättää, mutta käytettyä WC-raikastinklipsiä ei, koska se on biologisesti saastunut. Se päätyy kaatopaikalle tai poltettavaksi, ja siksi ëkco clip sisältää Eco-One™-lisäainetta. Riippumattomassa laboratoriotestissä Eco-One™-lisäainetta sisältävästä ëkcos-EVA-materiaalista biohajosi 3,5 vuodessa 93 %, ja ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %.\n\nëkco clip yhdistää jatkuvan hajunhallinnan jopa 30 päivän ajan, helpon kiinnityksen useimpiin WC-pönttöihin sekä kierrätettyä, biohajoavaa EVA-materiaalia.",
+      "benefits": {
+        "0": "Oma erikoismateriaali, johon on imeytetty deodoranttipohjainen tuoksu, joka vapautuu vähitellen",
+        "1": "Tehokas suoja hajuja vastaan",
+        "2": "Ainutlaatuinen muotoilu optimaaliseen tuoksun vapautumiseen",
+        "3": "Tuoksu vapautuu jopa 30 päivän ajan",
+        "4": "Joustava muoto sopii lähes kaikkiin WC-pönttötyyppeihin",
+        "5": "Mitat: 10 x 5 x 4,5 cm",
+        "6": "Laaja valikoima värejä ja miellyttäviä tuoksuja",
+        "7": "Kustannustehokas WC:n tuoksutus",
+        "8": "Sisältää kierrätettyä EVA-materiaalia, biohajoaa kaatopaikalla Eco-One™-lisäaineella",
+        "9": "Pakattu 100 % kierrätetystä kartongista valmistettuihin laatikoihin",
+        "10": "Oma brändäys: logonne leikattuna materiaaliin tai painettuna"
+      },
+      "useCases": {
+        "0": "Facility retrofits",
+        "1": "Specification-led projects"
+      }
+    },
+    "freshDrop": {
+      "name": "frësh drop",
+      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "category": "pitkäkestoinen WC-ilmanraikastin, joka ei tarvitse paristoja",
+      "short": "frësh drop on sisätiloihin tarkoitettu ilmanraikastin, joka on suunniteltu WC-koppeihin ja WC-tiloihin. Sen tuoksuosa on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen ilman paristoja tai sähköä. Suljetuissa WC-kopeissa, joissa on vähän tai ei lainkaan ilmanvaihtoa, se kestää 60+ päivää, ja missä ilma liikkuu enemmän, tuoksu haihtuu nopeammin. Vesipisaran muotoinen raikastin sopii mihin tahansa WC-tilan sisustukseen, ja mukana tuleva kiinnitysteippi tekee asennuksesta helppoa lähes mille tahansa pinnalle. Pieniin tiloihin kannattaa valita kompakti ëkco loop.",
+      "long": "frësh drop on sisätiloihin tarkoitettu ilmanraikastin, joka on suunniteltu WC-koppeihin ja WC-tiloihin. Sen tuoksuosa on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen ilman paristoja tai sähköä. Suljetuissa WC-kopeissa, joissa on vähän tai ei lainkaan ilmanvaihtoa, se kestää 60+ päivää, ja missä ilma liikkuu enemmän, tuoksu haihtuu nopeammin. Vesipisaran muotoinen raikastin sopii mihin tahansa WC-tilan sisustukseen, ja mukana tuleva kiinnitysteippi tekee asennuksesta helppoa lähes mille tahansa pinnalle. Pieniin tiloihin kannattaa valita kompakti ëkco loop.\n\nfrësh drop -raikastimen tuoksuosan valmistuksessa käytetään kierrätettyä EVA-materiaalia, ja materiaali on kierrätettävissä. Sekä tuoksuosa että pohjaosa sisältävät Eco-One™-lisäainetta, joten molemmat ovat biohajoavia kaatopaikalla. Riippumattomassa laboratoriotestissä Eco-One™-lisäainetta sisältävästä ëkcos-EVA-materiaalista biohajosi 3,5 vuodessa 93 %, ja ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %.\n\nfrësh drop yhdistää WC-koppeihin ja WC-tiloihin 60+ päivän tuoksun, helpon asennuksen ja tuoksuosan, joka sisältää kierrätettyä, biohajoavaa EVA-materiaalia.",
+      "benefits": {
+        "0": "Oma erikoismateriaali, johon on imeytetty deodoranttipohjainen tuoksu, joka vapautuu vähitellen",
+        "1": "Täydellinen tapa pitää WC-tila raikkaana ja puhtaana, suunniteltu erityisesti WC-koppeihin",
+        "2": "Tuoksu vapautuu 60+ päivän ajan suljetuissa WC-kopeissa, paristoja tai sähköä ei tarvita",
+        "3": "Vesipisaramuotoilu, joka sopii mihin tahansa WC-tilan sisustukseen",
+        "4": "Helppo asentaa mukana tulevalla kiinnitysteipillä",
+        "5": "Mitat: 23 x 12 x 3,5 cm",
+        "6": "Laaja valikoima värejä ja miellyttäviä tuoksuja",
+        "7": "Tuoksuosassa kierrätettyä ja kierrätettävää EVA-materiaalia",
+        "8": "Tuoksuosa ja pohjaosa biohajoavia kaatopaikalla Eco-One™-lisäaineen ansiosta",
+        "9": "Pakattu 100 % kierrätetystä kartongista valmistettuihin laatikoihin",
+        "10": "Mahdollisuus omaan brändäykseen painatuksella"
+      },
+      "useCases": {
+        "0": "Hospitality",
+        "1": "Premium retail"
+      },
+      "bases": {
+        "white": "pohjaosa valkoinen",
+        "black": "pohjaosa musta"
+      }
+    },
+    "ezTrap": {
+      "name": "ëz trap",
+      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "category": "hajutiivis, helppohoitoinen vedettömän urinaalin patruuna",
+      "short": "ëz trap on innovatiivinen patruunajärjestelmä, joka on suunniteltu parantamaan vedettömien urinaalien tehokkuutta, puhtautta ja hajunhallintaa ja samalla vähentämään huoltokustannuksia merkittävästi.",
+      "long": "ëz trap on innovatiivinen patruunajärjestelmä, joka on suunniteltu parantamaan vedettömien urinaalien tehokkuutta, puhtautta ja hajunhallintaa ja samalla vähentämään huoltokustannuksia merkittävästi.\n\nPatentoidun ëz trap -patruunajärjestelmän ansiosta virtsa virtaa luonnollisesti hajulukon läpi, ja sulkukansi sulkeutuu tiiviisti jokaisen käytön jälkeen. Tämä estää hajujen pääsyn ulos ja varmistaa, että vanha virtsa poistuu järjestelmästä jokaisella käyttökerralla, mikä pitää WC-tilan raikkaampana.\n\nëz trap -patruunan valmistuksessa on käytetty Eco-One™-lisäainetta, joka tekee siitä biohajoavan kaatopaikalla. Riippumattomassa laboratoriotestissä Eco-One™-lisäainetta sisältävästä ëkcos-materiaalista biohajosi 3,5 vuodessa 93 %, ja ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %.\n\nëz trap on tehokas, vähän huoltoa vaativa ja kustannuksia säästävä tapa pitää viemärihajut poissa vedettömistä urinaaleista.",
+      "variants": {
+        "withoutTool": "ilman irrotustyökalua",
+        "withTool": "irrotustyökalulla"
+      },
+      "benefits": {
+        "0": "Estää viemärihajut: hajulukko ja sulkukansi estävät epämiellyttävien viemärihajujen pääsyn ulos",
+        "1": "Ei tarvetta kalliille geeleille tai erikoispuhdistusaineille",
+        "2": "Helppo ja edullinen huolto: lasillinen vettä päivittäin riittää estämään kalkin kertymisen",
+        "3": "Pitkä käyttöikä: patruuna kestää 4–6+ kuukautta, ja säännöllinen puhdistus kalkinpoistoaineella (esim. laadukkaalla WC-geelillä) pidentää sen käyttöikää",
+        "4": "Laaja yhteensopivuus: sopii Sloan-, Falcon-, Vitra- ja Bobrick-urinaaleihin sekä muihin Falcon Velocity -järjestelmää käyttäviin merkkeihin (halkaisija 11,8 cm, korkeus 11,5 cm)",
+        "5": "Mitat: Ø 11,8 x 11,5 cm",
+        "6": "Pakattu 100 % kierrätetystä kartongista valmistettuihin laatikoihin",
+        "7": "Biohajoava kaatopaikalla Eco-One™-lisäaineen ansiosta"
+      },
+      "useCases": {
+        "0": "Food service",
+        "1": "Healthcare support areas"
+      }
+    },
+    "xcrenPuck": {
+      "name": "xcrën puck",
+      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "category": "X-muotoinen urinaalimatto hajunpoistotabletilla",
+      "short": "xcrën puck on urinaalimatto, jossa on NON-PARA-hajunpoistotabletti, ja se on suunniteltu tehokkaaseen hajunhallintaan ja viemärin suojaamiseen. Se ei sisällä paradiklooribentseeniä (PARA), jonka WHO luokittelee mahdollisesti syöpää aiheuttavaksi. PARA-tabletteja käytetään yhä joissakin urinaalimatoissa, kun taas EU:n säännöt rajoittavat PARA:n käyttöä WC-raikastimissa. X-muotoinen rakenne estää kiinteitä aineita ja roskia tukkimasta viemäriä, ja matto vapauttaa puhtaan, raikkaan tuoksun jokaisella käyttökerralla jopa 30 päivän ajan.",
+      "long": "xcrën puck on urinaalimatto, jossa on NON-PARA-hajunpoistotabletti, ja se on suunniteltu tehokkaaseen hajunhallintaan ja viemärin suojaamiseen. Se ei sisällä paradiklooribentseeniä (PARA), jonka WHO luokittelee mahdollisesti syöpää aiheuttavaksi. PARA-tabletteja käytetään yhä joissakin urinaalimatoissa, kun taas EU:n säännöt rajoittavat PARA:n käyttöä WC-raikastimissa. X-muotoinen rakenne estää kiinteitä aineita ja roskia tukkimasta viemäriä, ja matto vapauttaa puhtaan, raikkaan tuoksun jokaisella käyttökerralla jopa 30 päivän ajan.\n\nTabletti on valmistettu pääasiassa vahasta ja glyseriinistä, ja se liukenee käytössä. xcrën puck -urinaalimaton valmistuksessa on käytetty Eco-One™-lisäainetta, joka tekee siitä biohajoavan kaatopaikalla. Riippumattomassa laboratoriotestissä Eco-One™-lisäainetta sisältävästä ëkcos-materiaalista biohajosi 3,5 vuodessa 93 %, ja ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %. Kyseessä on kertakäyttötuote, eikä tablettia voi vaihtaa uuteen.\n\nxcrën puck on yksinkertainen ja tehokas tapa pitää urinaalit raikkaina ja viemärit auki jopa 30 päivän ajan.",
+      "variants": {
+        "whiteFresh": "valkoinen / fresh",
+        "blueFresh": "sininen / fresh"
+      },
+      "benefits": {
+        "0": "NON-PARA-tabletti: ei paradiklooribentseeniä, jonka WHO luokittelee mahdollisesti syöpää aiheuttavaksi",
+        "1": "Estää kiinteitä aineita ja muita roskia tukkimasta viemäriä",
+        "2": "Vapauttaa puhtaan, raikkaan tuoksun jokaisella käyttökerralla jopa 30 päivän ajan",
+        "3": "Ihanteellinen urinaalien kuukausittaiseen huoltoon",
+        "4": "Tabletti pääasiassa vahaa ja glyseriiniä",
+        "5": "Kertakäyttöinen: tablettia ei voi vaihtaa uuteen",
+        "6": "Mitat: 17 x 17 x 2,9 cm",
+        "7": "Pakattu 100 % kierrätetystä kartongista valmistettuihin laatikoihin",
+        "8": "Biohajoava kaatopaikalla Eco-One™-lisäaineen ansiosta",
+        "9": "Uusi, ainutlaatuinen X-muotoilu",
+        "10": "Oma brändäys: logonne leikattuna materiaaliin tai painettuna"
+      },
+      "useCases": {
+        "0": "Compact washrooms",
+        "1": "Retrofit programs"
+      }
+    },
+    "ekcoMat": {
+      "name": "ëkco mat",
+      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "category": "edullinen urinaalin lattiamatto, joka suojaa lattiaa",
+      "short": "ëkco mat on imukykyinen urinaalin lattiamatto, joka on suunniteltu parantamaan WC-tilojen hygieniaa ja suojaamaan lattiaa virtsan kertymiseltä. Mitoiltaan 54 x 51 x 0,5 cm matto peittää tehokkaasti useimpien vakiokokoisten urinaalien ympäristön, estää lattiavaurioita ja vähentää virtsan kulkeutumista käyttäjien kengänpohjissa. Tämä auttaa pitämään WC-tilan puhtaampana ja viihtyisämpänä.",
+      "long": "ëkco mat on imukykyinen urinaalin lattiamatto, joka on suunniteltu parantamaan WC-tilojen hygieniaa ja suojaamaan lattiaa virtsan kertymiseltä. Mitoiltaan 54 x 51 x 0,5 cm matto peittää tehokkaasti useimpien vakiokokoisten urinaalien ympäristön, estää lattiavaurioita ja vähentää virtsan kulkeutumista käyttäjien kengänpohjissa. Tämä auttaa pitämään WC-tilan puhtaampana ja viihtyisämpänä.\n\nëkco mat on kustannustehokas kertakäyttöratkaisu, joka sopii ihanteellisesti ravintoloihin, hotelleihin ja muihin vilkkaisiin kohteisiin, joissa hygienia on etusijalla.\n\nëkco mat on käytännöllinen, hygieeninen ja budjettiystävällinen ratkaisu puhtaiden ja ammattimaisten WC-tilojen ylläpitoon.",
+      "variants": {
+        "standard": "musta"
+      },
+      "benefits": {
+        "0": "Suojaa urinaalin alla olevaa lattiaa",
+        "1": "Vähentää virtsan leviämistä kengänpohjissa",
+        "2": "Kustannustehokas hygieniaratkaisu",
+        "3": "Kertakäyttöinen",
+        "4": "Mahdollisuus omaan brändäykseen",
+        "5": "Mitat: 54 x 51 x 0,5 cm"
+      },
+      "useCases": {
+        "0": "Entrances",
+        "1": "Service corridors"
+      }
+    }
+  },
+  "privateLabel": {
+    "hero": {
+      "eyebrow": "Jakelijoille",
+      "title": "Private Label -ohjelma",
+      "lead": "Myy tuotteitamme omalla tuotemerkilläsi",
+      "body": "Kasvata liiketoimintaasi omalla tuotevalikoimallasi. Private Label -ohjelmamme avulla jakelijat voivat lisätä tuotevalikoimaansa todistettuja, tehokkaita pesuhuonetuotteita ja myydä niitä omalla tuotemerkillään – ilman omaa kehitystä tai työkaluja. Tarvitsemme vain logosi; me hoidamme loput.",
+      "cta": "Ryhdy kumppaniksi"
+    },
+    "why": {
+      "title": "Miksi tehdä yhteistyötä kanssamme",
+      "items": {
+        "0": {
+          "title": "Todistetut ratkaisut",
+          "body": "Jokainen tuote on intensiivisen kehityksen tulos, ja se on suunniteltu optimaaliseen, luotettavaan suorituskykyyn – valikoimaan, johon voit laittaa nimesi luottavaisin mielin."
+        },
+        "1": {
+          "title": "Helppo räätälöinti",
+          "body": "Tarvitsemme vain logosi tarjotaksemme sinulle sarjan tuotteita, joita voit myydä omalla tuotemerkilläsi."
+        },
+        "2": {
+          "title": "Premium-tuki",
+          "body": "Ohjaamme sinut koko prosessin läpi, jotta voit laajentaa brändiäsi ja myyntiäsi."
+        }
+      }
+    },
+    "ways": {
+      "title": "Kaksi tapaa brändätä tuotteita",
+      "print": {
+        "title": "Painettu tuotemerkki",
+        "body": "Logosi tulostetaan suoraan tuotteeseen."
+      },
+      "cutout": {
+        "title": "Logo-leikkaus",
+        "body": "Logosi integroituu itse materiaaliin ainutlaatuisena leikkausna – erottuva, ensiluokkainen viimeistely, jota mikään muu valmistaja ei tarjoa, ja vahva erottuva tekijä valikoimallesi."
+      }
+    },
+    "beyond": {
+      "title": "Mukauta tuotteen lisäksi",
+      "packaging": {
+        "title": "Pakkaus & etiketit",
+        "body": "Lisää logosi, yrityksesi tiedot, tuotteiden nimet ja kuvaukset, EAN-koodit ja paljon muuta laatikoihin, päälaukkuihin tai yksittäisiin tuotepusseihin – valmiina myyntiin omalla tuotemerkilläsi."
+      },
+      "mix": {
+        "title": "Väri & tuoksu",
+        "body": "Tarjoa oma allekirjoitus värin ja tuoksun yhdistelmä valikoimastamme."
+      }
+    },
+    "goodToKnow": {
+      "title": "Hyvä tietää",
+      "items": {
+        "0": "Minimitilausmäärä riippuu valitsemastasi tuotteesta.",
+        "1": "Kertaluonteinen käyttöönottomaksu peritään jokaisesta tuotteesta, jonka haluat brändätä – se kattaa tuotemerkin jäljentämiseen tarvittavat työkalut ja valmistelut.",
+        "2": "Kaikki merkkituotteet valmistetaan tilauksesta, toiveidesi mukaan.",
+        "3": "Jaamme tarkat vähimmäismäärät, hinnat ja toimitusajat yhdessä tarjouksesi kanssa, kun olemme ymmärtäneet erityisvaatimukset."
+      }
+    },
+    "form": {
+      "title": "Ryhdy kumppaniksi",
+      "description": "Lähetä meille erityinen pyyntösi, niin yksi myyntiedustajistamme ottaa sinuun yhteyttä suoraan keskustellakseen yksityiskohdista.",
+      "name": "Nimi",
+      "company": "Yrityksen nimi",
+      "email": "Sähköposti",
+      "phone": "Puhelin",
+      "products": "Tuotteita omalle tuotemerkille",
+      "productsHint": "Anna määrä tuotteille, jotka haluat brändätä. Sinun ei tarvitse täyttää jokaista tuotetta – keskustelemme yksityiskohdista kyselysi jälkeen.",
+      "quantity": "Määrä (kpl)",
+      "message": "Viesti",
+      "submit": "Lähetä viesti",
+      "submitting": "Lähetetään…",
+      "success": "Kiitos – palaamme sinuun pian.",
+      "error": "Jotain meni pieleen. Yritä hetken kuluttua uudelleen.",
+      "alertSelect": "Anna määrä vähintään yhdelle tuotteelle. Sinun ei tarvitse tilata jokaista tuotetta.",
+      "boundaryError": "Kyselylomaketta ei voitu ladata. Päivitä sivu tai lähetä sähköpostia support@ekcos.eu."
+    }
+  }
+}

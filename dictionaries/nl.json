@@ -1,0 +1,752 @@
+{
+  "Metadata": {
+    "title": "ëkcos — Ga groen bij elke spoeling",
+    "description": "Onze urinoirmatten en verfrissers worden gemaakt met gerecycled EVA. Het materiaal zelf is recyclebaar, maar een gebruikte urinoirmat niet, omdat die biologisch verontreinigd is. Die belandt op de stortplaats of in de verbrandingsoven, en daarom voegen we aan al onze producten het additief Eco-One™ toe.",
+    "productsTitle": "Producten",
+    "productsDescription": "Ontdek ëkcos-producten: wissel van model, afwerking en opties en bezoek vervolgens de officiële winkel.",
+    "ecoOneTitle": "Eco-One™",
+    "ecoOneDescription": "Onze urinoirmatten en verfrissers worden gemaakt met gerecycled EVA. Het materiaal zelf is recyclebaar, maar een gebruikte urinoirmat niet, omdat die biologisch verontreinigd is. Die belandt op de stortplaats of in de verbrandingsoven, en daarom voegen we aan al onze producten het additief Eco-One™ toe.",
+    "brandingTitle": "Aangepaste branding",
+    "brandingDescription": "Private branding, uitsnijdingen en bedrukking voor B2B-programma's.",
+    "articlesTitle": "Artikelen",
+    "articlesDescription": "Inzichten, updates en praktische handleidingen van het ëkcos-team.",
+    "contactTitle": "Contact",
+    "contactDescription": "Bereik het ëkcos-team voor specificaties, programma's en partnerschappen.",
+    "privateLabelTitle": "Privélabel",
+    "privateLabelDescription": "Verkoop ëkcos toiletproducten onder uw eigen merk — private label voor distributeurs."
+  },
+  "LocaleSwitcher": {
+    "label": "Taal",
+    "en": "English",
+    "es": "Spanish",
+    "fr": "French",
+    "de": "German",
+    "it": "Italian",
+    "cs": "Czech"
+  },
+  "nav": {
+    "aria": "Primair",
+    "logoAlt": "ëkcos",
+    "openMenu": "Menu openen",
+    "mobileMenuTitle": "Menu",
+    "home": {
+      "label": "Thuis"
+    },
+    "products": {
+      "label": "Producten"
+    },
+    "articles": {
+      "label": "Artikelen"
+    },
+    "ecoOne": {
+      "label": "Eco-One™"
+    },
+    "customBranding": {
+      "label": "Aangepaste branding"
+    },
+    "contact": {
+      "label": "Contact"
+    },
+    "privateLabel": {
+      "label": "Privélabel"
+    },
+    "faq": {
+      "label": "Veelgestelde vragen"
+    }
+  },
+  "footer": {
+    "tagline": "ëkcos innovations levert hygiëneoplossingen die toiletruimtes schoon en fris houden, het onderhoud vereenvoudigen en gerecyclede, biologisch afbreekbare materialen gebruiken.",
+    "explore": "Ontdekken",
+    "newsletterTitle": "Nieuwsbrief",
+    "newsletterHint": "Productupdates en programmanieuws. U kunt zich op elk gewenst moment afmelden.",
+    "company": {
+      "title": "Bedrijfsgegevens",
+      "registryCode": "Bedrijfsregistratiecode (Estland)",
+      "vatIdCz": "Btw-nummer (Tsjechië)"
+    },
+    "copyright": "© {year} ëkcos. Alle rechten voorbehouden.",
+    "legalNote": "Informatieve site. Aankopen worden voltooid in de officiële winkel."
+  },
+  "common": {
+    "shop": "Winkel",
+    "shopCta": "Winkel op eshop.ekcos.eu",
+    "learnMore": "Meer informatie",
+    "getInTouch": "Neem contact met ons op",
+    "ecoOne": "Eco-One™"
+  },
+  "productDetail": {
+    "backToMap": "Terug naar toilet",
+    "buyNow": "Koop op eshop",
+    "price": "Prijs",
+    "from": "van",
+    "variants": "Beschikbare varianten",
+    "colors": "Kleuren & geuren",
+    "bases": "Muurbasissen",
+    "benefits": "Belangrijkste voordelen",
+    "more": "Meer details",
+    "openDetails": "Detailfoto's openen",
+    "detailGallery": "Detailfoto's — {name}",
+    "detailShot": "detail",
+    "boundaryError": "Deze productweergave is tijdelijk niet beschikbaar. Probeer het opnieuw."
+  },
+  "articles": {
+    "shopCta": {
+      "title": "Klaar om uw toiletten te upgraden?",
+      "body": "Blader door ëkcos urinoirschermen en accessoires in de officiële winkel.",
+      "button": "Winkel"
+    }
+  },
+  "newsletter": {
+    "popupTitle": "Blijf op de hoogte",
+    "popupDescription": "Af en toe updates over producten, Eco-One™ en aangepaste merkprogramma's.",
+    "emailLabel": "E-mail",
+    "emailPlaceholder": "you@company.com",
+    "submit": "Abonneren",
+    "configureBrevo": "Aanmelden voor de nieuwsbrief is tijdelijk niet mogelijk. Probeer het later opnieuw.",
+    "submitError": "Abonnement mislukt. Probeer het over enkele ogenblikken opnieuw.",
+    "dismiss": "Niet nu"
+  },
+  "home": {
+    "map": {
+      "aria": "Interactieve toiletproductkaart",
+      "hint": "Klik op een product voor meer informatie",
+      "imageAlt": "ëkcos producten geplaatst in een commercieel toilet"
+    },
+    "overlay": {
+      "moreVariants": "Ook verkrijgbaar in meer kleuren en geuren in de winkel.",
+      "shopCta": "Koop op eshop",
+      "close": "Dichtbij"
+    },
+    "hero": {
+      "title": "Ga groen met elke spoeling",
+      "tagline": "Gemaakt met gerecycled EVA, met Eco-One™ biologisch afbreekbaar op de stortplaats",
+      "body": "Onze urinoirmatten en verfrissers worden gemaakt met gerecycled EVA. Het materiaal zelf is recyclebaar, maar een gebruikte urinoirmat niet, omdat die biologisch verontreinigd is.",
+      "ctaProducts": "Ontdek producten",
+      "brandMark": "ekcos.eu"
+    },
+    "benefits": {
+      "eco": {
+        "title": "Gerecycled EVA met Eco-One™",
+        "body": "Biologisch afbreekbare producten, gemaakt met gerecycled EVA"
+      },
+      "hygiene": {
+        "title": "Hygiëne zonder compromissen",
+        "body": "Zorgt voor een schonere, comfortabelere ervaring door urinespatten en onaangename geurtjes te minimaliseren."
+      },
+      "costs": {
+        "title": "Minder schoonmaak, lagere kosten",
+        "body": "Tot 60 dagen frisheid betekent minder schoonmaakbeurten en lagere kosten."
+      },
+      "distributor": {
+        "title": "Officiële EU-distributeur",
+        "body": "Directe toegang tot originele Ekcos-producten met snelle levering en eerlijke prijzen."
+      },
+      "ecoLink": "Over Eco-One™"
+    },
+    "shipping": {
+      "title": "Snelle verzending door heel Europa",
+      "body": "Alle ëkcos-producten worden binnen 1-2 werkdagen na bevestiging van de betaling verzonden. Met veilige en efficiënte levering in de hele EU kunt u vertrouwen op een consistente herbevoorrading voor uw bedrijf."
+    },
+    "productOfWeek": {
+      "title": "Product van de week",
+      "cta": "Voeg toe aan winkelwagen"
+    },
+    "productsTeaser": {
+      "title": "Ontdek onze producten",
+      "body": "Ontdek xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip en meer — open vervolgens de officiële winkel.",
+      "link": "Bekijk alle producten"
+    },
+    "brandingTeaser": {
+      "title": "Aangepaste branding voor B2B",
+      "body": "Private labeling, uitsnijdingen en printen voor consistente programma's op meerdere locaties.",
+      "link": "Aangepaste branding"
+    },
+    "trust": {
+      "title": "Gebouwd voor veeleisende faciliteiten",
+      "body": "Betrouwbare hygiëne en een eersteklas indruk op locatie – van kantoren tot horeca."
+    },
+    "newsletter": {
+      "title": "Specificaties, lanceringen en programma-updates",
+      "body": "Een korte nieuwsbrief voor facilitaire teams en partners. Geen rommel."
+    },
+    "finalCta": {
+      "title": "Neem contact op",
+      "body": "Vragen over producten, levering of B2B-bestellingen? Stuur ons een bericht, wij helpen u graag verder.",
+      "shop": "Ga naar winkel",
+      "contact": "Bericht verzenden"
+    },
+    "marketing": {
+      "featuresEyebrow": "Uniform platform",
+      "featuresTitle": "Vergelijk, beslis en koop met vertrouwen",
+      "featuresSubtitle": "Ontdek afwerkingen, bekijk de feiten en open de winkel wanneer u er klaar voor bent - alles in één stroom.",
+      "featureInteractTitle": "Interactieve specificatie",
+      "featureInteractBody": "Wissel binnen enkele seconden van model, afwerking en geur - gebouwd voor facilitaire en FM-teams.",
+      "featureProofTitle": "Feiten die u kunt delen",
+      "featureProofBody": "Duidelijke Eco-One™ downloads zodat uw team de keuze kan uitleggen aan collega's of klanten.",
+      "featureB2bTitle": "Programma's die schaalbaar zijn",
+      "featureB2bBody": "Aangepaste branding en B2B-bestellingen voor implementaties die consistentie, snelheid en een verzorgde uitstraling op locatie vereisen.",
+      "numbersEyebrow": "Door de cijfers",
+      "numbersTitle": "Operationele duidelijkheid, eersteklas presentatie",
+      "statProductsLabel": "Productfamilies om te verkennen",
+      "statTechLabel": "Eco-One™ feiten en downloads",
+      "statShopLabel": "Officiële winkel",
+      "galleryEyebrow": "Opstelling",
+      "galleryTitle": "Fotografie uit de catalogus",
+      "gallerySubtitle": "Echte productfotografie voor voorstellen, presentaties en walkthroughs."
+    }
+  },
+  "ecoOne": {
+    "hero": {
+      "title": "Eco-One™ voor biologische afbraak van stortplaatsen",
+      "tagline": "Hetzelfde product. Dezelfde prestatie. Gemaakt met gerecycled EVA en Eco-One™.",
+      "body": "Onze urinoirmatten en verfrissers worden gemaakt met gerecycled EVA. Het materiaal zelf is recyclebaar, maar een gebruikte urinoirmat niet, omdat die biologisch verontreinigd is. Die belandt op de stortplaats of in de verbrandingsoven, en daarom voegen we aan al onze producten het additief Eco-One™ toe. In een onafhankelijke test volgens ASTM D5511 en ISO 15985 aan het Instituto Politécnico Nacional in Mexico-Stad bereikte EVA van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, terwijl hetzelfde materiaal zonder het additief 0% haalde. Binnen 5 jaar wordt tot 99% biologische afbraak verwacht. Onze dozen zijn gemaakt van 100% gerecycled karton."
+    },
+    "metrics": {
+      "additive": {
+        "value": "~1%",
+        "label": "additieve inhoud"
+      },
+      "measured": {
+        "value": "~3,5 jaar",
+        "label": "tot 93% biologische afbraak"
+      },
+      "projected": {
+        "value": "tot 99%",
+        "label": "binnen ~5 jaar"
+      }
+    },
+    "problem": {
+      "title": "Waarom gewoon plastic een probleem is",
+      "body": "Gewone plastic producten zijn ontworpen om lang mee te gaan. Zonder een additief voor biologische afbraak kan een plastic product dat naar een stortplaats wordt gestuurd, daar <bold>300 tot 1000 jaar</bold> blijven liggen; Schuimklompen in Crocs-stijl zijn een bekend voorbeeld van plastic dat <bold>niet biologisch afbreekbaar</bold> is. Onze producten zijn gemaakt van hetzelfde soort duurzaam plastic (EVA) — maar met één beslissend verschil: het Eco-One™ additief.",
+      "chartAlt": "Producten zonder Eco-One™ vergeleken met ëkcos-producten die het additief bevatten",
+      "chartCaption": "Producten zonder Eco-One™ vergeleken met ëkcos-producten die het additief bevatten.",
+      "chart": {
+        "ariaLabel": "Vergelijking van de jaren voor afbraak op de stortplaats",
+        "withoutLabel": "Producten zonder Eco-One™",
+        "withLabel": "ëkcos met Eco-One™",
+        "withoutValue": "300–1.000 jaar",
+        "withValue": "3,5–5 jaar",
+        "withoutDetail": "Zonder een additief voor biologische afbraak kan conventioneel plastic eeuwenlang op stortplaatsen blijven liggen.",
+        "withDetail": "Met het Eco-One™ additief blijkt uit onafhankelijke tests dat de biologische afbraak ongeveer 93% bedraagt ​​in ongeveer 3,5 jaar, en tot 99% binnen vijf jaar.",
+        "axisLabel": "Jaren om af te breken (stortplaats)",
+        "caption": "Producten zonder Eco-One™ vergeleken met ëkcos-producten die het additief bevatten.",
+        "scaleLabel": "Grafiekschaal",
+        "scaleFull": "0–1.000 jaar",
+        "scaleZoom": "0–10 jaar",
+        "clippedNote": "vervolgt →"
+      }
+    },
+    "solution": {
+      "title": "Onze oplossing: het Eco-One™ additief",
+      "body1": "Tijdens de productie verwerken we ongeveer <bold>1% van Eco-One™</bold>, een organisch additief dat op dezelfde manier wordt gedoseerd als een kleurstof. Het heeft geen invloed op de sterkte, het uiterlijk of de prestaties van het product.",
+      "body2": "Op een biologisch actieve stortplaats breken natuurlijk voorkomende micro-organismen het behandelde plastic af door middel van enzymatische activiteit, waardoor het wordt omgezet in biogas (<bold>methaan</bold>, dat moderne stortplaatsen opvangen voor energieterugwinning), koolstofdioxide en humus.",
+      "body3": "Omdat het product uiteindelijk wordt afgebroken tot humus, brengt het organisch materiaal terug naar de stortplaats en helpt het de biochemische processen te versnellen die daar al aan het werk zijn. Het product draagt ​​dus niet alleen <bold>bij tijdens zijn levensduur, maar ook daarna</bold>."
+    },
+    "testing": {
+      "title": "Onafhankelijk testen",
+      "body": "Het product is door een onafhankelijk laboratorium getest volgens de internationale normen <bold>ASTM D5511 en ISO 15985</bold>, waarbij hetzelfde product met en zonder het Eco-One™ additief werd vergeleken. Met Eco-One™ werd binnen ongeveer 3,5 jaar een biologische afbraak van <bold>93,31% bereikt, en binnen vijf jaar</bold> zelfs 99%; zonder Eco-One™ vertoonde het product geen meetbare biologische afbraak.",
+      "barChart": {
+        "ariaLabel": "Biologische afbraak na ongeveer 3,5 jaar met en zonder Eco-One™",
+        "yAxis": "Biologische afbraak (%)",
+        "withLabel": "ëkcos met Eco-One™",
+        "withoutLabel": "Producten zonder Eco-One™",
+        "withDetail": "93,31% biologische afbraak gemeten in een onafhankelijke ASTM D5511 / ISO 15985 laboratoriumtest na ongeveer 3,5 jaar.",
+        "withoutDetail": "Hetzelfde product zonder Eco-One™ vertoonde gedurende dezelfde testperiode geen meetbare biologische afbraak.",
+        "subtitle": "Hetzelfde product · dezelfde laboratoriumtest (ASTM D5511 / ISO 15985) · ~3,5 jaar"
+      },
+      "timelineChart": {
+        "ariaLabel": "Biologische afbraak gedurende vijf jaar met en zonder Eco-One™",
+        "yAxis": "Biologische afbraak (%)",
+        "xAxis": "Jaren",
+        "withLabel": "ëkcos met Eco-One™",
+        "withoutLabel": "Producten zonder Eco-One™",
+        "zeroNote": "De hele tijd 0%",
+        "measured": "gemeten",
+        "projected": "geprojecteerd",
+        "yearsUnit": "jaar",
+        "projectedNote": "Geprojecteerd op basis van de gemeten trend",
+        "caption": "Biologische afbraak met en zonder het Eco-One™ additief. Waarden na 3,5 jaar worden geprojecteerd op basis van de gemeten trend."
+      }
+    },
+    "closing": {
+      "title": "ëkcos producten met Eco-One™",
+      "body": "Onze sanitaire producten worden vervaardigd met het Eco-One™ additief. Uit een onafhankelijke laboratoriumtest blijkt dat ëkcos EVA met Eco-One™ binnen 3,5 jaar een biologische afbraak van 93% bereikt, en naar verwachting binnen 5 jaar zelfs 99% op stortplaatsen – waarbij de prestaties identiek zijn aan die van producten zonder het additief.",
+      "shopCta": "Winkel"
+    },
+    "footnote": "Gegevensbron: onafhankelijke biologische afbreekbaarheidstest volgens ASTM D5511-02 en ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) — ëkcos product met 1% Eco-One™ additief: 93,31% biologische afbraak gedurende 1.288 dagen (≈3,5 jaar); hetzelfde product zonder het additief: 0%. De biologische afbraak na de testperiode (tot 99% binnen ~5 jaar) wordt op basis van de gemeten trend geprojecteerd. Persistentiecijfers voor conventionele kunststoffen (≈300–1.000 jaar) zijn veel geciteerde schattingen van de industrie. Het Eco-One™-additief wordt vervaardigd en gecertificeerd door EcoLogic, LLC."
+  },
+  "customBranding": {
+    "hero": {
+      "eyebrow": "B2B-specificatie",
+      "title": "Aangepaste branding",
+      "subtitle": "Private labeling, uitsnijdingen en printen voor merkprogramma's op meerdere locaties."
+    },
+    "introEyebrow": "Programma overzicht",
+    "introTitle": "Op specificaties gebaseerde branding",
+    "intro": "Wij helpen u uw merk op het product te zetten met kwaliteit op fabrieksniveau: duidelijke specificaties, stabiele productie en papierwerk dat uw team aan auditors of klanten kan overhandigen.",
+    "sections": {
+      "private": {
+        "title": "Privé-branding",
+        "body": "Uw artwork, consistent behandeld vanaf de goedkeuring tot en met de productie, zodat elke batch bij uw merk past."
+      },
+      "cutouts": {
+        "title": "Aangepaste uitsparingen",
+        "body": "Gevormde openingen en uitsparingen die passen in echte armaturen en hoe uw teams deze installeren."
+      },
+      "print": {
+        "title": "Afdrukopties",
+        "body": "Duurzame bedrukking die bij dagelijks gebruik leesbaar blijft op het product."
+      }
+    },
+    "pricing": {
+      "title": "Commerciële voorwaarden",
+      "description": "Gepubliceerde kosten: eenmalige installatie, branding per eenheid en optionele verpakkingslabels.",
+      "entryFee": "Eenmalige toegangsprijs",
+      "brandingCost": "Brandingkosten",
+      "packagingLabels": "Aangepaste labels op de verpakking"
+    },
+    "standardMoq": {
+      "title": "MOQ voor standaard branding",
+      "description": "Minimale bestelhoeveelheden voor standaard brandingprogramma's met logo-uitsnede of bedrukking.",
+      "productLabel": "Product",
+      "moqLabel": "MOQ [st.]",
+      "note": "*Als u alleen de Fresh Drop-basissen wilt bestellen, is de minimale bestelhoeveelheid 288 stuks."
+    },
+    "customMix": {
+      "title": "Aangepaste kleur- en geurmix",
+      "description": "Uit ons assortiment kunnen wij een combinatie van geur en kleur op maat maken. De minimale bestelhoeveelheid komt overeen met een volledige pallet van elk maatwerkproduct.",
+      "productLabel": "Product",
+      "moqLabel": "MOQ [st.]",
+      "note": "* Basisscherm MOQ is voor een halve pallet."
+    },
+    "production": {
+      "title": "Productie, levertijd en betaling"
+    },
+    "process": {
+      "title": "Een eenvoudig proces",
+      "steps": {
+        "0": "We zijn het eens over volumes, regio’s en timing.",
+        "1": "U keurt illustraties, materialen en afwerkingen goed.",
+        "2": "Wij produceren met kwaliteitscontroles bij elke stap.",
+        "3": "Wij verzenden naar uw locaties volgens het schema dat u nodig heeft."
+      }
+    },
+    "inquiry": {
+      "title": "Vraag informatie aan",
+      "hint": "Vertel ons over volumes, regio's en merkvereisten."
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Technische en commerciële ondersteuning",
+      "title": "Contact",
+      "subtitle": "Vraag ons naar Eco-One™, specificaties of B2B-programma's - plaats op elk gewenst moment bestellingen in de officiële winkel."
+    },
+    "details": {
+      "title": "Contact",
+      "email": "E-mail",
+      "phone": "Telefoon",
+      "hours": "Uur",
+      "hoursValue": "Maandag – vrijdag, 09:00 – 17:00 CET"
+    },
+    "company": {
+      "title": "Geregistreerde bedrijfsgegevens",
+      "registryCode": "Bedrijfsregistratiecode (Estland)",
+      "vatIdCz": "Btw-nummer (Tsjechië)"
+    },
+    "form": {
+      "name": "Naam",
+      "company": "Bedrijf",
+      "email": "E-mail",
+      "phone": "Telefoon",
+      "message": "Bericht",
+      "submit": "Bericht verzenden",
+      "success": "Bedankt - we nemen zo snel mogelijk contact met u op.",
+      "error": "Er is iets misgegaan. Probeer het opnieuw."
+    }
+  },
+  "products": {
+    "page": {
+      "title": "Products",
+      "intro": "Switch models and finishes, then buy in the official store.",
+      "heroEyebrow": "Explore the range",
+      "heroTitle": "Configure every line in one place",
+      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroLinkEco": "About Eco-One™",
+      "heroLinkBranding": "Custom branding"
+    },
+    "configurator": {
+      "color": "Finish",
+      "selectProduct": "Select product",
+      "fragrance": "Fragrance options",
+      "benefits": "Benefits",
+      "productBenefits": "Product benefits",
+      "availableColorsFragrances": "Available colors & fragrances",
+      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
+      "byBrand": "by ëkcos",
+      "siteUrl": "www.ekcos.eu",
+      "useCases": "Typical applications",
+      "brandingNote": "Custom branding available for qualified orders."
+    },
+    "colors": {
+      "white": "White",
+      "grey": "Grey",
+      "black": "Black",
+      "blue": "Blue"
+    },
+    "fragrances": {
+      "fresh": "Fresh",
+      "citrus": "Citrus"
+    },
+    "variantLabels": {
+      "x1p": "paars / bosvruchten",
+      "x2g": "groen / appel",
+      "x3b": "blauw / fresh",
+      "x4o": "oranje / tropisch fruit",
+      "x6c": "transparant / tropisch fruit",
+      "x7bk": "zwart / munt",
+      "x8bm": "vlam / mango",
+      "x9g": "groen / dennennaald",
+      "x10r": "rood / meloen",
+      "x12p": "paars / lavendel",
+      "x13c": "geel / citrus"
+    },
+    "xcrenHd": {
+      "name": "xcrën HD",
+      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "category": "urinoirmat met topdesign en xtreme spatbescherming",
+      "badge": "urinoirmat met topdesign en xtreme spatbescherming",
+      "short": "xcrën HD 60+ is een geurende urinoirmat met een gepatenteerde vorm die opvalt in het urinoir. Anders dan gangbare ovale matten maakt hij van het urinoir een designelement. Zijn gepatenteerde borstels (Sealed Bristles Technology™) bedekken 92% van de mat en beperken urinespatten en onaangename geuren tot een minimum. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft 60+ dagen lang geleidelijk geur af. In minder drukke toiletruimtes gaat de mat zelfs nog langer mee.",
+      "long": "xcrën HD 60+ is een geurende urinoirmat met een gepatenteerde vorm die opvalt in het urinoir. Anders dan gangbare ovale matten maakt hij van het urinoir een designelement. Zijn gepatenteerde borstels (Sealed Bristles Technology™) bedekken 92% van de mat en beperken urinespatten en onaangename geuren tot een minimum. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft 60+ dagen lang geleidelijk geur af. In minder drukke toiletruimtes gaat de mat zelfs nog langer mee.\n\nOntworpen voor drukbezochte toiletruimtes in restaurants, bars, luchthavens en winkelcentra, combineert xcrën HD 60+ hygiëne met een uitstraling die de toiletruimte onderscheidt.\n\nxcrën HD 60+ wordt gemaakt met gerecycled EVA. Het materiaal zelf is recyclebaar, maar een gebruikte urinoirmat niet, omdat die biologisch verontreinigd is. Die belandt op de stortplaats of in de verbrandingsoven, en daarom bevat xcrën HD 60+ het additief Eco-One™. In een onafhankelijke laboratoriumtest bereikte EVA van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, en binnen 5 jaar wordt tot 99% verwacht.\n\nxcrën HD 60+ combineert sterke spatbescherming, 60+ dagen geur en een gepatenteerd design dat in elke toiletruimte opvalt.",
+      "benefits": {
+        "0": "Gepatenteerde vorm die zich onderscheidt van gangbare ovale matten",
+        "1": "Gepatenteerde anti-spatborstels bedekken 92% van het matoppervlak, helpen gebruikers te beschermen tegen ongewenste spatten en houden de omgeving schoner",
+        "2": "Zelf ontwikkeld materiaal, doordrenkt met een geur op deodorantbasis die 60+ dagen lang geleidelijk vrijkomt",
+        "3": "Geurt twee keer zo lang als standaard urinoirmatten van 30 dagen",
+        "4": "Speciaal ontworpen voor drukbezochte toiletruimtes, zoals in restaurants, bars, luchthavens, winkelcentra enz.",
+        "5": "Gemaakt met gerecycled EVA, met Eco-One™ biologisch afbreekbaar op de stortplaats",
+        "6": "Verpakt in dozen van 100% gerecycled karton",
+        "7": "Perfect voor waterloze urinoirs",
+        "8": "Afmetingen: 17 x 18 x 2,1 cm",
+        "9": "Ruime keuze aan kleuren en aangename geuren",
+        "10": "Private branding met uw logo, in het materiaal gesneden of bedrukt"
+      },
+      "variants": {
+        "xhd1p": "paars / bosvruchten",
+        "xhd2g": "groen / appel",
+        "xhd3b": "blauw / fresh",
+        "xhd4o": "oranje / tropisch fruit",
+        "xhd6c": "transparant / tropisch fruit",
+        "xhd7bk": "zwart / munt",
+        "xhd8bm": "vlam / mango",
+        "xhd9g": "groen / dennennaald",
+        "xhd10r": "rood / meloen",
+        "xhd12p": "paars / lavendel",
+        "xhd13c": "geel / citrus"
+      },
+      "useCases": {
+        "0": "Corporate offices",
+        "1": "Hotels and hospitality"
+      }
+    },
+    "ekcoscreen": {
+      "name": "ëkcoscreen",
+      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "zware anti-spat urinoirmat met dubbele geurduur",
+      "short": "ëkcoscreen 60+ is een geurende urinoirmat met gepatenteerde borstels (Sealed Bristles Technology™) die 95% van de mat bedekken. Hij beperkt urinespatten en onaangename geuren tot een minimum, voor een schonere, comfortabelere toiletruimte. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft 60+ dagen lang geleidelijk geur af, twee keer zo lang als standaard urinoirmatten van 30 dagen. In minder drukke toiletruimtes gaat de mat zelfs nog langer mee.",
+      "long": "ëkcoscreen 60+ is een geurende urinoirmat met gepatenteerde borstels (Sealed Bristles Technology™) die 95% van de mat bedekken. Hij beperkt urinespatten en onaangename geuren tot een minimum, voor een schonere, comfortabelere toiletruimte. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft 60+ dagen lang geleidelijk geur af, twee keer zo lang als standaard urinoirmatten van 30 dagen. In minder drukke toiletruimtes gaat de mat zelfs nog langer mee.\n\nOntworpen voor drukbezochte toiletruimtes in restaurants, bars, luchthavens, winkelcentra en andere locaties waar hygiëne centraal staat, zorgt ëkcoscreen 60+ voor meer netheid en betere geurbeheersing.\n\nëkcoscreen 60+ wordt gemaakt met gerecycled EVA. Het materiaal zelf is recyclebaar, maar een gebruikte urinoirmat niet, omdat die biologisch verontreinigd is. Die belandt op de stortplaats of in de verbrandingsoven, en daarom bevat ëkcoscreen 60+ het additief Eco-One™. In een onafhankelijke laboratoriumtest bereikte EVA van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, en binnen 5 jaar wordt tot 99% verwacht.\n\nëkcoscreen 60+ combineert effectieve spatbescherming, 60+ dagen geur en gerecycled, biologisch afbreekbaar EVA voor drukbezochte toiletruimtes.",
+      "benefits": {
+        "0": "Gepatenteerde anti-spatborstels bedekken 95% van het matoppervlak, helpen gebruikers te beschermen tegen ongewenste spatten en houden de omgeving schoner",
+        "1": "Geen zichtbare spatten buiten de mat in een vergelijkende UV-spattest onder identieke omstandigheden",
+        "2": "Zelf ontwikkeld materiaal, doordrenkt met een geur op deodorantbasis die 60+ dagen lang geleidelijk vrijkomt",
+        "3": "Geurt twee keer zo lang als matten van 30 dagen, tegen vergelijkbare kosten per dag",
+        "4": "141 g geurend materiaal per mat, meer dan drie keer zoveel als een gangbare urinoirmat",
+        "5": "Speciaal ontworpen voor drukbezochte toiletruimtes, zoals in restaurants, bars, luchthavens, winkelcentra enz.",
+        "6": "Gemaakt met gerecycled EVA, met Eco-One™ biologisch afbreekbaar op de stortplaats",
+        "7": "Verpakt in dozen van 100% gerecycled karton",
+        "8": "Ideaal voor waterloze urinoirs",
+        "9": "Afmetingen: 20 x 21 x 2,2 cm",
+        "10": "Uniek design, ruime keuze aan kleuren en aangename geuren",
+        "11": "Private branding met uw logo, in het materiaal gesneden of bedrukt"
+      },
+      "useCases": {
+        "0": "Retail",
+        "1": "Public buildings"
+      }
+    },
+    "powerscreen": {
+      "name": "powër screen",
+      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "category": "krachtige anti-spat urinoirmat voor maandelijkse vervanging",
+      "short": "powër screen is een geurende urinoirmat met een gepatenteerd borstelsysteem (Sealed Bristles Technology™). Hij beperkt urinespatten en onaangename geuren tot een minimum, voor een schonere, comfortabelere toiletruimte. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft tot 30 dagen lang geleidelijk geur af, waardoor de mat ideaal is voor het maandelijkse onderhoud van urinoirs.",
+      "long": "powër screen is een geurende urinoirmat met een gepatenteerd borstelsysteem (Sealed Bristles Technology™). Hij beperkt urinespatten en onaangename geuren tot een minimum, voor een schonere, comfortabelere toiletruimte. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft tot 30 dagen lang geleidelijk geur af, waardoor de mat ideaal is voor het maandelijkse onderhoud van urinoirs.\n\npowër screen wordt gemaakt met gerecycled EVA. Het materiaal zelf is recyclebaar, maar een gebruikte urinoirmat niet, omdat die biologisch verontreinigd is. Die belandt op de stortplaats of in de verbrandingsoven, en daarom bevat powër screen het additief Eco-One™. In een onafhankelijke laboratoriumtest bereikte EVA van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, en binnen 5 jaar wordt tot 99% verwacht.\n\npowër screen combineert effectieve spatbescherming, tot 30 dagen geur en gerecycled, biologisch afbreekbaar EVA voor het maandelijkse onderhoud van toiletruimtes.",
+      "benefits": {
+        "0": "Gepatenteerde anti-spatborstels helpen gebruikers te beschermen tegen ongewenste spatten en houden de omgeving schoner",
+        "1": "Zelf ontwikkeld materiaal, doordrenkt met een geur op deodorantbasis die tot 30 dagen lang geleidelijk vrijkomt",
+        "2": "Ideaal voor het maandelijkse onderhoud van urinoirs",
+        "3": "Gemaakt met gerecycled EVA, met Eco-One™ biologisch afbreekbaar op de stortplaats",
+        "4": "Verpakt in dozen van 100% gerecycled karton",
+        "5": "Geschikt voor waterloze urinoirs",
+        "6": "Flexibele vorm past in bijna alle soorten urinoirs",
+        "7": "Design dat elke toiletruimte opwaardeert",
+        "8": "Afmetingen: 18 x 20 x 1,8 cm",
+        "9": "Uniek design, ruime keuze aan kleuren en aangename geuren",
+        "10": "Private branding met uw logo, in het materiaal gesneden of bedrukt"
+      },
+      "useCases": {
+        "0": "Stadiums",
+        "1": "Transport hubs"
+      }
+    },
+    "basicScreen": {
+      "name": "basic scrëen",
+      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "category": "voordelige urinoirmat, biologisch afbreekbaar op de stortplaats",
+      "short": "basic scrëen is een voordelige urinoirmat die urinoirs ontgeurt en voorkomt dat vuil zich ophoopt. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft tot 30 dagen lang geleidelijk geur af, waardoor de mat ideaal is voor het maandelijkse onderhoud van urinoirs.",
+      "long": "basic scrëen is een voordelige urinoirmat die urinoirs ontgeurt en voorkomt dat vuil zich ophoopt. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft tot 30 dagen lang geleidelijk geur af, waardoor de mat ideaal is voor het maandelijkse onderhoud van urinoirs.\n\nbasic scrëen wordt gemaakt met gerecycled EVA. Het materiaal zelf is recyclebaar, maar een gebruikte urinoirmat niet, omdat die biologisch verontreinigd is. Die belandt op de stortplaats of in de verbrandingsoven, en daarom bevat basic scrëen het additief Eco-One™. In een onafhankelijke laboratoriumtest bereikte EVA van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, en binnen 5 jaar wordt tot 99% verwacht.\n\nbasic scrëen combineert betrouwbare geurbeheersing, bescherming tegen vuil en gerecycled, biologisch afbreekbaar EVA tegen lage kosten.",
+      "benefits": {
+        "0": "Zelf ontwikkeld materiaal, doordrenkt met een geur op deodorantbasis die geleidelijk vrijkomt",
+        "1": "Geurafgifte tot 30 dagen",
+        "2": "Ideaal voor het maandelijkse onderhoud van urinoirs",
+        "3": "Geschikt voor waterloze urinoirs",
+        "4": "Flexibele vorm past in bijna alle soorten urinoirs",
+        "5": "Afmetingen: 20 x 19 cm",
+        "6": "Uniek design, ruime keuze aan kleuren en aangename geuren",
+        "7": "Voordelige oplossing voor de maandelijkse hygiëne van urinoirs",
+        "8": "Gemaakt met gerecycled EVA, met Eco-One™ biologisch afbreekbaar op de stortplaats",
+        "9": "Verzonden in dozen van 100% gerecycled karton",
+        "10": "Private branding met uw logo, in het materiaal gesneden of bedrukt"
+      },
+      "useCases": {
+        "0": "Schools",
+        "1": "Light commercial"
+      }
+    },
+    "urolite": {
+      "name": "üro lite",
+      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "kleine urinoirmat, grote spatbescherming",
+      "short": "üro lite is een flexibele, geurende urinoirmat, ontworpen voor kleinere urinoirs. Hij werkt met dezelfde gepatenteerde Sealed Bristles Technology™ als ëkcoscreen 60+ en vertrouwt in plaats van op een grotere diameter op lange borstels, die in een kleine mat voor grote spatbescherming zorgen. Hij beperkt urinespatten en onaangename geuren tot een minimum. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft tot 30 dagen lang geleidelijk geur af, waardoor de mat ideaal is voor het maandelijkse onderhoud van urinoirs.",
+      "long": "üro lite is een flexibele, geurende urinoirmat, ontworpen voor kleinere urinoirs. Hij werkt met dezelfde gepatenteerde Sealed Bristles Technology™ als ëkcoscreen 60+ en vertrouwt in plaats van op een grotere diameter op lange borstels, die in een kleine mat voor grote spatbescherming zorgen. Hij beperkt urinespatten en onaangename geuren tot een minimum. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft tot 30 dagen lang geleidelijk geur af, waardoor de mat ideaal is voor het maandelijkse onderhoud van urinoirs.\n\nüro lite wordt gemaakt met gerecycled EVA. Het materiaal zelf is recyclebaar, maar een gebruikte urinoirmat niet, omdat die biologisch verontreinigd is. Die belandt op de stortplaats of in de verbrandingsoven, en daarom bevat üro lite het additief Eco-One™. In een onafhankelijke laboratoriumtest bereikte EVA van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, en binnen 5 jaar wordt tot 99% verwacht.\n\nüro lite geeft kleinere urinoirs grote spatbescherming dankzij zijn unieke, gepatenteerde lange borstels, in een compacte, voordelige mat gemaakt met gerecycled, biologisch afbreekbaar EVA.",
+      "benefits": {
+        "0": "Unieke, gepatenteerde lange borstels helpen gebruikers te beschermen tegen spatten en houden de omgeving schoner",
+        "1": "Dezelfde gepatenteerde Sealed Bristles Technology™ als ëkcoscreen 60+",
+        "2": "Zelf ontwikkeld materiaal, doordrenkt met een geur op deodorantbasis die tot 30 dagen lang geleidelijk vrijkomt",
+        "3": "Compact formaat, speciaal ontworpen voor kleinere urinoirs",
+        "4": "Ideaal voor het maandelijkse onderhoud van urinoirs",
+        "5": "Geschikt voor waterloze urinoirs",
+        "6": "Gemaakt met gerecycled EVA, met Eco-One™ biologisch afbreekbaar op de stortplaats",
+        "7": "Verpakt in dozen van 100% gerecycled karton",
+        "8": "Afmetingen: 13 x 13 x 1,8 cm",
+        "9": "Uniek design, ruime keuze aan kleuren en aangename geuren",
+        "10": "Private branding met uw logo, in het materiaal gesneden of bedrukt"
+      },
+      "useCases": {
+        "0": "Boutique hospitality",
+        "1": "Premium office"
+      }
+    },
+    "ekcoClip": {
+      "name": "ëkco clip",
+      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "category": "frisse toiletclip die op bijna elke toiletpot past",
+      "short": "ëkco clip is een verfrissende toiletclip die zorgt voor continue geurbeheersing en toiletcabines fris houdt. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft tot 30 dagen lang geleidelijk geur af. Dankzij het flexibele ontwerp past de clip op de meeste soorten toiletpotten, is hij eenvoudig te bevestigen en verspreidt hij de geur goed.",
+      "long": "ëkco clip is een verfrissende toiletclip die zorgt voor continue geurbeheersing en toiletcabines fris houdt. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft tot 30 dagen lang geleidelijk geur af. Dankzij het flexibele ontwerp past de clip op de meeste soorten toiletpotten, is hij eenvoudig te bevestigen en verspreidt hij de geur goed.\n\nëkco clip wordt gemaakt met gerecycled EVA. Het materiaal zelf is recyclebaar, maar een gebruikte toiletclip niet, omdat die biologisch verontreinigd is. Die belandt op de stortplaats of in de verbrandingsoven, en daarom bevat ëkco clip het additief Eco-One™. In een onafhankelijke laboratoriumtest bereikte EVA van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, en binnen 5 jaar wordt tot 99% verwacht.\n\nëkco clip combineert continue geurbeheersing tot 30 dagen, eenvoudige bevestiging op de meeste toiletpotten en gerecycled, biologisch afbreekbaar EVA.",
+      "benefits": {
+        "0": "Zelf ontwikkeld materiaal, doordrenkt met een geur op deodorantbasis die geleidelijk vrijkomt",
+        "1": "Effectieve bescherming tegen geuren",
+        "2": "Uniek ontwerp voor optimale geurafgifte",
+        "3": "Geurafgifte tot 30 dagen",
+        "4": "Flexibele vorm past op bijna alle soorten toiletpotten",
+        "5": "Afmetingen: 10 x 5 x 4,5 cm",
+        "6": "Ruime keuze aan kleuren en aangename geuren",
+        "7": "Voordelige toiletverfrissing",
+        "8": "Gemaakt met gerecycled EVA, met Eco-One™ biologisch afbreekbaar op de stortplaats",
+        "9": "Verpakt in dozen van 100% gerecycled karton",
+        "10": "Private branding met uw logo, in het materiaal gesneden of bedrukt"
+      },
+      "useCases": {
+        "0": "Facility retrofits",
+        "1": "Specification-led projects"
+      }
+    },
+    "freshDrop": {
+      "name": "frësh drop",
+      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "category": "langwerkende wc-luchtverfrisser zonder batterijen",
+      "short": "frësh drop is een luchtverfrisser voor binnen, ontworpen voor toiletcabines en toiletruimtes. De navulling, gemaakt van zelf ontwikkeld materiaal doordrenkt met een geur op deodorantbasis, geeft geleidelijk geur af zonder batterijen of stroom. In gesloten toiletcabines met weinig of geen ventilatie gaat hij 60+ dagen mee; waar de lucht meer beweegt, vervliegt de geur sneller. Het druppelvormige ontwerp past bij elk toiletinterieur, en met de meegeleverde plakstrip is hij eenvoudig op bijna elk oppervlak te bevestigen. Voor kleine ruimtes kiest u de compacte ëkco loop.",
+      "long": "frësh drop is een luchtverfrisser voor binnen, ontworpen voor toiletcabines en toiletruimtes. De navulling, gemaakt van zelf ontwikkeld materiaal doordrenkt met een geur op deodorantbasis, geeft geleidelijk geur af zonder batterijen of stroom. In gesloten toiletcabines met weinig of geen ventilatie gaat hij 60+ dagen mee; waar de lucht meer beweegt, vervliegt de geur sneller. Het druppelvormige ontwerp past bij elk toiletinterieur, en met de meegeleverde plakstrip is hij eenvoudig op bijna elk oppervlak te bevestigen. Voor kleine ruimtes kiest u de compacte ëkco loop.\n\nDe navulling van de frësh drop wordt gemaakt met gerecycled EVA, en het materiaal is recyclebaar. Navulling en houder bevatten allebei het additief Eco-One™ en zijn daardoor allebei biologisch afbreekbaar op de stortplaats. In een onafhankelijke laboratoriumtest bereikte EVA van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, en binnen 5 jaar wordt tot 99% verwacht.\n\nfrësh drop combineert 60+ dagen geur, eenvoudige montage en een navulling met gerecycled, biologisch afbreekbaar EVA voor toiletcabines en toiletruimtes.",
+      "benefits": {
+        "0": "Zelf ontwikkeld materiaal, doordrenkt met een geur op deodorantbasis die geleidelijk vrijkomt",
+        "1": "Perfect om toiletruimtes fris en schoon te houden, speciaal ontworpen voor toiletcabines",
+        "2": "Geurafgifte van 60+ dagen in gesloten toiletcabines, zonder batterijen of stroom",
+        "3": "Druppelvormig ontwerp dat past bij elk toiletinterieur",
+        "4": "Eenvoudige montage met de meegeleverde plakstrip",
+        "5": "Afmetingen: 23 x 12 x 3,5 cm",
+        "6": "Ruime keuze aan kleuren en aangename geuren",
+        "7": "Navulling gemaakt met gerecycled, recyclebaar EVA",
+        "8": "Navulling en houder met Eco-One™ biologisch afbreekbaar op de stortplaats",
+        "9": "Verpakt in dozen van 100% gerecycled karton",
+        "10": "Private branding mogelijk via bedrukking"
+      },
+      "useCases": {
+        "0": "Hospitality",
+        "1": "Premium retail"
+      },
+      "bases": {
+        "white": "houder wit",
+        "black": "houder zwart"
+      }
+    },
+    "ezTrap": {
+      "name": "ëz trap",
+      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "category": "geurafsluitend, onderhoudsarm patroon voor waterloze urinoirs",
+      "short": "ëz trap is een innovatief patroonsysteem, ontworpen om de efficiëntie, netheid en geurbeheersing van waterloze urinoirs te verbeteren en tegelijk de onderhoudskosten aanzienlijk te verlagen.",
+      "long": "ëz trap is een innovatief patroonsysteem, ontworpen om de efficiëntie, netheid en geurbeheersing van waterloze urinoirs te verbeteren en tegelijk de onderhoudskosten aanzienlijk te verlagen.\n\nMet het gepatenteerde patroonsysteem van ëz trap stroomt urine op natuurlijke wijze door de sifon, en een afsluitdop sluit na elk gebruik af. Dit voorkomt dat geuren ontsnappen en zorgt ervoor dat bij elk gebruik oude urine uit het systeem wordt verwijderd, voor een frissere toiletruimte.\n\nëz trap wordt gemaakt met het additief Eco-One™, waardoor het patroon biologisch afbreekbaar is op de stortplaats. In een onafhankelijke laboratoriumtest bereikte materiaal van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, en binnen 5 jaar wordt tot 99% verwacht.\n\nëz trap biedt een efficiënte, onderhoudsarme en kostenbesparende manier om rioolgeuren uit waterloze urinoirs te weren.",
+      "variants": {
+        "withoutTool": "zonder verwijdergereedschap",
+        "withTool": "met verwijdergereedschap"
+      },
+      "benefits": {
+        "0": "Blokkeert rioolgeuren: sifon en afsluitdop voorkomen dat onaangename rioollucht ontsnapt",
+        "1": "Geen dure gels of speciale reinigers nodig",
+        "2": "Eenvoudig en voordelig onderhoud: giet dagelijks gewoon een glas water door om kalkaanslag te voorkomen",
+        "3": "Lange levensduur: het patroon gaat 4 tot 6+ maanden mee, en regelmatig reinigen met een antikalkmiddel (bijv. een goede toiletgel) verlengt de levensduur",
+        "4": "Brede compatibiliteit: geschikt voor Sloan, Falcon, Vitra, Bobrick en andere merken met het Falcon Velocity-systeem (diameter 11,8 cm, hoogte 11,5 cm)",
+        "5": "Afmetingen: Ø 11,8 x 11,5 cm",
+        "6": "Verpakt in dozen van 100% gerecycled karton",
+        "7": "Met het additief Eco-One™ biologisch afbreekbaar op de stortplaats"
+      },
+      "useCases": {
+        "0": "Food service",
+        "1": "Healthcare support areas"
+      }
+    },
+    "xcrenPuck": {
+      "name": "xcrën puck",
+      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "category": "X-vormige urinoirmat met deodoriserende puck",
+      "short": "xcrën puck is een urinoirmat met een deodoriserende NON-PARA-puck, ontworpen voor effectieve geurbeheersing en bescherming van de afvoer. Hij bevat geen paradichloorbenzeen (PARA), dat door de WHO als mogelijk kankerverwekkend is geclassificeerd. PARA-pucks worden nog in sommige urinoirmatten gebruikt, terwijl EU-regels PARA in toiletverfrissers beperken. Het X-vormige ontwerp voorkomt dat vaste stoffen en vuil de afvoer verstoppen, en bij elk gebruik komt tot 30 dagen lang een schone, frisse geur vrij.",
+      "long": "xcrën puck is een urinoirmat met een deodoriserende NON-PARA-puck, ontworpen voor effectieve geurbeheersing en bescherming van de afvoer. Hij bevat geen paradichloorbenzeen (PARA), dat door de WHO als mogelijk kankerverwekkend is geclassificeerd. PARA-pucks worden nog in sommige urinoirmatten gebruikt, terwijl EU-regels PARA in toiletverfrissers beperken. Het X-vormige ontwerp voorkomt dat vaste stoffen en vuil de afvoer verstoppen, en bij elk gebruik komt tot 30 dagen lang een schone, frisse geur vrij.\n\nDe puck bestaat voornamelijk uit was en glycerine en lost op bij gebruik. xcrën puck wordt gemaakt met het additief Eco-One™, waardoor hij biologisch afbreekbaar is op de stortplaats. In een onafhankelijke laboratoriumtest bereikte materiaal van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, en binnen 5 jaar wordt tot 99% verwacht. Het is een wegwerpproduct: de puck kan niet worden vervangen door een nieuwe.\n\nxcrën puck is een eenvoudige, effectieve manier om urinoirs tot 30 dagen fris en afvoeren vrij te houden.",
+      "variants": {
+        "whiteFresh": "wit / fresh",
+        "blueFresh": "blauw / fresh"
+      },
+      "benefits": {
+        "0": "NON-PARA-puck: geen paradichloorbenzeen, dat door de WHO als mogelijk kankerverwekkend is geclassificeerd",
+        "1": "Voorkomt dat vaste stoffen en ander vuil de afvoer verstoppen",
+        "2": "Geeft bij elk gebruik tot 30 dagen lang een schone, frisse geur af",
+        "3": "Ideaal voor het maandelijkse onderhoud van urinoirs",
+        "4": "Puck voornamelijk van was en glycerine",
+        "5": "Wegwerpproduct: de puck kan niet worden vervangen door een nieuwe",
+        "6": "Afmetingen: 17 x 17 x 2,9 cm",
+        "7": "Verpakt in dozen van 100% gerecycled karton",
+        "8": "Met het additief Eco-One™ biologisch afbreekbaar op de stortplaats",
+        "9": "Een nieuw, uniek X-design",
+        "10": "Private branding met uw logo, in het materiaal gesneden of bedrukt"
+      },
+      "useCases": {
+        "0": "Compact washrooms",
+        "1": "Retrofit programs"
+      }
+    },
+    "ekcoMat": {
+      "name": "ëkco mat",
+      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "category": "voordelige urinoirvloermat die uw vloer beschermt",
+      "short": "ëkco mat is een absorberende urinoirvloermat, ontworpen om de hygiëne in toiletruimtes te verbeteren en vloeren te beschermen tegen urineophoping. Met afmetingen van 54 x 51 x 0,5 cm bedekt hij effectief de zone rond de meeste standaardurinoirs, voorkomt hij vloerschade en vermindert hij de overdracht van urine via de schoenzolen van gebruikers. Dit helpt de toiletruimte schoner en comfortabeler te houden.",
+      "long": "ëkco mat is een absorberende urinoirvloermat, ontworpen om de hygiëne in toiletruimtes te verbeteren en vloeren te beschermen tegen urineophoping. Met afmetingen van 54 x 51 x 0,5 cm bedekt hij effectief de zone rond de meeste standaardurinoirs, voorkomt hij vloerschade en vermindert hij de overdracht van urine via de schoenzolen van gebruikers. Dit helpt de toiletruimte schoner en comfortabeler te houden.\n\nëkco mat is een voordelige wegwerpoplossing, ideaal voor restaurants, hotels en andere drukbezochte locaties waar hygiëne prioriteit heeft.\n\nëkco mat biedt een praktische, hygiënische en budgetvriendelijke oplossing voor schone en professionele toiletruimtes.",
+      "variants": {
+        "standard": "zwart"
+      },
+      "benefits": {
+        "0": "Beschermt de vloer onder het urinoir",
+        "1": "Vermindert de verspreiding van urine via schoenzolen",
+        "2": "Voordelige hygiëneoplossing",
+        "3": "Voor eenmalig gebruik",
+        "4": "Private branding mogelijk",
+        "5": "Afmetingen: 54 x 51 x 0,5 cm"
+      },
+      "useCases": {
+        "0": "Entrances",
+        "1": "Service corridors"
+      }
+    }
+  },
+  "privateLabel": {
+    "hero": {
+      "eyebrow": "Voor distributeurs",
+      "title": "Private Label-programma",
+      "lead": "Verkoop onze producten onder uw eigen merk",
+      "body": "Laat uw bedrijf groeien met uw eigen productlijn. Met ons Private Label-programma kunnen distributeurs beproefde, goed presterende toiletproducten aan hun portfolio toevoegen en deze onder hun eigen merk verkopen - zonder dat u daar zelf iets voor hoeft te ontwikkelen of te ontwikkelen. Het enige dat wij nodig hebben is uw logo; wij zorgen voor de rest.",
+      "cta": "Word partner"
+    },
+    "why": {
+      "title": "Waarom met ons samenwerken?",
+      "items": {
+        "0": {
+          "title": "Bewezen oplossingen",
+          "body": "Elk product is het resultaat van intensieve ontwikkeling en ontworpen voor optimale, betrouwbare prestaties – een assortiment waar u met vertrouwen uw naam op kunt zetten."
+        },
+        "1": {
+          "title": "Eenvoudig maatwerk",
+          "body": "Wij hebben uw logo alleen nodig om u een serie producten te kunnen aanbieden die u onder uw eigen merk kunt verkopen."
+        },
+        "2": {
+          "title": "Premium-ondersteuning",
+          "body": "Wij begeleiden u door het hele proces, zodat u uw merk en uw omzet kunt uitbreiden."
+        }
+      }
+    },
+    "ways": {
+      "title": "Twee manieren om de producten te merken",
+      "print": {
+        "title": "Gedrukte merkvermelding",
+        "body": "Uw logo rechtstreeks op het product gedrukt."
+      },
+      "cutout": {
+        "title": "Logo-uitsnede",
+        "body": "Uw logo geïntegreerd in het materiaal zelf als een unieke uitsnijding – een onderscheidende, hoogwaardige afwerking die geen enkele andere fabrikant biedt, en een sterke onderscheidende factor voor uw assortiment."
+      }
+    },
+    "beyond": {
+      "title": "Pas verder dan het product aan",
+      "packaging": {
+        "title": "Verpakking en etiketten",
+        "body": "Voeg uw logo, bedrijfsgegevens, productnamen en -beschrijvingen, EAN-codes en meer toe aan dozen, mastercases of individuele productzakken - klaar voor de detailhandel onder uw eigen merk."
+      },
+      "mix": {
+        "title": "Kleur en geur",
+        "body": "Bied uw eigen kenmerkende combinatie van kleur en geur uit ons assortiment."
+      }
+    },
+    "goodToKnow": {
+      "title": "Goed om te weten",
+      "items": {
+        "0": "De minimale bestelhoeveelheid is afhankelijk van het specifieke product dat u kiest.",
+        "1": "Voor elk product dat u onder de aandacht wilt brengen, zijn eenmalige installatiekosten van toepassing; deze dekken de tools en voorbereiding die nodig zijn om uw merk te reproduceren.",
+        "2": "Alle merkproducten worden op bestelling gemaakt, volgens uw specificaties.",
+        "3": "We delen de exacte minimumhoeveelheden, prijzen en doorlooptijden samen met uw offerte, zodra we uw specifieke vereisten begrijpen."
+      }
+    },
+    "form": {
+      "title": "Word partner",
+      "description": "Stuur ons uw specifieke verzoek en één van onze verkopers neemt direct contact met u op om de details te bespreken.",
+      "name": "Naam",
+      "company": "Bedrijfsnaam",
+      "email": "E-mail",
+      "phone": "Telefoon",
+      "products": "Producten voor private label",
+      "productsHint": "Voer een aantal in voor de producten die u wilt brandmerken. U hoeft niet elk product in te vullen; de details bespreken we na uw aanvraag.",
+      "quantity": "Aantal (stuks)",
+      "message": "Bericht",
+      "submit": "Bericht verzenden",
+      "submitting": "Verzenden…",
+      "success": "Bedankt - we nemen zo snel mogelijk contact met u op.",
+      "error": "Er is iets misgegaan. Probeer het over enkele ogenblikken opnieuw.",
+      "alertSelect": "Voer voor minimaal één product een aantal in. U hoeft niet elk product te bestellen.",
+      "boundaryError": "Het aanvraagformulier kon niet worden geladen. Vernieuw de pagina of stuur een e-mail naar support@ekcos.eu."
+    }
+  }
+}

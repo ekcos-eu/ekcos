@@ -1,0 +1,752 @@
+{
+  "Metadata": {
+    "title": "ëkcos — muutuge iga mastiga roheliseks",
+    "description": "Meie pissuaarisõelte ja värskendajate valmistamisel kasutatakse ringlussevõetud EVA-materjali. Materjali ennast saab ringlusse võtta, kuid kasutatud pissuaarisõela mitte, sest see on bioloogiliselt saastunud. See jõuab prügilasse või põletusse ja seetõttu lisame kõigile oma toodetele lisandit Eco-One™.",
+    "productsTitle": "Tooted",
+    "productsDescription": "Avastage ëkcos tooteid: vahetage mudeleid, viimistlusi ja valikuid – seejärel külastage ametlikku poodi.",
+    "ecoOneTitle": "Eco-One™",
+    "ecoOneDescription": "Meie pissuaarisõelte ja värskendajate valmistamisel kasutatakse ringlussevõetud EVA-materjali. Materjali ennast saab ringlusse võtta, kuid kasutatud pissuaarisõela mitte, sest see on bioloogiliselt saastunud. See jõuab prügilasse või põletusse ja seetõttu lisame kõigile oma toodetele lisandit Eco-One™.",
+    "brandingTitle": "Kohandatud bränding",
+    "brandingDescription": "Erabrändi loomine, väljalõiked ja printimine B2B programmide jaoks.",
+    "articlesTitle": "Artiklid",
+    "articlesDescription": "ëkcos meeskonna ülevaated, värskendused ja praktilised juhendid.",
+    "contactTitle": "Võtke ühendust",
+    "contactDescription": "Spetsifikatsioonide, programmide ja partnerlussuhete saamiseks pöörduge ëkcos meeskonna poole.",
+    "privateLabelTitle": "Private Label",
+    "privateLabelDescription": "Müüge ëkcos pesuruumitooteid oma kaubamärgi all – edasimüüjatele mõeldud privaatne kaubamärk."
+  },
+  "LocaleSwitcher": {
+    "label": "Keel",
+    "en": "English",
+    "es": "Spanish",
+    "fr": "French",
+    "de": "German",
+    "it": "Italian",
+    "cs": "Czech"
+  },
+  "nav": {
+    "aria": "Esmane",
+    "logoAlt": "ëkcos",
+    "openMenu": "Ava menüü",
+    "mobileMenuTitle": "Menüü",
+    "home": {
+      "label": "Kodu"
+    },
+    "products": {
+      "label": "Tooted"
+    },
+    "articles": {
+      "label": "Artiklid"
+    },
+    "ecoOne": {
+      "label": "Eco-One™"
+    },
+    "customBranding": {
+      "label": "Kohandatud bränding"
+    },
+    "contact": {
+      "label": "Võtke ühendust"
+    },
+    "privateLabel": {
+      "label": "Private Label"
+    },
+    "faq": {
+      "label": "KKK"
+    }
+  },
+  "footer": {
+    "tagline": "ëkcos innovations pakub hügieenilahendusi, mis hoiavad tualettruumid puhtana ja värskena, lihtsustavad hooldust ning kasutavad ringlussevõetud ja biolagunevaid materjale.",
+    "explore": "Uurige",
+    "newsletterTitle": "Infoleht",
+    "newsletterHint": "Tooteuuendused ja programmiuudised. Tellimusest loobumine igal ajal.",
+    "company": {
+      "title": "Ettevõtte andmed",
+      "registryCode": "Ettevõtte registrikood (Eesti)",
+      "vatIdCz": "KMKR (Tšehhi Vabariik)"
+    },
+    "copyright": "© {year} ëkcos. Kõik õigused kaitstud.",
+    "legalNote": "Informatiivne sait. Ostud sooritatakse ametlikus poes."
+  },
+  "common": {
+    "shop": "Pood",
+    "shopCta": "Ostke saidil eshop.ekcos.eu",
+    "learnMore": "Lisateavet",
+    "getInTouch": "Võtke meiega ühendust",
+    "ecoOne": "Eco-One™"
+  },
+  "productDetail": {
+    "backToMap": "Tagasi tualetti",
+    "buyNow": "Osta epoest",
+    "price": "Hind",
+    "from": "alates",
+    "variants": "Saadaval variandid",
+    "colors": "Värvid & lõhnaained",
+    "bases": "Seinaalused",
+    "benefits": "Peamised eelised",
+    "more": "Täpsemalt",
+    "openDetails": "Avage üksikasjalikud fotod",
+    "detailGallery": "Üksikasjalikud fotod — {name}",
+    "detailShot": "detail",
+    "boundaryError": "See tootevaade pole ajutiselt saadaval. Palun proovi uuesti."
+  },
+  "articles": {
+    "shopCta": {
+      "title": "Kas olete valmis oma tualette uuendama?",
+      "body": "Sirvige ametlikus poes ëkcos pissuaariekraane ja tarvikuid.",
+      "button": "Pood"
+    }
+  },
+  "newsletter": {
+    "popupTitle": "Olge kursis",
+    "popupDescription": "Aeg-ajalt värskendused toodete, Eco-One™ ja kohandatud kaubamärgiprogrammide kohta.",
+    "emailLabel": "Meil",
+    "emailPlaceholder": "you@company.com",
+    "submit": "Telli",
+    "configureBrevo": "Uudiskirjaga liitumine ei ole ajutiselt saadaval. Proovige hiljem uuesti.",
+    "submitError": "Tellimine ebaõnnestus. Proovige hetke pärast uuesti.",
+    "dismiss": "Mitte praegu"
+  },
+  "home": {
+    "map": {
+      "aria": "Interaktiivne tualettruumi tootekaart",
+      "hint": "Lisateabe saamiseks klõpsake tootel",
+      "imageAlt": "ëkcos tooted, mis on paigutatud kaubanduslikku tualetti"
+    },
+    "overlay": {
+      "moreVariants": "Poes saadaval ka rohkemates värvides ja lõhnades.",
+      "shopCta": "Osta epoest",
+      "close": "Sule"
+    },
+    "hero": {
+      "title": "Muutke iga mastiga roheliseks",
+      "tagline": "Sisaldab ringlussevõetud EVA-materjali, Eco-One™ lisandiga prügilas biolagunev",
+      "body": "Meie pissuaarisõelte ja värskendajate valmistamisel kasutatakse ringlussevõetud EVA-materjali. Materjali ennast saab ringlusse võtta, kuid kasutatud pissuaarisõela mitte, sest see on bioloogiliselt saastunud.",
+      "ctaProducts": "Tutvuge toodetega",
+      "brandMark": "ekcos.eu"
+    },
+    "benefits": {
+      "eco": {
+        "title": "Taaskasutatud EVA koos Eco-One™",
+        "body": "Biolagunevad tooted, mille valmistamisel on kasutatud ringlussevõetud EVA-materjali"
+      },
+      "hygiene": {
+        "title": "Hügieen ilma kompromissideta",
+        "body": "Tagab puhtama ja mugavama kogemuse, minimeerides uriini tagasipritsmeid ja ebameeldivaid lõhnu."
+      },
+      "costs": {
+        "title": "Vähem koristamist, väiksemad kulud",
+        "body": "Kuni 60 päeva värskust tähendab vähem puhastusi ja väiksemaid kulutusi."
+      },
+      "distributor": {
+        "title": "Ametlik EL turustaja",
+        "body": "Kiire tarne ja õiglase hinnaga otsejuurdepääs Ekcosi originaaltoodetele."
+      },
+      "ecoLink": "Teave Eco-One™ kohta"
+    },
+    "shipping": {
+      "title": "Kiire kohaletoimetamine üle Euroopa",
+      "body": "Kõik ëkcos tooted saadetakse teele 1-2 tööpäeva jooksul pärast makse kinnitamist. Tänu turvalisele ja tõhusale kohaletoimetamisele kogu ELis võite loota oma ettevõtte järjepidevale varude täiendamisele."
+    },
+    "productOfWeek": {
+      "title": "Nädala toode",
+      "cta": "Lisa ostukorvi"
+    },
+    "productsTeaser": {
+      "title": "Tutvuge meie toodetega",
+      "body": "Avastage xcrën HD-d, ⟦EKCOS-ekraani, toiteekraani, frësh dropi, ëkco klippi ja palju muud – seejärel avage ametlik pood.",
+      "link": "Vaata kõiki tooteid"
+    },
+    "brandingTeaser": {
+      "title": "Kohandatud bränding B2B jaoks",
+      "body": "Privaatne sildistamine, väljalõiked ja printimine ühtsete mitme saidi programmide jaoks.",
+      "link": "Kohandatud bränding"
+    },
+    "trust": {
+      "title": "Ehitatud nõudlike ruumide jaoks",
+      "body": "Usaldusväärne hügieen ja esmaklassiline mulje kohapeal – kontorist külalislahkuseni."
+    },
+    "newsletter": {
+      "title": "Tehnilised andmed, käivitamised ja programmivärskendused",
+      "body": "Lühike uudiskiri rajatiste meeskondadele ja partneritele. Ei mingit segadust."
+    },
+    "finalCta": {
+      "title": "Võtke ühendust",
+      "body": "Kas teil on küsimusi toodete, tarne või B2B tellimuste kohta? Saada meile sõnum – aitame hea meelega.",
+      "shop": "Mine poodi",
+      "contact": "Saada sõnum"
+    },
+    "marketing": {
+      "featuresEyebrow": "Ühtne platvorm",
+      "featuresTitle": "Võrrelge, otsustage ja ostke enesekindlalt",
+      "featuresSubtitle": "Uurige lõppu, vaadake üle faktid ja avage pood, kui olete valmis – kõik ühes voos.",
+      "featureInteractTitle": "Interaktiivne spetsifikatsioon",
+      "featureInteractBody": "Vahetage mudeleid, viimistlusi ja lõhnu sekunditega – loodud rajatiste ja FM-meeskondade jaoks.",
+      "featureProofTitle": "Fakte, mida saate jagada",
+      "featureProofBody": "Tühjendage Eco-One™ allalaadimised, et teie meeskond saaks kolleegidele või klientidele valikut selgitada.",
+      "featureB2bTitle": "Programmid, mis ulatuvad",
+      "featureB2bBody": "Kohandatud bränding ja B2B tellimine kasutuselevõtuks, mis vajab järjepidevust, kiirust ja lihvitud kohapealset välimust.",
+      "numbersEyebrow": "Numbrite järgi",
+      "numbersTitle": "Tööselgus, esmaklassiline esitlus",
+      "statProductsLabel": "Tootepered, mida uurida",
+      "statTechLabel": "Eco-One™ faktid ja allalaadimised",
+      "statShopLabel": "Ametlik pood",
+      "galleryEyebrow": "Koosseis",
+      "galleryTitle": "Foto kataloogist",
+      "gallerySubtitle": "Tõeline tootefotograafia ettepanekute, esitluste ja ülevaadete jaoks."
+    }
+  },
+  "ecoOne": {
+    "hero": {
+      "title": "Eco-One™ prügilas biolagunemiseks",
+      "tagline": "Sama toode. Sama esitus. Valmistatud taaskasutatud EVA-st ja Eco-One™-st.",
+      "body": "Meie pissuaarisõelte ja värskendajate valmistamisel kasutatakse ringlussevõetud EVA-materjali. Materjali ennast saab ringlusse võtta, kuid kasutatud pissuaarisõela mitte, sest see on bioloogiliselt saastunud. See jõuab prügilasse või põletusse ja seetõttu lisame kõigile oma toodetele lisandit Eco-One™. Sõltumatus katses, mis tehti standardite ASTM D5511 ja ISO 15985 järgi ülikoolis Instituto Politécnico Nacional México linnas, saavutas Eco-One™ lisandiga ëkcos EVA-materjal 3,5 aasta jooksul 93 % biolagunemise, samas kui sama materjal ilma lisandita näitas 0 %. Prognoositav biolagunemine 5 aasta jooksul on kuni 99 %. Meie karbid on valmistatud 100 % ringlussevõetud kartongist."
+    },
+    "metrics": {
+      "additive": {
+        "value": "~1%",
+        "label": "lisaaine sisu"
+      },
+      "measured": {
+        "value": "~3,5 a",
+        "label": "biolagunemine kuni 93%."
+      },
+      "projected": {
+        "value": "kuni 99%",
+        "label": "~5 aasta jooksul"
+      }
+    },
+    "problem": {
+      "title": "Miks tavaline plast on probleem",
+      "body": "Tavalised plasttooted on loodud kestma. Ilma biolaguneva lisandita võib prügilasse saadetud plasttoode sinna jääda <bold>300 kuni 1000 aastat</bold>; vahtplastist “Crocsi stiilis” puukingad on tuttav näide plastikust, mis <bold>ei ole biolagunev</bold>. Meie tooted on valmistatud samast vastupidavast plastikust (EVA), kuid sellel on üks otsustav erinevus: lisand Eco-One™.",
+      "chartAlt": "Tooted ilma Eco-One™ta võrreldes lisandit sisaldavate ëkcos toodetega",
+      "chartCaption": "Tooted ilma Eco-One™ta võrreldes lisandit sisaldavate ëkcos toodetega.",
+      "chart": {
+        "ariaLabel": "Prügilas lagunemise aastate võrdlus",
+        "withoutLabel": "Tooted ilma Eco-One™ta",
+        "withLabel": "ëkcos koos Eco-One™",
+        "withoutValue": "300-1000 aastat",
+        "withValue": "3,5-5 aastat",
+        "withoutDetail": "Ilma biolaguneva lisandita võib tavaline plast jääda prügilasse sajandeid.",
+        "withDetail": "Lisandiga Eco-One™ näitavad sõltumatud testid umbes 93% biolagunemist umbes 3,5 aasta jooksul ja kuni 99% viie aasta jooksul.",
+        "axisLabel": "Aastaid lagunemiseks (prügilasse)",
+        "caption": "Tooted ilma Eco-One™ta võrreldes lisandit sisaldavate ëkcos toodetega.",
+        "scaleLabel": "Diagrammi skaala",
+        "scaleFull": "0–1000 a",
+        "scaleZoom": "0-10 a",
+        "clippedNote": "jätkub →"
+      }
+    },
+    "solution": {
+      "title": "Meie lahendus: Eco-One™ lisand",
+      "body1": "Tootmise ajal lisame ligikaudu <bold>1% Eco-One™</bold>, orgaanilist lisandit, mida doseeritakse samamoodi nagu värvainet. See ei mõjuta toote tugevust, välimust ega toimivust.",
+      "body2": "Bioloogiliselt aktiivses prügilas lagundavad looduslikult esinevad mikroorganismid töödeldud plastikut ensümaatilise aktiivsuse kaudu, muutes selle biogaasiks (<bold>metaan</bold>, mille tänapäevased prügilad püüavad energia taaskasutamiseks), süsihappegaasiks ja huumuseks.",
+      "body3": "Kuna toode laguneb lõpuks huumuseks, viib see orgaanilise aine prügilasse tagasi ja aitab kiirendada seal juba töötavaid biokeemilisi protsesse. Seetõttu aitab toode <bold>mitte ainult oma kasutusaja jooksul, vaid ka pärast seda</bold>."
+    },
+    "testing": {
+      "title": "Sõltumatu testimine",
+      "body": "Toodet testiti sõltumatus laboris rahvusvaheliste standardite <bold>ASTM D5511 ja ISO 15985</bold> järgi, võrreldes sama toodet lisandiga Eco-One™ ja ilma. Eco-One™ puhul saavutas see ligikaudu 3,5 aasta jooksul <bold>93,31% biolagunemise ja viie aasta jooksul kuni 99%</bold>; ilma Eco-One™ta ei näidanud toode mõõdetavat biolagunemist.",
+      "barChart": {
+        "ariaLabel": "Biolagunemine ligikaudu 3,5 aasta pärast ⟦ECOONE-ga ja ilma",
+        "yAxis": "Biolagunemine (%)",
+        "withLabel": "ëkcos koos Eco-One™",
+        "withoutLabel": "Tooted ilma Eco-One™ta",
+        "withDetail": "93,31% biolagunemine, mõõdetud sõltumatu ASTM D5511 / ISO 15985 laboritestiga umbes 3,5 aasta pärast.",
+        "withoutDetail": "Sama toode ilma Eco-One™ta ei näidanud sama katseperioodi jooksul mõõdetavat biolagunemist.",
+        "subtitle": "Sama toode · sama laborikatse (ASTM D5511 / ISO 15985) · ~3,5 aastat"
+      },
+      "timelineChart": {
+        "ariaLabel": "Biolagunemine viie aasta jooksul koos ja ilma Eco-One™ta",
+        "yAxis": "Biolagunemine (%)",
+        "xAxis": "Aastaid",
+        "withLabel": "ëkcos koos Eco-One™",
+        "withoutLabel": "Tooted ilma Eco-One™ta",
+        "zeroNote": "0% kogu aeg",
+        "measured": "mõõdetud",
+        "projected": "prognoositud",
+        "yearsUnit": "a",
+        "projectedNote": "Prognoositud mõõdetud trendist",
+        "caption": "Biolagunemine lisandiga Eco-One™ ja ilma. Väärtused, mis on pikemad kui 3,5 aastat, prognoositakse mõõdetud trendist."
+      }
+    },
+    "closing": {
+      "title": "ëkcos tooted, millel on Eco-One™",
+      "body": "Meie pesuruumitooted on valmistatud lisandiga Eco-One™. Sõltumatu laborikatse käigus saavutas ëkcos EVA koos Eco-One™-ga 93% biolagunemise 3,5 aasta jooksul ja kuni 99% prognoositakse 5 aasta jooksul prügilasse ladestamise tingimustes – toimivus on identne ilma lisandita toodetega.",
+      "shopCta": "Pood"
+    },
+    "footnote": "Andmeallikas: sõltumatu biolagunevuse test vastavalt ASTM D5511-02 ja ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) – ëkcos toode 1% Eco-One™ lisandiga: 93,31% biolagunemine 1,283 päeva jooksul (≈283 päeva); sama toode ilma lisandita: 0%. Biodegradatsioon pärast katseperioodi (kuni 99% ~5 aasta jooksul) prognoositakse mõõdetud trendist. Tavapäraste plastide püsivusnäitajad (≈300–1000 aastat) on laialdaselt tsiteeritud tööstuse hinnangud. Lisandit Eco-One™ toodab ja sertifitseerib EcoLogic, LLC."
+  },
+  "customBranding": {
+    "hero": {
+      "eyebrow": "B2B spetsifikatsioon",
+      "title": "Kohandatud bränding",
+      "subtitle": "Eraldi märgistamine, väljalõiked ja printimine mitme saidi brändiprogrammide jaoks."
+    },
+    "introEyebrow": "Programmi ülevaade",
+    "introTitle": "Spetsifikatsioonipõhine bränding",
+    "intro": "Aitame teil panna teie brändi tehasetasemel tootele: selged tehnilised andmed, stabiilne tootmine ja paberimajandus, mille teie meeskond saab audiitoritele või klientidele üle anda.",
+    "sections": {
+      "private": {
+        "title": "Erabrändi loomine",
+        "body": "Teie kunstiteoseid käsitletakse järjekindlalt alates heakskiitmisest kuni tootmiseni – nii et iga partii sobib teie kaubamärgiga."
+      },
+      "cutouts": {
+        "title": "Kohandatud väljalõiked",
+        "body": "Vormitud avad ja süvendid, mis sobivad tõelistele seadmetele ja kuidas teie meeskonnad neid paigaldavad."
+      },
+      "print": {
+        "title": "Trükivalikud",
+        "body": "Vastupidav trükk, mis jääb igapäevasel kasutamisel tootel loetavaks."
+      }
+    },
+    "pricing": {
+      "title": "Kaubandustingimused",
+      "description": "Avaldatud tasud: ühekordne seadistamine, ühiku bränding ja valikulised pakendisildid.",
+      "entryFee": "Ühekordne osavõtutasu",
+      "brandingCost": "Brändingu maksumus",
+      "packagingLabels": "Kohandatud sildid pakendil"
+    },
+    "standardMoq": {
+      "title": "MOQ standardse kaubamärgi jaoks",
+      "description": "Minimaalsed tellimuste kogused standardsetele kaubamärgiprogrammidele koos logo väljalõigete või trükiga.",
+      "productLabel": "Toode",
+      "moqLabel": "MOQ [tk]",
+      "note": "* Kui soovite tellida ainult Fresh Drop aluseid, on MOQ 288 tk."
+    },
+    "customMix": {
+      "title": "Kohandatud värvi ja lõhna segu",
+      "description": "Saame oma valikust toota kohandatud lõhna- ja värvikombinatsiooni. Minimaalne tellimiskogus vastab iga kohandatud toote täisalusele.",
+      "productLabel": "Toode",
+      "moqLabel": "MOQ [tk]",
+      "note": "* Basic Screen MOQ on mõeldud poolele kaubaalusele."
+    },
+    "production": {
+      "title": "Tootmine, tarneaeg ja tasumine"
+    },
+    "process": {
+      "title": "Lihtne protsess",
+      "steps": {
+        "0": "Lepime kokku mahud, piirkonnad ja ajastus.",
+        "1": "Kinnitate kunstiteosed, materjalid ja viimistlused.",
+        "2": "Valmistame kvaliteedikontrolli igal etapil.",
+        "3": "Saadame teie saitidele teile vajaliku ajakava järgi."
+      }
+    },
+    "inquiry": {
+      "title": "Küsi infot",
+      "hint": "Rääkige meile mahtudest, piirkondadest ja kaubamärginõuetest."
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Tehniline ja kaubanduslik tugi",
+      "title": "Võtke ühendust",
+      "subtitle": "Küsige meilt Eco-One™, spetsifikatsioonide või B2B programmide kohta – saate ametlikus poes igal ajal tellimusi esitada."
+    },
+    "details": {
+      "title": "Võtke ühendust",
+      "email": "Meil",
+      "phone": "Telefon",
+      "hours": "Tundi",
+      "hoursValue": "Esmaspäevast reedeni 09.00–17.00 CET"
+    },
+    "company": {
+      "title": "Registreeritud ettevõtte andmed",
+      "registryCode": "Ettevõtte registrikood (Eesti)",
+      "vatIdCz": "KMKR (Tšehhi Vabariik)"
+    },
+    "form": {
+      "name": "Nimi",
+      "company": "Ettevõte",
+      "email": "Meil",
+      "phone": "Telefon",
+      "message": "Sõnum",
+      "submit": "Saada sõnum",
+      "success": "Täname – võtame teiega varsti tagasi.",
+      "error": "Midagi läks valesti. Palun proovi uuesti."
+    }
+  },
+  "products": {
+    "page": {
+      "title": "Products",
+      "intro": "Switch models and finishes, then buy in the official store.",
+      "heroEyebrow": "Explore the range",
+      "heroTitle": "Configure every line in one place",
+      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroLinkEco": "About Eco-One™",
+      "heroLinkBranding": "Custom branding"
+    },
+    "configurator": {
+      "color": "Finish",
+      "selectProduct": "Select product",
+      "fragrance": "Fragrance options",
+      "benefits": "Benefits",
+      "productBenefits": "Product benefits",
+      "availableColorsFragrances": "Available colors & fragrances",
+      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
+      "byBrand": "by ëkcos",
+      "siteUrl": "www.ekcos.eu",
+      "useCases": "Typical applications",
+      "brandingNote": "Custom branding available for qualified orders."
+    },
+    "colors": {
+      "white": "White",
+      "grey": "Grey",
+      "black": "Black",
+      "blue": "Blue"
+    },
+    "fragrances": {
+      "fresh": "Fresh",
+      "citrus": "Citrus"
+    },
+    "variantLabels": {
+      "x1p": "lilla / metsamari",
+      "x2g": "roheline / õun",
+      "x3b": "sinine / fresh",
+      "x4o": "oranž / troopilised puuviljad",
+      "x6c": "läbipaistev / troopilised puuviljad",
+      "x7bk": "must / piparmünt",
+      "x8bm": "leek / mango",
+      "x9g": "roheline / mänd",
+      "x10r": "punane / melon",
+      "x12p": "lilla / lavendel",
+      "x13c": "kollane / tsitrus"
+    },
+    "xcrenHd": {
+      "name": "xcrën HD",
+      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "category": "tipptasemel disainiga pissuaarisõel xtreme-pritsmekaitsega",
+      "badge": "tipptasemel disainiga pissuaarisõel xtreme-pritsmekaitsega",
+      "short": "xcrën HD 60+ on lõhnastatud pissuaarisõel, mille patenteeritud kuju torkab pissuaaris silma. Erinevalt tavalistest ovaalsetest sõeltest muudab see pissuaari disainielemendiks. Selle patenteeritud harjased (Sealed Bristles Technology™) katavad 92 % sõelast ning minimeerivad uriinipritsmeid ja ebameeldivaid lõhnu. Sõel on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult 60+ päeva. Vähese kasutusega tualettruumides kestab see veelgi kauem.",
+      "long": "xcrën HD 60+ on lõhnastatud pissuaarisõel, mille patenteeritud kuju torkab pissuaaris silma. Erinevalt tavalistest ovaalsetest sõeltest muudab see pissuaari disainielemendiks. Selle patenteeritud harjased (Sealed Bristles Technology™) katavad 92 % sõelast ning minimeerivad uriinipritsmeid ja ebameeldivaid lõhnu. Sõel on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult 60+ päeva. Vähese kasutusega tualettruumides kestab see veelgi kauem.\n\nxcrën HD 60+ on loodud suure külastatavusega tualettruumidesse restoranides, baarides, lennujaamades ja kaubanduskeskustes ning ühendab hügieeni välimusega, mis eristab tualettruumi teistest.\n\nPissuaarisõela xcrën HD 60+ valmistamisel kasutatakse ringlussevõetud EVA-materjali. Materjali ennast saab ringlusse võtta, kuid kasutatud pissuaarisõela mitte, sest see on bioloogiliselt saastunud. See jõuab prügilasse või põletusse ja seetõttu sisaldab xcrën HD 60+ lisandit Eco-One™. Sõltumatus laborikatses saavutas Eco-One™ lisandiga ëkcos EVA-materjal 3,5 aasta jooksul 93 % biolagunemise ning 5 aasta jooksul prognoositakse kuni 99 %.\n\nxcrën HD 60+ ühendab tugeva pritsmekaitse, 60+ päeva kestva lõhna ja patenteeritud disaini, mis paistab silma igas tualettruumis.",
+      "benefits": {
+        "0": "Patenteeritud kuju, mis eristub tavalistest ovaalsetest sõeltest",
+        "1": "Patenteeritud pritsmevastased harjased katavad 92 % sõela pinnast, aitavad kaitsta kasutajaid soovimatute pritsmete eest ja hoiavad ümbruse puhtamana",
+        "2": "Enda väljatöötatud materjal, millesse on imbutatud deodorandipõhine lõhn, mis eraldub järk-järgult 60+ päeva jooksul",
+        "3": "Lõhn püsib kaks korda kauem kui tavalistel 30-päevastel sõeltel",
+        "4": "Spetsiaalselt loodud suure külastatavusega tualettruumidesse, nt restoranidesse, baaridesse, lennujaamadesse, kaubanduskeskustesse jne",
+        "5": "Sisaldab ringlussevõetud EVA-materjali, Eco-One™ lisandiga prügilas biolagunev",
+        "6": "Pakendatud 100 % ringlussevõetud kartongist karpidesse",
+        "7": "Sobib suurepäraselt veevabadele pissuaaridele",
+        "8": "Mõõdud: 17 x 18 x 2,1 cm",
+        "9": "Lai valik värve ja meeldivaid lõhnu",
+        "10": "Omamärgistus: teie logo lõigatakse materjali sisse või trükitakse"
+      },
+      "variants": {
+        "xhd1p": "lilla / metsamari",
+        "xhd2g": "roheline / õun",
+        "xhd3b": "sinine / fresh",
+        "xhd4o": "oranž / troopilised puuviljad",
+        "xhd6c": "läbipaistev / troopilised puuviljad",
+        "xhd7bk": "must / piparmünt",
+        "xhd8bm": "leek / mango",
+        "xhd9g": "roheline / mänd",
+        "xhd10r": "punane / melon",
+        "xhd12p": "lilla / lavendel",
+        "xhd13c": "kollane / tsitrus"
+      },
+      "useCases": {
+        "0": "Corporate offices",
+        "1": "Hotels and hospitality"
+      }
+    },
+    "ekcoscreen": {
+      "name": "ëkcoscreen",
+      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "raske pritsmevastane pissuaarisõel kahekordse lõhnakestusega",
+      "short": "ëkcoscreen 60+ on lõhnastatud pissuaarisõel, mille patenteeritud harjased (Sealed Bristles Technology™) katavad 95 % sõelast. See minimeerib uriinipritsmeid ja ebameeldivaid lõhnu, et tualettruum oleks puhtam ja mugavam. Sõel on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult 60+ päeva, kaks korda kauem kui tavalised 30-päevased sõelad. Vähese kasutusega tualettruumides kestab see veelgi kauem.",
+      "long": "ëkcoscreen 60+ on lõhnastatud pissuaarisõel, mille patenteeritud harjased (Sealed Bristles Technology™) katavad 95 % sõelast. See minimeerib uriinipritsmeid ja ebameeldivaid lõhnu, et tualettruum oleks puhtam ja mugavam. Sõel on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult 60+ päeva, kaks korda kauem kui tavalised 30-päevased sõelad. Vähese kasutusega tualettruumides kestab see veelgi kauem.\n\nëkcoscreen 60+ on loodud suure külastatavusega tualettruumidesse restoranides, baarides, lennujaamades, kaubanduskeskustes ja muudes hügieenile keskenduvates asutustes ning parandab puhtust ja lõhnatõrjet.\n\nPissuaarisõela ëkcoscreen 60+ valmistamisel kasutatakse ringlussevõetud EVA-materjali. Materjali ennast saab ringlusse võtta, kuid kasutatud pissuaarisõela mitte, sest see on bioloogiliselt saastunud. See jõuab prügilasse või põletusse ja seetõttu sisaldab ëkcoscreen 60+ lisandit Eco-One™. Sõltumatus laborikatses saavutas Eco-One™ lisandiga ëkcos EVA-materjal 3,5 aasta jooksul 93 % biolagunemise ning 5 aasta jooksul prognoositakse kuni 99 %.\n\nëkcoscreen 60+ ühendab tõhusa pritsmekaitse, 60+ päeva kestva lõhna ning ringlussevõetud ja biolaguneva EVA-materjali suure külastatavusega tualettruumide jaoks.",
+      "benefits": {
+        "0": "Patenteeritud pritsmevastased harjased katavad 95 % sõela pinnast, aitavad kaitsta kasutajaid soovimatute pritsmete eest ja hoiavad ümbruse puhtamana",
+        "1": "Nähtavaid pritsmeid väljaspool sõela ei tekkinud kõrvutises UV-pritsmekatses identsetes tingimustes",
+        "2": "Enda väljatöötatud materjal, millesse on imbutatud deodorandipõhine lõhn, mis eraldub järk-järgult 60+ päeva jooksul",
+        "3": "Lõhn püsib kaks korda kauem kui 30-päevastel sõeltel, sarnase päevakuluga",
+        "4": "141 g lõhnastatud materjali sõela kohta, üle kolme korra rohkem kui tavalisel sõelal",
+        "5": "Spetsiaalselt loodud suure külastatavusega tualettruumidesse, nt restoranidesse, baaridesse, lennujaamadesse, kaubanduskeskustesse jne",
+        "6": "Sisaldab ringlussevõetud EVA-materjali, Eco-One™ lisandiga prügilas biolagunev",
+        "7": "Pakendatud 100 % ringlussevõetud kartongist karpidesse",
+        "8": "Ideaalne veevabadele pissuaaridele",
+        "9": "Mõõdud: 20 x 21 x 2,2 cm",
+        "10": "Ainulaadne disain, lai valik värve ja meeldivad lõhnad",
+        "11": "Omamärgistus: teie logo lõigatakse materjali sisse või trükitakse"
+      },
+      "useCases": {
+        "0": "Retail",
+        "1": "Public buildings"
+      }
+    },
+    "powerscreen": {
+      "name": "powër screen",
+      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "category": "võimsa pritsmekaitsega pissuaarisõel igakuiseks vahetuseks",
+      "short": "powër screen on lõhnastatud pissuaarisõel patenteeritud harjassüsteemiga (Sealed Bristles Technology™). See minimeerib uriinipritsmeid ja ebameeldivaid lõhnu, et tualettruum oleks puhtam ja mugavam. Sõel on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult kuni 30 päeva, mistõttu sobib see ideaalselt pissuaaride igakuiseks hoolduseks.",
+      "long": "powër screen on lõhnastatud pissuaarisõel patenteeritud harjassüsteemiga (Sealed Bristles Technology™). See minimeerib uriinipritsmeid ja ebameeldivaid lõhnu, et tualettruum oleks puhtam ja mugavam. Sõel on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult kuni 30 päeva, mistõttu sobib see ideaalselt pissuaaride igakuiseks hoolduseks.\n\nPissuaarisõela powër screen valmistamisel kasutatakse ringlussevõetud EVA-materjali. Materjali ennast saab ringlusse võtta, kuid kasutatud pissuaarisõela mitte, sest see on bioloogiliselt saastunud. See jõuab prügilasse või põletusse ja seetõttu sisaldab powër screen lisandit Eco-One™. Sõltumatus laborikatses saavutas Eco-One™ lisandiga ëkcos EVA-materjal 3,5 aasta jooksul 93 % biolagunemise ning 5 aasta jooksul prognoositakse kuni 99 %.\n\npowër screen ühendab tõhusa pritsmekaitse, kuni 30 päeva kestva lõhna ning ringlussevõetud ja biolaguneva EVA-materjali tualettruumide igakuiseks hoolduseks.",
+      "benefits": {
+        "0": "Patenteeritud pritsmevastased harjased aitavad kaitsta kasutajaid soovimatute pritsmete eest ja hoiavad ümbruse puhtamana",
+        "1": "Enda väljatöötatud materjal, millesse on imbutatud deodorandipõhine lõhn, mis eraldub järk-järgult kuni 30 päeva jooksul",
+        "2": "Ideaalne pissuaaride igakuiseks hoolduseks",
+        "3": "Sisaldab ringlussevõetud EVA-materjali, Eco-One™ lisandiga prügilas biolagunev",
+        "4": "Pakendatud 100 % ringlussevõetud kartongist karpidesse",
+        "5": "Sobib veevabadele pissuaaridele",
+        "6": "Painduv kuju sobib peaaegu igat tüüpi pissuaaridele",
+        "7": "Disain, mis tõstab iga tualettruumi ilmet",
+        "8": "Mõõdud: 18 x 20 x 1,8 cm",
+        "9": "Ainulaadne disain, lai valik värve ja meeldivad lõhnad",
+        "10": "Omamärgistus: teie logo lõigatakse materjali sisse või trükitakse"
+      },
+      "useCases": {
+        "0": "Stadiums",
+        "1": "Transport hubs"
+      }
+    },
+    "basicScreen": {
+      "name": "basic scrëen",
+      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "category": "prügilas biolagunev pissuaarisõel soodsa hinnaga",
+      "short": "basic scrëen on kulutõhus pissuaarisõel, mis deodoreerib pissuaare ja hoiab ära prahi kogunemise. Sõel on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult kuni 30 päeva, mistõttu sobib see ideaalselt pissuaaride igakuiseks hoolduseks.",
+      "long": "basic scrëen on kulutõhus pissuaarisõel, mis deodoreerib pissuaare ja hoiab ära prahi kogunemise. Sõel on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult kuni 30 päeva, mistõttu sobib see ideaalselt pissuaaride igakuiseks hoolduseks.\n\nPissuaarisõela basic scrëen valmistamisel kasutatakse ringlussevõetud EVA-materjali. Materjali ennast saab ringlusse võtta, kuid kasutatud pissuaarisõela mitte, sest see on bioloogiliselt saastunud. See jõuab prügilasse või põletusse ja seetõttu sisaldab basic scrëen lisandit Eco-One™. Sõltumatus laborikatses saavutas Eco-One™ lisandiga ëkcos EVA-materjal 3,5 aasta jooksul 93 % biolagunemise ning 5 aasta jooksul prognoositakse kuni 99 %.\n\nbasic scrëen ühendab usaldusväärse lõhnatõrje, kaitse prahi eest ning ringlussevõetud ja biolaguneva EVA-materjali madala hinnaga.",
+      "benefits": {
+        "0": "Enda väljatöötatud materjal, millesse on imbutatud deodorandipõhine lõhn, mis eraldub järk-järgult",
+        "1": "Lõhn eraldub kuni 30 päeva",
+        "2": "Ideaalne pissuaaride igakuiseks hoolduseks",
+        "3": "Sobib veevabadele pissuaaridele",
+        "4": "Painduv kuju sobib peaaegu igat tüüpi pissuaaridele",
+        "5": "Mõõdud: 20 x 19 cm",
+        "6": "Ainulaadne disain, lai valik värve ja meeldivad lõhnad",
+        "7": "Soodne lahendus pissuaaride igakuiseks hügieeniks",
+        "8": "Sisaldab ringlussevõetud EVA-materjali, Eco-One™ lisandiga prügilas biolagunev",
+        "9": "Tarnitakse 100 % ringlussevõetud kartongist karpides",
+        "10": "Omamärgistus: teie logo lõigatakse materjali sisse või trükitakse"
+      },
+      "useCases": {
+        "0": "Schools",
+        "1": "Light commercial"
+      }
+    },
+    "urolite": {
+      "name": "üro lite",
+      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "väike pissuaarisõel, suur pritsmekaitse",
+      "short": "üro lite on painduv lõhnastatud pissuaarisõel, mis on loodud väiksematele pissuaaridele. Selles on sama patenteeritud Sealed Bristles Technology™ nagu pissuaarisõelas ëkcoscreen 60+, kuid suurema läbimõõdu asemel kasutab see pikki harjaseid, mis pakuvad väikeses sõelas suurt pritsmekaitset. See hoiab uriinipritsmed ja ebameeldivad lõhnad minimaalsena. Sõel on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult kuni 30 päeva, mistõttu sobib see ideaalselt pissuaaride igakuiseks hoolduseks.",
+      "long": "üro lite on painduv lõhnastatud pissuaarisõel, mis on loodud väiksematele pissuaaridele. Selles on sama patenteeritud Sealed Bristles Technology™ nagu pissuaarisõelas ëkcoscreen 60+, kuid suurema läbimõõdu asemel kasutab see pikki harjaseid, mis pakuvad väikeses sõelas suurt pritsmekaitset. See hoiab uriinipritsmed ja ebameeldivad lõhnad minimaalsena. Sõel on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult kuni 30 päeva, mistõttu sobib see ideaalselt pissuaaride igakuiseks hoolduseks.\n\nPissuaarisõela üro lite valmistamisel kasutatakse ringlussevõetud EVA-materjali. Materjali ennast saab ringlusse võtta, kuid kasutatud pissuaarisõela mitte, sest see on bioloogiliselt saastunud. See jõuab prügilasse või põletusse ja seetõttu sisaldab üro lite lisandit Eco-One™. Sõltumatus laborikatses saavutas Eco-One™ lisandiga ëkcos EVA-materjal 3,5 aasta jooksul 93 % biolagunemise ning 5 aasta jooksul prognoositakse kuni 99 %.\n\nüro lite annab väiksematele pissuaaridele suure pritsmekaitse ainulaadsete patenteeritud pikkade harjastega, kompaktses ja kulutõhusas sõelas, mis sisaldab ringlussevõetud ja biolagunevat EVA-materjali.",
+      "benefits": {
+        "0": "Ainulaadsed patenteeritud pikad harjased aitavad kaitsta kasutajaid pritsmete eest ja hoiavad ümbruse puhtamana",
+        "1": "Sama patenteeritud Sealed Bristles Technology™ nagu pissuaarisõelas ëkcoscreen 60+",
+        "2": "Enda väljatöötatud materjal, millesse on imbutatud deodorandipõhine lõhn, mis eraldub järk-järgult kuni 30 päeva jooksul",
+        "3": "Kompaktne suurus, spetsiaalselt loodud väiksematele pissuaaridele",
+        "4": "Ideaalne pissuaaride igakuiseks hoolduseks",
+        "5": "Sobib veevabadele pissuaaridele",
+        "6": "Sisaldab ringlussevõetud EVA-materjali, Eco-One™ lisandiga prügilas biolagunev",
+        "7": "Pakendatud 100 % ringlussevõetud kartongist karpidesse",
+        "8": "Mõõdud: 13 x 13 x 1,8 cm",
+        "9": "Ainulaadne disain, lai valik värve ja meeldivad lõhnad",
+        "10": "Omamärgistus: teie logo lõigatakse materjali sisse või trükitakse"
+      },
+      "useCases": {
+        "0": "Boutique hospitality",
+        "1": "Premium office"
+      }
+    },
+    "ekcoClip": {
+      "name": "ëkco clip",
+      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "category": "klambriga WC-värskendaja, sobib peaaegu igale WC-potile",
+      "short": "ëkco clip on WC-poti servale kinnitatav klambriga WC-värskendaja, mis hoiab lõhnu pidevalt kontrolli all ja WC-kabiinid värskena. See on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult kuni 30 päeva. Tänu painduvale kujule sobib see enamikule WC-potitüüpidele, on lihtne kinnitada ja levitab lõhna hästi.",
+      "long": "ëkco clip on WC-poti servale kinnitatav klambriga WC-värskendaja, mis hoiab lõhnu pidevalt kontrolli all ja WC-kabiinid värskena. See on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult kuni 30 päeva. Tänu painduvale kujule sobib see enamikule WC-potitüüpidele, on lihtne kinnitada ja levitab lõhna hästi.\n\nKlambriga WC-värskendaja ëkco clip valmistamisel kasutatakse ringlussevõetud EVA-materjali. Materjali ennast saab ringlusse võtta, kuid kasutatud WC-värskendajat mitte, sest see on bioloogiliselt saastunud. See jõuab prügilasse või põletusse ja seetõttu sisaldab ëkco clip lisandit Eco-One™. Sõltumatus laborikatses saavutas Eco-One™ lisandiga ëkcos EVA-materjal 3,5 aasta jooksul 93 % biolagunemise ning 5 aasta jooksul prognoositakse kuni 99 %.\n\nëkco clip ühendab pideva lõhnatõrje kuni 30 päeva jooksul, lihtsa kinnitamise enamikule WC-pottidele ning ringlussevõetud ja biolaguneva EVA-materjali.",
+      "benefits": {
+        "0": "Enda väljatöötatud materjal, millesse on imbutatud deodorandipõhine lõhn, mis eraldub järk-järgult",
+        "1": "Tõhus lõhnatõrje",
+        "2": "Ainulaadne disain optimaalseks lõhna eraldumiseks",
+        "3": "Lõhn eraldub kuni 30 päeva",
+        "4": "Painduv kuju sobib peaaegu igat tüüpi WC-pottidele",
+        "5": "Mõõdud: 10 x 5 x 4,5 cm",
+        "6": "Lai valik värve ja meeldivaid lõhnu",
+        "7": "Kulutõhus tualeti lõhnastamine",
+        "8": "Sisaldab ringlussevõetud EVA-materjali, Eco-One™ lisandiga prügilas biolagunev",
+        "9": "Pakendatud 100 % ringlussevõetud kartongist karpidesse",
+        "10": "Omamärgistus: teie logo lõigatakse materjali sisse või trükitakse"
+      },
+      "useCases": {
+        "0": "Facility retrofits",
+        "1": "Specification-led projects"
+      }
+    },
+    "freshDrop": {
+      "name": "frësh drop",
+      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "category": "kauakestev WC-õhuvärskendaja, mis ei vaja patareisid",
+      "short": "frësh drop on siseruumide õhuvärskendaja, mis on loodud WC-kabiinidesse ja tualettruumidesse. Selle täide on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja eraldab lõhna järk-järgult ilma patareide ja elektrita. Suletud WC-kabiinides, kus ventilatsioon on vähene või puudub, kestab see 60+ päeva, ning seal, kus õhk rohkem liigub, hajub lõhn kiiremini. Veepiisakujuline disain sobib iga tualettruumi sisekujundusega ja kaasasoleva kleeplindiga on see lihtne paigaldada peaaegu igale pinnale. Väikestesse ruumidesse valige kompaktne ëkco loop.",
+      "long": "frësh drop on siseruumide õhuvärskendaja, mis on loodud WC-kabiinidesse ja tualettruumidesse. Selle täide on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja eraldab lõhna järk-järgult ilma patareide ja elektrita. Suletud WC-kabiinides, kus ventilatsioon on vähene või puudub, kestab see 60+ päeva, ning seal, kus õhk rohkem liigub, hajub lõhn kiiremini. Veepiisakujuline disain sobib iga tualettruumi sisekujundusega ja kaasasoleva kleeplindiga on see lihtne paigaldada peaaegu igale pinnale. Väikestesse ruumidesse valige kompaktne ëkco loop.\n\nÕhuvärskendaja frësh drop täite valmistamisel kasutatakse ringlussevõetud EVA-materjali ja materjali saab ringlusse võtta. Nii täide kui ka alus sisaldavad lisandit Eco-One™, seega on mõlemad prügilas biolagunevad. Sõltumatus laborikatses saavutas Eco-One™ lisandiga ëkcos EVA-materjal 3,5 aasta jooksul 93 % biolagunemise ning 5 aasta jooksul prognoositakse kuni 99 %.\n\nfrësh drop ühendab 60+ päeva kestva lõhna, lihtsa paigalduse ning ringlussevõetud ja biolaguneva EVA-materjaliga täite WC-kabiinide ja tualettruumide jaoks.",
+      "benefits": {
+        "0": "Enda väljatöötatud materjal, millesse on imbutatud deodorandipõhine lõhn, mis eraldub järk-järgult",
+        "1": "Suurepärane viis hoida tualettruum värskena ja puhtana, spetsiaalselt loodud WC-kabiinidesse",
+        "2": "Lõhn eraldub suletud WC-kabiinides 60+ päeva, patareisid ega elektrit pole vaja",
+        "3": "Veepiisakujuline disain sobib iga tualettruumi sisekujundusega",
+        "4": "Lihtne paigaldada kaasasoleva kleeplindiga",
+        "5": "Mõõdud: 23 x 12 x 3,5 cm",
+        "6": "Lai valik värve ja meeldivaid lõhnu",
+        "7": "Täites on kasutatud ringlussevõetud ja ringlussevõetavat EVA-materjali",
+        "8": "Täide ja alus on Eco-One™ lisandiga prügilas biolagunevad",
+        "9": "Pakendatud 100 % ringlussevõetud kartongist karpidesse",
+        "10": "Võimalik omamärgistus trükiga"
+      },
+      "useCases": {
+        "0": "Hospitality",
+        "1": "Premium retail"
+      },
+      "bases": {
+        "white": "alus valge",
+        "black": "alus must"
+      }
+    },
+    "ezTrap": {
+      "name": "ëz trap",
+      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "category": "lõhnu sulgev, lihtsalt hooldatav veevaba pissuaari padrun",
+      "short": "ëz trap on uuenduslik padrunisüsteem, mis on loodud veevabade pissuaaride tõhususe, puhtuse ja lõhnatõrje parandamiseks, vähendades samal ajal oluliselt hoolduskulusid.",
+      "long": "ëz trap on uuenduslik padrunisüsteem, mis on loodud veevabade pissuaaride tõhususe, puhtuse ja lõhnatõrje parandamiseks, vähendades samal ajal oluliselt hoolduskulusid.\n\nTänu patenteeritud padrunisüsteemile ëz trap voolab uriin loomulikult läbi sifooni ning sulgurkaas sulgub tihedalt pärast iga kasutuskorda. See takistab lõhnade väljapääsu ja tagab, et iga kasutusega eemaldatakse süsteemist vana uriin, hoides tualettruumi värskemana.\n\nPadrun ëz trap on valmistatud lisandiga Eco-One™, mis muudab selle prügilas biolagunevaks. Sõltumatus laborikatses saavutas Eco-One™ lisandiga ëkcos materjal 3,5 aasta jooksul 93 % biolagunemise ning 5 aasta jooksul prognoositakse kuni 99 %.\n\nëz trap on tõhus, vähe hooldust vajav ja kulusid säästev viis hoida kanalisatsioonilõhnad veevabadest pissuaaridest eemal.",
+      "variants": {
+        "withoutTool": "ilma eemaldustööriistata",
+        "withTool": "eemaldustööriistaga"
+      },
+      "benefits": {
+        "0": "Tõkestab kanalisatsioonilõhnu: sifoon ja sulgurkaas takistavad ebameeldivate kanalisatsioonilõhnade väljapääsu",
+        "1": "Pole vaja kalleid geele ega spetsiaalseid puhastusvahendeid",
+        "2": "Lihtne ja kulutõhus hooldus: lubjasetete vältimiseks piisab, kui valate iga päev sisse klaasitäie vett",
+        "3": "Pikk kasutusiga: padrun kestab 4 kuni 6+ kuud ning regulaarne puhastamine lubjaeemaldusvahendiga (nt kvaliteetse WC-geeliga) pikendab selle eluiga",
+        "4": "Lai ühilduvus: sobib kaubamärkide Sloan, Falcon, Vitra, Bobrick ja teiste Falcon Velocity süsteemi kasutavate tootjate pissuaaridele (läbimõõt 11,8 cm, kõrgus 11,5 cm)",
+        "5": "Mõõdud: Ø 11,8 x 11,5 cm",
+        "6": "Pakendatud 100 % ringlussevõetud kartongist karpidesse",
+        "7": "Lisandiga Eco-One™ prügilas biolagunev"
+      },
+      "useCases": {
+        "0": "Food service",
+        "1": "Healthcare support areas"
+      }
+    },
+    "xcrenPuck": {
+      "name": "xcrën puck",
+      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "category": "X-kujuline pissuaarisõel deodoreeriva tabletiga",
+      "short": "xcrën puck on pissuaarisõel NON-PARA deodoreeriva tabletiga, mis on loodud tõhusaks lõhnatõrjeks ja äravoolu kaitsmiseks. See ei sisalda paradiklorobenseeni (PARA), mille WHO liigitab võimalikuks kantserogeeniks. PARA-tablette kasutatakse endiselt mõnes pissuaarisõelas, samas kui EL-i eeskirjad piiravad PARA kasutamist WC-deodorantides. X-kujuline disain takistab tahketel osakestel ja prahil äravoolu ummistamast ning sõel eraldab iga kasutuskorraga puhast ja värsket lõhna kuni 30 päeva.",
+      "long": "xcrën puck on pissuaarisõel NON-PARA deodoreeriva tabletiga, mis on loodud tõhusaks lõhnatõrjeks ja äravoolu kaitsmiseks. See ei sisalda paradiklorobenseeni (PARA), mille WHO liigitab võimalikuks kantserogeeniks. PARA-tablette kasutatakse endiselt mõnes pissuaarisõelas, samas kui EL-i eeskirjad piiravad PARA kasutamist WC-deodorantides. X-kujuline disain takistab tahketel osakestel ja prahil äravoolu ummistamast ning sõel eraldab iga kasutuskorraga puhast ja värsket lõhna kuni 30 päeva.\n\nTablett on valmistatud peamiselt vahast ja glütseriinist ning lahustub kasutamise käigus. xcrën puck on valmistatud lisandiga Eco-One™, mis muudab selle prügilas biolagunevaks. Sõltumatus laborikatses saavutas Eco-One™ lisandiga ëkcos materjal 3,5 aasta jooksul 93 % biolagunemise ning 5 aasta jooksul prognoositakse kuni 99 %. Tegemist on ühekordse tootega ja tabletti ei saa uuega asendada.\n\nxcrën puck on lihtne ja tõhus viis hoida pissuaarid värskena ja äravoolud vabana kuni 30 päeva.",
+      "variants": {
+        "whiteFresh": "valge / fresh",
+        "blueFresh": "sinine / fresh"
+      },
+      "benefits": {
+        "0": "NON-PARA tablett: ei sisalda paradiklorobenseeni, mille WHO liigitab võimalikuks kantserogeeniks",
+        "1": "Takistab tahketel osakestel ja muul prahil äravoolu ummistamast",
+        "2": "Eraldab iga kasutuskorraga puhast ja värsket lõhna kuni 30 päeva",
+        "3": "Ideaalne pissuaaride igakuiseks hoolduseks",
+        "4": "Tablett peamiselt vahast ja glütseriinist",
+        "5": "Ühekordne: tabletti ei saa uuega asendada",
+        "6": "Mõõdud: 17 x 17 x 2,9 cm",
+        "7": "Pakendatud 100 % ringlussevõetud kartongist karpidesse",
+        "8": "Lisandiga Eco-One™ prügilas biolagunev",
+        "9": "Uus ainulaadne X-disain",
+        "10": "Omamärgistus: teie logo lõigatakse materjali sisse või trükitakse"
+      },
+      "useCases": {
+        "0": "Compact washrooms",
+        "1": "Retrofit programs"
+      }
+    },
+    "ekcoMat": {
+      "name": "ëkco mat",
+      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "category": "soodne pissuaari põrandamatt, mis kaitseb teie põrandat",
+      "short": "ëkco mat on imav pissuaari põrandamatt, mis on loodud tualettruumi hügieeni parandamiseks ja põrandate kaitsmiseks uriini kogunemise eest. Mõõtmetega 54 x 51 x 0,5 cm katab see tõhusalt enamiku standardsete pissuaaride ümbruse, vältides põrandakahjustusi ja vähendades uriini kandumist kasutajate jalatsitaldadel. See aitab hoida tualettruumi puhtamana ja mugavamana.",
+      "long": "ëkco mat on imav pissuaari põrandamatt, mis on loodud tualettruumi hügieeni parandamiseks ja põrandate kaitsmiseks uriini kogunemise eest. Mõõtmetega 54 x 51 x 0,5 cm katab see tõhusalt enamiku standardsete pissuaaride ümbruse, vältides põrandakahjustusi ja vähendades uriini kandumist kasutajate jalatsitaldadel. See aitab hoida tualettruumi puhtamana ja mugavamana.\n\nëkco mat on kulutõhus ühekordne lahendus, mis sobib ideaalselt restoranidesse, hotellidesse ja teistesse suure külastatavusega kohtadesse, kus hügieen on esmatähtis.\n\nëkco mat on praktiline, hügieeniline ja soodne lahendus puhaste ja professionaalsete tualettruumide hoidmiseks.",
+      "variants": {
+        "standard": "must"
+      },
+      "benefits": {
+        "0": "Kaitseb pissuaari all olevat põrandat",
+        "1": "Vähendab uriini levikut jalatsitaldadel",
+        "2": "Kulutõhus hügieenilahendus",
+        "3": "Ühekordseks kasutamiseks",
+        "4": "Võimalik omamärgistus",
+        "5": "Mõõdud: 54 x 51 x 0,5 cm"
+      },
+      "useCases": {
+        "0": "Entrances",
+        "1": "Service corridors"
+      }
+    }
+  },
+  "privateLabel": {
+    "hero": {
+      "eyebrow": "Turustajatele",
+      "title": "Private Label programm",
+      "lead": "Müüge meie tooteid oma kaubamärgi all",
+      "body": "Kasvatage oma ettevõtet oma tootesarjaga. Meie Private Label Programme võimaldab turustajatel lisada oma portfelli tõestatud, suure jõudlusega pesuruumitooteid ja müüa neid oma kaubamärgi all – ilma teie enda arendamise või tööriistadeta. Kõik, mida vajame, on teie logo; ülejäänu eest hoolitseme meie.",
+      "cta": "Hakka partneriks"
+    },
+    "why": {
+      "title": "Miks meiega partneriks teha",
+      "items": {
+        "0": {
+          "title": "Tõestatud lahendused",
+          "body": "Iga toode on intensiivse arendustöö tulemus ja loodud optimaalseks ja usaldusväärseks jõudluseks – tootevalik, millele saate julgelt oma nime panna."
+        },
+        "1": {
+          "title": "Lihtne kohandamine",
+          "body": "Vajame teie logo vaid selleks, et pakkuda teile tootesarja, mida saate müüa oma kaubamärgi all."
+        },
+        "2": {
+          "title": "Premium tugi",
+          "body": "Juhendame teid kogu protsessi jooksul, et saaksite oma kaubamärki ja müüki laiendada."
+        }
+      }
+    },
+    "ways": {
+      "title": "Kaks võimalust toodete brändimiseks",
+      "print": {
+        "title": "Trükitud kaubamärk",
+        "body": "Teie logo trükitakse otse tootele."
+      },
+      "cutout": {
+        "title": "Logo väljalõige",
+        "body": "Teie logo on materjali sisse integreeritud unikaalse väljalõikena – eristatav, esmaklassiline viimistlus, mida ükski teine ​​tootja ei paku, ja teie tootevaliku tugev eristaja."
+      }
+    },
+    "beyond": {
+      "title": "Kohandage tootest kaugemale",
+      "packaging": {
+        "title": "Pakend ja sildid",
+        "body": "Lisage oma logo, ettevõtte üksikasjad, tootenimed ja kirjeldused, EAN-koodid ja palju muud kastidesse, põhiümbristesse või üksikutesse tootekottidesse – oma kaubamärgi all jaemüügiks valmis."
+      },
+      "mix": {
+        "title": "Värv & lõhn",
+        "body": "Paku meie valikust omale iseloomulikku värvi- ja lõhnakombinatsiooni."
+      }
+    },
+    "goodToKnow": {
+      "title": "Hea teada",
+      "items": {
+        "0": "Minimaalne tellimiskogus sõltub teie valitud konkreetsest tootest.",
+        "1": "Iga toote eest, mida soovite brändida, kehtib ühekordne seadistamistasu – see katab teie kaubamärgi taasesitamiseks vajalikud tööriistad ja ettevalmistused.",
+        "2": "Kõik kaubamärgiga tooted on valmistatud eritellimusel, vastavalt teie spetsifikatsioonile.",
+        "3": "Jagame teie pakkumisega täpsed miinimumkogused, hinnad ja tarneajad, kui oleme teie konkreetsetest nõudmistest aru saanud."
+      }
+    },
+    "form": {
+      "title": "Hakka partneriks",
+      "description": "Saatke meile oma konkreetne soov ja üks meie müügiesindajatest võtab teiega otse ühendust, et arutada üksikasju.",
+      "name": "Nimi",
+      "company": "Ettevõtte nimi",
+      "email": "Meil",
+      "phone": "Telefon",
+      "products": "Tooted eramärgistusele",
+      "productsHint": "Sisestage nende toodete kogus, mida soovite brändida. Te ei pea iga toodet täitma – arutame üksikasju pärast teie päringut.",
+      "quantity": "Kogus (tk)",
+      "message": "Sõnum",
+      "submit": "Saada sõnum",
+      "submitting": "Saatmine…",
+      "success": "Täname – võtame teiega varsti tagasi.",
+      "error": "Midagi läks valesti. Proovige hetke pärast uuesti.",
+      "alertSelect": "Sisestage vähemalt ühe toote kogus. Te ei pea iga toodet tellima.",
+      "boundaryError": "Päringuvormi ei saanud laadida. Värskendage lehte või saatke e-kiri support@ekcos.eu."
+    }
+  }
+}

@@ -1,0 +1,752 @@
+{
+  "Metadata": {
+    "title": "ëkcos – tapkite žalia su kiekvienu praplovimu",
+    "description": "Mūsų pisuarų tinkleliai ir gaivikliai pagaminti naudojant perdirbtą EVA. Pačią medžiagą galima perdirbti, tačiau panaudoto pisuaro tinklelio perdirbti negalima, nes jis biologiškai užterštas. Jis patenka į sąvartyną arba yra deginamas, todėl į visus savo gaminius dedame priedą Eco-One™.",
+    "productsTitle": "Produktai",
+    "productsDescription": "Naršykite ëkcos produktus: perjunkite modelius, apdailą ir parinktis – tada apsilankykite oficialioje parduotuvėje.",
+    "ecoOneTitle": "Eco-One™",
+    "ecoOneDescription": "Mūsų pisuarų tinkleliai ir gaivikliai pagaminti naudojant perdirbtą EVA. Pačią medžiagą galima perdirbti, tačiau panaudoto pisuaro tinklelio perdirbti negalima, nes jis biologiškai užterštas. Jis patenka į sąvartyną arba yra deginamas, todėl į visus savo gaminius dedame priedą Eco-One™.",
+    "brandingTitle": "Individualus prekės ženklas",
+    "brandingDescription": "Privatus prekės ženklas, iškirpimai ir spausdinimas B2B programoms.",
+    "articlesTitle": "Straipsniai",
+    "articlesDescription": "ëkcos komandos įžvalgos, atnaujinimai ir praktiniai vadovai.",
+    "contactTitle": "Susisiekite",
+    "contactDescription": "Dėl specifikacijų, programų ir partnerysčių susisiekite su ëkcos komanda.",
+    "privateLabelTitle": "Privati markė",
+    "privateLabelDescription": "Parduokite ëkcos prausyklos gaminius su savo prekės ženklu – platintojams skirtu privačiu prekės ženklu."
+  },
+  "LocaleSwitcher": {
+    "label": "Kalba",
+    "en": "English",
+    "es": "Spanish",
+    "fr": "French",
+    "de": "German",
+    "it": "Italian",
+    "cs": "Czech"
+  },
+  "nav": {
+    "aria": "Pirminis",
+    "logoAlt": "ëkcos",
+    "openMenu": "Atidaryti meniu",
+    "mobileMenuTitle": "Meniu",
+    "home": {
+      "label": "Pradžia"
+    },
+    "products": {
+      "label": "Produktai"
+    },
+    "articles": {
+      "label": "Straipsniai"
+    },
+    "ecoOne": {
+      "label": "Eco-One™"
+    },
+    "customBranding": {
+      "label": "Individualus prekės ženklas"
+    },
+    "contact": {
+      "label": "Susisiekite"
+    },
+    "privateLabel": {
+      "label": "Privati markė"
+    },
+    "faq": {
+      "label": "DUK"
+    }
+  },
+  "footer": {
+    "tagline": "Bendrovė ëkcos innovations siūlo higienos sprendimus, kurie palaiko tualetų švarą ir gaivumą, palengvina priežiūrą ir kuriems naudojamos perdirbtos, biologiškai skaidžios medžiagos.",
+    "explore": "Naršyti",
+    "newsletterTitle": "Naujienlaiškis",
+    "newsletterHint": "Produktų atnaujinimai ir programos naujienos. Atsisakyti prenumeratos bet kada.",
+    "company": {
+      "title": "Įmonės informacija",
+      "registryCode": "Įmonės registro kodas (Estija)",
+      "vatIdCz": "PVM mokėtojo kodas (Čekija)"
+    },
+    "copyright": "© {year} ëkcos. Visos teisės saugomos.",
+    "legalNote": "Informacinė svetainė. Pirkimas baigiamas oficialioje parduotuvėje."
+  },
+  "common": {
+    "shop": "Parduotuvė",
+    "shopCta": "Pirkite eshop.ekcos.eu",
+    "learnMore": "Sužinokite daugiau",
+    "getInTouch": "Susisiekite su mumis",
+    "ecoOne": "Eco-One™"
+  },
+  "productDetail": {
+    "backToMap": "Atgal į tualetą",
+    "buyNow": "Pirkite elektroninėje parduotuvėje",
+    "price": "Kaina",
+    "from": "iš",
+    "variants": "Galimi variantai",
+    "colors": "Spalvos ir kvapai",
+    "bases": "Sienų pagrindai",
+    "benefits": "Pagrindiniai privalumai",
+    "more": "Daugiau informacijos",
+    "openDetails": "Atidarykite išsamias nuotraukas",
+    "detailGallery": "Išsamios nuotraukos – {name}",
+    "detailShot": "detalė",
+    "boundaryError": "Šis produkto rodinys laikinai nepasiekiamas. Bandykite dar kartą."
+  },
+  "articles": {
+    "shopCta": {
+      "title": "Pasiruošę atnaujinti savo tualetus?",
+      "body": "Naršykite ëkcos pisuarų ekranus ir priedus oficialioje parduotuvėje.",
+      "button": "Parduotuvė"
+    }
+  },
+  "newsletter": {
+    "popupTitle": "Būkite informuoti",
+    "popupDescription": "Retkarčiais pateikiami produktų, Eco-One™ ir tinkintų prekės ženklo kūrimo programų naujiniai.",
+    "emailLabel": "El. paštas",
+    "emailPlaceholder": "you@company.com",
+    "submit": "Prenumeruoti",
+    "configureBrevo": "Prenumeruoti naujienlaiškius laikinai negalima. Bandykite dar kartą vėliau.",
+    "submitError": "Prenumerata nepavyko. Po akimirkos bandykite dar kartą.",
+    "dismiss": "Ne dabar"
+  },
+  "home": {
+    "map": {
+      "aria": "Interaktyvus tualeto produktų žemėlapis",
+      "hint": "Norėdami sužinoti daugiau, spustelėkite produktą",
+      "imageAlt": "ëkcos produktai, patalpinti komerciniame tualete"
+    },
+    "overlay": {
+      "moreVariants": "Parduotuvėje taip pat galima įsigyti daugiau spalvų ir kvapų.",
+      "shopCta": "Pirkite elektroninėje parduotuvėje",
+      "close": "Uždaryti"
+    },
+    "hero": {
+      "title": "Žalia su kiekvienu praplovimu",
+      "tagline": "Pagamintas naudojant perdirbtą EVA, su Eco-One™ biologiškai skaidus sąvartyne",
+      "body": "Mūsų pisuarų tinkleliai ir gaivikliai pagaminti naudojant perdirbtą EVA. Pačią medžiagą galima perdirbti, tačiau panaudoto pisuaro tinklelio perdirbti negalima, nes jis biologiškai užterštas.",
+      "ctaProducts": "Naršyti produktus",
+      "brandMark": "ekcos.eu"
+    },
+    "benefits": {
+      "eco": {
+        "title": "Perdirbta EVA su Eco-One™",
+        "body": "Biologiškai skaidūs gaminiai, pagaminti naudojant perdirbtą EVA"
+      },
+      "hygiene": {
+        "title": "Higiena be kompromisų",
+        "body": "Suteikia švaresnę, patogesnę patirtį, sumažindama šlapimo purslų kiekį ir nemalonius kvapus."
+      },
+      "costs": {
+        "title": "Mažiau valymo, mažesnės išlaidos",
+        "body": "Iki 60 dienų šviežumo reiškia mažiau valymo ir išlaidų."
+      },
+      "distributor": {
+        "title": "Oficialus ES platintojas",
+        "body": "Tiesioginė prieiga prie originalių Ekcos produktų su greitu pristatymu ir sąžiningomis kainomis."
+      },
+      "ecoLink": "Apie Eco-One™"
+    },
+    "shipping": {
+      "title": "Greitas pristatymas visoje Europoje",
+      "body": "Visos ëkcos prekės išsiunčiamos per 1–2 darbo dienas po apmokėjimo patvirtinimo. Turėdami saugų ir efektyvų pristatymą visoje ES, galite pasikliauti nuolatiniu savo verslo atsargų papildymu."
+    },
+    "productOfWeek": {
+      "title": "Savaitės produktas",
+      "cta": "Pridėti į krepšelį"
+    },
+    "productsTeaser": {
+      "title": "Atraskite mūsų gaminius",
+      "body": "Naršykite xcrën HD, ëkcoscreen, powerscreen, frësh drop, ëkco klipą ir dar daugiau – tada atidarykite oficialią parduotuvę.",
+      "link": "Žiūrėti visus produktus"
+    },
+    "brandingTeaser": {
+      "title": "Individualus prekės ženklas B2B",
+      "body": "Privatus ženklinimas, iškirpimai ir spausdinimas nuoseklioms kelių svetainių programoms.",
+      "link": "Individualus prekės ženklas"
+    },
+    "trust": {
+      "title": "Sukurta reiklioms patalpoms",
+      "body": "Patikima higiena ir aukščiausios kokybės įspūdis vietoje – nuo ​​biurų iki svetingumo."
+    },
+    "newsletter": {
+      "title": "Specifikacijos, paleidimai ir programų atnaujinimai",
+      "body": "Trumpas informacinis biuletenis patalpų komandoms ir partneriams. Jokios netvarkos."
+    },
+    "finalCta": {
+      "title": "Susisiekite",
+      "body": "Turite klausimų apie produktus, pristatymą ar B2B užsakymus? Parašykite mums žinutę – mielai padėsime.",
+      "shop": "Eikite į parduotuvę",
+      "contact": "Siųsti žinutę"
+    },
+    "marketing": {
+      "featuresEyebrow": "Vieninga platforma",
+      "featuresTitle": "Palyginkite, nuspręskite ir pirkite drąsiai",
+      "featuresSubtitle": "Ištirkite pabaigą, peržiūrėkite faktus ir atidarykite parduotuvę, kai būsite pasiruošę – viskas vienu srautu.",
+      "featureInteractTitle": "Interaktyvi specifikacija",
+      "featureInteractBody": "Per kelias sekundes perjunkite modelius, apdailą ir kvapus – sukurta įrenginių ir FM komandoms.",
+      "featureProofTitle": "Faktai, kuriais galite pasidalinti",
+      "featureProofBody": "Išvalykite Eco-One™ atsisiuntimus, kad jūsų komanda galėtų paaiškinti pasirinkimą kolegoms ar klientams.",
+      "featureB2bTitle": "Programos, kurių mastelis",
+      "featureB2bBody": "Individualizuotas prekės ženklo kūrimas ir B2B užsakymas, skirtas diegimui, kuriam reikia nuoseklumo, greičio ir patobulintos išvaizdos vietoje.",
+      "numbersEyebrow": "Pagal skaičius",
+      "numbersTitle": "Veiklos aiškumas, aukščiausios kokybės pateikimas",
+      "statProductsLabel": "Produktų šeimos, kurias reikia ištirti",
+      "statTechLabel": "Eco-One™ faktai ir atsisiuntimai",
+      "statShopLabel": "Oficiali parduotuvė",
+      "galleryEyebrow": "Rikiuotė",
+      "galleryTitle": "Fotografija iš katalogo",
+      "gallerySubtitle": "Tikros produktų fotografijos pasiūlymams, pristatymams ir apžvalgoms."
+    }
+  },
+  "ecoOne": {
+    "hero": {
+      "title": "Eco-One™ biologiniam skaidymui sąvartynuose",
+      "tagline": "Tas pats produktas. Tas pats pasirodymas. Pagaminta iš perdirbtos EVA ir Eco-One™.",
+      "body": "Mūsų pisuarų tinkleliai ir gaivikliai pagaminti naudojant perdirbtą EVA. Pačią medžiagą galima perdirbti, tačiau panaudoto pisuaro tinklelio perdirbti negalima, nes jis biologiškai užterštas. Jis patenka į sąvartyną arba yra deginamas, todėl į visus savo gaminius dedame priedą Eco-One™. Nepriklausomame bandyme pagal ASTM D5511 ir ISO 15985, atliktame Instituto Politécnico Nacional Meksiko mieste, ëkcos EVA su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o ta pati medžiaga be priedo suiro 0 %. Prognozuojama, kad per 5 metus biologiškai suirs iki 99 %. Mūsų dėžės pagamintos iš 100 % perdirbto kartono."
+    },
+    "metrics": {
+      "additive": {
+        "value": "~1 %",
+        "label": "priedų turinį"
+      },
+      "measured": {
+        "value": "~3,5m",
+        "label": "iki 93 % biologinio skaidymosi"
+      },
+      "projected": {
+        "value": "iki 99 proc.",
+        "label": "per ~5 metus"
+      }
+    },
+    "problem": {
+      "title": "Kodėl paprastas plastikas yra problema",
+      "body": "Įprasti plastikiniai gaminiai yra sukurti taip, kad tarnautų. Be biologinio skaidymo priedo plastikinis gaminys, išsiųstas į sąvartyną, gali likti ten nuo <bold>300 iki 1000 metų</bold>; putplasčio „Crocs“ stiliaus klumpės yra žinomas plastiko, kuris <bold>biologiškai neskaidomas</bold>, pavyzdys. Mūsų gaminiai gaminami iš tos pačios rūšies patvaraus plastiko (EVA), tačiau turi vieną esminį skirtumą: Eco-One™ priedą.",
+      "chartAlt": "Produktai be Eco-One™, palyginti su ëkcos produktais, kuriuose yra priedo",
+      "chartCaption": "Produktai be Eco-One™, palyginti su ëkcos produktais, kuriuose yra priedo.",
+      "chart": {
+        "ariaLabel": "Sąvartynų suskaidymo metų palyginimas",
+        "withoutLabel": "Produktai be Eco-One™",
+        "withLabel": "ëkcos su Eco-One™",
+        "withoutValue": "300–1000 metų",
+        "withValue": "3,5-5 metai",
+        "withoutDetail": "Be biologiškai skaidomo priedo, įprastas plastikas gali likti sąvartynuose šimtmečius.",
+        "withDetail": "Naudojant Eco-One™ priedą, nepriklausomi bandymai rodo ~93% biologinį skaidymą maždaug per 3,5 metų ir iki 99% per penkerius metus.",
+        "axisLabel": "Metai suskaidyti (sąvartynas)",
+        "caption": "Produktai be Eco-One™, palyginti su ëkcos produktais, kuriuose yra priedo.",
+        "scaleLabel": "Diagramos mastelis",
+        "scaleFull": "0–1000 m",
+        "scaleZoom": "0-10 m",
+        "clippedNote": "tęsiasi →"
+      }
+    },
+    "solution": {
+      "title": "Mūsų sprendimas: Eco-One™ priedas",
+      "body1": "Gamybos metu įdedame maždaug <bold>1 % Eco-One™</bold> – organinio priedo, dozuojamo taip pat, kaip ir dažiklio. Tai neturi įtakos gaminio stiprumui, išvaizdai ar veikimui.",
+      "body2": "Biologiškai aktyviame sąvartyne natūraliai atsirandantys mikroorganizmai fermentiniu aktyvumu skaido apdorotą plastiką ir paverčia jį biodujomis (<bold>metanu</bold>, kurias šiuolaikiniai sąvartynai sugauna energijai atgauti), anglies dioksidu ir humusu.",
+      "body3": "Kadangi produktas galiausiai skyla į humusą, jis grąžina organines medžiagas į sąvartyną ir padeda paspartinti ten jau vykstančius biocheminius procesus. Todėl gaminys prisideda <bold>ne tik per savo tarnavimo laiką, bet ir po jo</bold>."
+    },
+    "testing": {
+      "title": "Nepriklausomas bandymas",
+      "body": "Produktas buvo išbandytas nepriklausomoje laboratorijoje pagal tarptautinius standartus <bold>ASTM D5511 ir ISO 15985</bold>, lyginant tą patį gaminį su Eco-One™ priedu ir be jo. Naudojant Eco-One™, jis pasiekė <bold>93,31 % biologinį skaidymą per maždaug 3,5 metų ir iki 99 % per penkerius metus</bold>; be Eco-One™, produktas neparodė išmatuojamo biologinio skaidymosi.",
+      "barChart": {
+        "ariaLabel": "Biologinis skaidymas maždaug po 3,5 metų su Eco-One™ ir be jo",
+        "yAxis": "Biologinis skaidymas (%)",
+        "withLabel": "ëkcos su Eco-One™",
+        "withoutLabel": "Produktai be Eco-One™",
+        "withDetail": "93,31 % biologinis skaidymas, išmatuotas nepriklausomu ASTM D5511 / ISO 15985 laboratoriniu tyrimu po maždaug 3,5 metų.",
+        "withoutDetail": "Tas pats produktas be Eco-One™ per tą patį bandymo laikotarpį neparodė išmatuojamo biologinio skaidymosi.",
+        "subtitle": "Tas pats produktas · tas pats laboratorinis tyrimas (ASTM D5511 / ISO 15985) · ~3,5 metų"
+      },
+      "timelineChart": {
+        "ariaLabel": "Biologinis skaidymas per penkerius metus su ir be Eco-One™",
+        "yAxis": "Biologinis skaidymas (%)",
+        "xAxis": "Metai",
+        "withLabel": "ëkcos su Eco-One™",
+        "withoutLabel": "Produktai be Eco-One™",
+        "zeroNote": "0% visą laiką",
+        "measured": "išmatuotas",
+        "projected": "prognozuojama",
+        "yearsUnit": "m",
+        "projectedNote": "Prognozuojama pagal išmatuotą tendenciją",
+        "caption": "Biologinis skaidymas su Eco-One™ priedu ir be jo. Didesnės nei 3,5 metų vertės prognozuojamos pagal išmatuotą tendenciją."
+      }
+    },
+    "closing": {
+      "title": "ëkcos produktai su Eco-One™",
+      "body": "Mūsų prausyklos gaminiai gaminami su Eco-One™ priedu. Atliekant nepriklausomą laboratorinį tyrimą, ëkcos EVA su Eco-One™ pasiekė 93 % biologinio skaidymosi per 3,5 metų, o iki 99 % prognozuojama per 5 metus sąvartyno sąlygomis – o veikimas toks pat kaip produktų be priedo.",
+      "shopCta": "Parduotuvė"
+    },
+    "footnote": "Duomenų šaltinis: nepriklausomas biologinio skilimo testas pagal ASTM D5511-02 ir ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) – ëkcos produktas su 1 % Eco-One™ priedu: 93,31 % biologinis skaidymas per 1,283 dienas (≈283 dienas); tas pats produktas be priedo: 0%. Biologinis skaidymas po bandymo laikotarpio (iki 99% per ~5 metus) yra prognozuojamas pagal išmatuotą tendenciją. Įprastų plastikų patvarumo skaičiai (≈300–1000 metų) yra plačiai cituojami pramonės vertinimai. Eco-One™ priedą gamina ir sertifikavo EcoLogic, LLC."
+  },
+  "customBranding": {
+    "hero": {
+      "eyebrow": "B2B specifikacija",
+      "title": "Individualus prekės ženklas",
+      "subtitle": "Privatus ženklinimas, iškirpimai ir spausdinimas kelių svetainių prekių ženklų programoms."
+    },
+    "introEyebrow": "Programos apžvalga",
+    "introTitle": "Specifikacijomis pagrįstas prekės ženklas",
+    "intro": "Padedame jums pritaikyti jūsų prekės ženklą gaminiui su gamyklos kokybės kokybe: aiškiomis specifikacijomis, pastovia gamyba ir dokumentais, kuriuos jūsų komanda gali perduoti auditoriams ar klientams.",
+    "sections": {
+      "private": {
+        "title": "Privatus prekės ženklas",
+        "body": "Jūsų meno kūriniai, nuosekliai tvarkomi nuo patvirtinimo iki gamybos – todėl kiekviena partija atitinka jūsų prekės ženklą."
+      },
+      "cutouts": {
+        "title": "Individualūs išpjovos",
+        "body": "Formos angos ir įdubimai, tinkantys tikriems šviestuvams ir kaip juos montuoja jūsų komandos."
+      },
+      "print": {
+        "title": "Spausdinimo parinktys",
+        "body": "Patvarus spausdinimas, kuris išlieka įskaitomas ant gaminio kasdien naudojant."
+      }
+    },
+    "pricing": {
+      "title": "Komercinės sąlygos",
+      "description": "Paskelbti mokesčiai: vienkartinė sąranka, vieneto prekės ženklas ir pasirenkamos pakuotės etiketės.",
+      "entryFee": "Vienkartinis starto mokestis",
+      "brandingCost": "Prekės ženklo kaina",
+      "packagingLabels": "Individualios etiketės ant pakuočių"
+    },
+    "standardMoq": {
+      "title": "MOQ standartiniam prekės ženklui",
+      "description": "Minimalūs užsakymų kiekiai standartinėms prekės ženklo kūrimo programoms su logotipo išpjovomis arba spausdinimu.",
+      "productLabel": "Produktas",
+      "moqLabel": "MOQ [vnt.]",
+      "note": "* Jei norite užsisakyti tik Fresh Drop pagrindus, MOQ yra 288 vnt."
+    },
+    "customMix": {
+      "title": "Pasirinktinis spalvų ir kvapų derinys",
+      "description": "Iš savo asortimento galime pagaminti individualų kvapų ir spalvų derinį. Minimalus užsakymo kiekis atitinka visą kiekvieno pritaikyto produkto padėklą.",
+      "productLabel": "Produktas",
+      "moqLabel": "MOQ [vnt.]",
+      "note": "* Basic Screen MOQ skirtas pusei padėklo."
+    },
+    "production": {
+      "title": "Gamyba, pristatymo laikas ir apmokėjimas"
+    },
+    "process": {
+      "title": "Paprastas procesas",
+      "steps": {
+        "0": "Sutariame dėl kiekių, regionų ir laiko.",
+        "1": "Jūs tvirtinate meno kūrinius, medžiagas ir apdailą.",
+        "2": "Gaminame, kiekviename etape tikriname kokybę.",
+        "3": "Siunčiame į jūsų svetaines pagal jums reikalingą tvarkaraštį."
+      }
+    },
+    "inquiry": {
+      "title": "Prašyti informacijos",
+      "hint": "Papasakokite apie kiekius, regionus ir prekės ženklo reikalavimus."
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Techninė ir komercinė pagalba",
+      "title": "Susisiekite",
+      "subtitle": "Paklauskite mūsų apie Eco-One™, specifikacijas ar B2B programas – bet kada pateikite užsakymus oficialioje parduotuvėje."
+    },
+    "details": {
+      "title": "Susisiekite",
+      "email": "El. paštas",
+      "phone": "Telefonas",
+      "hours": "Valandos",
+      "hoursValue": "Pirmadienis–penktadienis, 09:00–17:00 CET"
+    },
+    "company": {
+      "title": "Registruotos įmonės duomenys",
+      "registryCode": "Įmonės registro kodas (Estija)",
+      "vatIdCz": "PVM mokėtojo kodas (Čekija)"
+    },
+    "form": {
+      "name": "Vardas",
+      "company": "Įmonė",
+      "email": "El. paštas",
+      "phone": "Telefonas",
+      "message": "Pranešimas",
+      "submit": "Siųsti žinutę",
+      "success": "Ačiū – netrukus su jumis susisieksime.",
+      "error": "Kažkas nutiko. Bandykite dar kartą."
+    }
+  },
+  "products": {
+    "page": {
+      "title": "Products",
+      "intro": "Switch models and finishes, then buy in the official store.",
+      "heroEyebrow": "Explore the range",
+      "heroTitle": "Configure every line in one place",
+      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroLinkEco": "About Eco-One™",
+      "heroLinkBranding": "Custom branding"
+    },
+    "configurator": {
+      "color": "Finish",
+      "selectProduct": "Select product",
+      "fragrance": "Fragrance options",
+      "benefits": "Benefits",
+      "productBenefits": "Product benefits",
+      "availableColorsFragrances": "Available colors & fragrances",
+      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
+      "byBrand": "by ëkcos",
+      "siteUrl": "www.ekcos.eu",
+      "useCases": "Typical applications",
+      "brandingNote": "Custom branding available for qualified orders."
+    },
+    "colors": {
+      "white": "White",
+      "grey": "Grey",
+      "black": "Black",
+      "blue": "Blue"
+    },
+    "fragrances": {
+      "fresh": "Fresh",
+      "citrus": "Citrus"
+    },
+    "variantLabels": {
+      "x1p": "violetinis / miško uogos",
+      "x2g": "žalias / obuolys",
+      "x3b": "mėlynas / fresh",
+      "x4o": "oranžinis / tropiniai vaisiai",
+      "x6c": "skaidrus / tropiniai vaisiai",
+      "x7bk": "juodas / mėta",
+      "x8bm": "ugninis / mangas",
+      "x9g": "žalias / pušis",
+      "x10r": "raudonas / melionas",
+      "x12p": "violetinis / levanda",
+      "x13c": "geltonas / citrusai"
+    },
+    "xcrenHd": {
+      "name": "xcrën HD",
+      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "category": "dizaino pisuaro tinklelis su ekstremalia apsauga nuo purslų",
+      "badge": "dizaino pisuaro tinklelis su ekstremalia apsauga nuo purslų",
+      "short": "xcrën HD 60+ yra kvapnus pisuaro tinklelis su užpatentuota forma, kuri išsiskiria pisuare. Kitaip nei įprasti ovalūs tinkleliai, jis paverčia pisuarą dizaino elementu. Užpatentuoti šereliai (Sealed Bristles Technology™) dengia 92 % tinklelio ir iki minimumo sumažina šlapimo purslus bei nemalonius kvapus. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą 60+ dienų. Mažai lankomuose tualetuose jis tarnauja dar ilgiau.",
+      "long": "xcrën HD 60+ yra kvapnus pisuaro tinklelis su užpatentuota forma, kuri išsiskiria pisuare. Kitaip nei įprasti ovalūs tinkleliai, jis paverčia pisuarą dizaino elementu. Užpatentuoti šereliai (Sealed Bristles Technology™) dengia 92 % tinklelio ir iki minimumo sumažina šlapimo purslus bei nemalonius kvapus. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą 60+ dienų. Mažai lankomuose tualetuose jis tarnauja dar ilgiau.\n\nxcrën HD 60+ skirtas daug lankomiems tualetams restoranuose, baruose, oro uostuose ir prekybos centruose. Jis sujungia higieną ir išvaizdą, kuri išskiria tualetą iš kitų.\n\nxcrën HD 60+ pagamintas naudojant perdirbtą EVA. Pačią medžiagą galima perdirbti, tačiau panaudoto pisuaro tinklelio perdirbti negalima, nes jis biologiškai užterštas. Jis patenka į sąvartyną arba yra deginamas, todėl xcrën HD 60+ sudėtyje yra priedo Eco-One™. Nepriklausomame laboratorijos bandyme ëkcos EVA su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o per 5 metus prognozuojama iki 99 %.\n\nxcrën HD 60+ sujungia stiprią apsaugą nuo purslų, 60+ dienų kvapą ir užpatentuotą dizainą, kuris išsiskiria bet kuriame tualete.",
+      "benefits": {
+        "0": "Užpatentuota forma, išsiskirianti iš įprastų ovalių tinklelių",
+        "1": "Užpatentuoti nuo purslų saugantys šereliai dengia 92 % tinklelio paviršiaus, padeda apsaugoti naudotojus nuo nepageidaujamų purslų ir palaiko švaresnę aplinką",
+        "2": "Mūsų sukurta medžiaga, prisotinta dezodoranto pagrindo kvapu, kuris palaipsniui sklinda 60+ dienų",
+        "3": "Kvapas išlieka dvigubai ilgiau nei standartinių 30 dienų tinklelių",
+        "4": "Specialiai skirtas daug lankomiems tualetams, pvz., restoranuose, baruose, oro uostuose, prekybos centruose ir kt.",
+        "5": "Pagamintas naudojant perdirbtą EVA, su Eco-One™ biologiškai skaidus sąvartyne",
+        "6": "Supakuotas į dėžes iš 100 % perdirbto kartono",
+        "7": "Puikiai tinka bevandeniams pisuarams",
+        "8": "Matmenys: 17 x 18 x 2,1 cm",
+        "9": "Didelis spalvų ir malonių kvapų pasirinkimas",
+        "10": "Privatus prekės ženklas su jūsų logotipu, išpjautu medžiagoje arba atspausdintu"
+      },
+      "variants": {
+        "xhd1p": "violetinis / miško uogos",
+        "xhd2g": "žalias / obuolys",
+        "xhd3b": "mėlynas / fresh",
+        "xhd4o": "oranžinis / tropiniai vaisiai",
+        "xhd6c": "skaidrus / tropiniai vaisiai",
+        "xhd7bk": "juodas / mėta",
+        "xhd8bm": "ugninis / mangas",
+        "xhd9g": "žalias / pušis",
+        "xhd10r": "raudonas / melionas",
+        "xhd12p": "violetinis / levanda",
+        "xhd13c": "geltonas / citrusai"
+      },
+      "useCases": {
+        "0": "Corporate offices",
+        "1": "Hotels and hospitality"
+      }
+    },
+    "ekcoscreen": {
+      "name": "ëkcoscreen",
+      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "masyvus pisuaro tinklelis nuo purslų su dvigubai ilgesniu kvapu",
+      "short": "ëkcoscreen 60+ yra kvapnus pisuaro tinklelis su užpatentuotais šereliais (Sealed Bristles Technology™), kurie dengia 95 % tinklelio. Jis iki minimumo sumažina šlapimo purslus ir nemalonius kvapus, todėl tualetas švaresnis ir patogesnis. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą 60+ dienų, dvigubai ilgiau nei standartiniai 30 dienų tinkleliai. Mažai lankomuose tualetuose jis tarnauja dar ilgiau.",
+      "long": "ëkcoscreen 60+ yra kvapnus pisuaro tinklelis su užpatentuotais šereliais (Sealed Bristles Technology™), kurie dengia 95 % tinklelio. Jis iki minimumo sumažina šlapimo purslus ir nemalonius kvapus, todėl tualetas švaresnis ir patogesnis. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą 60+ dienų, dvigubai ilgiau nei standartiniai 30 dienų tinkleliai. Mažai lankomuose tualetuose jis tarnauja dar ilgiau.\n\nëkcoscreen 60+ skirtas daug lankomiems tualetams restoranuose, baruose, oro uostuose, prekybos centruose ir kitose vietose, kuriose svarbi higiena. Jis gerina švarą ir kvapų kontrolę.\n\nëkcoscreen 60+ pagamintas naudojant perdirbtą EVA. Pačią medžiagą galima perdirbti, tačiau panaudoto pisuaro tinklelio perdirbti negalima, nes jis biologiškai užterštas. Jis patenka į sąvartyną arba yra deginamas, todėl ëkcoscreen 60+ sudėtyje yra priedo Eco-One™. Nepriklausomame laboratorijos bandyme ëkcos EVA su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o per 5 metus prognozuojama iki 99 %.\n\nëkcoscreen 60+ sujungia veiksmingą apsaugą nuo purslų, 60+ dienų kvapą ir perdirbtą, biologiškai skaidų EVA daug lankomiems tualetams.",
+      "benefits": {
+        "0": "Užpatentuoti nuo purslų saugantys šereliai dengia 95 % tinklelio paviršiaus, padeda apsaugoti naudotojus nuo nepageidaujamų purslų ir palaiko švaresnę aplinką",
+        "1": "Lyginamajame UV purslų bandyme vienodomis sąlygomis už tinklelio ribų nebuvo matomų purslų",
+        "2": "Mūsų sukurta medžiaga, prisotinta dezodoranto pagrindo kvapu, kuris palaipsniui sklinda 60+ dienų",
+        "3": "Kvapas išlieka dvigubai ilgiau nei 30 dienų tinklelių, o kaina per dieną panaši",
+        "4": "141 g kvapiosios medžiagos kiekviename tinklelyje, daugiau nei tris kartus daugiau nei įprastame",
+        "5": "Specialiai skirtas daug lankomiems tualetams, pvz., restoranuose, baruose, oro uostuose, prekybos centruose ir kt.",
+        "6": "Pagamintas naudojant perdirbtą EVA, su Eco-One™ biologiškai skaidus sąvartyne",
+        "7": "Supakuotas į dėžes iš 100 % perdirbto kartono",
+        "8": "Idealiai tinka bevandeniams pisuarams",
+        "9": "Matmenys: 20 x 21 x 2,2 cm",
+        "10": "Unikalus dizainas, didelis spalvų ir malonių kvapų pasirinkimas",
+        "11": "Privatus prekės ženklas su jūsų logotipu, išpjautu medžiagoje arba atspausdintu"
+      },
+      "useCases": {
+        "0": "Retail",
+        "1": "Public buildings"
+      }
+    },
+    "powerscreen": {
+      "name": "powër screen",
+      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "category": "galingas pisuaro tinklelis nuo purslų, keičiamas kas mėnesį",
+      "short": "powër screen yra kvapnus pisuaro tinklelis su užpatentuota šerelių sistema (Sealed Bristles Technology™). Jis iki minimumo sumažina šlapimo purslus ir nemalonius kvapus, todėl tualetas švaresnis ir patogesnis. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą iki 30 dienų, todėl idealiai tinka kasmėnesinei pisuarų priežiūrai.",
+      "long": "powër screen yra kvapnus pisuaro tinklelis su užpatentuota šerelių sistema (Sealed Bristles Technology™). Jis iki minimumo sumažina šlapimo purslus ir nemalonius kvapus, todėl tualetas švaresnis ir patogesnis. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą iki 30 dienų, todėl idealiai tinka kasmėnesinei pisuarų priežiūrai.\n\npowër screen pagamintas naudojant perdirbtą EVA. Pačią medžiagą galima perdirbti, tačiau panaudoto pisuaro tinklelio perdirbti negalima, nes jis biologiškai užterštas. Jis patenka į sąvartyną arba yra deginamas, todėl powër screen sudėtyje yra priedo Eco-One™. Nepriklausomame laboratorijos bandyme ëkcos EVA su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o per 5 metus prognozuojama iki 99 %.\n\npowër screen sujungia veiksmingą apsaugą nuo purslų, iki 30 dienų kvapą ir perdirbtą, biologiškai skaidų EVA kasmėnesinei tualetų priežiūrai.",
+      "benefits": {
+        "0": "Užpatentuoti nuo purslų saugantys šereliai padeda apsaugoti naudotojus nuo nepageidaujamų purslų ir palaiko švaresnę aplinką",
+        "1": "Mūsų sukurta medžiaga, prisotinta dezodoranto pagrindo kvapu, kuris palaipsniui sklinda iki 30 dienų",
+        "2": "Idealiai tinka kasmėnesinei pisuarų priežiūrai",
+        "3": "Pagamintas naudojant perdirbtą EVA, su Eco-One™ biologiškai skaidus sąvartyne",
+        "4": "Supakuotas į dėžes iš 100 % perdirbto kartono",
+        "5": "Tinka bevandeniams pisuarams",
+        "6": "Lanksti forma tinka beveik visų tipų pisuarams",
+        "7": "Dizainas, kuris pagražina bet kurį tualetą",
+        "8": "Matmenys: 18 x 20 x 1,8 cm",
+        "9": "Unikalus dizainas, didelis spalvų ir malonių kvapų pasirinkimas",
+        "10": "Privatus prekės ženklas su jūsų logotipu, išpjautu medžiagoje arba atspausdintu"
+      },
+      "useCases": {
+        "0": "Stadiums",
+        "1": "Transport hubs"
+      }
+    },
+    "basicScreen": {
+      "name": "basic scrëen",
+      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "category": "sąvartyne biologiškai skaidus pisuaro tinklelis už mažą kainą",
+      "short": "basic scrëen yra ekonomiškas pisuaro tinklelis, kuris dezodoruoja pisuarus ir neleidžia kauptis šiukšlėms. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą iki 30 dienų, todėl idealiai tinka kasmėnesinei pisuarų priežiūrai.",
+      "long": "basic scrëen yra ekonomiškas pisuaro tinklelis, kuris dezodoruoja pisuarus ir neleidžia kauptis šiukšlėms. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą iki 30 dienų, todėl idealiai tinka kasmėnesinei pisuarų priežiūrai.\n\nbasic scrëen pagamintas naudojant perdirbtą EVA. Pačią medžiagą galima perdirbti, tačiau panaudoto pisuaro tinklelio perdirbti negalima, nes jis biologiškai užterštas. Jis patenka į sąvartyną arba yra deginamas, todėl basic scrëen sudėtyje yra priedo Eco-One™. Nepriklausomame laboratorijos bandyme ëkcos EVA su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o per 5 metus prognozuojama iki 99 %.\n\nbasic scrëen sujungia patikimą kvapų kontrolę, apsaugą nuo šiukšlių ir perdirbtą, biologiškai skaidų EVA už mažą kainą.",
+      "benefits": {
+        "0": "Mūsų sukurta medžiaga, prisotinta dezodoranto pagrindo kvapu, kuris sklinda palaipsniui",
+        "1": "Kvapas sklinda iki 30 dienų",
+        "2": "Idealiai tinka kasmėnesinei pisuarų priežiūrai",
+        "3": "Tinka bevandeniams pisuarams",
+        "4": "Lanksti forma tinka beveik visų tipų pisuarams",
+        "5": "Matmenys: 20 x 19 cm",
+        "6": "Unikalus dizainas, didelis spalvų ir malonių kvapų pasirinkimas",
+        "7": "Ekonomiškas sprendimas kasmėnesinei pisuarų higienai",
+        "8": "Pagamintas naudojant perdirbtą EVA, su Eco-One™ biologiškai skaidus sąvartyne",
+        "9": "Tiekiamas dėžėse iš 100 % perdirbto kartono",
+        "10": "Privatus prekės ženklas su jūsų logotipu, išpjautu medžiagoje arba atspausdintu"
+      },
+      "useCases": {
+        "0": "Schools",
+        "1": "Light commercial"
+      }
+    },
+    "urolite": {
+      "name": "üro lite",
+      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "mažas pisuaro tinklelis, didelė apsauga nuo purslų",
+      "short": "üro lite yra lankstus kvapnus pisuaro tinklelis, skirtas mažesniems pisuarams. Jame naudojama ta pati užpatentuota Sealed Bristles Technology™ kaip ir tinklelyje ëkcoscreen 60+, o vietoj didesnio skersmens jis remiasi ilgais šereliais, kurie mažame tinklelyje užtikrina didelę apsaugą nuo purslų. Jis iki minimumo sumažina šlapimo purslus ir nemalonius kvapus. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą iki 30 dienų, todėl idealiai tinka kasmėnesinei pisuarų priežiūrai.",
+      "long": "üro lite yra lankstus kvapnus pisuaro tinklelis, skirtas mažesniems pisuarams. Jame naudojama ta pati užpatentuota Sealed Bristles Technology™ kaip ir tinklelyje ëkcoscreen 60+, o vietoj didesnio skersmens jis remiasi ilgais šereliais, kurie mažame tinklelyje užtikrina didelę apsaugą nuo purslų. Jis iki minimumo sumažina šlapimo purslus ir nemalonius kvapus. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą iki 30 dienų, todėl idealiai tinka kasmėnesinei pisuarų priežiūrai.\n\nüro lite pagamintas naudojant perdirbtą EVA. Pačią medžiagą galima perdirbti, tačiau panaudoto pisuaro tinklelio perdirbti negalima, nes jis biologiškai užterštas. Jis patenka į sąvartyną arba yra deginamas, todėl üro lite sudėtyje yra priedo Eco-One™. Nepriklausomame laboratorijos bandyme ëkcos EVA su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o per 5 metus prognozuojama iki 99 %.\n\nüro lite unikaliais užpatentuotais ilgais šereliais suteikia mažesniems pisuarams didelę apsaugą nuo purslų kompaktiškame, ekonomiškame tinklelyje, pagamintame naudojant perdirbtą, biologiškai skaidų EVA.",
+      "benefits": {
+        "0": "Unikalūs užpatentuoti ilgi šereliai padeda apsaugoti naudotojus nuo purslų ir palaiko švaresnę aplinką",
+        "1": "Ta pati užpatentuota Sealed Bristles Technology™ kaip ir tinklelyje ëkcoscreen 60+",
+        "2": "Mūsų sukurta medžiaga, prisotinta dezodoranto pagrindo kvapu, kuris palaipsniui sklinda iki 30 dienų",
+        "3": "Kompaktiškas dydis, specialiai sukurtas mažesniems pisuarams",
+        "4": "Idealiai tinka kasmėnesinei pisuarų priežiūrai",
+        "5": "Tinka bevandeniams pisuarams",
+        "6": "Pagamintas naudojant perdirbtą EVA, su Eco-One™ biologiškai skaidus sąvartyne",
+        "7": "Supakuotas į dėžes iš 100 % perdirbto kartono",
+        "8": "Matmenys: 13 x 13 x 1,8 cm",
+        "9": "Unikalus dizainas, didelis spalvų ir malonių kvapų pasirinkimas",
+        "10": "Privatus prekės ženklas su jūsų logotipu, išpjautu medžiagoje arba atspausdintu"
+      },
+      "useCases": {
+        "0": "Boutique hospitality",
+        "1": "Premium office"
+      }
+    },
+    "ekcoClip": {
+      "name": "ëkco clip",
+      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "category": "pakabinamas WC gaiviklis, tinkantis beveik bet kuriam klozetui",
+      "short": "ëkco clip yra pakabinamas WC gaiviklis, kuris nuolat kontroliuoja kvapus ir palaiko tualeto kabinų gaivumą. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą iki 30 dienų. Dėl lanksčios konstrukcijos jis tinka daugumai klozetų tipų, todėl jį lengva pritvirtinti ir jis gerai skleidžia kvapą.",
+      "long": "ëkco clip yra pakabinamas WC gaiviklis, kuris nuolat kontroliuoja kvapus ir palaiko tualeto kabinų gaivumą. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą iki 30 dienų. Dėl lanksčios konstrukcijos jis tinka daugumai klozetų tipų, todėl jį lengva pritvirtinti ir jis gerai skleidžia kvapą.\n\nëkco clip pagamintas naudojant perdirbtą EVA. Pačią medžiagą galima perdirbti, tačiau panaudoto pakabinamo WC gaiviklio perdirbti negalima, nes jis biologiškai užterštas. Jis patenka į sąvartyną arba yra deginamas, todėl ëkco clip sudėtyje yra priedo Eco-One™. Nepriklausomame laboratorijos bandyme ëkcos EVA su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o per 5 metus prognozuojama iki 99 %.\n\nëkco clip sujungia nuolatinę kvapų kontrolę iki 30 dienų, lengvą tvirtinimą prie daugumos klozetų ir perdirbtą, biologiškai skaidų EVA.",
+      "benefits": {
+        "0": "Mūsų sukurta medžiaga, prisotinta dezodoranto pagrindo kvapu, kuris sklinda palaipsniui",
+        "1": "Veiksminga apsauga nuo kvapų",
+        "2": "Unikalus dizainas optimaliam kvapo sklidimui",
+        "3": "Kvapas sklinda iki 30 dienų",
+        "4": "Lanksti forma tinka beveik visų tipų klozetams",
+        "5": "Matmenys: 10 x 5 x 4,5 cm",
+        "6": "Didelis spalvų ir malonių kvapų pasirinkimas",
+        "7": "Ekonomiškas tualeto aromatizavimas",
+        "8": "Pagamintas naudojant perdirbtą EVA, su Eco-One™ biologiškai skaidus sąvartyne",
+        "9": "Supakuotas į dėžes iš 100 % perdirbto kartono",
+        "10": "Privatus prekės ženklas su jūsų logotipu, išpjautu medžiagoje arba atspausdintu"
+      },
+      "useCases": {
+        "0": "Facility retrofits",
+        "1": "Specification-led projects"
+      }
+    },
+    "freshDrop": {
+      "name": "frësh drop",
+      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "category": "ilgai veikiantis WC oro gaiviklis be baterijų",
+      "short": "frësh drop yra patalpų oro gaiviklis, skirtas tualeto kabinoms ir tualetams. Jo įdėklas, pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, palaipsniui skleidžia kvapą be baterijų ir elektros. Uždarose kabinose, kuriose ventiliacija silpna arba jos nėra, jis veikia 60+ dienų, o ten, kur oras juda labiau, kvapas išsisklaido greičiau. Vandens lašo formos dizainas dera prie bet kokio tualeto interjero, o pridedama lipni juosta leidžia lengvai pritvirtinti gaiviklį prie beveik bet kokio paviršiaus. Mažoms erdvėms rinkitės kompaktišką gaiviklį ëkco loop.",
+      "long": "frësh drop yra patalpų oro gaiviklis, skirtas tualeto kabinoms ir tualetams. Jo įdėklas, pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, palaipsniui skleidžia kvapą be baterijų ir elektros. Uždarose kabinose, kuriose ventiliacija silpna arba jos nėra, jis veikia 60+ dienų, o ten, kur oras juda labiau, kvapas išsisklaido greičiau. Vandens lašo formos dizainas dera prie bet kokio tualeto interjero, o pridedama lipni juosta leidžia lengvai pritvirtinti gaiviklį prie beveik bet kokio paviršiaus. Mažoms erdvėms rinkitės kompaktišką gaiviklį ëkco loop.\n\nGaiviklio frësh drop įdėklas pagamintas naudojant perdirbtą EVA, o šią medžiagą galima perdirbti. Ir įdėkle, ir pagrinde yra priedo Eco-One™, todėl abu yra biologiškai skaidūs sąvartyne. Nepriklausomame laboratorijos bandyme ëkcos EVA su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o per 5 metus prognozuojama iki 99 %.\n\nfrësh drop sujungia 60+ dienų kvapą, lengvą montavimą ir įdėklą iš perdirbto, biologiškai skaidaus EVA tualeto kabinoms ir tualetams.",
+      "benefits": {
+        "0": "Mūsų sukurta medžiaga, prisotinta dezodoranto pagrindo kvapu, kuris sklinda palaipsniui",
+        "1": "Puikus būdas palaikyti gaivią ir švarią tualeto aplinką, specialiai sukurtas tualeto kabinoms",
+        "2": "Kvapas sklinda 60+ dienų uždarose kabinose, nereikia baterijų ar elektros",
+        "3": "Vandens lašo dizainas, derantis prie bet kokio tualeto interjero",
+        "4": "Lengvas montavimas pridedama lipnia juosta",
+        "5": "Matmenys: 23 x 12 x 3,5 cm",
+        "6": "Didelis spalvų ir malonių kvapų pasirinkimas",
+        "7": "Įdėklas pagamintas naudojant perdirbtą, perdirbamą EVA",
+        "8": "Įdėklas ir pagrindas su Eco-One™ biologiškai skaidūs sąvartyne",
+        "9": "Supakuotas į dėžes iš 100 % perdirbto kartono",
+        "10": "Galimybė ženklinti privačiu prekės ženklu spaudos būdu"
+      },
+      "useCases": {
+        "0": "Hospitality",
+        "1": "Premium retail"
+      },
+      "bases": {
+        "white": "pagrindas baltas",
+        "black": "pagrindas juodas"
+      }
+    },
+    "ezTrap": {
+      "name": "ëz trap",
+      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "category": "kvapus sulaikanti, lengvai prižiūrima bevandenio pisuaro kasetė",
+      "short": "ëz trap yra naujoviška kasečių sistema, sukurta bevandenių pisuarų efektyvumui, švarai ir kvapų kontrolei gerinti, kartu gerokai mažinant priežiūros išlaidas.",
+      "long": "ëz trap yra naujoviška kasečių sistema, sukurta bevandenių pisuarų efektyvumui, švarai ir kvapų kontrolei gerinti, kartu gerokai mažinant priežiūros išlaidas.\n\nUžpatentuota kasečių sistema ëz trap leidžia šlapimui natūraliai tekėti per sifoną, o uždaromasis dangtelis po kiekvieno naudojimo užsisandarina. Tai neleidžia kvapams išsiveržti ir užtikrina, kad po kiekvieno naudojimo senas šlapimas pašalinamas iš sistemos, todėl tualeto aplinka gaivesnė.\n\nëz trap pagamintas su priedu Eco-One™, todėl jis biologiškai skaidus sąvartyne. Nepriklausomame laboratorijos bandyme ëkcos medžiaga su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o per 5 metus prognozuojama iki 99 %.\n\nëz trap yra efektyvus, mažai priežiūros reikalaujantis ir išlaidas taupantis būdas neleisti kanalizacijos kvapams išsiveržti pro bevandenius pisuarus.",
+      "variants": {
+        "withoutTool": "be išėmimo įrankio",
+        "withTool": "su išėmimo įrankiu"
+      },
+      "benefits": {
+        "0": "Sulaiko kanalizacijos kvapus: sifonas ir uždaromasis dangtelis neleidžia nemaloniems kvapams išsiveržti",
+        "1": "Nereikia brangių gelių ar specialių valiklių",
+        "2": "Paprasta ir ekonomiška priežiūra: kasdien tiesiog įpilkite stiklinę vandens, kad nesikauptų kalkių nuosėdos",
+        "3": "Ilgaamžiškumas: kasetė tarnauja nuo 4 iki 6+ mėnesių, o reguliarus valymas priemone nuo kalkių (pvz., kokybišku tualeto geliu) pailgina jos tarnavimo laiką",
+        "4": "Platus suderinamumas: tinka Sloan, Falcon, Vitra, Bobrick ir kitų gamintojų pisuarams su Falcon Velocity sistema (skersmuo 11,8 cm, aukštis 11,5 cm)",
+        "5": "Matmenys: Ø 11,8 x 11,5 cm",
+        "6": "Supakuotas į dėžes iš 100 % perdirbto kartono",
+        "7": "Su priedu Eco-One™ biologiškai skaidus sąvartyne"
+      },
+      "useCases": {
+        "0": "Food service",
+        "1": "Healthcare support areas"
+      }
+    },
+    "xcrenPuck": {
+      "name": "xcrën puck",
+      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "category": "X formos pisuaro tinklelis su dezodoruojančia tablete",
+      "short": "xcrën puck yra pisuaro tinklelis su NON-PARA dezodoruojančia tablete, skirtas veiksmingai kvapų kontrolei ir kanalizacijos apsaugai. Jame nėra paradichlorbenzeno (PARA), kurį PSO klasifikuoja kaip galimai kancerogeninį. PARA tabletės vis dar naudojamos kai kuriuose pisuarų tinkleliuose, o ES taisyklės riboja PARA naudojimą tualetų dezodorantuose. X formos konstrukcija neleidžia kietosioms dalelėms ir šiukšlėms užkimšti kanalizacijos, o po kiekvieno naudojimo tinklelis iki 30 dienų skleidžia švarų, gaivų kvapą.",
+      "long": "xcrën puck yra pisuaro tinklelis su NON-PARA dezodoruojančia tablete, skirtas veiksmingai kvapų kontrolei ir kanalizacijos apsaugai. Jame nėra paradichlorbenzeno (PARA), kurį PSO klasifikuoja kaip galimai kancerogeninį. PARA tabletės vis dar naudojamos kai kuriuose pisuarų tinkleliuose, o ES taisyklės riboja PARA naudojimą tualetų dezodorantuose. X formos konstrukcija neleidžia kietosioms dalelėms ir šiukšlėms užkimšti kanalizacijos, o po kiekvieno naudojimo tinklelis iki 30 dienų skleidžia švarų, gaivų kvapą.\n\nTabletė daugiausia pagaminta iš vaško ir glicerino ir naudojant ištirpsta. xcrën puck pagamintas su priedu Eco-One™, todėl jis biologiškai skaidus sąvartyne. Nepriklausomame laboratorijos bandyme ëkcos medžiaga su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o per 5 metus prognozuojama iki 99 %. Tai vienkartinis gaminys, o tabletės negalima pakeisti nauja.\n\nxcrën puck yra paprastas ir veiksmingas būdas iki 30 dienų palaikyti pisuarų gaivumą ir laisvą kanalizaciją.",
+      "variants": {
+        "whiteFresh": "baltas / fresh",
+        "blueFresh": "mėlynas / fresh"
+      },
+      "benefits": {
+        "0": "NON-PARA tabletė: be paradichlorbenzeno, kurį PSO klasifikuoja kaip galimai kancerogeninį",
+        "1": "Neleidžia kietosioms dalelėms ir kitoms šiukšlėms užkimšti kanalizacijos",
+        "2": "Po kiekvieno naudojimo iki 30 dienų skleidžia švarų, gaivų kvapą",
+        "3": "Idealiai tinka kasmėnesinei pisuarų priežiūrai",
+        "4": "Tabletė daugiausia iš vaško ir glicerino",
+        "5": "Vienkartinis: tabletės negalima pakeisti nauja",
+        "6": "Matmenys: 17 x 17 x 2,9 cm",
+        "7": "Supakuotas į dėžes iš 100 % perdirbto kartono",
+        "8": "Su priedu Eco-One™ biologiškai skaidus sąvartyne",
+        "9": "Naujas unikalus X dizainas",
+        "10": "Privatus prekės ženklas su jūsų logotipu, išpjautu medžiagoje arba atspausdintu"
+      },
+      "useCases": {
+        "0": "Compact washrooms",
+        "1": "Retrofit programs"
+      }
+    },
+    "ekcoMat": {
+      "name": "ëkco mat",
+      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "category": "ekonomiškas kilimėlis po pisuaru, saugantis grindis",
+      "short": "ëkco mat yra sugeriantis grindų kilimėlis po pisuaru, skirtas tualeto higienai gerinti ir grindims apsaugoti nuo šlapimo kaupimosi. Jo matmenys 54 x 51 x 0,5 cm, todėl jis veiksmingai uždengia plotą aplink daugumą standartinių pisuarų, apsaugo grindis nuo pažeidimų ir sumažina šlapimo pernešimą ant naudotojų batų padų. Tai padeda palaikyti švaresnį ir patogesnį tualetą.",
+      "long": "ëkco mat yra sugeriantis grindų kilimėlis po pisuaru, skirtas tualeto higienai gerinti ir grindims apsaugoti nuo šlapimo kaupimosi. Jo matmenys 54 x 51 x 0,5 cm, todėl jis veiksmingai uždengia plotą aplink daugumą standartinių pisuarų, apsaugo grindis nuo pažeidimų ir sumažina šlapimo pernešimą ant naudotojų batų padų. Tai padeda palaikyti švaresnį ir patogesnį tualetą.\n\nëkco mat yra ekonomiškas vienkartinis sprendimas, idealiai tinkantis restoranams, viešbučiams ir kitoms daug lankomoms vietoms, kuriose higiena yra prioritetas.\n\nëkco mat yra praktiškas, higieniškas ir biudžetui palankus sprendimas švarioms ir profesionalioms tualetų erdvėms palaikyti.",
+      "variants": {
+        "standard": "juodas"
+      },
+      "benefits": {
+        "0": "Apsaugo grindis po pisuaru",
+        "1": "Mažina šlapimo pernešimą ant batų padų",
+        "2": "Ekonomiškas higienos sprendimas",
+        "3": "Vienkartinis naudojimas",
+        "4": "Galimybė ženklinti privačiu prekės ženklu",
+        "5": "Matmenys: 54 x 51 x 0,5 cm"
+      },
+      "useCases": {
+        "0": "Entrances",
+        "1": "Service corridors"
+      }
+    }
+  },
+  "privateLabel": {
+    "hero": {
+      "eyebrow": "Platintojams",
+      "title": "„Private Label“ programa",
+      "lead": "Parduokite mūsų gaminius su savo prekės ženklu",
+      "body": "Plėskite savo verslą naudodami savo produktų liniją. Mūsų „Private Label“ programa leidžia platintojams į savo portfelį įtraukti patikrintų, našių prausyklos gaminių ir parduoti juos su savo prekės ženklu – nekuriant ar nenaudojant savo įrankių. Viskas, ko mums reikia, yra jūsų logotipas; visa kita pasirūpiname mes.",
+      "cta": "Tapk partneriu"
+    },
+    "why": {
+      "title": "Kam bendradarbiauti su mumis",
+      "items": {
+        "0": {
+          "title": "Patvirtinti sprendimai",
+          "body": "Kiekvienas produktas yra intensyvaus tobulinimo rezultatas ir sukurtas taip, kad veiktų optimaliai ir patikimai – asortimentą galite drąsiai vadinti savo vardu."
+        },
+        "1": {
+          "title": "Lengvas pritaikymas",
+          "body": "Mums reikia tik jūsų logotipo, kad galėtume pateikti daugybę produktų, kuriuos galite parduoti su savo prekės ženklu."
+        },
+        "2": {
+          "title": "Premium palaikymas",
+          "body": "Mes padėsime jums per visą procesą, kad galėtumėte išplėsti savo prekės ženklą ir pardavimus."
+        }
+      }
+    },
+    "ways": {
+      "title": "Du gaminių prekės ženklo būdai",
+      "print": {
+        "title": "Spausdintas prekės ženklas",
+        "body": "Jūsų logotipas atspausdintas tiesiai ant gaminio."
+      },
+      "cutout": {
+        "title": "Logotipo iškirpimas",
+        "body": "Jūsų logotipas integruotas į pačią medžiagą kaip unikalus iškirpimas – išskirtinė, aukščiausios kokybės apdaila, kurios nesiūlo joks kitas gamintojas, ir stiprus jūsų asortimento skirtumas."
+      }
+    },
+    "beyond": {
+      "title": "Tinkinkite ne tik produktą",
+      "packaging": {
+        "title": "Pakuotė ir etiketės",
+        "body": "Pridėkite savo logotipą, išsamią įmonės informaciją, produktų pavadinimus ir aprašymus, EAN kodus ir daugiau prie dėžučių, pagrindinių dėklų ar atskirų gaminių maišelių – paruošti mažmeninei prekybai su savo prekės ženklu."
+      },
+      "mix": {
+        "title": "Spalva ir kvapas",
+        "body": "Siūlykite savo išskirtinį spalvų ir kvapų derinį iš mūsų asortimento."
+      }
+    },
+    "goodToKnow": {
+      "title": "Gera žinoti",
+      "items": {
+        "0": "Minimalus užsakymo kiekis priklauso nuo konkretaus pasirinkto produkto.",
+        "1": "Vienkartinis nustatymo mokestis taikomas kiekvienam produktui, kurį norite pažymėti prekės ženklu – jis apima įrankius ir paruošimą, reikalingą jūsų prekės ženklui atkurti.",
+        "2": "Visi firminiai gaminiai gaminami pagal užsakymą, pagal jūsų specifikaciją.",
+        "3": "Suprasdami konkrečius jūsų reikalavimus, kartu su pasiūlymu pateikiame tikslius minimalius kiekius, kainas ir pristatymo laiką."
+      }
+    },
+    "form": {
+      "title": "Tapk partneriu",
+      "description": "Atsiųskite mums savo konkretų užklausą ir vienas iš mūsų pardavimo atstovų susisieks su jumis tiesiogiai ir aptars detales.",
+      "name": "Vardas",
+      "company": "Įmonės pavadinimas",
+      "email": "El. paštas",
+      "phone": "Telefonas",
+      "products": "Prekės privačiai etiketei",
+      "productsHint": "Įveskite produktų, kuriuos norite pažymėti prekės ženklu, kiekį. Jums nereikia pildyti kiekvieno produkto – detales aptarsime po jūsų užklausos.",
+      "quantity": "Kiekis (vnt.)",
+      "message": "Pranešimas",
+      "submit": "Siųsti žinutę",
+      "submitting": "Siunčiama…",
+      "success": "Ačiū – netrukus su jumis susisieksime.",
+      "error": "Kažkas nutiko. Po akimirkos bandykite dar kartą.",
+      "alertSelect": "Įveskite bent vieno produkto kiekį. Nereikia užsakyti kiekvienos prekės.",
+      "boundaryError": "Nepavyko įkelti užklausos formos. Atnaujinkite puslapį arba el. paštu support@ekcos.eu."
+    }
+  }
+}

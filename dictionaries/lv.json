@@ -1,0 +1,751 @@
+{
+  "Metadata": {
+    "title": "ëkcos — kļūstiet zaļš ar katru flush",
+    "description": "Mūsu pisuāru ieliktņi un atsvaidzinātāji ir izgatavoti, izmantojot pārstrādātu EVA. Pašu materiālu var pārstrādāt, bet lietotu pisuāra ieliktni nevar, jo tas ir bioloģiski piesārņots. Tas nonāk atkritumu poligonā vai tiek sadedzināts, tāpēc visiem mūsu produktiem pievienojam piedevu Eco-One™.",
+    "productsTitle": "Produkti",
+    "productsDescription": "Izpētiet ëkcos produktus: pārslēdziet modeļus, apdari un opcijas — pēc tam apmeklējiet oficiālo veikalu.",
+    "ecoOneTitle": "Eco-One™",
+    "ecoOneDescription": "Mūsu pisuāru ieliktņi un atsvaidzinātāji ir izgatavoti, izmantojot pārstrādātu EVA. Pašu materiālu var pārstrādāt, bet lietotu pisuāra ieliktni nevar, jo tas ir bioloģiski piesārņots. Tas nonāk atkritumu poligonā vai tiek sadedzināts, tāpēc visiem mūsu produktiem pievienojam piedevu Eco-One™.",
+    "brandingTitle": "Pielāgots zīmols",
+    "brandingDescription": "Privāts zīmols, izgriezumi un drukāšana B2B programmām.",
+    "articlesTitle": "Raksti",
+    "articlesDescription": "Ieskati, atjauninājumi un praktiski ceļveži no ëkcos komandas.",
+    "contactTitle": "Sazināties",
+    "contactDescription": "Sazinieties ar ëkcos komandu, lai uzzinātu specifikācijas, programmas un partnerības.",
+    "privateLabelTitle": "Privātā preču zīme",
+    "privateLabelDescription": "Pārdodiet ëkcos tualetes piederumus ar savu zīmolu — izplatītāju privāto zīmolu."
+  },
+  "LocaleSwitcher": {
+    "label": "Valoda",
+    "en": "English",
+    "es": "Spanish",
+    "fr": "French",
+    "de": "German",
+    "it": "Italian",
+    "cs": "Czech"
+  },
+  "nav": {
+    "aria": "Primārais",
+    "logoAlt": "ëkcos",
+    "openMenu": "Atvērt izvēlni",
+    "mobileMenuTitle": "Izvēlne",
+    "home": {
+      "label": "Sākums"
+    },
+    "products": {
+      "label": "Produkti"
+    },
+    "articles": {
+      "label": "Raksti"
+    },
+    "ecoOne": {
+      "label": "Eco-One™"
+    },
+    "customBranding": {
+      "label": "Pielāgots zīmols"
+    },
+    "contact": {
+      "label": "Sazināties"
+    },
+    "privateLabel": {
+      "label": "Privātā preču zīme"
+    },
+    "faq": {
+      "label": "FAQ"
+    }
+  },
+  "footer": {
+    "tagline": "Uzņēmums ëkcos innovations piedāvā higiēnas risinājumus, kas uztur tualetes tīras un svaigas, atvieglo apkopi un kuros izmantoti pārstrādāti, bioloģiski noārdāmi materiāli.",
+    "explore": "Izpētīt",
+    "newsletterTitle": "Biļetens",
+    "newsletterHint": "Produktu atjauninājumi un programmas jaunumi. Atteikties jebkurā laikā.",
+    "company": {
+      "title": "Uzņēmuma informācija",
+      "registryCode": "Uzņēmuma reģistrācijas kods (Igaunija)",
+      "vatIdCz": "PVN ID (Čehija)"
+    },
+    "copyright": "© {year} ëkcos. Visas tiesības paturētas.",
+    "legalNote": "Informācijas vietne. Pirkumi tiek veikti oficiālajā veikalā."
+  },
+  "common": {
+    "shop": "Veikals",
+    "shopCta": "Iepērcieties vietnē eshop.ekcos.eu",
+    "learnMore": "Uzziniet vairāk",
+    "getInTouch": "Sazinieties ar mums",
+    "ecoOne": "Eco-One™"
+  },
+  "productDetail": {
+    "backToMap": "Atpakaļ uz tualeti",
+    "buyNow": "Pērciet e-veikalā",
+    "price": "Cena",
+    "from": "no",
+    "variants": "Pieejamie varianti",
+    "colors": "Krāsas un smaržvielas",
+    "bases": "Sienu pamatnes",
+    "benefits": "Galvenās priekšrocības",
+    "more": "Sīkāka informācija",
+    "openDetails": "Atveriet detalizētus fotoattēlus",
+    "detailGallery": "Detalizēti fotoattēli — {name}",
+    "detailShot": "detaļa",
+    "boundaryError": "Šis produkta skats īslaicīgi nav pieejams. Lūdzu, mēģiniet vēlreiz."
+  },
+  "articles": {
+    "shopCta": {
+      "title": "Vai esat gatavs uzlabot savas tualetes?",
+      "body": "Pārlūkojiet ëkcos pisuāru ekrānus un piederumus oficiālajā veikalā.",
+      "button": "Veikals"
+    }
+  },
+  "newsletter": {
+    "popupTitle": "Esiet informēts",
+    "popupDescription": "Neregulāri atjauninājumi par produktiem, Eco-One™ un pielāgotām zīmola programmām.",
+    "emailLabel": "E-pasts",
+    "emailPlaceholder": "you@company.com",
+    "submit": "Abonēt",
+    "configureBrevo": "Reģistrēšanās informatīvajam izdevumam īslaicīgi nav pieejama. Lūdzu, vēlāk mēģiniet vēlreiz.",
+    "submitError": "Abonēšana neizdevās. Lūdzu, pēc brīža mēģiniet vēlreiz.",
+    "dismiss": "Ne tagad"
+  },
+  "home": {
+    "map": {
+      "aria": "Interaktīvā tualetes produktu karte",
+      "hint": "Noklikšķiniet uz produkta, lai uzzinātu vairāk",
+      "imageAlt": "ëkcos produkti, kas novietoti komerciālā tualetē"
+    },
+    "overlay": {
+      "moreVariants": "Veikalā pieejams arī vairākās krāsās un smaržās.",
+      "shopCta": "Pērciet e-veikalā",
+      "close": "Aizvērt"
+    },
+    "hero": {
+      "title": "Kļūsti zaļš ar katru flush",
+      "tagline": "Satur pārstrādātu EVA, ar Eco-One™ bioloģiski noārdās atkritumu poligonā",
+      "body": "Mūsu pisuāru ieliktņi un atsvaidzinātāji ir izgatavoti, izmantojot pārstrādātu EVA. Pašu materiālu var pārstrādāt, bet lietotu pisuāra ieliktni nevar, jo tas ir bioloģiski piesārņots.",
+      "ctaProducts": "Izpētiet produktus",
+      "brandMark": "ekcos.eu"
+    },
+    "benefits": {
+      "eco": {
+        "title": "Pārstrādāta EVA ar Eco-One™",
+        "body": "Bioloģiski noārdāmi produkti, kuros izmantots pārstrādāts EVA"
+      },
+      "hygiene": {
+        "title": "Higiēna bez kompromisiem",
+        "body": "Nodrošina tīrāku un ērtāku pieredzi, samazinot urīna izšļakstīšanos un nepatīkamās smakas."
+      },
+      "costs": {
+        "title": "Mazāka tīrīšana, zemākas izmaksas",
+        "body": "Līdz 60 svaiguma dienām nozīmē mazāku tīrīšanu un mazākus izdevumus."
+      },
+      "distributor": {
+        "title": "Oficiālais ES izplatītājs",
+        "body": "Tieša piekļuve oriģinālajiem Ekcos produktiem ar ātru piegādi un godīgām cenām."
+      },
+      "ecoLink": "Par Eco-One™"
+    },
+    "shipping": {
+      "title": "Ātra piegāde visā Eiropā",
+      "body": "Visas ëkcos preces tiek nosūtītas 1–2 darba dienu laikā pēc maksājuma apstiprināšanas. Pateicoties drošai un efektīvai piegādei visā ES, varat paļauties uz konsekventu sava uzņēmuma krājumu papildināšanu."
+    },
+    "productOfWeek": {
+      "title": "Nedēļas produkts",
+      "cta": "Pievienot grozam"
+    },
+    "productsTeaser": {
+      "title": "Atklājiet mūsu produktus",
+      "body": "Izpētiet xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco klipu un daudz ko citu — pēc tam atveriet oficiālo veikalu.",
+      "link": "Skatīt visus produktus"
+    },
+    "brandingTeaser": {
+      "title": "Pielāgots zīmols B2B",
+      "body": "Privāta marķēšana, izgriezumi un drukāšana konsekventām vairāku vietņu programmām.",
+      "link": "Pielāgots zīmols"
+    },
+    "trust": {
+      "title": "Paredzēts prasīgām telpām",
+      "body": "Uzticama higiēna un izcils iespaids uz vietas — no biroja līdz viesmīlībai."
+    },
+    "newsletter": {
+      "title": "Specifikācijas, palaišanas un programmu atjauninājumi",
+      "body": "Īss biļetens objektu komandām un partneriem. Nav nekārtības."
+    },
+    "finalCta": {
+      "title": "Sazinieties",
+      "body": "Vai jums ir jautājumi par produktiem, piegādi vai B2B pasūtījumiem? Nosūtiet mums ziņu - mēs esam priecīgi palīdzēt.",
+      "shop": "Iet uz veikalu",
+      "contact": "Nosūtīt ziņu"
+    },
+    "marketing": {
+      "featuresEyebrow": "Vienota platforma",
+      "featuresTitle": "Salīdziniet, izlemiet un pērciet ar pārliecību",
+      "featuresSubtitle": "Izpētiet apdari, pārskatiet faktus un atveriet veikalu, kad esat gatavs — viss vienā plūsmā.",
+      "featureInteractTitle": "Interaktīvā specifikācija",
+      "featureInteractBody": "Pārslēdziet modeļus, apdari un smaržas dažu sekunžu laikā — paredzēts objektiem un FM komandām.",
+      "featureProofTitle": "Fakti, ar kuriem varat dalīties",
+      "featureProofBody": "Notīriet Eco-One™ lejupielādes, lai jūsu komanda varētu izskaidrot izvēli kolēģiem vai klientiem.",
+      "featureB2bTitle": "Programmas, kas ir mērogotas",
+      "featureB2bBody": "Pielāgots zīmols un B2B pasūtīšana izlaišanai, kam nepieciešama konsekvence, ātrums un pieslīpēts izskats uz vietas.",
+      "numbersEyebrow": "Pēc skaitļiem",
+      "numbersTitle": "Darbības skaidrība, augstākās kvalitātes prezentācija",
+      "statProductsLabel": "Produktu ģimenes, ko izpētīt",
+      "statTechLabel": "Eco-One™ fakti un lejupielādes",
+      "statShopLabel": "Oficiālais veikals",
+      "galleryEyebrow": "Sastāvs",
+      "galleryTitle": "Fotogrāfija no kataloga",
+      "gallerySubtitle": "Īsta produktu fotogrāfija priekšlikumiem, prezentācijām un pamācībām."
+    }
+  },
+  "ecoOne": {
+    "hero": {
+      "title": "Eco-One™ poligonu bioloģiskajai noārdīšanai",
+      "tagline": "Tas pats produkts. Tas pats sniegums. Izgatavots no pārstrādātas EVA un Eco-One™.",
+      "body": "Mūsu pisuāru ieliktņi un atsvaidzinātāji ir izgatavoti, izmantojot pārstrādātu EVA. Pašu materiālu var pārstrādāt, bet lietotu pisuāra ieliktni nevar, jo tas ir bioloģiski piesārņots. Tas nonāk atkritumu poligonā vai tiek sadedzināts, tāpēc visiem mūsu produktiem pievienojam piedevu Eco-One™. Neatkarīgā testā saskaņā ar ASTM D5511 un ISO 15985, kas veikts Instituto Politécnico Nacional Mehiko, ëkcos EVA ar Eco-One™ 3,5 gadu laikā sasniedza 93 % bioloģisko noārdīšanos, bet tas pats materiāls bez piedevas uzrādīja 0 %. Tiek prognozēts, ka 5 gadu laikā bioloģiskā noārdīšanās sasniegs līdz 99 %. Mūsu kastes ir izgatavotas no 100 % pārstrādāta kartona."
+    },
+    "metrics": {
+      "additive": {
+        "value": "~1%",
+        "label": "piedevu saturs"
+      },
+      "measured": {
+        "value": "~3,5 gadi",
+        "label": "līdz 93% bioloģiskās noārdīšanās"
+      },
+      "projected": {
+        "value": "līdz 99%",
+        "label": "~5 gadu laikā"
+      }
+    },
+    "problem": {
+      "title": "Kāpēc parastā plastmasa ir problēma",
+      "body": "Parastie plastmasas izstrādājumi ir izstrādāti tā, lai tie būtu izturīgi. Bez bioloģiskās noārdīšanās piedevas plastmasas izstrādājums, kas tiek nosūtīts uz poligonu, var palikt tur <bold>300 līdz 1000 gadus</bold>; putuplasta “Crocs stila” koka tupeles ir pazīstams plastmasas piemērs, kas <bold>nav bioloģiski noārdāms</bold>. Mūsu produkti ir izgatavoti no tāda paša veida izturīgas plastmasas (EVA), taču ar vienu būtisku atšķirību: Eco-One™ piedevu.",
+      "chartAlt": "Produkti bez Eco-One™, salīdzinot ar ëkcos produktiem, kas satur piedevu",
+      "chartCaption": "Produkti bez Eco-One™ salīdzinājumā ar ëkcos produktiem, kas satur piedevu.",
+      "chart": {
+        "ariaLabel": "Gadu salīdzinājums noārdīšanai poligonā",
+        "withoutLabel": "Produkti bez Eco-One™",
+        "withLabel": "ëkcos ar Eco-One™",
+        "withoutValue": "300-1000 gadi",
+        "withValue": "3,5-5 gadi",
+        "withoutDetail": "Bez bioloģiskās noārdīšanās piedevas parastā plastmasa var palikt poligonā gadsimtiem ilgi.",
+        "withDetail": "Izmantojot piedevu Eco-One™, neatkarīgas pārbaudes uzrāda ~ 93% bioloģisko noārdīšanos aptuveni 3,5 gadu laikā un līdz 99% piecu gadu laikā.",
+        "axisLabel": "Gadi līdz sadalīšanai (poligons)",
+        "caption": "Produkti bez Eco-One™ salīdzinājumā ar ëkcos produktiem, kas satur piedevu.",
+        "scaleLabel": "Diagrammas mērogs",
+        "scaleFull": "0–1000 g",
+        "scaleZoom": "0-10 gadi",
+        "clippedNote": "turpinās →"
+      }
+    },
+    "solution": {
+      "title": "Mūsu risinājums: Eco-One™ piedeva",
+      "body1": "Ražošanas laikā mēs iekļaujam aptuveni <bold>1% Eco-One™</bold> — organisku piedevu, kas tiek dozēta tāpat kā krāsviela. Tas neietekmē produkta izturību, izskatu vai veiktspēju.",
+      "body2": "Bioloģiski aktīvā poligonā dabiski sastopami mikroorganismi fermentatīvās aktivitātes rezultātā noārda apstrādāto plastmasu, pārvēršot to biogāzē (<bold>metānā</bold>, ko mūsdienu poligonos uztver enerģijas reģenerācijai), oglekļa dioksīdā un humusā.",
+      "body3": "Tā kā produkts galu galā sadalās humusā, tas atdod organiskās vielas atkritumu poligonā un palīdz paātrināt tur jau notiekošos bioķīmiskos procesus. Tāpēc produkts <bold> sniedz ieguldījumu ne tikai tā kalpošanas laikā, bet arī pēc tā</bold>."
+    },
+    "testing": {
+      "title": "Neatkarīga pārbaude",
+      "body": "Produkts tika pārbaudīts neatkarīgā laboratorijā atbilstoši starptautiskajiem standartiem <bold>ASTM D5511 un ISO 15985</bold>, salīdzinot to pašu produktu ar un bez piedevas Eco-One™. Izmantojot Eco-One™, tas sasniedza <bold>93,31% bioloģisko noārdīšanos aptuveni 3,5 gadu laikā un līdz 99% piecu gadu laikā</bold>; bez Eco-One™ produkts neuzrādīja izmērāmu bioloģisko noārdīšanos.",
+      "barChart": {
+        "ariaLabel": "Bioloģiskā noārdīšanās aptuveni 3,5 gadu laikā ar un bez Eco-One™",
+        "yAxis": "Bioloģiskā noārdīšanās (%)",
+        "withLabel": "ëkcos ar Eco-One™",
+        "withoutLabel": "Produkti bez Eco-One™",
+        "withDetail": "93,31% bioloģiskā noārdīšanās, kas mērīta neatkarīgā ASTM D5511 / ISO 15985 laboratorijas testā pēc aptuveni 3,5 gadiem.",
+        "withoutDetail": "Tas pats produkts bez Eco-One™ neuzrādīja izmērāmu bionoārdīšanos tajā pašā testa periodā.",
+        "subtitle": "Tas pats produkts · tas pats laboratorijas tests (ASTM D5511 / ISO 15985) · ~3,5 gadi"
+      },
+      "timelineChart": {
+        "ariaLabel": "Bioloģiskā noārdīšanās piecu gadu laikā ar un bez Eco-One™",
+        "yAxis": "Bioloģiskā noārdīšanās (%)",
+        "xAxis": "Gadiem",
+        "withLabel": "ëkcos ar Eco-One™",
+        "withoutLabel": "Produkti bez Eco-One™",
+        "zeroNote": "0% visu laiku",
+        "measured": "izmērīts",
+        "projected": "prognozēts",
+        "yearsUnit": "g.g",
+        "projectedNote": "Projicēts no izmērītās tendences",
+        "caption": "Bioloģiskā noārdīšanās ar un bez piedevas Eco-One™. Vērtības, kas pārsniedz 3,5 gadus, tiek prognozētas no izmērītās tendences."
+      }
+    },
+    "closing": {
+      "title": "ëkcos produkti ar Eco-One™",
+      "body": "Mūsu tualetes produkti tiek ražoti ar Eco-One™ piedevu. Neatkarīgā laboratorijas pārbaudē ëkcos EVA ar Eco-One™ sasniedza 93% bioloģisko noārdīšanos 3,5 gadu laikā, un līdz 99% tiek prognozēts 5 gadu laikā poligona apstākļos — ar veiktspēju identiski produktiem bez piedevas.",
+      "shopCta": "Veikals"
+    },
+    "footnote": "Datu avots: neatkarīgs bioloģiskās noārdīšanās tests atbilstoši ASTM D5511-02 un ISO 15985:2014 (Instituto Politécnico Nacional, Mehiko) — ëkcos produkts ar 1% Eco-One™ piedevu: 93,31% bioloģiskā noārdīšanās. 1,283 dienās (≈283 dienās); tas pats produkts bez piedevas: 0%. Bioloģiskā noārdīšanās pēc testa perioda (līdz 99% ~ 5 gadu laikā) tiek prognozēta no izmērītās tendences. Parastās plastmasas noturības rādītāji (≈300–1000 gadi) ir plaši citēti nozares aprēķini. Eco-One™ piedevu ražo un sertificē EcoLogic, LLC."
+  },
+  "customBranding": {
+    "hero": {
+      "eyebrow": "B2B specifikācija",
+      "title": "Pielāgots zīmols",
+      "subtitle": "Privāta marķēšana, izgriezumi un drukāšana vairāku vietņu zīmolu programmām."
+    },
+    "introEyebrow": "Programmas pārskats",
+    "introTitle": "Specifikāciju vadīts zīmols",
+    "intro": "Mēs palīdzam jums ieviest jūsu zīmolu rūpnīcas līmeņa produktam: skaidras specifikācijas, stabila ražošana un dokumenti, ko jūsu komanda var nodot auditoriem vai klientiem.",
+    "sections": {
+      "private": {
+        "title": "Privātais zīmols",
+        "body": "Jūsu mākslas darbi tiek konsekventi apstrādāti no apstiprināšanas līdz ražošanai — lai katra partija atbilstu jūsu zīmolam."
+      },
+      "cutouts": {
+        "title": "Pielāgoti izgriezumi",
+        "body": "Formas atveres un padziļinājumi, kas atbilst īstām ķermeņiem un kā jūsu komandas tos uzstāda."
+      },
+      "print": {
+        "title": "Drukāšanas iespējas",
+        "body": "Izturīga druka, kas paliek salasāma uz izstrādājuma ikdienas lietošanas laikā."
+      }
+    },
+    "pricing": {
+      "title": "Komerciālie noteikumi",
+      "description": "Publicētās maksas: vienreizēja iestatīšana, katras vienības zīmols un izvēles iepakojuma etiķetes.",
+      "entryFee": "Vienreizēja dalības maksa",
+      "brandingCost": "Zīmola izmaksas",
+      "packagingLabels": "Pielāgotas etiķetes uz iepakojuma"
+    },
+    "standardMoq": {
+      "title": "MOQ standarta zīmolam",
+      "description": "Minimālie pasūtījumu daudzumi standarta zīmolu programmām ar logotipa izgriezumiem vai drukāšanu.",
+      "productLabel": "Produkts",
+      "moqLabel": "MOQ [gab.]",
+      "note": "* Ja vēlaties pasūtīt tikai Fresh Drop bāzes, MOQ ir 288 gab."
+    },
+    "customMix": {
+      "title": "Pielāgots krāsu un smaržu maisījums",
+      "description": "Mēs varam izgatavot pielāgotu aromātu un krāsu kombināciju no mūsu klāsta. Minimālais pasūtījuma daudzums atbilst katra pielāgotā produkta pilnai paletei.",
+      "productLabel": "Produkts",
+      "moqLabel": "MOQ [gab.]",
+      "note": "* Basic Screen MOQ ir paredzēts pusei paletei."
+    },
+    "production": {
+      "title": "Ražošana, piegādes laiks un samaksa"
+    },
+    "process": {
+      "title": "Vienkāršs process",
+      "steps": {
+        "0": "Mēs vienojamies par apjomiem, reģioniem un laiku.",
+        "1": "Jūs apstiprināt mākslas darbus, materiālus un apdari.",
+        "2": "Mēs ražojam ar kvalitātes pārbaudēm katrā posmā.",
+        "3": "Mēs nosūtām uz jūsu vietnēm pēc jums nepieciešamā grafika."
+      }
+    },
+    "inquiry": {
+      "title": "Pieprasīt informāciju",
+      "hint": "Pastāstiet mums par apjomiem, reģioniem un zīmola prasībām."
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Tehniskais un komerciālais atbalsts",
+      "title": "Sazināties",
+      "subtitle": "Jautājiet mums par Eco-One™, specifikācijām vai B2B programmām — veiciet pasūtījumus jebkurā laikā oficiālajā veikalā."
+    },
+    "details": {
+      "title": "Sazināties",
+      "email": "E-pasts",
+      "phone": "Tālrunis",
+      "hours": "Stundas",
+      "hoursValue": "Pirmdiena–piektdiena, 09:00–17:00 CET"
+    },
+    "company": {
+      "title": "Reģistrētā uzņēmuma informācija",
+      "registryCode": "Uzņēmuma reģistrācijas kods (Igaunija)",
+      "vatIdCz": "PVN ID (Čehija)"
+    },
+    "form": {
+      "name": "Vārds",
+      "company": "Uzņēmums",
+      "email": "E-pasts",
+      "phone": "Tālrunis",
+      "message": "Ziņojums",
+      "submit": "Nosūtīt ziņu",
+      "success": "Paldies — mēs drīzumā ar jums sazināsimies.",
+      "error": "Kaut kas nogāja greizi. Lūdzu, mēģiniet vēlreiz."
+    }
+  },
+  "products": {
+    "page": {
+      "title": "Products",
+      "intro": "Switch models and finishes, then buy in the official store.",
+      "heroEyebrow": "Explore the range",
+      "heroTitle": "Configure every line in one place",
+      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroLinkEco": "About Eco-One™",
+      "heroLinkBranding": "Custom branding"
+    },
+    "configurator": {
+      "color": "Finish",
+      "selectProduct": "Select product",
+      "fragrance": "Fragrance options",
+      "benefits": "Benefits",
+      "productBenefits": "Product benefits",
+      "availableColorsFragrances": "Available colors & fragrances",
+      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
+      "byBrand": "by ëkcos",
+      "siteUrl": "www.ekcos.eu",
+      "useCases": "Typical applications",
+      "brandingNote": "Custom branding available for qualified orders."
+    },
+    "colors": {
+      "white": "White",
+      "grey": "Grey",
+      "black": "Black",
+      "blue": "Blue"
+    },
+    "fragrances": {
+      "fresh": "Fresh",
+      "citrus": "Citrus"
+    },
+    "variantLabels": {
+      "x1p": "violets / meža ogas",
+      "x2g": "zaļš / ābols",
+      "x3b": "zils / fresh",
+      "x4o": "oranžs / tropu augļi",
+      "x6c": "caurspīdīgs / tropu augļi",
+      "x7bk": "melns / piparmētra",
+      "x8bm": "ugunssarkans / mango",
+      "x9g": "zaļš / priede",
+      "x10r": "sarkans / melone",
+      "x12p": "violets / lavanda",
+      "x13c": "dzeltens / citrusaugļi"
+    },
+    "xcrenHd": {
+      "name": "xcrën HD",
+      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "category": "dizaina pisuāra ieliktnis ar ekstrēmu aizsardzību pret šļakatām",
+      "badge": "dizaina pisuāra ieliktnis ar ekstrēmu aizsardzību pret šļakatām",
+      "short": "xcrën HD 60+ ir aromatizēts pisuāra ieliktnis ar patentētu formu, kas pisuārā izceļas. Atšķirībā no parastajiem ovālajiem ieliktņiem tas pārvērš pisuāru par dizaina elementu. Tā patentētie sariņi (Sealed Bristles Technology™) klāj 92 % ieliktņa virsmas un samazina urīna šļakatas un nepatīkamas smakas līdz minimumam. Tas ir izgatavots no pašu izstrādāta materiāla, kas piesūcināts ar aromātu uz dezodoranta bāzes, un pakāpeniski izdala aromātu 60+ dienas. Tualetēs ar mazu apmeklētību tas kalpo vēl ilgāk.",
+      "long": "xcrën HD 60+ ir aromatizēts pisuāra ieliktnis ar patentētu formu, kas pisuārā izceļas. Atšķirībā no parastajiem ovālajiem ieliktņiem tas pārvērš pisuāru par dizaina elementu. Tā patentētie sariņi (Sealed Bristles Technology™) klāj 92 % ieliktņa virsmas un samazina urīna šļakatas un nepatīkamas smakas līdz minimumam. Tas ir izgatavots no pašu izstrādāta materiāla, kas piesūcināts ar aromātu uz dezodoranta bāzes, un pakāpeniski izdala aromātu 60+ dienas. Tualetēs ar mazu apmeklētību tas kalpo vēl ilgāk.\n\nxcrën HD 60+ ir paredzēts tualetēm ar lielu apmeklētību restorānos, bāros, lidostās un tirdzniecības centros. Tas apvieno higiēnu ar izskatu, kas izceļ tualeti.\n\nxcrën HD 60+ ir izgatavots, izmantojot pārstrādātu EVA. Pašu materiālu var pārstrādāt, bet lietotu pisuāra ieliktni nevar, jo tas ir bioloģiski piesārņots. Tas nonāk atkritumu poligonā vai tiek sadedzināts, tāpēc xcrën HD 60+ satur piedevu Eco-One™. Neatkarīgā laboratorijas testā ëkcos EVA ar Eco-One™ 3,5 gadu laikā sasniedza 93 % bioloģisko noārdīšanos, un tiek prognozēts, ka 5 gadu laikā tā sasniegs līdz 99 %.\n\nxcrën HD 60+ apvieno spēcīgu aizsardzību pret šļakatām, aromātu 60+ dienas un patentētu dizainu, kas izceļas jebkurā tualetē.",
+      "benefits": {
+        "0": "Patentēta forma, kas izceļas uz parasto ovālo ieliktņu fona",
+        "1": "Patentēti sariņi pret šļakatām klāj 92 % ieliktņa virsmas, palīdz pasargāt lietotājus no nevēlamām šļakatām un uztur apkārtni tīrāku",
+        "2": "Pašu izstrādāts materiāls, piesūcināts ar aromātu uz dezodoranta bāzes, kas pakāpeniski izdalās 60+ dienas",
+        "3": "Aromāts saglabājas divreiz ilgāk nekā standarta 30 dienu ieliktņiem",
+        "4": "Īpaši paredzēts tualetēm ar lielu apmeklētību, piemēram, restorānos, bāros, lidostās, tirdzniecības centros u. c.",
+        "5": "Satur pārstrādātu EVA, ar Eco-One™ bioloģiski noārdās atkritumu poligonā",
+        "6": "Iepakots kastēs no 100 % pārstrādāta kartona",
+        "7": "Lieliski piemērots bezūdens pisuāriem",
+        "8": "Izmēri: 17 x 18 x 2,1 cm",
+        "9": "Plaša krāsu un patīkamu aromātu izvēle",
+        "10": "Privātais zīmols ar jūsu logotipu, izgrieztu materiālā vai uzdrukātu"
+      },
+      "variants": {
+        "xhd1p": "violets / meža ogas",
+        "xhd2g": "zaļš / ābols",
+        "xhd3b": "zils / fresh",
+        "xhd4o": "oranžs / tropu augļi",
+        "xhd6c": "caurspīdīgs / tropu augļi",
+        "xhd7bk": "melns / piparmētra",
+        "xhd8bm": "ugunssarkans / mango",
+        "xhd9g": "zaļš / priede",
+        "xhd10r": "sarkans / melone",
+        "xhd12p": "violets / lavanda",
+        "xhd13c": "dzeltens / citrusaugļi"
+      },
+      "useCases": {
+        "0": "Corporate offices",
+        "1": "Hotels and hospitality"
+      }
+    },
+    "ekcoscreen": {
+      "name": "ëkcoscreen",
+      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "masīvs pisuāra ieliktnis pret šļakatām ar divreiz ilgāku aromātu",
+      "short": "ëkcoscreen 60+ ir aromatizēts pisuāra ieliktnis ar patentētiem sariņiem (Sealed Bristles Technology™), kas klāj 95 % ieliktņa virsmas. Tas samazina urīna šļakatas un nepatīkamas smakas līdz minimumam, lai tualete būtu tīrāka un ērtāka. Tas ir izgatavots no pašu izstrādāta materiāla, kas piesūcināts ar aromātu uz dezodoranta bāzes, un pakāpeniski izdala aromātu 60+ dienas, divreiz ilgāk nekā standarta 30 dienu ieliktņi. Tualetēs ar mazu apmeklētību tas kalpo vēl ilgāk.",
+      "long": "ëkcoscreen 60+ ir aromatizēts pisuāra ieliktnis ar patentētiem sariņiem (Sealed Bristles Technology™), kas klāj 95 % ieliktņa virsmas. Tas samazina urīna šļakatas un nepatīkamas smakas līdz minimumam, lai tualete būtu tīrāka un ērtāka. Tas ir izgatavots no pašu izstrādāta materiāla, kas piesūcināts ar aromātu uz dezodoranta bāzes, un pakāpeniski izdala aromātu 60+ dienas, divreiz ilgāk nekā standarta 30 dienu ieliktņi. Tualetēs ar mazu apmeklētību tas kalpo vēl ilgāk.\n\nëkcoscreen 60+ ir paredzēts tualetēm ar lielu apmeklētību restorānos, bāros, lidostās, tirdzniecības centros un citās vietās, kur svarīga higiēna. Tas uzlabo tīrību un smaku kontroli.\n\nëkcoscreen 60+ ir izgatavots, izmantojot pārstrādātu EVA. Pašu materiālu var pārstrādāt, bet lietotu pisuāra ieliktni nevar, jo tas ir bioloģiski piesārņots. Tas nonāk atkritumu poligonā vai tiek sadedzināts, tāpēc ëkcoscreen 60+ satur piedevu Eco-One™. Neatkarīgā laboratorijas testā ëkcos EVA ar Eco-One™ 3,5 gadu laikā sasniedza 93 % bioloģisko noārdīšanos, un tiek prognozēts, ka 5 gadu laikā tā sasniegs līdz 99 %.\n\nëkcoscreen 60+ apvieno efektīvu aizsardzību pret šļakatām, aromātu 60+ dienas un pārstrādātu, bioloģiski noārdāmu EVA tualetēm ar lielu apmeklētību.",
+      "benefits": {
+        "0": "Patentēti sariņi pret šļakatām klāj 95 % ieliktņa virsmas, palīdz pasargāt lietotājus no nevēlamām šļakatām un uztur apkārtni tīrāku",
+        "1": "Salīdzinošā UV šļakatu testā identiskos apstākļos ārpus ieliktņa nebija redzamu šļakatu",
+        "2": "Pašu izstrādāts materiāls, piesūcināts ar aromātu uz dezodoranta bāzes, kas pakāpeniski izdalās 60+ dienas",
+        "3": "Aromāts saglabājas divreiz ilgāk nekā 30 dienu ieliktņiem, ar līdzīgām izmaksām dienā",
+        "4": "141 g aromatizēta materiāla katrā ieliktnī, vairāk nekā trīsreiz vairāk nekā parastā ieliktnī",
+        "5": "Īpaši paredzēts tualetēm ar lielu apmeklētību, piemēram, restorānos, bāros, lidostās, tirdzniecības centros u. c.",
+        "6": "Satur pārstrādātu EVA, ar Eco-One™ bioloģiski noārdās atkritumu poligonā",
+        "7": "Iepakots kastēs no 100 % pārstrādāta kartona",
+        "8": "Ideāli piemērots bezūdens pisuāriem",
+        "9": "Izmēri: 20 x 21 x 2,2 cm",
+        "10": "Unikāls dizains, plaša krāsu izvēle un patīkami aromāti",
+        "11": "Privātais zīmols ar jūsu logotipu, izgrieztu materiālā vai uzdrukātu"
+      },
+      "useCases": {
+        "0": "Retail",
+        "1": "Public buildings"
+      }
+    },
+    "powerscreen": {
+      "name": "powër screen",
+      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "category": "jaudīgs pisuāra ieliktnis pret šļakatām ikmēneša maiņai",
+      "short": "powër screen ir aromatizēts pisuāra ieliktnis ar patentētu sariņu sistēmu (Sealed Bristles Technology™). Tas samazina urīna šļakatas un nepatīkamas smakas līdz minimumam, lai tualete būtu tīrāka un ērtāka. Tas ir izgatavots no pašu izstrādāta materiāla, kas piesūcināts ar aromātu uz dezodoranta bāzes, un pakāpeniski izdala aromātu līdz 30 dienām, tāpēc ir ideāli piemērots pisuāru ikmēneša apkopei.",
+      "long": "powër screen ir aromatizēts pisuāra ieliktnis ar patentētu sariņu sistēmu (Sealed Bristles Technology™). Tas samazina urīna šļakatas un nepatīkamas smakas līdz minimumam, lai tualete būtu tīrāka un ērtāka. Tas ir izgatavots no pašu izstrādāta materiāla, kas piesūcināts ar aromātu uz dezodoranta bāzes, un pakāpeniski izdala aromātu līdz 30 dienām, tāpēc ir ideāli piemērots pisuāru ikmēneša apkopei.\n\npowër screen ir izgatavots, izmantojot pārstrādātu EVA. Pašu materiālu var pārstrādāt, bet lietotu pisuāra ieliktni nevar, jo tas ir bioloģiski piesārņots. Tas nonāk atkritumu poligonā vai tiek sadedzināts, tāpēc powër screen satur piedevu Eco-One™. Neatkarīgā laboratorijas testā ëkcos EVA ar Eco-One™ 3,5 gadu laikā sasniedza 93 % bioloģisko noārdīšanos, un tiek prognozēts, ka 5 gadu laikā tā sasniegs līdz 99 %.\n\npowër screen apvieno efektīvu aizsardzību pret šļakatām, aromātu līdz 30 dienām un pārstrādātu, bioloģiski noārdāmu EVA tualešu ikmēneša apkopei.",
+      "benefits": {
+        "0": "Patentēti sariņi pret šļakatām palīdz pasargāt lietotājus no nevēlamām šļakatām un uztur apkārtni tīrāku",
+        "1": "Pašu izstrādāts materiāls, piesūcināts ar aromātu uz dezodoranta bāzes, kas pakāpeniski izdalās līdz 30 dienām",
+        "2": "Ideāli piemērots pisuāru ikmēneša apkopei",
+        "3": "Satur pārstrādātu EVA, ar Eco-One™ bioloģiski noārdās atkritumu poligonā",
+        "4": "Iepakots kastēs no 100 % pārstrādāta kartona",
+        "5": "Piemērots bezūdens pisuāriem",
+        "6": "Elastīgā forma der gandrīz visu veidu pisuāriem",
+        "7": "Dizains, kas uzlabo jebkuras tualetes izskatu",
+        "8": "Izmēri: 18 x 20 x 1,8 cm",
+        "9": "Unikāls dizains, plaša krāsu izvēle un patīkami aromāti",
+        "10": "Privātais zīmols ar jūsu logotipu, izgrieztu materiālā vai uzdrukātu"
+      },
+      "useCases": {
+        "0": "Stadiums",
+        "1": "Transport hubs"
+      }
+    },
+    "basicScreen": {
+      "name": "basic scrëen",
+      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "category": "budžeta pisuāra ieliktnis, bioloģiski noārdāms atkritumu poligonā",
+      "short": "basic scrëen ir izdevīgs pisuāra ieliktnis, kas dezodorē pisuārus un novērš gružu uzkrāšanos. Tas ir izgatavots no pašu izstrādāta materiāla, kas piesūcināts ar aromātu uz dezodoranta bāzes, un pakāpeniski izdala aromātu līdz 30 dienām, tāpēc ir ideāli piemērots pisuāru ikmēneša apkopei.",
+      "long": "basic scrëen ir izdevīgs pisuāra ieliktnis, kas dezodorē pisuārus un novērš gružu uzkrāšanos. Tas ir izgatavots no pašu izstrādāta materiāla, kas piesūcināts ar aromātu uz dezodoranta bāzes, un pakāpeniski izdala aromātu līdz 30 dienām, tāpēc ir ideāli piemērots pisuāru ikmēneša apkopei.\n\nbasic scrëen ir izgatavots, izmantojot pārstrādātu EVA. Pašu materiālu var pārstrādāt, bet lietotu pisuāra ieliktni nevar, jo tas ir bioloģiski piesārņots. Tas nonāk atkritumu poligonā vai tiek sadedzināts, tāpēc basic scrëen satur piedevu Eco-One™. Neatkarīgā laboratorijas testā ëkcos EVA ar Eco-One™ 3,5 gadu laikā sasniedza 93 % bioloģisko noārdīšanos, un tiek prognozēts, ka 5 gadu laikā tā sasniegs līdz 99 %.\n\nbasic scrëen apvieno uzticamu smaku kontroli, aizsardzību pret gružiem un pārstrādātu, bioloģiski noārdāmu EVA par zemu cenu.",
+      "benefits": {
+        "0": "Pašu izstrādāts materiāls, piesūcināts ar aromātu uz dezodoranta bāzes, kas izdalās pakāpeniski",
+        "1": "Aromāts izdalās līdz 30 dienām",
+        "2": "Ideāli piemērots pisuāru ikmēneša apkopei",
+        "3": "Piemērots bezūdens pisuāriem",
+        "4": "Elastīgā forma der gandrīz visu veidu pisuāriem",
+        "5": "Izmēri: 20 x 19 cm",
+        "6": "Unikāls dizains, plaša krāsu izvēle un patīkami aromāti",
+        "7": "Izdevīgs risinājums pisuāru ikmēneša higiēnai",
+        "8": "Satur pārstrādātu EVA, ar Eco-One™ bioloģiski noārdās atkritumu poligonā",
+        "9": "Piegādāts kastēs no 100 % pārstrādāta kartona",
+        "10": "Privātais zīmols ar jūsu logotipu, izgrieztu materiālā vai uzdrukātu"
+      },
+      "useCases": {
+        "0": "Schools",
+        "1": "Light commercial"
+      }
+    },
+    "urolite": {
+      "name": "üro lite",
+      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "mazs pisuāra ieliktnis, liela aizsardzība pret šļakatām",
+      "short": "üro lite ir elastīgs aromatizēts pisuāra ieliktnis, kas paredzēts mazākiem pisuāriem. Tajā izmantota tā pati patentētā Sealed Bristles Technology™ kā ieliktnī ëkcoscreen 60+, un lielāka diametra vietā tas paļaujas uz gariem sariņiem, kas mazā ieliktnī nodrošina lielu aizsardzību pret šļakatām. Tas samazina urīna šļakatas un nepatīkamas smakas līdz minimumam. Tas ir izgatavots no pašu izstrādāta materiāla, kas piesūcināts ar aromātu uz dezodoranta bāzes, un pakāpeniski izdala aromātu līdz 30 dienām, tāpēc ir ideāli piemērots pisuāru ikmēneša apkopei.",
+      "long": "üro lite ir elastīgs aromatizēts pisuāra ieliktnis, kas paredzēts mazākiem pisuāriem. Tajā izmantota tā pati patentētā Sealed Bristles Technology™ kā ieliktnī ëkcoscreen 60+, un lielāka diametra vietā tas paļaujas uz gariem sariņiem, kas mazā ieliktnī nodrošina lielu aizsardzību pret šļakatām. Tas samazina urīna šļakatas un nepatīkamas smakas līdz minimumam. Tas ir izgatavots no pašu izstrādāta materiāla, kas piesūcināts ar aromātu uz dezodoranta bāzes, un pakāpeniski izdala aromātu līdz 30 dienām, tāpēc ir ideāli piemērots pisuāru ikmēneša apkopei.\n\nüro lite ir izgatavots, izmantojot pārstrādātu EVA. Pašu materiālu var pārstrādāt, bet lietotu pisuāra ieliktni nevar, jo tas ir bioloģiski piesārņots. Tas nonāk atkritumu poligonā vai tiek sadedzināts, tāpēc üro lite satur piedevu Eco-One™. Neatkarīgā laboratorijas testā ëkcos EVA ar Eco-One™ 3,5 gadu laikā sasniedza 93 % bioloģisko noārdīšanos, un tiek prognozēts, ka 5 gadu laikā tā sasniegs līdz 99 %.\n\nüro lite ar unikāliem patentētiem gariem sariņiem nodrošina mazākiem pisuāriem lielu aizsardzību pret šļakatām kompaktā, izdevīgā ieliktnī, kurā izmantots pārstrādāts, bioloģiski noārdāms EVA.",
+      "benefits": {
+        "0": "Unikāli patentēti gari sariņi palīdz pasargāt lietotājus no šļakatām un uztur apkārtni tīrāku",
+        "1": "Tā pati patentētā Sealed Bristles Technology™ kā ieliktnī ëkcoscreen 60+",
+        "2": "Pašu izstrādāts materiāls, piesūcināts ar aromātu uz dezodoranta bāzes, kas pakāpeniski izdalās līdz 30 dienām",
+        "3": "Kompakts izmērs, īpaši paredzēts mazākiem pisuāriem",
+        "4": "Ideāli piemērots pisuāru ikmēneša apkopei",
+        "5": "Piemērots bezūdens pisuāriem",
+        "6": "Satur pārstrādātu EVA, ar Eco-One™ bioloģiski noārdās atkritumu poligonā",
+        "7": "Iepakots kastēs no 100 % pārstrādāta kartona",
+        "8": "Izmēri: 13 x 13 x 1,8 cm",
+        "9": "Unikāls dizains, plaša krāsu izvēle un patīkami aromāti",
+        "10": "Privātais zīmols ar jūsu logotipu, izgrieztu materiālā vai uzdrukātu"
+      },
+      "useCases": {
+        "0": "Boutique hospitality",
+        "1": "Premium office"
+      }
+    },
+    "ekcoClip": {
+      "name": "ëkco clip",
+      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "category": "WC poda atsvaidzinātājs ar klipsi, kas der gandrīz jebkuram podam",
+      "short": "ëkco clip ir WC poda atsvaidzinātājs ar klipsi, kas nepārtraukti kontrolē smakas un uztur tualetes kabīnes svaigas. Tas ir izgatavots no pašu izstrādāta materiāla, kas piesūcināts ar aromātu uz dezodoranta bāzes, un pakāpeniski izdala aromātu līdz 30 dienām. Elastīgā konstrukcija der lielākajai daļai WC podu, tāpēc to ir viegli piestiprināt un tas labi izplata aromātu.",
+      "long": "ëkco clip ir WC poda atsvaidzinātājs ar klipsi, kas nepārtraukti kontrolē smakas un uztur tualetes kabīnes svaigas. Tas ir izgatavots no pašu izstrādāta materiāla, kas piesūcināts ar aromātu uz dezodoranta bāzes, un pakāpeniski izdala aromātu līdz 30 dienām. Elastīgā konstrukcija der lielākajai daļai WC podu, tāpēc to ir viegli piestiprināt un tas labi izplata aromātu.\n\nëkco clip ir izgatavots, izmantojot pārstrādātu EVA. Pašu materiālu var pārstrādāt, bet lietotu WC poda atsvaidzinātāju nevar, jo tas ir bioloģiski piesārņots. Tas nonāk atkritumu poligonā vai tiek sadedzināts, tāpēc ëkco clip satur piedevu Eco-One™. Neatkarīgā laboratorijas testā ëkcos EVA ar Eco-One™ 3,5 gadu laikā sasniedza 93 % bioloģisko noārdīšanos, un tiek prognozēts, ka 5 gadu laikā tā sasniegs līdz 99 %.\n\nëkco clip apvieno nepārtrauktu smaku kontroli līdz 30 dienām, vieglu piestiprināšanu lielākajai daļai WC podu un pārstrādātu, bioloģiski noārdāmu EVA.",
+      "benefits": {
+        "0": "Pašu izstrādāts materiāls, piesūcināts ar aromātu uz dezodoranta bāzes, kas izdalās pakāpeniski",
+        "1": "Efektīva aizsardzība pret smakām",
+        "2": "Unikāls dizains optimālai aromāta izdalīšanai",
+        "3": "Aromāts izdalās līdz 30 dienām",
+        "4": "Elastīgā forma der gandrīz visu veidu WC podiem",
+        "5": "Izmēri: 10 x 5 x 4,5 cm",
+        "6": "Plaša krāsu un patīkamu aromātu izvēle",
+        "7": "Izdevīga tualetes aromatizēšana",
+        "8": "Satur pārstrādātu EVA, ar Eco-One™ bioloģiski noārdās atkritumu poligonā",
+        "9": "Iepakots kastēs no 100 % pārstrādāta kartona",
+        "10": "Privātais zīmols ar jūsu logotipu, izgrieztu materiālā vai uzdrukātu"
+      },
+      "useCases": {
+        "0": "Facility retrofits",
+        "1": "Specification-led projects"
+      }
+    },
+    "freshDrop": {
+      "name": "frësh drop",
+      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "category": "ilgnoturīgs WC gaisa atsvaidzinātājs bez baterijām",
+      "short": "frësh drop ir iekštelpu gaisa atsvaidzinātājs, kas paredzēts tualetes kabīnēm un tualetēm. Tā ieliktnis, kas izgatavots no pašu izstrādāta materiāla un piesūcināts ar aromātu uz dezodoranta bāzes, pakāpeniski izdala aromātu bez baterijām un elektrības. Slēgtās kabīnēs ar vāju ventilāciju vai bez tās tas kalpo 60+ dienas, bet vietās, kur gaiss kustas vairāk, aromāts izkliedējas ātrāk. Ūdens piles formas dizains papildina jebkuru tualetes interjeru, un komplektā iekļautā līmlente ļauj to viegli uzstādīt uz gandrīz jebkuras virsmas. Mazām telpām izvēlieties kompakto modeli ëkco loop.",
+      "long": "frësh drop ir iekštelpu gaisa atsvaidzinātājs, kas paredzēts tualetes kabīnēm un tualetēm. Tā ieliktnis, kas izgatavots no pašu izstrādāta materiāla un piesūcināts ar aromātu uz dezodoranta bāzes, pakāpeniski izdala aromātu bez baterijām un elektrības. Slēgtās kabīnēs ar vāju ventilāciju vai bez tās tas kalpo 60+ dienas, bet vietās, kur gaiss kustas vairāk, aromāts izkliedējas ātrāk. Ūdens piles formas dizains papildina jebkuru tualetes interjeru, un komplektā iekļautā līmlente ļauj to viegli uzstādīt uz gandrīz jebkuras virsmas. Mazām telpām izvēlieties kompakto modeli ëkco loop.\n\nfrësh drop ieliktnis ir izgatavots, izmantojot pārstrādātu EVA, un šo materiālu var pārstrādāt. Gan ieliktnis, gan turētājs satur piedevu Eco-One™, tāpēc abi ir bioloģiski noārdāmi atkritumu poligonā. Neatkarīgā laboratorijas testā ëkcos EVA ar Eco-One™ 3,5 gadu laikā sasniedza 93 % bioloģisko noārdīšanos, un tiek prognozēts, ka 5 gadu laikā tā sasniegs līdz 99 %.\n\nfrësh drop apvieno aromātu 60+ dienas, vieglu uzstādīšanu un ieliktni no pārstrādāta, bioloģiski noārdāma EVA tualetes kabīnēm un tualetēm.",
+      "benefits": {
+        "0": "Pašu izstrādāts materiāls, piesūcināts ar aromātu uz dezodoranta bāzes, kas izdalās pakāpeniski",
+        "1": "Lielisks veids, kā uzturēt tualeti svaigu un tīru, īpaši paredzēts tualetes kabīnēm",
+        "2": "Aromāts izdalās 60+ dienas slēgtās kabīnēs, nav vajadzīgas baterijas vai elektrība",
+        "3": "Ūdens piles dizains, kas papildina jebkuru tualetes interjeru",
+        "4": "Viegla uzstādīšana ar komplektā iekļauto līmlenti",
+        "5": "Izmēri: 23 x 12 x 3,5 cm",
+        "6": "Plaša krāsu un patīkamu aromātu izvēle",
+        "7": "Ieliktnis izgatavots, izmantojot pārstrādātu, pārstrādājamu EVA",
+        "8": "Ieliktnis un turētājs ar Eco-One™ bioloģiski noārdās atkritumu poligonā",
+        "9": "Iepakots kastēs no 100 % pārstrādāta kartona",
+        "10": "Iespēja izveidot privāto zīmolu ar apdruku"
+      },
+      "useCases": {
+        "0": "Hospitality",
+        "1": "Premium retail"
+      },
+      "bases": {
+        "black": "turētājs melns"
+      }
+    },
+    "ezTrap": {
+      "name": "ëz trap",
+      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "category": "smakas noslēdzoša, viegli kopjama bezūdens pisuāra kasetne",
+      "short": "ëz trap ir inovatīva kasetņu sistēma, kas paredzēta, lai uzlabotu bezūdens pisuāru efektivitāti, tīrību un smaku kontroli un ievērojami samazinātu apkopes izmaksas.",
+      "long": "ëz trap ir inovatīva kasetņu sistēma, kas paredzēta, lai uzlabotu bezūdens pisuāru efektivitāti, tīrību un smaku kontroli un ievērojami samazinātu apkopes izmaksas.\n\nPatentētā kasetņu sistēma ëz trap ļauj urīnam dabiski plūst caur sifonu, un noslēdzošais vāciņš pēc katras lietošanas to noslēdz. Tas neļauj smakām izplūst un nodrošina, ka ar katru lietošanu vecais urīns tiek izvadīts no sistēmas, tāpēc tualetē saglabājas svaigāka vide.\n\nëz trap ir izgatavots ar piedevu Eco-One™, kas padara to bioloģiski noārdāmu atkritumu poligonā. Neatkarīgā laboratorijas testā ëkcos materiāls ar Eco-One™ 3,5 gadu laikā sasniedza 93 % bioloģisko noārdīšanos, un tiek prognozēts, ka 5 gadu laikā tā sasniegs līdz 99 %.\n\nëz trap ir efektīvs, viegli apkopjams un izmaksas taupošs veids, kā neļaut kanalizācijas smakām izplūst no bezūdens pisuāriem.",
+      "variants": {
+        "withoutTool": "bez izņemšanas instrumenta",
+        "withTool": "ar izņemšanas instrumentu"
+      },
+      "benefits": {
+        "0": "Bloķē kanalizācijas smakas: sifons un noslēdzošais vāciņš neļauj nepatīkamajām smakām izplūst",
+        "1": "Nav vajadzīgi dārgi geli vai speciāli tīrīšanas līdzekļi",
+        "2": "Vienkārša un izdevīga apkope: katru dienu vienkārši ielejiet glāzi ūdens, lai novērstu kaļķa nogulsnes",
+        "3": "Ilgs kalpošanas laiks: kasetne kalpo 4 līdz 6+ mēnešus, un regulāra tīrīšana ar līdzekli pret kaļķa nogulsnēm (piemēram, kvalitatīvu tualetes gelu) to vēl pagarina",
+        "4": "Plaša saderība: piemērots Sloan, Falcon, Vitra, Bobrick un citu zīmolu pisuāriem ar Falcon Velocity sistēmu (diametrs 11,8 cm, augstums 11,5 cm)",
+        "5": "Izmēri: Ø 11,8 x 11,5 cm",
+        "6": "Iepakots kastēs no 100 % pārstrādāta kartona",
+        "7": "Ar piedevu Eco-One™ bioloģiski noārdās atkritumu poligonā"
+      },
+      "useCases": {
+        "0": "Food service",
+        "1": "Healthcare support areas"
+      }
+    },
+    "xcrenPuck": {
+      "name": "xcrën puck",
+      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "category": "X veida pisuāra ieliktnis ar dezodorējošu tableti",
+      "short": "xcrën puck ir pisuāra ieliktnis ar NON-PARA dezodorējošu tableti, kas paredzēts efektīvai smaku kontrolei un notekas aizsardzībai. Tas nesatur paradihlorbenzolu (PARA), ko PVO klasificē kā iespējamu kancerogēnu. PARA tabletes joprojām izmanto dažos pisuāru ieliktņos, savukārt ES noteikumi ierobežo PARA tualešu dezodorētājos. X veida forma neļauj cietām daļiņām un gružiem aizsprostot noteku, un ar katru lietošanu tas līdz 30 dienām izdala tīru, svaigu aromātu.",
+      "long": "xcrën puck ir pisuāra ieliktnis ar NON-PARA dezodorējošu tableti, kas paredzēts efektīvai smaku kontrolei un notekas aizsardzībai. Tas nesatur paradihlorbenzolu (PARA), ko PVO klasificē kā iespējamu kancerogēnu. PARA tabletes joprojām izmanto dažos pisuāru ieliktņos, savukārt ES noteikumi ierobežo PARA tualešu dezodorētājos. X veida forma neļauj cietām daļiņām un gružiem aizsprostot noteku, un ar katru lietošanu tas līdz 30 dienām izdala tīru, svaigu aromātu.\n\nTablete galvenokārt ir izgatavota no vaska un glicerīna un lietošanas laikā izšķīst. xcrën puck ir izgatavots ar piedevu Eco-One™, kas padara to bioloģiski noārdāmu atkritumu poligonā. Neatkarīgā laboratorijas testā ëkcos materiāls ar Eco-One™ 3,5 gadu laikā sasniedza 93 % bioloģisko noārdīšanos, un tiek prognozēts, ka 5 gadu laikā tā sasniegs līdz 99 %. Tas ir vienreizējas lietošanas produkts, un tableti nevar nomainīt pret jaunu.\n\nxcrën puck ir vienkāršs, efektīvs veids, kā līdz 30 dienām uzturēt pisuārus svaigus un notekas brīvas.",
+      "variants": {
+        "whiteFresh": "balts / fresh",
+        "blueFresh": "zils / fresh"
+      },
+      "benefits": {
+        "0": "NON-PARA tablete: nesatur paradihlorbenzolu, ko PVO klasificē kā iespējamu kancerogēnu",
+        "1": "Neļauj cietām daļiņām un citiem gružiem aizsprostot noteku",
+        "2": "Ar katru lietošanu līdz 30 dienām izdala tīru, svaigu aromātu",
+        "3": "Ideāli piemērots pisuāru ikmēneša apkopei",
+        "4": "Tablete galvenokārt no vaska un glicerīna",
+        "5": "Vienreizējas lietošanas: tableti nevar nomainīt pret jaunu",
+        "6": "Izmēri: 17 x 17 x 2,9 cm",
+        "7": "Iepakots kastēs no 100 % pārstrādāta kartona",
+        "8": "Ar piedevu Eco-One™ bioloģiski noārdās atkritumu poligonā",
+        "9": "Jauns, unikāls X dizains",
+        "10": "Privātais zīmols ar jūsu logotipu, izgrieztu materiālā vai uzdrukātu"
+      },
+      "useCases": {
+        "0": "Compact washrooms",
+        "1": "Retrofit programs"
+      }
+    },
+    "ekcoMat": {
+      "name": "ëkco mat",
+      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "category": "ekonomisks paklājs zem pisuāra, kas aizsargā grīdu",
+      "short": "ëkco mat ir absorbējošs grīdas paklājs zem pisuāra, kas paredzēts, lai uzlabotu tualetes higiēnu un pasargātu grīdu no urīna uzkrāšanās. Ar izmēriem 54 x 51 x 0,5 cm tas efektīvi nosedz laukumu ap lielāko daļu standarta pisuāru, novēršot grīdas bojājumus un samazinot urīna pārnešanu uz lietotāju apavu zolēm. Tas palīdz uzturēt tualeti tīrāku un ērtāku.",
+      "long": "ëkco mat ir absorbējošs grīdas paklājs zem pisuāra, kas paredzēts, lai uzlabotu tualetes higiēnu un pasargātu grīdu no urīna uzkrāšanās. Ar izmēriem 54 x 51 x 0,5 cm tas efektīvi nosedz laukumu ap lielāko daļu standarta pisuāru, novēršot grīdas bojājumus un samazinot urīna pārnešanu uz lietotāju apavu zolēm. Tas palīdz uzturēt tualeti tīrāku un ērtāku.\n\nëkco mat ir izdevīgs vienreizējas lietošanas risinājums, kas ideāli piemērots restorāniem, viesnīcām un citām vietām ar lielu apmeklētību, kur higiēna ir prioritāte.\n\nëkco mat ir praktisks, higiēnisks un budžetam draudzīgs risinājums tīru un profesionālu tualešu uzturēšanai.",
+      "variants": {
+        "standard": "melns"
+      },
+      "benefits": {
+        "0": "Aizsargā grīdu zem pisuāra",
+        "1": "Samazina urīna izplatīšanos ar apavu zolēm",
+        "2": "Izdevīgs higiēnas risinājums",
+        "3": "Vienreizējai lietošanai",
+        "4": "Iespēja izveidot privāto zīmolu",
+        "5": "Izmēri: 54 x 51 x 0,5 cm"
+      },
+      "useCases": {
+        "0": "Entrances",
+        "1": "Service corridors"
+      }
+    }
+  },
+  "privateLabel": {
+    "hero": {
+      "eyebrow": "Izplatītājiem",
+      "title": "Privāto preču zīmju programma",
+      "lead": "Pārdodiet mūsu produktus ar savu zīmolu",
+      "body": "Attīstiet savu biznesu, izmantojot savu produktu līniju. Mūsu Private Label programma ļauj izplatītājiem pievienot savam portfelim pārbaudītus, augstas veiktspējas tualetes produktus un pārdot tos ar savu zīmolu — bez jūsu pašu izstrādes vai instrumentiem. Viss, kas mums nepieciešams, ir jūsu logotips; par pārējo parūpēsimies mēs.",
+      "cta": "Kļūsti par partneri"
+    },
+    "why": {
+      "title": "Kāpēc sadarboties ar mums",
+      "items": {
+        "0": {
+          "title": "Pārbaudīti risinājumi",
+          "body": "Katrs produkts ir intensīvas izstrādes rezultāts un izstrādāts optimālai, uzticamai veiktspējai — klāsts, kurā varat droši pieminēt savu vārdu."
+        },
+        "1": {
+          "title": "Viegla pielāgošana",
+          "body": "Mums ir nepieciešams tikai jūsu logotips, lai nodrošinātu jums virkni produktu, ko varat pārdot ar savu zīmolu."
+        },
+        "2": {
+          "title": "Premium atbalsts",
+          "body": "Mēs palīdzam jums visā procesā, lai jūs varētu paplašināt savu zīmolu un pārdošanas apjomu."
+        }
+      }
+    },
+    "ways": {
+      "title": "Divi veidi, kā zīmolu produktus",
+      "print": {
+        "title": "Drukāts zīmols",
+        "body": "Jūsu logotips ir drukāts tieši uz izstrādājuma."
+      },
+      "cutout": {
+        "title": "Logotipa izgriezums",
+        "body": "Jūsu logotips ir integrēts pašā materiālā kā unikāls izgriezums — īpatnēja, augstākās kvalitātes apdare, ko nepiedāvā neviens cits ražotājs, un spēcīga atšķirība jūsu diapazonam."
+      }
+    },
+    "beyond": {
+      "title": "Pielāgojiet ārpus produkta",
+      "packaging": {
+        "title": "Iepakojums un etiķetes",
+        "body": "Pievienojiet savu logotipu, uzņēmuma informāciju, produktu nosaukumus un aprakstus, EAN kodus un daudz ko citu kastēm, galvenajām kastēm vai atsevišķiem produktu maisiņiem — gatavs mazumtirdzniecībai ar savu zīmolu."
+      },
+      "mix": {
+        "title": "Krāsa & aromāts",
+        "body": "Piedāvājiet sev raksturīgu krāsu un smaržu kombināciju no mūsu klāsta."
+      }
+    },
+    "goodToKnow": {
+      "title": "Labi zināt",
+      "items": {
+        "0": "Minimālais pasūtījuma daudzums ir atkarīgs no konkrētā izvēlētā produkta.",
+        "1": "Par katru produktu, kuru vēlaties izveidot zīmolu, tiek piemērota vienreizēja iestatīšanas maksa — tā sedz rīkus un sagatavošanu, kas nepieciešama zīmola reproducēšanai.",
+        "2": "Visi zīmola produkti tiek izgatavoti pēc pasūtījuma, pēc jūsu specifikācijas.",
+        "3": "Mēs kopīgojam precīzus minimālos daudzumus, cenas un izpildes laiku kopā ar jūsu piedāvājumu, tiklīdz būsim sapratuši jūsu īpašās prasības."
+      }
+    },
+    "form": {
+      "title": "Kļūsti par partneri",
+      "description": "Nosūtiet mums savu konkrēto pieprasījumu, un viens no mūsu tirdzniecības pārstāvjiem ar jums sazināsies tieši, lai apspriestu sīkāku informāciju.",
+      "name": "Vārds",
+      "company": "Uzņēmuma nosaukums",
+      "email": "E-pasts",
+      "phone": "Tālrunis",
+      "products": "Preces privātai preču zīmei",
+      "productsHint": "Ievadiet to produktu daudzumu, kuriem vēlaties piešķirt zīmolu. Jums nav jāaizpilda katrs produkts — mēs apspriedīsim sīkāku informāciju pēc jūsu pieprasījuma.",
+      "quantity": "Daudzums (gab.)",
+      "message": "Ziņojums",
+      "submit": "Nosūtīt ziņu",
+      "submitting": "Notiek sūtīšana…",
+      "success": "Paldies — mēs drīzumā ar jums sazināsimies.",
+      "error": "Kaut kas nogāja greizi. Lūdzu, pēc brīža mēģiniet vēlreiz.",
+      "alertSelect": "Lūdzu, ievadiet daudzumu vismaz vienam produktam. Jums nav jāpasūta katrs produkts.",
+      "boundaryError": "Pieprasījuma veidlapu nevarēja ielādēt. Lūdzu, atsvaidziniet lapu vai rakstiet uz support@ekcos.eu."
+    }
+  }
+}

@@ -1,0 +1,752 @@
+{
+  "Metadata": {
+    "title": "ëkcos — Ozelenite sa svakim ispiranjem",
+    "description": "Naše mrežice za pisoare i osvježivači izrađeni su s recikliranim EVA materijalom. Sam materijal može se reciklirati, ali korištena mrežica za pisoar ne može jer je biološki kontaminirana. Završava na odlagalištu otpada ili u spalionici i zato svim našim proizvodima dodajemo aditiv Eco-One™.",
+    "productsTitle": "Proizvodi",
+    "productsDescription": "Istražite ëkcos proizvode: mijenjajte modele, završne obrade i opcije — zatim posjetite službenu trgovinu.",
+    "ecoOneTitle": "Eco-One™",
+    "ecoOneDescription": "Naše mrežice za pisoare i osvježivači izrađeni su s recikliranim EVA materijalom. Sam materijal može se reciklirati, ali korištena mrežica za pisoar ne može jer je biološki kontaminirana. Završava na odlagalištu otpada ili u spalionici i zato svim našim proizvodima dodajemo aditiv Eco-One™.",
+    "brandingTitle": "Prilagođeno brendiranje",
+    "brandingDescription": "Privatno brendiranje, izrezi i tisak za B2B programe.",
+    "articlesTitle": "Članci",
+    "articlesDescription": "Uvidi, ažuriranja i praktični vodiči tima ëkcos.",
+    "contactTitle": "Kontakt",
+    "contactDescription": "Obratite se ëkcos timu za specifikacije, programe i partnerstva.",
+    "privateLabelTitle": "Privatna robna marka",
+    "privateLabelDescription": "Prodajte ëkcos proizvode za kupaonice pod vlastitim brendom — privatna marka za distributere."
+  },
+  "LocaleSwitcher": {
+    "label": "Jezik",
+    "en": "English",
+    "es": "Spanish",
+    "fr": "French",
+    "de": "German",
+    "it": "Italian",
+    "cs": "Czech"
+  },
+  "nav": {
+    "aria": "Primarni",
+    "logoAlt": "ëkcos",
+    "openMenu": "Otvori izbornik",
+    "mobileMenuTitle": "Jelovnik",
+    "home": {
+      "label": "Dom"
+    },
+    "products": {
+      "label": "Proizvodi"
+    },
+    "articles": {
+      "label": "Članci"
+    },
+    "ecoOne": {
+      "label": "Eco-One™"
+    },
+    "customBranding": {
+      "label": "Prilagođeno brendiranje"
+    },
+    "contact": {
+      "label": "Kontakt"
+    },
+    "privateLabel": {
+      "label": "Privatna robna marka"
+    },
+    "faq": {
+      "label": "FAQ"
+    }
+  },
+  "footer": {
+    "tagline": "Tvrtka ëkcos innovations nudi higijenska rješenja koja toalete drže čistima i svježima, olakšavaju održavanje i koriste reciklirane, biorazgradive materijale.",
+    "explore": "Istražiti",
+    "newsletterTitle": "Newsletter",
+    "newsletterHint": "Ažuriranja proizvoda i novosti o programu. Otkažite pretplatu bilo kada.",
+    "company": {
+      "title": "Podaci o tvrtki",
+      "registryCode": "Registarski kod tvrtke (Estonija)",
+      "vatIdCz": "PDV ID (Češka)"
+    },
+    "copyright": "© {year} ëkcos. Sva prava pridržana.",
+    "legalNote": "Informativna stranica. Kupnja se obavlja u službenoj trgovini."
+  },
+  "common": {
+    "shop": "Dućan",
+    "shopCta": "Kupujte na eshop.ekcos.eu",
+    "learnMore": "Saznajte više",
+    "getInTouch": "Kontaktirajte nas",
+    "ecoOne": "Eco-One™"
+  },
+  "productDetail": {
+    "backToMap": "Natrag u toalet",
+    "buyNow": "Kupite na eshopu",
+    "price": "Cijena",
+    "from": "iz",
+    "variants": "Dostupne varijante",
+    "colors": "Boje i mirisi",
+    "bases": "Zidne baze",
+    "benefits": "Ključne prednosti",
+    "more": "Više detalja",
+    "openDetails": "Otvorite detaljne fotografije",
+    "detailGallery": "Detaljne fotografije — {name}",
+    "detailShot": "detalj",
+    "boundaryError": "Ovaj prikaz proizvoda je privremeno nedostupan. Molimo pokušajte ponovo."
+  },
+  "articles": {
+    "shopCta": {
+      "title": "Jeste li spremni unaprijediti svoje toalete?",
+      "body": "Pregledajte ëkcos mreže za pisoar i pribor u službenoj trgovini.",
+      "button": "Dućan"
+    }
+  },
+  "newsletter": {
+    "popupTitle": "Budite informirani",
+    "popupDescription": "Povremene novosti o proizvodima, Eco-One™ i prilagođenim programima brendiranja.",
+    "emailLabel": "E-mail",
+    "emailPlaceholder": "you@company.com",
+    "submit": "Pretplatite se",
+    "configureBrevo": "Prijava za bilten trenutno nije dostupna. Pokušajte ponovno kasnije.",
+    "submitError": "Pretplata nije uspjela. Pokušajte ponovno za koji trenutak.",
+    "dismiss": "Ne sad"
+  },
+  "home": {
+    "map": {
+      "aria": "Interaktivna karta proizvoda za toalet",
+      "hint": "Kliknite proizvod kako biste saznali više",
+      "imageAlt": "ëkcos proizvodi koji se nalaze u komercijalnom toaletu"
+    },
+    "overlay": {
+      "moreVariants": "Također dostupan u više boja i mirisa u trgovini.",
+      "shopCta": "Kupite na eshopu",
+      "close": "Zatvoriti"
+    },
+    "hero": {
+      "title": "Budite zeleni sa svakim ispiranjem",
+      "tagline": "Izrađena s recikliranim EVA materijalom, biorazgradiva na odlagalištu otpada uz aditiv Eco-One™",
+      "body": "Naše mrežice za pisoare i osvježivači izrađeni su s recikliranim EVA materijalom. Sam materijal može se reciklirati, ali korištena mrežica za pisoar ne može jer je biološki kontaminirana.",
+      "ctaProducts": "Istražite proizvode",
+      "brandMark": "ekcos.eu"
+    },
+    "benefits": {
+      "eco": {
+        "title": "Reciklirani EVA s Eco-One™",
+        "body": "Biorazgradivi proizvodi izrađeni s recikliranim EVA materijalom"
+      },
+      "hygiene": {
+        "title": "Higijena bez kompromisa",
+        "body": "Pruža čišće, ugodnije iskustvo minimiziranjem prskanja urina i neugodnih mirisa."
+      },
+      "costs": {
+        "title": "Manje čišćenja, niži troškovi",
+        "body": "Do 60 dana svježine znači manje čišćenja i smanjene troškove."
+      },
+      "distributor": {
+        "title": "Službeni EU distributer",
+        "body": "Izravan pristup originalnim Ekcos proizvodima uz brzu dostavu i poštene cijene."
+      },
+      "ecoLink": "O Eco-One™"
+    },
+    "shipping": {
+      "title": "Brza dostava diljem Europe",
+      "body": "Svi ëkcos proizvodi se isporučuju unutar 1-2 radna dana nakon potvrde uplate. Uz sigurnu i učinkovitu dostavu u cijeloj EU, možete se osloniti na dosljedno obnavljanje zaliha za svoje poslovanje."
+    },
+    "productOfWeek": {
+      "title": "Proizvod tjedna",
+      "cta": "Dodaj u košaricu"
+    },
+    "productsTeaser": {
+      "title": "Otkrijte naše proizvode",
+      "body": "Istražite xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip i više — zatim otvorite službenu trgovinu.",
+      "link": "Pogledajte sve proizvode"
+    },
+    "brandingTeaser": {
+      "title": "Prilagođeno brendiranje za B2B",
+      "body": "Privatno označavanje, izrezi i ispis za dosljedne programe na više mjesta.",
+      "link": "Prilagođeno brendiranje"
+    },
+    "trust": {
+      "title": "Izgrađen za zahtjevne objekte",
+      "body": "Pouzdana higijena i vrhunski dojam na licu mjesta — od ureda do gostoprimstva."
+    },
+    "newsletter": {
+      "title": "Specifikacije, lansiranja i ažuriranja programa",
+      "body": "Kratki bilten za timove objekata i partnere. Bez nereda."
+    },
+    "finalCta": {
+      "title": "Javite se",
+      "body": "Pitanja o proizvodima, isporuci ili B2B narudžbama? Pošaljite nam poruku — rado ćemo pomoći.",
+      "shop": "Idi u trgovinu",
+      "contact": "Pošalji poruku"
+    },
+    "marketing": {
+      "featuresEyebrow": "Jedinstvena platforma",
+      "featuresTitle": "Usporedite, odlučite i kupujte s povjerenjem",
+      "featuresSubtitle": "Istražite završne obrade, pregledajte činjenice i otvorite trgovinu kada budete spremni — sve u jednom toku.",
+      "featureInteractTitle": "Interaktivna specifikacija",
+      "featureInteractBody": "Zamijenite modele, završne obrade i mirise u nekoliko sekundi — napravljeno za timove u objektu i FM.",
+      "featureProofTitle": "Činjenice koje možete podijeliti",
+      "featureProofBody": "Obrišite Eco-One™ preuzimanja kako bi vaš tim mogao objasniti izbor kolegama ili klijentima.",
+      "featureB2bTitle": "Programi koji se skaliraju",
+      "featureB2bBody": "Prilagođeno brendiranje i B2B naručivanje za uvođenja koja zahtijevaju dosljednost, brzinu i uglađen izgled na licu mjesta.",
+      "numbersEyebrow": "Po brojkama",
+      "numbersTitle": "Operativna jasnoća, vrhunska prezentacija",
+      "statProductsLabel": "Obitelji proizvoda za istraživanje",
+      "statTechLabel": "Eco-One™ činjenice i preuzimanja",
+      "statShopLabel": "Službena trgovina",
+      "galleryEyebrow": "Postrojavanje",
+      "galleryTitle": "Fotografija iz kataloga",
+      "gallerySubtitle": "Prava fotografija proizvoda za prijedloge, prezentacije i upute."
+    }
+  },
+  "ecoOne": {
+    "hero": {
+      "title": "Eco-One™ za biorazgradnju na odlagalištima",
+      "tagline": "Isti proizvod. Ista izvedba. Napravljen od reciklirane EVA i Eco-One™.",
+      "body": "Naše mrežice za pisoare i osvježivači izrađeni su s recikliranim EVA materijalom. Sam materijal može se reciklirati, ali korištena mrežica za pisoar ne može jer je biološki kontaminirana. Završava na odlagalištu otpada ili u spalionici i zato svim našim proizvodima dodajemo aditiv Eco-One™. U neovisnom ispitivanju prema normama ASTM D5511 i ISO 15985, koje je proveo Instituto Politécnico Nacional u gradu Meksiku, materijal ëkcos EVA s aditivom Eco-One™ postigao je 93 % biorazgradnje u roku od 3,5 godine, dok je isti materijal bez aditiva pokazao 0 %. U roku od 5 godina predviđa se do 99 % biorazgradnje. Naše kutije izrađene su od 100 % recikliranog kartona."
+    },
+    "metrics": {
+      "additive": {
+        "value": "~1%",
+        "label": "sadržaj aditiva"
+      },
+      "measured": {
+        "value": "~3,5 god",
+        "label": "do 93% biorazgradljivosti"
+      },
+      "projected": {
+        "value": "do 99%",
+        "label": "unutar ~5 godina"
+      }
+    },
+    "problem": {
+      "title": "Zašto je obična plastika problem",
+      "body": "Obični plastični proizvodi projektirani su da traju. Bez aditiva za biorazgradnju, plastični proizvod poslan na odlagalište može tamo ostati <bold>300 do 1000 godina</bold>; pjenaste klompe u \"Crocs stilu\" poznati su primjer plastike koja <bold>nije biorazgradiva</bold>. Naši proizvodi izrađeni su od iste vrste izdržljive plastike (EVA) — ali s jednom odlučujućom razlikom: aditiv Eco-One™.",
+      "chartAlt": "Proizvodi bez Eco-One™ u usporedbi s ëkcos proizvodima koji sadrže aditiv",
+      "chartCaption": "Proizvodi bez Eco-One™ u usporedbi s ëkcos proizvodima koji sadrže aditiv.",
+      "chart": {
+        "ariaLabel": "Usporedba godina razgradnje na odlagalištu",
+        "withoutLabel": "Proizvodi bez Eco-One™",
+        "withLabel": "ëkcos s Eco-One™",
+        "withoutValue": "300–1000 godina",
+        "withValue": "3,5–5 godina",
+        "withoutDetail": "Bez aditiva za biorazgradnju, konvencionalna plastika može stoljećima ostati na odlagalištu.",
+        "withDetail": "S aditivom Eco-One™, neovisno testiranje pokazuje ~93% biorazgradnje za oko 3,5 godine, i do 99% unutar pet godina.",
+        "axisLabel": "Godine za kvar (odlagalište)",
+        "caption": "Proizvodi bez Eco-One™ u usporedbi s ëkcos proizvodima koji sadrže aditiv.",
+        "scaleLabel": "Mjerilo grafikona",
+        "scaleFull": "0–1000 god",
+        "scaleZoom": "0–10 god",
+        "clippedNote": "nastavlja →"
+      }
+    },
+    "solution": {
+      "title": "Naše rješenje: aditiv Eco-One™",
+      "body1": "Tijekom proizvodnje uključujemo približno <bold>1% Eco-One™</bold>, organskog aditiva doziranog na isti način kao i bojilo. Ne utječe na snagu, izgled ili performanse proizvoda.",
+      "body2": "Na biološki aktivnom odlagalištu, prirodni mikroorganizmi razgrađuju tretiranu plastiku putem enzimatske aktivnosti, pretvarajući je u bioplin (<bold>metan</bold>, koji moderna odlagališta hvataju za oporabu energije), ugljični dioksid i humus.",
+      "body3": "Budući da se proizvod na kraju razgrađuje u humus, vraća organsku tvar na odlagalište i pomaže ubrzati biokemijske procese koji tamo već djeluju. Proizvod stoga doprinosi <bold>ne samo tijekom radnog vijeka, već i nakon njega</bold>."
+    },
+    "testing": {
+      "title": "Neovisno testiranje",
+      "body": "Proizvod je ispitao neovisni laboratorij prema međunarodnim standardima <bold>ASTM D5511 i ISO 15985</bold>, uspoređujući isti proizvod sa i bez aditiva Eco-One™. S Eco-One™, dosegla je <bold>93,31% biorazgradnje unutar otprilike 3,5 godine, i do 99% unutar pet godina</bold>; bez Eco-One™, proizvod nije pokazao mjerljivu biorazgradnju.",
+      "barChart": {
+        "ariaLabel": "Biorazgradnja za približno 3,5 godine sa i bez Eco-One™",
+        "yAxis": "Biorazgradnja (%)",
+        "withLabel": "ëkcos s Eco-One™",
+        "withoutLabel": "Proizvodi bez Eco-One™",
+        "withDetail": "Biorazgradnja od 93,31% izmjerena u neovisnom laboratorijskom testu ASTM D5511 / ISO 15985 nakon otprilike 3,5 godine.",
+        "withoutDetail": "Isti proizvod bez Eco-One™ nije pokazao mjerljivu biorazgradnju tijekom istog razdoblja ispitivanja.",
+        "subtitle": "Isti proizvod · isti laboratorijski test (ASTM D5511 / ISO 15985) · ~3,5 godina"
+      },
+      "timelineChart": {
+        "ariaLabel": "Biorazgradnja tijekom pet godina sa i bez Eco-One™",
+        "yAxis": "Biorazgradnja (%)",
+        "xAxis": "Godine",
+        "withLabel": "ëkcos s Eco-One™",
+        "withoutLabel": "Proizvodi bez Eco-One™",
+        "zeroNote": "0% cijelo vrijeme",
+        "measured": "izmjereno",
+        "projected": "projektiran",
+        "yearsUnit": "god",
+        "projectedNote": "Projicirano iz izmjerenog trenda",
+        "caption": "Biorazgradnja sa i bez aditiva Eco-One™. Vrijednosti iznad 3,5 godine projicirane su iz izmjerenog trenda."
+      }
+    },
+    "closing": {
+      "title": "ëkcos proizvodi s Eco-One™",
+      "body": "Naši proizvodi za kupaonice proizvedeni su s aditivom Eco-One™. U neovisnom laboratorijskom ispitivanju, ëkcos EVA s Eco-One™ dosegao je 93% biorazgradnje unutar 3,5 godine, a predviđa se do 99% unutar 5 godina u uvjetima odlagališta — s učinkom identičnim proizvodima bez aditiva.",
+      "shopCta": "Dućan"
+    },
+    "footnote": "Izvor podataka: nezavisni test biorazgradnje prema ASTM D5511-02 i ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) — ëkcos proizvod s 1% aditiva Eco-One™: 93,31% biorazgradnje tijekom 1288 dana (≈3,5 godina); isti proizvod bez aditiva: 0%. Biorazgradnja nakon razdoblja ispitivanja (do 99% unutar ~5 godina) predviđa se prema izmjerenom trendu. Podaci o postojanosti konvencionalne plastike (≈300–1000 godina) često su citirane industrijske procjene. Aditiv Eco-One™ proizvodi i certificira EcoLogic, LLC."
+  },
+  "customBranding": {
+    "hero": {
+      "eyebrow": "B2B specifikacija",
+      "title": "Prilagođeno brendiranje",
+      "subtitle": "Privatno označavanje, izrezi i ispis za programe robnih marki na više lokacija."
+    },
+    "introEyebrow": "Pregled programa",
+    "introTitle": "Brendiranje temeljeno na specifikacijama",
+    "intro": "Pomažemo vam da stavite svoj brend na proizvod uz kvalitetu na tvorničkoj razini: jasne specifikacije, stalna proizvodnja i papirologija koju vaš tim može predati revizorima ili klijentima.",
+    "sections": {
+      "private": {
+        "title": "Privatno brendiranje",
+        "body": "Vaša umjetnička djela, kojima se dosljedno rukuje od odobrenja do proizvodnje — tako da svaka serija odgovara vašem brendu."
+      },
+      "cutouts": {
+        "title": "Prilagođeni izrezi",
+        "body": "Oblikovani otvori i udubljenja koji odgovaraju stvarnim uređajima i način na koji ih vaši timovi postavljaju."
+      },
+      "print": {
+        "title": "Mogućnosti ispisa",
+        "body": "Izdržljiv ispis koji ostaje čitljiv na proizvodu tijekom svakodnevne uporabe."
+      }
+    },
+    "pricing": {
+      "title": "Komercijalni uvjeti",
+      "description": "Objavljene naknade: jednokratno postavljanje, robna marka po jedinici i izborne oznake pakiranja.",
+      "entryFee": "Jednokratna startnina",
+      "brandingCost": "Trošak brendiranja",
+      "packagingLabels": "Prilagođene oznake na pakiranju"
+    },
+    "standardMoq": {
+      "title": "MOQ za standardno brendiranje",
+      "description": "Minimalne količine za narudžbu za standardne programe brendiranja s izrezom ili ispisom logotipa.",
+      "productLabel": "Proizvod",
+      "moqLabel": "MOQ [kom]",
+      "note": "* Ako želite naručiti samo Fresh Drop baze, MOQ je 288 kom."
+    },
+    "customMix": {
+      "title": "Prilagođena mješavina boja i mirisa",
+      "description": "Možemo proizvesti prilagođenu kombinaciju mirisa i boja iz našeg asortimana. Minimalna količina za narudžbu odgovara punoj paleti svakog prilagođenog proizvoda.",
+      "productLabel": "Proizvod",
+      "moqLabel": "MOQ [kom]",
+      "note": "* Basic Screen MOQ je za pola palete."
+    },
+    "production": {
+      "title": "Izrada, rok isporuke i plaćanje"
+    },
+    "process": {
+      "title": "Jednostavan proces",
+      "steps": {
+        "0": "Dogovaramo količine, regije i vrijeme.",
+        "1": "Vi odobravate umjetnička djela, materijale i završnu obradu.",
+        "2": "Proizvodimo uz provjere kvalitete u svakom koraku.",
+        "3": "Dostavljamo na vaša mjesta prema rasporedu koji vam je potreban."
+      }
+    },
+    "inquiry": {
+      "title": "Zatražite informacije",
+      "hint": "Recite nam nešto o količinama, regijama i zahtjevima za brendiranje."
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Tehnička i komercijalna podrška",
+      "title": "Kontakt",
+      "subtitle": "Pitajte nas o Eco-One™, specifikacijama ili B2B programima — naručite bilo kada u službenoj trgovini."
+    },
+    "details": {
+      "title": "Kontakt",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "hours": "sati",
+      "hoursValue": "Ponedjeljak–petak, 09:00–17:00 CET"
+    },
+    "company": {
+      "title": "Podaci o registriranoj tvrtki",
+      "registryCode": "Registarski kod tvrtke (Estonija)",
+      "vatIdCz": "PDV ID (Češka)"
+    },
+    "form": {
+      "name": "Ime",
+      "company": "Tvrtka",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "message": "Poruka",
+      "submit": "Pošalji poruku",
+      "success": "Hvala vam — javit ćemo vam se uskoro.",
+      "error": "Nešto nije u redu. Molimo pokušajte ponovo."
+    }
+  },
+  "products": {
+    "page": {
+      "title": "Products",
+      "intro": "Switch models and finishes, then buy in the official store.",
+      "heroEyebrow": "Explore the range",
+      "heroTitle": "Configure every line in one place",
+      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroLinkEco": "About Eco-One™",
+      "heroLinkBranding": "Custom branding"
+    },
+    "configurator": {
+      "color": "Finish",
+      "selectProduct": "Select product",
+      "fragrance": "Fragrance options",
+      "benefits": "Benefits",
+      "productBenefits": "Product benefits",
+      "availableColorsFragrances": "Available colors & fragrances",
+      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
+      "byBrand": "by ëkcos",
+      "siteUrl": "www.ekcos.eu",
+      "useCases": "Typical applications",
+      "brandingNote": "Custom branding available for qualified orders."
+    },
+    "colors": {
+      "white": "White",
+      "grey": "Grey",
+      "black": "Black",
+      "blue": "Blue"
+    },
+    "fragrances": {
+      "fresh": "Fresh",
+      "citrus": "Citrus"
+    },
+    "variantLabels": {
+      "x1p": "ljubičasta / bobičasto voće",
+      "x2g": "zelena / jabuka",
+      "x3b": "plava / fresh",
+      "x4o": "narančasta / tropsko voće",
+      "x6c": "prozirna / tropsko voće",
+      "x7bk": "crna / menta",
+      "x8bm": "plamena / mango",
+      "x9g": "zelena / bor",
+      "x10r": "crvena / dinja",
+      "x12p": "ljubičasta / lavanda",
+      "x13c": "žuta / citrus"
+    },
+    "xcrenHd": {
+      "name": "xcrën HD",
+      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "category": "dizajnerska mrežica za pisoar s ekstremnom zaštitom od prskanja",
+      "badge": "dizajnerska mrežica za pisoar s ekstremnom zaštitom od prskanja",
+      "short": "xcrën HD 60+ mirisna je mrežica za pisoar s patentiranim oblikom koji se ističe u pisoaru. Za razliku od uobičajenih ovalnih mrežica, pretvara pisoar u dizajnerski element. Njezine patentirane čekinje (Sealed Bristles Technology™) prekrivaju 92 % mrežice i svode prskanje urina i neugodne mirise na minimum. Izrađena je od vlastitog materijala prožetog mirisom na bazi dezodoransa i postupno otpušta miris 60+ dana. U toaletima s manjim prometom traje i dulje.",
+      "long": "xcrën HD 60+ mirisna je mrežica za pisoar s patentiranim oblikom koji se ističe u pisoaru. Za razliku od uobičajenih ovalnih mrežica, pretvara pisoar u dizajnerski element. Njezine patentirane čekinje (Sealed Bristles Technology™) prekrivaju 92 % mrežice i svode prskanje urina i neugodne mirise na minimum. Izrađena je od vlastitog materijala prožetog mirisom na bazi dezodoransa i postupno otpušta miris 60+ dana. U toaletima s manjim prometom traje i dulje.\n\nNamijenjena toaletima s velikim prometom u restoranima, barovima, zračnim lukama i trgovačkim centrima, mrežica xcrën HD 60+ spaja higijenu s izgledom koji izdvaja toalet.\n\nMrežica xcrën HD 60+ izrađena je s recikliranim EVA materijalom. Sam materijal može se reciklirati, ali korištena mrežica za pisoar ne može jer je biološki kontaminirana. Završava na odlagalištu otpada ili u spalionici i zato mrežica xcrën HD 60+ sadrži aditiv Eco-One™. U neovisnom laboratorijskom ispitivanju materijal ëkcos EVA s aditivom Eco-One™ postigao je 93 % biorazgradnje u roku od 3,5 godine, a u roku od 5 godina predviđa se do 99 %.\n\nMrežica xcrën HD 60+ spaja snažnu zaštitu od prskanja, 60+ dana mirisa i patentirani dizajn koji se ističe u svakom toaletu.",
+      "benefits": {
+        "0": "Patentirani oblik koji se ističe među uobičajenim ovalnim mrežicama",
+        "1": "Patentirane čekinje protiv prskanja prekrivaju 92 % površine mrežice, pomažu zaštititi korisnike od neželjenog prskanja i održavaju prostor oko pisoara čišćim",
+        "2": "Vlastiti materijal prožet mirisom na bazi dezodoransa koji se postupno otpušta 60+ dana",
+        "3": "Miris traje dvostruko dulje od standardnih 30-dnevnih mrežica",
+        "4": "Posebno namijenjena toaletima s velikim prometom, npr. u restoranima, barovima, zračnim lukama, trgovačkim centrima itd.",
+        "5": "Izrađena s recikliranim EVA materijalom, biorazgradiva na odlagalištu otpada uz aditiv Eco-One™",
+        "6": "Pakirana u kutije od 100 % recikliranog kartona",
+        "7": "Savršena za bezvodne pisoare",
+        "8": "Dimenzije: 17 x 18 x 2,1 cm",
+        "9": "Širok izbor boja i ugodnih mirisa",
+        "10": "Privatna marka s vašim logotipom izrezanim u materijal ili otisnutim"
+      },
+      "variants": {
+        "xhd1p": "ljubičasta / bobičasto voće",
+        "xhd2g": "zelena / jabuka",
+        "xhd3b": "plava / fresh",
+        "xhd4o": "narančasta / tropsko voće",
+        "xhd6c": "prozirna / tropsko voće",
+        "xhd7bk": "crna / menta",
+        "xhd8bm": "plamena / mango",
+        "xhd9g": "zelena / bor",
+        "xhd10r": "crvena / dinja",
+        "xhd12p": "ljubičasta / lavanda",
+        "xhd13c": "žuta / citrus"
+      },
+      "useCases": {
+        "0": "Corporate offices",
+        "1": "Hotels and hospitality"
+      }
+    },
+    "ekcoscreen": {
+      "name": "ëkcoscreen",
+      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "teška mrežica za pisoar protiv prskanja, dvostruko dulji miris",
+      "short": "ëkcoscreen 60+ mirisna je mrežica za pisoar s patentiranim čekinjama (Sealed Bristles Technology™) koje prekrivaju 95 % mrežice. Svodi prskanje urina i neugodne mirise na minimum za čišći i ugodniji toalet. Izrađena je od vlastitog materijala prožetog mirisom na bazi dezodoransa i postupno otpušta miris 60+ dana, dvostruko dulje od standardnih 30-dnevnih mrežica. U toaletima s manjim prometom traje i dulje.",
+      "long": "ëkcoscreen 60+ mirisna je mrežica za pisoar s patentiranim čekinjama (Sealed Bristles Technology™) koje prekrivaju 95 % mrežice. Svodi prskanje urina i neugodne mirise na minimum za čišći i ugodniji toalet. Izrađena je od vlastitog materijala prožetog mirisom na bazi dezodoransa i postupno otpušta miris 60+ dana, dvostruko dulje od standardnih 30-dnevnih mrežica. U toaletima s manjim prometom traje i dulje.\n\nNamijenjena toaletima s velikim prometom u restoranima, barovima, zračnim lukama, trgovačkim centrima i drugim objektima u kojima je higijena u fokusu, mrežica ëkcoscreen 60+ poboljšava čistoću i kontrolu mirisa.\n\nMrežica ëkcoscreen 60+ izrađena je s recikliranim EVA materijalom. Sam materijal može se reciklirati, ali korištena mrežica za pisoar ne može jer je biološki kontaminirana. Završava na odlagalištu otpada ili u spalionici i zato mrežica ëkcoscreen 60+ sadrži aditiv Eco-One™. U neovisnom laboratorijskom ispitivanju materijal ëkcos EVA s aditivom Eco-One™ postigao je 93 % biorazgradnje u roku od 3,5 godine, a u roku od 5 godina predviđa se do 99 %.\n\nMrežica ëkcoscreen 60+ spaja učinkovitu zaštitu od prskanja, 60+ dana mirisa te reciklirani, biorazgradivi EVA materijal za toalete s velikim prometom.",
+      "benefits": {
+        "0": "Patentirane čekinje protiv prskanja prekrivaju 95 % površine mrežice, pomažu zaštititi korisnike od neželjenog prskanja i održavaju prostor oko pisoara čišćim",
+        "1": "Bez vidljivog prskanja izvan mrežice u usporednom UV testu prskanja pod jednakim uvjetima",
+        "2": "Vlastiti materijal prožet mirisom na bazi dezodoransa koji se postupno otpušta 60+ dana",
+        "3": "Miris traje dvostruko dulje od 30-dnevnih mrežica, uz sličan trošak po danu",
+        "4": "141 g mirisnog materijala po mrežici, više nego trostruko u odnosu na uobičajenu mrežicu",
+        "5": "Posebno namijenjena toaletima s velikim prometom, npr. u restoranima, barovima, zračnim lukama, trgovačkim centrima itd.",
+        "6": "Izrađena s recikliranim EVA materijalom, biorazgradiva na odlagalištu otpada uz aditiv Eco-One™",
+        "7": "Pakirana u kutije od 100 % recikliranog kartona",
+        "8": "Idealna za bezvodne pisoare",
+        "9": "Dimenzije: 20 x 21 x 2,2 cm",
+        "10": "Jedinstven dizajn, širok izbor boja i ugodnih mirisa",
+        "11": "Privatna marka s vašim logotipom izrezanim u materijal ili otisnutim"
+      },
+      "useCases": {
+        "0": "Retail",
+        "1": "Public buildings"
+      }
+    },
+    "powerscreen": {
+      "name": "powër screen",
+      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "category": "snažna mrežica za pisoar protiv prskanja za mjesečnu zamjenu",
+      "short": "powër screen mirisna je mrežica za pisoar s patentiranim sustavom čekinja (Sealed Bristles Technology™). Svodi prskanje urina i neugodne mirise na minimum za čišći i ugodniji toalet. Izrađena je od vlastitog materijala prožetog mirisom na bazi dezodoransa i postupno otpušta miris do 30 dana, pa je idealna za mjesečno održavanje pisoara.",
+      "long": "powër screen mirisna je mrežica za pisoar s patentiranim sustavom čekinja (Sealed Bristles Technology™). Svodi prskanje urina i neugodne mirise na minimum za čišći i ugodniji toalet. Izrađena je od vlastitog materijala prožetog mirisom na bazi dezodoransa i postupno otpušta miris do 30 dana, pa je idealna za mjesečno održavanje pisoara.\n\nMrežica powër screen izrađena je s recikliranim EVA materijalom. Sam materijal može se reciklirati, ali korištena mrežica za pisoar ne može jer je biološki kontaminirana. Završava na odlagalištu otpada ili u spalionici i zato mrežica powër screen sadrži aditiv Eco-One™. U neovisnom laboratorijskom ispitivanju materijal ëkcos EVA s aditivom Eco-One™ postigao je 93 % biorazgradnje u roku od 3,5 godine, a u roku od 5 godina predviđa se do 99 %.\n\nMrežica powër screen spaja učinkovitu zaštitu od prskanja, do 30 dana mirisa te reciklirani, biorazgradivi EVA materijal za mjesečno održavanje toaleta.",
+      "benefits": {
+        "0": "Patentirane čekinje protiv prskanja pomažu zaštititi korisnike od neželjenog prskanja i održavaju prostor oko pisoara čišćim",
+        "1": "Vlastiti materijal prožet mirisom na bazi dezodoransa koji se postupno otpušta do 30 dana",
+        "2": "Idealna za mjesečno održavanje pisoara",
+        "3": "Izrađena s recikliranim EVA materijalom, biorazgradiva na odlagalištu otpada uz aditiv Eco-One™",
+        "4": "Pakirana u kutije od 100 % recikliranog kartona",
+        "5": "Prikladna za bezvodne pisoare",
+        "6": "Fleksibilan oblik pristaje gotovo svim vrstama pisoara",
+        "7": "Dizajn koji uljepšava svaki toalet",
+        "8": "Dimenzije: 18 x 20 x 1,8 cm",
+        "9": "Jedinstven dizajn, širok izbor boja i ugodnih mirisa",
+        "10": "Privatna marka s vašim logotipom izrezanim u materijal ili otisnutim"
+      },
+      "useCases": {
+        "0": "Stadiums",
+        "1": "Transport hubs"
+      }
+    },
+    "basicScreen": {
+      "name": "basic scrëen",
+      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "category": "povoljna mrežica za pisoar, biorazgradiva na odlagalištu",
+      "short": "basic scrëen isplativa je mrežica za pisoar koja dezodorira pisoare i sprječava nakupljanje otpadaka. Izrađena je od vlastitog materijala prožetog mirisom na bazi dezodoransa i postupno otpušta miris do 30 dana, pa je idealna za mjesečno održavanje pisoara.",
+      "long": "basic scrëen isplativa je mrežica za pisoar koja dezodorira pisoare i sprječava nakupljanje otpadaka. Izrađena je od vlastitog materijala prožetog mirisom na bazi dezodoransa i postupno otpušta miris do 30 dana, pa je idealna za mjesečno održavanje pisoara.\n\nMrežica basic scrëen izrađena je s recikliranim EVA materijalom. Sam materijal može se reciklirati, ali korištena mrežica za pisoar ne može jer je biološki kontaminirana. Završava na odlagalištu otpada ili u spalionici i zato mrežica basic scrëen sadrži aditiv Eco-One™. U neovisnom laboratorijskom ispitivanju materijal ëkcos EVA s aditivom Eco-One™ postigao je 93 % biorazgradnje u roku od 3,5 godine, a u roku od 5 godina predviđa se do 99 %.\n\nMrežica basic scrëen po niskoj cijeni spaja pouzdanu kontrolu mirisa, zaštitu od otpadaka te reciklirani, biorazgradivi EVA materijal.",
+      "benefits": {
+        "0": "Vlastiti materijal prožet mirisom na bazi dezodoransa koji se postupno otpušta",
+        "1": "Otpuštanje mirisa do 30 dana",
+        "2": "Idealna za mjesečno održavanje pisoara",
+        "3": "Prikladna za bezvodne pisoare",
+        "4": "Fleksibilan oblik pristaje gotovo svim vrstama pisoara",
+        "5": "Dimenzije: 20 x 19 cm",
+        "6": "Jedinstven dizajn, širok izbor boja i ugodnih mirisa",
+        "7": "Povoljno rješenje za mjesečnu higijenu pisoara",
+        "8": "Izrađena s recikliranim EVA materijalom, biorazgradiva na odlagalištu otpada uz aditiv Eco-One™",
+        "9": "Isporučuje se u kutijama od 100 % recikliranog kartona",
+        "10": "Privatna marka s vašim logotipom izrezanim u materijal ili otisnutim"
+      },
+      "useCases": {
+        "0": "Schools",
+        "1": "Light commercial"
+      }
+    },
+    "urolite": {
+      "name": "üro lite",
+      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "mala mrežica za pisoar, velika zaštita od prskanja",
+      "short": "üro lite fleksibilna je mirisna mrežica za pisoar namijenjena manjim pisoarima. Koristi istu patentiranu tehnologiju Sealed Bristles Technology™ kao i mrežica ëkcoscreen 60+, a umjesto većeg promjera oslanja se na duge čekinje koje u maloj mrežici pružaju veliku zaštitu od prskanja. Svodi prskanje urina i neugodne mirise na minimum. Izrađena je od vlastitog materijala prožetog mirisom na bazi dezodoransa i postupno otpušta miris do 30 dana, pa je idealna za mjesečno održavanje pisoara.",
+      "long": "üro lite fleksibilna je mirisna mrežica za pisoar namijenjena manjim pisoarima. Koristi istu patentiranu tehnologiju Sealed Bristles Technology™ kao i mrežica ëkcoscreen 60+, a umjesto većeg promjera oslanja se na duge čekinje koje u maloj mrežici pružaju veliku zaštitu od prskanja. Svodi prskanje urina i neugodne mirise na minimum. Izrađena je od vlastitog materijala prožetog mirisom na bazi dezodoransa i postupno otpušta miris do 30 dana, pa je idealna za mjesečno održavanje pisoara.\n\nMrežica üro lite izrađena je s recikliranim EVA materijalom. Sam materijal može se reciklirati, ali korištena mrežica za pisoar ne može jer je biološki kontaminirana. Završava na odlagalištu otpada ili u spalionici i zato mrežica üro lite sadrži aditiv Eco-One™. U neovisnom laboratorijskom ispitivanju materijal ëkcos EVA s aditivom Eco-One™ postigao je 93 % biorazgradnje u roku od 3,5 godine, a u roku od 5 godina predviđa se do 99 %.\n\nMrežica üro lite svojim jedinstvenim patentiranim dugim čekinjama pruža manjim pisoarima veliku zaštitu od prskanja, u kompaktnoj i isplativoj mrežici izrađenoj s recikliranim, biorazgradivim EVA materijalom.",
+      "benefits": {
+        "0": "Jedinstvene patentirane duge čekinje pomažu zaštititi korisnike od prskanja i održavaju prostor oko pisoara čišćim",
+        "1": "Ista patentirana tehnologija Sealed Bristles Technology™ kao kod mrežice ëkcoscreen 60+",
+        "2": "Vlastiti materijal prožet mirisom na bazi dezodoransa koji se postupno otpušta do 30 dana",
+        "3": "Kompaktna veličina posebno namijenjena manjim pisoarima",
+        "4": "Idealna za mjesečno održavanje pisoara",
+        "5": "Prikladna za bezvodne pisoare",
+        "6": "Izrađena s recikliranim EVA materijalom, biorazgradiva na odlagalištu otpada uz aditiv Eco-One™",
+        "7": "Pakirana u kutije od 100 % recikliranog kartona",
+        "8": "Dimenzije: 13 x 13 x 1,8 cm",
+        "9": "Jedinstven dizajn, širok izbor boja i ugodnih mirisa",
+        "10": "Privatna marka s vašim logotipom izrezanim u materijal ili otisnutim"
+      },
+      "useCases": {
+        "0": "Boutique hospitality",
+        "1": "Premium office"
+      }
+    },
+    "ekcoClip": {
+      "name": "ëkco clip",
+      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "category": "osvježivač za WC školjku koji pristaje gotovo svakoj školjci",
+      "short": "ëkco clip osvježivač je s kvačicom za WC školjku koji pruža stalnu kontrolu mirisa i održava WC kabine svježima. Izrađen je od vlastitog materijala prožetog mirisom na bazi dezodoransa i postupno otpušta miris do 30 dana. Zahvaljujući fleksibilnom dizajnu pristaje većini vrsta WC školjki, pa se lako postavlja i dobro širi miris.",
+      "long": "ëkco clip osvježivač je s kvačicom za WC školjku koji pruža stalnu kontrolu mirisa i održava WC kabine svježima. Izrađen je od vlastitog materijala prožetog mirisom na bazi dezodoransa i postupno otpušta miris do 30 dana. Zahvaljujući fleksibilnom dizajnu pristaje većini vrsta WC školjki, pa se lako postavlja i dobro širi miris.\n\nOsvježivač ëkco clip izrađen je s recikliranim EVA materijalom. Sam materijal može se reciklirati, ali korišteni osvježivač za WC školjku ne može jer je biološki kontaminiran. Završava na odlagalištu otpada ili u spalionici i zato osvježivač ëkco clip sadrži aditiv Eco-One™. U neovisnom laboratorijskom ispitivanju materijal ëkcos EVA s aditivom Eco-One™ postigao je 93 % biorazgradnje u roku od 3,5 godine, a u roku od 5 godina predviđa se do 99 %.\n\nOsvježivač ëkco clip spaja stalnu kontrolu mirisa do 30 dana, jednostavno postavljanje na većinu WC školjki te reciklirani, biorazgradivi EVA materijal.",
+      "benefits": {
+        "0": "Vlastiti materijal prožet mirisom na bazi dezodoransa koji se postupno otpušta",
+        "1": "Učinkovita zaštita od neugodnih mirisa",
+        "2": "Jedinstven dizajn za optimalno otpuštanje mirisa",
+        "3": "Otpuštanje mirisa do 30 dana",
+        "4": "Fleksibilan oblik pristaje gotovo svim vrstama WC školjki",
+        "5": "Dimenzije: 10 x 5 x 4,5 cm",
+        "6": "Širok izbor boja i ugodnih mirisa",
+        "7": "Isplativa aromatizacija toaleta",
+        "8": "Izrađena s recikliranim EVA materijalom, biorazgradiva na odlagalištu otpada uz aditiv Eco-One™",
+        "9": "Pakirana u kutije od 100 % recikliranog kartona",
+        "10": "Privatna marka s vašim logotipom izrezanim u materijal ili otisnutim"
+      },
+      "useCases": {
+        "0": "Facility retrofits",
+        "1": "Specification-led projects"
+      }
+    },
+    "freshDrop": {
+      "name": "frësh drop",
+      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "category": "dugotrajni osvježivač zraka za WC bez baterija",
+      "short": "frësh drop osvježivač je zraka za unutarnje prostore, namijenjen WC kabinama i toaletima. Njegov uložak od vlastitog materijala prožetog mirisom na bazi dezodoransa postupno otpušta miris bez baterija i struje. U zatvorenim kabinama sa slabom ventilacijom ili bez nje traje 60+ dana, a gdje se zrak više kreće, miris se brže raspršuje. Dizajn u obliku kapi vode uklapa se u svaki interijer toaleta, a priložena ljepljiva traka omogućuje jednostavno postavljanje na gotovo svaku površinu. Za male prostore odaberite kompaktni osvježivač ëkco loop.",
+      "long": "frësh drop osvježivač je zraka za unutarnje prostore, namijenjen WC kabinama i toaletima. Njegov uložak od vlastitog materijala prožetog mirisom na bazi dezodoransa postupno otpušta miris bez baterija i struje. U zatvorenim kabinama sa slabom ventilacijom ili bez nje traje 60+ dana, a gdje se zrak više kreće, miris se brže raspršuje. Dizajn u obliku kapi vode uklapa se u svaki interijer toaleta, a priložena ljepljiva traka omogućuje jednostavno postavljanje na gotovo svaku površinu. Za male prostore odaberite kompaktni osvježivač ëkco loop.\n\nUložak frësh drop izrađen je s recikliranim EVA materijalom, a materijal se može reciklirati. I uložak i nosač sadrže aditiv Eco-One™, pa su oba biorazgradiva na odlagalištu otpada. U neovisnom laboratorijskom ispitivanju materijal ëkcos EVA s aditivom Eco-One™ postigao je 93 % biorazgradnje u roku od 3,5 godine, a u roku od 5 godina predviđa se do 99 %.\n\nOsvježivač frësh drop spaja 60+ dana mirisa, jednostavno postavljanje te reciklirani, biorazgradivi EVA uložak za WC kabine i toalete.",
+      "benefits": {
+        "0": "Vlastiti materijal prožet mirisom na bazi dezodoransa koji se postupno otpušta",
+        "1": "Savršen način za održavanje svježeg i čistog toaleta, posebno namijenjen WC kabinama",
+        "2": "Otpuštanje mirisa 60+ dana u zatvorenim kabinama, bez baterija i struje",
+        "3": "Dizajn u obliku kapi vode koji se uklapa u svaki interijer toaleta",
+        "4": "Jednostavno postavljanje s priloženom ljepljivom trakom",
+        "5": "Dimenzije: 23 x 12 x 3,5 cm",
+        "6": "Širok izbor boja i ugodnih mirisa",
+        "7": "Uložak izrađen s recikliranim EVA materijalom koji se može reciklirati",
+        "8": "Uložak i nosač biorazgradivi na odlagalištu otpada uz aditiv Eco-One™",
+        "9": "Pakirana u kutije od 100 % recikliranog kartona",
+        "10": "Mogućnost privatne marke putem tiska"
+      },
+      "useCases": {
+        "0": "Hospitality",
+        "1": "Premium retail"
+      },
+      "bases": {
+        "white": "nosač bijeli",
+        "black": "nosač crni"
+      }
+    },
+    "ezTrap": {
+      "name": "ëz trap",
+      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "category": "uložak za bezvodni pisoar koji blokira mirise i lako se održava",
+      "short": "ëz trap inovativni je sustav uložaka osmišljen za veću učinkovitost, čistoću i kontrolu mirisa bezvodnih pisoara uz znatno niže troškove održavanja.",
+      "long": "ëz trap inovativni je sustav uložaka osmišljen za veću učinkovitost, čistoću i kontrolu mirisa bezvodnih pisoara uz znatno niže troškove održavanja.\n\nZahvaljujući patentiranom sustavu uložaka ëz trap, urin prirodno otječe kroz sifon, a poklopac za zatvaranje brtvi nakon svake upotrebe. To sprječava izlazak mirisa i osigurava da se pri svakoj upotrebi stari urin ukloni iz sustava, pa toalet ostaje svježiji.\n\nUložak ëz trap izrađen je s aditivom Eco-One™, zbog čega je biorazgradiv na odlagalištu otpada. U neovisnom laboratorijskom ispitivanju materijal ëkcos s aditivom Eco-One™ postigao je 93 % biorazgradnje u roku od 3,5 godine, a u roku od 5 godina predviđa se do 99 %.\n\nUložak ëz trap nudi učinkovito, isplativo rješenje koje zahtijeva malo održavanja i sprječava izlazak mirisa iz odvoda kroz bezvodne pisoare.",
+      "variants": {
+        "withoutTool": "bez alata za vađenje",
+        "withTool": "s alatom za vađenje"
+      },
+      "benefits": {
+        "0": "Blokira mirise iz odvoda: sifon i poklopac za zatvaranje sprječavaju izlazak neugodnih mirisa iz odvoda",
+        "1": "Nisu potrebni skupi gelovi ni posebna sredstva za čišćenje",
+        "2": "Jednostavno i isplativo održavanje: dovoljno je svakodnevno uliti čašu vode kako bi se spriječilo nakupljanje kamenca",
+        "3": "Dugotrajnost: uložak traje 4 do 6+ mjeseci, a redovito čišćenje sredstvom protiv kamenca (npr. kvalitetnim WC gelom) produljuje mu vijek trajanja",
+        "4": "Široka kompatibilnost: prikladan za pisoare marki Sloan, Falcon, Vitra, Bobrick i drugih koje koriste sustav Falcon Velocity (promjer 11,8 cm, visina 11,5 cm)",
+        "5": "Dimenzije: Ø 11,8 x 11,5 cm",
+        "6": "Pakirana u kutije od 100 % recikliranog kartona",
+        "7": "Biorazgradiv na odlagalištu otpada uz aditiv Eco-One™"
+      },
+      "useCases": {
+        "0": "Food service",
+        "1": "Healthcare support areas"
+      }
+    },
+    "xcrenPuck": {
+      "name": "xcrën puck",
+      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "category": "mrežica za pisoar u obliku slova X s dezodorirajućom tabletom",
+      "short": "xcrën puck mrežica je za pisoar s dezodorirajućom NON-PARA tabletom, namijenjena učinkovitoj kontroli mirisa i zaštiti odvoda. Ne sadrži paradiklorbenzen (PARA), koji SZO klasificira kao moguće kancerogen. PARA tablete još se koriste u nekim mrežicama za pisoare, dok propisi EU-a ograničavaju PARA u WC dezodoransima. Dizajn u obliku slova X sprječava da krute tvari i otpaci začepe odvod, a pri svakoj upotrebi do 30 dana otpušta čist, svjež miris.",
+      "long": "xcrën puck mrežica je za pisoar s dezodorirajućom NON-PARA tabletom, namijenjena učinkovitoj kontroli mirisa i zaštiti odvoda. Ne sadrži paradiklorbenzen (PARA), koji SZO klasificira kao moguće kancerogen. PARA tablete još se koriste u nekim mrežicama za pisoare, dok propisi EU-a ograničavaju PARA u WC dezodoransima. Dizajn u obliku slova X sprječava da krute tvari i otpaci začepe odvod, a pri svakoj upotrebi do 30 dana otpušta čist, svjež miris.\n\nTableta je izrađena uglavnom od voska i glicerina i otapa se tijekom upotrebe. Mrežica xcrën puck izrađena je s aditivom Eco-One™, zbog čega je biorazgradiva na odlagalištu otpada. U neovisnom laboratorijskom ispitivanju materijal ëkcos s aditivom Eco-One™ postigao je 93 % biorazgradnje u roku od 3,5 godine, a u roku od 5 godina predviđa se do 99 %. Proizvod je za jednokratnu upotrebu i tableta se ne može zamijeniti novom.\n\nMrežica xcrën puck jednostavan je i učinkovit način da pisoari ostanu svježi, a odvodi prohodni do 30 dana.",
+      "variants": {
+        "whiteFresh": "bijela / fresh",
+        "blueFresh": "plava / fresh"
+      },
+      "benefits": {
+        "0": "NON-PARA tableta: bez paradiklorbenzena, koji SZO klasificira kao moguće kancerogen",
+        "1": "Sprječava da krute tvari i drugi otpaci začepe odvod",
+        "2": "Pri svakoj upotrebi do 30 dana otpušta čist, svjež miris",
+        "3": "Idealna za mjesečno održavanje pisoara",
+        "4": "Tableta izrađena uglavnom od voska i glicerina",
+        "5": "Za jednokratnu upotrebu: tableta se ne može zamijeniti novom",
+        "6": "Dimenzije: 17 x 17 x 2,9 cm",
+        "7": "Pakirana u kutije od 100 % recikliranog kartona",
+        "8": "Biorazgradiv na odlagalištu otpada uz aditiv Eco-One™",
+        "9": "Novi, jedinstveni dizajn u obliku slova X",
+        "10": "Privatna marka s vašim logotipom izrezanim u materijal ili otisnutim"
+      },
+      "useCases": {
+        "0": "Compact washrooms",
+        "1": "Retrofit programs"
+      }
+    },
+    "ekcoMat": {
+      "name": "ëkco mat",
+      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "category": "ekonomična podloga za pisoar koja štiti pod",
+      "short": "ëkco mat upijajuća je podna podloga za pisoar, namijenjena poboljšanju higijene toaleta i zaštiti podova od nakupljanja urina. S dimenzijama 54 x 51 x 0,5 cm učinkovito prekriva prostor oko većine standardnih pisoara, sprječava oštećenje poda i smanjuje prenošenje urina na potplatima korisnika. Time pomaže održavati čišći i ugodniji toalet.",
+      "long": "ëkco mat upijajuća je podna podloga za pisoar, namijenjena poboljšanju higijene toaleta i zaštiti podova od nakupljanja urina. S dimenzijama 54 x 51 x 0,5 cm učinkovito prekriva prostor oko većine standardnih pisoara, sprječava oštećenje poda i smanjuje prenošenje urina na potplatima korisnika. Time pomaže održavati čišći i ugodniji toalet.\n\nPodloga ëkco mat isplativo je rješenje za jednokratnu upotrebu, idealno za restorane, hotele i druga mjesta s velikim prometom na kojima je higijena prioritet.\n\nPodloga ëkco mat praktično je, higijensko i povoljno rješenje za održavanje čistih i profesionalno uređenih toaleta.",
+      "variants": {
+        "standard": "crna"
+      },
+      "benefits": {
+        "0": "Štiti pod ispod pisoara",
+        "1": "Smanjuje širenje urina na potplatima cipela",
+        "2": "Isplativo higijensko rješenje",
+        "3": "Za jednokratnu upotrebu",
+        "4": "Mogućnost privatne marke",
+        "5": "Dimenzije: 54 x 51 x 0,5 cm"
+      },
+      "useCases": {
+        "0": "Entrances",
+        "1": "Service corridors"
+      }
+    }
+  },
+  "privateLabel": {
+    "hero": {
+      "eyebrow": "Za distributere",
+      "title": "Program privatne robne marke",
+      "lead": "Prodajte naše proizvode pod vlastitim brendom",
+      "body": "Razvijte svoje poslovanje vlastitom linijom proizvoda. Naš program privatnih robnih marki omogućuje distributerima da dodaju provjerene proizvode za kupaonice visokih performansi u svoj portfelj i prodaju ih pod svojim vlastitim brendom — bez vlastitog razvoja ili alata. Sve što trebamo je vaš logo; mi se brinemo za ostalo.",
+      "cta": "Postanite partner"
+    },
+    "why": {
+      "title": "Zašto biti partner s nama",
+      "items": {
+        "0": {
+          "title": "Provjerena rješenja",
+          "body": "Svaki je proizvod rezultat intenzivnog razvoja i projektiran za optimalnu, pouzdanu izvedbu — asortiman na koji s povjerenjem možete staviti svoje ime."
+        },
+        "1": {
+          "title": "Jednostavna prilagodba",
+          "body": "Potreban nam je samo vaš logotip kako bismo vam pružili niz proizvoda koje možete prodavati pod svojim vlastitim brendom."
+        },
+        "2": {
+          "title": "Premium podrška",
+          "body": "Vodimo vas kroz cijeli proces, tako da možete proširiti svoju marku i prodaju."
+        }
+      }
+    },
+    "ways": {
+      "title": "Dva načina brendiranja proizvoda",
+      "print": {
+        "title": "Tiskani brend",
+        "body": "Vaš logo otisnut izravno na proizvod."
+      },
+      "cutout": {
+        "title": "Logo izrez",
+        "body": "Vaš logotip integriran je u sam materijal kao jedinstveni izrez — osebujna, vrhunska završna obrada koju ne nudi niti jedan drugi proizvođač, i jaka razlika za vaš asortiman."
+      }
+    },
+    "beyond": {
+      "title": "Prilagodite izvan proizvoda",
+      "packaging": {
+        "title": "Ambalaža i etikete",
+        "body": "Dodajte svoj logotip, pojedinosti o tvrtki, nazive i opise proizvoda, EAN kodove i još mnogo toga u kutije, glavne kutije ili torbe za pojedinačne proizvode — spremno za maloprodaju pod vašim vlastitim brendom."
+      },
+      "mix": {
+        "title": "Boja i miris",
+        "body": "Ponudite svoju prepoznatljivu kombinaciju boja i mirisa iz našeg asortimana."
+      }
+    },
+    "goodToKnow": {
+      "title": "Dobro je znati",
+      "items": {
+        "0": "Minimalna količina narudžbe ovisi o konkretnom proizvodu koji odaberete.",
+        "1": "Jednokratna naknada za postavljanje primjenjuje se za svaki proizvod koji želite brendirati — ona pokriva alate i pripremu potrebnu za reprodukciju vašeg brendiranja.",
+        "2": "Svi brendirani proizvodi izrađuju se po narudžbi, prema Vašoj specifikaciji.",
+        "3": "Dijelimo točne minimalne količine, cijene i rokove isporuke zajedno s vašom ponudom, nakon što shvatimo vaše specifične zahtjeve."
+      }
+    },
+    "form": {
+      "title": "Postanite partner",
+      "description": "Pošaljite nam svoj zahtjev i jedan od naših prodajnih predstavnika kontaktirat će vas izravno kako bismo razgovarali o detaljima.",
+      "name": "Ime",
+      "company": "Naziv tvrtke",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "products": "Proizvodi za privatne robne marke",
+      "productsHint": "Unesite količinu za proizvode koje želite brendirati. Ne morate ispuniti svaki proizvod — o detaljima ćemo razgovarati nakon vašeg upita.",
+      "quantity": "Količina (kom)",
+      "message": "Poruka",
+      "submit": "Pošalji poruku",
+      "submitting": "Slanje...",
+      "success": "Hvala vam — javit ćemo vam se uskoro.",
+      "error": "Nešto nije u redu. Pokušajte ponovno za koji trenutak.",
+      "alertSelect": "Unesite količinu za barem jedan proizvod. Ne morate naručiti svaki proizvod.",
+      "boundaryError": "Obrazac za upit nije moguće učitati. Osvježite stranicu ili pošaljite e-poruku na support@ekcos.eu."
+    }
+  }
+}

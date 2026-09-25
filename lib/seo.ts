@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import { routing } from '@/i18n/routing'
+import { localeMeta, type AppLocale } from '@/i18n/locales'
 
 export const HOME_OG_IMAGE = {
   url: '/og.png',
@@ -7,15 +8,6 @@ export const HOME_OG_IMAGE = {
   height: 536,
   alt: 'ëkcos product lineup',
 } as const
-
-const OG_LOCALE: Record<(typeof routing.locales)[number], string> = {
-  en: 'en_GB',
-  es: 'es_ES',
-  fr: 'fr_FR',
-  de: 'de_DE',
-  it: 'it_IT',
-  cs: 'cs_CZ',
-}
 
 export type OgImage = {
   url: string
@@ -31,7 +23,8 @@ export function localizedPath(locale: string, path = '/'): string {
 
 export function ogLocale(locale: string): string {
   return (
-    OG_LOCALE[locale as (typeof routing.locales)[number]] ?? `${locale}_${locale.toUpperCase()}`
+    localeMeta[locale as AppLocale]?.ogLocale ??
+    `${locale}_${locale.toUpperCase()}`
   )
 }
 

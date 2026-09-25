@@ -1,0 +1,751 @@
+{
+  "Metadata": {
+    "title": "ëkcos — Torne-se ecológico a cada descarga",
+    "description": "Os nossos tapetes para urinol e ambientadores são fabricados com EVA reciclado. O material em si pode ser reciclado, mas um tapete para urinol usado não, porque está biologicamente contaminado. Acaba num aterro sanitário ou na incineração, e é por isso que adicionamos o aditivo Eco-One™ a todos os nossos produtos.",
+    "productsTitle": "Produtos",
+    "productsDescription": "Explore os produtos ëkcos: alterne modelos, acabamentos e opções - depois visite a loja oficial.",
+    "ecoOneTitle": "Eco-One™",
+    "ecoOneDescription": "Os nossos tapetes para urinol e ambientadores são fabricados com EVA reciclado. O material em si pode ser reciclado, mas um tapete para urinol usado não, porque está biologicamente contaminado. Acaba num aterro sanitário ou na incineração, e é por isso que adicionamos o aditivo Eco-One™ a todos os nossos produtos.",
+    "brandingTitle": "Marca personalizada",
+    "brandingDescription": "Marca privada, recortes e impressão para programas B2B.",
+    "articlesTitle": "Artigos",
+    "articlesDescription": "Insights, atualizações e guias práticos da equipe ëkcos.",
+    "contactTitle": "Contato",
+    "contactDescription": "Entre em contato com a equipe ëkcos para especificações, programas e parcerias.",
+    "privateLabelTitle": "Marca Própria",
+    "privateLabelDescription": "Venda produtos de banheiro ëkcos sob sua própria marca - marca própria para distribuidores."
+  },
+  "LocaleSwitcher": {
+    "label": "Linguagem",
+    "en": "English",
+    "es": "Spanish",
+    "fr": "French",
+    "de": "German",
+    "it": "Italian",
+    "cs": "Czech"
+  },
+  "nav": {
+    "aria": "Primária",
+    "logoAlt": "ëkcos",
+    "openMenu": "Abrir menu",
+    "mobileMenuTitle": "Menu",
+    "home": {
+      "label": "Lar"
+    },
+    "products": {
+      "label": "Produtos"
+    },
+    "articles": {
+      "label": "Artigos"
+    },
+    "ecoOne": {
+      "label": "Eco-One™"
+    },
+    "customBranding": {
+      "label": "Marca personalizada"
+    },
+    "contact": {
+      "label": "Contato"
+    },
+    "privateLabel": {
+      "label": "Marca Própria"
+    },
+    "faq": {
+      "label": "Perguntas frequentes"
+    }
+  },
+  "footer": {
+    "tagline": "A ëkcos innovations oferece soluções de higiene que mantêm as casas de banho limpas e frescas, facilitam a manutenção e utilizam materiais reciclados e biodegradáveis.",
+    "explore": "Explorar",
+    "newsletterTitle": "Boletim informativo",
+    "newsletterHint": "Atualizações de produtos e notícias do programa. Cancele a inscrição a qualquer momento.",
+    "company": {
+      "title": "Detalhes da empresa",
+      "registryCode": "Código de registro da empresa (Estônia)",
+      "vatIdCz": "ID de IVA (República Tcheca)"
+    },
+    "copyright": "© {year} ëkcos. Todos os direitos reservados.",
+    "legalNote": "Site informativo. As compras são finalizadas na loja oficial."
+  },
+  "common": {
+    "shop": "Comprar",
+    "shopCta": "Compre em eshop.ekcos.eu",
+    "learnMore": "Saber mais",
+    "getInTouch": "Contate-nos",
+    "ecoOne": "Eco-One™"
+  },
+  "productDetail": {
+    "backToMap": "De volta ao banheiro",
+    "buyNow": "Compre na eshop",
+    "price": "Preço",
+    "from": "de",
+    "variants": "Variantes disponíveis",
+    "colors": "Cores e fragrâncias",
+    "bases": "Bases de parede",
+    "benefits": "Principais benefícios",
+    "more": "Mais detalhes",
+    "openDetails": "Abrir fotos detalhadas",
+    "detailGallery": "Fotos detalhadas — {name}",
+    "detailShot": "detalhe",
+    "boundaryError": "Esta visualização do produto está temporariamente indisponível. Por favor, tente novamente."
+  },
+  "articles": {
+    "shopCta": {
+      "title": "Pronto para atualizar seus banheiros?",
+      "body": "Procure telas e acessórios para mictórios ëkcos na loja oficial.",
+      "button": "Comprar"
+    }
+  },
+  "newsletter": {
+    "popupTitle": "Mantenha-se informado",
+    "popupDescription": "Atualizações ocasionais sobre produtos, Eco-One™ e programas de marcas personalizadas.",
+    "emailLabel": "E-mail",
+    "emailPlaceholder": "you@company.com",
+    "submit": "Inscrever-se",
+    "configureBrevo": "A inscrição no boletim informativo está temporariamente indisponível. Por favor, tente novamente mais tarde.",
+    "submitError": "Falha na assinatura. Por favor, tente novamente em alguns instantes.",
+    "dismiss": "Agora não"
+  },
+  "home": {
+    "map": {
+      "aria": "Mapa interativo de produtos para banheiros",
+      "hint": "Clique em um produto para saber mais",
+      "imageAlt": "Produtos ëkcos colocados em banheiro comercial"
+    },
+    "overlay": {
+      "moreVariants": "Também disponível em mais cores e fragrâncias na loja.",
+      "shopCta": "Compre na eshop",
+      "close": "Fechar"
+    },
+    "hero": {
+      "title": "Torne-se ecológico a cada descarga",
+      "tagline": "Fabricado com EVA reciclado, biodegradável em aterro com Eco-One™",
+      "body": "Os nossos tapetes para urinol e ambientadores são fabricados com EVA reciclado. O material em si pode ser reciclado, mas um tapete para urinol usado não, porque está biologicamente contaminado.",
+      "ctaProducts": "Explorar produtos",
+      "brandMark": "ekcos.eu"
+    },
+    "benefits": {
+      "eco": {
+        "title": "EVA reciclado com Eco-One™",
+        "body": "Produtos biodegradáveis fabricados com EVA reciclado"
+      },
+      "hygiene": {
+        "title": "Higiene sem compromisso",
+        "body": "Proporciona uma experiência mais limpa e confortável, minimizando respingos de urina e odores desagradáveis."
+      },
+      "costs": {
+        "title": "Menos limpeza, custos mais baixos",
+        "body": "Até 60 dias de frescor significa menos limpezas e redução de despesas."
+      },
+      "distributor": {
+        "title": "Distribuidor Oficial da UE",
+        "body": "Acesso direto a produtos originais Ekcos com entrega rápida e preço justo."
+      },
+      "ecoLink": "Sobre Eco-One™"
+    },
+    "shipping": {
+      "title": "Envio rápido em toda a Europa",
+      "body": "Todos os produtos ëkcos são despachados dentro de 1–2 dias úteis após a confirmação do pagamento. Com entregas seguras e eficientes em toda a UE, pode contar com um reabastecimento consistente para o seu negócio."
+    },
+    "productOfWeek": {
+      "title": "Produto da semana",
+      "cta": "Adicionar ao carrinho"
+    },
+    "productsTeaser": {
+      "title": "Conheça nossos produtos",
+      "body": "Explore xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip e muito mais – depois abra a loja oficial.",
+      "link": "Ver todos os produtos"
+    },
+    "brandingTeaser": {
+      "title": "Marca personalizada para B2B",
+      "body": "Etiquetagem privada, recortes e impressão para programas consistentes em vários locais.",
+      "link": "Marca personalizada"
+    },
+    "trust": {
+      "title": "Construído para instalações exigentes",
+      "body": "Higiene confiável e uma impressão premium no local – desde escritórios até hospitalidade."
+    },
+    "newsletter": {
+      "title": "Especificações, lançamentos e atualizações do programa",
+      "body": "Um breve boletim informativo para equipes de instalações e parceiros. Sem desordem."
+    },
+    "finalCta": {
+      "title": "Entre em contato",
+      "body": "Dúvidas sobre produtos, entrega ou pedidos B2B? Envie-nos uma mensagem - ficaremos felizes em ajudar.",
+      "shop": "Vá para a loja",
+      "contact": "Enviar mensagem"
+    },
+    "marketing": {
+      "featuresEyebrow": "Plataforma unificada",
+      "featuresTitle": "Compare, decida e compre com confiança",
+      "featuresSubtitle": "Explore acabamentos, revise os fatos e abra a loja quando estiver pronto – tudo em um único fluxo.",
+      "featureInteractTitle": "Especificação interativa",
+      "featureInteractBody": "Troque modelos, acabamentos e fragrâncias em segundos – desenvolvidos para instalações e equipes de FM.",
+      "featureProofTitle": "Fatos que você pode compartilhar",
+      "featureProofBody": "Limpe os downloads do Eco-One™ para que sua equipe possa explicar a escolha aos colegas ou clientes.",
+      "featureB2bTitle": "Programas que escalam",
+      "featureB2bBody": "Marca personalizada e pedidos B2B para implementações que precisam de consistência, velocidade e uma aparência refinada no local.",
+      "numbersEyebrow": "Pelos números",
+      "numbersTitle": "Clareza operacional, apresentação premium",
+      "statProductsLabel": "Famílias de produtos para explorar",
+      "statTechLabel": "Eco-One™ fatos e downloads",
+      "statShopLabel": "Loja oficial",
+      "galleryEyebrow": "Alinhar",
+      "galleryTitle": "Fotografia do catálogo",
+      "gallerySubtitle": "Fotografia real de produtos para propostas, apresentações e orientações."
+    }
+  },
+  "ecoOne": {
+    "hero": {
+      "title": "Eco-One™ para biodegradação em aterros sanitários",
+      "tagline": "Mesmo produto. Mesmo desempenho. Feito com EVA reciclado e Eco-One™.",
+      "body": "Os nossos tapetes para urinol e ambientadores são fabricados com EVA reciclado. O material em si pode ser reciclado, mas um tapete para urinol usado não, porque está biologicamente contaminado. Acaba num aterro sanitário ou na incineração, e é por isso que adicionamos o aditivo Eco-One™ a todos os nossos produtos. Num ensaio independente segundo as normas ASTM D5511 e ISO 15985, no Instituto Politécnico Nacional, na Cidade do México, o EVA ëkcos com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, enquanto o mesmo material sem o aditivo registou 0%. Prevê-se até 99% de biodegradação em 5 anos. As nossas caixas são feitas de cartão 100% reciclado."
+    },
+    "metrics": {
+      "additive": {
+        "value": "~1%",
+        "label": "conteúdo aditivo"
+      },
+      "measured": {
+        "value": "~3,5 anos",
+        "label": "até 93% de biodegradação"
+      },
+      "projected": {
+        "value": "até 99%",
+        "label": "dentro de aproximadamente 5 anos"
+      }
+    },
+    "problem": {
+      "title": "Por que o plástico comum é um problema",
+      "body": "Os produtos plásticos comuns são projetados para durar. Sem um aditivo de biodegradação, um produto plástico enviado para aterro pode permanecer lá por <bold>300 a 1.000 anos</bold>; tamancos de espuma “estilo Crocs” são um exemplo familiar de plástico que <bold>não é biodegradável</bold>. Nossos produtos são feitos do mesmo tipo de plástico durável (EVA) — mas com uma diferença decisiva: o aditivo Eco-One™.",
+      "chartAlt": "Produtos sem Eco-One™ em comparação com produtos ëkcos contendo o aditivo",
+      "chartCaption": "Produtos sem Eco-One™ em comparação com produtos ëkcos contendo o aditivo.",
+      "chart": {
+        "ariaLabel": "Comparação de anos para decomposição em aterro",
+        "withoutLabel": "Produtos sem Eco-One™",
+        "withLabel": "ëkcos com Eco-One™",
+        "withoutValue": "300–1.000 anos",
+        "withValue": "3,5–5 anos",
+        "withoutDetail": "Sem um aditivo de biodegradação, o plástico convencional pode permanecer em aterros durante séculos.",
+        "withDetail": "Com o aditivo Eco-One™, testes independentes mostram ~93% de biodegradação em cerca de 3,5 anos e até 99% em cinco anos.",
+        "axisLabel": "Anos para quebrar (aterro)",
+        "caption": "Produtos sem Eco-One™ em comparação com produtos ëkcos contendo o aditivo.",
+        "scaleLabel": "Escala do gráfico",
+        "scaleFull": "0–1.000 anos",
+        "scaleZoom": "0–10 anos",
+        "clippedNote": "continua →"
+      }
+    },
+    "solution": {
+      "title": "Nossa solução: O aditivo Eco-One™",
+      "body1": "Durante a fabricação incorporamos aproximadamente <bold>1% de Eco-One™</bold>, um aditivo orgânico dosado da mesma forma que um corante. Não afeta a resistência, aparência ou desempenho do produto.",
+      "body2": "Num aterro biologicamente ativo, os microrganismos naturais decompõem o plástico tratado através de atividade enzimática, convertendo-o em biogás (<bold>metano</bold>, que os aterros modernos capturam para recuperação de energia), dióxido de carbono e húmus.",
+      "body3": "Como o produto acaba se decompondo em húmus, ele devolve a matéria orgânica ao aterro e ajuda a acelerar os processos bioquímicos que já estão em operação lá. O produto, portanto, contribui <bold>não apenas durante sua vida útil, mas também após ela</bold>."
+    },
+    "testing": {
+      "title": "Teste independente",
+      "body": "O produto foi testado por laboratório independente de acordo com as normas internacionais <bold>ASTM D5511 e ISO 15985</bold>, comparando o mesmo produto com e sem o aditivo Eco-One™. Com Eco-One™, atingiu <bold>93,31% de biodegradação em aproximadamente 3,5 anos e até 99% em cinco anos</bold>; sem Eco-One™, o produto não apresentou biodegradação mensurável.",
+      "barChart": {
+        "ariaLabel": "Biodegradação em aproximadamente 3,5 anos com e sem Eco-One™",
+        "yAxis": "Biodegradação (%)",
+        "withLabel": "ëkcos com Eco-One™",
+        "withoutLabel": "Produtos sem Eco-One™",
+        "withDetail": "93,31% de biodegradação medida em um teste de laboratório independente ASTM D5511/ISO 15985 após cerca de 3,5 anos.",
+        "withoutDetail": "O mesmo produto sem Eco-One™ não apresentou biodegradação mensurável durante o mesmo período de teste.",
+        "subtitle": "Mesmo produto · mesmo teste de laboratório (ASTM D5511/ISO 15985) · ~3,5 anos"
+      },
+      "timelineChart": {
+        "ariaLabel": "Biodegradação ao longo de cinco anos com e sem Eco-One™",
+        "yAxis": "Biodegradação (%)",
+        "xAxis": "Anos",
+        "withLabel": "ëkcos com Eco-One™",
+        "withoutLabel": "Produtos sem Eco-One™",
+        "zeroNote": "0% o tempo todo",
+        "measured": "medida",
+        "projected": "projetada",
+        "yearsUnit": "anos",
+        "projectedNote": "Projetado a partir da tendência medida",
+        "caption": "Biodegradação com e sem o aditivo Eco-One™. Valores além de 3,5 anos são projetados a partir da tendência medida."
+      }
+    },
+    "closing": {
+      "title": "Produtos ëkcos com Eco-One™",
+      "body": "Nossos produtos para banheiro são fabricados com o aditivo Eco-One™. Em um teste de laboratório independente, o ëkcos EVA com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e até 99% é projetado em 5 anos em condições de aterro — com desempenho idêntico aos produtos sem o aditivo.",
+      "shopCta": "Comprar"
+    },
+    "footnote": "Fonte de dados: teste de biodegradação independente de acordo com ASTM D5511-02 e ISO 15985:2014 (Instituto Politécnico Nacional, Cidade do México) — Produto ëkcos com 1% de aditivo Eco-One™: 93,31% de biodegradação ao longo de 1.288 dias (≈3,5 anos); o mesmo produto sem o aditivo: 0%. A biodegradação além do período de teste (até 99% dentro de aproximadamente 5 anos) é projetada a partir da tendência medida. Os números de persistência para plásticos convencionais (≈300–1.000 anos) são estimativas da indústria amplamente citadas. O aditivo Eco-One™ é fabricado e certificado pela EcoLogic, LLC."
+  },
+  "customBranding": {
+    "hero": {
+      "eyebrow": "Especificação B2B",
+      "title": "Marca personalizada",
+      "subtitle": "Etiquetagem privada, recortes e impressão para programas de marcas em vários locais."
+    },
+    "introEyebrow": "Visão geral do programa",
+    "introTitle": "Marca liderada por especificações",
+    "intro": "Ajudamos você a colocar sua marca no produto com qualidade de fábrica: especificações claras, produção constante e documentação que sua equipe pode entregar aos auditores ou clientes.",
+    "sections": {
+      "private": {
+        "title": "Marca privada",
+        "body": "Sua arte é tratada de forma consistente desde a aprovação até a produção — para que cada lote corresponda à sua marca."
+      },
+      "cutouts": {
+        "title": "Recortes personalizados",
+        "body": "Aberturas e reentrâncias moldadas que se adaptam a equipamentos reais e à forma como suas equipes os instalam."
+      },
+      "print": {
+        "title": "Opções de impressão",
+        "body": "Impressão durável que permanece legível no produto durante o uso diário."
+      }
+    },
+    "pricing": {
+      "title": "Termos comerciais",
+      "description": "Taxas publicadas: configuração única, marca por unidade e etiquetas de embalagem opcionais.",
+      "entryFee": "Taxa única de entrada",
+      "brandingCost": "Custo de marca",
+      "packagingLabels": "Etiquetas personalizadas nas embalagens"
+    },
+    "standardMoq": {
+      "title": "MOQ para marca padrão",
+      "description": "Quantidades mínimas de pedido para programas de marca padrão com recortes ou impressão de logotipo.",
+      "productLabel": "Produto",
+      "moqLabel": "Quantidade mínima [peças]",
+      "note": "* Se desejar encomendar apenas as bases Fresh Drop, o MOQ é de 288 unidades."
+    },
+    "customMix": {
+      "title": "Mistura personalizada de cores e fragrâncias",
+      "description": "Podemos produzir uma combinação personalizada de fragrância e cor de nossa linha. A quantidade mínima de encomenda corresponde a uma palete completa de cada produto personalizado.",
+      "productLabel": "Produto",
+      "moqLabel": "Quantidade mínima [peças]",
+      "note": "* Tela básica MOQ é para meia palete."
+    },
+    "production": {
+      "title": "Produção, prazo de entrega e pagamento"
+    },
+    "process": {
+      "title": "Um processo simples",
+      "steps": {
+        "0": "Concordamos em volumes, regiões e prazos.",
+        "1": "Você aprova obras de arte, materiais e acabamentos.",
+        "2": "Fabricamos com verificações de qualidade em cada etapa.",
+        "3": "Enviamos para seus sites na programação que você precisa."
+      }
+    },
+    "inquiry": {
+      "title": "Solicitar informações",
+      "hint": "Conte-nos sobre volumes, regiões e requisitos de marca."
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Suporte técnico e comercial",
+      "title": "Contato",
+      "subtitle": "Pergunte-nos sobre Eco-One™, especificações ou programas B2B – faça pedidos a qualquer momento na loja oficial."
+    },
+    "details": {
+      "title": "Contato",
+      "email": "E-mail",
+      "phone": "Telefone",
+      "hours": "Horas",
+      "hoursValue": "De segunda a sexta, das 09h00 às 17h00 CET"
+    },
+    "company": {
+      "title": "Dados da empresa cadastrada",
+      "registryCode": "Código de registro da empresa (Estônia)",
+      "vatIdCz": "ID de IVA (República Tcheca)"
+    },
+    "form": {
+      "name": "Nome",
+      "company": "Empresa",
+      "email": "E-mail",
+      "phone": "Telefone",
+      "message": "Mensagem",
+      "submit": "Enviar mensagem",
+      "success": "Obrigado – entraremos em contato com você em breve.",
+      "error": "Algo deu errado. Por favor, tente novamente."
+    }
+  },
+  "products": {
+    "page": {
+      "title": "Products",
+      "intro": "Switch models and finishes, then buy in the official store.",
+      "heroEyebrow": "Explore the range",
+      "heroTitle": "Configure every line in one place",
+      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroLinkEco": "About Eco-One™",
+      "heroLinkBranding": "Custom branding"
+    },
+    "configurator": {
+      "color": "Finish",
+      "selectProduct": "Select product",
+      "fragrance": "Fragrance options",
+      "benefits": "Benefits",
+      "productBenefits": "Product benefits",
+      "availableColorsFragrances": "Available colors & fragrances",
+      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
+      "byBrand": "by ëkcos",
+      "siteUrl": "www.ekcos.eu",
+      "useCases": "Typical applications",
+      "brandingNote": "Custom branding available for qualified orders."
+    },
+    "colors": {
+      "white": "White",
+      "grey": "Grey",
+      "black": "Black",
+      "blue": "Blue"
+    },
+    "fragrances": {
+      "fresh": "Fresh",
+      "citrus": "Citrus"
+    },
+    "variantLabels": {
+      "x1p": "roxo / frutos silvestres",
+      "x2g": "verde / maçã",
+      "x3b": "azul / fresh",
+      "x4o": "laranja / frutos tropicais",
+      "x6c": "transparente / frutos tropicais",
+      "x7bk": "preto / menta",
+      "x8bm": "chama / manga",
+      "x9g": "verde / pinho",
+      "x10r": "vermelho / melão",
+      "x12p": "roxo / lavanda",
+      "x13c": "amarelo / citrinos"
+    },
+    "xcrenHd": {
+      "name": "xcrën HD",
+      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "category": "tapete para urinol de design com proteção extrema anti-salpicos",
+      "badge": "tapete para urinol de design com proteção extrema anti-salpicos",
+      "short": "O xcrën HD 60+ é um tapete perfumado para urinol com uma forma patenteada que se destaca no urinol. Ao contrário dos habituais tapetes ovais, transforma o urinol num elemento de design. As suas cerdas patenteadas (Sealed Bristles Technology™) cobrem 92% do tapete e minimizam os salpicos de urina e os maus odores. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante 60+ dias. Em casas de banho de pouca afluência, dura ainda mais.",
+      "long": "O xcrën HD 60+ é um tapete perfumado para urinol com uma forma patenteada que se destaca no urinol. Ao contrário dos habituais tapetes ovais, transforma o urinol num elemento de design. As suas cerdas patenteadas (Sealed Bristles Technology™) cobrem 92% do tapete e minimizam os salpicos de urina e os maus odores. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante 60+ dias. Em casas de banho de pouca afluência, dura ainda mais.\n\nConcebido para casas de banho de grande afluência em restaurantes, bares, aeroportos e centros comerciais, o xcrën HD 60+ alia a higiene a um visual que distingue a casa de banho.\n\nO xcrën HD 60+ é fabricado com EVA reciclado. O material em si pode ser reciclado, mas um tapete para urinol usado não, porque está biologicamente contaminado. Acaba em aterro ou na incineração, e é por isso que o xcrën HD 60+ contém o aditivo Eco-One™. Num ensaio laboratorial independente, o EVA ëkcos com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e prevê-se que atinja até 99% em 5 anos.\n\nO xcrën HD 60+ combina uma forte proteção contra salpicos, 60+ dias de fragrância e um design patenteado que se destaca em qualquer casa de banho.",
+      "benefits": {
+        "0": "Forma patenteada que se distingue dos habituais tapetes ovais",
+        "1": "Cerdas anti-salpicos patenteadas cobrem 92% da superfície do tapete para ajudar a proteger os utilizadores de salpicos indesejados e manter a zona envolvente mais limpa",
+        "2": "Material exclusivo impregnado com uma fragrância à base de desodorizante, que se liberta gradualmente durante 60+ dias",
+        "3": "A fragrância dura o dobro do tempo dos tapetes convencionais de 30 dias",
+        "4": "Especialmente concebido para casas de banho de grande afluência, como em restaurantes, bares, aeroportos, centros comerciais, etc.",
+        "5": "Fabricado com EVA reciclado, biodegradável em aterro com Eco-One™",
+        "6": "Embalado em caixas de cartão 100% reciclado",
+        "7": "Perfeito para urinóis sem água",
+        "8": "Dimensões: 17 x 18 x 2,1 cm",
+        "9": "Vasta gama de cores e fragrâncias agradáveis",
+        "10": "Personalização com o seu logótipo, recortado no material ou impresso"
+      },
+      "variants": {
+        "xhd1p": "roxo / frutos silvestres",
+        "xhd2g": "verde / maçã",
+        "xhd3b": "azul / fresh",
+        "xhd4o": "laranja / frutos tropicais",
+        "xhd6c": "transparente / frutos tropicais",
+        "xhd7bk": "preto / menta",
+        "xhd8bm": "chama / manga",
+        "xhd9g": "verde / pinho",
+        "xhd10r": "vermelho / melão",
+        "xhd12p": "roxo / lavanda",
+        "xhd13c": "amarelo / citrinos"
+      },
+      "useCases": {
+        "0": "Corporate offices",
+        "1": "Hotels and hospitality"
+      }
+    },
+    "ekcoscreen": {
+      "name": "ëkcoscreen",
+      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "tapete pesado anti-salpicos para urinol, aroma que dura o dobro",
+      "short": "O ëkcoscreen 60+ é um tapete perfumado para urinol com cerdas patenteadas (Sealed Bristles Technology™) que cobrem 95% do tapete. Minimiza os salpicos de urina e os maus odores, para uma casa de banho mais limpa e confortável. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante 60+ dias, o dobro do tempo dos tapetes convencionais de 30 dias. Em casas de banho de pouca afluência, dura ainda mais.",
+      "long": "O ëkcoscreen 60+ é um tapete perfumado para urinol com cerdas patenteadas (Sealed Bristles Technology™) que cobrem 95% do tapete. Minimiza os salpicos de urina e os maus odores, para uma casa de banho mais limpa e confortável. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante 60+ dias, o dobro do tempo dos tapetes convencionais de 30 dias. Em casas de banho de pouca afluência, dura ainda mais.\n\nConcebido para casas de banho de grande afluência em restaurantes, bares, aeroportos, centros comerciais e outros espaços com especial atenção à higiene, o ëkcoscreen 60+ melhora a limpeza e o controlo de odores.\n\nO ëkcoscreen 60+ é fabricado com EVA reciclado. O material em si pode ser reciclado, mas um tapete para urinol usado não, porque está biologicamente contaminado. Acaba em aterro ou na incineração, e é por isso que o ëkcoscreen 60+ contém o aditivo Eco-One™. Num ensaio laboratorial independente, o EVA ëkcos com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e prevê-se que atinja até 99% em 5 anos.\n\nO ëkcoscreen 60+ combina uma proteção eficaz contra salpicos, 60+ dias de fragrância e EVA reciclado e biodegradável, para casas de banho de grande afluência.",
+      "benefits": {
+        "0": "Cerdas anti-salpicos patenteadas cobrem 95% da superfície do tapete para ajudar a proteger os utilizadores de salpicos indesejados e manter a zona envolvente mais limpa",
+        "1": "Sem salpicos visíveis fora do tapete num teste comparativo de salpicos com luz UV, lado a lado e em condições idênticas",
+        "2": "Material exclusivo impregnado com uma fragrância à base de desodorizante, que se liberta gradualmente durante 60+ dias",
+        "3": "A fragrância dura o dobro do tempo dos tapetes de 30 dias, com um custo diário semelhante",
+        "4": "141 g de material perfumado por tapete, mais do triplo de um tapete comum",
+        "5": "Especialmente concebido para casas de banho de grande afluência, como em restaurantes, bares, aeroportos, centros comerciais, etc.",
+        "6": "Fabricado com EVA reciclado, biodegradável em aterro com Eco-One™",
+        "7": "Embalado em caixas de cartão 100% reciclado",
+        "8": "Ideal para urinóis sem água",
+        "9": "Dimensões: 20 x 21 x 2,2 cm",
+        "10": "Design único, vasta gama de cores e fragrâncias agradáveis",
+        "11": "Personalização com o seu logótipo, recortado no material ou impresso"
+      },
+      "useCases": {
+        "0": "Retail",
+        "1": "Public buildings"
+      }
+    },
+    "powerscreen": {
+      "name": "powër screen",
+      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "category": "tapete anti-salpicos potente para urinol, para troca mensal",
+      "short": "O powër screen é um tapete perfumado para urinol com um sistema de cerdas patenteado (Sealed Bristles Technology™). Minimiza os salpicos de urina e os maus odores, para uma casa de banho mais limpa e confortável. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante até 30 dias, o que o torna ideal para a manutenção mensal de urinóis.",
+      "long": "O powër screen é um tapete perfumado para urinol com um sistema de cerdas patenteado (Sealed Bristles Technology™). Minimiza os salpicos de urina e os maus odores, para uma casa de banho mais limpa e confortável. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante até 30 dias, o que o torna ideal para a manutenção mensal de urinóis.\n\nO powër screen é fabricado com EVA reciclado. O material em si pode ser reciclado, mas um tapete para urinol usado não, porque está biologicamente contaminado. Acaba em aterro ou na incineração, e é por isso que o powër screen contém o aditivo Eco-One™. Num ensaio laboratorial independente, o EVA ëkcos com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e prevê-se que atinja até 99% em 5 anos.\n\nO powër screen combina uma proteção eficaz contra salpicos, até 30 dias de fragrância e EVA reciclado e biodegradável, para a manutenção mensal da casa de banho.",
+      "benefits": {
+        "0": "Cerdas anti-salpicos patenteadas que ajudam a proteger os utilizadores de salpicos indesejados e a manter a zona envolvente mais limpa",
+        "1": "Material exclusivo impregnado com uma fragrância à base de desodorizante, que se liberta gradualmente durante até 30 dias",
+        "2": "Ideal para a manutenção mensal de urinóis",
+        "3": "Fabricado com EVA reciclado, biodegradável em aterro com Eco-One™",
+        "4": "Embalado em caixas de cartão 100% reciclado",
+        "5": "Adequado para urinóis sem água",
+        "6": "Forma flexível que se adapta a quase todos os tipos de urinol",
+        "7": "Design que valoriza qualquer casa de banho",
+        "8": "Dimensões: 18 x 20 x 1,8 cm",
+        "9": "Design único, vasta gama de cores e fragrâncias agradáveis",
+        "10": "Personalização com o seu logótipo, recortado no material ou impresso"
+      },
+      "useCases": {
+        "0": "Stadiums",
+        "1": "Transport hubs"
+      }
+    },
+    "basicScreen": {
+      "name": "basic scrëen",
+      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "category": "tapete para urinol biodegradável em aterro, a preço baixo",
+      "short": "O basic scrëen é um tapete para urinol económico que desodoriza os urinóis e evita a acumulação de detritos. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante até 30 dias, o que o torna ideal para a manutenção mensal de urinóis.",
+      "long": "O basic scrëen é um tapete para urinol económico que desodoriza os urinóis e evita a acumulação de detritos. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante até 30 dias, o que o torna ideal para a manutenção mensal de urinóis.\n\nO basic scrëen é fabricado com EVA reciclado. O material em si pode ser reciclado, mas um tapete para urinol usado não, porque está biologicamente contaminado. Acaba em aterro ou na incineração, e é por isso que o basic scrëen contém o aditivo Eco-One™. Num ensaio laboratorial independente, o EVA ëkcos com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e prevê-se que atinja até 99% em 5 anos.\n\nO basic scrëen combina um controlo de odores fiável, proteção contra detritos e EVA reciclado e biodegradável, a baixo custo.",
+      "benefits": {
+        "0": "Material exclusivo impregnado com uma fragrância à base de desodorizante, que se liberta gradualmente",
+        "1": "Libertação de fragrância durante até 30 dias",
+        "2": "Ideal para a manutenção mensal de urinóis",
+        "3": "Adequado para urinóis sem água",
+        "4": "Forma flexível que se adapta a quase todos os tipos de urinol",
+        "5": "Dimensões: 20 x 19 cm",
+        "6": "Design único, vasta gama de cores e fragrâncias agradáveis",
+        "7": "Solução de baixo custo para a higiene mensal dos urinóis",
+        "8": "Fabricado com EVA reciclado, biodegradável em aterro com Eco-One™",
+        "9": "Enviado em caixas de cartão 100% reciclado",
+        "10": "Personalização com o seu logótipo, recortado no material ou impresso"
+      },
+      "useCases": {
+        "0": "Schools",
+        "1": "Light commercial"
+      }
+    },
+    "urolite": {
+      "name": "üro lite",
+      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "pequeno tapete para urinol, grande proteção contra salpicos",
+      "short": "O üro lite é um tapete perfumado e flexível para urinol, concebido para urinóis mais pequenos. Utiliza a mesma Sealed Bristles Technology™ patenteada do ëkcoscreen 60+ e, em vez de um diâmetro maior, recorre a cerdas longas que oferecem uma grande proteção contra salpicos num tapete pequeno. Reduz ao mínimo os salpicos de urina e os maus odores. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante até 30 dias, o que o torna ideal para a manutenção mensal de urinóis.",
+      "long": "O üro lite é um tapete perfumado e flexível para urinol, concebido para urinóis mais pequenos. Utiliza a mesma Sealed Bristles Technology™ patenteada do ëkcoscreen 60+ e, em vez de um diâmetro maior, recorre a cerdas longas que oferecem uma grande proteção contra salpicos num tapete pequeno. Reduz ao mínimo os salpicos de urina e os maus odores. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante até 30 dias, o que o torna ideal para a manutenção mensal de urinóis.\n\nO üro lite é fabricado com EVA reciclado. O material em si pode ser reciclado, mas um tapete para urinol usado não, porque está biologicamente contaminado. Acaba em aterro ou na incineração, e é por isso que o üro lite contém o aditivo Eco-One™. Num ensaio laboratorial independente, o EVA ëkcos com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e prevê-se que atinja até 99% em 5 anos.\n\nO üro lite dá aos urinóis mais pequenos uma grande proteção contra salpicos graças às suas cerdas longas, únicas e patenteadas, num tapete compacto e económico, fabricado com EVA reciclado e biodegradável.",
+      "benefits": {
+        "0": "Cerdas longas, únicas e patenteadas, que ajudam a proteger os utilizadores dos salpicos e a manter a zona envolvente mais limpa",
+        "1": "A mesma Sealed Bristles Technology™ patenteada do ëkcoscreen 60+",
+        "2": "Material exclusivo impregnado com uma fragrância à base de desodorizante, que se liberta gradualmente durante até 30 dias",
+        "3": "Tamanho compacto, especialmente concebido para urinóis mais pequenos",
+        "4": "Ideal para a manutenção mensal de urinóis",
+        "5": "Adequado para urinóis sem água",
+        "6": "Fabricado com EVA reciclado, biodegradável em aterro com Eco-One™",
+        "7": "Embalado em caixas de cartão 100% reciclado",
+        "8": "Dimensões: 13 x 13 x 1,8 cm",
+        "9": "Design único, vasta gama de cores e fragrâncias agradáveis",
+        "10": "Personalização com o seu logótipo, recortado no material ou impresso"
+      },
+      "useCases": {
+        "0": "Boutique hospitality",
+        "1": "Premium office"
+      }
+    },
+    "ekcoClip": {
+      "name": "ëkco clip",
+      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "category": "clip ambientador para sanita, frescura e encaixe quase universal",
+      "short": "O ëkco clip é um clip ambientador para sanita que proporciona um controlo contínuo de odores e mantém as cabines de WC frescas. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante até 30 dias. O seu design flexível adapta-se à maioria dos tipos de sanita, pelo que é fácil de colocar e difunde bem a fragrância.",
+      "long": "O ëkco clip é um clip ambientador para sanita que proporciona um controlo contínuo de odores e mantém as cabines de WC frescas. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante até 30 dias. O seu design flexível adapta-se à maioria dos tipos de sanita, pelo que é fácil de colocar e difunde bem a fragrância.\n\nO ëkco clip é fabricado com EVA reciclado. O material em si pode ser reciclado, mas um clip para sanita usado não, porque está biologicamente contaminado. Acaba em aterro ou na incineração, e é por isso que o ëkco clip contém o aditivo Eco-One™. Num ensaio laboratorial independente, o EVA ëkcos com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e prevê-se que atinja até 99% em 5 anos.\n\nO ëkco clip combina um controlo contínuo de odores durante até 30 dias, uma colocação fácil na maioria das sanitas e EVA reciclado e biodegradável.",
+      "benefits": {
+        "0": "Material exclusivo impregnado com uma fragrância à base de desodorizante, que se liberta gradualmente",
+        "1": "Proteção eficaz contra odores",
+        "2": "Design único para uma libertação ideal da fragrância",
+        "3": "Libertação de fragrância durante até 30 dias",
+        "4": "Forma flexível que se adapta a quase todos os tipos de sanita",
+        "5": "Dimensões: 10 x 5 x 4,5 cm",
+        "6": "Vasta gama de cores e fragrâncias agradáveis",
+        "7": "Aromatização económica para sanitas",
+        "8": "Fabricado com EVA reciclado, biodegradável em aterro com Eco-One™",
+        "9": "Embalado em caixas de cartão 100% reciclado",
+        "10": "Personalização com o seu logótipo, recortado no material ou impresso"
+      },
+      "useCases": {
+        "0": "Facility retrofits",
+        "1": "Specification-led projects"
+      }
+    },
+    "freshDrop": {
+      "name": "frësh drop",
+      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "category": "ambientador WC de longa duração, sem pilhas",
+      "short": "O frësh drop é um ambientador de interior concebido para cabines de WC e casas de banho. A sua recarga, feita de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente, sem pilhas nem eletricidade. Em cabines fechadas com pouca ou nenhuma ventilação dura 60+ dias e, onde o ar circula mais, a fragrância dispersa-se mais depressa. O seu design em forma de gota complementa qualquer casa de banho, e a fita adesiva incluída permite uma instalação fácil em quase todas as superfícies. Para espaços pequenos, escolha o compacto ëkco loop.",
+      "long": "O frësh drop é um ambientador de interior concebido para cabines de WC e casas de banho. A sua recarga, feita de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente, sem pilhas nem eletricidade. Em cabines fechadas com pouca ou nenhuma ventilação dura 60+ dias e, onde o ar circula mais, a fragrância dispersa-se mais depressa. O seu design em forma de gota complementa qualquer casa de banho, e a fita adesiva incluída permite uma instalação fácil em quase todas as superfícies. Para espaços pequenos, escolha o compacto ëkco loop.\n\nA recarga do frësh drop é fabricada com EVA reciclado, e o material pode ser reciclado. A recarga e a base contêm ambas o aditivo Eco-One™, pelo que ambas são biodegradáveis em aterro. Num ensaio laboratorial independente, o EVA ëkcos com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e prevê-se que atinja até 99% em 5 anos.\n\nO frësh drop combina 60+ dias de fragrância, instalação fácil e uma recarga de EVA reciclado e biodegradável, para cabines de WC e casas de banho.",
+      "benefits": {
+        "0": "Material exclusivo impregnado com uma fragrância à base de desodorizante, que se liberta gradualmente",
+        "1": "A forma perfeita de manter a casa de banho fresca e limpa, especialmente pensada para cabines de WC",
+        "2": "Libertação de fragrância durante 60+ dias em cabines fechadas, sem necessidade de pilhas nem eletricidade",
+        "3": "Design em forma de gota que complementa qualquer casa de banho",
+        "4": "Instalação fácil com a fita adesiva incluída",
+        "5": "Dimensões: 23 x 12 x 3,5 cm",
+        "6": "Vasta gama de cores e fragrâncias agradáveis",
+        "7": "Recarga fabricada com EVA reciclado e reciclável",
+        "8": "Recarga e base biodegradáveis em aterro com Eco-One™",
+        "9": "Embalado em caixas de cartão 100% reciclado",
+        "10": "Opção de personalização com a sua marca através de impressão"
+      },
+      "useCases": {
+        "0": "Hospitality",
+        "1": "Premium retail"
+      },
+      "bases": {
+        "black": "preta"
+      }
+    },
+    "ezTrap": {
+      "name": "ëz trap",
+      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "category": "cartucho para urinol sem água que veda odores, fácil de manter",
+      "short": "O ëz trap é um sistema de cartucho inovador, concebido para melhorar a eficiência, a limpeza e o controlo de odores dos urinóis sem água, reduzindo significativamente os custos de manutenção.",
+      "long": "O ëz trap é um sistema de cartucho inovador, concebido para melhorar a eficiência, a limpeza e o controlo de odores dos urinóis sem água, reduzindo significativamente os custos de manutenção.\n\nGraças ao sistema de cartucho patenteado ëz trap, a urina flui naturalmente pelo sifão, e uma tampa fecha e veda após cada utilização. Isto impede a saída de odores e garante que, a cada utilização, a urina antiga é removida do sistema, mantendo a casa de banho mais fresca.\n\nO ëz trap é fabricado com o aditivo Eco-One™, que o torna biodegradável em aterro. Num ensaio laboratorial independente, o material ëkcos com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e prevê-se que atinja até 99% em 5 anos.\n\nO ëz trap oferece uma forma eficiente, de baixa manutenção e económica de impedir que os odores do esgoto saiam pelos urinóis sem água.",
+      "variants": {
+        "withoutTool": "sem ferramenta de remoção",
+        "withTool": "com ferramenta de remoção"
+      },
+      "benefits": {
+        "0": "Bloqueia os odores do esgoto: o sifão e a tampa impedem a saída dos maus cheiros da canalização",
+        "1": "Dispensa géis dispendiosos ou produtos de limpeza especiais",
+        "2": "Manutenção fácil e económica: basta deitar um copo de água por dia para evitar a acumulação de calcário",
+        "3": "Grande durabilidade: o cartucho dura de 4 a 6+ meses, e a limpeza regular com um produto anticalcário (por exemplo, um gel de WC de qualidade) prolonga a sua vida útil",
+        "4": "Ampla compatibilidade: adequado para Sloan, Falcon, Vitra, Bobrick e outras marcas que utilizam o sistema Falcon Velocity (diâmetro 11,8 cm, altura 11,5 cm)",
+        "5": "Dimensões: Ø 11,8 x 11,5 cm",
+        "6": "Embalado em caixas de cartão 100% reciclado",
+        "7": "Biodegradável em aterro com o aditivo Eco-One™"
+      },
+      "useCases": {
+        "0": "Food service",
+        "1": "Healthcare support areas"
+      }
+    },
+    "xcrenPuck": {
+      "name": "xcrën puck",
+      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "category": "tapete para urinol em forma de X com pastilha desodorizante",
+      "short": "O xcrën puck é um tapete para urinol com uma pastilha desodorizante NON-PARA, concebido para um controlo eficaz de odores e a proteção do ralo. Não contém paradiclorobenzeno (PARA), que a OMS classifica como possivelmente cancerígeno. As pastilhas de PARA ainda são utilizadas em alguns tapetes para urinol, enquanto as regras da UE restringem o PARA nos desodorizantes para sanitas. O seu design em forma de X impede que sólidos e detritos entupam o ralo e liberta uma fragrância limpa e fresca a cada utilização, durante até 30 dias.",
+      "long": "O xcrën puck é um tapete para urinol com uma pastilha desodorizante NON-PARA, concebido para um controlo eficaz de odores e a proteção do ralo. Não contém paradiclorobenzeno (PARA), que a OMS classifica como possivelmente cancerígeno. As pastilhas de PARA ainda são utilizadas em alguns tapetes para urinol, enquanto as regras da UE restringem o PARA nos desodorizantes para sanitas. O seu design em forma de X impede que sólidos e detritos entupam o ralo e liberta uma fragrância limpa e fresca a cada utilização, durante até 30 dias.\n\nA pastilha é feita principalmente de cera e glicerina e dissolve-se com a utilização. O xcrën puck é fabricado com o aditivo Eco-One™, que o torna biodegradável em aterro. Num ensaio laboratorial independente, o material ëkcos com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e prevê-se que atinja até 99% em 5 anos. É um produto descartável e a pastilha não pode ser substituída por uma nova.\n\nO xcrën puck é uma forma simples e eficaz de manter os urinóis frescos e os ralos desobstruídos durante até 30 dias.",
+      "variants": {
+        "whiteFresh": "branco / fresh",
+        "blueFresh": "azul / fresh"
+      },
+      "benefits": {
+        "0": "Pastilha NON-PARA: sem paradiclorobenzeno, que a OMS classifica como possivelmente cancerígeno",
+        "1": "Impede que sólidos e outros detritos entupam o ralo",
+        "2": "Liberta uma fragrância limpa e fresca a cada utilização, durante até 30 dias",
+        "3": "Ideal para a manutenção mensal de urinóis",
+        "4": "Pastilha feita principalmente de cera e glicerina",
+        "5": "Descartável: a pastilha não pode ser substituída por uma nova",
+        "6": "Dimensões: 17 x 17 x 2,9 cm",
+        "7": "Embalado em caixas de cartão 100% reciclado",
+        "8": "Biodegradável em aterro com o aditivo Eco-One™",
+        "9": "Um design em X novo e único",
+        "10": "Personalização com o seu logótipo, recortado no material ou impresso"
+      },
+      "useCases": {
+        "0": "Compact washrooms",
+        "1": "Retrofit programs"
+      }
+    },
+    "ekcoMat": {
+      "name": "ëkco mat",
+      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "category": "tapete de chão económico para urinol que protege o pavimento",
+      "short": "O ëkco mat é um tapete de chão absorvente para urinol, concebido para melhorar a higiene da casa de banho e proteger o pavimento da acumulação de urina. Com dimensões de 54 x 51 x 0,5 cm, cobre eficazmente a zona em redor da maioria dos urinóis convencionais, evitando danos no pavimento e reduzindo a transferência de urina para as solas dos sapatos dos utilizadores. Isto ajuda a manter a casa de banho mais limpa e confortável.",
+      "long": "O ëkco mat é um tapete de chão absorvente para urinol, concebido para melhorar a higiene da casa de banho e proteger o pavimento da acumulação de urina. Com dimensões de 54 x 51 x 0,5 cm, cobre eficazmente a zona em redor da maioria dos urinóis convencionais, evitando danos no pavimento e reduzindo a transferência de urina para as solas dos sapatos dos utilizadores. Isto ajuda a manter a casa de banho mais limpa e confortável.\n\nO ëkco mat é uma solução económica e descartável, ideal para restaurantes, hotéis e outros locais de grande afluência onde a higiene é uma prioridade.\n\nO ëkco mat oferece uma solução prática, higiénica e económica para manter as casas de banho limpas e com um aspeto profissional.",
+      "variants": {
+        "standard": "preto"
+      },
+      "benefits": {
+        "0": "Protege o pavimento por baixo do urinol",
+        "1": "Reduz a propagação de urina nas solas dos sapatos",
+        "2": "Solução de higiene económica",
+        "3": "Uso descartável",
+        "4": "Opção de personalização com a sua marca",
+        "5": "Dimensões: 54 x 51 x 0,5 cm"
+      },
+      "useCases": {
+        "0": "Entrances",
+        "1": "Service corridors"
+      }
+    }
+  },
+  "privateLabel": {
+    "hero": {
+      "eyebrow": "Para distribuidores",
+      "title": "Programa de Marca Própria",
+      "lead": "Venda nossos produtos com sua própria marca",
+      "body": "Expanda seus negócios com sua própria linha de produtos. Nosso Programa de Marca Própria permite que os distribuidores adicionem produtos de banheiro comprovados e de alto desempenho ao seu portfólio e os vendam sob sua própria marca — sem desenvolvimento ou ferramentas próprias. Tudo o que precisamos é do seu logotipo; nós cuidamos do resto.",
+      "cta": "Torne-se um parceiro"
+    },
+    "why": {
+      "title": "Por que ser nosso parceiro",
+      "items": {
+        "0": {
+          "title": "Soluções comprovadas",
+          "body": "Cada produto é o resultado de um desenvolvimento intensivo e foi projetado para um desempenho ideal e confiável – uma linha na qual você pode colocar seu nome com confiança."
+        },
+        "1": {
+          "title": "Personalização fácil",
+          "body": "Precisamos apenas do seu logotipo para lhe fornecer uma série de produtos que você pode vender com sua própria marca."
+        },
+        "2": {
+          "title": "Suporte premium",
+          "body": "Orientamos você em todo o processo, para que você possa expandir sua marca e suas vendas."
+        }
+      }
+    },
+    "ways": {
+      "title": "Duas maneiras de marcar os produtos",
+      "print": {
+        "title": "Marca impressa",
+        "body": "Seu logotipo impresso diretamente no produto."
+      },
+      "cutout": {
+        "title": "Recorte do logotipo",
+        "body": "Seu logotipo integrado ao próprio material como um recorte exclusivo – um acabamento diferenciado e premium que nenhum outro fabricante oferece e um forte diferencial para sua linha."
+      }
+    },
+    "beyond": {
+      "title": "Personalize além do produto",
+      "packaging": {
+        "title": "Embalagens e rótulos",
+        "body": "Adicione seu logotipo, detalhes da empresa, nomes e descrições de produtos, códigos EAN e muito mais em caixas, caixas master ou sacolas de produtos individuais - prontos para varejo com sua própria marca."
+      },
+      "mix": {
+        "title": "Cor e fragrância",
+        "body": "Ofereça sua própria combinação exclusiva de cores e aromas de nossa linha."
+      }
+    },
+    "goodToKnow": {
+      "title": "Bom saber",
+      "items": {
+        "0": "A quantidade mínima do pedido depende do produto específico que você escolher.",
+        "1": "Uma taxa única de configuração se aplica a cada produto que você deseja marcar – ela cobre as ferramentas e a preparação necessárias para reproduzir sua marca.",
+        "2": "Todos os produtos da marca são feitos sob encomenda, de acordo com suas especificações.",
+        "3": "Compartilhamos as quantidades mínimas exatas, preços e prazos de entrega junto com sua cotação, assim que entendermos suas necessidades específicas."
+      }
+    },
+    "form": {
+      "title": "Torne-se um parceiro",
+      "description": "Envie-nos sua solicitação específica e um de nossos representantes de vendas entrará em contato diretamente com você para discutir os detalhes.",
+      "name": "Nome",
+      "company": "Nome da empresa",
+      "email": "E-mail",
+      "phone": "Telefone",
+      "products": "Produtos para marca própria",
+      "productsHint": "Insira uma quantidade para os produtos que você deseja marcar. Você não precisa preencher todos os produtos – discutiremos os detalhes após sua consulta.",
+      "quantity": "Quantidade (pcs)",
+      "message": "Mensagem",
+      "submit": "Enviar mensagem",
+      "submitting": "Enviando…",
+      "success": "Obrigado – entraremos em contato com você em breve.",
+      "error": "Algo deu errado. Por favor, tente novamente em alguns instantes.",
+      "alertSelect": "Insira uma quantidade para pelo menos um produto. Você não precisa solicitar todos os produtos.",
+      "boundaryError": "Não foi possível carregar o formulário de consulta. Atualize a página ou envie um e-mail para support@ekcos.eu."
+    }
+  }
+}

@@ -1,0 +1,752 @@
+{
+  "Metadata": {
+    "title": "ëkcos — zelenajte sa pri každom spláchnutí",
+    "description": "Naše sitká do pisoárov a osviežovače vyrábame s podielom recyklovaného EVA. Samotný materiál sa dá recyklovať, použité sitko do pisoára však nie, pretože je biologicky kontaminované. Končí na skládke alebo v spaľovni, a preto do všetkých našich výrobkov pridávame prísadu Eco-One™.",
+    "productsTitle": "Produkty",
+    "productsDescription": "Preskúmajte produkty ëkcos: prepnite modely, povrchové úpravy a možnosti — potom navštívte oficiálny obchod.",
+    "ecoOneTitle": "Eco-One™",
+    "ecoOneDescription": "Naše sitká do pisoárov a osviežovače vyrábame s podielom recyklovaného EVA. Samotný materiál sa dá recyklovať, použité sitko do pisoára však nie, pretože je biologicky kontaminované. Končí na skládke alebo v spaľovni, a preto do všetkých našich výrobkov pridávame prísadu Eco-One™.",
+    "brandingTitle": "Vlastná značka",
+    "brandingDescription": "Privátny branding, výrezy a tlač pre B2B programy.",
+    "articlesTitle": "články",
+    "articlesDescription": "Štatistiky, aktualizácie a praktické príručky od tímu ëkcos.",
+    "contactTitle": "Kontaktovať",
+    "contactDescription": "Kontaktujte tím ëkcos pre špecifikácie, programy a partnerstvá.",
+    "privateLabelTitle": "Súkromná značka",
+    "privateLabelDescription": "Predávajte toaletné produkty ëkcos pod svojou vlastnou značkou – privátnou značkou pre distribútorov."
+  },
+  "LocaleSwitcher": {
+    "label": "Jazyk",
+    "en": "English",
+    "es": "Spanish",
+    "fr": "French",
+    "de": "German",
+    "it": "Italian",
+    "cs": "Czech"
+  },
+  "nav": {
+    "aria": "Primárne",
+    "logoAlt": "ëkcos",
+    "openMenu": "Otvoriť menu",
+    "mobileMenuTitle": "Menu",
+    "home": {
+      "label": "Domov"
+    },
+    "products": {
+      "label": "Produkty"
+    },
+    "articles": {
+      "label": "články"
+    },
+    "ecoOne": {
+      "label": "Eco-One™"
+    },
+    "customBranding": {
+      "label": "Vlastná značka"
+    },
+    "contact": {
+      "label": "Kontaktovať"
+    },
+    "privateLabel": {
+      "label": "Súkromná značka"
+    },
+    "faq": {
+      "label": "FAQ"
+    }
+  },
+  "footer": {
+    "tagline": "ëkcos innovations prináša hygienické riešenia, ktoré udržiavajú toalety čisté a svieže, uľahčujú údržbu a využívajú recyklované, biologicky rozložiteľné materiály.",
+    "explore": "Preskúmať",
+    "newsletterTitle": "Newsletter",
+    "newsletterHint": "Aktualizácie produktov a programové novinky. Odber môžete kedykoľvek zrušiť.",
+    "company": {
+      "title": "Podrobnosti o spoločnosti",
+      "registryCode": "Registračný kód spoločnosti (Estónsko)",
+      "vatIdCz": "IČ DPH (Česká republika)"
+    },
+    "copyright": "© {year} ëkcos. Všetky práva vyhradené.",
+    "legalNote": "Informačná stránka. Nákupy sú dokončené v oficiálnom obchode."
+  },
+  "common": {
+    "shop": "Obchod",
+    "shopCta": "Nakupujte na eshop.ekcos.eu",
+    "learnMore": "Zistite viac",
+    "getInTouch": "Kontaktujte nás",
+    "ecoOne": "Eco-One™"
+  },
+  "productDetail": {
+    "backToMap": "Späť na toaletu",
+    "buyNow": "Nakupujte na eshope",
+    "price": "Cena",
+    "from": "od",
+    "variants": "Dostupné varianty",
+    "colors": "Farby a vône",
+    "bases": "Nástenné základne",
+    "benefits": "Kľúčové výhody",
+    "more": "Viac podrobností",
+    "openDetails": "Otvoriť podrobné fotografie",
+    "detailGallery": "Detailné fotografie — {name}",
+    "detailShot": "detail",
+    "boundaryError": "Toto zobrazenie produktu je dočasne nedostupné. Skúste to znova."
+  },
+  "articles": {
+    "shopCta": {
+      "title": "Ste pripravení vylepšiť svoje toalety?",
+      "body": "Prezrite si pisoárové zásteny a príslušenstvo ëkcos v oficiálnom obchode.",
+      "button": "Obchod"
+    }
+  },
+  "newsletter": {
+    "popupTitle": "Zostaňte informovaní",
+    "popupDescription": "Príležitostné aktualizácie o produktoch, Eco-One™ a vlastných značkových programoch.",
+    "emailLabel": "Email",
+    "emailPlaceholder": "you@company.com",
+    "submit": "Prihlásiť sa na odber",
+    "configureBrevo": "Prihlásenie na odber noviniek je dočasne nedostupné. Skúste to znova neskôr.",
+    "submitError": "Odber zlyhal. Skúste to znova o chvíľu.",
+    "dismiss": "Teraz nie"
+  },
+  "home": {
+    "map": {
+      "aria": "Interaktívna mapa produktov toalety",
+      "hint": "Kliknutím na produkt sa dozviete viac",
+      "imageAlt": "Výrobky ëkcos umiestnené v komerčnej toalete"
+    },
+    "overlay": {
+      "moreVariants": "Na predajni dostupné aj vo viacerých farbách a vôňach.",
+      "shopCta": "Nakupujte na eshope",
+      "close": "Zavrieť"
+    },
+    "hero": {
+      "title": "Go Green with Every Flush",
+      "tagline": "S podielom recyklovaného EVA, vďaka Eco-One™ biologicky rozložiteľné na skládke",
+      "body": "Naše sitká do pisoárov a osviežovače vyrábame s podielom recyklovaného EVA. Samotný materiál sa dá recyklovať, použité sitko do pisoára však nie, pretože je biologicky kontaminované.",
+      "ctaProducts": "Preskúmajte produkty",
+      "brandMark": "ekcos.eu"
+    },
+    "benefits": {
+      "eco": {
+        "title": "Recyklovaný EVA s Eco-One™",
+        "body": "Biologicky rozložiteľné výrobky s podielom recyklovaného EVA"
+      },
+      "hygiene": {
+        "title": "Hygiena bez kompromisov",
+        "body": "Prináša čistejší a pohodlnejší zážitok tým, že minimalizuje spätné striekanie moču a nepríjemný zápach."
+      },
+      "costs": {
+        "title": "Menej upratovania, nižšie náklady",
+        "body": "Až 60 dní čerstvosti znamená menej čistenia a znížené náklady."
+      },
+      "distributor": {
+        "title": "Oficiálny distribútor EÚ",
+        "body": "Priamy prístup k originálnym produktom Ekcos s rýchlym doručením a férovými cenami."
+      },
+      "ecoLink": "O Eco-One™"
+    },
+    "shipping": {
+      "title": "Rýchla preprava po celej Európe",
+      "body": "Všetky produkty ëkcos sú odoslané do 1–2 pracovných dní po potvrdení platby. Vďaka bezpečnému a efektívnemu doručovaniu po celej EÚ sa môžete spoľahnúť na dôsledné dopĺňanie zásob pre vašu firmu."
+    },
+    "productOfWeek": {
+      "title": "Produkt týždňa",
+      "cta": "Pridať do košíka"
+    },
+    "productsTeaser": {
+      "title": "Objavte naše produkty",
+      "body": "Preskúmajte xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco klip a ďalšie — potom otvorte oficiálny obchod.",
+      "link": "Zobraziť všetky produkty"
+    },
+    "brandingTeaser": {
+      "title": "Vlastná značka pre B2B",
+      "body": "Súkromné ​​označovanie, výrezy a tlač pre konzistentné programy na viacerých miestach.",
+      "link": "Vlastná značka"
+    },
+    "trust": {
+      "title": "Postavené pre náročné zariadenia",
+      "body": "Spoľahlivá hygiena a prvotriedny dojem na mieste – od kancelárií po pohostinstvo."
+    },
+    "newsletter": {
+      "title": "Špecifikácie, spustenia a aktualizácie programu",
+      "body": "Krátky informačný bulletin pre tímy zariadení a partnerov. Žiadny neporiadok."
+    },
+    "finalCta": {
+      "title": "Ozvite sa",
+      "body": "Máte otázky týkajúce sa produktov, doručenia alebo B2B objednávok? Pošlite nám správu – radi vám pomôžeme.",
+      "shop": "Choďte do obchodu",
+      "contact": "Odoslať správu"
+    },
+    "marketing": {
+      "featuresEyebrow": "Jednotná platforma",
+      "featuresTitle": "Porovnávajte, rozhodujte sa a nakupujte s istotou",
+      "featuresSubtitle": "Preskúmajte povrchové úpravy, skontrolujte fakty a otvorte obchod, keď budete pripravení – všetko v jednom kroku.",
+      "featureInteractTitle": "Interaktívna špecifikácia",
+      "featureInteractBody": "Prepínajte modely, povrchové úpravy a vône v priebehu niekoľkých sekúnd – vytvorené pre tímy zariadení a FM.",
+      "featureProofTitle": "Fakty, ktoré môžete zdieľať",
+      "featureProofBody": "Vyčistite stiahnuté súbory Eco-One™, aby váš tím mohol vysvetliť výber kolegom alebo klientom.",
+      "featureB2bTitle": "Škálovateľné programy",
+      "featureB2bBody": "Vlastná značka a B2B objednávanie pre zavádzanie, ktoré si vyžaduje konzistentnosť, rýchlosť a uhladený vzhľad na mieste.",
+      "numbersEyebrow": "Podľa čísel",
+      "numbersTitle": "Prevádzková prehľadnosť, prémiová prezentácia",
+      "statProductsLabel": "Rodiny produktov na preskúmanie",
+      "statTechLabel": "Eco-One™ fakty a súbory na stiahnutie",
+      "statShopLabel": "Oficiálny obchod",
+      "galleryEyebrow": "Zostava",
+      "galleryTitle": "Fotografia z katalógu",
+      "gallerySubtitle": "Skutočná produktová fotografia pre návrhy, prezentácie a návody."
+    }
+  },
+  "ecoOne": {
+    "hero": {
+      "title": "Eco-One™ pre biodegradáciu na skládkach",
+      "tagline": "Rovnaký produkt. Rovnaký výkon. Vyrobené z recyklovaného EVA a Eco-One™.",
+      "body": "Naše sitká do pisoárov a osviežovače vyrábame s podielom recyklovaného EVA. Samotný materiál sa dá recyklovať, použité sitko do pisoára však nie, pretože je biologicky kontaminované. Končí na skládke alebo v spaľovni, a preto do všetkých našich výrobkov pridávame prísadu Eco-One™. V nezávislom teste podľa noriem ASTM D5511 a ISO 15985 na Instituto Politécnico Nacional v Mexico City sa materiál EVA ëkcos s prísadou Eco-One™ za 3,5 roka biologicky rozložil z 93 %, zatiaľ čo rovnaký materiál bez prísady vykázal 0 %. Do 5 rokov sa predpokladá biologický rozklad až 99 %. Naše krabice sú zo 100 % recyklovanej lepenky."
+    },
+    "metrics": {
+      "additive": {
+        "value": "~1%",
+        "label": "aditívny obsah"
+      },
+      "measured": {
+        "value": "~ 3,5 roka",
+        "label": "na 93% biodegradáciu"
+      },
+      "projected": {
+        "value": "až 99%",
+        "label": "do ~5 rokov"
+      }
+    },
+    "problem": {
+      "title": "Prečo je obyčajný plast problém",
+      "body": "Bežné plastové výrobky sú navrhnuté tak, aby vydržali. Bez biodegradačnej prísady tam môže plastový výrobok poslaný na skládku zostať <bold>300 až 1000 rokov</bold>; Penové dreváky v štýle Crocs sú známym príkladom plastu, ktorý <bold>nie je biologicky odbúrateľný</bold>. Naše produkty sú vyrobené z rovnakého druhu odolného plastu (EVA) – ale s jedným rozhodujúcim rozdielom: aditívum Eco-One™.",
+      "chartAlt": "Produkty bez Eco-One™ v porovnaní s produktmi ëkcos obsahujúcimi aditívum",
+      "chartCaption": "Produkty bez Eco-One™ v porovnaní s produktmi ëkcos obsahujúcimi aditívum.",
+      "chart": {
+        "ariaLabel": "Porovnanie rokov rozpadu na skládke",
+        "withoutLabel": "Produkty bez Eco-One™",
+        "withLabel": "ëkcos s Eco-One™",
+        "withoutValue": "300 – 1000 rokov",
+        "withValue": "3,5-5 rokov",
+        "withoutDetail": "Bez biodegradačnej prísady môže konvenčný plast zostať na skládke po stáročia.",
+        "withDetail": "S aditívom Eco-One™ nezávislé testovanie ukazuje ~93% biodegradáciu za približne 3,5 roka a až 99% za päť rokov.",
+        "axisLabel": "Roky do rozpadu (skládka)",
+        "caption": "Produkty bez Eco-One™ v porovnaní s produktmi ëkcos obsahujúcimi aditívum.",
+        "scaleLabel": "Mierka grafu",
+        "scaleFull": "0 – 1 000 r",
+        "scaleZoom": "0-10 r",
+        "clippedNote": "pokračuje →"
+      }
+    },
+    "solution": {
+      "title": "Naše riešenie: Prísada Eco-One™",
+      "body1": "Počas výroby pridávame približne <bold>1% Eco-One™</bold>, organickej prísady dávkovanej rovnakým spôsobom ako farbivo. Nemá vplyv na silu, vzhľad alebo výkon produktu.",
+      "body2": "Na biologicky aktívnej skládke prirodzene sa vyskytujúce mikroorganizmy rozkladajú upravený plast prostredníctvom enzymatickej aktivity a premieňajú ho na bioplyn (<bold>metán</bold>, ktorý moderné skládky zachytávajú na energetické využitie), oxid uhličitý a humus.",
+      "body3": "Pretože sa produkt v konečnom dôsledku rozkladá na humus, vracia organickú hmotu na skládku a pomáha urýchliť biochemické procesy, ktoré tam už fungujú. Produkt teda prispieva <bold> nielen počas svojej životnosti, ale aj po nej</bold>."
+    },
+    "testing": {
+      "title": "Nezávislé testovanie",
+      "body": "Produkt bol testovaný nezávislým laboratóriom podľa medzinárodných noriem <bold>ASTM D5511 a ISO 15985</bold>, pričom sa porovnával rovnaký produkt s a bez aditíva Eco-One™. S Eco-One™ dosiahol biodegradáciu <bold>93,31 % za približne 3,5 roka a až 99 % za päť rokov</bold>; bez Eco-One™ produkt nevykazoval žiadnu merateľný biologický rozklad.",
+      "barChart": {
+        "ariaLabel": "Biodegradácia po približne 3,5 roku s a bez Eco-One™",
+        "yAxis": "Biodegradácia (%)",
+        "withLabel": "ëkcos s Eco-One™",
+        "withoutLabel": "Produkty bez Eco-One™",
+        "withDetail": "93,31 % biodegradácia meraná v nezávislom laboratórnom teste ASTM D5511 / ISO 15985 po približne 3,5 rokoch.",
+        "withoutDetail": "Rovnaký produkt bez Eco-One™ nevykazoval počas rovnakého testovacieho obdobia žiadnu merateľný biologický rozklad.",
+        "subtitle": "Rovnaký produkt · rovnaký laboratórny test (ASTM D5511 / ISO 15985) · ~3,5 roka"
+      },
+      "timelineChart": {
+        "ariaLabel": "Biodegradácia počas piatich rokov s Eco-One™ a bez neho",
+        "yAxis": "Biodegradácia (%)",
+        "xAxis": "rokov",
+        "withLabel": "ëkcos s Eco-One™",
+        "withoutLabel": "Produkty bez Eco-One™",
+        "zeroNote": "0% po celý čas",
+        "measured": "merané",
+        "projected": "projektované",
+        "yearsUnit": "r",
+        "projectedNote": "Premietnuté z nameraného trendu",
+        "caption": "Biodegradácia s a bez prísady Eco-One™. Hodnoty nad 3,5 roka sú projektované z nameraného trendu."
+      }
+    },
+    "closing": {
+      "title": "ëkcos produkty s Eco-One™",
+      "body": "Naše toaletné výrobky sú vyrábané s prísadou Eco-One™. V nezávislom laboratórnom teste dosiahol ëkcos EVA s Eco-One™ 93 % biodegradáciu v priebehu 3,5 roka a až 99 % sa predpokladá do 5 rokov v podmienkach skládky – s výkonom identickým s produktmi bez aditíva.",
+      "shopCta": "Obchod"
+    },
+    "footnote": "Zdroj údajov: nezávislý test biologickej odbúrateľnosti podľa ASTM D5511-02 a ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) — ëkcos produkt s 1 % Eco-One™ prísady: 93,31 % biologická odbúrateľnosť počas 1 288,5 rokov (≈)); rovnaký výrobok bez prísady: 0 %. Z nameraného trendu sa premieta biodegradácia po testovacom období (až 99 % v priebehu ~5 rokov). Údaje o perzistencii konvenčných plastov (≈300–1 000 rokov) sú široko citované odhady priemyslu. Prísada Eco-One™ vyrába a certifikuje spoločnosť EcoLogic, LLC."
+  },
+  "customBranding": {
+    "hero": {
+      "eyebrow": "B2B špecifikácia",
+      "title": "Vlastná značka",
+      "subtitle": "Súkromné ​​označovanie, výrezy a tlač pre programy značiek na viacerých miestach."
+    },
+    "introEyebrow": "Prehľad programu",
+    "introTitle": "Značka riadená špecifikáciou",
+    "intro": "Pomôžeme vám umiestniť vašu značku na produkt s továrenskou kvalitou: jasné špecifikácie, stabilná výroba a papierovanie, ktoré môže váš tím odovzdať audítorom alebo klientom.",
+    "sections": {
+      "private": {
+        "title": "Súkromná značka",
+        "body": "Vaše umelecké dielo, dôsledne spracované od schválenia až po výrobu – takže každá šarža zodpovedá vašej značke."
+      },
+      "cutouts": {
+        "title": "Vlastné výrezy",
+        "body": "Tvarované otvory a výklenky, ktoré sa hodia do skutočných svietidiel a ako ich vaše tímy inštalujú."
+      },
+      "print": {
+        "title": "Možnosti tlače",
+        "body": "Odolná tlač, ktorá zostáva na produkte čitateľná pri každodennom používaní."
+      }
+    },
+    "pricing": {
+      "title": "Obchodné podmienky",
+      "description": "Zverejnené poplatky: jednorazové nastavenie, značka na jednotku a voliteľné štítky na balení.",
+      "entryFee": "Jednorazový vstupný poplatok",
+      "brandingCost": "Náklady na branding",
+      "packagingLabels": "Vlastné štítky na obaloch"
+    },
+    "standardMoq": {
+      "title": "MOQ pre štandardnú značku",
+      "description": "Minimálne objednávacie množstvá pre štandardné značkové programy s výrezmi loga alebo potlačou.",
+      "productLabel": "Produkt",
+      "moqLabel": "MOQ [ks]",
+      "note": "* Ak si prajete objednať iba základne Fresh Drop, MOQ je 288 ks."
+    },
+    "customMix": {
+      "title": "Vlastná zmes farieb a vôní",
+      "description": "Z nášho sortimentu vieme vyrobiť kombináciu vône a farby na mieru. Minimálne množstvo objednávky zodpovedá celej palete každého prispôsobeného produktu.",
+      "productLabel": "Produkt",
+      "moqLabel": "MOQ [ks]",
+      "note": "* Základná obrazovka MOQ je pre polovičnú paletu."
+    },
+    "production": {
+      "title": "Výroba, dodacia lehota a platba"
+    },
+    "process": {
+      "title": "Jednoduchý proces",
+      "steps": {
+        "0": "Dohodneme sa na objemoch, regiónoch a načasovaní.",
+        "1": "Schvaľujete umelecké diela, materiály a povrchové úpravy.",
+        "2": "Vyrábame s kontrolou kvality v každom kroku.",
+        "3": "Doručujeme na vaše stránky podľa plánu, ktorý potrebujete."
+      }
+    },
+    "inquiry": {
+      "title": "Vyžiadajte si informácie",
+      "hint": "Povedzte nám o objemoch, regiónoch a požiadavkách na značku."
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Technická a obchodná podpora",
+      "title": "Kontaktovať",
+      "subtitle": "Opýtajte sa nás na Eco-One™, špecifikácie alebo B2B programy — objednávajte kedykoľvek v oficiálnom obchode."
+    },
+    "details": {
+      "title": "Kontaktovať",
+      "email": "Email",
+      "phone": "Telefón",
+      "hours": "hodiny",
+      "hoursValue": "Pondelok – piatok, 09:00 – 17:00 CET"
+    },
+    "company": {
+      "title": "Údaje o registrovanej spoločnosti",
+      "registryCode": "Registračný kód spoločnosti (Estónsko)",
+      "vatIdCz": "IČ DPH (Česká republika)"
+    },
+    "form": {
+      "name": "Meno",
+      "company": "Spoločnosť",
+      "email": "Email",
+      "phone": "Telefón",
+      "message": "Správa",
+      "submit": "Odoslať správu",
+      "success": "Ďakujeme – čoskoro sa vám ozveme.",
+      "error": "Niečo sa pokazilo. Skúste to znova."
+    }
+  },
+  "products": {
+    "page": {
+      "title": "Products",
+      "intro": "Switch models and finishes, then buy in the official store.",
+      "heroEyebrow": "Explore the range",
+      "heroTitle": "Configure every line in one place",
+      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroLinkEco": "About Eco-One™",
+      "heroLinkBranding": "Custom branding"
+    },
+    "configurator": {
+      "color": "Finish",
+      "selectProduct": "Select product",
+      "fragrance": "Fragrance options",
+      "benefits": "Benefits",
+      "productBenefits": "Product benefits",
+      "availableColorsFragrances": "Available colors & fragrances",
+      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
+      "byBrand": "by ëkcos",
+      "siteUrl": "www.ekcos.eu",
+      "useCases": "Typical applications",
+      "brandingNote": "Custom branding available for qualified orders."
+    },
+    "colors": {
+      "white": "White",
+      "grey": "Grey",
+      "black": "Black",
+      "blue": "Blue"
+    },
+    "fragrances": {
+      "fresh": "Fresh",
+      "citrus": "Citrus"
+    },
+    "variantLabels": {
+      "x1p": "fialová / lesné plody",
+      "x2g": "zelená / jablko",
+      "x3b": "modrá / fresh",
+      "x4o": "oranžová / tropické ovocie",
+      "x6c": "priehľadná / tropické ovocie",
+      "x7bk": "čierna / mäta",
+      "x8bm": "ohnivá / mango",
+      "x9g": "zelená / borovica",
+      "x10r": "červená / melón",
+      "x12p": "fialová / levanduľa",
+      "x13c": "žltá / citrusy"
+    },
+    "xcrenHd": {
+      "name": "xcrën HD",
+      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "category": "dizajnové sitko do pisoára s extrémnou ochranou proti rozstreku",
+      "badge": "dizajnové sitko do pisoára s extrémnou ochranou proti rozstreku",
+      "short": "xcrën HD 60+ je vonné sitko do pisoára s patentovaným tvarom, ktorý v pisoári vynikne. Na rozdiel od bežných oválnych sitiek premení pisoár na dizajnový prvok. Patentované štetinky (Sealed Bristles Technology™) pokrývajú 92 % sitka a minimalizujú rozstrek moču aj nepríjemný zápach. Sitko je vyrobené z materiálu vlastnej receptúry napusteného vôňou na báze dezodorantu a vôňu uvoľňuje postupne počas 60+ dní. Na menej frekventovaných toaletách vydrží ešte dlhšie.",
+      "long": "xcrën HD 60+ je vonné sitko do pisoára s patentovaným tvarom, ktorý v pisoári vynikne. Na rozdiel od bežných oválnych sitiek premení pisoár na dizajnový prvok. Patentované štetinky (Sealed Bristles Technology™) pokrývajú 92 % sitka a minimalizujú rozstrek moču aj nepríjemný zápach. Sitko je vyrobené z materiálu vlastnej receptúry napusteného vôňou na báze dezodorantu a vôňu uvoľňuje postupne počas 60+ dní. Na menej frekventovaných toaletách vydrží ešte dlhšie.\n\nSitko xcrën HD 60+ je určené pre frekventované toalety v reštauráciách, baroch, na letiskách a v nákupných centrách. Spája hygienu so vzhľadom, ktorý toaletu odlíši od ostatných.\n\nSitko xcrën HD 60+ sa vyrába s podielom recyklovaného EVA. Samotný materiál sa dá recyklovať, použité sitko do pisoára však nie, pretože je biologicky kontaminované. Končí na skládke alebo v spaľovni, a preto sitko xcrën HD 60+ obsahuje prísadu Eco-One™. V nezávislom laboratórnom teste sa materiál EVA ëkcos s prísadou Eco-One™ za 3,5 roka biologicky rozložil z 93 % a do 5 rokov sa predpokladá rozklad až 99 %.\n\nxcrën HD 60+ spája silnú ochranu proti rozstreku, vôňu na 60+ dní a patentovaný dizajn, ktorý vynikne na každej toalete.",
+      "benefits": {
+        "0": "Patentovaný tvar, ktorý sa vymyká bežným oválnym sitkám",
+        "1": "Patentované štetinky proti rozstreku pokrývajú 92 % plochy sitka, pomáhajú chrániť používateľov pred nechceným rozstrekom a udržiavajú okolie čistejšie",
+        "2": "Materiál vlastnej receptúry napustený vôňou na báze dezodorantu, ktorá sa postupne uvoľňuje počas 60+ dní",
+        "3": "Vôňa vydrží dvakrát dlhšie ako pri bežných 30-dňových sitkách",
+        "4": "Špeciálne navrhnuté pre frekventované toalety, napr. v reštauráciách, baroch, na letiskách, v nákupných centrách a pod.",
+        "5": "S podielom recyklovaného EVA, vďaka Eco-One™ biologicky rozložiteľné na skládke",
+        "6": "Balené v krabiciach zo 100 % recyklovanej lepenky",
+        "7": "Perfektné pre bezvodé pisoáre",
+        "8": "Rozmery: 17 x 18 x 2,1 cm",
+        "9": "Široká ponuka farieb a príjemných vôní",
+        "10": "Privátna značka s vaším logom vyrezaným do materiálu alebo vytlačeným"
+      },
+      "variants": {
+        "xhd1p": "fialová / lesné plody",
+        "xhd2g": "zelená / jablko",
+        "xhd3b": "modrá / fresh",
+        "xhd4o": "oranžová / tropické ovocie",
+        "xhd6c": "priehľadná / tropické ovocie",
+        "xhd7bk": "čierna / mäta",
+        "xhd8bm": "ohnivá / mango",
+        "xhd9g": "zelená / borovica",
+        "xhd10r": "červená / melón",
+        "xhd12p": "fialová / levanduľa",
+        "xhd13c": "žltá / citrusy"
+      },
+      "useCases": {
+        "0": "Corporate offices",
+        "1": "Hotels and hospitality"
+      }
+    },
+    "ekcoscreen": {
+      "name": "ëkcoscreen",
+      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "ťažké sitko do pisoára proti rozstreku, dvojnásobná výdrž vône",
+      "short": "ëkcoscreen 60+ je vonné sitko do pisoára s patentovanými štetinkami (Sealed Bristles Technology™), ktoré pokrývajú 95 % sitka. Minimalizuje rozstrek moču aj nepríjemný zápach, takže toaleta je čistejšia a príjemnejšia. Sitko je vyrobené z materiálu vlastnej receptúry napusteného vôňou na báze dezodorantu a vôňu uvoľňuje postupne počas 60+ dní, teda dvakrát dlhšie ako bežné 30-dňové sitká. Na menej frekventovaných toaletách vydrží ešte dlhšie.",
+      "long": "ëkcoscreen 60+ je vonné sitko do pisoára s patentovanými štetinkami (Sealed Bristles Technology™), ktoré pokrývajú 95 % sitka. Minimalizuje rozstrek moču aj nepríjemný zápach, takže toaleta je čistejšia a príjemnejšia. Sitko je vyrobené z materiálu vlastnej receptúry napusteného vôňou na báze dezodorantu a vôňu uvoľňuje postupne počas 60+ dní, teda dvakrát dlhšie ako bežné 30-dňové sitká. Na menej frekventovaných toaletách vydrží ešte dlhšie.\n\nSitko ëkcoscreen 60+ je určené pre frekventované toalety v reštauráciách, baroch, na letiskách, v nákupných centrách a ďalších prevádzkach s dôrazom na hygienu. Zlepšuje čistotu aj kontrolu zápachu.\n\nSitko ëkcoscreen 60+ sa vyrába s podielom recyklovaného EVA. Samotný materiál sa dá recyklovať, použité sitko do pisoára však nie, pretože je biologicky kontaminované. Končí na skládke alebo v spaľovni, a preto sitko ëkcoscreen 60+ obsahuje prísadu Eco-One™. V nezávislom laboratórnom teste sa materiál EVA ëkcos s prísadou Eco-One™ za 3,5 roka biologicky rozložil z 93 % a do 5 rokov sa predpokladá rozklad až 99 %.\n\nëkcoscreen 60+ spája účinnú ochranu proti rozstreku, vôňu na 60+ dní a recyklovaný, biologicky rozložiteľný materiál EVA pre frekventované toalety.",
+      "benefits": {
+        "0": "Patentované štetinky proti rozstreku pokrývajú 95 % plochy sitka, pomáhajú chrániť používateľov pred nechceným rozstrekom a udržiavajú okolie čistejšie",
+        "1": "Žiadny viditeľný rozstrek mimo sitka v porovnávacom UV teste rozstreku za identických podmienok",
+        "2": "Materiál vlastnej receptúry napustený vôňou na báze dezodorantu, ktorá sa postupne uvoľňuje počas 60+ dní",
+        "3": "Vôňa vydrží dvakrát dlhšie ako pri 30-dňových sitkách, pri podobných denných nákladoch",
+        "4": "141 g vonného materiálu v každom sitku, viac ako trojnásobok bežného sitka",
+        "5": "Špeciálne navrhnuté pre frekventované toalety, napr. v reštauráciách, baroch, na letiskách, v nákupných centrách a pod.",
+        "6": "S podielom recyklovaného EVA, vďaka Eco-One™ biologicky rozložiteľné na skládke",
+        "7": "Balené v krabiciach zo 100 % recyklovanej lepenky",
+        "8": "Ideálne pre bezvodé pisoáre",
+        "9": "Rozmery: 20 x 21 x 2,2 cm",
+        "10": "Jedinečný dizajn, široká ponuka farieb a príjemné vône",
+        "11": "Privátna značka s vaším logom vyrezaným do materiálu alebo vytlačeným"
+      },
+      "useCases": {
+        "0": "Retail",
+        "1": "Public buildings"
+      }
+    },
+    "powerscreen": {
+      "name": "powër screen",
+      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "category": "výkonné sitko do pisoára proti rozstreku na mesačnú výmenu",
+      "short": "powër screen je vonné sitko do pisoára s patentovaným systémom štetiniek (Sealed Bristles Technology™). Minimalizuje rozstrek moču aj nepríjemný zápach, takže toaleta je čistejšia a príjemnejšia. Sitko je vyrobené z materiálu vlastnej receptúry napusteného vôňou na báze dezodorantu a vôňu uvoľňuje postupne až 30 dní, preto je ideálne na mesačnú údržbu pisoárov.",
+      "long": "powër screen je vonné sitko do pisoára s patentovaným systémom štetiniek (Sealed Bristles Technology™). Minimalizuje rozstrek moču aj nepríjemný zápach, takže toaleta je čistejšia a príjemnejšia. Sitko je vyrobené z materiálu vlastnej receptúry napusteného vôňou na báze dezodorantu a vôňu uvoľňuje postupne až 30 dní, preto je ideálne na mesačnú údržbu pisoárov.\n\nSitko powër screen sa vyrába s podielom recyklovaného EVA. Samotný materiál sa dá recyklovať, použité sitko do pisoára však nie, pretože je biologicky kontaminované. Končí na skládke alebo v spaľovni, a preto sitko powër screen obsahuje prísadu Eco-One™. V nezávislom laboratórnom teste sa materiál EVA ëkcos s prísadou Eco-One™ za 3,5 roka biologicky rozložil z 93 % a do 5 rokov sa predpokladá rozklad až 99 %.\n\npowër screen spája účinnú ochranu proti rozstreku, vôňu až na 30 dní a recyklovaný, biologicky rozložiteľný materiál EVA na mesačnú údržbu toaliet.",
+      "benefits": {
+        "0": "Patentované štetinky proti rozstreku pomáhajú chrániť používateľov pred nechceným rozstrekom a udržiavajú okolie čistejšie",
+        "1": "Materiál vlastnej receptúry napustený vôňou na báze dezodorantu, ktorá sa postupne uvoľňuje až 30 dní",
+        "2": "Ideálne na mesačnú údržbu pisoárov",
+        "3": "S podielom recyklovaného EVA, vďaka Eco-One™ biologicky rozložiteľné na skládke",
+        "4": "Balené v krabiciach zo 100 % recyklovanej lepenky",
+        "5": "Vhodné pre bezvodé pisoáre",
+        "6": "Pružný tvar pasuje takmer do všetkých typov pisoárov",
+        "7": "Dizajn, ktorý pozdvihne každú toaletu",
+        "8": "Rozmery: 18 x 20 x 1,8 cm",
+        "9": "Jedinečný dizajn, široká ponuka farieb a príjemné vône",
+        "10": "Privátna značka s vaším logom vyrezaným do materiálu alebo vytlačeným"
+      },
+      "useCases": {
+        "0": "Stadiums",
+        "1": "Transport hubs"
+      }
+    },
+    "basicScreen": {
+      "name": "basic scrëen",
+      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "category": "lacné sitko do pisoára, biologicky rozložiteľné na skládke",
+      "short": "basic scrëen je cenovo výhodné sitko do pisoára, ktoré potláča zápach pisoárov a zabraňuje usadzovaniu nečistôt. Je vyrobené z materiálu vlastnej receptúry napusteného vôňou na báze dezodorantu a vôňu uvoľňuje postupne až 30 dní, preto je ideálne na mesačnú údržbu pisoárov.",
+      "long": "basic scrëen je cenovo výhodné sitko do pisoára, ktoré potláča zápach pisoárov a zabraňuje usadzovaniu nečistôt. Je vyrobené z materiálu vlastnej receptúry napusteného vôňou na báze dezodorantu a vôňu uvoľňuje postupne až 30 dní, preto je ideálne na mesačnú údržbu pisoárov.\n\nSitko basic scrëen sa vyrába s podielom recyklovaného EVA. Samotný materiál sa dá recyklovať, použité sitko do pisoára však nie, pretože je biologicky kontaminované. Končí na skládke alebo v spaľovni, a preto sitko basic scrëen obsahuje prísadu Eco-One™. V nezávislom laboratórnom teste sa materiál EVA ëkcos s prísadou Eco-One™ za 3,5 roka biologicky rozložil z 93 % a do 5 rokov sa predpokladá rozklad až 99 %.\n\nbasic scrëen spája spoľahlivú kontrolu zápachu, ochranu pred nečistotami a recyklovaný, biologicky rozložiteľný materiál EVA za nízku cenu.",
+      "benefits": {
+        "0": "Materiál vlastnej receptúry napustený vôňou na báze dezodorantu, ktorá sa postupne uvoľňuje",
+        "1": "Vôňa sa uvoľňuje až 30 dní",
+        "2": "Ideálne na mesačnú údržbu pisoárov",
+        "3": "Vhodné pre bezvodé pisoáre",
+        "4": "Pružný tvar pasuje takmer do všetkých typov pisoárov",
+        "5": "Rozmery: 20 x 19 cm",
+        "6": "Jedinečný dizajn, široká ponuka farieb a príjemné vône",
+        "7": "Cenovo výhodné riešenie na mesačnú hygienu pisoárov",
+        "8": "S podielom recyklovaného EVA, vďaka Eco-One™ biologicky rozložiteľné na skládke",
+        "9": "Dodávané v kartónoch zo 100 % recyklovanej lepenky",
+        "10": "Privátna značka s vaším logom vyrezaným do materiálu alebo vytlačeným"
+      },
+      "useCases": {
+        "0": "Schools",
+        "1": "Light commercial"
+      }
+    },
+    "urolite": {
+      "name": "üro lite",
+      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "malé sitko do pisoára, veľká ochrana proti rozstreku",
+      "short": "üro lite je pružné vonné sitko do pisoára určené pre menšie pisoáre. Využíva rovnaký patentovaný systém Sealed Bristles Technology™ ako sitko ëkcoscreen 60+ a namiesto väčšieho priemeru sa spolieha na dlhé štetinky, ktoré v malom sitku zabezpečia veľkú ochranu proti rozstreku. Rozstrek moču aj nepríjemný zápach obmedzuje na minimum. Je vyrobené z materiálu vlastnej receptúry napusteného vôňou na báze dezodorantu a vôňu uvoľňuje postupne až 30 dní, preto je ideálne na mesačnú údržbu pisoárov.",
+      "long": "üro lite je pružné vonné sitko do pisoára určené pre menšie pisoáre. Využíva rovnaký patentovaný systém Sealed Bristles Technology™ ako sitko ëkcoscreen 60+ a namiesto väčšieho priemeru sa spolieha na dlhé štetinky, ktoré v malom sitku zabezpečia veľkú ochranu proti rozstreku. Rozstrek moču aj nepríjemný zápach obmedzuje na minimum. Je vyrobené z materiálu vlastnej receptúry napusteného vôňou na báze dezodorantu a vôňu uvoľňuje postupne až 30 dní, preto je ideálne na mesačnú údržbu pisoárov.\n\nSitko üro lite sa vyrába s podielom recyklovaného EVA. Samotný materiál sa dá recyklovať, použité sitko do pisoára však nie, pretože je biologicky kontaminované. Končí na skládke alebo v spaľovni, a preto sitko üro lite obsahuje prísadu Eco-One™. V nezávislom laboratórnom teste sa materiál EVA ëkcos s prísadou Eco-One™ za 3,5 roka biologicky rozložil z 93 % a do 5 rokov sa predpokladá rozklad až 99 %.\n\nüro lite prináša menším pisoárom veľkú ochranu proti rozstreku vďaka jedinečným patentovaným dlhým štetinkám, a to v kompaktnom, cenovo výhodnom sitku z biologicky rozložiteľného EVA s podielom recyklovaného materiálu.",
+      "benefits": {
+        "0": "Jedinečné patentované dlhé štetinky pomáhajú chrániť používateľov pred rozstrekom a udržiavajú okolie čistejšie",
+        "1": "Rovnaký patentovaný systém Sealed Bristles Technology™ ako pri sitku ëkcoscreen 60+",
+        "2": "Materiál vlastnej receptúry napustený vôňou na báze dezodorantu, ktorá sa postupne uvoľňuje až 30 dní",
+        "3": "Kompaktná veľkosť navrhnutá špeciálne pre menšie pisoáre",
+        "4": "Ideálne na mesačnú údržbu pisoárov",
+        "5": "Vhodné pre bezvodé pisoáre",
+        "6": "S podielom recyklovaného EVA, vďaka Eco-One™ biologicky rozložiteľné na skládke",
+        "7": "Balené v krabiciach zo 100 % recyklovanej lepenky",
+        "8": "Rozmery: 13 x 13 x 1,8 cm",
+        "9": "Jedinečný dizajn, široká ponuka farieb a príjemné vône",
+        "10": "Privátna značka s vaším logom vyrezaným do materiálu alebo vytlačeným"
+      },
+      "useCases": {
+        "0": "Boutique hospitality",
+        "1": "Premium office"
+      }
+    },
+    "ekcoClip": {
+      "name": "ëkco clip",
+      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "category": "svieža záveska na WC, ktorá pasuje takmer na každú misu",
+      "short": "ëkco clip je vonná záveska na WC misu, ktorá nepretržite potláča zápach a udržiava WC kabíny svieže. Je vyrobená z materiálu vlastnej receptúry napusteného vôňou na báze dezodorantu a vôňu uvoľňuje postupne až 30 dní. Vďaka pružnému tvaru pasuje na väčšinu typov WC mís, ľahko sa pripevní a dobre šíri vôňu.",
+      "long": "ëkco clip je vonná záveska na WC misu, ktorá nepretržite potláča zápach a udržiava WC kabíny svieže. Je vyrobená z materiálu vlastnej receptúry napusteného vôňou na báze dezodorantu a vôňu uvoľňuje postupne až 30 dní. Vďaka pružnému tvaru pasuje na väčšinu typov WC mís, ľahko sa pripevní a dobre šíri vôňu.\n\nZáveska ëkco clip sa vyrába s podielom recyklovaného EVA. Samotný materiál sa dá recyklovať, použitú závesku na WC však nie, pretože je biologicky kontaminovaná. Končí na skládke alebo v spaľovni, a preto záveska ëkco clip obsahuje prísadu Eco-One™. V nezávislom laboratórnom teste sa materiál EVA ëkcos s prísadou Eco-One™ za 3,5 roka biologicky rozložil z 93 % a do 5 rokov sa predpokladá rozklad až 99 %.\n\nëkco clip spája nepretržitú kontrolu zápachu až na 30 dní, ľahké nasadenie na väčšinu WC mís a recyklovaný, biologicky rozložiteľný materiál EVA.",
+      "benefits": {
+        "0": "Materiál vlastnej receptúry napustený vôňou na báze dezodorantu, ktorá sa postupne uvoľňuje",
+        "1": "Účinná ochrana proti zápachu",
+        "2": "Jedinečný dizajn pre optimálne uvoľňovanie vône",
+        "3": "Vôňa sa uvoľňuje až 30 dní",
+        "4": "Pružný tvar pasuje takmer na všetky typy WC mís",
+        "5": "Rozmery: 10 x 5 x 4,5 cm",
+        "6": "Široká ponuka farieb a príjemných vôní",
+        "7": "Cenovo výhodné prevoňanie toaliet",
+        "8": "S podielom recyklovaného EVA, vďaka Eco-One™ biologicky rozložiteľné na skládke",
+        "9": "Balené v krabiciach zo 100 % recyklovanej lepenky",
+        "10": "Privátna značka s vaším logom vyrezaným do materiálu alebo vytlačeným"
+      },
+      "useCases": {
+        "0": "Facility retrofits",
+        "1": "Specification-led projects"
+      }
+    },
+    "freshDrop": {
+      "name": "frësh drop",
+      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "category": "dlhotrvajúci osviežovač vzduchu na WC bez batérií",
+      "short": "frësh drop je interiérový osviežovač vzduchu určený pre WC kabíny a toalety. Jeho vložka z materiálu vlastnej receptúry napusteného vôňou na báze dezodorantu uvoľňuje vôňu postupne, bez batérií a elektriny. V uzavretých kabínach s malým alebo žiadnym vetraním vydrží 60+ dní. Kde prúdi viac vzduchu, vôňa sa rozptyľuje rýchlejšie. Dizajn v tvare kvapky ladí s každým interiérom toalety a priložená lepiaca páska umožňuje jednoduchú inštaláciu takmer na akýkoľvek povrch. Do malých priestorov zvoľte kompaktný osviežovač ëkco loop.",
+      "long": "frësh drop je interiérový osviežovač vzduchu určený pre WC kabíny a toalety. Jeho vložka z materiálu vlastnej receptúry napusteného vôňou na báze dezodorantu uvoľňuje vôňu postupne, bez batérií a elektriny. V uzavretých kabínach s malým alebo žiadnym vetraním vydrží 60+ dní. Kde prúdi viac vzduchu, vôňa sa rozptyľuje rýchlejšie. Dizajn v tvare kvapky ladí s každým interiérom toalety a priložená lepiaca páska umožňuje jednoduchú inštaláciu takmer na akýkoľvek povrch. Do malých priestorov zvoľte kompaktný osviežovač ëkco loop.\n\nVložka frësh drop sa vyrába s podielom recyklovaného EVA a materiál sa dá recyklovať. Vložka aj základňa obsahujú prísadu Eco-One™, a preto sú obe biologicky rozložiteľné na skládke. V nezávislom laboratórnom teste sa materiál EVA ëkcos s prísadou Eco-One™ za 3,5 roka biologicky rozložil z 93 % a do 5 rokov sa predpokladá rozklad až 99 %.\n\nfrësh drop spája vôňu na 60+ dní, jednoduchú inštaláciu a vložku z biologicky rozložiteľného EVA s podielom recyklovaného materiálu pre WC kabíny a toalety.",
+      "benefits": {
+        "0": "Materiál vlastnej receptúry napustený vôňou na báze dezodorantu, ktorá sa postupne uvoľňuje",
+        "1": "Dokonalý spôsob, ako udržať na toaletách svieže a čisté prostredie, navrhnutý špeciálne pre WC kabíny",
+        "2": "Uvoľňovanie vône 60+ dní v uzavretých kabínach, bez potreby batérií či elektriny",
+        "3": "Dizajn v tvare kvapky, ktorý ladí s každým interiérom toalety",
+        "4": "Jednoduchá inštalácia pomocou priloženej lepiacej pásky",
+        "5": "Rozmery: 23 x 12 x 3,5 cm",
+        "6": "Široká ponuka farieb a príjemných vôní",
+        "7": "Vložka z recyklovateľného EVA s podielom recyklovaného materiálu",
+        "8": "Vložka aj základňa biologicky rozložiteľné na skládke vďaka Eco-One™",
+        "9": "Balené v krabiciach zo 100 % recyklovanej lepenky",
+        "10": "Možnosť privátnej značky potlačou"
+      },
+      "useCases": {
+        "0": "Hospitality",
+        "1": "Premium retail"
+      },
+      "bases": {
+        "white": "základňa biela",
+        "black": "základňa čierna"
+      }
+    },
+    "ezTrap": {
+      "name": "ëz trap",
+      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "category": "zápachotesná kartuša do bezvodého pisoára s ľahkou údržbou",
+      "short": "ëz trap je inovatívny kartušový systém, ktorý zlepšuje účinnosť, čistotu a kontrolu zápachu bezvodých pisoárov a zároveň výrazne znižuje náklady na údržbu.",
+      "long": "ëz trap je inovatívny kartušový systém, ktorý zlepšuje účinnosť, čistotu a kontrolu zápachu bezvodých pisoárov a zároveň výrazne znižuje náklady na údržbu.\n\nVďaka patentovanému kartušovému systému ëz trap odteká moč prirodzene cez sifón a uzatváracie viečko sa po každom použití tesne zatvorí. Zápach tak neuniká a každé použitie zabezpečí odvedenie starého moču zo systému, takže prostredie toalety zostáva sviežejšie.\n\nKartuša ëz trap je vyrobená s prísadou Eco-One™, vďaka ktorej je biologicky rozložiteľná na skládke. V nezávislom laboratórnom teste sa materiál ëkcos s prísadou Eco-One™ za 3,5 roka biologicky rozložil z 93 % a do 5 rokov sa predpokladá rozklad až 99 %.\n\nëz trap ponúka účinný, úsporný a na údržbu nenáročný spôsob, ako zabrániť úniku zápachu z odpadu pri bezvodých pisoároch.",
+      "variants": {
+        "withoutTool": "bez nástroja na vyberanie",
+        "withTool": "s nástrojom na vyberanie"
+      },
+      "benefits": {
+        "0": "Blokuje zápach z odpadu: sifón a uzatváracie viečko zabraňujú úniku nepríjemného zápachu z kanalizácie",
+        "1": "Bez potreby drahých gélov alebo špeciálnych čistiacich prostriedkov",
+        "2": "Jednoduchá a cenovo výhodná údržba: stačí denne naliať pohár vody, aby sa neusádzal močový kameň",
+        "3": "Dlhá životnosť: kartuša vydrží 4 až 6+ mesiacov a pravidelné čistenie prípravkom proti močovému kameňu (napr. kvalitným WC gélom) predĺži jej životnosť",
+        "4": "Široká kompatibilita: vhodná pre Sloan, Falcon, Vitra, Bobrick a ďalšie značky so systémom Falcon Velocity (priemer 11,8 cm, výška 11,5 cm)",
+        "5": "Rozmery: Ø 11,8 x 11,5 cm",
+        "6": "Balené v krabiciach zo 100 % recyklovanej lepenky",
+        "7": "Vďaka prísade Eco-One™ biologicky rozložiteľné na skládke"
+      },
+      "useCases": {
+        "0": "Food service",
+        "1": "Healthcare support areas"
+      }
+    },
+    "xcrenPuck": {
+      "name": "xcrën puck",
+      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "category": "sitko do pisoára v tvare X s dezodoračnou tabletou",
+      "short": "xcrën puck je sitko do pisoára s dezodoračnou tabletou NON-PARA, navrhnuté na účinnú kontrolu zápachu a ochranu odpadu. Neobsahuje paradichlórbenzén (PARA), ktorý WHO klasifikuje ako možno karcinogénny. Tablety s PARA sa v niektorých sitkách do pisoárov stále používajú, zatiaľ čo predpisy EÚ obmedzujú PARA v dezodorantoch na WC. Vďaka tvaru X nedovolí pevným nečistotám a zvyškom upchať odpad a pri každom použití uvoľňuje čistú, sviežu vôňu až 30 dní.",
+      "long": "xcrën puck je sitko do pisoára s dezodoračnou tabletou NON-PARA, navrhnuté na účinnú kontrolu zápachu a ochranu odpadu. Neobsahuje paradichlórbenzén (PARA), ktorý WHO klasifikuje ako možno karcinogénny. Tablety s PARA sa v niektorých sitkách do pisoárov stále používajú, zatiaľ čo predpisy EÚ obmedzujú PARA v dezodorantoch na WC. Vďaka tvaru X nedovolí pevným nečistotám a zvyškom upchať odpad a pri každom použití uvoľňuje čistú, sviežu vôňu až 30 dní.\n\nTableta je vyrobená prevažne z vosku a glycerínu a používaním sa rozpúšťa. Sitko xcrën puck je vyrobené s prísadou Eco-One™, vďaka ktorej je biologicky rozložiteľné na skládke. V nezávislom laboratórnom teste sa materiál ëkcos s prísadou Eco-One™ za 3,5 roka biologicky rozložil z 93 % a do 5 rokov sa predpokladá rozklad až 99 %. Ide o jednorazový výrobok a tabletu nemožno vymeniť za novú.\n\nxcrën puck je jednoduchý a účinný spôsob, ako až 30 dní udržať pisoáre svieže a odpady priechodné.",
+      "variants": {
+        "whiteFresh": "biela / fresh",
+        "blueFresh": "modrá / fresh"
+      },
+      "benefits": {
+        "0": "Tableta NON-PARA: bez paradichlórbenzénu, ktorý WHO klasifikuje ako možno karcinogénny",
+        "1": "Zabraňuje upchatiu odpadu pevnými nečistotami a inými zvyškami",
+        "2": "Pri každom použití uvoľňuje čistú, sviežu vôňu až 30 dní",
+        "3": "Ideálne na mesačnú údržbu pisoárov",
+        "4": "Tableta prevažne z vosku a glycerínu",
+        "5": "Jednorazové: tabletu nemožno vymeniť za novú",
+        "6": "Rozmery: 17 x 17 x 2,9 cm",
+        "7": "Balené v krabiciach zo 100 % recyklovanej lepenky",
+        "8": "Vďaka prísade Eco-One™ biologicky rozložiteľné na skládke",
+        "9": "Nový jedinečný dizajn v tvare X",
+        "10": "Privátna značka s vaším logom vyrezaným do materiálu alebo vytlačeným"
+      },
+      "useCases": {
+        "0": "Compact washrooms",
+        "1": "Retrofit programs"
+      }
+    },
+    "ekcoMat": {
+      "name": "ëkco mat",
+      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "category": "úsporná podložka pod pisoár, ktorá chráni podlahu",
+      "short": "ëkco mat je savá podložka pod pisoár určená na zlepšenie hygieny toaliet a ochranu podlahy pred hromadením moču. S rozmermi 54 x 51 x 0,5 cm účinne pokryje plochu okolo väčšiny štandardných pisoárov, bráni poškodeniu podlahy a obmedzuje roznášanie moču na podrážkach topánok používateľov. Pomáha tak udržať toaletu čistejšiu a príjemnejšiu.",
+      "long": "ëkco mat je savá podložka pod pisoár určená na zlepšenie hygieny toaliet a ochranu podlahy pred hromadením moču. S rozmermi 54 x 51 x 0,5 cm účinne pokryje plochu okolo väčšiny štandardných pisoárov, bráni poškodeniu podlahy a obmedzuje roznášanie moču na podrážkach topánok používateľov. Pomáha tak udržať toaletu čistejšiu a príjemnejšiu.\n\nëkco mat je cenovo výhodné jednorazové riešenie, ideálne pre reštaurácie, hotely a ďalšie frekventované miesta, kde je hygiena prioritou.\n\nëkco mat ponúka praktické, hygienické a cenovo dostupné riešenie na udržanie čistých a reprezentatívnych toaliet.",
+      "variants": {
+        "standard": "čierna"
+      },
+      "benefits": {
+        "0": "Chráni podlahu pod pisoárom",
+        "1": "Obmedzuje roznášanie moču na podrážkach topánok",
+        "2": "Cenovo výhodné hygienické riešenie",
+        "3": "Jednorazové použitie",
+        "4": "Možnosť privátnej značky",
+        "5": "Rozmery: 54 x 51 x 0,5 cm"
+      },
+      "useCases": {
+        "0": "Entrances",
+        "1": "Service corridors"
+      }
+    }
+  },
+  "privateLabel": {
+    "hero": {
+      "eyebrow": "Pre distribútorov",
+      "title": "Program súkromných značiek",
+      "lead": "Predávajte naše produkty pod vlastnou značkou",
+      "body": "Rozšírte svoje podnikanie s vlastným radom produktov. Náš program súkromných značiek umožňuje distribútorom pridať do svojho portfólia osvedčené, vysokovýkonné toaletné produkty a predávať ich pod vlastnou značkou – bez vlastného vývoja alebo nástrojov. Všetko, čo potrebujeme, je vaše logo; o zvyšok sa postaráme my.",
+      "cta": "Staňte sa partnerom"
+    },
+    "why": {
+      "title": "Prečo spolupracovať s nami",
+      "items": {
+        "0": {
+          "title": "Osvedčené riešenia",
+          "body": "Každý produkt je výsledkom intenzívneho vývoja a je navrhnutý pre optimálny a spoľahlivý výkon – rad, na ktorý môžete s istotou dať svoje meno."
+        },
+        "1": {
+          "title": "Jednoduché prispôsobenie",
+          "body": "Vaše logo potrebujeme iba na to, aby sme vám mohli poskytnúť sériu produktov, ktoré môžete predávať pod svojou vlastnou značkou."
+        },
+        "2": {
+          "title": "Prémiová podpora",
+          "body": "Prevedieme vás celým procesom, aby ste mohli rozšíriť svoju značku a predaj."
+        }
+      }
+    },
+    "ways": {
+      "title": "Dva spôsoby označovania produktov",
+      "print": {
+        "title": "Vytlačené značky",
+        "body": "Vaše logo vytlačené priamo na produkte."
+      },
+      "cutout": {
+        "title": "Výrez loga",
+        "body": "Vaše logo integrované do samotného materiálu ako jedinečný výrez – výrazný, prémiový povrch, ktorý žiadny iný výrobca neponúka, a silný rozdiel pre váš sortiment."
+      }
+    },
+    "beyond": {
+      "title": "Prispôsobte nad rámec produktu",
+      "packaging": {
+        "title": "Balenie a etikety",
+        "body": "Pridajte svoje logo, podrobnosti o spoločnosti, názvy a popisy produktov, kódy EAN a ďalšie do škatúľ, obalov alebo tašiek jednotlivých produktov – pripravené na predaj pod vašou vlastnou značkou."
+      },
+      "mix": {
+        "title": "Farba & vôňa",
+        "body": "Ponúknite svoju vlastnú charakteristickú kombináciu farieb a vôní z nášho sortimentu."
+      }
+    },
+    "goodToKnow": {
+      "title": "Dobre vedieť",
+      "items": {
+        "0": "Minimálne množstvo objednávky závisí od konkrétneho produktu, ktorý si vyberiete.",
+        "1": "Jednorazový poplatok za nastavenie sa vzťahuje na každý produkt, ktorý chcete označiť značkou – zahŕňa nástroje a prípravu potrebné na reprodukciu vašej značky.",
+        "2": "Všetky značkové produkty sú vyrábané na objednávku, podľa vašej špecifikácie.",
+        "3": "Zdieľame presné minimálne množstvá, ceny a dodacie lehoty spolu s vašou cenovou ponukou, keď pochopíme vaše špecifické požiadavky."
+      }
+    },
+    "form": {
+      "title": "Staňte sa partnerom",
+      "description": "Pošlite nám svoju konkrétnu požiadavku a jeden z našich obchodných zástupcov vás bude priamo kontaktovať, aby sme prediskutovali podrobnosti.",
+      "name": "Meno",
+      "company": "Názov spoločnosti",
+      "email": "Email",
+      "phone": "Telefón",
+      "products": "Produkty pre privátnu značku",
+      "productsHint": "Zadajte množstvo produktov, ktoré chcete označiť. Nemusíte vypĺňať každý produkt – podrobnosti prediskutujeme po vašom dopyte.",
+      "quantity": "Množstvo (ks)",
+      "message": "Správa",
+      "submit": "Odoslať správu",
+      "submitting": "Odosiela sa…",
+      "success": "Ďakujeme – čoskoro sa vám ozveme.",
+      "error": "Niečo sa pokazilo. Skúste to znova o chvíľu.",
+      "alertSelect": "Zadajte množstvo aspoň pre jeden produkt. Nie je potrebné objednávať každý produkt.",
+      "boundaryError": "Formulár dopytu sa nepodarilo načítať. Obnovte stránku alebo pošlite e-mail na adresu support@ekcos.eu."
+    }
+  }
+}

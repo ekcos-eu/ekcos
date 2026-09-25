@@ -1,7 +1,14 @@
 import type {PortableTextBlock} from '@portabletext/types'
 import {client} from '@/sanity/lib/client'
 
-export type ArticlesLocale = 'en' | 'es' | 'fr' | 'de' | 'it' | 'cs'
+export type ArticlesLocale = string
+
+const SANITY_LOCALES = new Set(['en', 'es', 'fr', 'de', 'it', 'cs'])
+
+/** Sanity article fields exist for 6 locales; others resolve via GROQ → en. */
+export function articlesQueryLocale(locale: string): string {
+  return SANITY_LOCALES.has(locale) ? locale : 'en'
+}
 
 export type ArticleCoverImage = {
   asset?: {_ref: string}
@@ -138,14 +145,19 @@ const articleSlugsQuery = `
 `
 
 export async function getArticles(locale: ArticlesLocale): Promise<ArticleListItem[]> {
-  return client.fetch<ArticleListItem[]>(articlesListQuery, {locale})
+  return client.fetch<ArticleListItem[]>(articlesListQuery, {
+    locale: articlesQueryLocale(locale),
+  })
 }
 
 export async function getArticleBySlug(
   locale: ArticlesLocale,
   slug: string,
 ): Promise<ArticleItem | null> {
-  return client.fetch<ArticleItem | null>(articleBySlugQuery, {locale, slug})
+  return client.fetch<ArticleItem | null>(articleBySlugQuery, {
+    locale: articlesQueryLocale(locale),
+    slug,
+  })
 }
 
 export async function getArticleSlugs(): Promise<string[]> {

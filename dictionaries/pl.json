@@ -1,0 +1,752 @@
+{
+  "Metadata": {
+    "title": "ëkcos — Bądź ekologiczny przy każdym spłukaniu",
+    "description": "Nasze sitka do pisuarów i odświeżacze powstają z wykorzystaniem EVA z recyklingu. Sam materiał nadaje się do recyklingu, ale zużyte sitko do pisuaru już nie, ponieważ jest skażone biologicznie. Trafia na składowisko odpadów lub do spalarni, dlatego we wszystkich naszych produktach stosujemy dodatek Eco-One™.",
+    "productsTitle": "Produkty",
+    "productsDescription": "Przeglądaj produkty ëkcos: zmieniaj modele, wykończenia i opcje — a następnie odwiedź oficjalny sklep.",
+    "ecoOneTitle": "Eco-One™",
+    "ecoOneDescription": "Nasze sitka do pisuarów i odświeżacze powstają z wykorzystaniem EVA z recyklingu. Sam materiał nadaje się do recyklingu, ale zużyte sitko do pisuaru już nie, ponieważ jest skażone biologicznie. Trafia na składowisko odpadów lub do spalarni, dlatego we wszystkich naszych produktach stosujemy dodatek Eco-One™.",
+    "brandingTitle": "Niestandardowe oznakowanie",
+    "brandingDescription": "Prywatny branding, wycinanki i druki dla programów B2B.",
+    "articlesTitle": "Artykuły",
+    "articlesDescription": "Spostrzeżenia, aktualizacje i praktyczne przewodniki od zespołu ëkcos.",
+    "contactTitle": "Kontakt",
+    "contactDescription": "Skontaktuj się z zespołem ëkcos, aby uzyskać specyfikacje, programy i partnerstwa.",
+    "privateLabelTitle": "Marka prywatna",
+    "privateLabelDescription": "Sprzedawaj produkty do łazienek ëkcos pod własną marką — marką prywatną dla dystrybutorów."
+  },
+  "LocaleSwitcher": {
+    "label": "Język",
+    "en": "English",
+    "es": "Spanish",
+    "fr": "French",
+    "de": "German",
+    "it": "Italian",
+    "cs": "Czech"
+  },
+  "nav": {
+    "aria": "Podstawowy",
+    "logoAlt": "ëkcos",
+    "openMenu": "Otwórz menu",
+    "mobileMenuTitle": "Menu",
+    "home": {
+      "label": "Dom"
+    },
+    "products": {
+      "label": "Produkty"
+    },
+    "articles": {
+      "label": "Artykuły"
+    },
+    "ecoOne": {
+      "label": "Eco-One™"
+    },
+    "customBranding": {
+      "label": "Niestandardowe oznakowanie"
+    },
+    "contact": {
+      "label": "Kontakt"
+    },
+    "privateLabel": {
+      "label": "Marka prywatna"
+    },
+    "faq": {
+      "label": "Często zadawane pytania"
+    }
+  },
+  "footer": {
+    "tagline": "ëkcos innovations dostarcza rozwiązania higieniczne, które utrzymują toalety czyste i świeże, ułatwiają konserwację i wykorzystują biodegradowalne materiały z recyklingu.",
+    "explore": "Badać",
+    "newsletterTitle": "Biuletyn",
+    "newsletterHint": "Aktualizacje produktów i nowości programowe. Zrezygnuj z subskrypcji w dowolnym momencie.",
+    "company": {
+      "title": "Dane firmy",
+      "registryCode": "Kod rejestru firmy (Estonia)",
+      "vatIdCz": "NIP (Czechy)"
+    },
+    "copyright": "© {year} ëkcos. Wszelkie prawa zastrzeżone.",
+    "legalNote": "Strona informacyjna. Zakupy są finalizowane w oficjalnym sklepie."
+  },
+  "common": {
+    "shop": "Sklep",
+    "shopCta": "Kupuj na eshop.ekcos.eu",
+    "learnMore": "Dowiedz się więcej",
+    "getInTouch": "Skontaktuj się z nami",
+    "ecoOne": "Eco-One™"
+  },
+  "productDetail": {
+    "backToMap": "Powrót do toalety",
+    "buyNow": "Kup w sklepie internetowym",
+    "price": "Cena",
+    "from": "z",
+    "variants": "Dostępne warianty",
+    "colors": "Kolory i zapachy",
+    "bases": "Podstawy ścienne",
+    "benefits": "Kluczowe korzyści",
+    "more": "Więcej szczegółów",
+    "openDetails": "Otwórz szczegółowe zdjęcia",
+    "detailGallery": "Zdjęcia szczegółów — {name}",
+    "detailShot": "szczegół",
+    "boundaryError": "Ten widok produktu jest chwilowo niedostępny. Spróbuj ponownie."
+  },
+  "articles": {
+    "shopCta": {
+      "title": "Gotowy na modernizację swoich toalet?",
+      "body": "Przeglądaj ekrany i akcesoria do pisuarów ëkcos w oficjalnym sklepie.",
+      "button": "Sklep"
+    }
+  },
+  "newsletter": {
+    "popupTitle": "Bądź na bieżąco",
+    "popupDescription": "Okazjonalne aktualizacje produktów, Eco-One™ i niestandardowych programów brandingowych.",
+    "emailLabel": "E-mail",
+    "emailPlaceholder": "you@company.com",
+    "submit": "Subskrybować",
+    "configureBrevo": "Zapis do newslettera jest chwilowo niedostępny. Spróbuj ponownie później.",
+    "submitError": "Subskrypcja nie powiodła się. Spróbuj ponownie za chwilę.",
+    "dismiss": "Nie teraz"
+  },
+  "home": {
+    "map": {
+      "aria": "Interaktywna mapa produktów do toalet",
+      "hint": "Kliknij produkt, aby dowiedzieć się więcej",
+      "imageAlt": "Produkty ëkcos umieszczone w komercyjnej toalecie"
+    },
+    "overlay": {
+      "moreVariants": "Dostępne również w większej liczbie kolorów i zapachów w sklepie.",
+      "shopCta": "Kup w sklepie internetowym",
+      "close": "Zamknąć"
+    },
+    "hero": {
+      "title": "Bądź ekologiczny z każdym spłukaniem",
+      "tagline": "Zawiera EVA z recyklingu, ulega biodegradacji na składowisku dzięki Eco-One™",
+      "body": "Nasze sitka do pisuarów i odświeżacze powstają z wykorzystaniem EVA z recyklingu. Sam materiał nadaje się do recyklingu, ale zużyte sitko do pisuaru już nie, ponieważ jest skażone biologicznie.",
+      "ctaProducts": "Przeglądaj produkty",
+      "brandMark": "ekcos.eu"
+    },
+    "benefits": {
+      "eco": {
+        "title": "Recyklingowa pianka EVA z Eco-One™",
+        "body": "Biodegradowalne produkty wytwarzane z wykorzystaniem EVA z recyklingu"
+      },
+      "hygiene": {
+        "title": "Higiena bez kompromisów",
+        "body": "Zapewnia czystsze i wygodniejsze wrażenia, minimalizując rozpryskiwanie się moczu i nieprzyjemne zapachy."
+      },
+      "costs": {
+        "title": "Mniej sprzątania, niższe koszty",
+        "body": "Do 60 dni świeżości oznacza mniej czyszczenia i mniejsze wydatki."
+      },
+      "distributor": {
+        "title": "Oficjalny dystrybutor w UE",
+        "body": "Bezpośredni dostęp do oryginalnych produktów Ekcos z szybką dostawą i uczciwymi cenami."
+      },
+      "ecoLink": "O Eco-One™"
+    },
+    "shipping": {
+      "title": "Szybka wysyłka na terenie całej Europy",
+      "body": "Wszystkie produkty ëkcos wysyłane są w ciągu 1–2 dni roboczych po potwierdzeniu płatności. Dzięki bezpiecznej i wydajnej dostawie na terenie całej UE możesz polegać na stałym uzupełnianiu zapasów w swojej firmie."
+    },
+    "productOfWeek": {
+      "title": "Produkt tygodnia",
+      "cta": "Dodaj do koszyka"
+    },
+    "productsTeaser": {
+      "title": "Odkryj nasze produkty",
+      "body": "Przeglądaj xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco Clip i nie tylko – a następnie otwórz oficjalny sklep.",
+      "link": "Zobacz wszystkie produkty"
+    },
+    "brandingTeaser": {
+      "title": "Niestandardowy branding dla B2B",
+      "body": "Prywatne etykietowanie, wycinanie i drukowanie dla spójnych programów obejmujących wiele lokalizacji.",
+      "link": "Niestandardowe oznakowanie"
+    },
+    "trust": {
+      "title": "Zbudowany dla wymagających obiektów",
+      "body": "Niezawodna higiena i doskonałe wrażenie na miejscu — od biur po hotele."
+    },
+    "newsletter": {
+      "title": "Dane techniczne, premiery i aktualizacje programu",
+      "body": "Krótki biuletyn dla zespołów i partnerów obiektu. Żadnego bałaganu."
+    },
+    "finalCta": {
+      "title": "Skontaktuj się",
+      "body": "Masz pytania dotyczące produktów, dostawy lub zamówień B2B? Wyślij nam wiadomość – chętnie pomożemy.",
+      "shop": "Idź do sklepu",
+      "contact": "Wyślij wiadomość"
+    },
+    "marketing": {
+      "featuresEyebrow": "Ujednolicona platforma",
+      "featuresTitle": "Porównuj, decyduj i kupuj bez obaw",
+      "featuresSubtitle": "Przeglądaj wykończenia, przejrzyj fakty i otwórz sklep, kiedy będziesz gotowy – wszystko w jednym procesie.",
+      "featureInteractTitle": "Specyfikacja interaktywna",
+      "featureInteractBody": "Zmień modele, wykończenia i zapachy w ciągu kilku sekund — stworzone dla zespołów obiektowych i FM.",
+      "featureProofTitle": "Fakty, którymi możesz się podzielić",
+      "featureProofBody": "Wyczyść pliki do pobrania Eco-One™, aby Twój zespół mógł wyjaśnić wybór współpracownikom lub klientom.",
+      "featureB2bTitle": "Programy, które skalują",
+      "featureB2bBody": "Niestandardowe budowanie marki i zamawianie B2B w przypadku wdrożeń, które wymagają spójności, szybkości i dopracowanego wyglądu na miejscu.",
+      "numbersEyebrow": "Według liczb",
+      "numbersTitle": "Przejrzystość operacyjna, prezentacja premium",
+      "statProductsLabel": "Rodziny produktów do odkrycia",
+      "statTechLabel": "Eco-One™ fakty i pliki do pobrania",
+      "statShopLabel": "Oficjalny sklep",
+      "galleryEyebrow": "Skład",
+      "galleryTitle": "Fotografia z katalogu",
+      "gallerySubtitle": "Prawdziwe zdjęcia produktów do propozycji, prezentacji i instruktaży."
+    }
+  },
+  "ecoOne": {
+    "hero": {
+      "title": "Eco-One™ do biodegradacji składowisk",
+      "tagline": "Ten sam produkt. Ta sama wydajność. Wykonane z przetworzonej pianki EVA i Eco-One™.",
+      "body": "Nasze sitka do pisuarów i odświeżacze powstają z wykorzystaniem EVA z recyklingu. Sam materiał nadaje się do recyklingu, ale zużyte sitko do pisuaru już nie, ponieważ jest skażone biologicznie. Trafia na składowisko odpadów lub do spalarni, dlatego we wszystkich naszych produktach stosujemy dodatek Eco-One™. W niezależnym teście według norm ASTM D5511 i ISO 15985, przeprowadzonym w Instituto Politécnico Nacional w mieście Meksyk, materiał EVA ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, podczas gdy ten sam materiał bez dodatku wykazał 0%. W ciągu 5 lat prognozuje się biodegradację do 99%. Nasze pudełka są wykonane w 100% z tektury z recyklingu."
+    },
+    "metrics": {
+      "additive": {
+        "value": "~1%",
+        "label": "zawartość dodatkowa"
+      },
+      "measured": {
+        "value": "~3,5 roku",
+        "label": "do 93% biodegradacji"
+      },
+      "projected": {
+        "value": "do 99%",
+        "label": "w ciągu ~5 lat"
+      }
+    },
+    "problem": {
+      "title": "Dlaczego zwykły plastik stanowi problem",
+      "body": "Zwykłe produkty z tworzyw sztucznych zostały zaprojektowane z myślą o trwałości. Bez dodatku biodegradującego produkt z tworzywa sztucznego wysłany na wysypisko może tam pozostać przez <bold>300 do 1000 lat</bold>; Piankowe chodaki w stylu Crocs są znanym przykładem plastiku, który <bold>nie ulega biodegradacji</bold>. Nasze produkty wykonane są z tego samego rodzaju wytrzymałego tworzywa sztucznego (EVA) — z jedną zdecydowaną różnicą: dodatkiem Eco-One™.",
+      "chartAlt": "Produkty niezawierające Eco-One™ w porównaniu z produktami ëkcos zawierającymi dodatek",
+      "chartCaption": "Produkty niezawierające Eco-One™ w porównaniu z produktami ëkcos zawierającymi dodatek.",
+      "chart": {
+        "ariaLabel": "Porównanie lat rozkładu na składowiskach",
+        "withoutLabel": "Produkty bez Eco-One™",
+        "withLabel": "ëkcos z Eco-One™",
+        "withoutValue": "300–1000 lat",
+        "withValue": "3,5–5 lat",
+        "withoutDetail": "Bez dodatku biodegradującego konwencjonalny plastik może leżeć na wysypiskach przez wieki.",
+        "withDetail": "W przypadku dodatku Eco-One™ niezależne badania wykazują ~93% biodegradacji w ciągu około 3,5 roku i do 99% w ciągu pięciu lat.",
+        "axisLabel": "Lata do rozbicia (wysypisko śmieci)",
+        "caption": "Produkty niezawierające Eco-One™ w porównaniu z produktami ëkcos zawierającymi dodatek.",
+        "scaleLabel": "Skala wykresu",
+        "scaleFull": "0–1000 lat",
+        "scaleZoom": "0–10 lat",
+        "clippedNote": "kontynuuje →"
+      }
+    },
+    "solution": {
+      "title": "Nasze rozwiązanie: Dodatek Eco-One™",
+      "body1": "Podczas produkcji dodajemy około <bold>1% Eco-One™</bold>, organicznego dodatku dozowanego w taki sam sposób jak barwnik. Nie ma to wpływu na wytrzymałość, wygląd ani działanie produktu.",
+      "body2": "Na biologicznie aktywnym składowisku naturalnie występujące mikroorganizmy rozkładają poddane obróbce tworzywo sztuczne poprzez aktywność enzymatyczną, przekształcając je w biogaz (<bold>metan</bold>, który nowoczesne składowiska wychwytują w celu odzysku energii), dwutlenek węgla i próchnicę.",
+      "body3": "Ponieważ produkt ostatecznie rozkłada się na humus, zawraca materię organiczną na wysypisko i pomaga przyspieszyć zachodzące tam procesy biochemiczne. Produkt przyczynia się zatem <bold>nie tylko przez cały okres użytkowania, ale także po nim</bold>."
+    },
+    "testing": {
+      "title": "Niezależne testy",
+      "body": "Produkt został przetestowany przez niezależne laboratorium zgodnie z międzynarodowymi normami <bold>ASTM D5511 i ISO 15985</bold>, porównując ten sam produkt z dodatkiem Eco-One™ i bez niego. W przypadku Eco-One™ osiągnął <bold>93,31% biodegradacji w ciągu około 3,5 roku i do 99% w ciągu pięciu lat</bold>; bez Eco-One™ produkt nie wykazywał mierzalnej biodegradacji.",
+      "barChart": {
+        "ariaLabel": "Biodegradacja po około 3,5 roku z i bez Eco-One™",
+        "yAxis": "Biodegradacja (%)",
+        "withLabel": "ëkcos z Eco-One™",
+        "withoutLabel": "Produkty bez Eco-One™",
+        "withDetail": "Biodegradacja 93,31% zmierzona w niezależnym teście laboratoryjnym ASTM D5511 / ISO 15985 po około 3,5 roku.",
+        "withoutDetail": "Ten sam produkt bez Eco-One™ nie wykazał mierzalnej biodegradacji w tym samym okresie testowym.",
+        "subtitle": "Ten sam produkt · ten sam test laboratoryjny (ASTM D5511 / ISO 15985) · ~3,5 roku"
+      },
+      "timelineChart": {
+        "ariaLabel": "Biodegradacja w ciągu pięciu lat z i bez Eco-One™",
+        "yAxis": "Biodegradacja (%)",
+        "xAxis": "Lata",
+        "withLabel": "ëkcos z Eco-One™",
+        "withoutLabel": "Produkty bez Eco-One™",
+        "zeroNote": "Cały czas 0%.",
+        "measured": "wymierzony",
+        "projected": "przewidywane",
+        "yearsUnit": "lata",
+        "projectedNote": "Prognozowane na podstawie zmierzonego trendu",
+        "caption": "Biodegradacja z dodatkiem Eco-One™ i bez niego. Z zmierzonego trendu prognozowane są wartości przekraczające 3,5 roku."
+      }
+    },
+    "closing": {
+      "title": "Produkty ëkcos z Eco-One™",
+      "body": "Nasze produkty do łazienek są produkowane z dodatkiem Eco-One™. W niezależnym teście laboratoryjnym ëkcos EVA z Eco-One™ osiągnął 93% biodegradacji w ciągu 3,5 roku, a do 99% szacuje się w ciągu 5 lat w warunkach składowania – z wydajnością identyczną jak produkty bez dodatku.",
+      "shopCta": "Sklep"
+    },
+    "footnote": "Źródło danych: niezależny test biodegradacji zgodnie z ASTM D5511-02 i ISO 15985:2014 (Instituto Politécnico Nacional, Meksyk) — produkt ëkcos z 1% dodatkiem Eco-One™: 93,31% biodegradacji w ciągu 1288 dni (≈3,5 roku); ten sam produkt bez dodatku: 0%. Z zmierzonego trendu wynika biodegradacja wykraczająca poza okres badania (do 99% w ciągu ~5 lat). Dane dotyczące trwałości konwencjonalnych tworzyw sztucznych (≈300–1000 lat) są szeroko cytowanymi szacunkami branżowymi. Dodatek Eco-One™ jest produkowany i certyfikowany przez EcoLogic, LLC."
+  },
+  "customBranding": {
+    "hero": {
+      "eyebrow": "Specyfikacja B2B",
+      "title": "Niestandardowe oznakowanie",
+      "subtitle": "Prywatne etykietowanie, wycinanie i drukowanie dla programów marki obejmujących wiele lokalizacji."
+    },
+    "introEyebrow": "Przegląd programu",
+    "introTitle": "Branding oparty na specyfikacji",
+    "intro": "Pomagamy umieścić Twoją markę na produkcie o jakości na poziomie fabrycznym: jasne specyfikacje, stała produkcja i dokumenty, które Twój zespół może przekazać audytorom lub klientom.",
+    "sections": {
+      "private": {
+        "title": "Marka prywatna",
+        "body": "Twoja grafika, konsekwentnie obsługiwana od zatwierdzenia aż po produkcję – tak aby każda partia była dopasowana do Twojej marki."
+      },
+      "cutouts": {
+        "title": "Niestandardowe wycięcia",
+        "body": "Ukształtowane otwory i wgłębienia pasujące do rzeczywistych opraw i sposobu ich montażu przez zespoły."
+      },
+      "print": {
+        "title": "Opcje drukowania",
+        "body": "Trwały nadruk, który pozostaje czytelny na produkcie podczas codziennego użytkowania."
+      }
+    },
+    "pricing": {
+      "title": "Warunki handlowe",
+      "description": "Opublikowane opłaty: jednorazowa konfiguracja, oznakowanie marki na jednostkę i opcjonalne etykiety na opakowaniach.",
+      "entryFee": "Jednorazowa opłata za wstęp",
+      "brandingCost": "Koszt brandingu",
+      "packagingLabels": "Niestandardowe etykiety na opakowaniach"
+    },
+    "standardMoq": {
+      "title": "MOQ dla standardowego brandingu",
+      "description": "Minimalne ilości zamówienia dla standardowych programów brandingowych z wycięciem lub nadrukiem logo.",
+      "productLabel": "Produkt",
+      "moqLabel": "MOQ [szt.]",
+      "note": "*W przypadku chęci zamówienia wyłącznie podstaw Fresh Drop, MOQ wynosi 288 szt."
+    },
+    "customMix": {
+      "title": "Indywidualna mieszanka kolorów i zapachów",
+      "description": "Możemy wyprodukować niestandardową kombinację zapachu i koloru z naszego asortymentu. Minimalna ilość zamówienia odpowiada pełnej palecie każdego niestandardowego produktu.",
+      "productLabel": "Produkt",
+      "moqLabel": "MOQ [szt.]",
+      "note": "* Ekran podstawowy MOQ dotyczy połowy palety."
+    },
+    "production": {
+      "title": "Produkcja, czas dostawy i płatność"
+    },
+    "process": {
+      "title": "Prosty proces",
+      "steps": {
+        "0": "Uzgadniamy wielkość, regiony i terminy.",
+        "1": "Zatwierdzasz grafikę, materiały i wykończenia.",
+        "2": "Produkujemy z kontrolą jakości na każdym etapie.",
+        "3": "Wysyłamy do Twoich lokalizacji zgodnie z wymaganym harmonogramem."
+      }
+    },
+    "inquiry": {
+      "title": "Poproś o informacje",
+      "hint": "Opowiedz nam o wolumenie, regionach i wymaganiach dotyczących marki."
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Wsparcie techniczne i handlowe",
+      "title": "Kontakt",
+      "subtitle": "Zapytaj nas o Eco-One™, specyfikacje lub programy B2B — składaj zamówienia w dowolnym momencie w oficjalnym sklepie."
+    },
+    "details": {
+      "title": "Kontakt",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "hours": "Godziny",
+      "hoursValue": "Poniedziałek–piątek, 09:00–17:00 CET"
+    },
+    "company": {
+      "title": "Dane zarejestrowanej firmy",
+      "registryCode": "Kod rejestru firmy (Estonia)",
+      "vatIdCz": "NIP (Czechy)"
+    },
+    "form": {
+      "name": "Nazwa",
+      "company": "Firma",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "message": "Wiadomość",
+      "submit": "Wyślij wiadomość",
+      "success": "Dziękujemy – wkrótce się z Tobą skontaktujemy.",
+      "error": "Coś poszło nie tak. Spróbuj ponownie."
+    }
+  },
+  "products": {
+    "page": {
+      "title": "Products",
+      "intro": "Switch models and finishes, then buy in the official store.",
+      "heroEyebrow": "Explore the range",
+      "heroTitle": "Configure every line in one place",
+      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroLinkEco": "About Eco-One™",
+      "heroLinkBranding": "Custom branding"
+    },
+    "configurator": {
+      "color": "Finish",
+      "selectProduct": "Select product",
+      "fragrance": "Fragrance options",
+      "benefits": "Benefits",
+      "productBenefits": "Product benefits",
+      "availableColorsFragrances": "Available colors & fragrances",
+      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
+      "byBrand": "by ëkcos",
+      "siteUrl": "www.ekcos.eu",
+      "useCases": "Typical applications",
+      "brandingNote": "Custom branding available for qualified orders."
+    },
+    "colors": {
+      "white": "White",
+      "grey": "Grey",
+      "black": "Black",
+      "blue": "Blue"
+    },
+    "fragrances": {
+      "fresh": "Fresh",
+      "citrus": "Citrus"
+    },
+    "variantLabels": {
+      "x1p": "fioletowy / owoce leśne",
+      "x2g": "zielony / jabłko",
+      "x3b": "niebieski / fresh",
+      "x4o": "pomarańczowy / owoce tropikalne",
+      "x6c": "przezroczysty / owoce tropikalne",
+      "x7bk": "czarny / mięta",
+      "x8bm": "ognisty / mango",
+      "x9g": "zielony / sosna",
+      "x10r": "czerwony / melon",
+      "x12p": "fioletowy / lawenda",
+      "x13c": "żółty / cytrusy"
+    },
+    "xcrenHd": {
+      "name": "xcrën HD",
+      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "category": "designerskie sitko do pisuaru z ekstra ochroną przed rozpryskami",
+      "badge": "designerskie sitko do pisuaru z ekstra ochroną przed rozpryskami",
+      "short": "xcrën HD 60+ to zapachowe sitko do pisuaru o opatentowanym kształcie, który wyróżnia się w pisuarze. W przeciwieństwie do typowych owalnych sitek zamienia pisuar w element designu. Opatentowane szczecinki (Sealed Bristles Technology™) pokrywają 92% sitka i minimalizują rozpryski moczu oraz nieprzyjemne zapachy. Autorski materiał sitka, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo przez 60+ dni. W rzadziej używanych toaletach działa jeszcze dłużej.",
+      "long": "xcrën HD 60+ to zapachowe sitko do pisuaru o opatentowanym kształcie, który wyróżnia się w pisuarze. W przeciwieństwie do typowych owalnych sitek zamienia pisuar w element designu. Opatentowane szczecinki (Sealed Bristles Technology™) pokrywają 92% sitka i minimalizują rozpryski moczu oraz nieprzyjemne zapachy. Autorski materiał sitka, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo przez 60+ dni. W rzadziej używanych toaletach działa jeszcze dłużej.\n\nSitko xcrën HD 60+, zaprojektowane do intensywnie użytkowanych toalet w restauracjach, barach, na lotniskach i w centrach handlowych, łączy higienę z wyglądem, który wyróżnia toaletę.\n\nSitko xcrën HD 60+ powstaje z wykorzystaniem EVA z recyklingu. Sam materiał nadaje się do recyklingu, ale zużyte sitko do pisuaru już nie, ponieważ jest skażone biologicznie. Trafia na składowisko odpadów lub do spalarni, dlatego sitko xcrën HD 60+ zawiera dodatek Eco-One™. W niezależnym teście laboratoryjnym materiał EVA ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, a prognoza na 5 lat to do 99%.\n\nxcrën HD 60+ łączy silną ochronę przed rozpryskami, zapach na 60+ dni i opatentowany design, który wyróżnia się w każdej toalecie.",
+      "benefits": {
+        "0": "Opatentowany kształt, który wyróżnia się na tle typowych owalnych sitek",
+        "1": "Opatentowane szczecinki przeciw rozpryskom pokrywają 92% powierzchni sitka, pomagają chronić użytkowników przed niechcianymi rozpryskami i utrzymują czystsze otoczenie",
+        "2": "Autorski materiał nasączony zapachem na bazie dezodorantu, uwalnianym stopniowo przez 60+ dni",
+        "3": "Zapach utrzymuje się dwa razy dłużej niż w standardowych sitkach 30-dniowych",
+        "4": "Zaprojektowane specjalnie do intensywnie użytkowanych toalet, np. w restauracjach, barach, na lotniskach, w centrach handlowych itp.",
+        "5": "Zawiera EVA z recyklingu, ulega biodegradacji na składowisku dzięki Eco-One™",
+        "6": "Pudełka z tektury w 100% z recyklingu",
+        "7": "Doskonałe do pisuarów bezwodnych",
+        "8": "Wymiary: 17 x 18 x 2,1 cm",
+        "9": "Szeroka gama kolorów i przyjemnych zapachów",
+        "10": "Marka własna z logo wyciętym w materiale lub nadrukowanym"
+      },
+      "variants": {
+        "xhd1p": "fioletowy / owoce leśne",
+        "xhd2g": "zielony / jabłko",
+        "xhd3b": "niebieski / fresh",
+        "xhd4o": "pomarańczowy / owoce tropikalne",
+        "xhd6c": "przezroczysty / owoce tropikalne",
+        "xhd7bk": "czarny / mięta",
+        "xhd8bm": "ognisty / mango",
+        "xhd9g": "zielony / sosna",
+        "xhd10r": "czerwony / melon",
+        "xhd12p": "fioletowy / lawenda",
+        "xhd13c": "żółty / cytrusy"
+      },
+      "useCases": {
+        "0": "Corporate offices",
+        "1": "Hotels and hospitality"
+      }
+    },
+    "ekcoscreen": {
+      "name": "ëkcoscreen",
+      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "masywne sitko do pisuaru przeciw rozpryskom, pachnie dwa razy dłużej",
+      "short": "ëkcoscreen 60+ to zapachowe sitko do pisuaru z opatentowanymi szczecinkami (Sealed Bristles Technology™), które pokrywają 95% sitka. Minimalizuje rozpryski moczu i nieprzyjemne zapachy, dzięki czemu toaleta jest czystsza i przyjemniejsza. Autorski materiał sitka, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo przez 60+ dni, czyli dwa razy dłużej niż standardowe sitka 30-dniowe. W rzadziej używanych toaletach działa jeszcze dłużej.",
+      "long": "ëkcoscreen 60+ to zapachowe sitko do pisuaru z opatentowanymi szczecinkami (Sealed Bristles Technology™), które pokrywają 95% sitka. Minimalizuje rozpryski moczu i nieprzyjemne zapachy, dzięki czemu toaleta jest czystsza i przyjemniejsza. Autorski materiał sitka, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo przez 60+ dni, czyli dwa razy dłużej niż standardowe sitka 30-dniowe. W rzadziej używanych toaletach działa jeszcze dłużej.\n\nSitko ëkcoscreen 60+, zaprojektowane do intensywnie użytkowanych toalet w restauracjach, barach, na lotniskach, w centrach handlowych i innych obiektach dbających o higienę, poprawia czystość i kontrolę zapachów.\n\nSitko ëkcoscreen 60+ powstaje z wykorzystaniem EVA z recyklingu. Sam materiał nadaje się do recyklingu, ale zużyte sitko do pisuaru już nie, ponieważ jest skażone biologicznie. Trafia na składowisko odpadów lub do spalarni, dlatego sitko ëkcoscreen 60+ zawiera dodatek Eco-One™. W niezależnym teście laboratoryjnym materiał EVA ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, a prognoza na 5 lat to do 99%.\n\nëkcoscreen 60+ łączy skuteczną ochronę przed rozpryskami, zapach na 60+ dni oraz biodegradowalny materiał EVA z recyklingu, z myślą o intensywnie użytkowanych toaletach.",
+      "benefits": {
+        "0": "Opatentowane szczecinki przeciw rozpryskom pokrywają 95% powierzchni sitka, pomagają chronić użytkowników przed niechcianymi rozpryskami i utrzymują czystsze otoczenie",
+        "1": "Brak widocznych rozprysków poza sitkiem w porównawczym teście rozprysków w świetle UV w identycznych warunkach",
+        "2": "Autorski materiał nasączony zapachem na bazie dezodorantu, uwalnianym stopniowo przez 60+ dni",
+        "3": "Zapach trwa dwa razy dłużej niż w sitkach 30-dniowych, przy podobnym koszcie dziennym",
+        "4": "141 g materiału zapachowego na sitko, ponad trzykrotność typowego sitka",
+        "5": "Zaprojektowane specjalnie do intensywnie użytkowanych toalet, np. w restauracjach, barach, na lotniskach, w centrach handlowych itp.",
+        "6": "Zawiera EVA z recyklingu, ulega biodegradacji na składowisku dzięki Eco-One™",
+        "7": "Pudełka z tektury w 100% z recyklingu",
+        "8": "Idealne do pisuarów bezwodnych",
+        "9": "Wymiary: 20 x 21 x 2,2 cm",
+        "10": "Wyjątkowy design, szeroka gama kolorów i przyjemne zapachy",
+        "11": "Marka własna z logo wyciętym w materiale lub nadrukowanym"
+      },
+      "useCases": {
+        "0": "Retail",
+        "1": "Public buildings"
+      }
+    },
+    "powerscreen": {
+      "name": "powër screen",
+      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "category": "mocne sitko do pisuaru przeciw rozpryskom, do wymiany co miesiąc",
+      "short": "powër screen to zapachowe sitko do pisuaru z opatentowanym systemem szczecinek (Sealed Bristles Technology™). Minimalizuje rozpryski moczu i nieprzyjemne zapachy, dzięki czemu toaleta jest czystsza i przyjemniejsza. Autorski materiał sitka, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo do 30 dni, dlatego sitko idealnie sprawdza się przy comiesięcznym serwisie pisuarów.",
+      "long": "powër screen to zapachowe sitko do pisuaru z opatentowanym systemem szczecinek (Sealed Bristles Technology™). Minimalizuje rozpryski moczu i nieprzyjemne zapachy, dzięki czemu toaleta jest czystsza i przyjemniejsza. Autorski materiał sitka, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo do 30 dni, dlatego sitko idealnie sprawdza się przy comiesięcznym serwisie pisuarów.\n\nSitko powër screen powstaje z wykorzystaniem EVA z recyklingu. Sam materiał nadaje się do recyklingu, ale zużyte sitko do pisuaru już nie, ponieważ jest skażone biologicznie. Trafia na składowisko odpadów lub do spalarni, dlatego sitko powër screen zawiera dodatek Eco-One™. W niezależnym teście laboratoryjnym materiał EVA ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, a prognoza na 5 lat to do 99%.\n\npowër screen łączy skuteczną ochronę przed rozpryskami, zapach do 30 dni oraz biodegradowalny materiał EVA z recyklingu, z myślą o comiesięcznym serwisie toalet.",
+      "benefits": {
+        "0": "Opatentowane szczecinki przeciw rozpryskom pomagają chronić użytkowników przed niechcianymi rozpryskami i utrzymują czystsze otoczenie",
+        "1": "Autorski materiał nasączony zapachem na bazie dezodorantu, uwalnianym stopniowo do 30 dni",
+        "2": "Idealne do comiesięcznego serwisu pisuarów",
+        "3": "Zawiera EVA z recyklingu, ulega biodegradacji na składowisku dzięki Eco-One™",
+        "4": "Pudełka z tektury w 100% z recyklingu",
+        "5": "Odpowiednie do pisuarów bezwodnych",
+        "6": "Elastyczny kształt pasuje do niemal wszystkich typów pisuarów",
+        "7": "Design, który uatrakcyjnia każdą toaletę",
+        "8": "Wymiary: 18 x 20 x 1,8 cm",
+        "9": "Wyjątkowy design, szeroka gama kolorów i przyjemne zapachy",
+        "10": "Marka własna z logo wyciętym w materiale lub nadrukowanym"
+      },
+      "useCases": {
+        "0": "Stadiums",
+        "1": "Transport hubs"
+      }
+    },
+    "basicScreen": {
+      "name": "basic scrëen",
+      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "category": "tanie sitko do pisuaru, biodegradowalne na składowisku odpadów",
+      "short": "basic scrëen to ekonomiczne sitko do pisuaru, które neutralizuje zapachy w pisuarach i zapobiega gromadzeniu się zanieczyszczeń. Autorski materiał sitka, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo do 30 dni, dlatego sitko idealnie sprawdza się przy comiesięcznym serwisie pisuarów.",
+      "long": "basic scrëen to ekonomiczne sitko do pisuaru, które neutralizuje zapachy w pisuarach i zapobiega gromadzeniu się zanieczyszczeń. Autorski materiał sitka, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo do 30 dni, dlatego sitko idealnie sprawdza się przy comiesięcznym serwisie pisuarów.\n\nSitko basic scrëen powstaje z wykorzystaniem EVA z recyklingu. Sam materiał nadaje się do recyklingu, ale zużyte sitko do pisuaru już nie, ponieważ jest skażone biologicznie. Trafia na składowisko odpadów lub do spalarni, dlatego sitko basic scrëen zawiera dodatek Eco-One™. W niezależnym teście laboratoryjnym materiał EVA ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, a prognoza na 5 lat to do 99%.\n\nbasic scrëen łączy niezawodną kontrolę zapachów, ochronę przed zanieczyszczeniami i biodegradowalny materiał EVA z recyklingu w niskiej cenie.",
+      "benefits": {
+        "0": "Autorski materiał nasączony zapachem na bazie dezodorantu, uwalnianym stopniowo",
+        "1": "Uwalnianie zapachu do 30 dni",
+        "2": "Idealne do comiesięcznego serwisu pisuarów",
+        "3": "Odpowiednie do pisuarów bezwodnych",
+        "4": "Elastyczny kształt pasuje do niemal wszystkich typów pisuarów",
+        "5": "Wymiary: 20 x 19 cm",
+        "6": "Wyjątkowy design, szeroka gama kolorów i przyjemne zapachy",
+        "7": "Tanie rozwiązanie do comiesięcznej higieny pisuarów",
+        "8": "Zawiera EVA z recyklingu, ulega biodegradacji na składowisku dzięki Eco-One™",
+        "9": "Wysyłane w kartonach z tektury w 100% z recyklingu",
+        "10": "Marka własna z logo wyciętym w materiale lub nadrukowanym"
+      },
+      "useCases": {
+        "0": "Schools",
+        "1": "Light commercial"
+      }
+    },
+    "urolite": {
+      "name": "üro lite",
+      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "małe sitko do pisuaru, duża ochrona przed rozpryskami",
+      "short": "üro lite to elastyczne zapachowe sitko do pisuaru przeznaczone do mniejszych pisuarów. Wykorzystuje ten sam opatentowany system Sealed Bristles Technology™ co sitko ëkcoscreen 60+, a zamiast większej średnicy stawia na długie szczecinki, które w małym sitku zapewniają dużą ochronę przed rozpryskami. Ogranicza do minimum rozpryski moczu i nieprzyjemne zapachy. Autorski materiał sitka, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo do 30 dni, dlatego sitko idealnie sprawdza się przy comiesięcznym serwisie pisuarów.",
+      "long": "üro lite to elastyczne zapachowe sitko do pisuaru przeznaczone do mniejszych pisuarów. Wykorzystuje ten sam opatentowany system Sealed Bristles Technology™ co sitko ëkcoscreen 60+, a zamiast większej średnicy stawia na długie szczecinki, które w małym sitku zapewniają dużą ochronę przed rozpryskami. Ogranicza do minimum rozpryski moczu i nieprzyjemne zapachy. Autorski materiał sitka, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo do 30 dni, dlatego sitko idealnie sprawdza się przy comiesięcznym serwisie pisuarów.\n\nSitko üro lite powstaje z wykorzystaniem EVA z recyklingu. Sam materiał nadaje się do recyklingu, ale zużyte sitko do pisuaru już nie, ponieważ jest skażone biologicznie. Trafia na składowisko odpadów lub do spalarni, dlatego sitko üro lite zawiera dodatek Eco-One™. W niezależnym teście laboratoryjnym materiał EVA ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, a prognoza na 5 lat to do 99%.\n\nüro lite zapewnia mniejszym pisuarom dużą ochronę przed rozpryskami dzięki wyjątkowym, opatentowanym długim szczecinkom, w kompaktowym i ekonomicznym sitku wykonanym z wykorzystaniem biodegradowalnego EVA z recyklingu.",
+      "benefits": {
+        "0": "Wyjątkowe, opatentowane długie szczecinki pomagają chronić użytkowników przed rozpryskami i utrzymują czystsze otoczenie",
+        "1": "Ten sam opatentowany system Sealed Bristles Technology™ co w sitku ëkcoscreen 60+",
+        "2": "Autorski materiał nasączony zapachem na bazie dezodorantu, uwalnianym stopniowo do 30 dni",
+        "3": "Kompaktowy rozmiar zaprojektowany specjalnie do mniejszych pisuarów",
+        "4": "Idealne do comiesięcznego serwisu pisuarów",
+        "5": "Odpowiednie do pisuarów bezwodnych",
+        "6": "Zawiera EVA z recyklingu, ulega biodegradacji na składowisku dzięki Eco-One™",
+        "7": "Pudełka z tektury w 100% z recyklingu",
+        "8": "Wymiary: 13 x 13 x 1,8 cm",
+        "9": "Wyjątkowy design, szeroka gama kolorów i przyjemne zapachy",
+        "10": "Marka własna z logo wyciętym w materiale lub nadrukowanym"
+      },
+      "useCases": {
+        "0": "Boutique hospitality",
+        "1": "Premium office"
+      }
+    },
+    "ekcoClip": {
+      "name": "ëkco clip",
+      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "category": "świeża zawieszka do WC, która pasuje do niemal każdej muszli",
+      "short": "ëkco clip to zapachowa zawieszka do muszli WC, która zapewnia stałą kontrolę zapachów i utrzymuje świeżość w kabinach WC. Autorski materiał zawieszki, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo do 30 dni. Dzięki elastycznej konstrukcji zawieszka pasuje do większości typów muszli, łatwo się ją zakłada i dobrze rozprowadza zapach.",
+      "long": "ëkco clip to zapachowa zawieszka do muszli WC, która zapewnia stałą kontrolę zapachów i utrzymuje świeżość w kabinach WC. Autorski materiał zawieszki, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo do 30 dni. Dzięki elastycznej konstrukcji zawieszka pasuje do większości typów muszli, łatwo się ją zakłada i dobrze rozprowadza zapach.\n\nZawieszka ëkco clip powstaje z wykorzystaniem EVA z recyklingu. Sam materiał nadaje się do recyklingu, ale zużyta zawieszka do WC już nie, ponieważ jest skażona biologicznie. Trafia na składowisko odpadów lub do spalarni, dlatego zawieszka ëkco clip zawiera dodatek Eco-One™. W niezależnym teście laboratoryjnym materiał EVA ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, a prognoza na 5 lat to do 99%.\n\nëkco clip łączy stałą kontrolę zapachów do 30 dni, łatwy montaż na większości muszli WC i biodegradowalny materiał EVA z recyklingu.",
+      "benefits": {
+        "0": "Autorski materiał nasączony zapachem na bazie dezodorantu, uwalnianym stopniowo",
+        "1": "Skuteczna ochrona przed zapachami",
+        "2": "Wyjątkowy design zapewniający optymalne uwalnianie zapachu",
+        "3": "Uwalnianie zapachu do 30 dni",
+        "4": "Elastyczny kształt pasuje do niemal wszystkich typów muszli WC",
+        "5": "Wymiary: 10 x 5 x 4,5 cm",
+        "6": "Szeroka gama kolorów i przyjemnych zapachów",
+        "7": "Ekonomiczna aromatyzacja toalet",
+        "8": "Zawiera EVA z recyklingu, ulega biodegradacji na składowisku dzięki Eco-One™",
+        "9": "Pudełka z tektury w 100% z recyklingu",
+        "10": "Marka własna z logo wyciętym w materiale lub nadrukowanym"
+      },
+      "useCases": {
+        "0": "Facility retrofits",
+        "1": "Specification-led projects"
+      }
+    },
+    "freshDrop": {
+      "name": "frësh drop",
+      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "category": "długotrwały odświeżacz powietrza do WC bez baterii",
+      "short": "frësh drop to odświeżacz powietrza do wnętrz, zaprojektowany do kabin WC i toalet. Jego wkład z autorskiego materiału nasączonego zapachem na bazie dezodorantu stopniowo uwalnia zapach bez baterii i prądu. W zamkniętych kabinach ze słabą wentylacją lub bez niej wystarcza na 60+ dni, a przy większym ruchu powietrza zapach szybciej się rozprasza. Design w kształcie kropli pasuje do każdego wnętrza toalety, a dołączona taśma klejąca umożliwia łatwy montaż na niemal każdej powierzchni. Do małych przestrzeni polecamy kompaktowy ëkco loop.",
+      "long": "frësh drop to odświeżacz powietrza do wnętrz, zaprojektowany do kabin WC i toalet. Jego wkład z autorskiego materiału nasączonego zapachem na bazie dezodorantu stopniowo uwalnia zapach bez baterii i prądu. W zamkniętych kabinach ze słabą wentylacją lub bez niej wystarcza na 60+ dni, a przy większym ruchu powietrza zapach szybciej się rozprasza. Design w kształcie kropli pasuje do każdego wnętrza toalety, a dołączona taśma klejąca umożliwia łatwy montaż na niemal każdej powierzchni. Do małych przestrzeni polecamy kompaktowy ëkco loop.\n\nWkład frësh drop powstaje z wykorzystaniem EVA z recyklingu, a materiał nadaje się do recyklingu. Zarówno wkład, jak i uchwyt zawierają dodatek Eco-One™, dzięki czemu oba ulegają biodegradacji na składowisku odpadów. W niezależnym teście laboratoryjnym materiał EVA ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, a prognoza na 5 lat to do 99%.\n\nfrësh drop łączy zapach na 60+ dni, łatwy montaż i biodegradowalny wkład zawierający EVA z recyklingu, z myślą o kabinach WC i toaletach.",
+      "benefits": {
+        "0": "Autorski materiał nasączony zapachem na bazie dezodorantu, uwalnianym stopniowo",
+        "1": "Doskonały sposób na utrzymanie świeżej i czystej atmosfery w toalecie, zaprojektowany specjalnie do kabin WC",
+        "2": "Uwalnianie zapachu przez 60+ dni w zamkniętych kabinach, bez baterii i prądu",
+        "3": "Design w kształcie kropli, który pasuje do każdego wnętrza toalety",
+        "4": "Łatwy montaż za pomocą dołączonej taśmy klejącej",
+        "5": "Wymiary: 23 x 12 x 3,5 cm",
+        "6": "Szeroka gama kolorów i przyjemnych zapachów",
+        "7": "Wkład wykonany z wykorzystaniem EVA z recyklingu, nadający się do recyklingu",
+        "8": "Wkład i uchwyt ulegają biodegradacji na składowisku odpadów dzięki Eco-One™",
+        "9": "Pudełka z tektury w 100% z recyklingu",
+        "10": "Możliwość znakowania marką własną poprzez nadruk"
+      },
+      "useCases": {
+        "0": "Hospitality",
+        "1": "Premium retail"
+      },
+      "bases": {
+        "white": "uchwyt biały",
+        "black": "uchwyt czarny"
+      }
+    },
+    "ezTrap": {
+      "name": "ëz trap",
+      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "category": "łatwy w utrzymaniu wkład do pisuaru bezwodnego blokujący zapachy",
+      "short": "ëz trap to innowacyjny system wkładów, który poprawia wydajność, czystość i kontrolę zapachów w pisuarach bezwodnych, a przy tym znacznie obniża koszty utrzymania.",
+      "long": "ëz trap to innowacyjny system wkładów, który poprawia wydajność, czystość i kontrolę zapachów w pisuarach bezwodnych, a przy tym znacznie obniża koszty utrzymania.\n\nDzięki opatentowanemu systemowi wkładów ëz trap mocz przepływa naturalnie przez syfon, a klapka zamykająca uszczelnia odpływ po każdym użyciu. Zapobiega to ulatnianiu się zapachów i zapewnia, że przy każdym użyciu stary mocz jest usuwany z systemu, co pozwala zachować świeższą atmosferę w toalecie.\n\nWkład ëz trap powstaje z dodatkiem Eco-One™, dzięki któremu ulega biodegradacji na składowisku odpadów. W niezależnym teście laboratoryjnym materiał ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, a prognoza na 5 lat to do 99%.\n\nëz trap to wydajny, łatwy w utrzymaniu i oszczędny sposób, by zapachy z kanalizacji nie wydostawały się z pisuarów bezwodnych.",
+      "variants": {
+        "withoutTool": "bez narzędzia do wyjmowania",
+        "withTool": "z narzędziem do wyjmowania"
+      },
+      "benefits": {
+        "0": "Blokuje zapachy z kanalizacji: syfon i klapka zamykająca nie pozwalają na ulatnianie się nieprzyjemnych zapachów z odpływu",
+        "1": "Bez konieczności stosowania drogich żeli czy specjalistycznych środków czyszczących",
+        "2": "Łatwa i ekonomiczna konserwacja: wystarczy codziennie wlać szklankę wody, aby zapobiec osadzaniu się kamienia moczowego",
+        "3": "Długa żywotność: wkład wystarcza na 4 do 6+ miesięcy, a regularne czyszczenie środkiem przeciw kamieniowi moczowemu (np. dobrej jakości żelem do WC) przedłuża okres jego użytkowania",
+        "4": "Szeroka kompatybilność: pasuje do pisuarów Sloan, Falcon, Vitra, Bobrick i innych marek z systemem Falcon Velocity (średnica 11,8 cm, wysokość 11,5 cm)",
+        "5": "Wymiary: Ø 11,8 x 11,5 cm",
+        "6": "Pudełka z tektury w 100% z recyklingu",
+        "7": "Ulega biodegradacji na składowisku odpadów dzięki dodatkowi Eco-One™"
+      },
+      "useCases": {
+        "0": "Food service",
+        "1": "Healthcare support areas"
+      }
+    },
+    "xcrenPuck": {
+      "name": "xcrën puck",
+      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "category": "sitko do pisuaru w kształcie X z krążkiem dezodorującym",
+      "short": "xcrën puck to sitko do pisuaru z krążkiem dezodorującym NON-PARA, zaprojektowane z myślą o skutecznej kontroli zapachów i ochronie odpływu. Nie zawiera paradichlorobenzenu (PARA), który WHO klasyfikuje jako możliwie rakotwórczy. Krążki z PARA są nadal stosowane w niektórych sitkach do pisuarów, podczas gdy przepisy UE ograniczają PARA w dezodorantach do toalet. Kształt litery X zapobiega zatykaniu odpływu przez ciała stałe i zanieczyszczenia, a przy każdym użyciu sitko uwalnia czysty, świeży zapach do 30 dni.",
+      "long": "xcrën puck to sitko do pisuaru z krążkiem dezodorującym NON-PARA, zaprojektowane z myślą o skutecznej kontroli zapachów i ochronie odpływu. Nie zawiera paradichlorobenzenu (PARA), który WHO klasyfikuje jako możliwie rakotwórczy. Krążki z PARA są nadal stosowane w niektórych sitkach do pisuarów, podczas gdy przepisy UE ograniczają PARA w dezodorantach do toalet. Kształt litery X zapobiega zatykaniu odpływu przez ciała stałe i zanieczyszczenia, a przy każdym użyciu sitko uwalnia czysty, świeży zapach do 30 dni.\n\nKrążek składa się głównie z wosku i gliceryny oraz rozpuszcza się w trakcie użytkowania. Sitko xcrën puck powstaje z dodatkiem Eco-One™, dzięki któremu ulega biodegradacji na składowisku odpadów. W niezależnym teście laboratoryjnym materiał ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, a prognoza na 5 lat to do 99%. Jest to produkt jednorazowy, a krążka nie można wymienić na nowy.\n\nxcrën puck to prosty i skuteczny sposób na świeże pisuary i drożne odpływy przez okres do 30 dni.",
+      "variants": {
+        "whiteFresh": "biały / fresh",
+        "blueFresh": "niebieski / fresh"
+      },
+      "benefits": {
+        "0": "Krążek NON-PARA: bez paradichlorobenzenu, który WHO klasyfikuje jako możliwie rakotwórczy",
+        "1": "Zapobiega zatykaniu odpływu przez ciała stałe i inne zanieczyszczenia",
+        "2": "Przy każdym użyciu uwalnia czysty, świeży zapach do 30 dni",
+        "3": "Idealne do comiesięcznego serwisu pisuarów",
+        "4": "Krążek wykonany głównie z wosku i gliceryny",
+        "5": "Jednorazowego użytku: krążka nie można wymienić na nowy",
+        "6": "Wymiary: 17 x 17 x 2,9 cm",
+        "7": "Pudełka z tektury w 100% z recyklingu",
+        "8": "Ulega biodegradacji na składowisku odpadów dzięki dodatkowi Eco-One™",
+        "9": "Nowy, wyjątkowy design w kształcie litery X",
+        "10": "Marka własna z logo wyciętym w materiale lub nadrukowanym"
+      },
+      "useCases": {
+        "0": "Compact washrooms",
+        "1": "Retrofit programs"
+      }
+    },
+    "ekcoMat": {
+      "name": "ëkco mat",
+      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "category": "ekonomiczna mata pod pisuar, która chroni podłogę",
+      "short": "ëkco mat to chłonna mata podłogowa pod pisuar, zaprojektowana, by poprawić higienę w toalecie i chronić podłogę przed gromadzeniem się moczu. Przy wymiarach 54 x 51 x 0,5 cm skutecznie zakrywa obszar wokół większości standardowych pisuarów, zapobiegając uszkodzeniom podłogi i ograniczając przenoszenie moczu na podeszwach butów użytkowników. Pomaga to utrzymać czystszą i przyjemniejszą toaletę.",
+      "long": "ëkco mat to chłonna mata podłogowa pod pisuar, zaprojektowana, by poprawić higienę w toalecie i chronić podłogę przed gromadzeniem się moczu. Przy wymiarach 54 x 51 x 0,5 cm skutecznie zakrywa obszar wokół większości standardowych pisuarów, zapobiegając uszkodzeniom podłogi i ograniczając przenoszenie moczu na podeszwach butów użytkowników. Pomaga to utrzymać czystszą i przyjemniejszą toaletę.\n\nëkco mat to ekonomiczne rozwiązanie jednorazowe, idealne dla restauracji, hoteli i innych intensywnie uczęszczanych miejsc, w których higiena jest priorytetem.\n\nëkco mat oferuje praktyczne, higieniczne i budżetowe rozwiązanie do utrzymania czystych i profesjonalnie wyglądających toalet.",
+      "variants": {
+        "standard": "czarny"
+      },
+      "benefits": {
+        "0": "Chroni podłogę pod pisuarem",
+        "1": "Ogranicza roznoszenie moczu na podeszwach butów",
+        "2": "Ekonomiczne rozwiązanie higieniczne",
+        "3": "Do jednorazowego użytku",
+        "4": "Możliwość znakowania marką własną",
+        "5": "Wymiary: 54 x 51 x 0,5 cm"
+      },
+      "useCases": {
+        "0": "Entrances",
+        "1": "Service corridors"
+      }
+    }
+  },
+  "privateLabel": {
+    "hero": {
+      "eyebrow": "Dla dystrybutorów",
+      "title": "Program marki prywatnej",
+      "lead": "Sprzedawaj nasze produkty pod własną marką",
+      "body": "Rozwijaj swój biznes dzięki własnej linii produktów. Nasz program marek własnych pozwala dystrybutorom dodawać do swojego portfolio sprawdzone, wydajne produkty do łazienek i sprzedawać je pod własną marką — bez konieczności tworzenia własnych rozwiązań i narzędzi. Jedyne czego potrzebujemy to Twoje logo; my zajmiemy się resztą.",
+      "cta": "Zostań partnerem"
+    },
+    "why": {
+      "title": "Dlaczego warto z nami współpracować",
+      "items": {
+        "0": {
+          "title": "Sprawdzone rozwiązania",
+          "body": "Każdy produkt jest wynikiem intensywnego rozwoju i został zaprojektowany z myślą o optymalnym i niezawodnym działaniu – jest to asortyment, na którym możesz śmiało umieścić swoje imię."
+        },
+        "1": {
+          "title": "Łatwe dostosowywanie",
+          "body": "Potrzebujemy jedynie Twojego logo, aby zapewnić Ci serię produktów, które będziesz mógł sprzedawać pod własną marką."
+        },
+        "2": {
+          "title": "Wsparcie premium",
+          "body": "Przeprowadzimy Cię przez cały proces, abyś mógł rozwijać swoją markę i sprzedaż."
+        }
+      }
+    },
+    "ways": {
+      "title": "Dwa sposoby brandingu produktów",
+      "print": {
+        "title": "Drukowane logo",
+        "body": "Twoje logo wydrukowane bezpośrednio na produkcie."
+      },
+      "cutout": {
+        "title": "Wycięcie na logo",
+        "body": "Twoje logo zintegrowane z samym materiałem w postaci unikalnego wycięcia — charakterystyczne, najwyższej jakości wykończenie, którego nie oferuje żaden inny producent i silny wyróżnik Twojej oferty."
+      }
+    },
+    "beyond": {
+      "title": "Dostosuj poza produktem",
+      "packaging": {
+        "title": "Opakowania i etykiety",
+        "body": "Dodaj swoje logo, dane firmy, nazwy i opisy produktów, kody EAN i inne elementy do pudełek, opakowań zbiorczych lub pojedynczych toreb z produktami — gotowe do sprzedaży detalicznej pod własną marką."
+      },
+      "mix": {
+        "title": "Kolor i zapach",
+        "body": "Zaoferuj własną, charakterystyczną kombinację kolorów i zapachów z naszej oferty."
+      }
+    },
+    "goodToKnow": {
+      "title": "Dobrze wiedzieć",
+      "items": {
+        "0": "Minimalna wielkość zamówienia uzależniona jest od konkretnego wybranego produktu.",
+        "1": "Za każdy produkt, który chcesz oznaczyć marką, obowiązuje jednorazowa opłata konfiguracyjna — obejmuje ona narzędzia i przygotowanie potrzebne do odtworzenia Twojej marki.",
+        "2": "Wszystkie markowe produkty wykonywane są na zamówienie, według Państwa specyfikacji.",
+        "3": "Podajemy dokładne minimalne ilości, ceny i terminy realizacji wraz z wyceną, gdy tylko zrozumiemy Twoje specyficzne wymagania."
+      }
+    },
+    "form": {
+      "title": "Zostań partnerem",
+      "description": "Wyślij nam swoje konkretne zapytanie, a jeden z naszych przedstawicieli handlowych skontaktuje się z Tobą bezpośrednio w celu omówienia szczegółów.",
+      "name": "Nazwa",
+      "company": "Nazwa firmy",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "products": "Produkty pod marką własną",
+      "productsHint": "Wprowadź ilość produktów, które chcesz oznaczyć marką. Nie musisz wypełniać każdego produktu – szczegóły omówimy po przesłaniu zapytania.",
+      "quantity": "Ilość (szt.)",
+      "message": "Wiadomość",
+      "submit": "Wyślij wiadomość",
+      "submitting": "Przesyłka…",
+      "success": "Dziękujemy – wkrótce się z Tobą skontaktujemy.",
+      "error": "Coś poszło nie tak. Spróbuj ponownie za chwilę.",
+      "alertSelect": "Proszę podać ilość dla co najmniej jednego produktu. Nie musisz zamawiać każdego produktu.",
+      "boundaryError": "Nie można załadować formularza zapytania. Odśwież stronę lub wyślij e-mail na adres support@ekcos.eu."
+    }
+  }
+}

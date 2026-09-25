@@ -1,0 +1,752 @@
+{
+  "Metadata": {
+    "title": "ëkcos — Deveniți verde cu fiecare culoare",
+    "description": "Sitele noastre pentru pisoar și odorizantele noastre sunt fabricate cu EVA reciclat. Materialul în sine poate fi reciclat, dar o sită de pisoar folosită nu, deoarece este contaminată biologic. Ajunge în depozitele de deșeuri sau la incinerare și de aceea adăugăm aditivul Eco-One™ în toate produsele noastre.",
+    "productsTitle": "Produse",
+    "productsDescription": "Explorați produsele ëkcos: schimbați modele, finisaje și opțiuni – apoi vizitați magazinul oficial.",
+    "ecoOneTitle": "Eco-One™",
+    "ecoOneDescription": "Sitele noastre pentru pisoar și odorizantele noastre sunt fabricate cu EVA reciclat. Materialul în sine poate fi reciclat, dar o sită de pisoar folosită nu, deoarece este contaminată biologic. Ajunge în depozitele de deșeuri sau la incinerare și de aceea adăugăm aditivul Eco-One™ în toate produsele noastre.",
+    "brandingTitle": "Branding personalizat",
+    "brandingDescription": "Branding privat, decupaje și imprimare pentru programe B2B.",
+    "articlesTitle": "Articole",
+    "articlesDescription": "Informații, actualizări și ghiduri practice de la echipa ëkcos.",
+    "contactTitle": "Contact",
+    "contactDescription": "Ajungeți la echipa ëkcos pentru specificații, programe și parteneriate.",
+    "privateLabelTitle": "Marcă privată",
+    "privateLabelDescription": "Vindeți produsele ëkcos pentru toalete sub propria marcă — marcă privată pentru distribuitori."
+  },
+  "LocaleSwitcher": {
+    "label": "Limbă",
+    "en": "English",
+    "es": "Spanish",
+    "fr": "French",
+    "de": "German",
+    "it": "Italian",
+    "cs": "Czech"
+  },
+  "nav": {
+    "aria": "Primar",
+    "logoAlt": "ëkcos",
+    "openMenu": "Deschide meniul",
+    "mobileMenuTitle": "Meniu",
+    "home": {
+      "label": "Acasă"
+    },
+    "products": {
+      "label": "Produse"
+    },
+    "articles": {
+      "label": "Articole"
+    },
+    "ecoOne": {
+      "label": "Eco-One™"
+    },
+    "customBranding": {
+      "label": "Branding personalizat"
+    },
+    "contact": {
+      "label": "Contact"
+    },
+    "privateLabel": {
+      "label": "Marcă privată"
+    },
+    "faq": {
+      "label": "FAQ"
+    }
+  },
+  "footer": {
+    "tagline": "ëkcos innovations oferă soluții de igienă care mențin toaletele curate și proaspete, ușurează întreținerea și folosesc materiale reciclate și biodegradabile.",
+    "explore": "Explora",
+    "newsletterTitle": "Buletin informativ",
+    "newsletterHint": "Actualizări de produse și știri despre program. Dezabonați-vă oricând.",
+    "company": {
+      "title": "Detalii companie",
+      "registryCode": "Codul de registru al companiei (Estonia)",
+      "vatIdCz": "ID TVA (Republica Cehă)"
+    },
+    "copyright": "© {year} ëkcos. Toate drepturile rezervate.",
+    "legalNote": "Site informativ. Achizițiile sunt finalizate în magazinul oficial."
+  },
+  "common": {
+    "shop": "Magazin",
+    "shopCta": "Cumpărați pe eshop.ekcos.eu",
+    "learnMore": "Află mai multe",
+    "getInTouch": "Contactaţi-ne",
+    "ecoOne": "Eco-One™"
+  },
+  "productDetail": {
+    "backToMap": "Înapoi la toaletă",
+    "buyNow": "Cumpărați pe eshop",
+    "price": "Preţ",
+    "from": "din",
+    "variants": "Variante disponibile",
+    "colors": "Culori și parfumuri",
+    "bases": "Baze de perete",
+    "benefits": "Beneficii cheie",
+    "more": "Mai multe detalii",
+    "openDetails": "Deschide fotografiile de detaliu",
+    "detailGallery": "Fotografii detaliate — {name}",
+    "detailShot": "detaliu",
+    "boundaryError": "Această vizualizare a produsului este temporar indisponibilă. Vă rugăm să încercați din nou."
+  },
+  "articles": {
+    "shopCta": {
+      "title": "Sunteți gata să vă îmbunătățiți toaletele?",
+      "body": "Răsfoiți ecranele și accesoriile pentru pisoare ëkcos în magazinul oficial.",
+      "button": "Magazin"
+    }
+  },
+  "newsletter": {
+    "popupTitle": "Fii informat",
+    "popupDescription": "Actualizări ocazionale despre produse, Eco-One™ și programe de branding personalizate.",
+    "emailLabel": "E-mail",
+    "emailPlaceholder": "you@company.com",
+    "submit": "Abonați-vă",
+    "configureBrevo": "Înscrierea la buletin informativ este temporar indisponibilă. Vă rugăm să încercați din nou mai târziu.",
+    "submitError": "Abonamentul a eșuat. Vă rugăm să încercați din nou peste un moment.",
+    "dismiss": "Nu acum"
+  },
+  "home": {
+    "map": {
+      "aria": "Harta interactivă a produselor pentru toaletă",
+      "hint": "Faceți clic pe un produs pentru a afla mai multe",
+      "imageAlt": "Produse ëkcos plasate într-o toaletă comercială"
+    },
+    "overlay": {
+      "moreVariants": "Disponibil și în mai multe culori și parfumuri în magazin.",
+      "shopCta": "Cumpărați pe eshop",
+      "close": "Aproape"
+    },
+    "hero": {
+      "title": "Deveniți verde cu fiecare culoare",
+      "tagline": "Fabricată cu EVA reciclat, biodegradabilă în depozitele de deșeuri cu Eco-One™",
+      "body": "Sitele noastre pentru pisoar și odorizantele noastre sunt fabricate cu EVA reciclat. Materialul în sine poate fi reciclat, dar o sită de pisoar folosită nu, deoarece este contaminată biologic.",
+      "ctaProducts": "Explorați produsele",
+      "brandMark": "ekcos.eu"
+    },
+    "benefits": {
+      "eco": {
+        "title": "EVA reciclat cu Eco-One™",
+        "body": "Produse biodegradabile fabricate cu EVA reciclat"
+      },
+      "hygiene": {
+        "title": "Igienă fără compromis",
+        "body": "Oferă o experiență mai curată și mai confortabilă, reducând la minimum stropirea de urină și mirosurile neplăcute."
+      },
+      "costs": {
+        "title": "Mai puțină curățare, costuri mai mici",
+        "body": "Până la 60 de zile de prospețime înseamnă mai puține curățări și cheltuieli reduse."
+      },
+      "distributor": {
+        "title": "Distribuitor oficial UE",
+        "body": "Acces direct la produsele originale Ekcos cu livrare rapidă și prețuri corecte."
+      },
+      "ecoLink": "Despre Eco-One™"
+    },
+    "shipping": {
+      "title": "Livrare rapidă în toată Europa",
+      "body": "Toate produsele ëkcos sunt expediate în 1–2 zile lucrătoare de la confirmarea plății. Cu livrare sigură și eficientă în întreaga UE, vă puteți baza pe o reaprovizionare constantă pentru afacerea dvs."
+    },
+    "productOfWeek": {
+      "title": "Produsul săptămânii",
+      "cta": "Adaugă in coş"
+    },
+    "productsTeaser": {
+      "title": "Descoperiți produsele noastre",
+      "body": "Explorați xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip și multe altele — apoi deschideți magazinul oficial.",
+      "link": "Vezi toate produsele"
+    },
+    "brandingTeaser": {
+      "title": "Branding personalizat pentru B2B",
+      "body": "Etichetare privată, decupaje și imprimare pentru programe consistente pe mai multe site-uri.",
+      "link": "Branding personalizat"
+    },
+    "trust": {
+      "title": "Construit pentru facilități solicitante",
+      "body": "Igienă de încredere și o impresie premium la fața locului - de la birouri până la ospitalitate."
+    },
+    "newsletter": {
+      "title": "Specificații, lansări și actualizări de program",
+      "body": "Un scurt buletin informativ pentru echipele și partenerii instituției. Fără dezordine."
+    },
+    "finalCta": {
+      "title": "Luați legătura",
+      "body": "Întrebări despre produse, livrare sau comenzi B2B? Trimiteți-ne un mesaj - suntem bucuroși să vă ajutăm.",
+      "shop": "Du-te la magazin",
+      "contact": "Trimite mesaj"
+    },
+    "marketing": {
+      "featuresEyebrow": "Platformă unificată",
+      "featuresTitle": "Comparați, decideți și cumpărați cu încredere",
+      "featuresSubtitle": "Explorați finisaje, revizuiți faptele și deschideți magazinul când sunteți gata - totul într-un singur flux.",
+      "featureInteractTitle": "Specificație interactivă",
+      "featureInteractBody": "Schimbați modelele, finisajele și parfumurile în câteva secunde - concepute pentru echipele din fabrică și FM.",
+      "featureProofTitle": "Fapte pe care le puteți împărtăși",
+      "featureProofBody": "Ștergeți descărcările Eco-One™, astfel încât echipa dvs. să poată explica alegerea colegilor sau clienților.",
+      "featureB2bTitle": "Programe care scala",
+      "featureB2bBody": "Branding personalizat și comandă B2B pentru lansări care au nevoie de consistență, viteză și un aspect șlefuit la fața locului.",
+      "numbersEyebrow": "După cifre",
+      "numbersTitle": "Claritate operațională, prezentare premium",
+      "statProductsLabel": "Familii de produse de explorat",
+      "statTechLabel": "Eco-One™ fapte și descărcări",
+      "statShopLabel": "Magazin oficial",
+      "galleryEyebrow": "Alinia",
+      "galleryTitle": "Fotografie din catalog",
+      "gallerySubtitle": "Fotografie de produs real pentru propuneri, prezentări și explicații."
+    }
+  },
+  "ecoOne": {
+    "hero": {
+      "title": "Eco-One™ pentru biodegradarea gropii de gunoi",
+      "tagline": "Același produs. Aceeași performanță. Fabricat cu EVA reciclat și Eco-One™.",
+      "body": "Sitele noastre pentru pisoar și odorizantele noastre sunt fabricate cu EVA reciclat. Materialul în sine poate fi reciclat, dar o sită de pisoar folosită nu, deoarece este contaminată biologic. Ajunge în depozitele de deșeuri sau la incinerare și de aceea adăugăm aditivul Eco-One™ în toate produsele noastre. Într-un test independent conform ASTM D5511 și ISO 15985, efectuat la Instituto Politécnico Nacional din Ciudad de México, EVA-ul ëkcos cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, în timp ce același material fără aditiv a înregistrat 0%. Se estimează o biodegradare de până la 99% în 5 ani. Cutiile noastre sunt fabricate din carton 100% reciclat."
+    },
+    "metrics": {
+      "additive": {
+        "value": "~1%",
+        "label": "continut aditiv"
+      },
+      "measured": {
+        "value": "~3,5 ani",
+        "label": "la 93% biodegradare"
+      },
+      "projected": {
+        "value": "pana la 99%",
+        "label": "în ~5 ani"
+      }
+    },
+    "problem": {
+      "title": "De ce plasticul obișnuit este o problemă",
+      "body": "Produsele obișnuite din plastic sunt concepute pentru a dura. Fără un aditiv de biodegradare, un produs din plastic trimis la groapa de gunoi poate rămâne acolo timp de <bold>300 până la 1.000 de ani</bold>; Saboții din spumă „în stil Crocs” sunt un exemplu familiar de plastic care <bold>nu este biodegradabil</bold>. Produsele noastre sunt fabricate din același tip de plastic durabil (EVA), dar cu o diferență decisivă: aditivul Eco-One™.",
+      "chartAlt": "Produse fără Eco-One™ în comparație cu produsele ëkcos care conțin aditiv",
+      "chartCaption": "Produse fără Eco-One™ în comparație cu produsele ëkcos care conțin aditiv.",
+      "chart": {
+        "ariaLabel": "Comparație între anii de defalcat în groapa de gunoi",
+        "withoutLabel": "Produse fără Eco-One™",
+        "withLabel": "ëkcos cu Eco-One™",
+        "withoutValue": "300–1.000 de ani",
+        "withValue": "3,5–5 ani",
+        "withoutDetail": "Fără un aditiv de biodegradare, plasticul convențional poate rămâne la groapa de gunoi timp de secole.",
+        "withDetail": "Cu aditivul Eco-One™, testele independente arată o biodegradare de ~93% în aproximativ 3,5 ani și până la 99% în cinci ani.",
+        "axisLabel": "Ani până la distrugere (depozit)",
+        "caption": "Produse fără Eco-One™ în comparație cu produsele ëkcos care conțin aditiv.",
+        "scaleLabel": "Scara graficului",
+        "scaleFull": "0-1.000 de ani",
+        "scaleZoom": "0-10 ani",
+        "clippedNote": "continuă →"
+      }
+    },
+    "solution": {
+      "title": "Soluția noastră: Aditivul Eco-One™",
+      "body1": "În timpul producției incorporăm aproximativ <bold>1% din Eco-One™</bold>, un aditiv organic dozat în același mod ca un colorant. Nu afectează rezistența, aspectul sau performanța produsului.",
+      "body2": "Într-o groapă de gunoi activă din punct de vedere biologic, microorganismele naturale descompun plasticul tratat prin activitate enzimatică, transformându-l în biogaz (<bold>metan</bold>, pe care depozitele moderne de deșeuri îl captează pentru recuperarea energiei), dioxid de carbon și humus.",
+      "body3": "Deoarece produsul se descompune în ultimă instanță în humus, returnează materia organică la groapa de gunoi și ajută la accelerarea proceselor biochimice care lucrează deja acolo. Prin urmare, produsul contribuie <bold>nu numai pe durata de viață, ci și după acesta</bold>."
+    },
+    "testing": {
+      "title": "Testare independentă",
+      "body": "Produsul a fost testat de un laborator independent la standardele internaționale <bold>ASTM D5511 și ISO 15985</bold>, comparând același produs cu și fără aditivul Eco-One™. Cu Eco-One™, a atins <bold>93,31% biodegradare în aproximativ 3,5 ani și până la 99% în cinci ani</bold>; fără Eco-One™, produsul nu a prezentat o biodegradare măsurabilă.",
+      "barChart": {
+        "ariaLabel": "Biodegradare la aproximativ 3,5 ani cu și fără Eco-One™",
+        "yAxis": "Biodegradare (%)",
+        "withLabel": "ëkcos cu Eco-One™",
+        "withoutLabel": "Produse fără Eco-One™",
+        "withDetail": "93,31% biodegradare măsurată într-un test de laborator independent ASTM D5511 / ISO 15985 după aproximativ 3,5 ani.",
+        "withoutDetail": "Același produs fără Eco-One™ nu a prezentat nicio biodegradare măsurabilă în aceeași perioadă de testare.",
+        "subtitle": "Același produs · același test de laborator (ASTM D5511 / ISO 15985) · ~3,5 ani"
+      },
+      "timelineChart": {
+        "ariaLabel": "Biodegradare timp de cinci ani cu și fără Eco-One™",
+        "yAxis": "Biodegradare (%)",
+        "xAxis": "ani",
+        "withLabel": "ëkcos cu Eco-One™",
+        "withoutLabel": "Produse fără Eco-One™",
+        "zeroNote": "0% tot timpul",
+        "measured": "măsurat",
+        "projected": "proiectat",
+        "yearsUnit": "ani",
+        "projectedNote": "Proiectat din tendința măsurată",
+        "caption": "Biodegradare cu și fără aditivul Eco-One™. Valorile de peste 3,5 ani sunt proiectate din tendința măsurată."
+      }
+    },
+    "closing": {
+      "title": "produse ëkcos cu Eco-One™",
+      "body": "Produsele noastre pentru toaletă sunt fabricate cu aditivul Eco-One™. Într-un test de laborator independent, ëkcos EVA cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar până la 99% este proiectat în 5 ani în condiții de groapă de gunoi - cu performanțe identice cu produsele fără aditiv.",
+      "shopCta": "Magazin"
+    },
+    "footnote": "Sursa datelor: test independent de biodegradare conform ASTM D5511-02 și ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) — produs ëkcos cu 1% aditiv Eco-One™: 93,31% biodegradare în 1.288 de zile (≈35 ani); același produs fără aditiv: 0%. Biodegradarea dincolo de perioada de testare (până la 99% în ~5 ani) este proiectată din tendința măsurată. Cifrele de persistență pentru materialele plastice convenționale (≈300–1.000 de ani) sunt estimări ale industriei citate pe scară largă. Aditivul Eco-One™ este fabricat și certificat de EcoLogic, LLC."
+  },
+  "customBranding": {
+    "hero": {
+      "eyebrow": "Specificația B2B",
+      "title": "Branding personalizat",
+      "subtitle": "Etichetare privată, decupaje și imprimare pentru programe de marcă cu mai multe site-uri."
+    },
+    "introEyebrow": "Prezentare generală a programului",
+    "introTitle": "Branding condus de specificații",
+    "intro": "Vă ajutăm să vă puneți marca pe produs cu o calitate la nivel de fabrică: specificații clare, producție constantă și documente pe care echipa dvs. le poate înmâna auditorilor sau clienților.",
+    "sections": {
+      "private": {
+        "title": "Branding privat",
+        "body": "Opera dvs. de artă, gestionată în mod constant de la aprobare până la producție - astfel încât fiecare lot să se potrivească cu marca dvs."
+      },
+      "cutouts": {
+        "title": "Decupaje personalizate",
+        "body": "Deschideri și adâncituri în formă care se potrivesc cu corpurile reale și cum le instalează echipele tale."
+      },
+      "print": {
+        "title": "Opțiuni de imprimare",
+        "body": "Imprimare durabilă care rămâne lizibilă pe produs prin utilizarea zilnică."
+      }
+    },
+    "pricing": {
+      "title": "Condiții comerciale",
+      "description": "Taxe publicate: configurare unică, branding per unitate și etichete de ambalare opționale.",
+      "entryFee": "Taxă de intrare unică",
+      "brandingCost": "Costul de branding",
+      "packagingLabels": "Etichete personalizate pe ambalaj"
+    },
+    "standardMoq": {
+      "title": "MOQ pentru branding standard",
+      "description": "Cantități minime de comandă pentru programele standard de branding cu decupaje de logo sau imprimare.",
+      "productLabel": "Produs",
+      "moqLabel": "MOQ [buc]",
+      "note": "* Dacă doriți să comandați doar bazele Fresh Drop, MOQ este de 288 buc."
+    },
+    "customMix": {
+      "title": "Mix personalizat de culori și parfumuri",
+      "description": "Putem produce o combinație personalizată de parfum și culoare din gama noastră. Cantitatea minimă de comandă corespunde unui palet complet al fiecărui produs personalizat.",
+      "productLabel": "Produs",
+      "moqLabel": "MOQ [buc]",
+      "note": "* MOQ Ecran de bază este pentru o jumătate de palet."
+    },
+    "production": {
+      "title": "Productie, termen de livrare si plata"
+    },
+    "process": {
+      "title": "Un proces simplu",
+      "steps": {
+        "0": "Suntem de acord asupra volumelor, regiunilor și calendarului.",
+        "1": "Aprobați lucrările de artă, materialele și finisajele.",
+        "2": "Producem cu controale de calitate la fiecare pas.",
+        "3": "Expediem la site-urile dvs. conform programului de care aveți nevoie."
+      }
+    },
+    "inquiry": {
+      "title": "Solicitați informații",
+      "hint": "Spuneți-ne despre volume, regiuni și cerințele de branding."
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Suport tehnic si comercial",
+      "title": "Contact",
+      "subtitle": "Întrebați-ne despre Eco-One™, specificații sau programe B2B - plasați comenzi oricând în magazinul oficial."
+    },
+    "details": {
+      "title": "Contact",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "hours": "Ore",
+      "hoursValue": "Luni–vineri, 09:00–17:00 CET"
+    },
+    "company": {
+      "title": "Detaliile companiei înregistrate",
+      "registryCode": "Codul de registru al companiei (Estonia)",
+      "vatIdCz": "ID TVA (Republica Cehă)"
+    },
+    "form": {
+      "name": "Nume",
+      "company": "Companie",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "message": "Mesaj",
+      "submit": "Trimite mesaj",
+      "success": "Vă mulțumim - vă vom reveni în curând.",
+      "error": "Ceva a mers prost. Vă rugăm să încercați din nou."
+    }
+  },
+  "products": {
+    "page": {
+      "title": "Products",
+      "intro": "Switch models and finishes, then buy in the official store.",
+      "heroEyebrow": "Explore the range",
+      "heroTitle": "Configure every line in one place",
+      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroLinkEco": "About Eco-One™",
+      "heroLinkBranding": "Custom branding"
+    },
+    "configurator": {
+      "color": "Finish",
+      "selectProduct": "Select product",
+      "fragrance": "Fragrance options",
+      "benefits": "Benefits",
+      "productBenefits": "Product benefits",
+      "availableColorsFragrances": "Available colors & fragrances",
+      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
+      "byBrand": "by ëkcos",
+      "siteUrl": "www.ekcos.eu",
+      "useCases": "Typical applications",
+      "brandingNote": "Custom branding available for qualified orders."
+    },
+    "colors": {
+      "white": "White",
+      "grey": "Grey",
+      "black": "Black",
+      "blue": "Blue"
+    },
+    "fragrances": {
+      "fresh": "Fresh",
+      "citrus": "Citrus"
+    },
+    "variantLabels": {
+      "x1p": "mov / fructe de pădure",
+      "x2g": "verde / măr",
+      "x3b": "albastru / fresh",
+      "x4o": "portocaliu / fructe tropicale",
+      "x6c": "transparent / fructe tropicale",
+      "x7bk": "negru / mentă",
+      "x8bm": "flacără / mango",
+      "x9g": "verde / pin",
+      "x10r": "roșu / pepene galben",
+      "x12p": "mov / lavandă",
+      "x13c": "galben / citrice"
+    },
+    "xcrenHd": {
+      "name": "xcrën HD",
+      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "category": "sită de design pentru pisoar, cu protecție antistropire extremă",
+      "badge": "sită de design pentru pisoar, cu protecție antistropire extremă",
+      "short": "xcrën HD 60+ este o sită parfumată pentru pisoar, cu o formă brevetată care iese în evidență în pisoar. Spre deosebire de sitele ovale obișnuite, transformă pisoarul într-un element de design. Perii brevetați (Sealed Bristles Technology™) acoperă 92% din sită și reduc la minimum stropii de urină și mirosurile neplăcute. Fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de 60+ de zile. În toaletele cu trafic redus, durează și mai mult.",
+      "long": "xcrën HD 60+ este o sită parfumată pentru pisoar, cu o formă brevetată care iese în evidență în pisoar. Spre deosebire de sitele ovale obișnuite, transformă pisoarul într-un element de design. Perii brevetați (Sealed Bristles Technology™) acoperă 92% din sită și reduc la minimum stropii de urină și mirosurile neplăcute. Fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de 60+ de zile. În toaletele cu trafic redus, durează și mai mult.\n\nConcepută pentru toaletele cu trafic intens din restaurante, baruri, aeroporturi și centre comerciale, xcrën HD 60+ îmbină igiena cu un aspect care diferențiază toaleta.\n\nxcrën HD 60+ este fabricată cu EVA reciclat. Materialul în sine poate fi reciclat, dar o sită de pisoar folosită nu, deoarece este contaminată biologic. Ajunge în depozitele de deșeuri sau la incinerare și de aceea xcrën HD 60+ conține aditivul Eco-One™. Într-un test de laborator independent, EVA-ul ëkcos cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar în 5 ani se estimează până la 99%.\n\nxcrën HD 60+ combină o protecție puternică împotriva stropilor, parfum timp de 60+ de zile și un design brevetat care iese în evidență în orice toaletă.",
+      "benefits": {
+        "0": "Formă brevetată care se deosebește de sitele ovale obișnuite",
+        "1": "Peri antistropire brevetați acoperă 92% din suprafața sitei, pentru a ajuta la protejarea utilizatorilor împotriva stropilor nedoriți și a menține zona din jur mai curată",
+        "2": "Material exclusiv impregnat cu un parfum pe bază de dezodorizant, care se eliberează treptat timp de 60+ de zile",
+        "3": "Parfumul durează de două ori mai mult decât la sitele standard de 30 de zile",
+        "4": "Special concepută pentru toalete cu trafic intens, de exemplu în restaurante, baruri, aeroporturi, centre comerciale etc.",
+        "5": "Fabricată cu EVA reciclat, biodegradabilă în depozitele de deșeuri cu Eco-One™",
+        "6": "Ambalată în cutii din carton 100% reciclat",
+        "7": "Perfectă pentru pisoare fără apă",
+        "8": "Dimensiuni: 17 x 18 x 2,1 cm",
+        "9": "Gamă largă de culori și parfumuri plăcute",
+        "10": "Personalizare cu sigla dumneavoastră, decupată în material sau imprimată"
+      },
+      "variants": {
+        "xhd1p": "mov / fructe de pădure",
+        "xhd2g": "verde / măr",
+        "xhd3b": "albastru / fresh",
+        "xhd4o": "portocaliu / fructe tropicale",
+        "xhd6c": "transparent / fructe tropicale",
+        "xhd7bk": "negru / mentă",
+        "xhd8bm": "flacără / mango",
+        "xhd9g": "verde / pin",
+        "xhd10r": "roșu / pepene galben",
+        "xhd12p": "mov / lavandă",
+        "xhd13c": "galben / citrice"
+      },
+      "useCases": {
+        "0": "Corporate offices",
+        "1": "Hotels and hospitality"
+      }
+    },
+    "ekcoscreen": {
+      "name": "ëkcoscreen",
+      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "sită antistropire masivă pentru pisoar, parfum de durată dublă",
+      "short": "ëkcoscreen 60+ este o sită parfumată pentru pisoar, cu peri brevetați (Sealed Bristles Technology™) care acoperă 95% din sită. Reduce la minimum stropii de urină și mirosurile neplăcute, pentru o toaletă mai curată și mai confortabilă. Fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de 60+ de zile, de două ori mai mult decât sitele standard de 30 de zile. În toaletele cu trafic redus, durează și mai mult.",
+      "long": "ëkcoscreen 60+ este o sită parfumată pentru pisoar, cu peri brevetați (Sealed Bristles Technology™) care acoperă 95% din sită. Reduce la minimum stropii de urină și mirosurile neplăcute, pentru o toaletă mai curată și mai confortabilă. Fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de 60+ de zile, de două ori mai mult decât sitele standard de 30 de zile. În toaletele cu trafic redus, durează și mai mult.\n\nConcepută pentru toaletele cu trafic intens din restaurante, baruri, aeroporturi, centre comerciale și alte spații în care se pune accent pe igienă, ëkcoscreen 60+ îmbunătățește curățenia și controlul mirosurilor.\n\nëkcoscreen 60+ este fabricată cu EVA reciclat. Materialul în sine poate fi reciclat, dar o sită de pisoar folosită nu, deoarece este contaminată biologic. Ajunge în depozitele de deșeuri sau la incinerare și de aceea ëkcoscreen 60+ conține aditivul Eco-One™. Într-un test de laborator independent, EVA-ul ëkcos cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar în 5 ani se estimează până la 99%.\n\nëkcoscreen 60+ combină o protecție eficientă împotriva stropilor, parfum timp de 60+ de zile și EVA reciclat și biodegradabil, pentru toaletele cu trafic intens.",
+      "benefits": {
+        "0": "Peri antistropire brevetați acoperă 95% din suprafața sitei, pentru a ajuta la protejarea utilizatorilor împotriva stropilor nedoriți și a menține zona din jur mai curată",
+        "1": "Niciun strop vizibil în afara sitei într-un test comparativ de stropire cu lumină UV, efectuat în paralel, în condiții identice",
+        "2": "Material exclusiv impregnat cu un parfum pe bază de dezodorizant, care se eliberează treptat timp de 60+ de zile",
+        "3": "Parfumul durează de două ori mai mult decât la sitele de 30 de zile, la un cost pe zi similar",
+        "4": "141 g de material parfumat pe sită, de peste trei ori mai mult decât o sită obișnuită",
+        "5": "Special concepută pentru toalete cu trafic intens, de exemplu în restaurante, baruri, aeroporturi, centre comerciale etc.",
+        "6": "Fabricată cu EVA reciclat, biodegradabilă în depozitele de deșeuri cu Eco-One™",
+        "7": "Ambalată în cutii din carton 100% reciclat",
+        "8": "Ideală pentru pisoare fără apă",
+        "9": "Dimensiuni: 20 x 21 x 2,2 cm",
+        "10": "Design unic, gamă largă de culori și parfumuri plăcute",
+        "11": "Personalizare cu sigla dumneavoastră, decupată în material sau imprimată"
+      },
+      "useCases": {
+        "0": "Retail",
+        "1": "Public buildings"
+      }
+    },
+    "powerscreen": {
+      "name": "powër screen",
+      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "category": "sită antistropire puternică pentru pisoar, cu schimbare lunară",
+      "short": "powër screen este o sită parfumată pentru pisoar, cu un sistem de peri brevetat (Sealed Bristles Technology™). Reduce la minimum stropii de urină și mirosurile neplăcute, pentru o toaletă mai curată și mai confortabilă. Fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de până la 30 de zile, ceea ce o face ideală pentru întreținerea lunară a pisoarelor.",
+      "long": "powër screen este o sită parfumată pentru pisoar, cu un sistem de peri brevetat (Sealed Bristles Technology™). Reduce la minimum stropii de urină și mirosurile neplăcute, pentru o toaletă mai curată și mai confortabilă. Fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de până la 30 de zile, ceea ce o face ideală pentru întreținerea lunară a pisoarelor.\n\npowër screen este fabricată cu EVA reciclat. Materialul în sine poate fi reciclat, dar o sită de pisoar folosită nu, deoarece este contaminată biologic. Ajunge în depozitele de deșeuri sau la incinerare și de aceea powër screen conține aditivul Eco-One™. Într-un test de laborator independent, EVA-ul ëkcos cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar în 5 ani se estimează până la 99%.\n\npowër screen combină o protecție eficientă împotriva stropilor, parfum timp de până la 30 de zile și EVA reciclat și biodegradabil, pentru întreținerea lunară a toaletelor.",
+      "benefits": {
+        "0": "Peri antistropire brevetați, care ajută la protejarea utilizatorilor împotriva stropilor nedoriți și mențin zona din jur mai curată",
+        "1": "Material exclusiv impregnat cu un parfum pe bază de dezodorizant, care se eliberează treptat timp de până la 30 de zile",
+        "2": "Ideală pentru întreținerea lunară a pisoarelor",
+        "3": "Fabricată cu EVA reciclat, biodegradabilă în depozitele de deșeuri cu Eco-One™",
+        "4": "Ambalată în cutii din carton 100% reciclat",
+        "5": "Potrivită pentru pisoare fără apă",
+        "6": "Forma flexibilă se potrivește la aproape toate tipurile de pisoare",
+        "7": "Design care pune în valoare orice toaletă",
+        "8": "Dimensiuni: 18 x 20 x 1,8 cm",
+        "9": "Design unic, gamă largă de culori și parfumuri plăcute",
+        "10": "Personalizare cu sigla dumneavoastră, decupată în material sau imprimată"
+      },
+      "useCases": {
+        "0": "Stadiums",
+        "1": "Transport hubs"
+      }
+    },
+    "basicScreen": {
+      "name": "basic scrëen",
+      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "category": "sită de pisoar biodegradabilă în depozite de deșeuri, la preț mic",
+      "short": "basic scrëen este o sită economică pentru pisoar, care dezodorizează pisoarele și previne acumularea de reziduuri. Fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de până la 30 de zile, ceea ce o face ideală pentru întreținerea lunară a pisoarelor.",
+      "long": "basic scrëen este o sită economică pentru pisoar, care dezodorizează pisoarele și previne acumularea de reziduuri. Fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de până la 30 de zile, ceea ce o face ideală pentru întreținerea lunară a pisoarelor.\n\nbasic scrëen este fabricată cu EVA reciclat. Materialul în sine poate fi reciclat, dar o sită de pisoar folosită nu, deoarece este contaminată biologic. Ajunge în depozitele de deșeuri sau la incinerare și de aceea basic scrëen conține aditivul Eco-One™. Într-un test de laborator independent, EVA-ul ëkcos cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar în 5 ani se estimează până la 99%.\n\nbasic scrëen combină un control fiabil al mirosurilor, protecția împotriva reziduurilor și EVA reciclat și biodegradabil, la un cost redus.",
+      "benefits": {
+        "0": "Material exclusiv impregnat cu un parfum pe bază de dezodorizant, care se eliberează treptat",
+        "1": "Eliberează parfum timp de până la 30 de zile",
+        "2": "Ideală pentru întreținerea lunară a pisoarelor",
+        "3": "Potrivită pentru pisoare fără apă",
+        "4": "Forma flexibilă se potrivește la aproape toate tipurile de pisoare",
+        "5": "Dimensiuni: 20 x 19 cm",
+        "6": "Design unic, gamă largă de culori și parfumuri plăcute",
+        "7": "Soluție cu cost redus pentru igiena lunară a pisoarelor",
+        "8": "Fabricată cu EVA reciclat, biodegradabilă în depozitele de deșeuri cu Eco-One™",
+        "9": "Livrată în cutii din carton 100% reciclat",
+        "10": "Personalizare cu sigla dumneavoastră, decupată în material sau imprimată"
+      },
+      "useCases": {
+        "0": "Schools",
+        "1": "Light commercial"
+      }
+    },
+    "urolite": {
+      "name": "üro lite",
+      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "sită mică pentru pisoar, protecție mare împotriva stropilor",
+      "short": "üro lite este o sită parfumată și flexibilă pentru pisoar, concepută pentru pisoare mai mici. Folosește aceeași Sealed Bristles Technology™ brevetată ca ëkcoscreen 60+ și, în loc de un diametru mai mare, se bazează pe peri lungi care oferă o protecție mare împotriva stropilor într-o sită mică. Reduce la minimum stropii de urină și mirosurile neplăcute. Fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de până la 30 de zile, ceea ce o face ideală pentru întreținerea lunară a pisoarelor.",
+      "long": "üro lite este o sită parfumată și flexibilă pentru pisoar, concepută pentru pisoare mai mici. Folosește aceeași Sealed Bristles Technology™ brevetată ca ëkcoscreen 60+ și, în loc de un diametru mai mare, se bazează pe peri lungi care oferă o protecție mare împotriva stropilor într-o sită mică. Reduce la minimum stropii de urină și mirosurile neplăcute. Fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de până la 30 de zile, ceea ce o face ideală pentru întreținerea lunară a pisoarelor.\n\nüro lite este fabricată cu EVA reciclat. Materialul în sine poate fi reciclat, dar o sită de pisoar folosită nu, deoarece este contaminată biologic. Ajunge în depozitele de deșeuri sau la incinerare și de aceea üro lite conține aditivul Eco-One™. Într-un test de laborator independent, EVA-ul ëkcos cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar în 5 ani se estimează până la 99%.\n\nüro lite oferă pisoarelor mai mici o protecție mare împotriva stropilor datorită perilor lungi, unici și brevetați, într-o sită compactă și economică, fabricată cu EVA reciclat și biodegradabil.",
+      "benefits": {
+        "0": "Peri lungi, unici și brevetați, care ajută la protejarea utilizatorilor împotriva stropilor și mențin zona din jur mai curată",
+        "1": "Aceeași Sealed Bristles Technology™ brevetată ca ëkcoscreen 60+",
+        "2": "Material exclusiv impregnat cu un parfum pe bază de dezodorizant, care se eliberează treptat timp de până la 30 de zile",
+        "3": "Dimensiune compactă, special concepută pentru pisoare mai mici",
+        "4": "Ideală pentru întreținerea lunară a pisoarelor",
+        "5": "Potrivită pentru pisoare fără apă",
+        "6": "Fabricată cu EVA reciclat, biodegradabilă în depozitele de deșeuri cu Eco-One™",
+        "7": "Ambalată în cutii din carton 100% reciclat",
+        "8": "Dimensiuni: 13 x 13 x 1,8 cm",
+        "9": "Design unic, gamă largă de culori și parfumuri plăcute",
+        "10": "Personalizare cu sigla dumneavoastră, decupată în material sau imprimată"
+      },
+      "useCases": {
+        "0": "Boutique hospitality",
+        "1": "Premium office"
+      }
+    },
+    "ekcoClip": {
+      "name": "ëkco clip",
+      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "category": "odorizant WC cu clips, prospețime pe aproape orice vas",
+      "short": "ëkco clip este un odorizant cu clips pentru vasul de toaletă, care asigură un control continuu al mirosurilor și menține prospețimea în cabinele de toaletă. Fabricat dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de până la 30 de zile. Designul flexibil se potrivește pe majoritatea tipurilor de vase de toaletă, astfel încât se montează ușor și răspândește bine parfumul.",
+      "long": "ëkco clip este un odorizant cu clips pentru vasul de toaletă, care asigură un control continuu al mirosurilor și menține prospețimea în cabinele de toaletă. Fabricat dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de până la 30 de zile. Designul flexibil se potrivește pe majoritatea tipurilor de vase de toaletă, astfel încât se montează ușor și răspândește bine parfumul.\n\nëkco clip este fabricat cu EVA reciclat. Materialul în sine poate fi reciclat, dar un odorizant WC cu clips folosit nu, deoarece este contaminat biologic. Ajunge în depozitele de deșeuri sau la incinerare și de aceea ëkco clip conține aditivul Eco-One™. Într-un test de laborator independent, EVA-ul ëkcos cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar în 5 ani se estimează până la 99%.\n\nëkco clip combină controlul continuu al mirosurilor timp de până la 30 de zile, montarea ușoară pe majoritatea vaselor de toaletă și EVA reciclat și biodegradabil.",
+      "benefits": {
+        "0": "Material exclusiv impregnat cu un parfum pe bază de dezodorizant, care se eliberează treptat",
+        "1": "Protecție eficientă împotriva mirosurilor",
+        "2": "Design unic pentru o eliberare optimă a parfumului",
+        "3": "Eliberează parfum timp de până la 30 de zile",
+        "4": "Forma flexibilă se potrivește pe aproape toate tipurile de vase de toaletă",
+        "5": "Dimensiuni: 10 x 5 x 4,5 cm",
+        "6": "Gamă largă de culori și parfumuri plăcute",
+        "7": "Parfumare economică a toaletei",
+        "8": "Fabricată cu EVA reciclat, biodegradabilă în depozitele de deșeuri cu Eco-One™",
+        "9": "Ambalată în cutii din carton 100% reciclat",
+        "10": "Personalizare cu sigla dumneavoastră, decupată în material sau imprimată"
+      },
+      "useCases": {
+        "0": "Facility retrofits",
+        "1": "Specification-led projects"
+      }
+    },
+    "freshDrop": {
+      "name": "frësh drop",
+      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "category": "odorizant de cameră pentru WC, de lungă durată, fără baterii",
+      "short": "frësh drop este un odorizant de interior conceput pentru cabine de toaletă și grupuri sanitare. Rezerva sa, fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat, fără baterii sau electricitate. În cabinele închise, cu ventilație redusă sau inexistentă, durează 60+ de zile, iar acolo unde aerul circulă mai mult, parfumul se dispersează mai repede. Designul în formă de picătură se potrivește cu orice interior de toaletă, iar banda adezivă inclusă permite montarea ușoară pe aproape orice suprafață. Pentru spații mici, alegeți compactul ëkco loop.",
+      "long": "frësh drop este un odorizant de interior conceput pentru cabine de toaletă și grupuri sanitare. Rezerva sa, fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat, fără baterii sau electricitate. În cabinele închise, cu ventilație redusă sau inexistentă, durează 60+ de zile, iar acolo unde aerul circulă mai mult, parfumul se dispersează mai repede. Designul în formă de picătură se potrivește cu orice interior de toaletă, iar banda adezivă inclusă permite montarea ușoară pe aproape orice suprafață. Pentru spații mici, alegeți compactul ëkco loop.\n\nRezerva frësh drop este fabricată cu EVA reciclat, iar materialul poate fi reciclat. Atât rezerva, cât și baza conțin aditivul Eco-One™, deci ambele sunt biodegradabile în depozitele de deșeuri. Într-un test de laborator independent, EVA-ul ëkcos cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar în 5 ani se estimează până la 99%.\n\nfrësh drop combină parfum timp de 60+ de zile, montare ușoară și o rezervă cu EVA reciclat și biodegradabil, pentru cabine de toaletă și grupuri sanitare.",
+      "benefits": {
+        "0": "Material exclusiv impregnat cu un parfum pe bază de dezodorizant, care se eliberează treptat",
+        "1": "Modul perfect de a menține toaleta proaspătă și curată, special conceput pentru cabinele de toaletă",
+        "2": "Parfum timp de 60+ de zile în cabine închise, fără baterii sau electricitate",
+        "3": "Design în formă de picătură care se potrivește cu orice interior de toaletă",
+        "4": "Montare ușoară cu banda adezivă inclusă",
+        "5": "Dimensiuni: 23 x 12 x 3,5 cm",
+        "6": "Gamă largă de culori și parfumuri plăcute",
+        "7": "Rezervă cu EVA reciclat și reciclabil",
+        "8": "Rezerva și baza, biodegradabile în depozitele de deșeuri cu Eco-One™",
+        "9": "Ambalată în cutii din carton 100% reciclat",
+        "10": "Opțiune de personalizare prin imprimare"
+      },
+      "useCases": {
+        "0": "Hospitality",
+        "1": "Premium retail"
+      },
+      "bases": {
+        "white": "bază albă",
+        "black": "bază neagră"
+      }
+    },
+    "ezTrap": {
+      "name": "ëz trap",
+      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "category": "cartuș antimiros pentru pisoar fără apă, ușor de întreținut",
+      "short": "ëz trap este un sistem inovator cu cartuș, conceput pentru a îmbunătăți eficiența, curățenia și controlul mirosurilor la pisoarele fără apă, reducând semnificativ costurile de întreținere.",
+      "long": "ëz trap este un sistem inovator cu cartuș, conceput pentru a îmbunătăți eficiența, curățenia și controlul mirosurilor la pisoarele fără apă, reducând semnificativ costurile de întreținere.\n\nDatorită sistemului brevetat de cartuș ëz trap, urina curge natural prin sifon, iar un capac se închide etanș după fiecare utilizare. Acest lucru împiedică ieșirea mirosurilor și asigură că, la fiecare utilizare, urina veche este eliminată din sistem, menținând toaleta mai proaspătă.\n\nëz trap este fabricat cu aditivul Eco-One™, care îl face biodegradabil în depozitele de deșeuri. Într-un test de laborator independent, materialul ëkcos cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar în 5 ani se estimează până la 99%.\n\nëz trap oferă o modalitate eficientă și economică, cu întreținere redusă, de a împiedica ieșirea mirosurilor din canalizare prin pisoarele fără apă.",
+      "variants": {
+        "withoutTool": "fără instrument de extragere",
+        "withTool": "cu instrument de extragere"
+      },
+      "benefits": {
+        "0": "Blochează mirosurile din canalizare: sifonul și capacul împiedică ieșirea mirosurilor neplăcute din scurgere",
+        "1": "Nu necesită geluri costisitoare sau soluții de curățare speciale",
+        "2": "Întreținere ușoară și economică: este suficient să turnați zilnic un pahar cu apă pentru a preveni depunerile de calcar",
+        "3": "Durabilitate îndelungată: cartușul rezistă între 4 și 6+ luni, iar curățarea regulată cu un agent anticalcar (de exemplu, un gel WC de calitate) îi prelungește durata de viață",
+        "4": "Compatibilitate largă: potrivit pentru Sloan, Falcon, Vitra, Bobrick și alte mărci care folosesc sistemul Falcon Velocity (diametru 11,8 cm, înălțime 11,5 cm)",
+        "5": "Dimensiuni: Ø 11,8 x 11,5 cm",
+        "6": "Ambalată în cutii din carton 100% reciclat",
+        "7": "Biodegradabil în depozitele de deșeuri cu aditivul Eco-One™"
+      },
+      "useCases": {
+        "0": "Food service",
+        "1": "Healthcare support areas"
+      }
+    },
+    "xcrenPuck": {
+      "name": "xcrën puck",
+      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "category": "sită pentru pisoar în formă de X, cu tabletă dezodorizantă",
+      "short": "xcrën puck este o sită pentru pisoar cu tabletă dezodorizantă NON-PARA, concepută pentru un control eficient al mirosurilor și protecția scurgerii. Nu conține paradiclorbenzen (PARA), pe care OMS îl clasifică drept posibil cancerigen. Tabletele cu PARA sunt încă folosite în unele site pentru pisoar, în timp ce normele UE restricționează PARA în odorizantele WC. Designul în formă de X împiedică solidele și reziduurile să înfunde scurgerea, iar sita eliberează un parfum curat și proaspăt la fiecare utilizare, timp de până la 30 de zile.",
+      "long": "xcrën puck este o sită pentru pisoar cu tabletă dezodorizantă NON-PARA, concepută pentru un control eficient al mirosurilor și protecția scurgerii. Nu conține paradiclorbenzen (PARA), pe care OMS îl clasifică drept posibil cancerigen. Tabletele cu PARA sunt încă folosite în unele site pentru pisoar, în timp ce normele UE restricționează PARA în odorizantele WC. Designul în formă de X împiedică solidele și reziduurile să înfunde scurgerea, iar sita eliberează un parfum curat și proaspăt la fiecare utilizare, timp de până la 30 de zile.\n\nTableta este fabricată în principal din ceară și glicerină și se dizolvă odată cu utilizarea. xcrën puck este fabricată cu aditivul Eco-One™, care o face biodegradabilă în depozitele de deșeuri. Într-un test de laborator independent, materialul ëkcos cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar în 5 ani se estimează până la 99%. Este un produs de unică folosință, iar tableta nu poate fi înlocuită cu una nouă.\n\nxcrën puck este un mod simplu și eficient de a menține pisoarele proaspete și scurgerile libere timp de până la 30 de zile.",
+      "variants": {
+        "whiteFresh": "alb / fresh",
+        "blueFresh": "albastru / fresh"
+      },
+      "benefits": {
+        "0": "Tabletă NON-PARA: fără paradiclorbenzen, pe care OMS îl clasifică drept posibil cancerigen",
+        "1": "Împiedică solidele și alte reziduuri să înfunde scurgerea",
+        "2": "Eliberează un parfum curat și proaspăt la fiecare utilizare, timp de până la 30 de zile",
+        "3": "Ideală pentru întreținerea lunară a pisoarelor",
+        "4": "Tabletă fabricată în principal din ceară și glicerină",
+        "5": "De unică folosință: tableta nu poate fi înlocuită cu una nouă",
+        "6": "Dimensiuni: 17 x 17 x 2,9 cm",
+        "7": "Ambalată în cutii din carton 100% reciclat",
+        "8": "Biodegradabil în depozitele de deșeuri cu aditivul Eco-One™",
+        "9": "Un design nou și unic în formă de X",
+        "10": "Personalizare cu sigla dumneavoastră, decupată în material sau imprimată"
+      },
+      "useCases": {
+        "0": "Compact washrooms",
+        "1": "Retrofit programs"
+      }
+    },
+    "ekcoMat": {
+      "name": "ëkco mat",
+      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "category": "covoraș economic pentru pisoar, care protejează pardoseala",
+      "short": "ëkco mat este un covoraș absorbant de podea pentru pisoar, conceput pentru a îmbunătăți igiena toaletei și a proteja pardoseala de acumularea urinei. Cu dimensiuni de 54 x 51 x 0,5 cm, acoperă eficient zona din jurul majorității pisoarelor standard, prevenind deteriorarea pardoselii și reducând transferul urinei pe tălpile încălțămintei utilizatorilor. Acest lucru ajută la menținerea unei toalete mai curate și mai confortabile.",
+      "long": "ëkco mat este un covoraș absorbant de podea pentru pisoar, conceput pentru a îmbunătăți igiena toaletei și a proteja pardoseala de acumularea urinei. Cu dimensiuni de 54 x 51 x 0,5 cm, acoperă eficient zona din jurul majorității pisoarelor standard, prevenind deteriorarea pardoselii și reducând transferul urinei pe tălpile încălțămintei utilizatorilor. Acest lucru ajută la menținerea unei toalete mai curate și mai confortabile.\n\nëkco mat este o soluție economică, de unică folosință, ideală pentru restaurante, hoteluri și alte locații cu trafic intens, în care igiena este o prioritate.\n\nëkco mat oferă o soluție practică, igienică și accesibilă pentru menținerea unor toalete curate și cu aspect profesionist.",
+      "variants": {
+        "standard": "negru"
+      },
+      "benefits": {
+        "0": "Protejează pardoseala de sub pisoar",
+        "1": "Reduce răspândirea urinei pe tălpile încălțămintei",
+        "2": "Soluție de igienă economică",
+        "3": "De unică folosință",
+        "4": "Opțiune de personalizare cu marca dumneavoastră",
+        "5": "Dimensiuni: 54 x 51 x 0,5 cm"
+      },
+      "useCases": {
+        "0": "Entrances",
+        "1": "Service corridors"
+      }
+    }
+  },
+  "privateLabel": {
+    "hero": {
+      "eyebrow": "Pentru distribuitori",
+      "title": "Programul de marcă privată",
+      "lead": "Vinde produsele noastre sub marca ta",
+      "body": "Dezvoltă-ți afacerea cu propria ta linie de produse. Programul nostru de etichetă privată permite distribuitorilor să adauge în portofoliul lor produse pentru toaletă dovedite și de înaltă performanță și să le vândă sub propriul lor brand - fără nicio dezvoltare sau unelte proprii. Tot ce avem nevoie este logo-ul tău; de restul ne ocupam noi.",
+      "cta": "Deveniți partener"
+    },
+    "why": {
+      "title": "De ce să te asociezi cu noi",
+      "items": {
+        "0": {
+          "title": "Soluții dovedite",
+          "body": "Fiecare produs este rezultatul unei dezvoltări intensive și proiectat pentru o performanță optimă și fiabilă - o gamă pe care vă puteți pune numele cu încredere."
+        },
+        "1": {
+          "title": "Personalizare ușoară",
+          "body": "Avem nevoie doar de logo-ul tău pentru a-ți oferi o serie de produse pe care le poți vinde sub propriul tău brand."
+        },
+        "2": {
+          "title": "Asistență premium",
+          "body": "Vă ghidăm prin întregul proces, astfel încât să vă puteți extinde marca și vânzările."
+        }
+      }
+    },
+    "ways": {
+      "title": "Două moduri de a marca produsele",
+      "print": {
+        "title": "Brand imprimat",
+        "body": "Sigla dvs. imprimată direct pe produs."
+      },
+      "cutout": {
+        "title": "Decupaj logo",
+        "body": "Logo-ul dvs. integrat în materialul însuși ca o decupare unică — un finisaj distinctiv, premium, pe care niciun alt producător nu îl oferă și un puternic diferențiator pentru gama dumneavoastră."
+      }
+    },
+    "beyond": {
+      "title": "Personalizați dincolo de produs",
+      "packaging": {
+        "title": "Ambalaje și etichete",
+        "body": "Adăugați logo-ul, detaliile companiei, numele și descrierile produselor, codurile EAN și multe altele în cutii, cutii principale sau pungi de produse individuale - gata de vânzare cu amănuntul sub propria dvs. marcă."
+      },
+      "mix": {
+        "title": "Culoare și parfum",
+        "body": "Oferiți-vă propria combinație de culoare și parfum din gama noastră."
+      }
+    },
+    "goodToKnow": {
+      "title": "Bine de știut",
+      "items": {
+        "0": "Cantitatea minimă de comandă depinde de produsul specific ales.",
+        "1": "Se aplică o taxă unică de configurare pentru fiecare produs pe care doriți să-l marcați - acopera instrumentele și pregătirea necesare pentru a vă reproduce marca.",
+        "2": "Toate produsele de marcă sunt realizate la comandă, conform specificațiilor dumneavoastră.",
+        "3": "Împărtășim cantitățile minime exacte, prețurile și termenele de livrare împreună cu oferta dvs., odată ce înțelegem cerințele dvs. specifice."
+      }
+    },
+    "form": {
+      "title": "Deveniți partener",
+      "description": "Trimite-ne cererea ta specifică și unul dintre reprezentanții noștri de vânzări te va contacta direct pentru a discuta detaliile.",
+      "name": "Nume",
+      "company": "Numele companiei",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "products": "Produse pentru marcă privată",
+      "productsHint": "Introduceți o cantitate pentru produsele pe care doriți să le marcați. Nu trebuie să completați fiecare produs - vom discuta detaliile după întrebarea dvs.",
+      "quantity": "Cantitate (buc)",
+      "message": "Mesaj",
+      "submit": "Trimite mesaj",
+      "submitting": "Se trimite…",
+      "success": "Vă mulțumim - vă vom reveni în curând.",
+      "error": "Ceva a mers prost. Vă rugăm să încercați din nou peste un moment.",
+      "alertSelect": "Vă rugăm să introduceți o cantitate pentru cel puțin un produs. Nu trebuie să comandați fiecare produs.",
+      "boundaryError": "Formularul de solicitare nu a putut fi încărcat. Vă rugăm să reîmprospătați pagina sau să trimiteți un e-mail la support@ekcos.eu."
+    }
+  }
+}

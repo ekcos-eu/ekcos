@@ -1,0 +1,752 @@
+{
+  "Metadata": {
+    "title": "ëkcos — Legyen zöld minden öblítéssel",
+    "description": "Piszoárrácsaink és illatosítóink újrahasznosított EVA felhasználásával készülnek. Maga az anyag újrahasznosítható, a használt piszoárrács viszont nem, mert biológiailag szennyezett. Hulladéklerakóba vagy égetőműbe kerül, ezért minden termékünkhöz Eco-One™ adalékanyagot adunk.",
+    "productsTitle": "Termékek",
+    "productsDescription": "Fedezze fel az ëkcos termékeket: váltson modelleket, felületeket és opciókat – majd keresse fel a hivatalos boltot.",
+    "ecoOneTitle": "Eco-One™",
+    "ecoOneDescription": "Piszoárrácsaink és illatosítóink újrahasznosított EVA felhasználásával készülnek. Maga az anyag újrahasznosítható, a használt piszoárrács viszont nem, mert biológiailag szennyezett. Hulladéklerakóba vagy égetőműbe kerül, ezért minden termékünkhöz Eco-One™ adalékanyagot adunk.",
+    "brandingTitle": "Egyedi márkaépítés",
+    "brandingDescription": "Privát márkaépítés, kivágások és nyomtatás B2B programokhoz.",
+    "articlesTitle": "Cikkek",
+    "articlesDescription": "Betekintések, frissítések és gyakorlati útmutatók az ëkcos csapattól.",
+    "contactTitle": "Érintkezés",
+    "contactDescription": "Lépjen kapcsolatba az ëkcos csapatával a specifikációkkal, programokkal és partnerségekkel kapcsolatban.",
+    "privateLabelTitle": "Sajátmárka",
+    "privateLabelDescription": "Értékesítsen ëkcos mosdótermékeket saját márkája alatt – saját márkanévvel a forgalmazók számára."
+  },
+  "LocaleSwitcher": {
+    "label": "Nyelv",
+    "en": "English",
+    "es": "Spanish",
+    "fr": "French",
+    "de": "German",
+    "it": "Italian",
+    "cs": "Czech"
+  },
+  "nav": {
+    "aria": "Elsődleges",
+    "logoAlt": "ëkcos",
+    "openMenu": "Menü megnyitása",
+    "mobileMenuTitle": "Menü",
+    "home": {
+      "label": "Otthon"
+    },
+    "products": {
+      "label": "Termékek"
+    },
+    "articles": {
+      "label": "Cikkek"
+    },
+    "ecoOne": {
+      "label": "Eco-One™"
+    },
+    "customBranding": {
+      "label": "Egyedi márkaépítés"
+    },
+    "contact": {
+      "label": "Érintkezés"
+    },
+    "privateLabel": {
+      "label": "Sajátmárka"
+    },
+    "faq": {
+      "label": "GYIK"
+    }
+  },
+  "footer": {
+    "tagline": "Az ëkcos innovations olyan higiéniai megoldásokat kínál, amelyek tisztán és frissen tartják a mosdókat, megkönnyítik a karbantartást, és újrahasznosított, biológiailag lebomló anyagokat használnak.",
+    "explore": "Fedezze fel",
+    "newsletterTitle": "Hírlevél",
+    "newsletterHint": "Termékfrissítések és programhírek. Leiratkozás bármikor.",
+    "company": {
+      "title": "Cégadatok",
+      "registryCode": "Cégjegyzékszám (Észtország)",
+      "vatIdCz": "ÁFA-azonosító (Cseh Köztársaság)"
+    },
+    "copyright": "© {year} ëkcos. Minden jog fenntartva.",
+    "legalNote": "Információs oldal. A vásárlás a hivatalos boltban történik."
+  },
+  "common": {
+    "shop": "Üzlet",
+    "shopCta": "Vásároljon az eshop.ekcos.eu oldalon",
+    "learnMore": "További információ",
+    "getInTouch": "Vegye fel velünk a kapcsolatot",
+    "ecoOne": "Eco-One™"
+  },
+  "productDetail": {
+    "backToMap": "Vissza a mellékhelyiségbe",
+    "buyNow": "Vásároljon az eshopban",
+    "price": "Ár",
+    "from": "-tól",
+    "variants": "Elérhető változatok",
+    "colors": "Színek és illatok",
+    "bases": "Fali alapok",
+    "benefits": "Főbb előnyök",
+    "more": "További részletek",
+    "openDetails": "Nyissa meg a részleteket",
+    "detailGallery": "Részletes fotók — {name}",
+    "detailShot": "részlet",
+    "boundaryError": "Ez a terméknézet átmenetileg nem érhető el. Kérjük, próbálja újra."
+  },
+  "articles": {
+    "shopCta": {
+      "title": "Készen áll a mellékhelyiségek korszerűsítésére?",
+      "body": "Böngésszen az ëkcos piszoár képernyők és tartozékok között a hivatalos boltban.",
+      "button": "Üzlet"
+    }
+  },
+  "newsletter": {
+    "popupTitle": "Legyen tájékozott",
+    "popupDescription": "Alkalmankénti frissítések a termékekről, az Eco-One™-ről és az egyéni márkaprogramokról.",
+    "emailLabel": "Email",
+    "emailPlaceholder": "you@company.com",
+    "submit": "Iratkozz fel",
+    "configureBrevo": "A hírlevélre való feliratkozás átmenetileg nem elérhető. Kérjük, próbálja újra később.",
+    "submitError": "Az előfizetés sikertelen. Kérjük, próbálja újra egy pillanat múlva.",
+    "dismiss": "Most nem"
+  },
+  "home": {
+    "map": {
+      "aria": "Interaktív mellékhelyiség terméktérkép",
+      "hint": "További információért kattintson egy termékre",
+      "imageAlt": "ëkcos termékek kereskedelmi mellékhelyiségben elhelyezve"
+    },
+    "overlay": {
+      "moreVariants": "Több színben és illatban is kapható a boltban.",
+      "shopCta": "Vásároljon az eshopban",
+      "close": "Közeli"
+    },
+    "hero": {
+      "title": "Legyen zöld minden öblítéssel",
+      "tagline": "Újrahasznosított EVA felhasználásával készült, Eco-One™ adalékkal hulladéklerakóban biológiailag lebomló",
+      "body": "Piszoárrácsaink és illatosítóink újrahasznosított EVA felhasználásával készülnek. Maga az anyag újrahasznosítható, a használt piszoárrács viszont nem, mert biológiailag szennyezett.",
+      "ctaProducts": "Fedezze fel a termékeket",
+      "brandMark": "ekcos.eu"
+    },
+    "benefits": {
+      "eco": {
+        "title": "Újrahasznosított EVA Eco-One™-vel",
+        "body": "Újrahasznosított EVA felhasználásával készült, biológiailag lebomló termékek"
+      },
+      "hygiene": {
+        "title": "Higiénia kompromisszumok nélkül",
+        "body": "Tisztább és kényelmesebb élményt nyújt a vizelet visszafolyásának és a kellemetlen szagok minimalizálásával."
+      },
+      "costs": {
+        "title": "Kevesebb takarítás, alacsonyabb költségek",
+        "body": "Az akár 60 napos frissesség kevesebb takarítást és alacsonyabb költségeket jelent."
+      },
+      "distributor": {
+        "title": "Hivatalos EU forgalmazó",
+        "body": "Közvetlen hozzáférés az eredeti Ekcos termékekhez gyors szállítással és tisztességes árakkal."
+      },
+      "ecoLink": "Az Eco-One™-ről"
+    },
+    "shipping": {
+      "title": "Gyors szállítás Európa-szerte",
+      "body": "Minden ëkcos terméket a fizetés visszaigazolását követő 1-2 munkanapon belül kiszállítunk. A biztonságos és hatékony szállításnak köszönhetően az egész EU-ban számíthat vállalkozása következetes készletpótlására."
+    },
+    "productOfWeek": {
+      "title": "A hét terméke",
+      "cta": "Kosárba"
+    },
+    "productsTeaser": {
+      "title": "Fedezze fel termékeinket",
+      "body": "Fedezze fel az xcrën HD-t, az ëkcoscreen-t, a powerscreen-t, a frësh drop-ot, az ëkco klipet és még sok mást – majd nyissa meg a hivatalos boltot.",
+      "link": "Az összes termék megtekintése"
+    },
+    "brandingTeaser": {
+      "title": "Egyedi márkaépítés a B2B számára",
+      "body": "Privát címkézés, kivágások és nyomtatás a következetes többhelyes programokhoz.",
+      "link": "Egyedi márkaépítés"
+    },
+    "trust": {
+      "title": "Igényes létesítményekhez készült",
+      "body": "Megbízható higiénia és prémium helyszíni benyomás – az irodáktól a vendéglátásig."
+    },
+    "newsletter": {
+      "title": "Specifikációk, indítások és programfrissítések",
+      "body": "Rövid hírlevél a létesítményi csapatoknak és partnereknek. Nincs rendetlenség."
+    },
+    "finalCta": {
+      "title": "Vegye fel a kapcsolatot",
+      "body": "Kérdései vannak a termékekkel, a szállítással vagy a B2B megrendelésekkel kapcsolatban? Küldjön üzenetet – szívesen segítünk.",
+      "shop": "Menj a boltba",
+      "contact": "Üzenet küldése"
+    },
+    "marketing": {
+      "featuresEyebrow": "Egységes platform",
+      "featuresTitle": "Hasonlítsa össze, döntsön és vásároljon bizalommal",
+      "featuresSubtitle": "Fedezze fel a befejezéseket, tekintse át a tényeket, és nyissa meg az üzletet, amikor készen áll – mindezt egy folyamatban.",
+      "featureInteractTitle": "Interaktív specifikáció",
+      "featureInteractBody": "Másodpercek alatt válthat modelleket, felületeket és illatokat – létesítmények és FM csapatok számára készült.",
+      "featureProofTitle": "Tények, amelyeket megoszthat",
+      "featureProofBody": "Törölje az Eco-One™ letöltéseket, hogy csapata elmagyarázhassa a választást kollégáinak vagy ügyfeleinek.",
+      "featureB2bTitle": "Programok, amelyek méretezhetők",
+      "featureB2bBody": "Egyedi márkaépítés és B2B rendelés olyan bevezetésekhez, amelyekhez egységesség, gyorsaság és csiszolt helyszíni megjelenés szükséges.",
+      "numbersEyebrow": "A számok alapján",
+      "numbersTitle": "Működési tisztaság, prémium megjelenítés",
+      "statProductsLabel": "Fedezze fel a termékcsaládokat",
+      "statTechLabel": "Eco-One™ tények és letöltések",
+      "statShopLabel": "Hivatalos bolt",
+      "galleryEyebrow": "Felállás",
+      "galleryTitle": "Fénykép a katalógusból",
+      "gallerySubtitle": "Valódi termékfotózás ajánlatokhoz, prezentációkhoz és bemutatókhoz."
+    }
+  },
+  "ecoOne": {
+    "hero": {
+      "title": "Eco-One™ a hulladéklerakókban történő biológiai lebontáshoz",
+      "tagline": "Ugyanaz a termék. Ugyanaz a teljesítmény. Újrahasznosított EVA-ból és Eco-One™-ből készült.",
+      "body": "Piszoárrácsaink és illatosítóink újrahasznosított EVA felhasználásával készülnek. Maga az anyag újrahasznosítható, a használt piszoárrács viszont nem, mert biológiailag szennyezett. Hulladéklerakóba vagy égetőműbe kerül, ezért minden termékünkhöz Eco-One™ adalékanyagot adunk. A mexikóvárosi Instituto Politécnico Nacional által az ASTM D5511 és az ISO 15985 szabvány szerint végzett független vizsgálatban az Eco-One™ adalékot tartalmazó ëkcos EVA 3,5 év alatt 93%-os biológiai lebomlást ért el, míg ugyanez az anyag adalék nélkül 0%-ot mutatott. Az előrejelzés szerint 5 év alatt akár 99%-os biológiai lebomlás várható. Dobozaink 100%-ban újrahasznosított kartonból készülnek."
+    },
+    "metrics": {
+      "additive": {
+        "value": "~1%",
+        "label": "adalékanyag tartalom"
+      },
+      "measured": {
+        "value": "~3,5 év",
+        "label": "93%-os biológiai lebomlásig"
+      },
+      "projected": {
+        "value": "akár 99%",
+        "label": "~5 éven belül"
+      }
+    },
+    "problem": {
+      "title": "Miért jelent problémát a hagyományos műanyag?",
+      "body": "A hagyományos műanyag termékeket tartósra tervezték. Biológiai lebomlást elősegítő adalékanyag nélkül a hulladéklerakókba kerülő műanyag termék <bold>300-1000 évig</bold> ott maradhat; A „Crocs-stílusú” hab klumpa ismerős példája annak a műanyagnak, amely <bold>biológiailag nem lebomlik</bold>. Termékeink ugyanabból a tartós műanyagból (EVA) készülnek – de egy döntő különbséggel: az Eco-One™ adalékanyaggal.",
+      "chartAlt": "Eco-One™ nélküli termékek az adalékanyagot tartalmazó ëkcos termékekhez képest",
+      "chartCaption": "Eco-One™ nélküli termékek, összehasonlítva az adalékanyagot tartalmazó ëkcos termékekkel.",
+      "chart": {
+        "ariaLabel": "A hulladéklerakóban eltöltött évek összehasonlítása",
+        "withoutLabel": "Eco-One™ nélküli termékek",
+        "withLabel": "ëkcos és Eco-One™",
+        "withoutValue": "300-1000 év",
+        "withValue": "3,5-5 év",
+        "withoutDetail": "Biológiai lebomlást elősegítő adalék nélkül a hagyományos műanyagok évszázadokig a hulladéklerakókban maradhatnak.",
+        "withDetail": "Az Eco-One™ adalékanyaggal a független vizsgálatok ~93%-os biológiai lebomlást mutatnak körülbelül 3,5 év alatt, és akár 99%-ot is öt éven belül.",
+        "axisLabel": "Évek a lebontásig (hulladéklerakó)",
+        "caption": "Eco-One™ nélküli termékek, összehasonlítva az adalékanyagot tartalmazó ëkcos termékekkel.",
+        "scaleLabel": "Diagram léptéke",
+        "scaleFull": "0-1000 év",
+        "scaleZoom": "0-10 év",
+        "clippedNote": "folytatódik →"
+      }
+    },
+    "solution": {
+      "title": "Megoldásunk: Az Eco-One™ adalék",
+      "body1": "A gyártás során körülbelül <bold>1% Eco-One™</bold>-t, egy színezőanyaggal azonos módon adagolt szerves adalékot alkalmazunk. Nem befolyásolja a termék szilárdságát, megjelenését vagy teljesítményét.",
+      "body2": "A biológiailag aktív hulladéklerakóban a természetben előforduló mikroorganizmusok enzimatikus aktivitással lebontják a kezelt műanyagot, és biogázzá (<bold>metán</bold>, amelyet a modern hulladéklerakók felfognak energia-visszanyerés céljából), szén-dioxiddá és humuszsá alakítják.",
+      "body3": "Mivel a termék végső soron humuszra bomlik, visszajuttatja a szerves anyagokat a hulladéklerakóba, és elősegíti az ott már működő biokémiai folyamatok felgyorsítását. A termék ezért <bold>nem csak az élettartama alatt, hanem azt követően is hozzájárul</bold>."
+    },
+    "testing": {
+      "title": "Független tesztelés",
+      "body": "A terméket egy független laboratórium tesztelte a <bold>ASTM D5511 és ISO 15985</bold> nemzetközi szabványok szerint, összehasonlítva ugyanazt a terméket az Eco-One™ adalékanyaggal és anélkül. Az Eco-One™-vel elérte a <bold>93,31%-os biológiai lebomlást körülbelül 3,5 éven belül, és akár 99%-ot is 5 éven belül</bold>; Eco-One™ nélkül a termék nem mutatott mérhető biológiai lebomlást.",
+      "barChart": {
+        "ariaLabel": "Biológiai lebomlás körülbelül 3,5 év alatt Eco-One™ nélkül és anélkül",
+        "yAxis": "Biológiai lebomlás (%)",
+        "withLabel": "ëkcos és Eco-One™",
+        "withoutLabel": "Eco-One™ nélküli termékek",
+        "withDetail": "93,31%-os biológiai lebomlás független ASTM D5511 / ISO 15985 laboratóriumi teszttel mérve körülbelül 3,5 év után.",
+        "withoutDetail": "Ugyanaz a termék Eco-One™ nélkül nem mutatott mérhető biológiai lebomlást ugyanabban a vizsgálati időszakban.",
+        "subtitle": "Ugyanaz a termék · ugyanaz a laboratóriumi vizsgálat (ASTM D5511 / ISO 15985) · ~3,5 év"
+      },
+      "timelineChart": {
+        "ariaLabel": "Biológiai lebomlás öt éven keresztül Eco-One™ nélkül és anélkül",
+        "yAxis": "Biológiai lebomlás (%)",
+        "xAxis": "Évek",
+        "withLabel": "ëkcos és Eco-One™",
+        "withoutLabel": "Eco-One™ nélküli termékek",
+        "zeroNote": "0% egész idő alatt",
+        "measured": "mért",
+        "projected": "vetített",
+        "yearsUnit": "évf",
+        "projectedNote": "A mért trendből vetítve",
+        "caption": "Biológiai lebomlás Eco-One™ adalékanyaggal és anélkül. A mért trendből a 3,5 éven túli értékeket vetítjük ki."
+      }
+    },
+    "closing": {
+      "title": "ëkcos termékek az Eco-One™ termékkel",
+      "body": "Mosdótermékeink Eco-One™ adalékanyaggal készülnek. Egy független laboratóriumi tesztben az ëkcos EVA Eco-One™-nel 3,5 éven belül elérte a 93%-os biológiai lebomlást, és az előrejelzések szerint 5 éven belül akár 99%-ot is elérhet a szemétlerakás körülményei között – a teljesítménye megegyezik az adalékanyag nélküli termékekével.",
+      "shopCta": "Üzlet"
+    },
+    "footnote": "Adatforrás: független biológiai lebomlási teszt az ASTM D5511-02 és az ISO 15985:2014 szerint (Instituto Politécnico Nacional, Mexico City) – ëkcos termék 1% Eco-One™ adalékanyaggal: 93,31% biológiai lebomlás.5 napon keresztül (1,283 nap); ugyanaz a termék adalékanyag nélkül: 0%. A mért trendből előrevetítjük a tesztidőszakon túli biológiai lebomlást (akár 99%-ig ~5 éven belül). A hagyományos műanyagok tartóssági adatai (≈300–1000 év) széles körben hivatkozott iparági becslések. Az Eco-One™ adalékanyagot az EcoLogic, LLC gyártja és tanúsítja."
+  },
+  "customBranding": {
+    "hero": {
+      "eyebrow": "B2B specifikáció",
+      "title": "Egyedi márkaépítés",
+      "subtitle": "Privát címkézés, kivágások és nyomtatás több telephelyes márkaprogramokhoz."
+    },
+    "introEyebrow": "Program áttekintése",
+    "introTitle": "Specifikáción alapuló márkajelzés",
+    "intro": "Segítünk, hogy a márkáját gyári színvonalú termékkel ruházza fel: egyértelmű specifikációk, folyamatos gyártás, valamint a csapata könyvvizsgálóknak vagy ügyfeleknek átadható papírmunka.",
+    "sections": {
+      "private": {
+        "title": "Privát márkaépítés",
+        "body": "Az Ön műalkotásait a jóváhagyástól a gyártásig következetesen kezeljük – így minden tétel megfelel az Ön márkájának."
+      },
+      "cutouts": {
+        "title": "Egyedi kivágások",
+        "body": "Formázott nyílások és mélyedések, amelyek illeszkednek a valódi lámpatestekhez, és hogyan telepítik őket a csapatok."
+      },
+      "print": {
+        "title": "Nyomtatási lehetőségek",
+        "body": "Tartós nyomtatás, amely a napi használat során is olvasható marad a terméken."
+      }
+    },
+    "pricing": {
+      "title": "Kereskedelmi feltételek",
+      "description": "Közzétett díjak: egyszeri beállítás, egységenkénti márkajelzés és opcionális csomagolási címkék.",
+      "entryFee": "Egyszeri nevezési díj",
+      "brandingCost": "Márkaépítési költség",
+      "packagingLabels": "Egyedi címkék a csomagoláson"
+    },
+    "standardMoq": {
+      "title": "MOQ szabványos márkajelzéshez",
+      "description": "Minimális rendelési mennyiségek szabványos márkaprogramokhoz logó kivágásokkal vagy nyomtatással.",
+      "productLabel": "Termék",
+      "moqLabel": "MOQ [db]",
+      "note": "* Ha csak Fresh Drop alapokat szeretne rendelni, akkor a MOQ 288 db."
+    },
+    "customMix": {
+      "title": "Egyedi szín és illat keverék",
+      "description": "Kínálatunkból egyedi illat- és színkombinációt tudunk előállítani. A minimális rendelési mennyiség minden egyedi termék teljes raklapjának felel meg.",
+      "productLabel": "Termék",
+      "moqLabel": "MOQ [db]",
+      "note": "* A Basic Screen MOQ egy fél raklaphoz való."
+    },
+    "production": {
+      "title": "Gyártás, szállítási idő és fizetés"
+    },
+    "process": {
+      "title": "Egyszerű folyamat",
+      "steps": {
+        "0": "Megállapodunk a mennyiségben, a régiókban és az időzítésben.",
+        "1": "Ön jóváhagyja a műalkotásokat, az anyagokat és a kivitelezést.",
+        "2": "Minden lépésnél minőségellenőrzéssel gyártunk.",
+        "3": "Az Ön által igényelt ütemezés szerint szállítunk az Ön telephelyére."
+      }
+    },
+    "inquiry": {
+      "title": "Kérjen információt",
+      "hint": "Mondja el nekünk a mennyiségeket, a régiókat és a márkakövetelményeket."
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Műszaki és kereskedelmi támogatás",
+      "title": "Érintkezés",
+      "subtitle": "Kérdezzen meg minket az Eco-One™-ről, a specifikációkról vagy a B2B programokról – rendeljen bármikor a hivatalos boltban."
+    },
+    "details": {
+      "title": "Érintkezés",
+      "email": "Email",
+      "phone": "Telefon",
+      "hours": "Órák",
+      "hoursValue": "Hétfőtől péntekig, 09:00-17:00 CET"
+    },
+    "company": {
+      "title": "Bejegyzett cég adatai",
+      "registryCode": "Cégjegyzékszám (Észtország)",
+      "vatIdCz": "ÁFA-azonosító (Cseh Köztársaság)"
+    },
+    "form": {
+      "name": "Név",
+      "company": "Vállalat",
+      "email": "Email",
+      "phone": "Telefon",
+      "message": "Üzenet",
+      "submit": "Üzenet küldése",
+      "success": "Köszönjük – hamarosan jelentkezünk.",
+      "error": "Valami elromlott. Kérjük, próbálja újra."
+    }
+  },
+  "products": {
+    "page": {
+      "title": "Products",
+      "intro": "Switch models and finishes, then buy in the official store.",
+      "heroEyebrow": "Explore the range",
+      "heroTitle": "Configure every line in one place",
+      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroLinkEco": "About Eco-One™",
+      "heroLinkBranding": "Custom branding"
+    },
+    "configurator": {
+      "color": "Finish",
+      "selectProduct": "Select product",
+      "fragrance": "Fragrance options",
+      "benefits": "Benefits",
+      "productBenefits": "Product benefits",
+      "availableColorsFragrances": "Available colors & fragrances",
+      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
+      "byBrand": "by ëkcos",
+      "siteUrl": "www.ekcos.eu",
+      "useCases": "Typical applications",
+      "brandingNote": "Custom branding available for qualified orders."
+    },
+    "colors": {
+      "white": "White",
+      "grey": "Grey",
+      "black": "Black",
+      "blue": "Blue"
+    },
+    "fragrances": {
+      "fresh": "Fresh",
+      "citrus": "Citrus"
+    },
+    "variantLabels": {
+      "x1p": "lila / erdei gyümölcs",
+      "x2g": "zöld / alma",
+      "x3b": "kék / fresh",
+      "x4o": "narancssárga / trópusi gyümölcs",
+      "x6c": "átlátszó / trópusi gyümölcs",
+      "x7bk": "fekete / menta",
+      "x8bm": "lángvörös / mangó",
+      "x9g": "zöld / fenyő",
+      "x10r": "piros / dinnye",
+      "x12p": "lila / levendula",
+      "x13c": "sárga / citrus"
+    },
+    "xcrenHd": {
+      "name": "xcrën HD",
+      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "category": "dizájnos piszoárrács extrém fröccsenésvédelemmel",
+      "badge": "dizájnos piszoárrács extrém fröccsenésvédelemmel",
+      "short": "Az xcrën HD 60+ szabadalmaztatott formájú illatosított piszoárrács, amely kitűnik a piszoárban. A megszokott ovális rácsokkal szemben a piszoárt dizájnelemmé varázsolja. Szabadalmaztatott sörtéi (Sealed Bristles Technology™) a rács 92%-át borítják, és minimálisra csökkentik a vizeletfröccsenést és a kellemetlen szagokat. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és 60+ napon át fokozatosan bocsátja ki az illatot. Kis forgalmú mosdókban még tovább tart.",
+      "long": "Az xcrën HD 60+ szabadalmaztatott formájú illatosított piszoárrács, amely kitűnik a piszoárban. A megszokott ovális rácsokkal szemben a piszoárt dizájnelemmé varázsolja. Szabadalmaztatott sörtéi (Sealed Bristles Technology™) a rács 92%-át borítják, és minimálisra csökkentik a vizeletfröccsenést és a kellemetlen szagokat. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és 60+ napon át fokozatosan bocsátja ki az illatot. Kis forgalmú mosdókban még tovább tart.\n\nAz éttermek, bárok, repülőterek és bevásárlóközpontok nagy forgalmú mosdóihoz tervezett xcrën HD 60+ a higiéniát olyan megjelenéssel ötvözi, amely különlegessé teszi a mosdót.\n\nAz xcrën HD 60+ újrahasznosított EVA felhasználásával készül. Maga az anyag újrahasznosítható, a használt piszoárrács viszont nem, mert biológiailag szennyezett. Hulladéklerakóba vagy égetőműbe kerül, ezért az xcrën HD 60+ Eco-One™ adalékanyagot tartalmaz. Független laboratóriumi vizsgálatban az Eco-One™ adalékot tartalmazó ëkcos EVA 3,5 év alatt 93%-os biológiai lebomlást ért el, 5 év alatt pedig várhatóan akár 99%-ot.\n\nAz xcrën HD 60+ ötvözi az erős fröccsenésvédelmet, a 60+ napig tartó illatot és a szabadalmaztatott dizájnt, amely bármely mosdóban kitűnik.",
+      "benefits": {
+        "0": "Szabadalmaztatott forma, amely kitűnik a megszokott ovális rácsok közül",
+        "1": "A szabadalmaztatott fröccsenésgátló sörték a rács felületének 92%-át borítják, így segítenek megóvni a használókat a nem kívánt visszafröccsenéstől, és tisztábban tartják a piszoár környékét",
+        "2": "Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyag, amelyből az illat 60+ napon át fokozatosan szabadul fel",
+        "3": "Az illat kétszer olyan sokáig tart, mint a szokásos 30 napos rácsoké",
+        "4": "Kifejezetten nagy forgalmú mosdókhoz tervezve, például éttermekben, bárokban, repülőtereken, bevásárlóközpontokban stb.",
+        "5": "Újrahasznosított EVA felhasználásával készült, Eco-One™ adalékkal hulladéklerakóban biológiailag lebomló",
+        "6": "Csomagolás 100%-ban újrahasznosított kartonból készült dobozokban",
+        "7": "Tökéletes vízmentes piszoárokhoz",
+        "8": "Méretek: 17 x 18 x 2,1 cm",
+        "9": "Színek és kellemes illatok széles választéka",
+        "10": "Saját márkázás: logója az anyagba vágva vagy nyomtatva"
+      },
+      "variants": {
+        "xhd1p": "lila / erdei gyümölcs",
+        "xhd2g": "zöld / alma",
+        "xhd3b": "kék / fresh",
+        "xhd4o": "narancssárga / trópusi gyümölcs",
+        "xhd6c": "átlátszó / trópusi gyümölcs",
+        "xhd7bk": "fekete / menta",
+        "xhd8bm": "lángvörös / mangó",
+        "xhd9g": "zöld / fenyő",
+        "xhd10r": "piros / dinnye",
+        "xhd12p": "lila / levendula",
+        "xhd13c": "sárga / citrus"
+      },
+      "useCases": {
+        "0": "Corporate offices",
+        "1": "Hotels and hospitality"
+      }
+    },
+    "ekcoscreen": {
+      "name": "ëkcoscreen",
+      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "nehézsúlyú fröccsenésgátló piszoárrács dupla illattartóssággal",
+      "short": "Az ëkcoscreen 60+ illatosított piszoárrács szabadalmaztatott sörtékkel (Sealed Bristles Technology™), amelyek a rács 95%-át borítják. Minimálisra csökkenti a vizeletfröccsenést és a kellemetlen szagokat, így tisztább és komfortosabb a mosdó. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és 60+ napon át fokozatosan bocsátja ki az illatot, kétszer olyan sokáig, mint a szokásos 30 napos rácsok. Kis forgalmú mosdókban még tovább tart.",
+      "long": "Az ëkcoscreen 60+ illatosított piszoárrács szabadalmaztatott sörtékkel (Sealed Bristles Technology™), amelyek a rács 95%-át borítják. Minimálisra csökkenti a vizeletfröccsenést és a kellemetlen szagokat, így tisztább és komfortosabb a mosdó. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és 60+ napon át fokozatosan bocsátja ki az illatot, kétszer olyan sokáig, mint a szokásos 30 napos rácsok. Kis forgalmú mosdókban még tovább tart.\n\nAz éttermek, bárok, repülőterek, bevásárlóközpontok és más, a higiéniára kiemelten figyelő létesítmények nagy forgalmú mosdóihoz tervezett ëkcoscreen 60+ javítja a tisztaságot és a szagkezelést.\n\nAz ëkcoscreen 60+ újrahasznosított EVA felhasználásával készül. Maga az anyag újrahasznosítható, a használt piszoárrács viszont nem, mert biológiailag szennyezett. Hulladéklerakóba vagy égetőműbe kerül, ezért az ëkcoscreen 60+ Eco-One™ adalékanyagot tartalmaz. Független laboratóriumi vizsgálatban az Eco-One™ adalékot tartalmazó ëkcos EVA 3,5 év alatt 93%-os biológiai lebomlást ért el, 5 év alatt pedig várhatóan akár 99%-ot.\n\nAz ëkcoscreen 60+ ötvözi a hatékony fröccsenésvédelmet, a 60+ napig tartó illatot és az újrahasznosított, biológiailag lebomló EVA anyagot a nagy forgalmú mosdók számára.",
+      "benefits": {
+        "0": "A szabadalmaztatott fröccsenésgátló sörték a rács felületének 95%-át borítják, így segítenek megóvni a használókat a nem kívánt visszafröccsenéstől, és tisztábban tartják a piszoár környékét",
+        "1": "Azonos körülmények között végzett, összehasonlító UV-fröccsenéstesztben nem volt látható visszafröccsenés a rácson kívül",
+        "2": "Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyag, amelyből az illat 60+ napon át fokozatosan szabadul fel",
+        "3": "Az illat kétszer olyan sokáig tart, mint a 30 napos rácsoké, hasonló napi költség mellett",
+        "4": "Rácsonként 141 g illatosított anyag, több mint háromszor annyi, mint egy átlagos rácsban",
+        "5": "Kifejezetten nagy forgalmú mosdókhoz tervezve, például éttermekben, bárokban, repülőtereken, bevásárlóközpontokban stb.",
+        "6": "Újrahasznosított EVA felhasználásával készült, Eco-One™ adalékkal hulladéklerakóban biológiailag lebomló",
+        "7": "Csomagolás 100%-ban újrahasznosított kartonból készült dobozokban",
+        "8": "Ideális vízmentes piszoárokhoz",
+        "9": "Méretek: 20 x 21 x 2,2 cm",
+        "10": "Egyedi dizájn, színek és kellemes illatok széles választéka",
+        "11": "Saját márkázás: logója az anyagba vágva vagy nyomtatva"
+      },
+      "useCases": {
+        "0": "Retail",
+        "1": "Public buildings"
+      }
+    },
+    "powerscreen": {
+      "name": "powër screen",
+      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "category": "erőteljes fröccsenésgátló piszoárrács havi cseréhez",
+      "short": "A powër screen szabadalmaztatott sörterendszerrel (Sealed Bristles Technology™) ellátott illatosított piszoárrács. Minimálisra csökkenti a vizeletfröccsenést és a kellemetlen szagokat, így tisztább és komfortosabb a mosdó. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és akár 30 napon át fokozatosan bocsátja ki az illatot, ezért ideális a piszoárok havi karbantartásához.",
+      "long": "A powër screen szabadalmaztatott sörterendszerrel (Sealed Bristles Technology™) ellátott illatosított piszoárrács. Minimálisra csökkenti a vizeletfröccsenést és a kellemetlen szagokat, így tisztább és komfortosabb a mosdó. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és akár 30 napon át fokozatosan bocsátja ki az illatot, ezért ideális a piszoárok havi karbantartásához.\n\nA powër screen újrahasznosított EVA felhasználásával készül. Maga az anyag újrahasznosítható, a használt piszoárrács viszont nem, mert biológiailag szennyezett. Hulladéklerakóba vagy égetőműbe kerül, ezért a powër screen Eco-One™ adalékanyagot tartalmaz. Független laboratóriumi vizsgálatban az Eco-One™ adalékot tartalmazó ëkcos EVA 3,5 év alatt 93%-os biológiai lebomlást ért el, 5 év alatt pedig várhatóan akár 99%-ot.\n\nA powër screen ötvözi a hatékony fröccsenésvédelmet, az akár 30 napig tartó illatot és az újrahasznosított, biológiailag lebomló EVA anyagot a mosdók havi karbantartásához.",
+      "benefits": {
+        "0": "Szabadalmaztatott fröccsenésgátló sörték, amelyek segítenek megóvni a használókat a nem kívánt visszafröccsenéstől, és tisztábban tartják a piszoár környékét",
+        "1": "Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyag, amelyből az illat akár 30 napon át fokozatosan szabadul fel",
+        "2": "Ideális a piszoárok havi karbantartásához",
+        "3": "Újrahasznosított EVA felhasználásával készült, Eco-One™ adalékkal hulladéklerakóban biológiailag lebomló",
+        "4": "Csomagolás 100%-ban újrahasznosított kartonból készült dobozokban",
+        "5": "Alkalmas vízmentes piszoárokhoz",
+        "6": "Rugalmas formája szinte minden piszoártípusba illeszkedik",
+        "7": "Dizájn, amely minden mosdót szebbé tesz",
+        "8": "Méretek: 18 x 20 x 1,8 cm",
+        "9": "Egyedi dizájn, színek és kellemes illatok széles választéka",
+        "10": "Saját márkázás: logója az anyagba vágva vagy nyomtatva"
+      },
+      "useCases": {
+        "0": "Stadiums",
+        "1": "Transport hubs"
+      }
+    },
+    "basicScreen": {
+      "name": "basic scrëen",
+      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "category": "hulladéklerakóban biológiailag lebomló piszoárrács kedvező áron",
+      "short": "A basic scrëen költséghatékony piszoárrács, amely szagtalanítja a piszoárt, és megakadályozza a szennyeződések felhalmozódását. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és akár 30 napon át fokozatosan bocsátja ki az illatot, ezért ideális a piszoárok havi karbantartásához.",
+      "long": "A basic scrëen költséghatékony piszoárrács, amely szagtalanítja a piszoárt, és megakadályozza a szennyeződések felhalmozódását. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és akár 30 napon át fokozatosan bocsátja ki az illatot, ezért ideális a piszoárok havi karbantartásához.\n\nA basic scrëen újrahasznosított EVA felhasználásával készül. Maga az anyag újrahasznosítható, a használt piszoárrács viszont nem, mert biológiailag szennyezett. Hulladéklerakóba vagy égetőműbe kerül, ezért a basic scrëen Eco-One™ adalékanyagot tartalmaz. Független laboratóriumi vizsgálatban az Eco-One™ adalékot tartalmazó ëkcos EVA 3,5 év alatt 93%-os biológiai lebomlást ért el, 5 év alatt pedig várhatóan akár 99%-ot.\n\nA basic scrëen alacsony áron ötvözi a megbízható szagkezelést, a szennyeződések elleni védelmet és az újrahasznosított, biológiailag lebomló EVA anyagot.",
+      "benefits": {
+        "0": "Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyag, amelyből az illat fokozatosan szabadul fel",
+        "1": "Akár 30 napig tartó illatkibocsátás",
+        "2": "Ideális a piszoárok havi karbantartásához",
+        "3": "Alkalmas vízmentes piszoárokhoz",
+        "4": "Rugalmas formája szinte minden piszoártípusba illeszkedik",
+        "5": "Méretek: 20 x 19 cm",
+        "6": "Egyedi dizájn, színek és kellemes illatok széles választéka",
+        "7": "Alacsony költségű megoldás a piszoárok havi higiéniájához",
+        "8": "Újrahasznosított EVA felhasználásával készült, Eco-One™ adalékkal hulladéklerakóban biológiailag lebomló",
+        "9": "Szállítás 100%-ban újrahasznosított kartonból készült dobozokban",
+        "10": "Saját márkázás: logója az anyagba vágva vagy nyomtatva"
+      },
+      "useCases": {
+        "0": "Schools",
+        "1": "Light commercial"
+      }
+    },
+    "urolite": {
+      "name": "üro lite",
+      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "category": "kis piszoárrács, nagy fröccsenésvédelem",
+      "short": "Az üro lite kisebb piszoárokhoz tervezett, rugalmas, illatosított piszoárrács. Ugyanazt a szabadalmaztatott Sealed Bristles Technology™ megoldást alkalmazza, mint az ëkcoscreen 60+, de nagyobb átmérő helyett hosszú sörtékre épít, amelyek kis rácsban is nagy fröccsenésvédelmet nyújtanak. A vizeletfröccsenést és a kellemetlen szagokat a minimumra csökkenti. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és akár 30 napon át fokozatosan bocsátja ki az illatot, ezért ideális a piszoárok havi karbantartásához.",
+      "long": "Az üro lite kisebb piszoárokhoz tervezett, rugalmas, illatosított piszoárrács. Ugyanazt a szabadalmaztatott Sealed Bristles Technology™ megoldást alkalmazza, mint az ëkcoscreen 60+, de nagyobb átmérő helyett hosszú sörtékre épít, amelyek kis rácsban is nagy fröccsenésvédelmet nyújtanak. A vizeletfröccsenést és a kellemetlen szagokat a minimumra csökkenti. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és akár 30 napon át fokozatosan bocsátja ki az illatot, ezért ideális a piszoárok havi karbantartásához.\n\nAz üro lite újrahasznosított EVA felhasználásával készül. Maga az anyag újrahasznosítható, a használt piszoárrács viszont nem, mert biológiailag szennyezett. Hulladéklerakóba vagy égetőműbe kerül, ezért az üro lite Eco-One™ adalékanyagot tartalmaz. Független laboratóriumi vizsgálatban az Eco-One™ adalékot tartalmazó ëkcos EVA 3,5 év alatt 93%-os biológiai lebomlást ért el, 5 év alatt pedig várhatóan akár 99%-ot.\n\nAz üro lite egyedi, szabadalmaztatott hosszú sörtéivel nagy fröccsenésvédelmet nyújt a kisebb piszoárokban, mindezt kompakt, költséghatékony rácsban, amely újrahasznosított, biológiailag lebomló EVA felhasználásával készül.",
+      "benefits": {
+        "0": "Az egyedi, szabadalmaztatott hosszú sörték segítenek megóvni a használókat a visszafröccsenéstől, és tisztábban tartják a piszoár környékét",
+        "1": "Ugyanaz a szabadalmaztatott Sealed Bristles Technology™, mint az ëkcoscreen 60+ esetében",
+        "2": "Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyag, amelyből az illat akár 30 napon át fokozatosan szabadul fel",
+        "3": "Kompakt méret, kifejezetten kisebb piszoárokhoz tervezve",
+        "4": "Ideális a piszoárok havi karbantartásához",
+        "5": "Alkalmas vízmentes piszoárokhoz",
+        "6": "Újrahasznosított EVA felhasználásával készült, Eco-One™ adalékkal hulladéklerakóban biológiailag lebomló",
+        "7": "Csomagolás 100%-ban újrahasznosított kartonból készült dobozokban",
+        "8": "Méretek: 13 x 13 x 1,8 cm",
+        "9": "Egyedi dizájn, színek és kellemes illatok széles választéka",
+        "10": "Saját márkázás: logója az anyagba vágva vagy nyomtatva"
+      },
+      "useCases": {
+        "0": "Boutique hospitality",
+        "1": "Premium office"
+      }
+    },
+    "ekcoClip": {
+      "name": "ëkco clip",
+      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "category": "üde WC-illatosító klip, amely szinte minden csészére illik",
+      "short": "Az ëkco clip WC-csészére akasztható illatosító klip, amely folyamatos szagkezelést biztosít, és frissen tartja a WC-fülkéket. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és akár 30 napon át fokozatosan bocsátja ki az illatot. Rugalmas kialakítása a legtöbb típusú WC-csészére illeszkedik, így könnyen felhelyezhető, és jól terjeszti az illatot.",
+      "long": "Az ëkco clip WC-csészére akasztható illatosító klip, amely folyamatos szagkezelést biztosít, és frissen tartja a WC-fülkéket. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és akár 30 napon át fokozatosan bocsátja ki az illatot. Rugalmas kialakítása a legtöbb típusú WC-csészére illeszkedik, így könnyen felhelyezhető, és jól terjeszti az illatot.\n\nAz ëkco clip újrahasznosított EVA felhasználásával készül. Maga az anyag újrahasznosítható, a használt WC-illatosító klip viszont nem, mert biológiailag szennyezett. Hulladéklerakóba vagy égetőműbe kerül, ezért az ëkco clip Eco-One™ adalékanyagot tartalmaz. Független laboratóriumi vizsgálatban az Eco-One™ adalékot tartalmazó ëkcos EVA 3,5 év alatt 93%-os biológiai lebomlást ért el, 5 év alatt pedig várhatóan akár 99%-ot.\n\nAz ëkco clip ötvözi az akár 30 napig tartó folyamatos szagkezelést, a legtöbb WC-csészére való egyszerű felhelyezést és az újrahasznosított, biológiailag lebomló EVA anyagot.",
+      "benefits": {
+        "0": "Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyag, amelyből az illat fokozatosan szabadul fel",
+        "1": "Hatékony védelem a kellemetlen szagok ellen",
+        "2": "Egyedi kialakítás az optimális illatkibocsátásért",
+        "3": "Akár 30 napig tartó illatkibocsátás",
+        "4": "Rugalmas formája szinte minden típusú WC-csészére illeszkedik",
+        "5": "Méretek: 10 x 5 x 4,5 cm",
+        "6": "Színek és kellemes illatok széles választéka",
+        "7": "Költséghatékony WC-illatosítás",
+        "8": "Újrahasznosított EVA felhasználásával készült, Eco-One™ adalékkal hulladéklerakóban biológiailag lebomló",
+        "9": "Csomagolás 100%-ban újrahasznosított kartonból készült dobozokban",
+        "10": "Saját márkázás: logója az anyagba vágva vagy nyomtatva"
+      },
+      "useCases": {
+        "0": "Facility retrofits",
+        "1": "Specification-led projects"
+      }
+    },
+    "freshDrop": {
+      "name": "frësh drop",
+      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "category": "hosszan tartó, elem nélkül működő WC-légfrissítő",
+      "short": "A frësh drop WC-fülkékbe és mosdókba tervezett beltéri légfrissítő. Betétje saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és elem vagy áram nélkül, fokozatosan adja le az illatot. Zárt, alig vagy egyáltalán nem szellőző fülkékben 60+ napig tart, ahol pedig jobban mozog a levegő, ott gyorsabban szétoszlik az illat. Vízcsepp formája bármely mosdó enteriőrjéhez illik, a mellékelt ragasztószalaggal pedig szinte bármilyen felületre könnyen felszerelhető. Kis terekbe válassza a kompakt ëkco loop légfrissítőt.",
+      "long": "A frësh drop WC-fülkékbe és mosdókba tervezett beltéri légfrissítő. Betétje saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és elem vagy áram nélkül, fokozatosan adja le az illatot. Zárt, alig vagy egyáltalán nem szellőző fülkékben 60+ napig tart, ahol pedig jobban mozog a levegő, ott gyorsabban szétoszlik az illat. Vízcsepp formája bármely mosdó enteriőrjéhez illik, a mellékelt ragasztószalaggal pedig szinte bármilyen felületre könnyen felszerelhető. Kis terekbe válassza a kompakt ëkco loop légfrissítőt.\n\nA frësh drop betét újrahasznosított EVA felhasználásával készül, és az anyaga újrahasznosítható. A betét és a tartó egyaránt tartalmaz Eco-One™ adalékanyagot, így mindkettő hulladéklerakóban biológiailag lebomló. Független laboratóriumi vizsgálatban az Eco-One™ adalékot tartalmazó ëkcos EVA 3,5 év alatt 93%-os biológiai lebomlást ért el, 5 év alatt pedig várhatóan akár 99%-ot.\n\nA frësh drop ötvözi a 60+ napig tartó illatot, az egyszerű felszerelést és az újrahasznosított, biológiailag lebomló EVA betétet, WC-fülkékhez és mosdókhoz.",
+      "benefits": {
+        "0": "Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyag, amelyből az illat fokozatosan szabadul fel",
+        "1": "Tökéletes megoldás a friss és tiszta mosdó fenntartásához, kifejezetten WC-fülkékhez tervezve",
+        "2": "60+ napig tartó illatkibocsátás zárt fülkékben, elem és áram nélkül",
+        "3": "Vízcsepp forma, amely bármely mosdó enteriőrjéhez illik",
+        "4": "Egyszerű felszerelés a mellékelt ragasztószalaggal",
+        "5": "Méretek: 23 x 12 x 3,5 cm",
+        "6": "Színek és kellemes illatok széles választéka",
+        "7": "Újrahasznosított, újrahasznosítható EVA felhasználásával készült betét",
+        "8": "A betét és a tartó az Eco-One™ adalékkal hulladéklerakóban biológiailag lebomló",
+        "9": "Csomagolás 100%-ban újrahasznosított kartonból készült dobozokban",
+        "10": "Saját márkázás lehetősége nyomtatással"
+      },
+      "useCases": {
+        "0": "Hospitality",
+        "1": "Premium retail"
+      },
+      "bases": {
+        "white": "tartó fehér",
+        "black": "tartó fekete"
+      }
+    },
+    "ezTrap": {
+      "name": "ëz trap",
+      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "category": "könnyű karbantartású bűzelzáró patron vízmentes piszoárhoz",
+      "short": "Az ëz trap innovatív patronrendszer, amely javítja a vízmentes piszoárok hatékonyságát, tisztaságát és szagkezelését, miközben jelentősen csökkenti a karbantartási költségeket.",
+      "long": "Az ëz trap innovatív patronrendszer, amely javítja a vízmentes piszoárok hatékonyságát, tisztaságát és szagkezelését, miközben jelentősen csökkenti a karbantartási költségeket.\n\nA szabadalmaztatott ëz trap patronrendszernek köszönhetően a vizelet természetes módon folyik át a szifonon, a záró kupak pedig minden használat után lezár. Ez megakadályozza a szagok kiáramlását, és biztosítja, hogy minden használatkor a régi vizelet távozzon a rendszerből, így frissebb marad a mosdó.\n\nAz ëz trap Eco-One™ adalékanyaggal készül, így hulladéklerakóban biológiailag lebomló. Független laboratóriumi vizsgálatban az Eco-One™ adalékot tartalmazó ëkcos anyag 3,5 év alatt 93%-os biológiai lebomlást ért el, 5 év alatt pedig várhatóan akár 99%-ot.\n\nAz ëz trap hatékony, kevés karbantartást igénylő és költségtakarékos módja annak, hogy a lefolyószag ne jusson ki a vízmentes piszoárokból.",
+      "variants": {
+        "withoutTool": "eltávolító eszköz nélkül",
+        "withTool": "eltávolító eszközzel"
+      },
+      "benefits": {
+        "0": "Blokkolja a lefolyószagokat: a szifon és a záró kupak megakadályozza a kellemetlen csatornaszag kiáramlását",
+        "1": "Nincs szükség drága gélekre vagy speciális tisztítószerekre",
+        "2": "Egyszerű és költséghatékony karbantartás: naponta csak öntsön bele egy pohár vizet a vízkő lerakódásának megelőzésére",
+        "3": "Hosszú élettartam: a patron 4–6+ hónapig tart, a rendszeres tisztítás vízkőoldó szerrel (pl. minőségi WC-géllel) pedig meghosszabbítja az élettartamát",
+        "4": "Széles körű kompatibilitás: alkalmas a Sloan, Falcon, Vitra, Bobrick és más, Falcon Velocity rendszert használó márkák piszoárjaihoz (átmérő 11,8 cm, magasság 11,5 cm)",
+        "5": "Méretek: Ø 11,8 x 11,5 cm",
+        "6": "Csomagolás 100%-ban újrahasznosított kartonból készült dobozokban",
+        "7": "Az Eco-One™ adalékanyaggal hulladéklerakóban biológiailag lebomló"
+      },
+      "useCases": {
+        "0": "Food service",
+        "1": "Healthcare support areas"
+      }
+    },
+    "xcrenPuck": {
+      "name": "xcrën puck",
+      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "category": "X alakú piszoárrács szagtalanító koronggal",
+      "short": "Az xcrën puck NON-PARA szagtalanító koronggal ellátott piszoárrács, amelyet hatékony szagkezelésre és a lefolyó védelmére terveztek. Nem tartalmaz paradiklórbenzolt (PARA), amelyet a WHO lehetségesen rákkeltőnek minősít. Egyes piszoárrácsokban ma is használnak PARA korongokat, miközben az uniós szabályok korlátozzák a PARA használatát a WC-szagtalanítókban. X alakú kialakítása megakadályozza, hogy a szilárd anyagok és szennyeződések eltömítsék a lefolyót, és minden használatkor tiszta, friss illatot áraszt, akár 30 napig.",
+      "long": "Az xcrën puck NON-PARA szagtalanító koronggal ellátott piszoárrács, amelyet hatékony szagkezelésre és a lefolyó védelmére terveztek. Nem tartalmaz paradiklórbenzolt (PARA), amelyet a WHO lehetségesen rákkeltőnek minősít. Egyes piszoárrácsokban ma is használnak PARA korongokat, miközben az uniós szabályok korlátozzák a PARA használatát a WC-szagtalanítókban. X alakú kialakítása megakadályozza, hogy a szilárd anyagok és szennyeződések eltömítsék a lefolyót, és minden használatkor tiszta, friss illatot áraszt, akár 30 napig.\n\nA korong főként viaszból és glicerinből készül, és használat közben feloldódik. Az xcrën puck Eco-One™ adalékanyaggal készül, így hulladéklerakóban biológiailag lebomló. Független laboratóriumi vizsgálatban az Eco-One™ adalékot tartalmazó ëkcos anyag 3,5 év alatt 93%-os biológiai lebomlást ért el, 5 év alatt pedig várhatóan akár 99%-ot. Eldobható termék, a korong nem cserélhető újra.\n\nAz xcrën puck egyszerű és hatékony módja annak, hogy a piszoárok akár 30 napig frissek, a lefolyók pedig szabadok maradjanak.",
+      "variants": {
+        "whiteFresh": "fehér / fresh",
+        "blueFresh": "kék / fresh"
+      },
+      "benefits": {
+        "0": "NON-PARA korong: nem tartalmaz paradiklórbenzolt, amelyet a WHO lehetségesen rákkeltőnek minősít",
+        "1": "Megakadályozza, hogy a szilárd anyagok és egyéb szennyeződések eltömítsék a lefolyót",
+        "2": "Minden használatkor tiszta, friss illatot áraszt, akár 30 napig",
+        "3": "Ideális a piszoárok havi karbantartásához",
+        "4": "A korong főként viaszból és glicerinből készül",
+        "5": "Eldobható: a korong nem cserélhető újra",
+        "6": "Méretek: 17 x 17 x 2,9 cm",
+        "7": "Csomagolás 100%-ban újrahasznosított kartonból készült dobozokban",
+        "8": "Az Eco-One™ adalékanyaggal hulladéklerakóban biológiailag lebomló",
+        "9": "Új, egyedi X alakú kialakítás",
+        "10": "Saját márkázás: logója az anyagba vágva vagy nyomtatva"
+      },
+      "useCases": {
+        "0": "Compact washrooms",
+        "1": "Retrofit programs"
+      }
+    },
+    "ekcoMat": {
+      "name": "ëkco mat",
+      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "category": "gazdaságos piszoárszőnyeg, amely védi a padlót",
+      "short": "Az ëkco mat nedvszívó piszoárszőnyeg, amely javítja a mosdó higiéniáját, és megvédi a padlót a vizelet felgyülemlésétől. Mérete 54 x 51 x 0,5 cm, így hatékonyan lefedi a legtöbb szabványos piszoár körüli területet, megelőzi a padló károsodását, és csökkenti a vizelet cipőtalpakon történő továbbhordását. Ez segít tisztábban és komfortosabban tartani a mosdót.",
+      "long": "Az ëkco mat nedvszívó piszoárszőnyeg, amely javítja a mosdó higiéniáját, és megvédi a padlót a vizelet felgyülemlésétől. Mérete 54 x 51 x 0,5 cm, így hatékonyan lefedi a legtöbb szabványos piszoár körüli területet, megelőzi a padló károsodását, és csökkenti a vizelet cipőtalpakon történő továbbhordását. Ez segít tisztábban és komfortosabban tartani a mosdót.\n\nAz ëkco mat költséghatékony, eldobható megoldás, amely ideális éttermekbe, szállodákba és más nagy forgalmú helyekre, ahol kiemelt szempont a higiénia.\n\nAz ëkco mat praktikus, higiénikus és pénztárcabarát megoldás a tiszta és igényes mosdók fenntartásához.",
+      "variants": {
+        "standard": "fekete"
+      },
+      "benefits": {
+        "0": "Védi a piszoár alatti padlót",
+        "1": "Csökkenti a vizelet cipőtalpakon történő továbbhordását",
+        "2": "Költséghatékony higiéniai megoldás",
+        "3": "Egyszer használatos",
+        "4": "Saját márkázás lehetősége",
+        "5": "Méretek: 54 x 51 x 0,5 cm"
+      },
+      "useCases": {
+        "0": "Entrances",
+        "1": "Service corridors"
+      }
+    }
+  },
+  "privateLabel": {
+    "hero": {
+      "eyebrow": "A forgalmazóknak",
+      "title": "Sajátmárka program",
+      "lead": "Értékesítse termékeinket saját márkája alatt",
+      "body": "Növelje vállalkozását saját termékcsaládjával. Private Label Programunk lehetővé teszi, hogy a forgalmazók bevált, nagy teljesítményű mosdótermékeket adhassanak portfóliójukhoz, és saját márkájuk alatt értékesítsék azokat – saját fejlesztés vagy szerszám nélkül. Csak az Ön logójára van szükségünk; a többiről mi gondoskodunk.",
+      "cta": "Legyen partner"
+    },
+    "why": {
+      "title": "Miért partner velünk",
+      "items": {
+        "0": {
+          "title": "Bevált megoldások",
+          "body": "Minden termék intenzív fejlesztés eredménye, és optimális, megbízható teljesítményre tervezték – ez a termékcsalád, amelyre magabiztosan ráírhatja a nevét."
+        },
+        "1": {
+          "title": "Könnyű testreszabás",
+          "body": "Csak az Ön logójára van szükségünk ahhoz, hogy egy sor olyan terméket biztosítsunk Önnek, amelyet saját márkája alatt értékesíthet."
+        },
+        "2": {
+          "title": "Prémium támogatás",
+          "body": "Végigvezetjük az egész folyamaton, így bővítheti márkáját és értékesítését."
+        }
+      }
+    },
+    "ways": {
+      "title": "A termékek márkajelzésének két módja",
+      "print": {
+        "title": "Nyomtatott márkajelzés",
+        "body": "Az Ön logója közvetlenül a termékre nyomtatva."
+      },
+      "cutout": {
+        "title": "Logó kivágás",
+        "body": "Az Ön logója egyedi kivágásként magába az anyagba van beépítve – olyan jellegzetes, prémium felület, amelyet egyetlen más gyártó sem kínál, és erős megkülönböztető jegye az Ön termékeinek."
+      }
+    },
+    "beyond": {
+      "title": "Testreszabás a terméken túl",
+      "packaging": {
+        "title": "Csomagolás és címkék",
+        "body": "Adja hozzá logóját, cégadatait, termékneveit és leírásait, EAN-kódjait és még sok mást dobozokhoz, mestertokokhoz vagy egyedi terméktáskákhoz – kiskereskedelmi készen áll a saját márkája alatt."
+      },
+      "mix": {
+        "title": "Szín és illat",
+        "body": "Kínálja fel saját jellegzetes szín- és illatkombinációját kínálatunkból."
+      }
+    },
+    "goodToKnow": {
+      "title": "Jó tudni",
+      "items": {
+        "0": "A minimális rendelési mennyiség a kiválasztott terméktől függ.",
+        "1": "Egyszeri beállítási díj fizetendő minden egyes márkajelzéssel ellátni kívánt termékre – ez fedezi a márkajelzés reprodukálásához szükséges eszközöket és előkészítést.",
+        "2": "Minden márkás termék megrendelésre, az Ön specifikációi szerint készül.",
+        "3": "A pontos minimális mennyiségeket, árakat és átfutási időket az Ön árajánlatával együtt közöljük, amint megértjük az Ön konkrét igényeit."
+      }
+    },
+    "form": {
+      "title": "Legyen partner",
+      "description": "Küldje el nekünk konkrét kérését, és egyik értékesítési képviselőnk közvetlenül felveszi Önnel a kapcsolatot a részletek megbeszélése érdekében.",
+      "name": "Név",
+      "company": "Cégnév",
+      "email": "Email",
+      "phone": "Telefon",
+      "products": "Saját márkás termékek",
+      "productsHint": "Adja meg a márkázni kívánt termékek mennyiségét. Nem kell minden terméket kitöltenie – érdeklődése után megbeszéljük a részleteket.",
+      "quantity": "Mennyiség (db)",
+      "message": "Üzenet",
+      "submit": "Üzenet küldése",
+      "submitting": "Küldés…",
+      "success": "Köszönjük – hamarosan jelentkezünk.",
+      "error": "Valami elromlott. Kérjük, próbálja újra egy pillanat múlva.",
+      "alertSelect": "Kérjük, adjon meg mennyiséget legalább egy termékhez. Nem kell minden terméket megrendelnie.",
+      "boundaryError": "A kérdőívet nem sikerült betölteni. Kérjük, frissítse az oldalt, vagy írjon nekünk a support@ekcos.eu címre."
+    }
+  }
+}
