@@ -1,0 +1,884 @@
+{
+  "body": [
+    {
+      "_key": "intro1",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "intro1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Keeping toilets clean, fresh, and hygienically safe is a daily challenge for anyone operating a restaurant, gas station, or other public facilities. One of the most important - yet often overlooked - details is the urinal screen. These not only eliminate unpleasant odors, but also prevent urine splash back, thereby reducing the spread of urine droplets from the surface of the urinal screen. They make a significant contribution to overall hygiene. But how do you choose the right screen for your toilets?"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "h2-1",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "h2-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "1. Consider Usage Frequency"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "p1",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p1a",
+          "_type": "span",
+          "marks": [],
+          "text": "The first step is to assess how frequently your toilets are used:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b1",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b1a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Restaurants, bars, airports, shopping centers"
+        },
+        {
+          "_key": "b1b",
+          "_type": "span",
+          "marks": [],
+          "text": " - here, high durability, long-lasting effect, and effective splash protection are essential."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b2",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b2a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Less frequented toilets"
+        },
+        {
+          "_key": "b2b",
+          "_type": "span",
+          "marks": [],
+          "text": " (e.g. offices or smaller facilities) can suffice with more economical solutions with a shorter lifespan - but high hygiene and effective splash protection must still be a priority."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "p2",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p2a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Recommendations:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b3",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b3a",
+          "_type": "span",
+          "marks": [],
+          "text": "For high-traffic toilets: "
+        },
+        {
+          "_key": "b3b",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "xcrën HD"
+        },
+        {
+          "_key": "b3c",
+          "_type": "span",
+          "marks": [],
+          "text": " or "
+        },
+        {
+          "_key": "b3d",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "ëkcoscreen"
+        },
+        {
+          "_key": "b3e",
+          "_type": "span",
+          "marks": [],
+          "text": " (fragrance lasts 60+ days, 95% surface coverage with bristles for the most advanced splash protection)."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b4",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b4a",
+          "_type": "span",
+          "marks": [],
+          "text": "For standard usage: "
+        },
+        {
+          "_key": "b4b",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "powër screen"
+        },
+        {
+          "_key": "b4c",
+          "_type": "span",
+          "marks": [],
+          "text": " (fragrance lasts 30 days, effective bristle technology)."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b5",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b5a",
+          "_type": "span",
+          "marks": [],
+          "text": "Economical options: "
+        },
+        {
+          "_key": "b5b",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "üro lite"
+        },
+        {
+          "_key": "b5c",
+          "_type": "span",
+          "marks": [],
+          "text": " - great price-to-splash protection ratio, compact size, less intense fragrance."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "h2-2",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "h2-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "2. Splash Protection = Less Cleaning, Better Hygiene"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "p3",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Urine splashing outside the urinal is not just unsightly - it can spread urine droplets, increase cleaning needs, and worsen the hygienic impression."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "p4",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p4a",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcos products use patented "
+        },
+        {
+          "_key": "p4b",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Sealed Bristles Technology"
+        },
+        {
+          "_key": "p4c",
+          "_type": "span",
+          "marks": [],
+          "text": ", where densely arranged long bristles effectively absorb urine streams and minimize splash back."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "p5",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p5a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "TIP: "
+        },
+        {
+          "_key": "p5b",
+          "_type": "span",
+          "marks": [],
+          "text": "Avoid urinal screens without high-quality bristle-based anti-splash protection if you operate high-traffic restrooms."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "h2-3",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "h2-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "3. Fragrance, Intensity, and Duration - Choose What Fits Your Needs"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "p6",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p6a",
+          "_type": "span",
+          "marks": [],
+          "text": "Modern screens release fragrance gradually, keeping the air around the urinal fresh. Consider:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b6",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b6a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Duration: "
+        },
+        {
+          "_key": "b6b",
+          "_type": "span",
+          "marks": [],
+          "text": "30 days (monthly replacement) vs. 60 days. Longer fragrance duration reduces operating costs - a 60-day urinal screen lasts twice as long but does not cost twice as much."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b7",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b7a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Fragrance types: "
+        },
+        {
+          "_key": "b7b",
+          "_type": "span",
+          "marks": [],
+          "text": "Popular choices include Berry, Fresh, Citrus, Melon, etc."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b8",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b8a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Intensity:"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b8a1",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b8a1t",
+          "_type": "span",
+          "marks": [],
+          "text": "Most intense: Mint (black color)."
+        }
+      ],
+      "level": 2,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b8a2",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b8a2t",
+          "_type": "span",
+          "marks": [],
+          "text": "Very intense: Fresh (blue), Citrus (yellow), Pine (dark green), Lavender (purple)."
+        }
+      ],
+      "level": 2,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b8a3",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b8a3t",
+          "_type": "span",
+          "marks": [],
+          "text": "Medium intensity: Berry (purple), Melon (red)."
+        }
+      ],
+      "level": 2,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b8a4",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b8a4t",
+          "_type": "span",
+          "marks": [],
+          "text": "Subtle: Tropical Fruit (orange), Mango (red orange), Apple (light green)."
+        }
+      ],
+      "level": 2,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b9",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b9a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Color options"
+        },
+        {
+          "_key": "b9b",
+          "_type": "span",
+          "marks": [],
+          "text": " - match with interior or signage (e.g., black is trendy, blue symbolizes freshness)."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "h2-4",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "h2-4a",
+          "_type": "span",
+          "marks": [],
+          "text": "4. Ecology Matters More and More"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "p7",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p7a",
+          "_type": "span",
+          "marks": [],
+          "text": "If your company cares about sustainability, pay attention to the chemical composition and biodegradability of the products."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "p8",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p8a",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcos Innovations' urinal screens are the only ones offering all of these ecological benefits:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b10",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b10a",
+          "_type": "span",
+          "marks": [],
+          "text": "Made with a high percentage of recycled EVA plastic"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b11",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b11a",
+          "_type": "span",
+          "marks": [],
+          "text": "100% recyclable"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b12",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b12a",
+          "_type": "span",
+          "marks": [],
+          "text": "Biodegradable with EcoOne additive (99% breakdown in 5 years in bioactive landfills)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b13",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b13a",
+          "_type": "span",
+          "marks": [],
+          "text": "Packed in eco-friendly cellophane bags made from renewable, biodegradable wood pulp"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b14",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b14a",
+          "_type": "span",
+          "marks": [],
+          "text": "Specially designed to work perfectly with waterless urinals, saving potable water"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "h2-5",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "h2-5a",
+          "_type": "span",
+          "marks": [],
+          "text": "5. Don't Forget the Urinal Type"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "p9",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p9a",
+          "_type": "span",
+          "marks": [],
+          "text": "All our screens are suitable for waterless urinals, but some models are made specifically for:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b15",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b15a",
+          "_type": "span",
+          "marks": [],
+          "text": "Smaller urinals - "
+        },
+        {
+          "_key": "b15b",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "üro lite"
+        },
+        {
+          "_key": "b15c",
+          "_type": "span",
+          "marks": [],
+          "text": " (compact size, still includes our top-tier splash control tech)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b16",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b16a",
+          "_type": "span",
+          "marks": [],
+          "text": "Specific customer needs - e.g. "
+        },
+        {
+          "_key": "b16b",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "xcrën Puck"
+        },
+        {
+          "_key": "b16c",
+          "_type": "span",
+          "marks": [],
+          "text": " with dissolving NON-PARA wax puck"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "h2-6",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "h2-6a",
+          "_type": "span",
+          "marks": [],
+          "text": "Summary: How to Choose?"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "b17",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b17a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Extra high traffic -> "
+        },
+        {
+          "_key": "b17b",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën HD, ëkcoscreen"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b18",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b18a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Standard traffic -> "
+        },
+        {
+          "_key": "b18b",
+          "_type": "span",
+          "marks": [],
+          "text": "powër screen"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b19",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b19a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Budget option / small urinals -> "
+        },
+        {
+          "_key": "b19b",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b20",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b20a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Eco-conscious choice -> "
+        },
+        {
+          "_key": "b20b",
+          "_type": "span",
+          "marks": [],
+          "text": "All ëkcos models"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b21",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b21a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Waterless urinals -> "
+        },
+        {
+          "_key": "b21b",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen, xcrën HD"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b22",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b22a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Special requirement -> "
+        },
+        {
+          "_key": "b22b",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën Puck (NON-PARA)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "p10",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p10a",
+          "_type": "span",
+          "marks": [],
+          "text": "Investing in the right urinal screen pays off through reduced cleaning costs, improved hygiene perception, and more satisfied restroom visitors - who won't leave with bacteria from previous users on their trousers. The choice isn't just about fragrance - consider traffic frequency, hygiene needs, urinal type, and ecological criteria."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "p11",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p11a",
+          "_type": "span",
+          "marks": [],
+          "text": "If you're unsure which type of screen to choose, we'll be happy to help you make the right selection."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    }
+  ],
+  "excerpt": "A practical guide to choosing the right urinal screen for restaurants, gas stations, and public facilities - covering traffic, splash protection, fragrance, ecology, and urinal type.",
+  "mainImage": {
+    "_type": "image",
+    "alt": "Blue anti-splash urinal screen",
+    "asset": {
+      "_ref": "image-3699456590f9ca86dfff8e1bfab387e6aedbc818-1342x1401-jpg",
+      "_type": "reference"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "how-to-choose-the-right-urinal-screen"
+  },
+  "title": "How to Choose the Right Urinal Screen"
+}

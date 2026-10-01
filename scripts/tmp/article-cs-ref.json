@@ -1,0 +1,884 @@
+{
+  "body": [
+    {
+      "_key": "intro1",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "intro10",
+          "_type": "span",
+          "marks": [],
+          "text": "Udržet toalety čisté, svěží a hygienicky bezpečné je denní výzva pro každého, kdo provozuje restauraci, čerpací stanici nebo jiné veřejné prostory. Jedním z nejdůležitějších - a často přehlížených - detailů je pisoárová sítka. Nejenže odstraní nepříjemné zápachy, ale také zabrání odstřikům močoviny a snižuje tak šíření kapek z povrchu sítka. Výrazně přispívají k celkové hygieně. Jak ale vybrat tu správnou sítku pro vaše toalety?"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "h2-1",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "h2-10",
+          "_type": "span",
+          "marks": [],
+          "text": "1. Zvažte frekvenci používání"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "p1",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p10",
+          "_type": "span",
+          "marks": [],
+          "text": "Prvním krokem je posoudit, jak často se vaše toalety používají:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b1",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b10",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Restaurace, bary, letiště, nákupní centra"
+        },
+        {
+          "_key": "b11",
+          "_type": "span",
+          "marks": [],
+          "text": " - zde jsou nezbytné vysoká odolnost, dlouhodobý účinek a účinná ochrana proti odstřikům."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b2",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b20",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Méně frekventované toalety"
+        },
+        {
+          "_key": "b21",
+          "_type": "span",
+          "marks": [],
+          "text": " (např. kanceláře nebo menší provozy) mohou vystačit s ekonomičtějšími řešeními s kratší životností - ale vysoká hygiena a účinná ochrana proti odstřikům musí zůstat prioritou."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "p2",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p20",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Doporučení:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b3",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b30",
+          "_type": "span",
+          "marks": [],
+          "text": "Pro vysoce frekventované toalety: "
+        },
+        {
+          "_key": "b31",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "xcrën HD"
+        },
+        {
+          "_key": "b32",
+          "_type": "span",
+          "marks": [],
+          "text": " nebo "
+        },
+        {
+          "_key": "b33",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "ëkcoscreen"
+        },
+        {
+          "_key": "b34",
+          "_type": "span",
+          "marks": [],
+          "text": " (vůně vydrží 60+ dní, 95% pokrytí povrchu štětinami pro nejpokročilejší ochranu proti odstřikům)."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b4",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b40",
+          "_type": "span",
+          "marks": [],
+          "text": "Pro standardní použití: "
+        },
+        {
+          "_key": "b41",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "powër screen"
+        },
+        {
+          "_key": "b42",
+          "_type": "span",
+          "marks": [],
+          "text": " (vůně vydrží 30 dní, účinná technologie štětin)."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b5",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b50",
+          "_type": "span",
+          "marks": [],
+          "text": "Ekonomické varianty: "
+        },
+        {
+          "_key": "b51",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "üro lite"
+        },
+        {
+          "_key": "b52",
+          "_type": "span",
+          "marks": [],
+          "text": " - skvělý poměr ceny a ochrany proti odstřikům, kompaktní velikost, méně intenzivní vůně."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "h2-2",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "h2-20",
+          "_type": "span",
+          "marks": [],
+          "text": "2. Ochrana proti odstřikům = méně úklidu, lepší hygiena"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "p3",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p30",
+          "_type": "span",
+          "marks": [],
+          "text": "Odstřiky močoviny mimo pisoár nejsou jen nevzhledné - mohou šířit kapky, zvyšovat potřebu úklidu a zhoršovat hygienický dojem."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "p4",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p40",
+          "_type": "span",
+          "marks": [],
+          "text": "Produkty ëkcos používají patentovanou technologii "
+        },
+        {
+          "_key": "p41",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Sealed Bristles Technology"
+        },
+        {
+          "_key": "p42",
+          "_type": "span",
+          "marks": [],
+          "text": ", kde hustě uspořádané dlouhé štětiny účinně pohlcují proud a minimalizují odstřiky."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "p5",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p50",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "TIP: "
+        },
+        {
+          "_key": "p51",
+          "_type": "span",
+          "marks": [],
+          "text": "Vyhněte se pisoárovým sítkám bez kvalitní štětinové anti-splash ochrany, pokud provozujete frekventované toalety."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "h2-3",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "h2-30",
+          "_type": "span",
+          "marks": [],
+          "text": "3. Vůně, intenzita a výdrž - vyberte, co vám sedí"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "p6",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p60",
+          "_type": "span",
+          "marks": [],
+          "text": "Moderní sítka uvolňují vůni postupně a udržují vzduch kolem pisoáru svěží. Zvažte:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b6",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b60",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Výdrž: "
+        },
+        {
+          "_key": "b61",
+          "_type": "span",
+          "marks": [],
+          "text": "30 dní (měsíční výměna) vs. 60 dní. Delší výdrž vůně snižuje provozní náklady - 60denní sítka vydrží dvakrát déle, ale nestojí dvakrát tolik."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b7",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b70",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Typy vůní: "
+        },
+        {
+          "_key": "b71",
+          "_type": "span",
+          "marks": [],
+          "text": "Oblíbené volby zahrnují Berry, Fresh, Citrus, Melon atd."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b8",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b80",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Intenzita:"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b8a1",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b8a10",
+          "_type": "span",
+          "marks": [],
+          "text": "Nejintenzivnější: Mint (černá barva)."
+        }
+      ],
+      "level": 2,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b8a2",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b8a20",
+          "_type": "span",
+          "marks": [],
+          "text": "Velmi intenzivní: Fresh (modrá), Citrus (žlutá), Pine (tmavě zelená), Lavender (fialová)."
+        }
+      ],
+      "level": 2,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b8a3",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b8a30",
+          "_type": "span",
+          "marks": [],
+          "text": "Střední intenzita: Berry (fialová), Melon (červená)."
+        }
+      ],
+      "level": 2,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b8a4",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b8a40",
+          "_type": "span",
+          "marks": [],
+          "text": "Jemné: Tropical Fruit (oranžová), Mango (červenooranžová), Apple (světle zelená)."
+        }
+      ],
+      "level": 2,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b9",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b90",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Barevné varianty"
+        },
+        {
+          "_key": "b91",
+          "_type": "span",
+          "marks": [],
+          "text": " - slaďte s interiérem nebo označením (např. černá je trendy, modrá symbolizuje svěžest)."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "h2-4",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "h2-40",
+          "_type": "span",
+          "marks": [],
+          "text": "4. Ekologie hraje stále větší roli"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "p7",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p70",
+          "_type": "span",
+          "marks": [],
+          "text": "Pokud vaše firma dbá na udržitelnost, všímejte si chemického složení a biodegradability produktů."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "p8",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p80",
+          "_type": "span",
+          "marks": [],
+          "text": "Pisoárové sítka ëkcos Innovations nabízejí jako jediné všechny tyto ekologické výhody:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b10",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b100",
+          "_type": "span",
+          "marks": [],
+          "text": "Vyrobeny s vysokým podílem recyklovaného EVA plastu"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b11",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b110",
+          "_type": "span",
+          "marks": [],
+          "text": "100% recyklovatelné"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b12",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b120",
+          "_type": "span",
+          "marks": [],
+          "text": "Biodegradabilní s aditivem EcoOne (99% rozklad za 5 let v bioaktivních skládkách)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b13",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b130",
+          "_type": "span",
+          "marks": [],
+          "text": "Balené v ekologických celofánových sáčcích z obnovitelné, biodegradabilní dřevěné buničiny"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b14",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b140",
+          "_type": "span",
+          "marks": [],
+          "text": "Speciálně navržené pro bezvodé pisoáry, šetřící pitnou vodu"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "h2-5",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "h2-50",
+          "_type": "span",
+          "marks": [],
+          "text": "5. Nezapomeňte na typ pisoáru"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "p9",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p90",
+          "_type": "span",
+          "marks": [],
+          "text": "Všechny naše sítka jsou vhodné pro bezvodé pisoáry, ale některé modely jsou určené specificky pro:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b15",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b150",
+          "_type": "span",
+          "marks": [],
+          "text": "Menší pisoáry - "
+        },
+        {
+          "_key": "b151",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "üro lite"
+        },
+        {
+          "_key": "b152",
+          "_type": "span",
+          "marks": [],
+          "text": " (kompaktní velikost, pořád s naší top anti-splash technologií)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b16",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b160",
+          "_type": "span",
+          "marks": [],
+          "text": "Specifické potřeby zákazníků - např. "
+        },
+        {
+          "_key": "b161",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "xcrën Puck"
+        },
+        {
+          "_key": "b162",
+          "_type": "span",
+          "marks": [],
+          "text": " s rozpustným NON-PARA voskovým puckem"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "h2-6",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "h2-60",
+          "_type": "span",
+          "marks": [],
+          "text": "Shrnutí: Jak vybrat?"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "b17",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b170",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Extrémně vysoká frekvence -> "
+        },
+        {
+          "_key": "b171",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën HD, ëkcoscreen"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b18",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b180",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Standardní frekvence -> "
+        },
+        {
+          "_key": "b181",
+          "_type": "span",
+          "marks": [],
+          "text": "powër screen"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b19",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b190",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Rozpočtová volba / malé pisoáry -> "
+        },
+        {
+          "_key": "b191",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b20",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b200",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Ekologická volba -> "
+        },
+        {
+          "_key": "b201",
+          "_type": "span",
+          "marks": [],
+          "text": "Všechny modely ëkcos"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b21",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b210",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Bezvodé pisoáry -> "
+        },
+        {
+          "_key": "b211",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen, xcrën HD"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b22",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b220",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Speciální požadavek -> "
+        },
+        {
+          "_key": "b221",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën Puck (NON-PARA)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "p10",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p100",
+          "_type": "span",
+          "marks": [],
+          "text": "Investice do správné pisoárové sítky se vyplatí: nižší náklady na úklid, lepší vnímání hygieny a spokojenější návštěvníci toalet - kteří neodejdou s bakteriemi od předchozích uživatelů na kalhotách. Volba není jen o vůni - zvažte frekvenci, hygienické potřeby, typ pisoáru a ekologická kritéria."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "p11",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p110",
+          "_type": "span",
+          "marks": [],
+          "text": "Pokud si nejste jisti, kterou sítku zvolit, rádi vám pomůžeme s výběrem."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    }
+  ],
+  "excerpt": "Praktický průvodce výběrem správné pisoárové sítky pro restaurace, čerpací stanice a veřejné provozy - frekvence, ochrana proti odstřikům, vůně, ekologie a typ pisoáru.",
+  "mainImage": {
+    "_type": "image",
+    "alt": "Modrá pisoárová sítka s ochranou proti odstřikům",
+    "asset": {
+      "_ref": "image-3699456590f9ca86dfff8e1bfab387e6aedbc818-1342x1401-jpg",
+      "_type": "reference"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "jak-vybrat-spravnou-pisoarovou-sitku"
+  },
+  "title": "Jak vybrat správnou pisoárovou sítku"
+}

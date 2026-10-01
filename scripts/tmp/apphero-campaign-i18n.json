@@ -1,0 +1,129 @@
+{
+  "note": "Paste these into App Hero → Free Gift campaign content (banner/popup). CDN-hosted; not writable via Shopify Admin API.",
+  "en": {
+    "banner": "Spend 60€ and get frësh drop base + insert",
+    "popupTitle": "<b>Congrats! You've unlocked a gift!</b>",
+    "popupSub": "Claim your free gift now!",
+    "freeGift": "Free Gift"
+  },
+  "bg": {
+    "banner": "Похарчете 60€ и вземете frësh drop основа + вложка",
+    "popupTitle": "<b>Поздравления! Вие отключихте подарък!</b>",
+    "popupSub": "Изискайте своя безплатен подарък сега!",
+    "freeGift": "Безплатен подарък"
+  },
+  "hr": {
+    "banner": "Potrošite 60€ i dobijte frësh drop bazu + umetak",
+    "popupTitle": "<b>Čestitamo! Otključali ste dar!</b>",
+    "popupSub": "Zatražite svoj besplatni dar sada!",
+    "freeGift": "Besplatan dar"
+  },
+  "cs": {
+    "banner": "Utraťte 60€ a získejte frësh drop base + insert",
+    "popupTitle": "<b>Gratulujeme! Odemkli jste dárek!</b>",
+    "popupSub": "Vyzvedněte si dárek zdarma!",
+    "freeGift": "Dárek zdarma"
+  },
+  "da": {
+    "banner": "Brug 60€ og få frësh drop base + indsats",
+    "popupTitle": "<b>Tillykke! Du har låst op for en gave!</b>",
+    "popupSub": "Få din gratis gave nu!",
+    "freeGift": "Gratis gave"
+  },
+  "nl": {
+    "banner": "Besteed 60€ en krijg frësh drop base + insert",
+    "popupTitle": "<b>Gefeliciteerd! Je hebt een cadeau ontgrendeld!</b>",
+    "popupSub": "Claim nu je gratis cadeau!",
+    "freeGift": "Gratis cadeau"
+  },
+  "et": {
+    "banner": "Kulutage 60€ ja saate frësh drop base + insert",
+    "popupTitle": "<b>Õnnitlused! Avasite kingituse!</b>",
+    "popupSub": "Hankige oma tasuta kingitus kohe!",
+    "freeGift": "Tasuta kingitus"
+  },
+  "fi": {
+    "banner": "Käytä 60€ ja saat frësh drop pohja + lisäosa",
+    "popupTitle": "<b>Onnittelut! Olet avannut lahjan!</b>",
+    "popupSub": "Lunasta ilmainen lahjasi nyt!",
+    "freeGift": "Ilmainen lahja"
+  },
+  "fr": {
+    "banner": "Dépensez 60€ et obtenez frësh drop base + insert",
+    "popupTitle": "<b>Bravo ! Vous avez débloqué un cadeau !</b>",
+    "popupSub": "Réclamez votre cadeau gratuit !",
+    "freeGift": "Cadeau gratuit"
+  },
+  "de": {
+    "banner": "Gib 60€ aus und erhalte frësh drop base + insert",
+    "popupTitle": "<b>Glückwunsch! Du hast ein Geschenk freigeschaltet!</b>",
+    "popupSub": "Hol dir jetzt dein Gratisgeschenk!",
+    "freeGift": "Gratisgeschenk"
+  },
+  "el": {
+    "banner": "Ξοδέψτε ⟦60 EUR⟧ και αποκτήστε frësh drop βάση + ένθετο",
+    "popupTitle": "<b>Συγχαρητήρια! Ξεκλείδωσες ένα δώρο!</b>",
+    "popupSub": "Διεκδικήστε το δωρεάν δώρο σας τώρα!",
+    "freeGift": "Δωρεάν δώρο"
+  },
+  "hu": {
+    "banner": "Költsön el 60€-t és kap frësh drop alapot + betétet",
+    "popupTitle": "8R~Gratulálunk! Ajándékot kapott!</b>",
+    "popupSub": "Igényelje ingyenes ajándékát most!",
+    "freeGift": "Ingyenes ajándék"
+  },
+  "it": {
+    "banner": "Spendi 60€ e ricevi frësh drop base + insert",
+    "popupTitle": "<b>Congratulazioni! Hai sbloccato un regalo!</b>",
+    "popupSub": "Richiedi subito il tuo regalo gratis!",
+    "freeGift": "Regalo gratis"
+  },
+  "lv": {
+    "banner": "Iztērē 60€ un saņemiet frësh drop pamatni + ieliktni",
+    "popupTitle": "⟦AĢIN+⟧Apsveicam! Jūs esat atbloķējis dāvanu!</b>",
+    "popupSub": "Pieprasiet savu bezmaksas dāvanu tūlīt!",
+    "freeGift": "Bezmaksas dāvana"
+  },
+  "lt": {
+    "banner": "Išleiskite ⟦60 EUR⟧ ir gaukite frësh drop pagrindą + įdėklą",
+    "popupTitle": "Hc~Sveikiname! Jūs atrakinote dovaną!</b>",
+    "popupSub": "Gaukite nemokamą dovaną dabar!",
+    "freeGift": "Nemokama dovana"
+  },
+  "pl": {
+    "banner": "Wydaj 60€ i otrzymaj frësh drop base + insert",
+    "popupTitle": "<b>Gratulacje! Odblokowałeś prezent!</b>",
+    "popupSub": "Odbierz darmowy prezent!",
+    "freeGift": "Darmowy prezent"
+  },
+  "pt": {
+    "banner": "Gaste 60€ e receba frësh drop base + insert",
+    "popupTitle": "<b>Parabéns! Desbloqueou um presente!</b>",
+    "popupSub": "Receba o seu presente grátis!",
+    "freeGift": "Presente grátis"
+  },
+  "ro": {
+    "banner": "Cheltuiește 60€ și obține frësh drop bază + insert",
+    "popupTitle": "<b>Felicitări! Ai deblocat un cadou!</b>",
+    "popupSub": "Revendica-ti cadoul gratuit acum!",
+    "freeGift": "Cadou gratuit"
+  },
+  "sk": {
+    "banner": "Minite 60€ a získajte frësh drop base + insert",
+    "popupTitle": "<b>Gratulujeme! Odomkli ste darček!</b>",
+    "popupSub": "Vyzdvihnite si darček zadarmo!",
+    "freeGift": "Darček zadarmo"
+  },
+  "es": {
+    "banner": "Gasta 60€ y consigue frësh drop base + insert",
+    "popupTitle": "<b>¡Enhorabuena! Has desbloqueado un regalo!</b>",
+    "popupSub": "¡Reclama tu regalo gratis!",
+    "freeGift": "Regalo gratis"
+  },
+  "sv": {
+    "banner": "Spendera 60€ och få frësh drop bas + insats",
+    "popupTitle": "<b>Grattis! Du har låst upp en gåva!</b>",
+    "popupSub": "Hämta din gratis gåva nu!",
+    "freeGift": "Gratis gåva"
+  }
+}

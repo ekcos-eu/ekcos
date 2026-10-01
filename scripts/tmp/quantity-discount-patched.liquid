@@ -1,0 +1,123 @@
+{% assign variant = product.selected_or_first_available_variant %}
+{% assign price = variant.price %}
+
+{% comment %} Načti prahy z metafieldů, fallback na původní hodnoty {% endcomment %}
+{% assign tier1_qty = product.metafields.custom.discount_tier1_qty | default: 6 %}
+{% assign tier2_qty = product.metafields.custom.discount_tier2_qty | default: 12 %}
+
+{% assign tier1_max = tier2_qty | minus: 1 %}
+{% assign bulk_qty = tier2_qty | times: 2 %}
+
+{% assign price_10 = price | times: 0.90 | money %}
+{% assign price_15 = price | times: 0.80 | money %}
+
+{% assign has_unit_price = false %}
+{% if variant.unit_price %}
+  {% assign has_unit_price = true %}
+  {% assign unit_price_10 = variant.unit_price | times: 0.90 | money %}
+  {% assign unit_price_15 = variant.unit_price | times: 0.80 | money %}
+{% endif %}
+
+<div class="quantity-discount-table">
+  <table>
+    <thead>
+      <tr>
+        <th>{{ 'products.product.qty_range' | t }}</th>
+        <th>{{ 'products.product.discount' | t }}</th>
+        <th>Price after discount</th>
+        {% if has_unit_price %}<th>Price per item</th>{% endif %}
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>{{ tier1_qty }}–{{ tier1_max }}</td>
+        <td>10 %</td>
+        <td>{{ price_10 }}</td>
+        {% if has_unit_price %}<td>{{ unit_price_10 }}</td>{% endif %}
+      </tr>
+      <tr>
+        <td>{{ tier2_qty }}+</td>
+        <td>20 %</td>
+        <td>{{ price_15 }}</td>
+        {% if has_unit_price %}<td>{{ unit_price_15 }}</td>{% endif %}
+      </tr>
+    </tbody>
+  </table>
+
+  {% assign _loc = request.locale.iso_code | default: 'en' %}
+{% if _loc == 'pt-PT' or _loc == 'pt' %}
+  {% assign _loc = 'pt' %}
+{% endif %}
+  <div class="bulk-order-notice">
+    {% case _loc %}
+    {% when 'bg' %}
+      За по-големи поръчки (<strong>{{ bulk_qty }}+ бр.</strong>) се свържете с нас на
+    {% when 'hr' %}
+      Za veće narudžbe (<strong>{{ bulk_qty }}+ kom.</strong>) kontaktirajte nas na
+    {% when 'cs' %}
+      Pro větší objednávky (<strong>{{ bulk_qty }}+ ks</strong>) nás kontaktujte na
+    {% when 'da' %}
+      Ved større ordrer (<strong>{{ bulk_qty }}+ stk.</strong>) kontakt os på
+    {% when 'nl' %}
+      Voor grotere bestellingen (<strong>{{ bulk_qty }}+ stuks</strong>) neem contact op via
+    {% when 'et' %}
+      Suuremate tellimuste (<strong>{{ bulk_qty }}+ tk</strong>) korral võtke meiega ühendust
+    {% when 'fi' %}
+      Suuremmissa tilauksissa (<strong>{{ bulk_qty }}+ kpl</strong>) ota yhteyttä
+    {% when 'fr' %}
+      Pour les commandes en volume (<strong>{{ bulk_qty }}+ pcs</strong>), contactez-nous à
+    {% when 'de' %}
+      Bei größeren Bestellungen (<strong>{{ bulk_qty }}+ Stk.</strong>) kontaktieren Sie uns unter
+    {% when 'el' %}
+      Για μαζικές παραγγελίες (<strong>{{ bulk_qty }}+ τεμ.</strong>) επικοινωνήστε στο
+    {% when 'hu' %}
+      Nagyobb rendelésnél (<strong>{{ bulk_qty }}+ db</strong>) írjon nekünk:
+    {% when 'it' %}
+      Per ordini maggiori (<strong>{{ bulk_qty }}+ pz</strong>) contattaci a
+    {% when 'lv' %}
+      Lielākiem pasūtījumiem (<strong>{{ bulk_qty }}+ gab.</strong>) sazinieties ar mums:
+    {% when 'lt' %}
+      Didesniems užsakymams (<strong>{{ bulk_qty }}+ vnt.</strong>) susisiekite:
+    {% when 'pl' %}
+      Przy większych zamówieniach (<strong>{{ bulk_qty }}+ szt.</strong>) napisz do nas:
+    {% when 'pt' %}
+      Para encomendas maiores (<strong>{{ bulk_qty }}+ un.</strong>), contacte-nos em
+    {% when 'ro' %}
+      Pentru comenzi mai mari (<strong>{{ bulk_qty }}+ buc.</strong>) contactați-ne la
+    {% when 'sk' %}
+      Pri väčších objednávkach (<strong>{{ bulk_qty }}+ ks</strong>) nás kontaktujte na
+    {% when 'es' %}
+      Para pedidos mayores (<strong>{{ bulk_qty }}+ uds.</strong>), contáctenos en
+    {% when 'sv' %}
+      Vid större beställningar (<strong>{{ bulk_qty }}+ st</strong>) kontakta oss på
+    {% else %}
+      For bulk orders (<strong>{{ bulk_qty }}+ pcs</strong>), please contact us at
+    {% endcase %}
+    <a href="mailto:support@ekcos.eu">support@ekcos.eu</a>
+  </div>
+</div>
+
+<style>
+  .quantity-discount-table { margin: 12px 0; }
+  .quantity-discount-table table { width: 100%; border-collapse: collapse; font-size: 0.9em; }
+  .quantity-discount-table th,
+  .quantity-discount-table td { border: 1px solid #e0e0e0; padding: 8px 12px; text-align: center; }
+  .quantity-discount-table th { background-color: #f5f5f5; font-weight: bold; }
+  
+  .bulk-order-notice {
+    margin-top: 8px;
+    padding: 10px 12px;
+    font-size: 0.85em;
+    color: #333;
+    background-color: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    border-top: none;
+    text-align: center;
+  }
+  
+  .bulk-order-notice a {
+    color: #008cc9 !important;
+    text-decoration: underline !important;
+    font-weight: 600;
+  }
+</style>

@@ -1,0 +1,884 @@
+{
+  "body": [
+    {
+      "_key": "intro1",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "intro1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Tualettruumide puhtana, värskena ja hügieeniliselt ohutu hoidmine on igapäevane väljakutse kõigile, kes käivad restoranis, bensiinijaamas või muudes avalikes rajatistes. Üks tähtsamaid – kuid sageli tähelepanuta jäetud – detaile on pissuaari ekraan. Need mitte ainult ei kõrvalda ebameeldivaid lõhnu, vaid hoiavad ära ka uriini pritsmete tagasivoolu, vähendades seeläbi uriinipiiskade levikut pissuaariekraani pinnalt. Need annavad olulise panuse üldisesse hügieeni. Aga kuidas valida oma tualettruumi jaoks õige ekraan?"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "h2-1",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "h2-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "1. Kaaluge kasutussagedust"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "p1",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Esimene samm on hinnata, kui sageli teie tualette kasutatakse:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b1",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b1a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Restoranid, baarid, lennujaamad, kaubanduskeskused"
+        },
+        {
+          "_key": "b1b",
+          "_type": "span",
+          "marks": [],
+          "text": "- siin on oluline kõrge vastupidavus, pikaajaline toime ja tõhus pritsmekaitse."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b2",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b2a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Vähem külastatavad tualetid"
+        },
+        {
+          "_key": "b2b",
+          "_type": "span",
+          "marks": [],
+          "text": "(nt kontorid või väiksemad rajatised) võib piisata säästlikumatest ja lühema elueaga lahendustest, kuid kõrge hügieen ja tõhus pritsmekaitse peavad siiski olema prioriteediks."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "p2",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p2a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Soovitused:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b3",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Suure liiklusega tualettruumide jaoks:"
+        },
+        {
+          "_key": "b3b",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "xcrën HD"
+        },
+        {
+          "_key": "b3c",
+          "_type": "span",
+          "marks": [],
+          "text": "või"
+        },
+        {
+          "_key": "b3d",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "ëkcosekraan"
+        },
+        {
+          "_key": "b3e",
+          "_type": "span",
+          "marks": [],
+          "text": "(lõhn püsib 60+ päeva, 95% pinda katab harjastega kõige arenenum pritsmekaitse)."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b4",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b4a",
+          "_type": "span",
+          "marks": [],
+          "text": "Tavakasutuseks:"
+        },
+        {
+          "_key": "b4b",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "⟦TOITEEKRAAN⟧"
+        },
+        {
+          "_key": "b4c",
+          "_type": "span",
+          "marks": [],
+          "text": "(lõhn püsib 30 päeva, efektiivne harjaste tehnoloogia)."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b5",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b5a",
+          "_type": "span",
+          "marks": [],
+          "text": "Säästlikud võimalused:"
+        },
+        {
+          "_key": "b5b",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "⟦UROLIIT⟧"
+        },
+        {
+          "_key": "b5c",
+          "_type": "span",
+          "marks": [],
+          "text": "- suurepärane hinna ja pritsmekaitse suhe, kompaktne suurus, vähem intensiivne lõhn."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "h2-2",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "h2-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "2. Kaitse pritsmete eest = vähem puhastust, parem hügieen"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "p3",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Uriini pritsimine väljaspool pissuaari ei ole lihtsalt inetu – see võib levitada uriinipiisku, suurendada puhastusvajadust ja halvendada hügieenilist muljet."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "p4",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p4a",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcos tooted kasutavad patenteeritud"
+        },
+        {
+          "_key": "p4b",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Sealed Bristles Technology™"
+        },
+        {
+          "_key": "p4c",
+          "_type": "span",
+          "marks": [],
+          "text": ", kus tihedalt asetsevad pikad harjased neelavad tõhusalt uriinijoad ja vähendavad tagasipritsmeid."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "p5",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p5a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "NÕUANNE:"
+        },
+        {
+          "_key": "p5b",
+          "_type": "span",
+          "marks": [],
+          "text": "Kui kasutate tiheda liiklusega tualettruume, vältige kõrgekvaliteedilise harjastepõhise pritsmekaitseta pissuaariekraane."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "h2-3",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "h2-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "3. Lõhn, intensiivsus ja kestus – valige see, mis vastab teie vajadustele"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "p6",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p6a",
+          "_type": "span",
+          "marks": [],
+          "text": "Kaasaegsed ekraanid vabastavad lõhna järk-järgult, hoides pissuaari ümbritseva õhu värskena. Kaaluge:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b6",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b6a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Kestus:"
+        },
+        {
+          "_key": "b6b",
+          "_type": "span",
+          "marks": [],
+          "text": "30 päeva (igakuine asendus) vs 60 päeva. Pikem lõhnaaeg vähendab kasutuskulusid – 60-päevane pissuaariekraan kestab kaks korda kauem, kuid ei maksa kaks korda rohkem."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b7",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b7a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Lõhna tüübid:"
+        },
+        {
+          "_key": "b7b",
+          "_type": "span",
+          "marks": [],
+          "text": "Populaarsed valikud on marjad, värsked, tsitruselised, melonid jne."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b8",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b8a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Intensiivsus:"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b8a1",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b8a1t",
+          "_type": "span",
+          "marks": [],
+          "text": "Kõige intensiivsem: piparmünt (must värv)."
+        }
+      ],
+      "level": 2,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b8a2",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b8a2t",
+          "_type": "span",
+          "marks": [],
+          "text": "Väga intensiivne: värske (sinine), tsitruseline (kollane), mänd (tumeroheline), lavendel (lilla)."
+        }
+      ],
+      "level": 2,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b8a3",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b8a3t",
+          "_type": "span",
+          "marks": [],
+          "text": "Keskmine intensiivsus: marja (lilla), melon (punane)."
+        }
+      ],
+      "level": 2,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b8a4",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b8a4t",
+          "_type": "span",
+          "marks": [],
+          "text": "Peen: troopilised puuviljad (oranž), mango (punane oranž), õun (heleroheline)."
+        }
+      ],
+      "level": 2,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b9",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b9a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Värvivalikud"
+        },
+        {
+          "_key": "b9b",
+          "_type": "span",
+          "marks": [],
+          "text": "- sobitada interjööri või siltidega (nt must on trendikas, sinine sümboliseerib värskust)."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "h2-4",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "h2-4a",
+          "_type": "span",
+          "marks": [],
+          "text": "4. Ökoloogia on üha olulisem"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "p7",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p7a",
+          "_type": "span",
+          "marks": [],
+          "text": "Kui teie ettevõte hoolib jätkusuutlikkusest, pöörake tähelepanu toodete keemilisele koostisele ja biolagunevusele."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "p8",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p8a",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcos Innovationsi pissuaariekraanid on ainsad, mis pakuvad kõiki neid ökoloogilisi eeliseid:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b10",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b10a",
+          "_type": "span",
+          "marks": [],
+          "text": "Valmistatud suure protsendiga taaskasutatud EVA plastist"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b11",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b11a",
+          "_type": "span",
+          "marks": [],
+          "text": "100% taaskasutatav"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b12",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b12a",
+          "_type": "span",
+          "marks": [],
+          "text": "Biolagunev lisandiga Eco-One™ (99% lagunemine 5 aasta jooksul bioaktiivsetes prügilates)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b13",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b13a",
+          "_type": "span",
+          "marks": [],
+          "text": "Pakendatud taastuvast biolagunevast puidumassist valmistatud keskkonnasõbralikesse tsellofaani kottidesse"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b14",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b14a",
+          "_type": "span",
+          "marks": [],
+          "text": "Spetsiaalselt loodud töötama ideaalselt veevabade pissuaaridega, säästes joogivett"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "h2-5",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "h2-5a",
+          "_type": "span",
+          "marks": [],
+          "text": "5. Ärge unustage pissuaari tüüpi"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "p9",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p9a",
+          "_type": "span",
+          "marks": [],
+          "text": "Kõik meie ekraanid sobivad veevabade pissuaaride jaoks, kuid mõned mudelid on valmistatud spetsiaalselt:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b15",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b15a",
+          "_type": "span",
+          "marks": [],
+          "text": "Väiksemad pissuaarid -"
+        },
+        {
+          "_key": "b15b",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "⟦UROLIIT⟧"
+        },
+        {
+          "_key": "b15c",
+          "_type": "span",
+          "marks": [],
+          "text": "(kompaktne suurus, sisaldab endiselt meie tipptasemel pritsmetõrjetehnoloogiat)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b16",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b16a",
+          "_type": "span",
+          "marks": [],
+          "text": "Konkreetsed kliendi vajadused – nt."
+        },
+        {
+          "_key": "b16b",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "xcrën puck"
+        },
+        {
+          "_key": "b16c",
+          "_type": "span",
+          "marks": [],
+          "text": "lahustuva NON-PARA vahapukiga"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "h2-6",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "h2-6a",
+          "_type": "span",
+          "marks": [],
+          "text": "Kokkuvõte: kuidas valida?"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "b17",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b17a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Eriti tihe liiklus ->"
+        },
+        {
+          "_key": "b17b",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën HD, ëkcosekraan"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b18",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b18a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Tavaliiklus ->"
+        },
+        {
+          "_key": "b18b",
+          "_type": "span",
+          "marks": [],
+          "text": "⟦TOITEEKRAAN⟧"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b19",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b19a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Eelarve valik / väikesed pissuaarid ->"
+        },
+        {
+          "_key": "b19b",
+          "_type": "span",
+          "marks": [],
+          "text": "⟦UROLIIT⟧"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b20",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b20a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Keskkonnateadlik valik ->"
+        },
+        {
+          "_key": "b20b",
+          "_type": "span",
+          "marks": [],
+          "text": "Kõik ëkcos mudelid"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b21",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b21a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Veeta pissuaarid ->"
+        },
+        {
+          "_key": "b21b",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcosekraan, xcrën HD"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b22",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b22a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Erinõue ->"
+        },
+        {
+          "_key": "b22b",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën puck (NON-PARA)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "p10",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p10a",
+          "_type": "span",
+          "marks": [],
+          "text": "Investeerimine õigesse pissuaariekraani tasub end ära väiksemate puhastuskulude, parema hügieenitaju ja rahulolevamate tualettruumi külastajate kaudu – kes ei lahku kunagiste kasutajate bakteritega pükstel. Valik ei seisne ainult lõhnas – arvestage liiklussagedust, hügieenivajadusi, pissuaari tüüpi ja ökoloogilisi kriteeriume."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "p11",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "p11a",
+          "_type": "span",
+          "marks": [],
+          "text": "Kui te pole kindel, millist tüüpi ekraani valida, aitame teid hea meelega õige valiku tegemisel."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    }
+  ],
+  "excerpt": "Praktiline juhend õige pissuaariekraani valimiseks restoranidesse, bensiinijaamadesse ja avalikesse rajatistesse – hõlmab liiklust, pritsmekaitset, lõhna, ökoloogiat ja pissuaari tüüpi.",
+  "mainImage": {
+    "_type": "image",
+    "alt": "Sinine pritsmevastane pissuaariekraan",
+    "asset": {
+      "_ref": "image-3699456590f9ca86dfff8e1bfab387e6aedbc818-1342x1401-jpg",
+      "_type": "reference"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "how-to-choose-the-right-urinal-screen"
+  },
+  "title": "Kuidas valida õige pissuaariekraan"
+}

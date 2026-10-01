@@ -1,0 +1,75 @@
+{% assign variant = product.selected_or_first_available_variant %}
+{% assign price = variant.price %}
+
+{% comment %} Načti prahy z metafieldů, fallback na původní hodnoty {% endcomment %}
+{% assign tier1_qty = product.metafields.custom.discount_tier1_qty | default: 6 %}
+{% assign tier2_qty = product.metafields.custom.discount_tier2_qty | default: 12 %}
+
+{% assign tier1_max = tier2_qty | minus: 1 %}
+{% assign bulk_qty = tier2_qty | times: 2 %}
+
+{% assign price_10 = price | times: 0.90 | money %}
+{% assign price_15 = price | times: 0.80 | money %}
+
+{% assign has_unit_price = false %}
+{% if variant.unit_price %}
+  {% assign has_unit_price = true %}
+  {% assign unit_price_10 = variant.unit_price | times: 0.90 | money %}
+  {% assign unit_price_15 = variant.unit_price | times: 0.80 | money %}
+{% endif %}
+
+<div class="quantity-discount-table">
+  <table>
+    <thead>
+      <tr>
+        <th>{{ 'products.product.qty_range' | t }}</th>
+        <th>{{ 'products.product.discount' | t }}</th>
+        <th>Price after discount</th>
+        {% if has_unit_price %}<th>Price per item</th>{% endif %}
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>{{ tier1_qty }}–{{ tier1_max }}</td>
+        <td>10 %</td>
+        <td>{{ price_10 }}</td>
+        {% if has_unit_price %}<td>{{ unit_price_10 }}</td>{% endif %}
+      </tr>
+      <tr>
+        <td>{{ tier2_qty }}+</td>
+        <td>20 %</td>
+        <td>{{ price_15 }}</td>
+        {% if has_unit_price %}<td>{{ unit_price_15 }}</td>{% endif %}
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="bulk-order-notice">
+    For bulk orders (<strong>{{ bulk_qty }}+ pcs</strong>), please contact us at <a href="mailto:support@ekcos.eu">support@ekcos.eu</a>
+  </div>
+</div>
+
+<style>
+  .quantity-discount-table { margin: 12px 0; }
+  .quantity-discount-table table { width: 100%; border-collapse: collapse; font-size: 0.9em; }
+  .quantity-discount-table th,
+  .quantity-discount-table td { border: 1px solid #e0e0e0; padding: 8px 12px; text-align: center; }
+  .quantity-discount-table th { background-color: #f5f5f5; font-weight: bold; }
+  
+  .bulk-order-notice {
+    margin-top: 8px;
+    padding: 10px 12px;
+    font-size: 0.85em;
+    color: #333;
+    background-color: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    border-top: none;
+    text-align: center;
+  }
+  
+  .bulk-order-notice a {
+    color: #008cc9 !important;
+    text-decoration: underline !important;
+    font-weight: 600;
+  }
+</style>

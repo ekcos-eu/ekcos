@@ -1,0 +1,77 @@
+{% comment %} Multi-locale Fast shipping banner — paste into Custom Liquid section custom_liquid_gY8dna {% endcomment %}
+{% assign _loc = request.locale.iso_code | default: 'en' %}
+{% if _loc == 'pt-PT' or _loc == 'pt' %}
+  {% assign _loc = 'pt' %}
+{% endif %}
+{% case _loc %}
+{% when 'bg' %}
+  {% assign _fs_title = "Бърза доставка в цяла Европа" %}
+  {% assign _fs_body = "Всички продукти на ëkcos се изпращат в рамките на 1-2 работни дни след потвърждение на плащането. Със сигурна и ефективна доставка в целия ЕС можете да разчитате на постоянно попълване на запасите за вашия бизнес." %}
+{% when 'hr' %}
+  {% assign _fs_title = "Brza dostava diljem Europe" %}
+  {% assign _fs_body = "Svi ëkcos proizvodi se isporučuju unutar 1-2 radna dana nakon potvrde uplate. Uz sigurnu i učinkovitu dostavu u cijeloj EU, možete se osloniti na dosljedno obnavljanje zaliha za svoje poslovanje." %}
+{% when 'cs' %}
+  {% assign _fs_title = "Rychlé doručení po celé Evropě" %}
+  {% assign _fs_body = "Všechny produkty ëkcos odesíláme do 1–2 pracovních dnů po potvrzení platby. Bezpečné a spolehlivé doručení v rámci EU vám pomůže udržet stabilní zásoby pro váš provoz." %}
+{% when 'da' %}
+  {% assign _fs_title = "Hurtig forsendelse i hele Europa" %}
+  {% assign _fs_body = "Alle ëkcos-produkter afsendes inden for 1-2 arbejdsdage efter betalingsbekræftelse. Med sikker og effektiv levering i hele EU kan du stole på ensartet lageropfyldning til din virksomhed." %}
+{% when 'nl' %}
+  {% assign _fs_title = "Snelle verzending door heel Europa" %}
+  {% assign _fs_body = "Alle ëkcos-producten worden binnen 1-2 werkdagen na bevestiging van de betaling verzonden. Met veilige en efficiënte levering in de hele EU kunt u vertrouwen op een consistente herbevoorrading voor uw bedrijf." %}
+{% when 'et' %}
+  {% assign _fs_title = "Kiire kohaletoimetamine üle Euroopa" %}
+  {% assign _fs_body = "Kõik ëkcos tooted saadetakse teele 1-2 tööpäeva jooksul pärast makse kinnitamist. Tänu turvalisele ja tõhusale kohaletoimetamisele kogu ELis võite loota oma ettevõtte järjepidevale varude täiendamisele." %}
+{% when 'fi' %}
+  {% assign _fs_title = "Nopea toimitus ympäri Eurooppaa" %}
+  {% assign _fs_body = "Kaikki ëkcos-tuotteet lähetetään 1-2 arkipäivän kuluessa maksun vahvistuksesta. Turvallisen ja tehokkaan toimituksen ansiosta koko EU:n alueella voit luottaa yrityksesi jatkuvaan varastointiin." %}
+{% when 'fr' %}
+  {% assign _fs_title = "Livraison rapide dans toute l'Europe" %}
+  {% assign _fs_body = "Tous les produits ëkcos sont expédiés sous 1 à 2 jours ouvrés après confirmation du paiement. Livraison sûre et efficace dans l'UE pour un réapprovisionnement fiable." %}
+{% when 'de' %}
+  {% assign _fs_title = "Schneller Versand in ganz Europa" %}
+  {% assign _fs_body = "Alle ëkcos-Produkte versenden wir innerhalb von 1–2 Werktagen nach Zahlungsbestätigung. Sichere, effiziente Lieferung in der EU — für zuverlässige Nachbestellung in Ihrem Betrieb." %}
+{% when 'el' %}
+  {% assign _fs_title = "Γρήγορη αποστολή σε όλη την Ευρώπη" %}
+  {% assign _fs_body = "Όλα τα προϊόντα ëkcos αποστέλλονται εντός 1–2 εργάσιμων ημερών από την επιβεβαίωση πληρωμής. Με την ασφαλή και αποτελεσματική παράδοση σε όλη την ΕΕ, μπορείτε να βασιστείτε στη συνεπή ανανέωση αποθεμάτων για την επιχείρησή σας." %}
+{% when 'hu' %}
+  {% assign _fs_title = "Gyors szállítás Európa-szerte" %}
+  {% assign _fs_body = "Minden ëkcos terméket a fizetés visszaigazolását követő 1-2 munkanapon belül kiszállítunk. A biztonságos és hatékony szállításnak köszönhetően az egész EU-ban számíthat vállalkozása következetes készletpótlására." %}
+{% when 'it' %}
+  {% assign _fs_title = "Spedizione rapida in tutta Europa" %}
+  {% assign _fs_body = "Tutti i prodotti ëkcos vengono spediti entro 1–2 giorni lavorativi dalla conferma del pagamento. Consegna sicura ed efficiente nell'UE per un rifornimento affidabile." %}
+{% when 'lv' %}
+  {% assign _fs_title = "Ātra piegāde visā Eiropā" %}
+  {% assign _fs_body = "Visas ëkcos preces tiek nosūtītas 1–2 darba dienu laikā pēc maksājuma apstiprināšanas. Pateicoties drošai un efektīvai piegādei visā ES, varat paļauties uz konsekventu sava uzņēmuma krājumu papildināšanu." %}
+{% when 'lt' %}
+  {% assign _fs_title = "Greitas pristatymas visoje Europoje" %}
+  {% assign _fs_body = "Visos ëkcos prekės išsiunčiamos per 1–2 darbo dienas po apmokėjimo patvirtinimo. Turėdami saugų ir efektyvų pristatymą visoje ES, galite pasikliauti nuolatiniu savo verslo atsargų papildymu." %}
+{% when 'pl' %}
+  {% assign _fs_title = "Szybka wysyłka na terenie całej Europy" %}
+  {% assign _fs_body = "Wszystkie produkty ëkcos wysyłane są w ciągu 1–2 dni roboczych po potwierdzeniu płatności. Dzięki bezpiecznej i wydajnej dostawie na terenie całej UE możesz polegać na stałym uzupełnianiu zapasów w swojej firmie." %}
+{% when 'pt-PT' %}
+  {% assign _fs_title = "Envio rápido em toda a Europa" %}
+  {% assign _fs_body = "Todos os produtos ëkcos são despachados dentro de 1–2 dias úteis após a confirmação do pagamento. Com entregas seguras e eficientes em toda a UE, pode contar com um reabastecimento consistente para o seu negócio." %}
+{% when 'pt' %}
+  {% assign _fs_title = "Envio rápido em toda a Europa" %}
+  {% assign _fs_body = "Todos os produtos ëkcos são despachados dentro de 1–2 dias úteis após a confirmação do pagamento. Com entregas seguras e eficientes em toda a UE, pode contar com um reabastecimento consistente para o seu negócio." %}
+{% when 'ro' %}
+  {% assign _fs_title = "Livrare rapidă în toată Europa" %}
+  {% assign _fs_body = "Toate produsele ëkcos sunt expediate în 1–2 zile lucrătoare de la confirmarea plății. Cu livrare sigură și eficientă în întreaga UE, vă puteți baza pe o reaprovizionare constantă pentru afacerea dvs." %}
+{% when 'sk' %}
+  {% assign _fs_title = "Rýchla preprava po celej Európe" %}
+  {% assign _fs_body = "Všetky produkty ëkcos sú odoslané do 1–2 pracovných dní po potvrdení platby. Vďaka bezpečnému a efektívnemu doručovaniu po celej EÚ sa môžete spoľahnúť na dôsledné dopĺňanie zásob pre vašu firmu." %}
+{% when 'es' %}
+  {% assign _fs_title = "Envío rápido por toda Europa" %}
+  {% assign _fs_body = "Todos los productos ëkcos se envían en 1–2 días laborables tras confirmar el pago. Entrega segura y eficiente en la UE para un reabastecimiento fiable." %}
+{% when 'sv' %}
+  {% assign _fs_title = "Snabb leverans över hela Europa" %}
+  {% assign _fs_body = "Alla ëkcos-produkter skickas inom 1–2 arbetsdagar efter betalningsbekräftelse. Med säker och effektiv leverans i hela EU kan du lita på konsekvent påfyllning av ditt företag." %}
+{% else %}
+  {% assign _fs_title = "Fast shipping across Europe" %}
+  {% assign _fs_body = "All ëkcos products are dispatched within 1–2 working days after payment confirmation. With secure and efficient delivery throughout the EU, you can rely on consistent restocking for your business." %}
+{% endcase %}
+<div style="background-color: #046eb8; color: #ffffff; padding: 40px 20px; text-align: center;">
+  <h2 style="margin: 0 0 16px 0; font-size: 28px; font-weight: 600; color: #fff">{{ _fs_title }}</h2>
+  <p style="margin: 0; font-size: 16px; line-height: 1.6; max-width: 600px; margin-left: auto; margin-right: auto;">{{ _fs_body }}</p>
+</div>

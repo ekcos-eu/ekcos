@@ -1,0 +1,109 @@
+{% comment %}
+  Quantity discount table + bulk notice — paste into Custom Liquid
+  section custom_liquid_YrNjX7 (product / modal).
+  Headers use theme locale keys (already translated).
+{% endcomment %}
+{% assign _loc = request.locale.iso_code | default: 'en' %}
+{% if _loc == 'pt-PT' or _loc == 'pt' %}
+  {% assign _loc = 'pt' %}
+{% endif %}
+
+<div class="quantity-discount-table">
+  <table>
+    <thead>
+      <tr>
+        <th>{{ 'products.product.quantity.label' | t }}</th>
+        <th>{{ 'products.product.discount' | t }}</th>
+        <th>{{ 'products.product.price_after_discount' | t }}</th>
+        <th>{{ 'products.product.price_per_piece' | t }}</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>6–11</td>
+        <td>10 %</td>
+        <td>€16,18</td>
+        <td>€8,09</td>
+      </tr>
+      <tr>
+        <td>12+</td>
+        <td>20 %</td>
+        <td>€14,38</td>
+        <td>€7,19</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="bulk-order-notice">
+    {% case _loc %}
+    {% when 'bg' %}
+      За по-големи поръчки (<strong>24+ бр.</strong>) се свържете с нас на
+    {% when 'hr' %}
+      Za veće narudžbe (<strong>24+ kom.</strong>) kontaktirajte nas na
+    {% when 'cs' %}
+      Pro větší objednávky (<strong>24+ ks</strong>) nás kontaktujte na
+    {% when 'da' %}
+      Ved større ordrer (<strong>24+ stk.</strong>) kontakt os på
+    {% when 'nl' %}
+      Voor grotere bestellingen (<strong>24+ stuks</strong>) neem contact op via
+    {% when 'et' %}
+      Suuremate tellimuste (<strong>24+ tk</strong>) korral võtke meiega ühendust
+    {% when 'fi' %}
+      Suuremmissa tilauksissa (<strong>24+ kpl</strong>) ota yhteyttä
+    {% when 'fr' %}
+      Pour les commandes en volume (<strong>24+ pcs</strong>), contactez-nous à
+    {% when 'de' %}
+      Bei größeren Bestellungen (<strong>24+ Stk.</strong>) kontaktieren Sie uns unter
+    {% when 'el' %}
+      Για μαζικές παραγγελίες (<strong>24+ τεμ.</strong>) επικοινωνήστε στο
+    {% when 'hu' %}
+      Nagyobb rendelésnél (<strong>24+ db</strong>) írjon nekünk:
+    {% when 'it' %}
+      Per ordini maggiori (<strong>24+ pz</strong>) contattaci a
+    {% when 'lv' %}
+      Lielākiem pasūtījumiem (<strong>24+ gab.</strong>) sazinieties ar mums:
+    {% when 'lt' %}
+      Didesniems užsakymams (<strong>24+ vnt.</strong>) susisiekite:
+    {% when 'pl' %}
+      Przy większych zamówieniach (<strong>24+ szt.</strong>) napisz do nas:
+    {% when 'pt' %}
+      Para encomendas maiores (<strong>24+ un.</strong>), contacte-nos em
+    {% when 'ro' %}
+      Pentru comenzi mai mari (<strong>24+ buc.</strong>) contactați-ne la
+    {% when 'sk' %}
+      Pri väčších objednávkach (<strong>24+ ks</strong>) nás kontaktujte na
+    {% when 'es' %}
+      Para pedidos mayores (<strong>24+ uds.</strong>), contáctenos en
+    {% when 'sv' %}
+      Vid större beställningar (<strong>24+ st</strong>) kontakta oss på
+    {% else %}
+      For bulk orders (<strong>24+ pcs</strong>), please contact us at
+    {% endcase %}
+    <a href="mailto:support@ekcos.eu">support@ekcos.eu</a>
+  </div>
+</div>
+
+<style>
+  .quantity-discount-table { margin: 12px 0; }
+  .quantity-discount-table table { width: 100%; border-collapse: collapse; font-size: 0.9em; }
+  .quantity-discount-table th,
+  .quantity-discount-table td { border: 1px solid #e0e0e0; padding: 8px 12px; text-align: center; }
+  .quantity-discount-table th { background-color: #f5f5f5; font-weight: bold; }
+
+  .bulk-order-notice {
+    margin-top: 8px;
+    padding: 10px 12px;
+    font-size: 0.85em;
+    color: #333;
+    background-color: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    border-top: none;
+    text-align: center;
+  }
+
+  .bulk-order-notice a {
+    color: #008cc9 !important;
+    text-decoration: underline !important;
+    font-weight: 600;
+  }
+</style>
