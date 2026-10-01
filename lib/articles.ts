@@ -1,14 +1,8 @@
 import type {PortableTextBlock} from '@portabletext/types'
 import {client} from '@/sanity/lib/client'
+import {locales} from '@/i18n/locales'
 
 export type ArticlesLocale = string
-
-const SANITY_LOCALES = new Set(['en', 'es', 'fr', 'de', 'it', 'cs'])
-
-/** Sanity article fields exist for 6 locales; others resolve via GROQ → en. */
-export function articlesQueryLocale(locale: string): string {
-  return SANITY_LOCALES.has(locale) ? locale : 'en'
-}
 
 export type ArticleCoverImage = {
   asset?: {_ref: string}
@@ -28,76 +22,33 @@ export type ArticleItem = ArticleListItem & {
   content: PortableTextBlock[]
 }
 
-const localeTitle = `
-  coalesce(
+function groqSelect(field: string, fallback = `en.${field}`): string {
+  const cases = locales
+    .map((locale) => `$locale == "${locale}" => ${locale}.${field}`)
+    .join(',\n      ')
+  return `coalesce(
     select(
-      $locale == "cs" => cs.title,
-      $locale == "en" => en.title,
-      $locale == "de" => de.title,
-      $locale == "fr" => fr.title,
-      $locale == "it" => it.title,
-      $locale == "es" => es.title
+      ${cases}
     ),
-    en.title
-  )
-`
+    ${fallback}
+  )`
+}
 
-const localeSlug = `
-  coalesce(
-    select(
-      $locale == "cs" => cs.slug,
-      $locale == "en" => en.slug,
-      $locale == "de" => de.slug,
-      $locale == "fr" => fr.slug,
-      $locale == "it" => it.slug,
-      $locale == "es" => es.slug
-    ),
-    en.slug
-  )
-`
+const localeTitle = groqSelect('title')
+const localeSlug = groqSelect('slug')
+const localeCover = groqSelect('mainImage')
+const localeExcerpt = groqSelect('excerpt')
+const localeBody = `coalesce(
+  select(
+    ${locales.map((locale) => `$locale == "${locale}" => ${locale}.body`).join(',\n    ')}
+  ),
+  en.body,
+  []
+)`
 
-const localeCover = `
-  coalesce(
-    select(
-      $locale == "cs" => cs.mainImage,
-      $locale == "en" => en.mainImage,
-      $locale == "de" => de.mainImage,
-      $locale == "fr" => fr.mainImage,
-      $locale == "it" => it.mainImage,
-      $locale == "es" => es.mainImage
-    ),
-    en.mainImage
-  )
-`
-
-const localeExcerpt = `
-  coalesce(
-    select(
-      $locale == "cs" => cs.excerpt,
-      $locale == "en" => en.excerpt,
-      $locale == "de" => de.excerpt,
-      $locale == "fr" => fr.excerpt,
-      $locale == "it" => it.excerpt,
-      $locale == "es" => es.excerpt
-    ),
-    en.excerpt
-  )
-`
-
-const localeBody = `
-  coalesce(
-    select(
-      $locale == "cs" => cs.body,
-      $locale == "en" => en.body,
-      $locale == "de" => de.body,
-      $locale == "fr" => fr.body,
-      $locale == "it" => it.body,
-      $locale == "es" => es.body
-    ),
-    en.body,
-    []
-  )
-`
+const slugMatch = locales
+  .map((locale) => `${locale}.slug.current == $slug`)
+  .join(' ||\n    ')
 
 const articlesListQuery = `
 *[_type == "post"] | order(coalesce(publishedAt, _createdAt) desc){
@@ -113,12 +64,7 @@ const articleBySlugQuery = `
 *[
   _type == "post" &&
   (
-    cs.slug.current == $slug ||
-    en.slug.current == $slug ||
-    de.slug.current == $slug ||
-    fr.slug.current == $slug ||
-    it.slug.current == $slug ||
-    es.slug.current == $slug
+    ${slugMatch}
   )
 ][0]{
   _id,
@@ -133,31 +79,19 @@ const articleBySlugQuery = `
 
 const articleSlugsQuery = `
 *[_type == "post"]{
-  "slugs": [
-    cs.slug.current,
-    en.slug.current,
-    de.slug.current,
-    fr.slug.current,
-    it.slug.current,
-    es.slug.current
-  ]
+  "slugs": [${locales.map((locale) => `${locale}.slug.current`).join(', ')}]
 }.slugs[]
 `
 
 export async function getArticles(locale: ArticlesLocale): Promise<ArticleListItem[]> {
-  return client.fetch<ArticleListItem[]>(articlesListQuery, {
-    locale: articlesQueryLocale(locale),
-  })
+  return client.fetch<ArticleListItem[]>(articlesListQuery, {locale})
 }
 
 export async function getArticleBySlug(
   locale: ArticlesLocale,
   slug: string,
 ): Promise<ArticleItem | null> {
-  return client.fetch<ArticleItem | null>(articleBySlugQuery, {
-    locale: articlesQueryLocale(locale),
-    slug,
-  })
+  return client.fetch<ArticleItem | null>(articleBySlugQuery, {locale, slug})
 }
 
 export async function getArticleSlugs(): Promise<string[]> {
@@ -174,12 +108,12 @@ const articleSitemapQuery = `
 *[_type == "post"]{
   _updatedAt,
   "slugs": {
-    "cs": coalesce(cs.slug.current, en.slug.current),
-    "en": coalesce(en.slug.current, cs.slug.current, de.slug.current, fr.slug.current, it.slug.current, es.slug.current),
-    "de": coalesce(de.slug.current, en.slug.current),
-    "fr": coalesce(fr.slug.current, en.slug.current),
-    "it": coalesce(it.slug.current, en.slug.current),
-    "es": coalesce(es.slug.current, en.slug.current)
+    ${locales
+      .map(
+        (locale) =>
+          `"${locale}": coalesce(${locale}.slug.current, en.slug.current)`,
+      )
+      .join(',\n    ')}
   }
 }
 `
