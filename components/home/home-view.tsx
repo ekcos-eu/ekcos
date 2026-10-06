@@ -8,7 +8,7 @@ export async function HomeView() {
   return (
     <BathroomMapBoundary>
       <header className="sr-only">
-        <h1>ëkcos — {hero('title')}</h1>
+        <h1>ëkcos - {hero('title')}</h1>
         <p>
           {hero('tagline')}. {hero('body')}
         </p>

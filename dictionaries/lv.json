@@ -1,9 +1,9 @@
 {
   "Metadata": {
-    "title": "ëkcos — kļūstiet zaļš ar katru flush",
+    "title": "ëkcos - kļūstiet zaļš ar katru flush",
     "description": "Mūsu pisuāru ieliktņi un atsvaidzinātāji ir izgatavoti, izmantojot pārstrādātu EVA. Pašu materiālu var pārstrādāt, bet lietotu pisuāra ieliktni nevar, jo tas ir bioloģiski piesārņots. Tas nonāk atkritumu poligonā vai tiek sadedzināts, tāpēc visiem mūsu produktiem pievienojam piedevu Eco-One™.",
     "productsTitle": "Produkti",
-    "productsDescription": "Izpētiet ëkcos produktus: pārslēdziet modeļus, apdari un opcijas — pēc tam apmeklējiet oficiālo veikalu.",
+    "productsDescription": "Izpētiet ëkcos produktus: pārslēdziet modeļus, apdari un opcijas - pēc tam apmeklējiet oficiālo veikalu.",
     "ecoOneTitle": "Eco-One™",
     "ecoOneDescription": "Mūsu pisuāru ieliktņi un atsvaidzinātāji ir izgatavoti, izmantojot pārstrādātu EVA. Pašu materiālu var pārstrādāt, bet lietotu pisuāra ieliktni nevar, jo tas ir bioloģiski piesārņots. Tas nonāk atkritumu poligonā vai tiek sadedzināts, tāpēc visiem mūsu produktiem pievienojam piedevu Eco-One™.",
     "brandingTitle": "Pielāgots zīmols",
@@ -13,7 +13,7 @@
     "contactTitle": "Sazināties",
     "contactDescription": "Sazinieties ar ëkcos komandu, lai uzzinātu specifikācijas, programmas un partnerības.",
     "privateLabelTitle": "Privātā preču zīme",
-    "privateLabelDescription": "Pārdodiet ëkcos tualetes piederumus ar savu zīmolu — izplatītāju privāto zīmolu.",
+    "privateLabelDescription": "Pārdodiet ëkcos tualetes piederumus ar savu zīmolu - izplatītāju privāto zīmolu.",
     "faqTitle": "FAQ",
     "faqDescription": "Clear answers about ëkcos products, materials, Eco-One™, private label, and ordering.",
     "faqDistributorsTitle": "FAQ for distributors",
@@ -60,7 +60,8 @@
       "label": "FAQ",
       "distributors": "Izplatītāji",
       "eshop": "E-veikals"
-    }
+    },
+    "closeMenu": "Aizvērt izvēlni"
   },
   "footer": {
     "tagline": "Uzņēmums ëkcos innovations piedāvā higiēnas risinājumus, kas uztur tualetes tīras un svaigas, atvieglo apkopi un kuros izmantoti pārstrādāti, bioloģiski noārdāmi materiāli.",
@@ -93,7 +94,7 @@
     "benefits": "Galvenās priekšrocības",
     "more": "Sīkāka informācija",
     "openDetails": "Atveriet detalizētus fotoattēlus",
-    "detailGallery": "Detalizēti fotoattēli — {name}",
+    "detailGallery": "Detalizēti fotoattēli - {name}",
     "detailShot": "detaļa",
     "boundaryError": "Šis produkta skats īslaicīgi nav pieejams. Lūdzu, mēģiniet vēlreiz."
   },
@@ -102,6 +103,14 @@
       "title": "Vai esat gatavs uzlabot savas tualetes?",
       "body": "Pārlūkojiet ëkcos pisuāru ekrānus un piederumus oficiālajā veikalā.",
       "button": "Veikals"
+    },
+    "readMore": "Lasīt rakstu",
+    "empty": "Vēl nav rakstu. Atgriezieties drīz.",
+    "categories": {
+      "guide": "Ceļvedis",
+      "product": "Produkts",
+      "sustainability": "Ilgtspēja",
+      "news": "Jaunumi"
     }
   },
   "newsletter": {
@@ -161,7 +170,7 @@
     },
     "productsTeaser": {
       "title": "Atklājiet mūsu produktus",
-      "body": "Izpētiet xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco klipu un daudz ko citu — pēc tam atveriet oficiālo veikalu.",
+      "body": "Izpētiet xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco klipu un daudz ko citu - pēc tam atveriet oficiālo veikalu.",
       "link": "Skatīt visus produktus"
     },
     "brandingTeaser": {
@@ -171,7 +180,7 @@
     },
     "trust": {
       "title": "Paredzēts prasīgām telpām",
-      "body": "Uzticama higiēna un izcils iespaids uz vietas — no biroja līdz viesmīlībai."
+      "body": "Uzticama higiēna un izcils iespaids uz vietas - no biroja līdz viesmīlībai."
     },
     "newsletter": {
       "title": "Specifikācijas, palaišanas un programmu atjauninājumi",
@@ -186,9 +195,9 @@
     "marketing": {
       "featuresEyebrow": "Vienota platforma",
       "featuresTitle": "Salīdziniet, izlemiet un pērciet ar pārliecību",
-      "featuresSubtitle": "Izpētiet apdari, pārskatiet faktus un atveriet veikalu, kad esat gatavs — viss vienā plūsmā.",
+      "featuresSubtitle": "Izpētiet apdari, pārskatiet faktus un atveriet veikalu, kad esat gatavs - viss vienā plūsmā.",
       "featureInteractTitle": "Interaktīvā specifikācija",
-      "featureInteractBody": "Pārslēdziet modeļus, apdari un smaržas dažu sekunžu laikā — paredzēts objektiem un FM komandām.",
+      "featureInteractBody": "Pārslēdziet modeļus, apdari un smaržas dažu sekunžu laikā - paredzēts objektiem un FM komandām.",
       "featureProofTitle": "Fakti, ar kuriem varat dalīties",
       "featureProofBody": "Notīriet Eco-One™ lejupielādes, lai jūsu komanda varētu izskaidrot izvēli kolēģiem vai klientiem.",
       "featureB2bTitle": "Programmas, kas ir mērogotas",
@@ -246,7 +255,7 @@
     },
     "solution": {
       "title": "Mūsu risinājums: Eco-One™ piedeva",
-      "body1": "Ražošanas laikā mēs iekļaujam aptuveni <bold>1% Eco-One™</bold> — organisku piedevu, kas tiek dozēta tāpat kā krāsviela. Tas neietekmē produkta izturību, izskatu vai veiktspēju.",
+      "body1": "Ražošanas laikā mēs iekļaujam aptuveni <bold>1% Eco-One™</bold> - organisku piedevu, kas tiek dozēta tāpat kā krāsviela. Tas neietekmē produkta izturību, izskatu vai veiktspēju.",
       "body2": "Bioloģiski aktīvā poligonā dabiski sastopami mikroorganismi fermentatīvās aktivitātes rezultātā noārda apstrādāto plastmasu, pārvēršot to biogāzē (<bold>metānā</bold>, ko mūsdienu poligonos uztver enerģijas reģenerācijai), oglekļa dioksīdā un humusā.",
       "body3": "Tā kā produkts galu galā sadalās humusā, tas atdod organiskās vielas atkritumu poligonā un palīdz paātrināt tur jau notiekošos bioķīmiskos procesus. Tāpēc produkts <bold> sniedz ieguldījumu ne tikai tā kalpošanas laikā, bet arī pēc tā</bold>."
     },
@@ -278,10 +287,10 @@
     },
     "closing": {
       "title": "ëkcos produkti ar Eco-One™",
-      "body": "Mūsu tualetes produkti tiek ražoti ar Eco-One™ piedevu. Neatkarīgā laboratorijas pārbaudē ëkcos EVA ar Eco-One™ sasniedza 93% bioloģisko noārdīšanos 3,5 gadu laikā, un līdz 99% tiek prognozēts 5 gadu laikā poligona apstākļos — ar veiktspēju identiski produktiem bez piedevas.",
+      "body": "Mūsu tualetes produkti tiek ražoti ar Eco-One™ piedevu. Neatkarīgā laboratorijas pārbaudē ëkcos EVA ar Eco-One™ sasniedza 93% bioloģisko noārdīšanos 3,5 gadu laikā, un līdz 99% tiek prognozēts 5 gadu laikā poligona apstākļos - ar veiktspēju identiski produktiem bez piedevas.",
       "shopCta": "Veikals"
     },
-    "footnote": "Datu avots: neatkarīgs bioloģiskās noārdīšanās tests atbilstoši ASTM D5511-02 un ISO 15985:2014 (Instituto Politécnico Nacional, Mehiko) — ëkcos produkts ar 1% Eco-One™ piedevu: 93,31% bioloģiskā noārdīšanās. 1,283 dienās (≈283 dienās); tas pats produkts bez piedevas: 0%. Bioloģiskā noārdīšanās pēc testa perioda (līdz 99% ~ 5 gadu laikā) tiek prognozēta no izmērītās tendences. Parastās plastmasas noturības rādītāji (≈300–1000 gadi) ir plaši citēti nozares aprēķini. Eco-One™ piedevu ražo un sertificē EcoLogic, LLC."
+    "footnote": "Datu avots: neatkarīgs bioloģiskās noārdīšanās tests atbilstoši ASTM D5511-02 un ISO 15985:2014 (Instituto Politécnico Nacional, Mehiko) - ëkcos produkts ar 1% Eco-One™ piedevu: 93,31% bioloģiskā noārdīšanās. 1,283 dienās (≈283 dienās); tas pats produkts bez piedevas: 0%. Bioloģiskā noārdīšanās pēc testa perioda (līdz 99% ~ 5 gadu laikā) tiek prognozēta no izmērītās tendences. Parastās plastmasas noturības rādītāji (≈300–1000 gadi) ir plaši citēti nozares aprēķini. Eco-One™ piedevu ražo un sertificē EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {
@@ -295,7 +304,7 @@
     "sections": {
       "private": {
         "title": "Privātais zīmols",
-        "body": "Jūsu mākslas darbi tiek konsekventi apstrādāti no apstiprināšanas līdz ražošanai — lai katra partija atbilstu jūsu zīmolam."
+        "body": "Jūsu mākslas darbi tiek konsekventi apstrādāti no apstiprināšanas līdz ražošanai - lai katra partija atbilstu jūsu zīmolam."
       },
       "cutouts": {
         "title": "Pielāgoti izgriezumi",
@@ -348,7 +357,7 @@
     "hero": {
       "eyebrow": "Tehniskais un komerciālais atbalsts",
       "title": "Sazināties",
-      "subtitle": "Jautājiet mums par Eco-One™, specifikācijām vai B2B programmām — veiciet pasūtījumus jebkurā laikā oficiālajā veikalā."
+      "subtitle": "Jautājiet mums par Eco-One™, specifikācijām vai B2B programmām - veiciet pasūtījumus jebkurā laikā oficiālajā veikalā."
     },
     "details": {
       "title": "Sazināties",
@@ -369,7 +378,7 @@
       "phone": "Tālrunis",
       "message": "Ziņojums",
       "submit": "Nosūtīt ziņu",
-      "success": "Paldies — mēs drīzumā ar jums sazināsimies.",
+      "success": "Paldies - mēs drīzumā ar jums sazināsimies.",
       "error": "Kaut kas nogāja greizi. Lūdzu, mēģiniet vēlreiz."
     }
   },
@@ -379,7 +388,7 @@
       "intro": "Switch models and finishes, then buy in the official store.",
       "heroEyebrow": "Explore the range",
       "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
       "heroLinkEco": "About Eco-One™",
       "heroLinkBranding": "Custom branding"
     },
@@ -686,7 +695,7 @@
       "eyebrow": "Izplatītājiem",
       "title": "Privāto preču zīmju programma",
       "lead": "Pārdodiet mūsu produktus ar savu zīmolu",
-      "body": "Attīstiet savu biznesu, izmantojot savu produktu līniju. Mūsu Private Label programma ļauj izplatītājiem pievienot savam portfelim pārbaudītus, augstas veiktspējas tualetes produktus un pārdot tos ar savu zīmolu — bez jūsu pašu izstrādes vai instrumentiem. Viss, kas mums nepieciešams, ir jūsu logotips; par pārējo parūpēsimies mēs.",
+      "body": "Attīstiet savu biznesu, izmantojot savu produktu līniju. Mūsu Private Label programma ļauj izplatītājiem pievienot savam portfelim pārbaudītus, augstas veiktspējas tualetes produktus un pārdot tos ar savu zīmolu - bez jūsu pašu izstrādes vai instrumentiem. Viss, kas mums nepieciešams, ir jūsu logotips; par pārējo parūpēsimies mēs.",
       "cta": "Kļūsti par partneri"
     },
     "why": {
@@ -694,7 +703,7 @@
       "items": {
         "0": {
           "title": "Pārbaudīti risinājumi",
-          "body": "Katrs produkts ir intensīvas izstrādes rezultāts un izstrādāts optimālai, uzticamai veiktspējai — klāsts, kurā varat droši pieminēt savu vārdu."
+          "body": "Katrs produkts ir intensīvas izstrādes rezultāts un izstrādāts optimālai, uzticamai veiktspējai - klāsts, kurā varat droši pieminēt savu vārdu."
         },
         "1": {
           "title": "Viegla pielāgošana",
@@ -714,14 +723,14 @@
       },
       "cutout": {
         "title": "Logotipa izgriezums",
-        "body": "Jūsu logotips ir integrēts pašā materiālā kā unikāls izgriezums — īpatnēja, augstākās kvalitātes apdare, ko nepiedāvā neviens cits ražotājs, un spēcīga atšķirība jūsu diapazonam."
+        "body": "Jūsu logotips ir integrēts pašā materiālā kā unikāls izgriezums - īpatnēja, augstākās kvalitātes apdare, ko nepiedāvā neviens cits ražotājs, un spēcīga atšķirība jūsu diapazonam."
       }
     },
     "beyond": {
       "title": "Pielāgojiet ārpus produkta",
       "packaging": {
         "title": "Iepakojums un etiķetes",
-        "body": "Pievienojiet savu logotipu, uzņēmuma informāciju, produktu nosaukumus un aprakstus, EAN kodus un daudz ko citu kastēm, galvenajām kastēm vai atsevišķiem produktu maisiņiem — gatavs mazumtirdzniecībai ar savu zīmolu."
+        "body": "Pievienojiet savu logotipu, uzņēmuma informāciju, produktu nosaukumus un aprakstus, EAN kodus un daudz ko citu kastēm, galvenajām kastēm vai atsevišķiem produktu maisiņiem - gatavs mazumtirdzniecībai ar savu zīmolu."
       },
       "mix": {
         "title": "Krāsa & aromāts",
@@ -732,7 +741,7 @@
       "title": "Labi zināt",
       "items": {
         "0": "Minimālais pasūtījuma daudzums ir atkarīgs no konkrētā izvēlētā produkta.",
-        "1": "Par katru produktu, kuru vēlaties izveidot zīmolu, tiek piemērota vienreizēja iestatīšanas maksa — tā sedz rīkus un sagatavošanu, kas nepieciešama zīmola reproducēšanai.",
+        "1": "Par katru produktu, kuru vēlaties izveidot zīmolu, tiek piemērota vienreizēja iestatīšanas maksa - tā sedz rīkus un sagatavošanu, kas nepieciešama zīmola reproducēšanai.",
         "2": "Visi zīmola produkti tiek izgatavoti pēc pasūtījuma, pēc jūsu specifikācijas.",
         "3": "Mēs kopīgojam precīzus minimālos daudzumus, cenas un izpildes laiku kopā ar jūsu piedāvājumu, tiklīdz būsim sapratuši jūsu īpašās prasības."
       }
@@ -745,12 +754,12 @@
       "email": "E-pasts",
       "phone": "Tālrunis",
       "products": "Preces privātai preču zīmei",
-      "productsHint": "Ievadiet to produktu daudzumu, kuriem vēlaties piešķirt zīmolu. Jums nav jāaizpilda katrs produkts — mēs apspriedīsim sīkāku informāciju pēc jūsu pieprasījuma.",
+      "productsHint": "Ievadiet to produktu daudzumu, kuriem vēlaties piešķirt zīmolu. Jums nav jāaizpilda katrs produkts - mēs apspriedīsim sīkāku informāciju pēc jūsu pieprasījuma.",
       "quantity": "Daudzums (gab.)",
       "message": "Ziņojums",
       "submit": "Nosūtīt ziņu",
       "submitting": "Notiek sūtīšana…",
-      "success": "Paldies — mēs drīzumā ar jums sazināsimies.",
+      "success": "Paldies - mēs drīzumā ar jums sazināsimies.",
       "error": "Kaut kas nogāja greizi. Lūdzu, pēc brīža mēģiniet vēlreiz.",
       "alertSelect": "Lūdzu, ievadiet daudzumu vismaz vienam produktam. Jums nav jāpasūta katrs produkts.",
       "boundaryError": "Pieprasījuma veidlapu nevarēja ielādēt. Lūdzu, atsvaidziniet lapu vai rakstiet uz support@ekcos.eu."
@@ -775,7 +784,7 @@
     "hub": {
       "title": "FAQ",
       "tagline": "Your questions, our facts",
-      "intro": "Choose the FAQ that matches how you buy from ëkcos — as a distributor partner, or as an e-shop customer.",
+      "intro": "Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.",
       "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
       "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
     }

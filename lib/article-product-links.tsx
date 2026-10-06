@@ -21,7 +21,12 @@ export type ProductImageAltLookup = (shopPath: string) => string
 const ECO_ONE_LINK_CLASS =
   'font-semibold text-[#0F68B2] underline underline-offset-2 transition-colors hover:text-[#0d5a9a]'
 
+const EMAIL_LINK_CLASS =
+  'font-semibold text-[#0F68B2] underline underline-offset-2 transition-colors hover:text-[#0d5a9a]'
+
 const ECO_ONE_PATTERN = /Eco-One™/g
+
+const EMAIL_PATTERN = /[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/g
 
 /** Display-name aliases (as they appear in article / FAQ copy) → shop collection path */
 const PRODUCT_NAME_ALIASES: ProductLinkMatch[] = [
@@ -117,6 +122,41 @@ function linkifyProducts(
   return nodes.length > 0 ? nodes : [text]
 }
 
+function linkifyEmails(
+  text: string,
+  getImageAlt: ProductImageAltLookup,
+): ReactNode[] {
+  const nodes: ReactNode[] = []
+  let lastIndex = 0
+  const pattern = new RegExp(EMAIL_PATTERN.source, EMAIL_PATTERN.flags)
+
+  let match: RegExpExecArray | null
+  while ((match = pattern.exec(text)) !== null) {
+    if (match.index > lastIndex) {
+      nodes.push(
+        ...linkifyProducts(text.slice(lastIndex, match.index), getImageAlt),
+      )
+    }
+    const email = match[0]
+    nodes.push(
+      <a
+        key={`email-${match.index}-${email}`}
+        href={`mailto:${email}`}
+        className={EMAIL_LINK_CLASS}
+      >
+        {email}
+      </a>,
+    )
+    lastIndex = match.index + email.length
+  }
+
+  if (lastIndex < text.length) {
+    nodes.push(...linkifyProducts(text.slice(lastIndex), getImageAlt))
+  }
+
+  return nodes.length > 0 ? nodes : [text]
+}
+
 function linkifyText(
   text: string,
   getImageAlt: ProductImageAltLookup,
@@ -129,7 +169,7 @@ function linkifyText(
   while ((match = ecoPattern.exec(text)) !== null) {
     if (match.index > lastIndex) {
       nodes.push(
-        ...linkifyProducts(text.slice(lastIndex, match.index), getImageAlt),
+        ...linkifyEmails(text.slice(lastIndex, match.index), getImageAlt),
       )
     }
     nodes.push(
@@ -145,10 +185,21 @@ function linkifyText(
   }
 
   if (lastIndex < text.length) {
-    nodes.push(...linkifyProducts(text.slice(lastIndex), getImageAlt))
+    nodes.push(...linkifyEmails(text.slice(lastIndex), getImageAlt))
   }
 
   return nodes.length > 0 ? nodes : [text]
+}
+
+/**
+ * Link Eco-One™ → /eco-one, emails → mailto, and product names → eshop (with hover preview).
+ * Use for plain marketing strings (FAQ, etc.).
+ */
+export function linkifyPlainText(
+  text: string,
+  getImageAlt: ProductImageAltLookup = () => '',
+): ReactNode {
+  return <>{linkifyText(text, getImageAlt)}</>
 }
 
 const PRODUCT_ALT_KEYS: Record<string, string> = {
@@ -173,17 +224,6 @@ export function createProductImageAltLookup(
     imageAlts[shopPath] = t(key)
   }
   return (shopPath) => imageAlts[shopPath] ?? ''
-}
-
-/**
- * Link Eco-One™ → /eco-one and product names → eshop (with hover preview).
- * Use for plain marketing strings (FAQ, etc.).
- */
-export function linkifyPlainText(
-  text: string,
-  getImageAlt: ProductImageAltLookup = () => '',
-): ReactNode {
-  return <>{linkifyText(text, getImageAlt)}</>
 }
 
 type ElementWithChildren = ReactElement<{ children?: ReactNode }>

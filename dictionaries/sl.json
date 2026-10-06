@@ -1,9 +1,9 @@
 {
   "Metadata": {
-    "title": "ëkcos — Postanite zeleni z vsakim izpiranjem",
+    "title": "ëkcos - Postanite zeleni z vsakim izpiranjem",
     "description": "Naše mrežice za pisoarje in osvežilci so izdelani z recikliranim EVA materialom. Sam material je mogoče reciklirati, uporabljene mrežice za pisoar pa ne, ker je biološko kontaminirana. Konča na odlagališču odpadkov ali v sežigalnici, zato vsem našim izdelkom dodajamo aditiv Eco-One™.",
     "productsTitle": "Izdelki",
-    "productsDescription": "Raziščite izdelke ëkcos: zamenjajte modele, zaključke in možnosti — nato obiščite uradno trgovino.",
+    "productsDescription": "Raziščite izdelke ëkcos: zamenjajte modele, zaključke in možnosti - nato obiščite uradno trgovino.",
     "ecoOneTitle": "Eco-One™",
     "ecoOneDescription": "Naše mrežice za pisoarje in osvežilci so izdelani z recikliranim EVA materialom. Sam material je mogoče reciklirati, uporabljene mrežice za pisoar pa ne, ker je biološko kontaminirana. Konča na odlagališču odpadkov ali v sežigalnici, zato vsem našim izdelkom dodajamo aditiv Eco-One™.",
     "brandingTitle": "Blagovna znamka po meri",
@@ -13,7 +13,7 @@
     "contactTitle": "Kontakt",
     "contactDescription": "Za specifikacije, programe in partnerstva se obrnite na ekipo ëkcos.",
     "privateLabelTitle": "Zasebna blagovna znamka",
-    "privateLabelDescription": "Prodajajte izdelke za stranišča ëkcos pod lastno blagovno znamko — zasebna blagovna znamka za distributerje.",
+    "privateLabelDescription": "Prodajajte izdelke za stranišča ëkcos pod lastno blagovno znamko - zasebna blagovna znamka za distributerje.",
     "faqTitle": "FAQ",
     "faqDescription": "Clear answers about ëkcos products, materials, Eco-One™, private label, and ordering.",
     "faqDistributorsTitle": "FAQ for distributors",
@@ -60,7 +60,8 @@
       "label": "pogosta vprašanja",
       "distributors": "Distributerji",
       "eshop": "E-shop"
-    }
+    },
+    "closeMenu": "Zapri meni"
   },
   "footer": {
     "tagline": "Podjetje ëkcos innovations ponuja higienske rešitve, ki ohranjajo sanitarije čiste in sveže, olajšajo vzdrževanje ter uporabljajo reciklirane, biorazgradljive materiale.",
@@ -93,7 +94,7 @@
     "benefits": "Ključne prednosti",
     "more": "Več podrobnosti",
     "openDetails": "Odprite podrobne fotografije",
-    "detailGallery": "Podrobne fotografije — {name}",
+    "detailGallery": "Podrobne fotografije - {name}",
     "detailShot": "detajl",
     "boundaryError": "Ta pogled izdelka trenutno ni na voljo. prosim poskusite ponovno"
   },
@@ -102,6 +103,14 @@
       "title": "Ste pripravljeni nadgraditi svoje stranišče?",
       "body": "Prebrskajte zaslone za pisoarje in dodatke ëkcos v uradni trgovini.",
       "button": "Trgovina"
+    },
+    "readMore": "Preberi članek",
+    "empty": "Še ni člankov. Preverite kmalu.",
+    "categories": {
+      "guide": "Vodnik",
+      "product": "Izdelek",
+      "sustainability": "Trajnost",
+      "news": "Novice"
     }
   },
   "newsletter": {
@@ -161,7 +170,7 @@
     },
     "productsTeaser": {
       "title": "Odkrijte naše izdelke",
-      "body": "Raziščite xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip in več — nato odprite uradno trgovino.",
+      "body": "Raziščite xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip in več - nato odprite uradno trgovino.",
       "link": "Poglej vse izdelke"
     },
     "brandingTeaser": {
@@ -171,7 +180,7 @@
     },
     "trust": {
       "title": "Zgrajen za zahtevne objekte",
-      "body": "Zanesljiva higiena in vrhunski vtis na mestu — od pisarn do gostinstva."
+      "body": "Zanesljiva higiena in vrhunski vtis na mestu - od pisarn do gostinstva."
     },
     "newsletter": {
       "title": "Specifikacije, zagoni in posodobitve programa",
@@ -225,7 +234,7 @@
     },
     "problem": {
       "title": "Zakaj je običajna plastika problem",
-      "body": "Navadni plastični izdelki so izdelani tako, da trajajo. Brez dodatka za biorazgradnjo lahko plastični izdelek, poslan na odlagališče, tam ostane <bold>300 do 1000 let</bold>; penaste cokle v slogu Crocs so znan primer plastike, ki <bold>ni biorazgradljiva</bold>. Naši izdelki so narejeni iz iste vrste trpežne plastike (EVA) — vendar z eno odločilno razliko: aditiv Eco-One™.",
+      "body": "Navadni plastični izdelki so izdelani tako, da trajajo. Brez dodatka za biorazgradnjo lahko plastični izdelek, poslan na odlagališče, tam ostane <bold>300 do 1000 let</bold>; penaste cokle v slogu Crocs so znan primer plastike, ki <bold>ni biorazgradljiva</bold>. Naši izdelki so narejeni iz iste vrste trpežne plastike (EVA) - vendar z eno odločilno razliko: aditiv Eco-One™.",
       "chartAlt": "Izdelki brez Eco-One™ v primerjavi z izdelki ëkcos, ki vsebujejo aditiv",
       "chartCaption": "Izdelki brez Eco-One™ v primerjavi z izdelki ëkcos, ki vsebujejo aditiv.",
       "chart": {
@@ -278,10 +287,10 @@
     },
     "closing": {
       "title": "ëkcos izdelki z Eco-One™",
-      "body": "Naši izdelki za umivanje so izdelani z dodatkom Eco-One™. V neodvisnem laboratorijskem testu je ëkcos EVA z Eco-One™ dosegel 93-odstotno biorazgradljivost v 3,5 letih in do 99-odstotno je predvideno v 5 letih v pogojih na odlagališčih — z zmogljivostjo, ki je enaka izdelkom brez dodatka.",
+      "body": "Naši izdelki za umivanje so izdelani z dodatkom Eco-One™. V neodvisnem laboratorijskem testu je ëkcos EVA z Eco-One™ dosegel 93-odstotno biorazgradljivost v 3,5 letih in do 99-odstotno je predvideno v 5 letih v pogojih na odlagališčih - z zmogljivostjo, ki je enaka izdelkom brez dodatka.",
       "shopCta": "Trgovina"
     },
-    "footnote": "Vir podatkov: neodvisni test biorazgradljivosti po ASTM D5511-02 in ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) — izdelek ëkcos z 1 % dodatka Eco-One™: 93,31 % biorazgradnja v 1288 dneh (≈3,5 leta); isti izdelek brez aditiva: 0 %. Iz izmerjenega trenda je predvidena biorazgradnja po preskusnem obdobju (do 99 % v približno 5 letih). Podatki o obstojnosti običajne plastike (≈300–1000 let) so ocene industrije, ki se pogosto citirajo. Aditiv Eco-One™ izdeluje in certificira EcoLogic, LLC."
+    "footnote": "Vir podatkov: neodvisni test biorazgradljivosti po ASTM D5511-02 in ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) - izdelek ëkcos z 1 % dodatka Eco-One™: 93,31 % biorazgradnja v 1288 dneh (≈3,5 leta); isti izdelek brez aditiva: 0 %. Iz izmerjenega trenda je predvidena biorazgradnja po preskusnem obdobju (do 99 % v približno 5 letih). Podatki o obstojnosti običajne plastike (≈300–1000 let) so ocene industrije, ki se pogosto citirajo. Aditiv Eco-One™ izdeluje in certificira EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {
@@ -348,7 +357,7 @@
     "hero": {
       "eyebrow": "Tehnična in komercialna podpora",
       "title": "Kontakt",
-      "subtitle": "Vprašajte nas o Eco-One™, specifikacijah ali B2B programih — kadar koli oddajte naročila v uradni trgovini."
+      "subtitle": "Vprašajte nas o Eco-One™, specifikacijah ali B2B programih - kadar koli oddajte naročila v uradni trgovini."
     },
     "details": {
       "title": "Kontakt",
@@ -369,7 +378,7 @@
       "phone": "Telefon",
       "message": "Sporočilo",
       "submit": "Pošlji sporočilo",
-      "success": "Hvala — kmalu vam bomo odgovorili.",
+      "success": "Hvala - kmalu vam bomo odgovorili.",
       "error": "Nekaj ​​je šlo narobe. prosim poskusite ponovno"
     }
   },
@@ -379,7 +388,7 @@
       "intro": "Switch models and finishes, then buy in the official store.",
       "heroEyebrow": "Explore the range",
       "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
       "heroLinkEco": "About Eco-One™",
       "heroLinkBranding": "Custom branding"
     },
@@ -714,7 +723,7 @@
       },
       "cutout": {
         "title": "Izrez logotipa",
-        "body": "Vaš logotip je vgrajen v sam material kot edinstven izrez — značilen, vrhunski zaključek, ki ga ne ponuja noben drug proizvajalec, in močno razlikovanje za vašo ponudbo."
+        "body": "Vaš logotip je vgrajen v sam material kot edinstven izrez - značilen, vrhunski zaključek, ki ga ne ponuja noben drug proizvajalec, in močno razlikovanje za vašo ponudbo."
       }
     },
     "beyond": {
@@ -750,7 +759,7 @@
       "message": "Sporočilo",
       "submit": "Pošlji sporočilo",
       "submitting": "Pošiljanje ...",
-      "success": "Hvala — kmalu vam bomo odgovorili.",
+      "success": "Hvala - kmalu vam bomo odgovorili.",
       "error": "Nekaj ​​je šlo narobe. Poskusite znova čez trenutek.",
       "alertSelect": "Vnesite količino za vsaj en izdelek. Ni vam treba naročiti vsakega izdelka.",
       "boundaryError": "Obrazca za povpraševanje ni bilo mogoče naložiti. Osvežite stran ali pišite na support@ekcos.eu."
@@ -775,7 +784,7 @@
     "hub": {
       "title": "FAQ",
       "tagline": "Your questions, our facts",
-      "intro": "Choose the FAQ that matches how you buy from ëkcos — as a distributor partner, or as an e-shop customer.",
+      "intro": "Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.",
       "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
       "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
     }

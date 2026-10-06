@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "title": "ëkcos — muutuge iga mastiga roheliseks",
+    "title": "ëkcos - muutuge iga mastiga roheliseks",
     "description": "Meie pissuaarisõelte ja värskendajate valmistamisel kasutatakse ringlussevõetud EVA-materjali. Materjali ennast saab ringlusse võtta, kuid kasutatud pissuaarisõela mitte, sest see on bioloogiliselt saastunud. See jõuab prügilasse või põletusse ja seetõttu lisame kõigile oma toodetele lisandit Eco-One™.",
     "productsTitle": "Tooted",
     "productsDescription": "Avastage ëkcos tooteid: vahetage mudeleid, viimistlusi ja valikuid – seejärel külastage ametlikku poodi.",
@@ -60,7 +60,8 @@
       "label": "KKK",
       "distributors": "Distribuutorid",
       "eshop": "E-pood"
-    }
+    },
+    "closeMenu": "Sulge menüü"
   },
   "footer": {
     "tagline": "ëkcos innovations pakub hügieenilahendusi, mis hoiavad tualettruumid puhtana ja värskena, lihtsustavad hooldust ning kasutavad ringlussevõetud ja biolagunevaid materjale.",
@@ -93,7 +94,7 @@
     "benefits": "Peamised eelised",
     "more": "Täpsemalt",
     "openDetails": "Avage üksikasjalikud fotod",
-    "detailGallery": "Üksikasjalikud fotod — {name}",
+    "detailGallery": "Üksikasjalikud fotod - {name}",
     "detailShot": "detail",
     "boundaryError": "See tootevaade pole ajutiselt saadaval. Palun proovi uuesti."
   },
@@ -102,6 +103,14 @@
       "title": "Kas olete valmis oma tualette uuendama?",
       "body": "Sirvige ametlikus poes ëkcos pissuaariekraane ja tarvikuid.",
       "button": "Pood"
+    },
+    "readMore": "Loe artiklit",
+    "empty": "Artikleid pole veel. Tule peagi tagasi.",
+    "categories": {
+      "guide": "Juhend",
+      "product": "Toode",
+      "sustainability": "Jätkusuutlikkus",
+      "news": "Uudised"
     }
   },
   "newsletter": {
@@ -379,7 +388,7 @@
       "intro": "Switch models and finishes, then buy in the official store.",
       "heroEyebrow": "Explore the range",
       "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
       "heroLinkEco": "About Eco-One™",
       "heroLinkBranding": "Custom branding"
     },
@@ -776,7 +785,7 @@
     "hub": {
       "title": "FAQ",
       "tagline": "Your questions, our facts",
-      "intro": "Choose the FAQ that matches how you buy from ëkcos — as a distributor partner, or as an e-shop customer.",
+      "intro": "Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.",
       "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
       "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
     }

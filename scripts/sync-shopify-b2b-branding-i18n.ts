@@ -72,7 +72,7 @@ const CB_EN: Record<string, string> = {
   cb_title: "Custom Branding",
   cb_lead: "Put your logo on the products you use",
   cb_intro:
-    "Make our products your own. With custom branding we personalize our proven washroom products with your logo, so every detail reflects your business. Ideal for restaurants, hotels, facility and cleaning companies, offices and chains that want a consistent, professional impression across all locations. All we need is your logo — we take care of the rest.",
+    "Make our products your own. With custom branding we personalize our proven washroom products with your logo, so every detail reflects your business. Ideal for restaurants, hotels, facility and cleaning companies, offices and chains that want a consistent, professional impression across all locations. All we need is your logo - we take care of the rest.",
   cb_cta_label: "Request a quote",
   cb_why_title: "Why choose custom branding",
   cb_why_1_title: "Proven products",
@@ -89,7 +89,7 @@ const CB_EN: Record<string, string> = {
   cb_way_print_body: "Your logo printed directly onto the product.",
   cb_way_cutout_title: "Logo cut-out",
   cb_way_cutout_body:
-    "Your logo integrated into the material itself as a unique cut-out — a distinctive, premium finish that no other manufacturer offers.",
+    "Your logo integrated into the material itself as a unique cut-out - a distinctive, premium finish that no other manufacturer offers.",
   cb_beyond_title: "Customize beyond the product",
   cb_beyond_pack_title: "Packaging & labels",
   cb_beyond_pack_body:
@@ -102,9 +102,9 @@ const CB_EN: Record<string, string> = {
     "Published fees: one-time setup, per-unit branding, and optional packaging labels.",
   cb_card_1_title: "One-time entry fee",
   cb_card_1_item_1:
-    "Option A: Logo cut-out — one-time fee of 350 EUR per product (mold inserts).",
+    "Option A: Logo cut-out - one-time fee of 350 EUR per product (mold inserts).",
   cb_card_1_item_2:
-    "Option B: Print — one-time fee of 120 EUR per product (printing plates).",
+    "Option B: Print - one-time fee of 120 EUR per product (printing plates).",
   cb_card_2_title: "Branding cost",
   cb_card_2_item_1:
     "Option A: Logo cut-out is free of charge after paying the entry fee.",
@@ -121,7 +121,7 @@ const CB_EN: Record<string, string> = {
   cb_good_1:
     "The minimum order quantity depends on the specific product you choose.",
   cb_good_2:
-    "A one-time set-up fee applies for each product you wish to brand — it covers the tooling and preparation needed to reproduce your branding.",
+    "A one-time set-up fee applies for each product you wish to brand - it covers the tooling and preparation needed to reproduce your branding.",
   cb_good_3:
     "All branded products are made to order, to your specification.",
   cb_good_4:
@@ -139,11 +139,11 @@ const CB_EN: Record<string, string> = {
   cb_label_phone: "Phone",
   cb_label_products: "Products for custom branding",
   cb_products_hint:
-    "Enter a quantity for the products you want to brand. You do not need to fill in every product — we will discuss details after your inquiry.",
+    "Enter a quantity for the products you want to brand. You do not need to fill in every product - we will discuss details after your inquiry.",
   cb_label_quantity: "Qty (pcs)",
   cb_label_message: "Message",
   cb_submit_label: "Send message",
-  cb_form_success: "Thank you — we will get back to you shortly.",
+  cb_form_success: "Thank you - we will get back to you shortly.",
   cb_alert_select:
     "Please enter a quantity for at least one product. You do not need to order every product.",
 }
@@ -287,7 +287,7 @@ function liquidAssign(key: string, value: string): string {
   if (!cleaned.includes('"')) {
     return `    {% assign ${key} = "${cleaned.replace(/\\/g, "\\\\")}" %}`
   }
-  // Both quote types present — strip double quotes (rare in these pages)
+  // Both quote types present - strip double quotes (rare in these pages)
   const safe = cleaned.replace(/"/g, "'")
   return `    {% assign ${key} = "${safe.replace(/\\/g, "\\\\")}" %}`
 }
@@ -432,7 +432,7 @@ async function main() {
   const needCb = MISSING.some((p) => !cb.includes(`{% when '${p}' %}`))
 
   if (needB2b) {
-    // Remove any partial missing whens if re-run — only inject missing ones
+    // Remove any partial missing whens if re-run - only inject missing ones
     const toAdd = b2bBlocks.filter((block) => {
       const m = block.match(/when '(\w+)'/)
       return m && !b2b.includes(`{% when '${m[1]}' %}`)
@@ -557,7 +557,7 @@ async function main() {
           translatableContentDigest: titleContent.digest,
         })
       }
-      // Page body is unused — copy lives in theme section case blocks.
+      // Page body is unused - copy lives in theme section case blocks.
       void bodyContent
       if (!translations.length || DRY) continue
       const data = await gql(

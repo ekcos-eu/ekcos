@@ -1,9 +1,9 @@
 {
   "Metadata": {
-    "title": "ëkcos — Bądź ekologiczny przy każdym spłukaniu",
+    "title": "ëkcos - Bądź ekologiczny przy każdym spłukaniu",
     "description": "Nasze sitka do pisuarów i odświeżacze powstają z wykorzystaniem EVA z recyklingu. Sam materiał nadaje się do recyklingu, ale zużyte sitko do pisuaru już nie, ponieważ jest skażone biologicznie. Trafia na składowisko odpadów lub do spalarni, dlatego we wszystkich naszych produktach stosujemy dodatek Eco-One™.",
     "productsTitle": "Produkty",
-    "productsDescription": "Przeglądaj produkty ëkcos: zmieniaj modele, wykończenia i opcje — a następnie odwiedź oficjalny sklep.",
+    "productsDescription": "Przeglądaj produkty ëkcos: zmieniaj modele, wykończenia i opcje - a następnie odwiedź oficjalny sklep.",
     "ecoOneTitle": "Eco-One™",
     "ecoOneDescription": "Nasze sitka do pisuarów i odświeżacze powstają z wykorzystaniem EVA z recyklingu. Sam materiał nadaje się do recyklingu, ale zużyte sitko do pisuaru już nie, ponieważ jest skażone biologicznie. Trafia na składowisko odpadów lub do spalarni, dlatego we wszystkich naszych produktach stosujemy dodatek Eco-One™.",
     "brandingTitle": "Niestandardowe oznakowanie",
@@ -13,7 +13,7 @@
     "contactTitle": "Kontakt",
     "contactDescription": "Skontaktuj się z zespołem ëkcos, aby uzyskać specyfikacje, programy i partnerstwa.",
     "privateLabelTitle": "Marka prywatna",
-    "privateLabelDescription": "Sprzedawaj produkty do łazienek ëkcos pod własną marką — marką prywatną dla dystrybutorów.",
+    "privateLabelDescription": "Sprzedawaj produkty do łazienek ëkcos pod własną marką - marką prywatną dla dystrybutorów.",
     "faqTitle": "FAQ",
     "faqDescription": "Jasne odpowiedzi o produktach ëkcos, materiałach, Eco-One™, private label i zamówieniach.",
     "faqDistributorsTitle": "FAQ dla dystrybutorów",
@@ -60,7 +60,8 @@
       "label": "Często zadawane pytania",
       "distributors": "Dystrybutorzy",
       "eshop": "E-sklep"
-    }
+    },
+    "closeMenu": "Zamknij menu"
   },
   "footer": {
     "tagline": "ëkcos innovations dostarcza rozwiązania higieniczne, które utrzymują toalety czyste i świeże, ułatwiają konserwację i wykorzystują biodegradowalne materiały z recyklingu.",
@@ -93,7 +94,7 @@
     "benefits": "Kluczowe korzyści",
     "more": "Więcej szczegółów",
     "openDetails": "Otwórz szczegółowe zdjęcia",
-    "detailGallery": "Zdjęcia szczegółów — {name}",
+    "detailGallery": "Zdjęcia szczegółów - {name}",
     "detailShot": "szczegół",
     "boundaryError": "Ten widok produktu jest chwilowo niedostępny. Spróbuj ponownie."
   },
@@ -102,6 +103,14 @@
       "title": "Gotowy na modernizację swoich toalet?",
       "body": "Przeglądaj ekrany i akcesoria do pisuarów ëkcos w oficjalnym sklepie.",
       "button": "Sklep"
+    },
+    "readMore": "Czytaj artykuł",
+    "empty": "Brak artykułów. Wróć wkrótce.",
+    "categories": {
+      "guide": "Poradnik",
+      "product": "Produkt",
+      "sustainability": "Zrównoważony rozwój",
+      "news": "Aktualności"
     }
   },
   "newsletter": {
@@ -171,7 +180,7 @@
     },
     "trust": {
       "title": "Zbudowany dla wymagających obiektów",
-      "body": "Niezawodna higiena i doskonałe wrażenie na miejscu — od biur po hotele."
+      "body": "Niezawodna higiena i doskonałe wrażenie na miejscu - od biur po hotele."
     },
     "newsletter": {
       "title": "Dane techniczne, premiery i aktualizacje programu",
@@ -188,7 +197,7 @@
       "featuresTitle": "Porównuj, decyduj i kupuj bez obaw",
       "featuresSubtitle": "Przeglądaj wykończenia, przejrzyj fakty i otwórz sklep, kiedy będziesz gotowy – wszystko w jednym procesie.",
       "featureInteractTitle": "Specyfikacja interaktywna",
-      "featureInteractBody": "Zmień modele, wykończenia i zapachy w ciągu kilku sekund — stworzone dla zespołów obiektowych i FM.",
+      "featureInteractBody": "Zmień modele, wykończenia i zapachy w ciągu kilku sekund - stworzone dla zespołów obiektowych i FM.",
       "featureProofTitle": "Fakty, którymi możesz się podzielić",
       "featureProofBody": "Wyczyść pliki do pobrania Eco-One™, aby Twój zespół mógł wyjaśnić wybór współpracownikom lub klientom.",
       "featureB2bTitle": "Programy, które skalują",
@@ -225,7 +234,7 @@
     },
     "problem": {
       "title": "Dlaczego zwykły plastik stanowi problem",
-      "body": "Zwykłe produkty z tworzyw sztucznych zostały zaprojektowane z myślą o trwałości. Bez dodatku biodegradującego produkt z tworzywa sztucznego wysłany na wysypisko może tam pozostać przez <bold>300 do 1000 lat</bold>; Piankowe chodaki w stylu Crocs są znanym przykładem plastiku, który <bold>nie ulega biodegradacji</bold>. Nasze produkty wykonane są z tego samego rodzaju wytrzymałego tworzywa sztucznego (EVA) — z jedną zdecydowaną różnicą: dodatkiem Eco-One™.",
+      "body": "Zwykłe produkty z tworzyw sztucznych zostały zaprojektowane z myślą o trwałości. Bez dodatku biodegradującego produkt z tworzywa sztucznego wysłany na wysypisko może tam pozostać przez <bold>300 do 1000 lat</bold>; Piankowe chodaki w stylu Crocs są znanym przykładem plastiku, który <bold>nie ulega biodegradacji</bold>. Nasze produkty wykonane są z tego samego rodzaju wytrzymałego tworzywa sztucznego (EVA) - z jedną zdecydowaną różnicą: dodatkiem Eco-One™.",
       "chartAlt": "Produkty niezawierające Eco-One™ w porównaniu z produktami ëkcos zawierającymi dodatek",
       "chartCaption": "Produkty niezawierające Eco-One™ w porównaniu z produktami ëkcos zawierającymi dodatek.",
       "chart": {
@@ -281,7 +290,7 @@
       "body": "Nasze produkty do łazienek są produkowane z dodatkiem Eco-One™. W niezależnym teście laboratoryjnym ëkcos EVA z Eco-One™ osiągnął 93% biodegradacji w ciągu 3,5 roku, a do 99% szacuje się w ciągu 5 lat w warunkach składowania – z wydajnością identyczną jak produkty bez dodatku.",
       "shopCta": "Sklep"
     },
-    "footnote": "Źródło danych: niezależny test biodegradacji zgodnie z ASTM D5511-02 i ISO 15985:2014 (Instituto Politécnico Nacional, Meksyk) — produkt ëkcos z 1% dodatkiem Eco-One™: 93,31% biodegradacji w ciągu 1288 dni (≈3,5 roku); ten sam produkt bez dodatku: 0%. Z zmierzonego trendu wynika biodegradacja wykraczająca poza okres badania (do 99% w ciągu ~5 lat). Dane dotyczące trwałości konwencjonalnych tworzyw sztucznych (≈300–1000 lat) są szeroko cytowanymi szacunkami branżowymi. Dodatek Eco-One™ jest produkowany i certyfikowany przez EcoLogic, LLC."
+    "footnote": "Źródło danych: niezależny test biodegradacji zgodnie z ASTM D5511-02 i ISO 15985:2014 (Instituto Politécnico Nacional, Meksyk) - produkt ëkcos z 1% dodatkiem Eco-One™: 93,31% biodegradacji w ciągu 1288 dni (≈3,5 roku); ten sam produkt bez dodatku: 0%. Z zmierzonego trendu wynika biodegradacja wykraczająca poza okres badania (do 99% w ciągu ~5 lat). Dane dotyczące trwałości konwencjonalnych tworzyw sztucznych (≈300–1000 lat) są szeroko cytowanymi szacunkami branżowymi. Dodatek Eco-One™ jest produkowany i certyfikowany przez EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {
@@ -348,7 +357,7 @@
     "hero": {
       "eyebrow": "Wsparcie techniczne i handlowe",
       "title": "Kontakt",
-      "subtitle": "Zapytaj nas o Eco-One™, specyfikacje lub programy B2B — składaj zamówienia w dowolnym momencie w oficjalnym sklepie."
+      "subtitle": "Zapytaj nas o Eco-One™, specyfikacje lub programy B2B - składaj zamówienia w dowolnym momencie w oficjalnym sklepie."
     },
     "details": {
       "title": "Kontakt",
@@ -379,7 +388,7 @@
       "intro": "Switch models and finishes, then buy in the official store.",
       "heroEyebrow": "Explore the range",
       "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
       "heroLinkEco": "About Eco-One™",
       "heroLinkBranding": "Custom branding"
     },
@@ -687,7 +696,7 @@
       "eyebrow": "Dla dystrybutorów",
       "title": "Program marki prywatnej",
       "lead": "Sprzedawaj nasze produkty pod własną marką",
-      "body": "Rozwijaj swój biznes dzięki własnej linii produktów. Nasz program marek własnych pozwala dystrybutorom dodawać do swojego portfolio sprawdzone, wydajne produkty do łazienek i sprzedawać je pod własną marką — bez konieczności tworzenia własnych rozwiązań i narzędzi. Jedyne czego potrzebujemy to Twoje logo; my zajmiemy się resztą.",
+      "body": "Rozwijaj swój biznes dzięki własnej linii produktów. Nasz program marek własnych pozwala dystrybutorom dodawać do swojego portfolio sprawdzone, wydajne produkty do łazienek i sprzedawać je pod własną marką - bez konieczności tworzenia własnych rozwiązań i narzędzi. Jedyne czego potrzebujemy to Twoje logo; my zajmiemy się resztą.",
       "cta": "Zostań partnerem"
     },
     "why": {
@@ -715,14 +724,14 @@
       },
       "cutout": {
         "title": "Wycięcie na logo",
-        "body": "Twoje logo zintegrowane z samym materiałem w postaci unikalnego wycięcia — charakterystyczne, najwyższej jakości wykończenie, którego nie oferuje żaden inny producent i silny wyróżnik Twojej oferty."
+        "body": "Twoje logo zintegrowane z samym materiałem w postaci unikalnego wycięcia - charakterystyczne, najwyższej jakości wykończenie, którego nie oferuje żaden inny producent i silny wyróżnik Twojej oferty."
       }
     },
     "beyond": {
       "title": "Dostosuj poza produktem",
       "packaging": {
         "title": "Opakowania i etykiety",
-        "body": "Dodaj swoje logo, dane firmy, nazwy i opisy produktów, kody EAN i inne elementy do pudełek, opakowań zbiorczych lub pojedynczych toreb z produktami — gotowe do sprzedaży detalicznej pod własną marką."
+        "body": "Dodaj swoje logo, dane firmy, nazwy i opisy produktów, kody EAN i inne elementy do pudełek, opakowań zbiorczych lub pojedynczych toreb z produktami - gotowe do sprzedaży detalicznej pod własną marką."
       },
       "mix": {
         "title": "Kolor i zapach",
@@ -733,7 +742,7 @@
       "title": "Dobrze wiedzieć",
       "items": {
         "0": "Minimalna wielkość zamówienia uzależniona jest od konkretnego wybranego produktu.",
-        "1": "Za każdy produkt, który chcesz oznaczyć marką, obowiązuje jednorazowa opłata konfiguracyjna — obejmuje ona narzędzia i przygotowanie potrzebne do odtworzenia Twojej marki.",
+        "1": "Za każdy produkt, który chcesz oznaczyć marką, obowiązuje jednorazowa opłata konfiguracyjna - obejmuje ona narzędzia i przygotowanie potrzebne do odtworzenia Twojej marki.",
         "2": "Wszystkie markowe produkty wykonywane są na zamówienie, według Państwa specyfikacji.",
         "3": "Podajemy dokładne minimalne ilości, ceny i terminy realizacji wraz z wyceną, gdy tylko zrozumiemy Twoje specyficzne wymagania."
       }
@@ -776,7 +785,7 @@
     "hub": {
       "title": "FAQ",
       "tagline": "Wasze pytania, nasze fakty",
-      "intro": "Wybierz FAQ dopasowane do sposobu zakupu — jako dystrybutor partnerski lub jako klient e-sklepu.",
+      "intro": "Wybierz FAQ dopasowane do sposobu zakupu - jako dystrybutor partnerski lub jako klient e-sklepu.",
       "distributorsDescription": "Produkty, materiały, Eco-One™, private label, dokumenty i współpraca z ëkcos.",
       "eshopDescription": "Produkty, zamówienia, płatność, dostawa, zwroty i zakupy na eshop.ekcos.eu."
     }

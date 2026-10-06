@@ -13,6 +13,7 @@ import {pageSeo} from '@/lib/seo'
 import {ArticlePortableText} from '@/components/articles/portable-text'
 import {Button} from '@/components/ui/button'
 import {FadeIn} from '@/components/ui/fade-in'
+import {PageContainer} from '@/components/layout/page-container'
 import {PageHero} from '@/components/layout/page-hero'
 
 type PageParams = Promise<{locale: string; slug: string}>
@@ -67,18 +68,18 @@ export default async function ArticlePage({params}: {params: PageParams}) {
             {nav('articles.label')}
           </Link>
 
-          <h1 className="mt-6 text-3xl font-bold tracking-tight text-[#575756] text-balance sm:text-4xl lg:text-[2.75rem] lg:leading-[1.15]">
+          <h1 className="mt-6 text-4xl font-bold tracking-tight text-[#575756] text-balance sm:text-5xl">
             {article.title}
           </h1>
           {article.excerpt ? (
-            <p className="mt-5 text-xl font-medium leading-snug text-[#0F68B2] text-balance sm:text-2xl">
+            <p className="mt-5 text-xl font-bold leading-snug text-[#0F68B2] text-balance sm:text-2xl">
               {article.excerpt}
             </p>
           ) : null}
         </FadeIn>
       </PageHero>
 
-      <div className="mx-auto w-full max-w-3xl px-4 py-12 sm:px-6 lg:px-8">
+      <PageContainer className="py-12 sm:py-16">
         <article>
           <FadeIn>
             <ArticlePortableText value={article.content} />
@@ -103,7 +104,7 @@ export default async function ArticlePage({params}: {params: PageParams}) {
             </section>
           </FadeIn>
         </article>
-      </div>
+      </PageContainer>
     </div>
   )
 }

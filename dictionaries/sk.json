@@ -1,9 +1,9 @@
 {
   "Metadata": {
-    "title": "ëkcos — zelenajte sa pri každom spláchnutí",
+    "title": "ëkcos - zelenajte sa pri každom spláchnutí",
     "description": "Naše sitká do pisoárov a osviežovače vyrábame s podielom recyklovaného EVA. Samotný materiál sa dá recyklovať, použité sitko do pisoára však nie, pretože je biologicky kontaminované. Končí na skládke alebo v spaľovni, a preto do všetkých našich výrobkov pridávame prísadu Eco-One™.",
     "productsTitle": "Produkty",
-    "productsDescription": "Preskúmajte produkty ëkcos: prepnite modely, povrchové úpravy a možnosti — potom navštívte oficiálny obchod.",
+    "productsDescription": "Preskúmajte produkty ëkcos: prepnite modely, povrchové úpravy a možnosti - potom navštívte oficiálny obchod.",
     "ecoOneTitle": "Eco-One™",
     "ecoOneDescription": "Naše sitká do pisoárov a osviežovače vyrábame s podielom recyklovaného EVA. Samotný materiál sa dá recyklovať, použité sitko do pisoára však nie, pretože je biologicky kontaminované. Končí na skládke alebo v spaľovni, a preto do všetkých našich výrobkov pridávame prísadu Eco-One™.",
     "brandingTitle": "Vlastná značka",
@@ -60,7 +60,8 @@
       "label": "FAQ",
       "distributors": "Distributori",
       "eshop": "E-shop"
-    }
+    },
+    "closeMenu": "Zavrieť menu"
   },
   "footer": {
     "tagline": "ëkcos innovations prináša hygienické riešenia, ktoré udržiavajú toalety čisté a svieže, uľahčujú údržbu a využívajú recyklované, biologicky rozložiteľné materiály.",
@@ -93,7 +94,7 @@
     "benefits": "Kľúčové výhody",
     "more": "Viac podrobností",
     "openDetails": "Otvoriť podrobné fotografie",
-    "detailGallery": "Detailné fotografie — {name}",
+    "detailGallery": "Detailné fotografie - {name}",
     "detailShot": "detail",
     "boundaryError": "Toto zobrazenie produktu je dočasne nedostupné. Skúste to znova."
   },
@@ -102,6 +103,14 @@
       "title": "Ste pripravení vylepšiť svoje toalety?",
       "body": "Prezrite si pisoárové zásteny a príslušenstvo ëkcos v oficiálnom obchode.",
       "button": "Obchod"
+    },
+    "readMore": "Čítať článok",
+    "empty": "Zatiaľ žiadne články. Čoskoro pridáme ďalšie.",
+    "categories": {
+      "guide": "Sprievodca",
+      "product": "Produkt",
+      "sustainability": "Udržateľnosť",
+      "news": "Novinky"
     }
   },
   "newsletter": {
@@ -161,7 +170,7 @@
     },
     "productsTeaser": {
       "title": "Objavte naše produkty",
-      "body": "Preskúmajte xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco klip a ďalšie — potom otvorte oficiálny obchod.",
+      "body": "Preskúmajte xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco klip a ďalšie - potom otvorte oficiálny obchod.",
       "link": "Zobraziť všetky produkty"
     },
     "brandingTeaser": {
@@ -281,7 +290,7 @@
       "body": "Naše toaletné výrobky sú vyrábané s prísadou Eco-One™. V nezávislom laboratórnom teste dosiahol ëkcos EVA s Eco-One™ 93 % biodegradáciu v priebehu 3,5 roka a až 99 % sa predpokladá do 5 rokov v podmienkach skládky – s výkonom identickým s produktmi bez aditíva.",
       "shopCta": "Obchod"
     },
-    "footnote": "Zdroj údajov: nezávislý test biologickej odbúrateľnosti podľa ASTM D5511-02 a ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) — ëkcos produkt s 1 % Eco-One™ prísady: 93,31 % biologická odbúrateľnosť počas 1 288,5 rokov (≈)); rovnaký výrobok bez prísady: 0 %. Z nameraného trendu sa premieta biodegradácia po testovacom období (až 99 % v priebehu ~5 rokov). Údaje o perzistencii konvenčných plastov (≈300–1 000 rokov) sú široko citované odhady priemyslu. Prísada Eco-One™ vyrába a certifikuje spoločnosť EcoLogic, LLC."
+    "footnote": "Zdroj údajov: nezávislý test biologickej odbúrateľnosti podľa ASTM D5511-02 a ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) - ëkcos produkt s 1 % Eco-One™ prísady: 93,31 % biologická odbúrateľnosť počas 1 288,5 rokov (≈)); rovnaký výrobok bez prísady: 0 %. Z nameraného trendu sa premieta biodegradácia po testovacom období (až 99 % v priebehu ~5 rokov). Údaje o perzistencii konvenčných plastov (≈300–1 000 rokov) sú široko citované odhady priemyslu. Prísada Eco-One™ vyrába a certifikuje spoločnosť EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {
@@ -348,7 +357,7 @@
     "hero": {
       "eyebrow": "Technická a obchodná podpora",
       "title": "Kontaktovať",
-      "subtitle": "Opýtajte sa nás na Eco-One™, špecifikácie alebo B2B programy — objednávajte kedykoľvek v oficiálnom obchode."
+      "subtitle": "Opýtajte sa nás na Eco-One™, špecifikácie alebo B2B programy - objednávajte kedykoľvek v oficiálnom obchode."
     },
     "details": {
       "title": "Kontaktovať",
@@ -379,7 +388,7 @@
       "intro": "Switch models and finishes, then buy in the official store.",
       "heroEyebrow": "Explore the range",
       "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
       "heroLinkEco": "About Eco-One™",
       "heroLinkBranding": "Custom branding"
     },
@@ -776,7 +785,7 @@
     "hub": {
       "title": "FAQ",
       "tagline": "Vaše otázky, naše fakty",
-      "intro": "Vyberte FAQ podľa toho, ako od ëkcos nakupujete — ako partnerský distributor, alebo ako zákazník e-shopu.",
+      "intro": "Vyberte FAQ podľa toho, ako od ëkcos nakupujete - ako partnerský distributor, alebo ako zákazník e-shopu.",
       "distributorsDescription": "Výrobky, materiály, Eco-One™, privátna značka, dokumenty a spolupráca s ëkcos.",
       "eshopDescription": "Výrobky, objednávky, platba, doprava, reklamácie a nákup na eshop.ekcos.eu."
     }

@@ -1,7 +1,7 @@
 'use client'
 
 import { useLocale, useTranslations } from 'next-intl'
-import { useTransition } from 'react'
+import { useEffect, useState, useTransition } from 'react'
 import { ChevronDown } from 'lucide-react'
 import {
   DropdownMenu,
@@ -37,28 +37,41 @@ export function LocaleSwitcher() {
   const router = useRouter()
   const pathname = usePathname()
   const [isPending, startTransition] = useTransition()
+  // Defer Radix until after mount so SSR/client useId trees stay in sync.
+  const [menuReady, setMenuReady] = useState(false)
+
+  useEffect(() => {
+    setMenuReady(true)
+  }, [])
+
   const current = localeMeta[locale as AppLocale] ?? {
     endonym: locale.toUpperCase(),
     flag: '🌐',
   }
 
+  const trigger = (
+    <Button
+      variant="secondary"
+      size="sm"
+      className="min-w-18 border-black/10 font-medium"
+      disabled={isPending}
+      aria-label={t('label')}
+    >
+      <span className="text-base leading-none" aria-hidden>
+        {current.flag}
+      </span>
+      {locale.toUpperCase()}
+      <ChevronDown className="h-4 w-4 opacity-60" />
+    </Button>
+  )
+
+  if (!menuReady) {
+    return trigger
+  }
+
   return (
     <DropdownMenu>
-      <DropdownMenuTrigger asChild>
-        <Button
-          variant="secondary"
-          size="sm"
-          className="min-w-18 border-black/10 font-medium"
-          disabled={isPending}
-          aria-label={t('label')}
-        >
-          <span className="text-base leading-none" aria-hidden>
-            {current.flag}
-          </span>
-          {locale.toUpperCase()}
-          <ChevronDown className="h-4 w-4 opacity-60" />
-        </Button>
-      </DropdownMenuTrigger>
+      <DropdownMenuTrigger asChild>{trigger}</DropdownMenuTrigger>
       <DropdownMenuContent
         align="end"
         className="max-h-80 min-w-48 overflow-y-auto"

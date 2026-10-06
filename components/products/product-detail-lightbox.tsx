@@ -72,7 +72,7 @@ export function ProductDetailLightbox({
     api?.scrollTo(0, true)
   }, [api, imagesKey, open])
 
-  // Embla measures 0×0 while dialog is closed — reInit after open
+  // Embla measures 0×0 while dialog is closed - reInit after open
   React.useEffect(() => {
     if (!open || !api) return
     const id = window.requestAnimationFrame(() => {
@@ -129,7 +129,7 @@ export function ProductDetailLightbox({
                     <div className="relative mx-auto aspect-square w-full max-w-xl overflow-hidden">
                       <Image
                         src={src}
-                        alt={`${productName} — ${t('detailShot')} ${idx + 1}`}
+                        alt={`${productName} - ${t('detailShot')} ${idx + 1}`}
                         fill
                         draggable={false}
                         className="pointer-events-none select-none object-contain"

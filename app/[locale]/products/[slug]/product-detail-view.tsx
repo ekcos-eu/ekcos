@@ -17,7 +17,7 @@ const ECO_ONE_LINK_CLASS =
   'font-medium text-[#0F68B2] underline decoration-[#0F68B2]/35 underline-offset-2 transition-colors hover:decoration-[#0F68B2]'
 
 const ECO_ONE_NAME_PATTERN = /Eco[-\s]?One(?:™|®)?/gi
-/** Landfill / recycled-EVA context — full benefit strings with Eco-One™ link as a whole */
+/** Landfill / recycled-EVA context - full benefit strings with Eco-One™ link as a whole */
 const ECO_ONE_CLAIM_CONTEXT =
   /biodegrad|biodégrad|recykl|recycl|skládk|landfill|vertedero|décharge|Deponie|discarica|biologicky|abbaubar/i
 
@@ -251,7 +251,7 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
               >
                 <ProductHeroImage
                   src={displayImg}
-                  alt={`${localizedProduct.name} — ${galleryImages.indexOf(displayImg) + 1}`}
+                  alt={`${localizedProduct.name} - ${galleryImages.indexOf(displayImg) + 1}`}
                 />
               </motion.div>
             </AnimatePresence>
@@ -293,7 +293,7 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
                     type="button"
                     onClick={() => handleThumbnailSelect(idx)}
                     aria-pressed={galleryKind === 'insert' && activeImg === idx}
-                    aria-label={`${localizedProduct.name} — image ${idx + 1}`}
+                    aria-label={`${localizedProduct.name} - image ${idx + 1}`}
                     whileHover={{ y: -3, scale: 1.06 }}
                     whileTap={{ scale: 0.96 }}
                     className={cn(
@@ -382,7 +382,7 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
             </div>
           )}
 
-          {/* Localized long description (CSV bodyHtml is English-only — do not prefer it) */}
+          {/* Localized long description (CSV bodyHtml is English-only - do not prefer it) */}
           {localizedProduct.longDescription ? (
             <div className="space-y-3 text-base leading-relaxed text-[#575756] text-justify">
               {localizedProduct.longDescription
@@ -429,7 +429,7 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
 // Helpers: color / scent label from SKU + i18n
 // ---------------------------------------------------------------------------
 
-/** Filename stem before -V… — matches PhotoStock + Detail (e.g. PWR-3B, XPU-1P). */
+/** Filename stem before -V… - matches PhotoStock + Detail (e.g. PWR-3B, XPU-1P). */
 function colorKeyFromImageSrc(src: string): string | null {
   const file = decodeURIComponent(src.split('/').pop() ?? '').replace(/\s+/g, '')
   const match = file.match(/^([A-Za-z]+-[0-9A-Za-z]+)-V/i)
@@ -469,7 +469,7 @@ const SKU_MID_TO_LABEL_KEY: Record<string, string> = {
 
 type TranslateProducts = (key: string) => string
 
-/** Always resolve via i18n — never fall back to English CSV color codes. */
+/** Always resolve via i18n - never fall back to English CSV color codes. */
 function resolveColorScentLabel(
   imageSrc: string,
   variant: CsvProductDetail['variants'][number] | undefined,

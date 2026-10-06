@@ -1,4 +1,5 @@
 import type {ReactNode} from 'react'
+import {PageContainer} from '@/components/layout/page-container'
 import {cn} from '@/lib/utils'
 
 const PAGE_HERO_BG =
@@ -7,11 +8,9 @@ const PAGE_HERO_BG =
 type PageHeroProps = {
   children: ReactNode
   className?: string
-  /** Inner content max width */
-  size?: 'md' | 'lg'
 }
 
-export function PageHero({children, className, size = 'md'}: PageHeroProps) {
+export function PageHero({children, className}: PageHeroProps) {
   return (
     <section
       className={cn(
@@ -19,15 +18,9 @@ export function PageHero({children, className, size = 'md'}: PageHeroProps) {
         PAGE_HERO_BG,
       )}
     >
-      <div
-        className={cn(
-          'mx-auto px-4 py-16 sm:px-6 sm:py-20 lg:py-24',
-          size === 'md' ? 'max-w-3xl' : 'max-w-5xl',
-          className,
-        )}
-      >
+      <PageContainer className={cn('py-16 sm:py-20 lg:py-24', className)}>
         {children}
-      </div>
+      </PageContainer>
     </section>
   )
 }

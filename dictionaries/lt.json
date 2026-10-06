@@ -60,7 +60,8 @@
       "label": "DUK",
       "distributors": "Platintojai",
       "eshop": "E. parduotuvė"
-    }
+    },
+    "closeMenu": "Uždaryti meniu"
   },
   "footer": {
     "tagline": "Bendrovė ëkcos innovations siūlo higienos sprendimus, kurie palaiko tualetų švarą ir gaivumą, palengvina priežiūrą ir kuriems naudojamos perdirbtos, biologiškai skaidžios medžiagos.",
@@ -102,6 +103,14 @@
       "title": "Pasiruošę atnaujinti savo tualetus?",
       "body": "Naršykite ëkcos pisuarų ekranus ir priedus oficialioje parduotuvėje.",
       "button": "Parduotuvė"
+    },
+    "readMore": "Skaityti straipsnį",
+    "empty": "Straipsnių dar nėra. Sugrįžkite netrukus.",
+    "categories": {
+      "guide": "Vadovas",
+      "product": "Produktas",
+      "sustainability": "Tvarumas",
+      "news": "Naujienos"
     }
   },
   "newsletter": {
@@ -379,7 +388,7 @@
       "intro": "Switch models and finishes, then buy in the official store.",
       "heroEyebrow": "Explore the range",
       "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
       "heroLinkEco": "About Eco-One™",
       "heroLinkBranding": "Custom branding"
     },
@@ -776,7 +785,7 @@
     "hub": {
       "title": "FAQ",
       "tagline": "Your questions, our facts",
-      "intro": "Choose the FAQ that matches how you buy from ëkcos — as a distributor partner, or as an e-shop customer.",
+      "intro": "Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.",
       "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
       "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
     }

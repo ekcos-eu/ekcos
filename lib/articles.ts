@@ -12,13 +12,14 @@ export type ArticleCoverImage = {
 export type ArticleListItem = {
   _id: string
   publishedAt?: string
+  category?: 'guide' | 'product' | 'sustainability' | 'news'
   title: string
   slug: {current: string}
+  excerpt?: string
   coverImage?: ArticleCoverImage
 }
 
 export type ArticleItem = ArticleListItem & {
-  excerpt?: string
   content: PortableTextBlock[]
 }
 
@@ -54,8 +55,10 @@ const articlesListQuery = `
 *[_type == "post"] | order(coalesce(publishedAt, _createdAt) desc){
   _id,
   publishedAt,
+  category,
   "title": ${localeTitle},
   "slug": ${localeSlug},
+  "excerpt": ${localeExcerpt},
   "coverImage": ${localeCover}
 }
 `
@@ -69,6 +72,7 @@ const articleBySlugQuery = `
 ][0]{
   _id,
   publishedAt,
+  category,
   "title": ${localeTitle},
   "slug": ${localeSlug},
   "excerpt": ${localeExcerpt},

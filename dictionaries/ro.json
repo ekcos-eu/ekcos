@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "title": "ëkcos — Deveniți verde cu fiecare culoare",
+    "title": "ëkcos - Deveniți verde cu fiecare culoare",
     "description": "Sitele noastre pentru pisoar și odorizantele noastre sunt fabricate cu EVA reciclat. Materialul în sine poate fi reciclat, dar o sită de pisoar folosită nu, deoarece este contaminată biologic. Ajunge în depozitele de deșeuri sau la incinerare și de aceea adăugăm aditivul Eco-One™ în toate produsele noastre.",
     "productsTitle": "Produse",
     "productsDescription": "Explorați produsele ëkcos: schimbați modele, finisaje și opțiuni – apoi vizitați magazinul oficial.",
@@ -13,7 +13,7 @@
     "contactTitle": "Contact",
     "contactDescription": "Ajungeți la echipa ëkcos pentru specificații, programe și parteneriate.",
     "privateLabelTitle": "Marcă privată",
-    "privateLabelDescription": "Vindeți produsele ëkcos pentru toalete sub propria marcă — marcă privată pentru distribuitori.",
+    "privateLabelDescription": "Vindeți produsele ëkcos pentru toalete sub propria marcă - marcă privată pentru distribuitori.",
     "faqTitle": "FAQ",
     "faqDescription": "Clear answers about ëkcos products, materials, Eco-One™, private label, and ordering.",
     "faqDistributorsTitle": "FAQ for distributors",
@@ -60,7 +60,8 @@
       "label": "FAQ",
       "distributors": "Distribuitori",
       "eshop": "E-shop"
-    }
+    },
+    "closeMenu": "Închide meniul"
   },
   "footer": {
     "tagline": "ëkcos innovations oferă soluții de igienă care mențin toaletele curate și proaspete, ușurează întreținerea și folosesc materiale reciclate și biodegradabile.",
@@ -93,7 +94,7 @@
     "benefits": "Beneficii cheie",
     "more": "Mai multe detalii",
     "openDetails": "Deschide fotografiile de detaliu",
-    "detailGallery": "Fotografii detaliate — {name}",
+    "detailGallery": "Fotografii detaliate - {name}",
     "detailShot": "detaliu",
     "boundaryError": "Această vizualizare a produsului este temporar indisponibilă. Vă rugăm să încercați din nou."
   },
@@ -102,6 +103,14 @@
       "title": "Sunteți gata să vă îmbunătățiți toaletele?",
       "body": "Răsfoiți ecranele și accesoriile pentru pisoare ëkcos în magazinul oficial.",
       "button": "Magazin"
+    },
+    "readMore": "Citește articolul",
+    "empty": "Încă nu există articole. Revino curând.",
+    "categories": {
+      "guide": "Ghid",
+      "product": "Produs",
+      "sustainability": "Sustenabilitate",
+      "news": "Știri"
     }
   },
   "newsletter": {
@@ -161,7 +170,7 @@
     },
     "productsTeaser": {
       "title": "Descoperiți produsele noastre",
-      "body": "Explorați xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip și multe altele — apoi deschideți magazinul oficial.",
+      "body": "Explorați xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip și multe altele - apoi deschideți magazinul oficial.",
       "link": "Vezi toate produsele"
     },
     "brandingTeaser": {
@@ -281,7 +290,7 @@
       "body": "Produsele noastre pentru toaletă sunt fabricate cu aditivul Eco-One™. Într-un test de laborator independent, ëkcos EVA cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar până la 99% este proiectat în 5 ani în condiții de groapă de gunoi - cu performanțe identice cu produsele fără aditiv.",
       "shopCta": "Magazin"
     },
-    "footnote": "Sursa datelor: test independent de biodegradare conform ASTM D5511-02 și ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) — produs ëkcos cu 1% aditiv Eco-One™: 93,31% biodegradare în 1.288 de zile (≈35 ani); același produs fără aditiv: 0%. Biodegradarea dincolo de perioada de testare (până la 99% în ~5 ani) este proiectată din tendința măsurată. Cifrele de persistență pentru materialele plastice convenționale (≈300–1.000 de ani) sunt estimări ale industriei citate pe scară largă. Aditivul Eco-One™ este fabricat și certificat de EcoLogic, LLC."
+    "footnote": "Sursa datelor: test independent de biodegradare conform ASTM D5511-02 și ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) - produs ëkcos cu 1% aditiv Eco-One™: 93,31% biodegradare în 1.288 de zile (≈35 ani); același produs fără aditiv: 0%. Biodegradarea dincolo de perioada de testare (până la 99% în ~5 ani) este proiectată din tendința măsurată. Cifrele de persistență pentru materialele plastice convenționale (≈300–1.000 de ani) sunt estimări ale industriei citate pe scară largă. Aditivul Eco-One™ este fabricat și certificat de EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {
@@ -379,7 +388,7 @@
       "intro": "Switch models and finishes, then buy in the official store.",
       "heroEyebrow": "Explore the range",
       "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
       "heroLinkEco": "About Eco-One™",
       "heroLinkBranding": "Custom branding"
     },
@@ -715,7 +724,7 @@
       },
       "cutout": {
         "title": "Decupaj logo",
-        "body": "Logo-ul dvs. integrat în materialul însuși ca o decupare unică — un finisaj distinctiv, premium, pe care niciun alt producător nu îl oferă și un puternic diferențiator pentru gama dumneavoastră."
+        "body": "Logo-ul dvs. integrat în materialul însuși ca o decupare unică - un finisaj distinctiv, premium, pe care niciun alt producător nu îl oferă și un puternic diferențiator pentru gama dumneavoastră."
       }
     },
     "beyond": {
@@ -776,7 +785,7 @@
     "hub": {
       "title": "FAQ",
       "tagline": "Your questions, our facts",
-      "intro": "Choose the FAQ that matches how you buy from ëkcos — as a distributor partner, or as an e-shop customer.",
+      "intro": "Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.",
       "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
       "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
     }

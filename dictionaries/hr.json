@@ -1,9 +1,9 @@
 {
   "Metadata": {
-    "title": "ëkcos — Ozelenite sa svakim ispiranjem",
+    "title": "ëkcos - Ozelenite sa svakim ispiranjem",
     "description": "Naše mrežice za pisoare i osvježivači izrađeni su s recikliranim EVA materijalom. Sam materijal može se reciklirati, ali korištena mrežica za pisoar ne može jer je biološki kontaminirana. Završava na odlagalištu otpada ili u spalionici i zato svim našim proizvodima dodajemo aditiv Eco-One™.",
     "productsTitle": "Proizvodi",
-    "productsDescription": "Istražite ëkcos proizvode: mijenjajte modele, završne obrade i opcije — zatim posjetite službenu trgovinu.",
+    "productsDescription": "Istražite ëkcos proizvode: mijenjajte modele, završne obrade i opcije - zatim posjetite službenu trgovinu.",
     "ecoOneTitle": "Eco-One™",
     "ecoOneDescription": "Naše mrežice za pisoare i osvježivači izrađeni su s recikliranim EVA materijalom. Sam materijal može se reciklirati, ali korištena mrežica za pisoar ne može jer je biološki kontaminirana. Završava na odlagalištu otpada ili u spalionici i zato svim našim proizvodima dodajemo aditiv Eco-One™.",
     "brandingTitle": "Prilagođeno brendiranje",
@@ -13,7 +13,7 @@
     "contactTitle": "Kontakt",
     "contactDescription": "Obratite se ëkcos timu za specifikacije, programe i partnerstva.",
     "privateLabelTitle": "Privatna robna marka",
-    "privateLabelDescription": "Prodajte ëkcos proizvode za kupaonice pod vlastitim brendom — privatna marka za distributere.",
+    "privateLabelDescription": "Prodajte ëkcos proizvode za kupaonice pod vlastitim brendom - privatna marka za distributere.",
     "faqTitle": "FAQ",
     "faqDescription": "Clear answers about ëkcos products, materials, Eco-One™, private label, and ordering.",
     "faqDistributorsTitle": "FAQ for distributors",
@@ -60,7 +60,8 @@
       "label": "FAQ",
       "distributors": "Distributeri",
       "eshop": "E-shop"
-    }
+    },
+    "closeMenu": "Zatvori izbornik"
   },
   "footer": {
     "tagline": "Tvrtka ëkcos innovations nudi higijenska rješenja koja toalete drže čistima i svježima, olakšavaju održavanje i koriste reciklirane, biorazgradive materijale.",
@@ -93,7 +94,7 @@
     "benefits": "Ključne prednosti",
     "more": "Više detalja",
     "openDetails": "Otvorite detaljne fotografije",
-    "detailGallery": "Detaljne fotografije — {name}",
+    "detailGallery": "Detaljne fotografije - {name}",
     "detailShot": "detalj",
     "boundaryError": "Ovaj prikaz proizvoda je privremeno nedostupan. Molimo pokušajte ponovo."
   },
@@ -102,6 +103,14 @@
       "title": "Jeste li spremni unaprijediti svoje toalete?",
       "body": "Pregledajte ëkcos mreže za pisoar i pribor u službenoj trgovini.",
       "button": "Dućan"
+    },
+    "readMore": "Pročitaj članak",
+    "empty": "Još nema članaka. Vratite se uskoro.",
+    "categories": {
+      "guide": "Vodič",
+      "product": "Proizvod",
+      "sustainability": "Održivost",
+      "news": "Novosti"
     }
   },
   "newsletter": {
@@ -161,7 +170,7 @@
     },
     "productsTeaser": {
       "title": "Otkrijte naše proizvode",
-      "body": "Istražite xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip i više — zatim otvorite službenu trgovinu.",
+      "body": "Istražite xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip i više - zatim otvorite službenu trgovinu.",
       "link": "Pogledajte sve proizvode"
     },
     "brandingTeaser": {
@@ -171,7 +180,7 @@
     },
     "trust": {
       "title": "Izgrađen za zahtjevne objekte",
-      "body": "Pouzdana higijena i vrhunski dojam na licu mjesta — od ureda do gostoprimstva."
+      "body": "Pouzdana higijena i vrhunski dojam na licu mjesta - od ureda do gostoprimstva."
     },
     "newsletter": {
       "title": "Specifikacije, lansiranja i ažuriranja programa",
@@ -179,16 +188,16 @@
     },
     "finalCta": {
       "title": "Javite se",
-      "body": "Pitanja o proizvodima, isporuci ili B2B narudžbama? Pošaljite nam poruku — rado ćemo pomoći.",
+      "body": "Pitanja o proizvodima, isporuci ili B2B narudžbama? Pošaljite nam poruku - rado ćemo pomoći.",
       "shop": "Idi u trgovinu",
       "contact": "Pošalji poruku"
     },
     "marketing": {
       "featuresEyebrow": "Jedinstvena platforma",
       "featuresTitle": "Usporedite, odlučite i kupujte s povjerenjem",
-      "featuresSubtitle": "Istražite završne obrade, pregledajte činjenice i otvorite trgovinu kada budete spremni — sve u jednom toku.",
+      "featuresSubtitle": "Istražite završne obrade, pregledajte činjenice i otvorite trgovinu kada budete spremni - sve u jednom toku.",
       "featureInteractTitle": "Interaktivna specifikacija",
-      "featureInteractBody": "Zamijenite modele, završne obrade i mirise u nekoliko sekundi — napravljeno za timove u objektu i FM.",
+      "featureInteractBody": "Zamijenite modele, završne obrade i mirise u nekoliko sekundi - napravljeno za timove u objektu i FM.",
       "featureProofTitle": "Činjenice koje možete podijeliti",
       "featureProofBody": "Obrišite Eco-One™ preuzimanja kako bi vaš tim mogao objasniti izbor kolegama ili klijentima.",
       "featureB2bTitle": "Programi koji se skaliraju",
@@ -225,7 +234,7 @@
     },
     "problem": {
       "title": "Zašto je obična plastika problem",
-      "body": "Obični plastični proizvodi projektirani su da traju. Bez aditiva za biorazgradnju, plastični proizvod poslan na odlagalište može tamo ostati <bold>300 do 1000 godina</bold>; pjenaste klompe u \"Crocs stilu\" poznati su primjer plastike koja <bold>nije biorazgradiva</bold>. Naši proizvodi izrađeni su od iste vrste izdržljive plastike (EVA) — ali s jednom odlučujućom razlikom: aditiv Eco-One™.",
+      "body": "Obični plastični proizvodi projektirani su da traju. Bez aditiva za biorazgradnju, plastični proizvod poslan na odlagalište može tamo ostati <bold>300 do 1000 godina</bold>; pjenaste klompe u \"Crocs stilu\" poznati su primjer plastike koja <bold>nije biorazgradiva</bold>. Naši proizvodi izrađeni su od iste vrste izdržljive plastike (EVA) - ali s jednom odlučujućom razlikom: aditiv Eco-One™.",
       "chartAlt": "Proizvodi bez Eco-One™ u usporedbi s ëkcos proizvodima koji sadrže aditiv",
       "chartCaption": "Proizvodi bez Eco-One™ u usporedbi s ëkcos proizvodima koji sadrže aditiv.",
       "chart": {
@@ -278,10 +287,10 @@
     },
     "closing": {
       "title": "ëkcos proizvodi s Eco-One™",
-      "body": "Naši proizvodi za kupaonice proizvedeni su s aditivom Eco-One™. U neovisnom laboratorijskom ispitivanju, ëkcos EVA s Eco-One™ dosegao je 93% biorazgradnje unutar 3,5 godine, a predviđa se do 99% unutar 5 godina u uvjetima odlagališta — s učinkom identičnim proizvodima bez aditiva.",
+      "body": "Naši proizvodi za kupaonice proizvedeni su s aditivom Eco-One™. U neovisnom laboratorijskom ispitivanju, ëkcos EVA s Eco-One™ dosegao je 93% biorazgradnje unutar 3,5 godine, a predviđa se do 99% unutar 5 godina u uvjetima odlagališta - s učinkom identičnim proizvodima bez aditiva.",
       "shopCta": "Dućan"
     },
-    "footnote": "Izvor podataka: nezavisni test biorazgradnje prema ASTM D5511-02 i ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) — ëkcos proizvod s 1% aditiva Eco-One™: 93,31% biorazgradnje tijekom 1288 dana (≈3,5 godina); isti proizvod bez aditiva: 0%. Biorazgradnja nakon razdoblja ispitivanja (do 99% unutar ~5 godina) predviđa se prema izmjerenom trendu. Podaci o postojanosti konvencionalne plastike (≈300–1000 godina) često su citirane industrijske procjene. Aditiv Eco-One™ proizvodi i certificira EcoLogic, LLC."
+    "footnote": "Izvor podataka: nezavisni test biorazgradnje prema ASTM D5511-02 i ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) - ëkcos proizvod s 1% aditiva Eco-One™: 93,31% biorazgradnje tijekom 1288 dana (≈3,5 godina); isti proizvod bez aditiva: 0%. Biorazgradnja nakon razdoblja ispitivanja (do 99% unutar ~5 godina) predviđa se prema izmjerenom trendu. Podaci o postojanosti konvencionalne plastike (≈300–1000 godina) često su citirane industrijske procjene. Aditiv Eco-One™ proizvodi i certificira EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {
@@ -295,7 +304,7 @@
     "sections": {
       "private": {
         "title": "Privatno brendiranje",
-        "body": "Vaša umjetnička djela, kojima se dosljedno rukuje od odobrenja do proizvodnje — tako da svaka serija odgovara vašem brendu."
+        "body": "Vaša umjetnička djela, kojima se dosljedno rukuje od odobrenja do proizvodnje - tako da svaka serija odgovara vašem brendu."
       },
       "cutouts": {
         "title": "Prilagođeni izrezi",
@@ -348,7 +357,7 @@
     "hero": {
       "eyebrow": "Tehnička i komercijalna podrška",
       "title": "Kontakt",
-      "subtitle": "Pitajte nas o Eco-One™, specifikacijama ili B2B programima — naručite bilo kada u službenoj trgovini."
+      "subtitle": "Pitajte nas o Eco-One™, specifikacijama ili B2B programima - naručite bilo kada u službenoj trgovini."
     },
     "details": {
       "title": "Kontakt",
@@ -369,7 +378,7 @@
       "phone": "Telefon",
       "message": "Poruka",
       "submit": "Pošalji poruku",
-      "success": "Hvala vam — javit ćemo vam se uskoro.",
+      "success": "Hvala vam - javit ćemo vam se uskoro.",
       "error": "Nešto nije u redu. Molimo pokušajte ponovo."
     }
   },
@@ -379,7 +388,7 @@
       "intro": "Switch models and finishes, then buy in the official store.",
       "heroEyebrow": "Explore the range",
       "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
       "heroLinkEco": "About Eco-One™",
       "heroLinkBranding": "Custom branding"
     },
@@ -687,7 +696,7 @@
       "eyebrow": "Za distributere",
       "title": "Program privatne robne marke",
       "lead": "Prodajte naše proizvode pod vlastitim brendom",
-      "body": "Razvijte svoje poslovanje vlastitom linijom proizvoda. Naš program privatnih robnih marki omogućuje distributerima da dodaju provjerene proizvode za kupaonice visokih performansi u svoj portfelj i prodaju ih pod svojim vlastitim brendom — bez vlastitog razvoja ili alata. Sve što trebamo je vaš logo; mi se brinemo za ostalo.",
+      "body": "Razvijte svoje poslovanje vlastitom linijom proizvoda. Naš program privatnih robnih marki omogućuje distributerima da dodaju provjerene proizvode za kupaonice visokih performansi u svoj portfelj i prodaju ih pod svojim vlastitim brendom - bez vlastitog razvoja ili alata. Sve što trebamo je vaš logo; mi se brinemo za ostalo.",
       "cta": "Postanite partner"
     },
     "why": {
@@ -695,7 +704,7 @@
       "items": {
         "0": {
           "title": "Provjerena rješenja",
-          "body": "Svaki je proizvod rezultat intenzivnog razvoja i projektiran za optimalnu, pouzdanu izvedbu — asortiman na koji s povjerenjem možete staviti svoje ime."
+          "body": "Svaki je proizvod rezultat intenzivnog razvoja i projektiran za optimalnu, pouzdanu izvedbu - asortiman na koji s povjerenjem možete staviti svoje ime."
         },
         "1": {
           "title": "Jednostavna prilagodba",
@@ -715,14 +724,14 @@
       },
       "cutout": {
         "title": "Logo izrez",
-        "body": "Vaš logotip integriran je u sam materijal kao jedinstveni izrez — osebujna, vrhunska završna obrada koju ne nudi niti jedan drugi proizvođač, i jaka razlika za vaš asortiman."
+        "body": "Vaš logotip integriran je u sam materijal kao jedinstveni izrez - osebujna, vrhunska završna obrada koju ne nudi niti jedan drugi proizvođač, i jaka razlika za vaš asortiman."
       }
     },
     "beyond": {
       "title": "Prilagodite izvan proizvoda",
       "packaging": {
         "title": "Ambalaža i etikete",
-        "body": "Dodajte svoj logotip, pojedinosti o tvrtki, nazive i opise proizvoda, EAN kodove i još mnogo toga u kutije, glavne kutije ili torbe za pojedinačne proizvode — spremno za maloprodaju pod vašim vlastitim brendom."
+        "body": "Dodajte svoj logotip, pojedinosti o tvrtki, nazive i opise proizvoda, EAN kodove i još mnogo toga u kutije, glavne kutije ili torbe za pojedinačne proizvode - spremno za maloprodaju pod vašim vlastitim brendom."
       },
       "mix": {
         "title": "Boja i miris",
@@ -733,7 +742,7 @@
       "title": "Dobro je znati",
       "items": {
         "0": "Minimalna količina narudžbe ovisi o konkretnom proizvodu koji odaberete.",
-        "1": "Jednokratna naknada za postavljanje primjenjuje se za svaki proizvod koji želite brendirati — ona pokriva alate i pripremu potrebnu za reprodukciju vašeg brendiranja.",
+        "1": "Jednokratna naknada za postavljanje primjenjuje se za svaki proizvod koji želite brendirati - ona pokriva alate i pripremu potrebnu za reprodukciju vašeg brendiranja.",
         "2": "Svi brendirani proizvodi izrađuju se po narudžbi, prema Vašoj specifikaciji.",
         "3": "Dijelimo točne minimalne količine, cijene i rokove isporuke zajedno s vašom ponudom, nakon što shvatimo vaše specifične zahtjeve."
       }
@@ -746,12 +755,12 @@
       "email": "E-mail",
       "phone": "Telefon",
       "products": "Proizvodi za privatne robne marke",
-      "productsHint": "Unesite količinu za proizvode koje želite brendirati. Ne morate ispuniti svaki proizvod — o detaljima ćemo razgovarati nakon vašeg upita.",
+      "productsHint": "Unesite količinu za proizvode koje želite brendirati. Ne morate ispuniti svaki proizvod - o detaljima ćemo razgovarati nakon vašeg upita.",
       "quantity": "Količina (kom)",
       "message": "Poruka",
       "submit": "Pošalji poruku",
       "submitting": "Slanje...",
-      "success": "Hvala vam — javit ćemo vam se uskoro.",
+      "success": "Hvala vam - javit ćemo vam se uskoro.",
       "error": "Nešto nije u redu. Pokušajte ponovno za koji trenutak.",
       "alertSelect": "Unesite količinu za barem jedan proizvod. Ne morate naručiti svaki proizvod.",
       "boundaryError": "Obrazac za upit nije moguće učitati. Osvježite stranicu ili pošaljite e-poruku na support@ekcos.eu."
@@ -776,7 +785,7 @@
     "hub": {
       "title": "FAQ",
       "tagline": "Your questions, our facts",
-      "intro": "Choose the FAQ that matches how you buy from ëkcos — as a distributor partner, or as an e-shop customer.",
+      "intro": "Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.",
       "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
       "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
     }

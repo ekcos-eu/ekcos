@@ -1,9 +1,9 @@
 {
   "Metadata": {
-    "title": "ëkcos — Soluzioni sanitarie premium",
+    "title": "ëkcos - Soluzioni sanitarie premium",
     "description": "I nostri tappetini per orinatoio e i nostri deodoranti sono realizzati con EVA riciclato. Il materiale in sé può essere riciclato, ma un tappetino per orinatoio usato no, perché è contaminato biologicamente.",
     "productsTitle": "Prodotti",
-    "productsDescription": "Esplora i prodotti ëkcos: modelli, finiture e opzioni — poi visita lo store ufficiale.",
+    "productsDescription": "Esplora i prodotti ëkcos: modelli, finiture e opzioni - poi visita lo store ufficiale.",
     "ecoOneTitle": "Eco-One™",
     "ecoOneDescription": "I nostri tappetini per orinatoio e i nostri deodoranti sono realizzati con EVA riciclato. Il materiale in sé può essere riciclato, ma un tappetino per orinatoio usato no, perché è contaminato biologicamente.",
     "brandingTitle": "Branding personalizzato",
@@ -13,7 +13,7 @@
     "contactTitle": "Contatti",
     "contactDescription": "Contatta il team ëkcos per specifiche, programmi e partnership.",
     "privateLabelTitle": "Private Label",
-    "privateLabelDescription": "Vendi i prodotti washroom ëkcos con il tuo brand — private label per distributori.",
+    "privateLabelDescription": "Vendi i prodotti washroom ëkcos con il tuo brand - private label per distributori.",
     "faqTitle": "FAQ",
     "faqDescription": "Risposte chiare su prodotti ëkcos, materiali, Eco-One™, private label e ordini.",
     "faqDistributorsTitle": "FAQ per distributori",
@@ -60,7 +60,8 @@
       "label": "FAQ",
       "distributors": "Distributori",
       "eshop": "E-shop"
-    }
+    },
+    "closeMenu": "Chiudi menu"
   },
   "footer": {
     "tagline": "ëkcos innovations offre soluzioni per l’igiene che mantengono i bagni puliti e freschi, semplificano la manutenzione e utilizzano materiali riciclati e biodegradabili.",
@@ -93,7 +94,7 @@
     "benefits": "Vantaggi principali",
     "more": "Ulteriori dettagli",
     "openDetails": "Apri foto di dettaglio",
-    "detailGallery": "Foto di dettaglio — {name}",
+    "detailGallery": "Foto di dettaglio - {name}",
     "detailShot": "dettaglio",
     "boundaryError": "Questa scheda prodotto è temporaneamente non disponibile. Riprova."
   },
@@ -102,6 +103,14 @@
       "title": "Pronti a migliorare i vostri servizi?",
       "body": "Scoprite gli schermi per orinatoio e gli accessori ëkcos nello store ufficiale.",
       "button": "Shop"
+    },
+    "readMore": "Leggi l’articolo",
+    "empty": "Nessun articolo ancora. Torna presto.",
+    "categories": {
+      "guide": "Guida",
+      "product": "Prodotto",
+      "sustainability": "Sostenibilità",
+      "news": "Novità"
     }
   },
   "newsletter": {
@@ -161,7 +170,7 @@
     },
     "productsTeaser": {
       "title": "Scopri i nostri prodotti",
-      "body": "xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip e altro — poi lo store ufficiale.",
+      "body": "xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip e altro - poi lo store ufficiale.",
       "link": "Tutti i prodotti"
     },
     "brandingTeaser": {
@@ -171,7 +180,7 @@
     },
     "trust": {
       "title": "Progettato per strutture esigenti",
-      "body": "Igiene affidabile e immagine premium sul posto — da uffici a hospitality."
+      "body": "Igiene affidabile e immagine premium sul posto - da uffici a hospitality."
     },
     "newsletter": {
       "title": "Specifiche, lanci e aggiornamenti",
@@ -179,16 +188,16 @@
     },
     "finalCta": {
       "title": "Contattaci",
-      "body": "Domande su prodotti, consegna o ordini B2B? Scrivici — siamo felici di aiutarti.",
+      "body": "Domande su prodotti, consegna o ordini B2B? Scrivici - siamo felici di aiutarti.",
       "shop": "Vai allo store",
       "contact": "Invia messaggio"
     },
     "marketing": {
       "featuresEyebrow": "Piattaforma unificata",
       "featuresTitle": "Confronta, decidi e acquista con fiducia",
-      "featuresSubtitle": "Esplora le finiture, leggi i contenuti e apri lo store quando sei pronto — tutto in un flusso continuo.",
+      "featuresSubtitle": "Esplora le finiture, leggi i contenuti e apri lo store quando sei pronto - tutto in un flusso continuo.",
       "featureInteractTitle": "Selezione interattiva",
-      "featureInteractBody": "Cambia modelli, finiture e fragranze in pochi secondi — pensato per team facility e facility management.",
+      "featureInteractBody": "Cambia modelli, finiture e fragranze in pochi secondi - pensato per team facility e facility management.",
       "featureProofTitle": "Informazioni da condividere",
       "featureProofBody": "Materiali Eco-One™ chiari così il tuo team può spiegare la scelta a colleghi o clienti.",
       "featureB2bTitle": "Programmi scalabili",
@@ -225,7 +234,7 @@
     },
     "problem": {
       "title": "Perché la plastica ordinaria è un problema",
-      "body": "I prodotti in plastica ordinaria sono progettati per durare. Senza un additivo di biodegradazione, un prodotto in plastica inviato in discarica può rimanervi <bold>da 300 a 1.000 anni</bold>; i clog in schiuma stile «Crocs» sono un esempio familiare di plastica <bold>non biodegradabile</bold>. I nostri prodotti sono realizzati nello stesso tipo di plastica durevole (EVA) — ma con una differenza decisiva: l’additivo Eco-One™.",
+      "body": "I prodotti in plastica ordinaria sono progettati per durare. Senza un additivo di biodegradazione, un prodotto in plastica inviato in discarica può rimanervi <bold>da 300 a 1.000 anni</bold>; i clog in schiuma stile «Crocs» sono un esempio familiare di plastica <bold>non biodegradabile</bold>. I nostri prodotti sono realizzati nello stesso tipo di plastica durevole (EVA) - ma con una differenza decisiva: l’additivo Eco-One™.",
       "chartAlt": "Prodotti senza Eco-One™ confrontati con prodotti ëkcos contenenti l’additivo",
       "chartCaption": "Prodotti senza Eco-One™ confrontati con prodotti ëkcos contenenti l’additivo.",
       "chart": {
@@ -278,10 +287,10 @@
     },
     "closing": {
       "title": "Prodotti ëkcos con Eco-One™",
-      "body": "I nostri prodotti per i servizi igienici sono realizzati con l’additivo Eco-One™. In un test di laboratorio indipendente, l’EVA ëkcos con Eco-One™ ha raggiunto il 93 % di biodegradazione in 3,5 anni, e si proietta fino al 99 % entro 5 anni in discarica — con le stesse prestazioni dei prodotti senza additivo.",
+      "body": "I nostri prodotti per i servizi igienici sono realizzati con l’additivo Eco-One™. In un test di laboratorio indipendente, l’EVA ëkcos con Eco-One™ ha raggiunto il 93 % di biodegradazione in 3,5 anni, e si proietta fino al 99 % entro 5 anni in discarica - con le stesse prestazioni dei prodotti senza additivo.",
       "shopCta": "Shop"
     },
-    "footnote": "Fonte dati: test di biodegradazione indipendente secondo ASTM D5511-02 e ISO 15985:2014 (Instituto Politécnico Nacional, Città del Messico) — prodotto ëkcos con 1 % di additivo Eco-One™: 93,31 % di biodegradazione in 1.288 giorni (≈3,5 anni); lo stesso prodotto senza additivo: 0 %. La biodegradazione oltre il periodo di test (fino al 99 % entro ~5 anni) è proiettata dal trend misurato. Le cifre di persistenza delle plastiche convenzionali (≈300–1.000 anni) sono stime di settore ampiamente citate. L’additivo Eco-One™ è prodotto e certificato da EcoLogic, LLC."
+    "footnote": "Fonte dati: test di biodegradazione indipendente secondo ASTM D5511-02 e ISO 15985:2014 (Instituto Politécnico Nacional, Città del Messico) - prodotto ëkcos con 1 % di additivo Eco-One™: 93,31 % di biodegradazione in 1.288 giorni (≈3,5 anni); lo stesso prodotto senza additivo: 0 %. La biodegradazione oltre il periodo di test (fino al 99 % entro ~5 anni) è proiettata dal trend misurato. Le cifre di persistenza delle plastiche convenzionali (≈300–1.000 anni) sono stime di settore ampiamente citate. L’additivo Eco-One™ è prodotto e certificato da EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {
@@ -293,7 +302,7 @@
     "sections": {
       "private": {
         "title": "Marchio privato",
-        "body": "I vostri file grafici, dall’approvazione alla produzione — così ogni lotto rispetta il marchio."
+        "body": "I vostri file grafici, dall’approvazione alla produzione - così ogni lotto rispetta il marchio."
       },
       "cutouts": {
         "title": "Sagome personalizzate",
@@ -364,22 +373,22 @@
       "phone": "Telefono",
       "message": "Messaggio",
       "submit": "Invia messaggio",
-      "success": "Grazie — ti risponderemo a breve.",
+      "success": "Grazie - ti risponderemo a breve.",
       "error": "Qualcosa è andato storto. Riprova."
     },
     "hero": {
       "eyebrow": "Supporto tecnico e commerciale",
       "title": "Contatti",
-      "subtitle": "Chiedete di Eco-One™, specifiche o programmi B2B — ordinate nello store ufficiale quando volete."
+      "subtitle": "Chiedete di Eco-One™, specifiche o programmi B2B - ordinate nello store ufficiale quando volete."
     }
   },
   "products": {
     "page": {
       "title": "Prodotti",
-      "intro": "Cambia modello e finitura — poi acquista nello store ufficiale.",
+      "intro": "Cambia modello e finitura - poi acquista nello store ufficiale.",
       "heroEyebrow": "Esplora la gamma",
       "heroTitle": "Ogni linea in un solo punto",
-      "heroSubtitle": "Finiture e fragranze — apri lo store quando vuoi acquistare.",
+      "heroSubtitle": "Finiture e fragranze - apri lo store quando vuoi acquistare.",
       "heroLinkEco": "Scopri Eco-One™",
       "heroLinkBranding": "Branding personalizzato"
     },
@@ -687,7 +696,7 @@
       "eyebrow": "Per i distributori",
       "title": "Programma Private Label",
       "lead": "Vendi i nostri prodotti con il tuo brand",
-      "body": "Fai crescere il tuo business con una linea di prodotti a tuo nome. Il nostro programma Private Label consente ai distributori di aggiungere al portafoglio prodotti washroom collaudati e ad alte prestazioni e di venderli con il proprio brand — senza sviluppo o attrezzature proprie. Ci basta il tuo logo; al resto pensiamo noi.",
+      "body": "Fai crescere il tuo business con una linea di prodotti a tuo nome. Il nostro programma Private Label consente ai distributori di aggiungere al portafoglio prodotti washroom collaudati e ad alte prestazioni e di venderli con il proprio brand - senza sviluppo o attrezzature proprie. Ci basta il tuo logo; al resto pensiamo noi.",
       "cta": "Diventa partner"
     },
     "why": {
@@ -695,7 +704,7 @@
       "items": {
         "0": {
           "title": "Soluzioni collaudate",
-          "body": "Ogni prodotto è il risultato di uno sviluppo intensivo ed è progettato per prestazioni affidabili — una gamma a cui puoi affidare il tuo nome con fiducia."
+          "body": "Ogni prodotto è il risultato di uno sviluppo intensivo ed è progettato per prestazioni affidabili - una gamma a cui puoi affidare il tuo nome con fiducia."
         },
         "1": {
           "title": "Personalizzazione semplice",
@@ -715,14 +724,14 @@
       },
       "cutout": {
         "title": "Intaglio del logo",
-        "body": "Il tuo logo integrato nel materiale stesso come intaglio unico — una finitura premium che nessun altro produttore offre, e un forte differenziatore per la tua gamma."
+        "body": "Il tuo logo integrato nel materiale stesso come intaglio unico - una finitura premium che nessun altro produttore offre, e un forte differenziatore per la tua gamma."
       }
     },
     "beyond": {
       "title": "Personalizza oltre il prodotto",
       "packaging": {
         "title": "Packaging ed etichette",
-        "body": "Aggiungi logo, dati aziendali, nomi prodotto, descrizioni, codici EAN e altro su scatole, master case o sacchetti singoli — pronti per la vendita con il tuo brand."
+        "body": "Aggiungi logo, dati aziendali, nomi prodotto, descrizioni, codici EAN e altro su scatole, master case o sacchetti singoli - pronti per la vendita con il tuo brand."
       },
       "mix": {
         "title": "Colore e fragranza",
@@ -746,12 +755,12 @@
       "email": "Email",
       "phone": "Telefono",
       "products": "Prodotti per private label",
-      "productsHint": "Inserisci la quantità solo per i prodotti che vuoi brandizzare. Non devi compilare tutto — definiremo i dettagli dopo la richiesta.",
+      "productsHint": "Inserisci la quantità solo per i prodotti che vuoi brandizzare. Non devi compilare tutto - definiremo i dettagli dopo la richiesta.",
       "quantity": "Qta (pz)",
       "message": "Messaggio",
       "submit": "Invia messaggio",
       "submitting": "Invio…",
-      "success": "Grazie — ti ricontatteremo a breve.",
+      "success": "Grazie - ti ricontatteremo a breve.",
       "error": "Qualcosa è andato storto. Riprova tra un momento.",
       "alertSelect": "Inserisci una quantità per almeno un prodotto. Non è necessario ordinare tutti i prodotti.",
       "boundaryError": "Impossibile caricare il modulo. Aggiorna la pagina o scrivi a support@ekcos.eu."
@@ -776,7 +785,7 @@
     "hub": {
       "title": "FAQ",
       "tagline": "Le vostre domande, i nostri fatti",
-      "intro": "Scegliete la FAQ in base a come acquistate da ëkcos — come distributore partner o come cliente e-shop.",
+      "intro": "Scegliete la FAQ in base a come acquistate da ëkcos - come distributore partner o come cliente e-shop.",
       "distributorsDescription": "Prodotti, materiali, Eco-One™, private label, documenti e collaborazione con ëkcos.",
       "eshopDescription": "Prodotti, ordini, pagamento, consegna, resi e acquisti su eshop.ekcos.eu."
     }

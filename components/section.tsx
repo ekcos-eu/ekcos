@@ -53,7 +53,7 @@ export function SectionHeading({
   eyebrow,
   title,
   description,
-  align = 'center',
+  align = 'left',
   dark
 }: {
   eyebrow?: string
@@ -65,12 +65,11 @@ export function SectionHeading({
   return (
     <div
       className={cn(
-        'max-w-3xl',
         align === 'center' && 'mx-auto text-center',
         align === 'left' && 'text-left'
       )}
     >
-      {eyebrow && (
+      {eyebrow ? (
         <p
           className={cn(
             'text-xs font-semibold tracking-wider text-balance uppercase',
@@ -79,10 +78,11 @@ export function SectionHeading({
         >
           {eyebrow}
         </p>
-      )}
+      ) : null}
       <h2
         className={cn(
-          'mt-2 text-3xl font-bold tracking-tight text-balance sm:text-4xl',
+          'text-2xl font-bold tracking-tight text-balance sm:text-3xl',
+          eyebrow && 'mt-2',
           dark ? 'text-white' : 'text-[#575756]'
         )}
       >

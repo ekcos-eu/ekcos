@@ -1,3 +1,4 @@
+import { PageContainer } from '@/components/layout/page-container'
 import { PageHero } from '@/components/layout/page-hero'
 import { FadeIn } from '@/components/ui/fade-in'
 import { Link } from '@/i18n/routing'
@@ -23,12 +24,12 @@ export async function FaqHubView() {
 
   return (
     <div className="overflow-x-hidden bg-white text-[#2c2c2c]">
-      <PageHero size="md">
+      <PageHero>
         <FadeIn>
           <h1 className="text-4xl font-bold tracking-tight text-[#1a1a1a] text-balance sm:text-5xl">
             {t('hub.title')}
           </h1>
-          <p className="mt-4 text-xl font-bold leading-snug text-[#0F68B2] text-balance sm:text-2xl">
+          <p className="mt-5 text-xl font-bold leading-snug text-[#0F68B2] text-balance sm:text-2xl">
             {t('hub.tagline')}
           </p>
           <p className="mt-6 text-justify text-base leading-relaxed text-[#575756] sm:text-lg sm:leading-[1.7]">
@@ -37,7 +38,7 @@ export async function FaqHubView() {
         </FadeIn>
       </PageHero>
 
-      <div className="mx-auto grid max-w-3xl gap-4 px-4 py-12 sm:gap-6 sm:px-6 sm:py-16">
+      <PageContainer className="grid gap-4 py-12 sm:gap-6 sm:py-16">
         {cards.map((card) => (
           <FadeIn key={card.href}>
             <Link
@@ -59,7 +60,7 @@ export async function FaqHubView() {
             </Link>
           </FadeIn>
         ))}
-      </div>
+      </PageContainer>
     </div>
   )
 }

@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "title": "ëkcos — Torne-se ecológico a cada descarga",
+    "title": "ëkcos - Torne-se ecológico a cada descarga",
     "description": "Os nossos tapetes para urinol e ambientadores são fabricados com EVA reciclado. O material em si pode ser reciclado, mas um tapete para urinol usado não, porque está biologicamente contaminado. Acaba num aterro sanitário ou na incineração, e é por isso que adicionamos o aditivo Eco-One™ a todos os nossos produtos.",
     "productsTitle": "Produtos",
     "productsDescription": "Explore os produtos ëkcos: alterne modelos, acabamentos e opções - depois visite a loja oficial.",
@@ -60,7 +60,8 @@
       "label": "Perguntas frequentes",
       "distributors": "Distribuidores",
       "eshop": "E-shop"
-    }
+    },
+    "closeMenu": "Fechar menu"
   },
   "footer": {
     "tagline": "A ëkcos innovations oferece soluções de higiene que mantêm as casas de banho limpas e frescas, facilitam a manutenção e utilizam materiais reciclados e biodegradáveis.",
@@ -93,7 +94,7 @@
     "benefits": "Principais benefícios",
     "more": "Mais detalhes",
     "openDetails": "Abrir fotos detalhadas",
-    "detailGallery": "Fotos detalhadas — {name}",
+    "detailGallery": "Fotos detalhadas - {name}",
     "detailShot": "detalhe",
     "boundaryError": "Esta visualização do produto está temporariamente indisponível. Por favor, tente novamente."
   },
@@ -102,6 +103,14 @@
       "title": "Pronto para atualizar seus banheiros?",
       "body": "Procure telas e acessórios para mictórios ëkcos na loja oficial.",
       "button": "Comprar"
+    },
+    "readMore": "Ler artigo",
+    "empty": "Ainda sem artigos. Volte em breve.",
+    "categories": {
+      "guide": "Guia",
+      "product": "Produto",
+      "sustainability": "Sustentabilidade",
+      "news": "Notícias"
     }
   },
   "newsletter": {
@@ -225,7 +234,7 @@
     },
     "problem": {
       "title": "Por que o plástico comum é um problema",
-      "body": "Os produtos plásticos comuns são projetados para durar. Sem um aditivo de biodegradação, um produto plástico enviado para aterro pode permanecer lá por <bold>300 a 1.000 anos</bold>; tamancos de espuma “estilo Crocs” são um exemplo familiar de plástico que <bold>não é biodegradável</bold>. Nossos produtos são feitos do mesmo tipo de plástico durável (EVA) — mas com uma diferença decisiva: o aditivo Eco-One™.",
+      "body": "Os produtos plásticos comuns são projetados para durar. Sem um aditivo de biodegradação, um produto plástico enviado para aterro pode permanecer lá por <bold>300 a 1.000 anos</bold>; tamancos de espuma “estilo Crocs” são um exemplo familiar de plástico que <bold>não é biodegradável</bold>. Nossos produtos são feitos do mesmo tipo de plástico durável (EVA) - mas com uma diferença decisiva: o aditivo Eco-One™.",
       "chartAlt": "Produtos sem Eco-One™ em comparação com produtos ëkcos contendo o aditivo",
       "chartCaption": "Produtos sem Eco-One™ em comparação com produtos ëkcos contendo o aditivo.",
       "chart": {
@@ -278,10 +287,10 @@
     },
     "closing": {
       "title": "Produtos ëkcos com Eco-One™",
-      "body": "Nossos produtos para banheiro são fabricados com o aditivo Eco-One™. Em um teste de laboratório independente, o ëkcos EVA com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e até 99% é projetado em 5 anos em condições de aterro — com desempenho idêntico aos produtos sem o aditivo.",
+      "body": "Nossos produtos para banheiro são fabricados com o aditivo Eco-One™. Em um teste de laboratório independente, o ëkcos EVA com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e até 99% é projetado em 5 anos em condições de aterro - com desempenho idêntico aos produtos sem o aditivo.",
       "shopCta": "Comprar"
     },
-    "footnote": "Fonte de dados: teste de biodegradação independente de acordo com ASTM D5511-02 e ISO 15985:2014 (Instituto Politécnico Nacional, Cidade do México) — Produto ëkcos com 1% de aditivo Eco-One™: 93,31% de biodegradação ao longo de 1.288 dias (≈3,5 anos); o mesmo produto sem o aditivo: 0%. A biodegradação além do período de teste (até 99% dentro de aproximadamente 5 anos) é projetada a partir da tendência medida. Os números de persistência para plásticos convencionais (≈300–1.000 anos) são estimativas da indústria amplamente citadas. O aditivo Eco-One™ é fabricado e certificado pela EcoLogic, LLC."
+    "footnote": "Fonte de dados: teste de biodegradação independente de acordo com ASTM D5511-02 e ISO 15985:2014 (Instituto Politécnico Nacional, Cidade do México) - Produto ëkcos com 1% de aditivo Eco-One™: 93,31% de biodegradação ao longo de 1.288 dias (≈3,5 anos); o mesmo produto sem o aditivo: 0%. A biodegradação além do período de teste (até 99% dentro de aproximadamente 5 anos) é projetada a partir da tendência medida. Os números de persistência para plásticos convencionais (≈300–1.000 anos) são estimativas da indústria amplamente citadas. O aditivo Eco-One™ é fabricado e certificado pela EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {
@@ -295,7 +304,7 @@
     "sections": {
       "private": {
         "title": "Marca privada",
-        "body": "Sua arte é tratada de forma consistente desde a aprovação até a produção — para que cada lote corresponda à sua marca."
+        "body": "Sua arte é tratada de forma consistente desde a aprovação até a produção - para que cada lote corresponda à sua marca."
       },
       "cutouts": {
         "title": "Recortes personalizados",
@@ -379,7 +388,7 @@
       "intro": "Switch models and finishes, then buy in the official store.",
       "heroEyebrow": "Explore the range",
       "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
       "heroLinkEco": "About Eco-One™",
       "heroLinkBranding": "Custom branding"
     },
@@ -686,7 +695,7 @@
       "eyebrow": "Para distribuidores",
       "title": "Programa de Marca Própria",
       "lead": "Venda nossos produtos com sua própria marca",
-      "body": "Expanda seus negócios com sua própria linha de produtos. Nosso Programa de Marca Própria permite que os distribuidores adicionem produtos de banheiro comprovados e de alto desempenho ao seu portfólio e os vendam sob sua própria marca — sem desenvolvimento ou ferramentas próprias. Tudo o que precisamos é do seu logotipo; nós cuidamos do resto.",
+      "body": "Expanda seus negócios com sua própria linha de produtos. Nosso Programa de Marca Própria permite que os distribuidores adicionem produtos de banheiro comprovados e de alto desempenho ao seu portfólio e os vendam sob sua própria marca - sem desenvolvimento ou ferramentas próprias. Tudo o que precisamos é do seu logotipo; nós cuidamos do resto.",
       "cta": "Torne-se um parceiro"
     },
     "why": {
@@ -775,7 +784,7 @@
     "hub": {
       "title": "FAQ",
       "tagline": "Your questions, our facts",
-      "intro": "Choose the FAQ that matches how you buy from ëkcos — as a distributor partner, or as an e-shop customer.",
+      "intro": "Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.",
       "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
       "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
     }

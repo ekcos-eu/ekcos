@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "title": "ëkcos — Mene vihreäksi jokaisella värillä",
+    "title": "ëkcos - Mene vihreäksi jokaisella värillä",
     "description": "Urinaalimattojemme ja raikastimiemme valmistuksessa käytetään kierrätettyä EVA-materiaalia. Itse materiaalin voi kierrättää, mutta käytettyä urinaalimattoa ei, koska se on biologisesti saastunut. Se päätyy kaatopaikalle tai poltettavaksi, ja siksi lisäämme kaikkiin tuotteisiimme Eco-One™-lisäainetta.",
     "productsTitle": "Tuotteet",
     "productsDescription": "Tutustu ëkcos-tuotteisiin: vaihda malleja, viimeistelyjä ja vaihtoehtoja – käy sitten virallisessa myymälässä.",
@@ -60,7 +60,8 @@
       "label": "FAQ",
       "distributors": "Jälleenmyyjät",
       "eshop": "Verkkokauppa"
-    }
+    },
+    "closeMenu": "Sulje valikko"
   },
   "footer": {
     "tagline": "ëkcos innovations tarjoaa hygieniaratkaisuja, jotka pitävät WC-tilat puhtaina ja raikkaina, helpottavat ylläpitoa ja hyödyntävät kierrätettyjä, biohajoavia materiaaleja.",
@@ -93,7 +94,7 @@
     "benefits": "Tärkeimmät edut",
     "more": "Lisätietoja",
     "openDetails": "Avaa yksityiskohtaiset kuvat",
-    "detailGallery": "Yksityiskohtaiset kuvat — {name}",
+    "detailGallery": "Yksityiskohtaiset kuvat - {name}",
     "detailShot": "yksityiskohta",
     "boundaryError": "Tämä tuotenäkymä on väliaikaisesti poissa käytöstä. Yritä uudelleen."
   },
@@ -102,6 +103,14 @@
       "title": "Oletko valmis päivittämään wc:si?",
       "body": "Selaa ëkcos pisuaarien näyttöjä ja tarvikkeita virallisessa myymälässä.",
       "button": "Kauppa"
+    },
+    "readMore": "Lue artikkeli",
+    "empty": "Ei vielä artikkeleita. Palaa pian.",
+    "categories": {
+      "guide": "Opas",
+      "product": "Tuote",
+      "sustainability": "Kestävyys",
+      "news": "Uutiset"
     }
   },
   "newsletter": {
@@ -281,7 +290,7 @@
       "body": "Pesuhuonetuotteemme valmistetaan Eco-One™-lisäaineella. Riippumattomassa laboratoriotestissä ëkcos EVA ja Eco-One™ saavuttivat 93 %:n biohajoavuuden 3,5 vuodessa, ja jopa 99 %:n ennustetaan olevan 5 vuoden sisällä kaatopaikkaolosuhteissa – suorituskyvyn ollessa identtinen ilman lisäainetta sisältävien tuotteiden kanssa.",
       "shopCta": "Kauppa"
     },
-    "footnote": "Tietolähde: riippumaton biohajoavuustesti ASTM D5511-02:n ja ISO 15985:2014:n mukaan (Instituto Politécnico Nacional, Mexico City) — ëkcos tuote, jossa on 1 % Eco-One™ lisäainetta: 93,31 % biohajoavuus 5 vuoden aikana (≈ 283 päivää); sama tuote ilman lisäainetta: 0 %. Biohajoaminen testijakson jälkeen (jopa 99 % ~5 vuoden sisällä) ennustetaan mitatusta trendistä. Perinteisten muovien kestävyysluvut (≈300–1 000 vuotta) ovat laajalti siteerattuja teollisuuden arvioita. Eco-One™-lisäaineen valmistaa ja sertifioi EcoLogic, LLC."
+    "footnote": "Tietolähde: riippumaton biohajoavuustesti ASTM D5511-02:n ja ISO 15985:2014:n mukaan (Instituto Politécnico Nacional, Mexico City) - ëkcos tuote, jossa on 1 % Eco-One™ lisäainetta: 93,31 % biohajoavuus 5 vuoden aikana (≈ 283 päivää); sama tuote ilman lisäainetta: 0 %. Biohajoaminen testijakson jälkeen (jopa 99 % ~5 vuoden sisällä) ennustetaan mitatusta trendistä. Perinteisten muovien kestävyysluvut (≈300–1 000 vuotta) ovat laajalti siteerattuja teollisuuden arvioita. Eco-One™-lisäaineen valmistaa ja sertifioi EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {
@@ -379,7 +388,7 @@
       "intro": "Switch models and finishes, then buy in the official store.",
       "heroEyebrow": "Explore the range",
       "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
       "heroLinkEco": "About Eco-One™",
       "heroLinkBranding": "Custom branding"
     },
@@ -776,7 +785,7 @@
     "hub": {
       "title": "FAQ",
       "tagline": "Your questions, our facts",
-      "intro": "Choose the FAQ that matches how you buy from ëkcos — as a distributor partner, or as an e-shop customer.",
+      "intro": "Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.",
       "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
       "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
     }

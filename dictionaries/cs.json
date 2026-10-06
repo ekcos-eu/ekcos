@@ -1,9 +1,9 @@
 {
   "Metadata": {
-    "title": "ëkcos — Zeleněji při každém spláchnutí",
+    "title": "ëkcos - Zeleněji při každém spláchnutí",
     "description": "Naše sítka do pisoárů a osvěžovače vyrábíme s podílem recyklovaného EVA. Samotný materiál lze recyklovat, použité sítko do pisoáru však ne, protože je biologicky kontaminované. Končí na skládce nebo ve spalovně, a proto do všech našich výrobků přidáváme přísadu Eco-One™.",
     "productsTitle": "Produkty",
-    "productsDescription": "Prohlédněte si produkty ëkcos: přepínejte modely, povrchové úpravy a varianty — poté přejděte do oficiálního obchodu.",
+    "productsDescription": "Prohlédněte si produkty ëkcos: přepínejte modely, povrchové úpravy a varianty - poté přejděte do oficiálního obchodu.",
     "ecoOneTitle": "Eco-One™",
     "ecoOneDescription": "Naše sítka do pisoárů a osvěžovače vyrábíme s podílem recyklovaného EVA. Samotný materiál lze recyklovat, použité sítko do pisoáru však ne, protože je biologicky kontaminované. Končí na skládce nebo ve spalovně, a proto do všech našich výrobků přidáváme přísadu Eco-One™.",
     "brandingTitle": "Vlastní branding",
@@ -13,7 +13,7 @@
     "contactTitle": "Kontakt",
     "contactDescription": "Kontaktujte tým ëkcos ohledně specifikací, programů a partnerství.",
     "privateLabelTitle": "Private Label",
-    "privateLabelDescription": "Prodávejte washroom produkty ëkcos pod vlastní značkou — private label pro distributory.",
+    "privateLabelDescription": "Prodávejte washroom produkty ëkcos pod vlastní značkou - private label pro distributory.",
     "faqTitle": "FAQ",
     "faqDescription": "Jasné odpovědi k výrobkům ëkcos, materiálům, Eco-One™, privátní značce a objednávkám.",
     "faqDistributorsTitle": "FAQ pro distributory",
@@ -60,7 +60,8 @@
       "label": "FAQ",
       "distributors": "Distributoři",
       "eshop": "E-shop"
-    }
+    },
+    "closeMenu": "Zavřít menu"
   },
   "footer": {
     "tagline": "ëkcos innovations přináší hygienická řešení, která udržují toalety čisté a svěží, usnadňují údržbu a využívají recyklované, biologicky rozložitelné materiály.",
@@ -93,7 +94,7 @@
     "benefits": "Klíčové výhody",
     "more": "Více informací",
     "openDetails": "Otevřít detailní fotografie",
-    "detailGallery": "Detailní fotografie — {name}",
+    "detailGallery": "Detailní fotografie - {name}",
     "detailShot": "detail",
     "boundaryError": "Zobrazení produktu je dočasně nedostupné. Zkuste to prosím znovu."
   },
@@ -102,6 +103,14 @@
       "title": "Chcete vylepšit své toalety?",
       "body": "Prohlédněte si pisoárové sítka a příslušenství ëkcos na oficiálním eshopu.",
       "button": "Shop"
+    },
+    "readMore": "Číst článek",
+    "empty": "Zatím žádné články. Brzy přidáme další.",
+    "categories": {
+      "guide": "Průvodce",
+      "product": "Produkt",
+      "sustainability": "Udržitelnost",
+      "news": "Novinky"
     }
   },
   "newsletter": {
@@ -161,7 +170,7 @@
     },
     "productsTeaser": {
       "title": "Objevte naše produkty",
-      "body": "Prohlédněte si xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip a další — poté přejděte do oficiálního obchodu.",
+      "body": "Prohlédněte si xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip a další - poté přejděte do oficiálního obchodu.",
       "link": "Všechny produkty"
     },
     "brandingTeaser": {
@@ -171,7 +180,7 @@
     },
     "trust": {
       "title": "Navrženo pro náročné provozy",
-      "body": "Spolehlivá hygiena a prémiový dojem — od kanceláří po hotely."
+      "body": "Spolehlivá hygiena a prémiový dojem - od kanceláří po hotely."
     },
     "newsletter": {
       "title": "Specifikace, novinky a programové aktuality",
@@ -179,16 +188,16 @@
     },
     "finalCta": {
       "title": "Kontaktujte nás",
-      "body": "Máte dotaz k produktům, doručení nebo B2B objednávkám? Napište nám — rádi pomůžeme.",
+      "body": "Máte dotaz k produktům, doručení nebo B2B objednávkám? Napište nám - rádi pomůžeme.",
       "shop": "Do obchodu",
       "contact": "Poslat zprávu"
     },
     "marketing": {
       "featuresEyebrow": "Jedna platforma",
       "featuresTitle": "Porovnejte, rozhodněte se, nakupte s jistotou",
-      "featuresSubtitle": "Prohlédněte si povrchy, přečtěte si fakta a otevřete obchod, až budete připraveni — v jednom plynulém kroku.",
+      "featuresSubtitle": "Prohlédněte si povrchy, přečtěte si fakta a otevřete obchod, až budete připraveni - v jednom plynulém kroku.",
       "featureInteractTitle": "Interaktivní výběr",
-      "featureInteractBody": "Přepínejte modely, povrchy a vůně během chvilky — pro facility a správu provozů.",
+      "featureInteractBody": "Přepínejte modely, povrchy a vůně během chvilky - pro facility a správu provozů.",
       "featureProofTitle": "Fakta, která můžete předat dál",
       "featureProofBody": "Srozumitelné materiály ke stažení Eco-One™, aby váš tým mohl rozhodnutí vysvětlit kolegům nebo klientům.",
       "featureB2bTitle": "Programy v měřítku",
@@ -225,7 +234,7 @@
     },
     "problem": {
       "title": "Proč je běžný plast problém",
-      "body": "Běžné plastové výrobky jsou navržené tak, aby vydržely. Bez biodegradačního aditiva může plast na skládce zůstat <bold>300 až 1 000 let</bold>; známým příkladem <bold>nerozložitelného</bold> plastu jsou například pěnové pantofle typu „Crocs“. Naše produkty jsou vyrobené ze stejného typu odolného plastu (EVA) — ale s jedním zásadním rozdílem: aditivem Eco-One™.",
+      "body": "Běžné plastové výrobky jsou navržené tak, aby vydržely. Bez biodegradačního aditiva může plast na skládce zůstat <bold>300 až 1 000 let</bold>; známým příkladem <bold>nerozložitelného</bold> plastu jsou například pěnové pantofle typu „Crocs“. Naše produkty jsou vyrobené ze stejného typu odolného plastu (EVA) - ale s jedním zásadním rozdílem: aditivem Eco-One™.",
       "chartAlt": "Produkty bez Eco-One™ ve srovnání s produkty ëkcos s aditivem",
       "chartCaption": "Produkty bez Eco-One™ ve srovnání s produkty ëkcos s aditivem.",
       "chart": {
@@ -278,10 +287,10 @@
     },
     "closing": {
       "title": "Výrobky ëkcos s Eco-One™",
-      "body": "Naše výrobky pro toalety se vyrábějí s přísadou Eco-One™. V nezávislém laboratorním testu se materiál EVA ëkcos s Eco-One™ za 3,5 roku biologicky rozložil z 93 % a do 5 let se na skládce předpokládá rozklad až 99 % — při stejném výkonu jako u výrobků bez přísady.",
+      "body": "Naše výrobky pro toalety se vyrábějí s přísadou Eco-One™. V nezávislém laboratorním testu se materiál EVA ëkcos s Eco-One™ za 3,5 roku biologicky rozložil z 93 % a do 5 let se na skládce předpokládá rozklad až 99 % - při stejném výkonu jako u výrobků bez přísady.",
       "shopCta": "Shop"
     },
-    "footnote": "Zdroj dat: nezávislý biodegradační test podle ASTM D5511-02 a ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) — produkt ëkcos s 1% aditivem Eco-One™: 93,31 % biodegradace za 1 288 dní (≈3,5 roku); stejný produkt bez aditiva: 0 %. Biodegradace nad rámec testovaného období (až 99 % do ~5 let) je projekcí z naměřeného trendu. Údaje o přetrvání běžných plastů (≈300–1 000 let) jsou široce citované oborové odhady. Aditivum Eco-One™ vyrábí a certifikuje EcoLogic, LLC."
+    "footnote": "Zdroj dat: nezávislý biodegradační test podle ASTM D5511-02 a ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) - produkt ëkcos s 1% aditivem Eco-One™: 93,31 % biodegradace za 1 288 dní (≈3,5 roku); stejný produkt bez aditiva: 0 %. Biodegradace nad rámec testovaného období (až 99 % do ~5 let) je projekcí z naměřeného trendu. Údaje o přetrvání běžných plastů (≈300–1 000 let) jsou široce citované oborové odhady. Aditivum Eco-One™ vyrábí a certifikuje EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {
@@ -293,7 +302,7 @@
     "sections": {
       "private": {
         "title": "Vlastní branding",
-        "body": "Vaše artworky konzistentně od schválení až po výrobu — aby každá šarže odpovídala značce."
+        "body": "Vaše artworky konzistentně od schválení až po výrobu - aby každá šarže odpovídala značce."
       },
       "cutouts": {
         "title": "Vlastní výřezy",
@@ -364,22 +373,22 @@
       "phone": "Telefon",
       "message": "Zpráva",
       "submit": "Odeslat zprávu",
-      "success": "Děkujeme — brzy se ozveme.",
+      "success": "Děkujeme - brzy se ozveme.",
       "error": "Něco se pokazilo. Zkuste to znovu."
     },
     "hero": {
       "eyebrow": "Technická a obchodní podpora",
       "title": "Kontakt",
-      "subtitle": "Zeptejte se na Eco-One™, specifikace nebo B2B programy — běžné objednávky kdykoli v oficiálním obchodě."
+      "subtitle": "Zeptejte se na Eco-One™, specifikace nebo B2B programy - běžné objednávky kdykoli v oficiálním obchodě."
     }
   },
   "products": {
     "page": {
       "title": "Produkty",
-      "intro": "Změňte model a povrch — pak nakupte v oficiálním obchodě.",
+      "intro": "Změňte model a povrch - pak nakupte v oficiálním obchodě.",
       "heroEyebrow": "Prohlédněte si nabídku",
       "heroTitle": "Každou řadu na jednom místě",
-      "heroSubtitle": "Povrchy a vůně — otevřete obchod, až budete chtít koupit.",
+      "heroSubtitle": "Povrchy a vůně - otevřete obchod, až budete chtít koupit.",
       "heroLinkEco": "Více o Eco-One™",
       "heroLinkBranding": "Vlastní branding"
     },
@@ -687,7 +696,7 @@
       "eyebrow": "Pro distributory",
       "title": "Private Label Program",
       "lead": "Prodávejte naše produkty pod vlastní značkou",
-      "body": "Rozšiřte své podnikání o vlastní řadu produktů. Náš Private Label Program umožňuje distributorům doplnit portfolio o osvědčené washroom produkty s vysokým výkonem a prodávat je pod vlastní značkou — bez vlastního vývoje nebo nástrojů. Stačí nám vaše logo; o zbytek se postaráme my.",
+      "body": "Rozšiřte své podnikání o vlastní řadu produktů. Náš Private Label Program umožňuje distributorům doplnit portfolio o osvědčené washroom produkty s vysokým výkonem a prodávat je pod vlastní značkou - bez vlastního vývoje nebo nástrojů. Stačí nám vaše logo; o zbytek se postaráme my.",
       "cta": "Stát se partnerem"
     },
     "why": {
@@ -695,7 +704,7 @@
       "items": {
         "0": {
           "title": "Osvědčená řešení",
-          "body": "Každý produkt je výsledkem intenzivního vývoje a je navržen pro spolehlivý výkon — řada, na kterou můžete dát své jméno s důvěrou."
+          "body": "Každý produkt je výsledkem intenzivního vývoje a je navržen pro spolehlivý výkon - řada, na kterou můžete dát své jméno s důvěrou."
         },
         "1": {
           "title": "Snadná customizace",
@@ -715,14 +724,14 @@
       },
       "cutout": {
         "title": "Výřez loga",
-        "body": "Vaše logo integrované přímo do materiálu jako unikátní výřez — prémiové řešení, které žádný jiný výrobce nenabízí, a silný diferenciátor vaší řady."
+        "body": "Vaše logo integrované přímo do materiálu jako unikátní výřez - prémiové řešení, které žádný jiný výrobce nenabízí, a silný diferenciátor vaší řady."
       }
     },
     "beyond": {
       "title": "Úpravy i mimo samotný produkt",
       "packaging": {
         "title": "Balení a etikety",
-        "body": "Přidejte logo, firemní údaje, názvy produktů, popisy, EAN kódy a další informace na krabice, master boxy nebo jednotlivé sáčky — připravené k prodeji pod vaší značkou."
+        "body": "Přidejte logo, firemní údaje, názvy produktů, popisy, EAN kódy a další informace na krabice, master boxy nebo jednotlivé sáčky - připravené k prodeji pod vaší značkou."
       },
       "mix": {
         "title": "Barva a vůně",
@@ -746,12 +755,12 @@
       "email": "E-mail",
       "phone": "Telefon",
       "products": "Produkty pro private label",
-      "productsHint": "Zadejte množství jen u produktů, které chcete brandovat. Nemusíte vyplnit všechny položky — detaily doladíme po poptávce.",
+      "productsHint": "Zadejte množství jen u produktů, které chcete brandovat. Nemusíte vyplnit všechny položky - detaily doladíme po poptávce.",
       "quantity": "Množství (ks)",
       "message": "Zpráva",
       "submit": "Odeslat zprávu",
       "submitting": "Odesílám…",
-      "success": "Děkujeme — brzy se vám ozveme.",
+      "success": "Děkujeme - brzy se vám ozveme.",
       "error": "Něco se pokazilo. Zkuste to prosím znovu za chvíli.",
       "alertSelect": "Zadejte prosím množství alespoň u jednoho produktu. Nemusíte objednávat všechny produkty.",
       "boundaryError": "Formulář se nepodařilo načíst. Obnovte stránku nebo napište na support@ekcos.eu."
@@ -776,7 +785,7 @@
     "hub": {
       "title": "FAQ",
       "tagline": "Vaše otázky, naše fakta",
-      "intro": "Vyberte FAQ podle toho, jak od ëkcos nakupujete — jako partnerský distributor, nebo jako zákazník e-shopu.",
+      "intro": "Vyberte FAQ podle toho, jak od ëkcos nakupujete - jako partnerský distributor, nebo jako zákazník e-shopu.",
       "distributorsDescription": "Výrobky, materiály, Eco-One™, privátní značka, dokumenty a spolupráce s ëkcos.",
       "eshopDescription": "Výrobky, objednávky, platba, doprava, reklamace a nákup na eshop.ekcos.eu."
     }

@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "title": "ëkcos — Bliv grøn med hver skylning",
+    "title": "ëkcos - Bliv grøn med hver skylning",
     "description": "Vores urinalmåtter og friskere er fremstillet med genanvendt EVA. Selve materialet kan genanvendes, men det kan en brugt urinalmåtte ikke, fordi den er biologisk forurenet. Den ender på deponi eller til forbrænding, og derfor tilsætter vi additivet Eco-One™ til alle vores produkter.",
     "productsTitle": "Produkter",
     "productsDescription": "Udforsk ëkcos-produkter: skift modeller, finish og muligheder - så besøg den officielle butik.",
@@ -60,7 +60,8 @@
       "label": "FAQ",
       "distributors": "Distributører",
       "eshop": "E-shop"
-    }
+    },
+    "closeMenu": "Luk menu"
   },
   "footer": {
     "tagline": "ëkcos innovations leverer hygiejneløsninger, der holder toiletterne rene og friske, gør vedligeholdelsen lettere og bruger genanvendte, biologisk nedbrydelige materialer.",
@@ -93,7 +94,7 @@
     "benefits": "Vigtige fordele",
     "more": "Flere detaljer",
     "openDetails": "Åbn detaljerede billeder",
-    "detailGallery": "Detaljerede billeder — {name}",
+    "detailGallery": "Detaljerede billeder - {name}",
     "detailShot": "detalje",
     "boundaryError": "Denne produktvisning er midlertidigt utilgængelig. Prøv venligst igen."
   },
@@ -102,6 +103,14 @@
       "title": "Klar til at opgradere dine toiletter?",
       "body": "Gennemse ëkcos urinalskærme og tilbehør i den officielle butik.",
       "button": "Butik"
+    },
+    "readMore": "Læs artiklen",
+    "empty": "Ingen artikler endnu. Kom snart tilbage.",
+    "categories": {
+      "guide": "Guide",
+      "product": "Produkt",
+      "sustainability": "Bæredygtighed",
+      "news": "Nyheder"
     }
   },
   "newsletter": {
@@ -161,7 +170,7 @@
     },
     "productsTeaser": {
       "title": "Opdag vores produkter",
-      "body": "Udforsk xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip og mere — åbn derefter den officielle butik.",
+      "body": "Udforsk xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip og mere - åbn derefter den officielle butik.",
       "link": "Se alle produkter"
     },
     "brandingTeaser": {
@@ -281,7 +290,7 @@
       "body": "Vores toiletartikler er fremstillet med tilsætningsstoffet Eco-One™. I en uafhængig laboratorietest nåede ëkcos EVA med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, og op til 99 % forventes inden for 5 år under lossepladsforhold - med ydelse identisk med produkter uden tilsætningsstoffet.",
       "shopCta": "Butik"
     },
-    "footnote": "Datakilde: uafhængig bionedbrydningstest i henhold til ASTM D5511-02 og ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) — ëkcos-produkt med 1 % Eco-One™-additiv: 93,31 % biologisk nedbrydning over 1,28,5 år (≈28,5 år); samme produkt uden tilsætningsstoffet: 0%. Biologisk nedbrydning ud over testperioden (op til 99 % inden for ~5 år) forventes ud fra den målte trend. Persistenstal for konventionel plast (≈300-1.000 år) er meget citerede industriestimater. Eco-One™-additivet er fremstillet og certificeret af EcoLogic, LLC."
+    "footnote": "Datakilde: uafhængig bionedbrydningstest i henhold til ASTM D5511-02 og ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) - ëkcos-produkt med 1 % Eco-One™-additiv: 93,31 % biologisk nedbrydning over 1,28,5 år (≈28,5 år); samme produkt uden tilsætningsstoffet: 0%. Biologisk nedbrydning ud over testperioden (op til 99 % inden for ~5 år) forventes ud fra den målte trend. Persistenstal for konventionel plast (≈300-1.000 år) er meget citerede industriestimater. Eco-One™-additivet er fremstillet og certificeret af EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {
@@ -348,7 +357,7 @@
     "hero": {
       "eyebrow": "Teknisk og kommerciel support",
       "title": "Kontakte",
-      "subtitle": "Spørg os om Eco-One™, specifikationer eller B2B-programmer — bestil når som helst i den officielle butik."
+      "subtitle": "Spørg os om Eco-One™, specifikationer eller B2B-programmer - bestil når som helst i den officielle butik."
     },
     "details": {
       "title": "Kontakte",
@@ -379,7 +388,7 @@
       "intro": "Switch models and finishes, then buy in the official store.",
       "heroEyebrow": "Explore the range",
       "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
       "heroLinkEco": "About Eco-One™",
       "heroLinkBranding": "Custom branding"
     },
@@ -776,7 +785,7 @@
     "hub": {
       "title": "FAQ",
       "tagline": "Your questions, our facts",
-      "intro": "Choose the FAQ that matches how you buy from ëkcos — as a distributor partner, or as an e-shop customer.",
+      "intro": "Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.",
       "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
       "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
     }

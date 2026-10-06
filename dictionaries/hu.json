@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "title": "ëkcos — Legyen zöld minden öblítéssel",
+    "title": "ëkcos - Legyen zöld minden öblítéssel",
     "description": "Piszoárrácsaink és illatosítóink újrahasznosított EVA felhasználásával készülnek. Maga az anyag újrahasznosítható, a használt piszoárrács viszont nem, mert biológiailag szennyezett. Hulladéklerakóba vagy égetőműbe kerül, ezért minden termékünkhöz Eco-One™ adalékanyagot adunk.",
     "productsTitle": "Termékek",
     "productsDescription": "Fedezze fel az ëkcos termékeket: váltson modelleket, felületeket és opciókat – majd keresse fel a hivatalos boltot.",
@@ -60,7 +60,8 @@
       "label": "GYIK",
       "distributors": "Disztribútorok",
       "eshop": "E-shop"
-    }
+    },
+    "closeMenu": "Menü bezárása"
   },
   "footer": {
     "tagline": "Az ëkcos innovations olyan higiéniai megoldásokat kínál, amelyek tisztán és frissen tartják a mosdókat, megkönnyítik a karbantartást, és újrahasznosított, biológiailag lebomló anyagokat használnak.",
@@ -93,7 +94,7 @@
     "benefits": "Főbb előnyök",
     "more": "További részletek",
     "openDetails": "Nyissa meg a részleteket",
-    "detailGallery": "Részletes fotók — {name}",
+    "detailGallery": "Részletes fotók - {name}",
     "detailShot": "részlet",
     "boundaryError": "Ez a terméknézet átmenetileg nem érhető el. Kérjük, próbálja újra."
   },
@@ -102,6 +103,14 @@
       "title": "Készen áll a mellékhelyiségek korszerűsítésére?",
       "body": "Böngésszen az ëkcos piszoár képernyők és tartozékok között a hivatalos boltban.",
       "button": "Üzlet"
+    },
+    "readMore": "Cikk elolvasása",
+    "empty": "Még nincsenek cikkek. Nézz vissza hamarosan.",
+    "categories": {
+      "guide": "Útmutató",
+      "product": "Termék",
+      "sustainability": "Fenntarthatóság",
+      "news": "Hírek"
     }
   },
   "newsletter": {
@@ -379,7 +388,7 @@
       "intro": "Switch models and finishes, then buy in the official store.",
       "heroEyebrow": "Explore the range",
       "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
       "heroLinkEco": "About Eco-One™",
       "heroLinkBranding": "Custom branding"
     },
@@ -776,7 +785,7 @@
     "hub": {
       "title": "FAQ",
       "tagline": "Your questions, our facts",
-      "intro": "Choose the FAQ that matches how you buy from ëkcos — as a distributor partner, or as an e-shop customer.",
+      "intro": "Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.",
       "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
       "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
     }

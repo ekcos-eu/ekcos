@@ -2715,7 +2715,7 @@
     "Size": "Izmērs",
     "Sold out": "Izpārdots",
     "Unavailable": "Nav pieejams",
-    "{{ option_value }} - Unavailable": "{{ option_value }} — nav pieejams",
+    "{{ option_value }} - Unavailable": "{{ option_value }} - nav pieejams",
     "Variant sold out or unavailable": "Variants ir izpārdots vai nav pieejams",
     "Vendor": "Pārdevējs",
     "{{ title }} opens full screen video in same window.": "{{ title }} atver pilnekrāna video tajā pašā logā.",

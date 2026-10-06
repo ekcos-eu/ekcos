@@ -9,7 +9,7 @@
 - Locale switcher should show country flags; in the open menu use language names without locale-code abbreviations; auto-select locale from visitor IP/country (with Accept-Language fallback) and remember it in the browser cookie
 - Treat assets under `public/technical/` (e.g. `eco-one.pdf`, `ekcos-biodegradable-products.docx`) as the source of truth for Eco-One™ page content, including bold/emphasis and callout styling from those docs
 - Prefer scannable long-form pages and Sanity articles with clear heading hierarchy; larger body text blocks should use `text-justify`
-- Articles index should show only title and intro image; detail pages omit a large hero image, end with an eshop CTA, and link product mentions to the eshop; article bodies and all locale translations live only in Sanity (no local overlays); Sanity article image alts should describe the photo and product, not keyword-stuff
+- Articles index shows title, cover image, category, date, and excerpt (first card can be featured); detail pages omit a large hero image, end with an eshop CTA, and link product mentions to the eshop; article bodies and all locale translations live only in Sanity (no local overlays); Sanity article image alts should describe the photo and product, not keyword-stuff
 - Soft blue top-of-page gradient and blue accent headings/text should appear on marketing pages (articles, Eco-One™, Private Label, and FAQ); in FAQ answers link Eco-One™ to `/{locale}/eco-one` and product names to product pages with the same blue 3B hover preview used in articles (`public/products/`)
 - User typically communicates in Czech
 

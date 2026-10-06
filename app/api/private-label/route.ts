@@ -41,7 +41,7 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: 'Invalid request body' }, { status: 400 })
   }
 
-  // Honeypot — bots fill this; real users leave it empty
+  // Honeypot - bots fill this; real users leave it empty
   if (body.website?.trim()) {
     return NextResponse.json({ ok: true })
   }
@@ -84,10 +84,10 @@ export async function POST(request: Request) {
     `Name: ${name}`,
     `Company: ${company}`,
     `Email: ${email}`,
-    `Phone: ${phone || '—'}`,
+    `Phone: ${phone || '-'}`,
     `Locale: ${locale}`,
     `Products: ${products}`,
-    `Total quantity: ${quantity || '—'}`,
+    `Total quantity: ${quantity || '-'}`,
     '',
     'Message:',
     message,
@@ -99,10 +99,10 @@ export async function POST(request: Request) {
       <tr><td style="padding:4px 12px 4px 0;color:#555"><strong>Name</strong></td><td>${escapeHtml(name)}</td></tr>
       <tr><td style="padding:4px 12px 4px 0;color:#555"><strong>Company</strong></td><td>${escapeHtml(company)}</td></tr>
       <tr><td style="padding:4px 12px 4px 0;color:#555"><strong>Email</strong></td><td><a href="mailto:${escapeHtml(email)}">${escapeHtml(email)}</a></td></tr>
-      <tr><td style="padding:4px 12px 4px 0;color:#555"><strong>Phone</strong></td><td>${escapeHtml(phone || '—')}</td></tr>
+      <tr><td style="padding:4px 12px 4px 0;color:#555"><strong>Phone</strong></td><td>${escapeHtml(phone || '-')}</td></tr>
       <tr><td style="padding:4px 12px 4px 0;color:#555"><strong>Locale</strong></td><td>${escapeHtml(locale)}</td></tr>
       <tr><td style="padding:4px 12px 4px 0;color:#555"><strong>Products</strong></td><td>${escapeHtml(products)}</td></tr>
-      <tr><td style="padding:4px 12px 4px 0;color:#555"><strong>Total quantity</strong></td><td>${escapeHtml(quantity || '—')}</td></tr>
+      <tr><td style="padding:4px 12px 4px 0;color:#555"><strong>Total quantity</strong></td><td>${escapeHtml(quantity || '-')}</td></tr>
     </table>
     <h3 style="margin-top:24px">Message</h3>
     <p style="white-space:pre-wrap;font-family:sans-serif;font-size:14px">${escapeHtml(message)}</p>
@@ -114,7 +114,7 @@ export async function POST(request: Request) {
       from,
       to: [to],
       replyTo: email,
-      subject: `Private Label inquiry — ${company}`,
+      subject: `Private Label inquiry - ${company}`,
       text,
       html,
     })

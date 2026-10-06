@@ -36,7 +36,7 @@ const packs: Record<string, Pack> = {
         title: 'FAQ',
         tagline: 'Your questions, our facts',
         intro:
-          'Choose the FAQ that matches how you buy from ëkcos — as a distributor partner, or as an e-shop customer.',
+          'Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.',
         distributorsDescription:
           'Products, materials, Eco-One™, private label, documents, and working with ëkcos.',
         eshopDescription:
@@ -70,7 +70,7 @@ const packs: Record<string, Pack> = {
         title: 'FAQ',
         tagline: 'Vaše otázky, naše fakta',
         intro:
-          'Vyberte FAQ podle toho, jak od ëkcos nakupujete — jako partnerský distributor, nebo jako zákazník e-shopu.',
+          'Vyberte FAQ podle toho, jak od ëkcos nakupujete - jako partnerský distributor, nebo jako zákazník e-shopu.',
         distributorsDescription:
           'Výrobky, materiály, Eco-One™, privátní značka, dokumenty a spolupráce s ëkcos.',
         eshopDescription:
@@ -104,7 +104,7 @@ const packs: Record<string, Pack> = {
         title: 'FAQ',
         tagline: 'Vaše otázky, naše fakty',
         intro:
-          'Vyberte FAQ podľa toho, ako od ëkcos nakupujete — ako partnerský distributor, alebo ako zákazník e-shopu.',
+          'Vyberte FAQ podľa toho, ako od ëkcos nakupujete - ako partnerský distributor, alebo ako zákazník e-shopu.',
         distributorsDescription:
           'Výrobky, materiály, Eco-One™, privátna značka, dokumenty a spolupráca s ëkcos.',
         eshopDescription:
@@ -139,7 +139,7 @@ const packs: Record<string, Pack> = {
         title: 'FAQ',
         tagline: 'Ihre Fragen, unsere Fakten',
         intro:
-          'Wählen Sie das FAQ, das zu Ihrer Art zu kaufen passt — als Distributionspartner oder als E-Shop-Kunde.',
+          'Wählen Sie das FAQ, das zu Ihrer Art zu kaufen passt - als Distributionspartner oder als E-Shop-Kunde.',
         distributorsDescription:
           'Produkte, Materialien, Eco-One™, Private Label, Dokumente und Zusammenarbeit mit ëkcos.',
         eshopDescription:
@@ -173,7 +173,7 @@ const packs: Record<string, Pack> = {
         title: 'FAQ',
         tagline: 'Wasze pytania, nasze fakty',
         intro:
-          'Wybierz FAQ dopasowane do sposobu zakupu — jako dystrybutor partnerski lub jako klient e-sklepu.',
+          'Wybierz FAQ dopasowane do sposobu zakupu - jako dystrybutor partnerski lub jako klient e-sklepu.',
         distributorsDescription:
           'Produkty, materiały, Eco-One™, private label, dokumenty i współpraca z ëkcos.',
         eshopDescription:
@@ -208,7 +208,7 @@ const packs: Record<string, Pack> = {
         title: 'FAQ',
         tagline: 'Vos questions, nos faits',
         intro:
-          'Choisissez la FAQ adaptée à votre façon d’acheter chez ëkcos — en tant que distributeur partenaire ou client e-shop.',
+          'Choisissez la FAQ adaptée à votre façon d’acheter chez ëkcos - en tant que distributeur partenaire ou client e-shop.',
         distributorsDescription:
           'Produits, matériaux, Eco-One™, marque privée, documents et collaboration avec ëkcos.',
         eshopDescription:
@@ -276,7 +276,7 @@ const packs: Record<string, Pack> = {
         title: 'FAQ',
         tagline: 'Le vostre domande, i nostri fatti',
         intro:
-          'Scegliete la FAQ in base a come acquistate da ëkcos — come distributore partner o come cliente e-shop.',
+          'Scegliete la FAQ in base a come acquistate da ëkcos - come distributore partner o come cliente e-shop.',
         distributorsDescription:
           'Prodotti, materiali, Eco-One™, private label, documenti e collaborazione con ëkcos.',
         eshopDescription:
@@ -310,7 +310,7 @@ const packs: Record<string, Pack> = {
         title: 'FAQ',
         tagline: 'Uw vragen, onze feiten',
         intro:
-          'Kies de FAQ die past bij hoe u bij ëkcos koopt — als distributiepartner of als webshopklant.',
+          'Kies de FAQ die past bij hoe u bij ëkcos koopt - als distributiepartner of als webshopklant.',
         distributorsDescription:
           'Producten, materialen, Eco-One™, private label, documenten en samenwerking met ëkcos.',
         eshopDescription:

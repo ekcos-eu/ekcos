@@ -21,7 +21,7 @@ const EN_REPLACEMENTS: Record<string, string> = {
   b11:
     'The EVA material itself can be recycled; a used urinal screen cannot, because it is biologically contaminated',
   b12:
-    'Biodegradable in landfill with Eco-One™ — in an independent ASTM D5511 / ISO 15985 lab test, ëkcos EVA with Eco-One™ reached 93% biodegradation within about 3.5 years; up to 99% is projected within 5 years',
+    'Biodegradable in landfill with Eco-One™ - in an independent ASTM D5511 / ISO 15985 lab test, ëkcos EVA with Eco-One™ reached 93% biodegradation within about 3.5 years; up to 99% is projected within 5 years',
   b13: 'Product boxes are made from 100% recycled cardboard',
   b14: 'Compatible with waterless urinals',
   p10: 'Investing in the right urinal screen pays off through reduced cleaning costs, improved hygiene perception, and more satisfied restroom visitors - who will not leave with bacteria from previous users on their trousers. The choice is not just about fragrance - consider traffic frequency, hygiene needs, urinal type, and material end-of-life.',
@@ -39,14 +39,14 @@ const CS_REPLACEMENTS: Record<string, string> = {
   b11:
     'Samotný materiál EVA lze recyklovat; použité sítko do pisoáru ne, protože je biologicky kontaminované',
   b12:
-    'Biologicky rozložitelné na skládce s Eco-One™ — v nezávislém laboratorním testu ASTM D5511 / ISO 15985 dosáhlo EVA ëkcos s Eco-One™ asi 93% biologického rozkladu za přibližně 3,5 roku; do 5 let se předpokládá až 99 %',
+    'Biologicky rozložitelné na skládce s Eco-One™ - v nezávislém laboratorním testu ASTM D5511 / ISO 15985 dosáhlo EVA ëkcos s Eco-One™ asi 93% biologického rozkladu za přibližně 3,5 roku; do 5 let se předpokládá až 99 %',
   b13: 'Krabice výrobků jsou ze 100% recyklované lepenky',
   b14: 'Kompatibilní s bezvodými pisoáry',
-  p10: 'Investice do správného sítka do pisoáru se vyplatí nižšími náklady na úklid, lepším vnímáním hygieny a spokojenějšími návštěvníky toalet — kteří neodcházejí s bakteriemi od předchozích uživatelů na kalhotách. Volba není jen o vůni — zvažte frekvenci provozu, hygienické potřeby, typ pisoáru a konec životnosti materiálu.',
+  p10: 'Investice do správného sítka do pisoáru se vyplatí nižšími náklady na úklid, lepším vnímáním hygieny a spokojenějšími návštěvníky toalet - kteří neodcházejí s bakteriemi od předchozích uživatelů na kalhotách. Volba není jen o vůni - zvažte frekvenci provozu, hygienické potřeby, typ pisoáru a konec životnosti materiálu.',
 }
 
 const CS_EXCERPT =
-  'Praktický průvodce výběrem správného sítka do pisoáru pro restaurace, čerpací stanice a veřejné objekty — frekvence provozu, ochrana proti odstřikům, vůně, recyklované materiály a typ pisoáru.'
+  'Praktický průvodce výběrem správného sítka do pisoáru pro restaurace, čerpací stanice a veřejné objekty - frekvence provozu, ochrana proti odstřikům, vůně, recyklované materiály a typ pisoáru.'
 
 type Span = {_type: 'span'; _key: string; text: string; marks?: string[]}
 type Block = {

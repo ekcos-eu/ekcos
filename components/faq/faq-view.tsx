@@ -1,3 +1,4 @@
+import { PageContainer } from '@/components/layout/page-container'
 import { PageHero } from '@/components/layout/page-hero'
 import { FadeIn } from '@/components/ui/fade-in'
 import { FaqAccordion } from '@/components/faq/faq-accordion'
@@ -18,8 +19,13 @@ type Props = {
 
 export async function FaqView({ audience, content }: Props) {
   const t = await getTranslations('faq')
+  const tMeta = await getTranslations('Metadata')
   const tProducts = await getTranslations('products')
   const getImageAlt = createProductImageAltLookup((key) => tProducts(key))
+  const pageTitle =
+    audience === 'distributors'
+      ? tMeta('faqDistributorsTitle')
+      : tMeta('faqEshopTitle')
   const otherAudience = audience === 'distributors' ? 'eshop' : 'distributors'
   const otherHref =
     otherAudience === 'distributors' ? '/faq/distributors' : '/faq/eshop'
@@ -57,15 +63,12 @@ export async function FaqView({ audience, content }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(ldJson) }}
       />
 
-      <PageHero size="md">
+      <PageHero>
         <FadeIn>
-          <p className="text-[0.8rem] font-bold tracking-[0.14em] text-[#0F68B2] uppercase">
-            {t(`audiences.${audience}.eyebrow`)}
-          </p>
-          <h1 className="mt-3 text-4xl font-bold tracking-tight text-[#1a1a1a] text-balance sm:text-5xl">
-            {linkifyPlainText(content.hero.title, getImageAlt)}
+          <h1 className="text-4xl font-bold tracking-tight text-[#1a1a1a] text-balance sm:text-5xl">
+            {pageTitle}
           </h1>
-          <p className="mt-4 text-xl font-bold leading-snug text-[#0F68B2] text-balance sm:text-2xl">
+          <p className="mt-5 text-xl font-bold leading-snug text-[#0F68B2] text-balance sm:text-2xl">
             {linkifyPlainText(content.hero.tagline, getImageAlt)}
           </p>
           {content.hero.intro ? (
@@ -87,7 +90,7 @@ export async function FaqView({ audience, content }: Props) {
 
       {content.metrics.length > 0 ? (
         <section className="border-b border-black/[0.06] bg-[#fcfcfd]">
-          <div className="mx-auto grid max-w-3xl gap-6 px-4 py-12 sm:grid-cols-2 sm:px-6 sm:py-14">
+          <PageContainer className="grid gap-6 py-12 sm:grid-cols-2 sm:py-14">
             {content.metrics.map((metric) => (
               <FadeIn key={metric.value + metric.label.slice(0, 12)}>
                 <p className="text-3xl font-bold tracking-tight text-[#0F68B2] sm:text-4xl">
@@ -98,11 +101,11 @@ export async function FaqView({ audience, content }: Props) {
                 </p>
               </FadeIn>
             ))}
-          </div>
+          </PageContainer>
         </section>
       ) : null}
 
-      <div className="mx-auto max-w-3xl px-4 py-12 sm:px-6 sm:py-16">
+      <PageContainer className="py-12 sm:py-16">
         <FadeIn>
           <nav aria-label={t('tocLabel')} className="mb-12">
             <h2 className="text-sm font-semibold uppercase tracking-wide text-[#575756]">
@@ -134,7 +137,7 @@ export async function FaqView({ audience, content }: Props) {
             {content.categories.map((category) => (
               <section key={category.id} id={category.id} className="scroll-mt-24">
                 <FadeIn>
-                  <h2 className="mb-4 text-2xl font-bold tracking-tight text-[#0F68B2] sm:text-[1.65rem]">
+                  <h2 className="mb-4 text-2xl font-bold tracking-tight text-[#0F68B2] sm:text-3xl">
                     {linkifyPlainText(category.title, getImageAlt)}
                   </h2>
                   <FaqAccordion category={category} />
@@ -168,7 +171,7 @@ export async function FaqView({ audience, content }: Props) {
             {linkifyPlainText(content.footnote, getImageAlt)}
           </p>
         ) : null}
-      </div>
+      </PageContainer>
     </div>
   )
 }

@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "title": "ëkcos — Ga groen bij elke spoeling",
+    "title": "ëkcos - Ga groen bij elke spoeling",
     "description": "Onze urinoirmatten en verfrissers worden gemaakt met gerecycled EVA. Het materiaal zelf is recyclebaar, maar een gebruikte urinoirmat niet, omdat die biologisch verontreinigd is. Die belandt op de stortplaats of in de verbrandingsoven, en daarom voegen we aan al onze producten het additief Eco-One™ toe.",
     "productsTitle": "Producten",
     "productsDescription": "Ontdek ëkcos-producten: wissel van model, afwerking en opties en bezoek vervolgens de officiële winkel.",
@@ -13,7 +13,7 @@
     "contactTitle": "Contact",
     "contactDescription": "Bereik het ëkcos-team voor specificaties, programma's en partnerschappen.",
     "privateLabelTitle": "Privélabel",
-    "privateLabelDescription": "Verkoop ëkcos toiletproducten onder uw eigen merk — private label voor distributeurs.",
+    "privateLabelDescription": "Verkoop ëkcos toiletproducten onder uw eigen merk - private label voor distributeurs.",
     "faqTitle": "FAQ",
     "faqDescription": "Duidelijke antwoorden over ëkcos-producten, materialen, Eco-One™, private label en bestellingen.",
     "faqDistributorsTitle": "FAQ voor distributeurs",
@@ -60,7 +60,8 @@
       "label": "Veelgestelde vragen",
       "distributors": "Distributeurs",
       "eshop": "Webshop"
-    }
+    },
+    "closeMenu": "Menu sluiten"
   },
   "footer": {
     "tagline": "ëkcos innovations levert hygiëneoplossingen die toiletruimtes schoon en fris houden, het onderhoud vereenvoudigen en gerecyclede, biologisch afbreekbare materialen gebruiken.",
@@ -93,7 +94,7 @@
     "benefits": "Belangrijkste voordelen",
     "more": "Meer details",
     "openDetails": "Detailfoto's openen",
-    "detailGallery": "Detailfoto's — {name}",
+    "detailGallery": "Detailfoto's - {name}",
     "detailShot": "detail",
     "boundaryError": "Deze productweergave is tijdelijk niet beschikbaar. Probeer het opnieuw."
   },
@@ -102,6 +103,14 @@
       "title": "Klaar om uw toiletten te upgraden?",
       "body": "Blader door ëkcos urinoirschermen en accessoires in de officiële winkel.",
       "button": "Winkel"
+    },
+    "readMore": "Artikel lezen",
+    "empty": "Nog geen artikelen. Kom binnenkort terug.",
+    "categories": {
+      "guide": "Gids",
+      "product": "Product",
+      "sustainability": "Duurzaamheid",
+      "news": "Nieuws"
     }
   },
   "newsletter": {
@@ -161,7 +170,7 @@
     },
     "productsTeaser": {
       "title": "Ontdek onze producten",
-      "body": "Ontdek xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip en meer — open vervolgens de officiële winkel.",
+      "body": "Ontdek xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip en meer - open vervolgens de officiële winkel.",
       "link": "Bekijk alle producten"
     },
     "brandingTeaser": {
@@ -225,7 +234,7 @@
     },
     "problem": {
       "title": "Waarom gewoon plastic een probleem is",
-      "body": "Gewone plastic producten zijn ontworpen om lang mee te gaan. Zonder een additief voor biologische afbraak kan een plastic product dat naar een stortplaats wordt gestuurd, daar <bold>300 tot 1000 jaar</bold> blijven liggen; Schuimklompen in Crocs-stijl zijn een bekend voorbeeld van plastic dat <bold>niet biologisch afbreekbaar</bold> is. Onze producten zijn gemaakt van hetzelfde soort duurzaam plastic (EVA) — maar met één beslissend verschil: het Eco-One™ additief.",
+      "body": "Gewone plastic producten zijn ontworpen om lang mee te gaan. Zonder een additief voor biologische afbraak kan een plastic product dat naar een stortplaats wordt gestuurd, daar <bold>300 tot 1000 jaar</bold> blijven liggen; Schuimklompen in Crocs-stijl zijn een bekend voorbeeld van plastic dat <bold>niet biologisch afbreekbaar</bold> is. Onze producten zijn gemaakt van hetzelfde soort duurzaam plastic (EVA) - maar met één beslissend verschil: het Eco-One™ additief.",
       "chartAlt": "Producten zonder Eco-One™ vergeleken met ëkcos-producten die het additief bevatten",
       "chartCaption": "Producten zonder Eco-One™ vergeleken met ëkcos-producten die het additief bevatten.",
       "chart": {
@@ -281,7 +290,7 @@
       "body": "Onze sanitaire producten worden vervaardigd met het Eco-One™ additief. Uit een onafhankelijke laboratoriumtest blijkt dat ëkcos EVA met Eco-One™ binnen 3,5 jaar een biologische afbraak van 93% bereikt, en naar verwachting binnen 5 jaar zelfs 99% op stortplaatsen – waarbij de prestaties identiek zijn aan die van producten zonder het additief.",
       "shopCta": "Winkel"
     },
-    "footnote": "Gegevensbron: onafhankelijke biologische afbreekbaarheidstest volgens ASTM D5511-02 en ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) — ëkcos product met 1% Eco-One™ additief: 93,31% biologische afbraak gedurende 1.288 dagen (≈3,5 jaar); hetzelfde product zonder het additief: 0%. De biologische afbraak na de testperiode (tot 99% binnen ~5 jaar) wordt op basis van de gemeten trend geprojecteerd. Persistentiecijfers voor conventionele kunststoffen (≈300–1.000 jaar) zijn veel geciteerde schattingen van de industrie. Het Eco-One™-additief wordt vervaardigd en gecertificeerd door EcoLogic, LLC."
+    "footnote": "Gegevensbron: onafhankelijke biologische afbreekbaarheidstest volgens ASTM D5511-02 en ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) - ëkcos product met 1% Eco-One™ additief: 93,31% biologische afbraak gedurende 1.288 dagen (≈3,5 jaar); hetzelfde product zonder het additief: 0%. De biologische afbraak na de testperiode (tot 99% binnen ~5 jaar) wordt op basis van de gemeten trend geprojecteerd. Persistentiecijfers voor conventionele kunststoffen (≈300–1.000 jaar) zijn veel geciteerde schattingen van de industrie. Het Eco-One™-additief wordt vervaardigd en gecertificeerd door EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {
@@ -379,7 +388,7 @@
       "intro": "Switch models and finishes, then buy in the official store.",
       "heroEyebrow": "Explore the range",
       "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
       "heroLinkEco": "About Eco-One™",
       "heroLinkBranding": "Custom branding"
     },
@@ -776,7 +785,7 @@
     "hub": {
       "title": "FAQ",
       "tagline": "Uw vragen, onze feiten",
-      "intro": "Kies de FAQ die past bij hoe u bij ëkcos koopt — als distributiepartner of als webshopklant.",
+      "intro": "Kies de FAQ die past bij hoe u bij ëkcos koopt - als distributiepartner of als webshopklant.",
       "distributorsDescription": "Producten, materialen, Eco-One™, private label, documenten en samenwerking met ëkcos.",
       "eshopDescription": "Producten, bestellingen, betaling, levering, retouren en winkelen op eshop.ekcos.eu."
     }

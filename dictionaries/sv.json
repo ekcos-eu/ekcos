@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "title": "ëkcos — Bli grön med varje spolning",
+    "title": "ëkcos - Bli grön med varje spolning",
     "description": "Våra urinoarmattor och luktförbättrare är tillverkade med återvunnen EVA. Själva materialet går att återvinna, men inte en använd urinoarmatta, eftersom den är biologiskt förorenad. Den hamnar på deponi eller går till förbränning, och därför blandar vi in tillsatsen Eco-One™ i alla våra produkter.",
     "productsTitle": "Produkter",
     "productsDescription": "Utforska ëkcos-produkter: byt modell, finish och alternativ – besök sedan den officiella butiken.",
@@ -13,7 +13,7 @@
     "contactTitle": "Kontakta",
     "contactDescription": "Nå ëkcos-teamet för specifikationer, program och partnerskap.",
     "privateLabelTitle": "Private Label",
-    "privateLabelDescription": "Sälj ëkcos tvättrumsprodukter under ditt eget varumärke — private label för distributörer.",
+    "privateLabelDescription": "Sälj ëkcos tvättrumsprodukter under ditt eget varumärke - private label för distributörer.",
     "faqTitle": "FAQ",
     "faqDescription": "Clear answers about ëkcos products, materials, Eco-One™, private label, and ordering.",
     "faqDistributorsTitle": "FAQ for distributors",
@@ -60,7 +60,8 @@
       "label": "FAQ",
       "distributors": "Distributörer",
       "eshop": "E-shop"
-    }
+    },
+    "closeMenu": "Stäng meny"
   },
   "footer": {
     "tagline": "ëkcos innovations levererar hygienlösningar som håller toaletter rena och fräscha, underlättar underhållet och använder återvunna, biologiskt nedbrytbara material.",
@@ -93,7 +94,7 @@
     "benefits": "Viktiga fördelar",
     "more": "Mer information",
     "openDetails": "Öppna detaljfoton",
-    "detailGallery": "Detaljfoton — {name}",
+    "detailGallery": "Detaljfoton - {name}",
     "detailShot": "detalj",
     "boundaryError": "Denna produktvy är inte tillgänglig för tillfället. Försök igen."
   },
@@ -102,6 +103,14 @@
       "title": "Är du redo att uppgradera dina toaletter?",
       "body": "Bläddra bland ëkcos urinalskärmar och tillbehör i den officiella butiken.",
       "button": "Handla"
+    },
+    "readMore": "Läs artikeln",
+    "empty": "Inga artiklar ännu. Kom tillbaka snart.",
+    "categories": {
+      "guide": "Guide",
+      "product": "Produkt",
+      "sustainability": "Hållbarhet",
+      "news": "Nyheter"
     }
   },
   "newsletter": {
@@ -161,7 +170,7 @@
     },
     "productsTeaser": {
       "title": "Upptäck våra produkter",
-      "body": "Utforska xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip och mer — öppna sedan den officiella butiken.",
+      "body": "Utforska xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip och mer - öppna sedan den officiella butiken.",
       "link": "Se alla produkter"
     },
     "brandingTeaser": {
@@ -281,7 +290,7 @@
       "body": "Våra tvättrumsprodukter är tillverkade med tillsatsen Eco-One™. I ett oberoende laboratorietest nådde ëkcos EVA med Eco-One™ 93 % biologisk nedbrytning inom 3,5 år, och upp till 99 % projiceras inom 5 år under deponiförhållanden – med prestanda identisk med produkter utan tillsats.",
       "shopCta": "Handla"
     },
-    "footnote": "Datakälla: oberoende biologisk nedbrytningstest enligt ASTM D5511-02 och ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) — ëkcos-produkt med 1 % Eco-One™-tillsats: 93,31 % biologisk nedbrytning under 1,23,8 år (≈8,5 år); samma produkt utan tillsats: 0 %. Biologisk nedbrytning efter testperioden (upp till 99 % inom ~5 år) beräknas utifrån den uppmätta trenden. Persistenssiffror för konventionell plast (≈300–1 000 år) är allmänt citerade industriuppskattningar. Eco-One™-tillsatsen är tillverkad och certifierad av EcoLogic, LLC."
+    "footnote": "Datakälla: oberoende biologisk nedbrytningstest enligt ASTM D5511-02 och ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) - ëkcos-produkt med 1 % Eco-One™-tillsats: 93,31 % biologisk nedbrytning under 1,23,8 år (≈8,5 år); samma produkt utan tillsats: 0 %. Biologisk nedbrytning efter testperioden (upp till 99 % inom ~5 år) beräknas utifrån den uppmätta trenden. Persistenssiffror för konventionell plast (≈300–1 000 år) är allmänt citerade industriuppskattningar. Eco-One™-tillsatsen är tillverkad och certifierad av EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {
@@ -348,7 +357,7 @@
     "hero": {
       "eyebrow": "Teknisk och kommersiell support",
       "title": "Kontakta",
-      "subtitle": "Fråga oss om Eco-One™, specifikationer eller B2B-program — beställ när som helst i den officiella butiken."
+      "subtitle": "Fråga oss om Eco-One™, specifikationer eller B2B-program - beställ när som helst i den officiella butiken."
     },
     "details": {
       "title": "Kontakta",
@@ -379,7 +388,7 @@
       "intro": "Switch models and finishes, then buy in the official store.",
       "heroEyebrow": "Explore the range",
       "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances — open the store when you are ready to buy.",
+      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
       "heroLinkEco": "About Eco-One™",
       "heroLinkBranding": "Custom branding"
     },
@@ -776,7 +785,7 @@
     "hub": {
       "title": "FAQ",
       "tagline": "Your questions, our facts",
-      "intro": "Choose the FAQ that matches how you buy from ëkcos — as a distributor partner, or as an e-shop customer.",
+      "intro": "Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.",
       "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
       "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
     }

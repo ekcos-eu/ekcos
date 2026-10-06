@@ -23,6 +23,21 @@ export const postType = defineType({
       title: 'Published at',
       group: 'shared',
     }),
+    defineField({
+      name: 'category',
+      type: 'string',
+      title: 'Category',
+      group: 'shared',
+      options: {
+        list: [
+          {title: 'Guide', value: 'guide'},
+          {title: 'Product', value: 'product'},
+          {title: 'Sustainability', value: 'sustainability'},
+          {title: 'News', value: 'news'},
+        ],
+        layout: 'radio',
+      },
+    }),
     ...localeFields.map((locale) =>
       defineField({
         name: locale.name,
@@ -74,15 +89,17 @@ export const postType = defineType({
       titleCs: 'cs.title',
       media: 'en.mainImage',
       publishedAt: 'publishedAt',
+      category: 'category',
     },
     prepare(selection) {
       const title = selection.titleCs || selection.titleEn || 'Untitled post'
       const date = selection.publishedAt
         ? new Date(selection.publishedAt).toLocaleDateString()
         : 'Draft'
+      const category = selection.category ? String(selection.category) : null
       return {
         title,
-        subtitle: date,
+        subtitle: category ? `${category} · ${date}` : date,
         media: selection.media,
       }
     },

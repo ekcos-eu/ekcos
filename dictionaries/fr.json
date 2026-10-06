@@ -1,9 +1,9 @@
 {
   "Metadata": {
-    "title": "ëkcos — Solutions sanitaires premium",
+    "title": "ëkcos - Solutions sanitaires premium",
     "description": "Nos grilles urinoir et nos désodorisants sont fabriqués avec de l’EVA recyclé. Le matériau lui-même peut être recyclé, mais pas une grille urinoir usagée, car elle est contaminée biologiquement. Elle finit en décharge ou à l’incinération : c’est pourquoi nous ajoutons l’additif Eco-One™ à tous nos produits.",
     "productsTitle": "Produits",
-    "productsDescription": "Découvrez les produits ëkcos : modèles, finitions et options — puis rendez-vous sur la boutique officielle.",
+    "productsDescription": "Découvrez les produits ëkcos : modèles, finitions et options - puis rendez-vous sur la boutique officielle.",
     "ecoOneTitle": "Eco-One™",
     "ecoOneDescription": "Nos grilles urinoir et nos désodorisants sont fabriqués avec de l’EVA recyclé. Le matériau lui-même peut être recyclé, mais pas une grille urinoir usagée, car elle est contaminée biologiquement. Elle finit en décharge ou à l’incinération : c’est pourquoi nous ajoutons l’additif Eco-One™ à tous nos produits.",
     "brandingTitle": "Marque personnalisée",
@@ -13,7 +13,7 @@
     "contactTitle": "Contact",
     "contactDescription": "Contactez l’équipe ëkcos pour les spécifications, programmes et partenariats.",
     "privateLabelTitle": "Private Label",
-    "privateLabelDescription": "Vendez les produits washroom ëkcos sous votre propre marque — private label pour distributeurs.",
+    "privateLabelDescription": "Vendez les produits washroom ëkcos sous votre propre marque - private label pour distributeurs.",
     "faqTitle": "FAQ",
     "faqDescription": "Réponses claires sur les produits ëkcos, les matériaux, Eco-One™, la marque privée et les commandes.",
     "faqDistributorsTitle": "FAQ distributeurs",
@@ -60,7 +60,8 @@
       "label": "FAQ",
       "distributors": "Distributeurs",
       "eshop": "E-shop"
-    }
+    },
+    "closeMenu": "Fermer le menu"
   },
   "footer": {
     "tagline": "ëkcos innovations propose des solutions d’hygiène qui gardent les sanitaires propres et frais, facilitent l’entretien et utilisent des matériaux recyclés et biodégradables.",
@@ -93,7 +94,7 @@
     "benefits": "Avantages clés",
     "more": "Plus de détails",
     "openDetails": "Ouvrir les photos de détail",
-    "detailGallery": "Photos de détail — {name}",
+    "detailGallery": "Photos de détail - {name}",
     "detailShot": "détail",
     "boundaryError": "Cette fiche produit est temporairement indisponible. Veuillez réessayer."
   },
@@ -102,6 +103,14 @@
       "title": "Prêt à améliorer vos toilettes ?",
       "body": "Découvrez les écrans d'urinoir et accessoires ëkcos sur la boutique officielle.",
       "button": "Shop"
+    },
+    "readMore": "Lire l’article",
+    "empty": "Pas encore d’articles. Revenez bientôt.",
+    "categories": {
+      "guide": "Guide",
+      "product": "Produit",
+      "sustainability": "Durabilité",
+      "news": "Actualités"
     }
   },
   "newsletter": {
@@ -161,7 +170,7 @@
     },
     "productsTeaser": {
       "title": "Découvrez nos produits",
-      "body": "xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip et plus — puis la boutique officielle.",
+      "body": "xcrën HD, ëkcoscreen, powërscreen, frësh drop, ëkco clip et plus - puis la boutique officielle.",
       "link": "Tous les produits"
     },
     "brandingTeaser": {
@@ -171,7 +180,7 @@
     },
     "trust": {
       "title": "Conçu pour les sites exigeants",
-      "body": "Hygiène fiable et image premium sur site — du bureau à l’hôtellerie."
+      "body": "Hygiène fiable et image premium sur site - du bureau à l’hôtellerie."
     },
     "newsletter": {
       "title": "Spécifications, lancements et actualités",
@@ -179,16 +188,16 @@
     },
     "finalCta": {
       "title": "Nous contacter",
-      "body": "Des questions sur les produits, la livraison ou les commandes B2B ? Écrivez-nous — nous sommes là pour vous aider.",
+      "body": "Des questions sur les produits, la livraison ou les commandes B2B ? Écrivez-nous - nous sommes là pour vous aider.",
       "shop": "Aller à la boutique",
       "contact": "Envoyer un message"
     },
     "marketing": {
       "featuresEyebrow": "Plateforme unifiée",
       "featuresTitle": "Comparez, décidez et achetez en confiance",
-      "featuresSubtitle": "Explorez les finitions, vérifiez les informations et ouvrez la boutique quand vous êtes prêt — tout en continu.",
+      "featuresSubtitle": "Explorez les finitions, vérifiez les informations et ouvrez la boutique quand vous êtes prêt - tout en continu.",
       "featureInteractTitle": "Sélection interactive",
-      "featureInteractBody": "Changez modèles, finitions et parfums en quelques secondes — pensé pour les équipes facility et FM.",
+      "featureInteractBody": "Changez modèles, finitions et parfums en quelques secondes - pensé pour les équipes facility et FM.",
       "featureProofTitle": "Des informations à partager",
       "featureProofBody": "Des supports Eco-One™ clairs pour que votre équipe explique le choix à vos collègues ou clients.",
       "featureB2bTitle": "Des programmes qui passent à l’échelle",
@@ -225,7 +234,7 @@
     },
     "problem": {
       "title": "Pourquoi le plastique ordinaire est un problème",
-      "body": "Les produits en plastique ordinaires sont conçus pour durer. Sans additif de biodégradation, un produit plastique envoyé en décharge peut y rester <bold>de 300 à 1 000 ans</bold> ; les sabots en mousse de type « Crocs » en sont un exemple familier de plastique <bold>non biodégradable</bold>. Nos produits sont fabriqués dans le même type de plastique durable (EVA) — avec une différence décisive : l’additif Eco-One™.",
+      "body": "Les produits en plastique ordinaires sont conçus pour durer. Sans additif de biodégradation, un produit plastique envoyé en décharge peut y rester <bold>de 300 à 1 000 ans</bold> ; les sabots en mousse de type « Crocs » en sont un exemple familier de plastique <bold>non biodégradable</bold>. Nos produits sont fabriqués dans le même type de plastique durable (EVA) - avec une différence décisive : l’additif Eco-One™.",
       "chartAlt": "Produits sans Eco-One™ comparés aux produits ëkcos contenant l’additif",
       "chartCaption": "Produits sans Eco-One™ comparés aux produits ëkcos contenant l’additif.",
       "chart": {
@@ -278,10 +287,10 @@
     },
     "closing": {
       "title": "Produits ëkcos avec Eco-One™",
-      "body": "Nos produits pour sanitaires sont fabriqués avec l’additif Eco-One™. Lors d’un essai laboratoire indépendant, l’EVA ëkcos avec Eco-One™ a atteint 93 % de biodégradation en 3,5 ans, et jusqu’à 99 % sont projetés sous 5 ans en décharge — avec les mêmes performances que sans additif.",
+      "body": "Nos produits pour sanitaires sont fabriqués avec l’additif Eco-One™. Lors d’un essai laboratoire indépendant, l’EVA ëkcos avec Eco-One™ a atteint 93 % de biodégradation en 3,5 ans, et jusqu’à 99 % sont projetés sous 5 ans en décharge - avec les mêmes performances que sans additif.",
       "shopCta": "Shop"
     },
-    "footnote": "Source des données : test de biodégradation indépendant selon ASTM D5511-02 et ISO 15985:2014 (Instituto Politécnico Nacional, Mexico) — produit ëkcos avec 1 % d’additif Eco-One™ : 93,31 % de biodégradation sur 1 288 jours (≈3,5 ans) ; le même produit sans additif : 0 %. La biodégradation au-delà de la période de test (jusqu’à 99 % en ~5 ans) est projetée à partir de la tendance mesurée. Les chiffres de persistance des plastiques conventionnels (≈300–1 000 ans) sont des estimations industrielles largement citées. L’additif Eco-One™ est fabriqué et certifié par EcoLogic, LLC."
+    "footnote": "Source des données : test de biodégradation indépendant selon ASTM D5511-02 et ISO 15985:2014 (Instituto Politécnico Nacional, Mexico) - produit ëkcos avec 1 % d’additif Eco-One™ : 93,31 % de biodégradation sur 1 288 jours (≈3,5 ans) ; le même produit sans additif : 0 %. La biodégradation au-delà de la période de test (jusqu’à 99 % en ~5 ans) est projetée à partir de la tendance mesurée. Les chiffres de persistance des plastiques conventionnels (≈300–1 000 ans) sont des estimations industrielles largement citées. L’additif Eco-One™ est fabriqué et certifié par EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {
@@ -293,7 +302,7 @@
     "sections": {
       "private": {
         "title": "Marque propre",
-        "body": "Vos visuels, du feu vert à la production — pour que chaque lot corresponde à votre marque."
+        "body": "Vos visuels, du feu vert à la production - pour que chaque lot corresponde à votre marque."
       },
       "cutouts": {
         "title": "Découpes sur mesure",
@@ -364,22 +373,22 @@
       "phone": "Téléphone",
       "message": "Message",
       "submit": "Envoyer le message",
-      "success": "Merci — nous revenons vers vous rapidement.",
+      "success": "Merci - nous revenons vers vous rapidement.",
       "error": "Une erreur s’est produite. Réessayez."
     },
     "hero": {
       "eyebrow": "Support technique & commercial",
       "title": "Contact",
-      "subtitle": "Questions sur Eco-One™, les spécifications ou les programmes B2B — commandez sur la boutique officielle quand vous voulez."
+      "subtitle": "Questions sur Eco-One™, les spécifications ou les programmes B2B - commandez sur la boutique officielle quand vous voulez."
     }
   },
   "products": {
     "page": {
       "title": "Produits",
-      "intro": "Changez modèle et finition — puis achetez sur la boutique officielle.",
+      "intro": "Changez modèle et finition - puis achetez sur la boutique officielle.",
       "heroEyebrow": "Découvrir la gamme",
       "heroTitle": "Chaque ligne au même endroit",
-      "heroSubtitle": "Finitions et parfums — ouvrez la boutique quand vous voulez acheter.",
+      "heroSubtitle": "Finitions et parfums - ouvrez la boutique quand vous voulez acheter.",
       "heroLinkEco": "En savoir plus sur Eco-One™",
       "heroLinkBranding": "Branding personnalisé"
     },
@@ -687,7 +696,7 @@
       "eyebrow": "Pour les distributeurs",
       "title": "Programme Private Label",
       "lead": "Vendez nos produits sous votre propre marque",
-      "body": "Développez votre activité avec votre propre gamme. Notre programme Private Label permet aux distributeurs d’ajouter à leur portefeuille des produits washroom éprouvés et performants, et de les vendre sous leur propre marque — sans développement ni outillage de votre côté. Il nous suffit de votre logo ; nous nous occupons du reste.",
+      "body": "Développez votre activité avec votre propre gamme. Notre programme Private Label permet aux distributeurs d’ajouter à leur portefeuille des produits washroom éprouvés et performants, et de les vendre sous leur propre marque - sans développement ni outillage de votre côté. Il nous suffit de votre logo ; nous nous occupons du reste.",
       "cta": "Devenir partenaire"
     },
     "why": {
@@ -695,7 +704,7 @@
       "items": {
         "0": {
           "title": "Solutions éprouvées",
-          "body": "Chaque produit est le fruit d’un développement intensif et conçu pour une performance fiable — une gamme que vous pouvez signer en toute confiance."
+          "body": "Chaque produit est le fruit d’un développement intensif et conçu pour une performance fiable - une gamme que vous pouvez signer en toute confiance."
         },
         "1": {
           "title": "Personnalisation simple",
@@ -715,14 +724,14 @@
       },
       "cutout": {
         "title": "Découpe logo",
-        "body": "Votre logo intégré dans la matière sous forme de découpe unique — une finition premium qu’aucun autre fabricant ne propose, et un fort différenciateur pour votre gamme."
+        "body": "Votre logo intégré dans la matière sous forme de découpe unique - une finition premium qu’aucun autre fabricant ne propose, et un fort différenciateur pour votre gamme."
       }
     },
     "beyond": {
       "title": "Personnalisez au-delà du produit",
       "packaging": {
         "title": "Packaging et étiquettes",
-        "body": "Ajoutez logo, coordonnées, noms de produits, descriptions, codes EAN et plus encore sur les cartons, master cases ou sachets individuels — prêts à la vente sous votre marque."
+        "body": "Ajoutez logo, coordonnées, noms de produits, descriptions, codes EAN et plus encore sur les cartons, master cases ou sachets individuels - prêts à la vente sous votre marque."
       },
       "mix": {
         "title": "Couleur et parfum",
@@ -733,7 +742,7 @@
       "title": "Bon à savoir",
       "items": {
         "0": "La quantité minimale dépend du produit choisi.",
-        "1": "Des frais de mise en place uniques s’appliquent pour chaque produit à personnaliser — ils couvrent l’outillage et la préparation nécessaires.",
+        "1": "Des frais de mise en place uniques s’appliquent pour chaque produit à personnaliser - ils couvrent l’outillage et la préparation nécessaires.",
         "2": "Tous les produits personnalisés sont fabriqués sur commande, selon votre cahier des charges.",
         "3": "Nous partageons les quantités minimales exactes, les prix et les délais avec votre devis, une fois vos besoins compris."
       }
@@ -746,12 +755,12 @@
       "email": "E-mail",
       "phone": "Téléphone",
       "products": "Produits pour private label",
-      "productsHint": "Indiquez une quantité uniquement pour les produits à personnaliser. Pas besoin de tout remplir — nous préciserons les détails après votre demande.",
+      "productsHint": "Indiquez une quantité uniquement pour les produits à personnaliser. Pas besoin de tout remplir - nous préciserons les détails après votre demande.",
       "quantity": "Qté (pcs)",
       "message": "Message",
       "submit": "Envoyer le message",
       "submitting": "Envoi…",
-      "success": "Merci — nous vous recontacterons bientôt.",
+      "success": "Merci - nous vous recontacterons bientôt.",
       "error": "Une erreur s’est produite. Veuillez réessayer dans un instant.",
       "alertSelect": "Veuillez indiquer une quantité pour au moins un produit. Vous n’avez pas besoin de tout commander.",
       "boundaryError": "Le formulaire n’a pas pu être chargé. Actualisez la page ou écrivez à support@ekcos.eu."
@@ -776,7 +785,7 @@
     "hub": {
       "title": "FAQ",
       "tagline": "Vos questions, nos faits",
-      "intro": "Choisissez la FAQ adaptée à votre façon d’acheter chez ëkcos — en tant que distributeur partenaire ou client e-shop.",
+      "intro": "Choisissez la FAQ adaptée à votre façon d’acheter chez ëkcos - en tant que distributeur partenaire ou client e-shop.",
       "distributorsDescription": "Produits, matériaux, Eco-One™, marque privée, documents et collaboration avec ëkcos.",
       "eshopDescription": "Produits, commandes, paiement, livraison, retours et achats sur eshop.ekcos.eu."
     }

@@ -35,6 +35,8 @@ export function NewsletterPopup({
     onOpenChange(next)
   }
 
+  if (!open) return null
+
   return (
     <Dialog open={open} onOpenChange={handleOpenChange}>
       <DialogContent className="border-black/10 sm:max-w-md">
