@@ -1,25 +1,25 @@
 {
   "hero": {
     "title": "FAQ",
-    "tagline": "Era frågor, våra fakta. Tydliga svar om våra produkter, material, beställningar och leveranser.",
-    "intro": "Här hittar ni tydliga svar på de frågor som våra kunder ställer oftast, från val av rätt urinoarmatta till leverans och returer. Varje miljöpåstående är konkret och styrks med belägg, till exempel ett oberoende laboratorietest."
+    "tagline": "Dina frågor, våra fakta. Tydliga svar om våra produkter, material, beställningar och leverans.",
+    "intro": "Här hittar du tydliga svar på de frågor som våra kunder oftast ställer, från val av rätt urinalskärm till leverans och returer. Varje påstående i denna FAQ är specifik och stöds av bevis: ett oberoende laboratorietest, patent och dokument från vår tillverkare."
   },
   "metrics": [
     {
-      "value": "93 %",
+      "value": "93%",
       "label": "biologisk nedbrytning inom 3,5 år i ett oberoende laboratorietest, med tillsatsen Eco-One™"
     },
     {
       "value": "60+",
-      "label": "dagars doft (ëkcoscreen 60+, xcrën HD 60+), dubbelt så länge som vanliga 30-dagarsmattor"
+      "label": "dagar av doft (ëkcoscreen 60+, xcrën HD 60+), dubbelt så långa som vanliga 30-dagarsskärmar"
     },
     {
       "value": "141 g",
-      "label": "doftande material i ëkcoscreen 60+, mer än tre gånger så mycket som en vanlig matta"
+      "label": "av doftmaterial i ëkcoscreen 60+, mer än tre gånger en typisk skärm"
     },
     {
-      "value": "95 %",
-      "label": "av ytan på ëkcoscreen 60+ är täckt med patenterade stänkskyddande borst"
+      "value": "95%",
+      "label": "av ëkcoscreen 60+ ytan täckt med patenterade anti-stänkborst"
     }
   ],
   "categories": [
@@ -29,7 +29,17 @@
       "items": [
         {
           "id": "about-1",
-          "question": "Vad gör produkterna från ëkcos annorlunda?",
+          "question": "Vem är ëkcos?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcos innovations utvecklar, tillverkar och distribuerar parfymerade urinalskärmar, klämmor för toalettskålar och luftfräschare. Vi är marknadsledare i USA och har introducerat våra produkter i mer än 70 länder. Våra produkter tillverkas i Mexiko. Vårt centrallager i Tjeckien förser kunder och partners över hela Europa, Asien och Afrika."
+            }
+          ]
+        },
+        {
+          "id": "about-2",
+          "question": "Vad är det som skiljer ëkcos produkter?",
           "answer": [
             {
               "type": "paragraph",
@@ -38,21 +48,11 @@
             {
               "type": "list",
               "items": [
-                "Stänkskydd. Våra patenterade stänkskyddande borst (Sealed Bristles Technology™) täcker upp till 95 % av mattan.",
-                "Lång doftlivslängd. ëkcoscreen 60+ och xcrën HD 60+ ger 60+ dagars doft, dubbelt så länge som vanliga 30-dagarsmattor.",
-                "Materialfakta som ni kan kontrollera. Tillverkade med återvunnen EVA. Biologiskt nedbrytbara på deponi med tillsatsen Eco-One™, vilket ett oberoende laboratorietest visar.",
-                "Ert varumärke på produkten. Er logotyp kan skäras ut i själva mattan."
+                "Stänkskydd. Våra patenterade anti-stänkborst (Sealed Bristles Technology™) täcker upp till 95 % av skärmen.",
+                "Lång doftlivslängd. ëkcoscreen 60+ och xcrën HD 60+ ger 60+ dagars doft, dubbelt så långa som vanliga 30-dagarsskärmar.",
+                "Väsentliga fakta du kan kontrollera. Tillverkad med återvunnen EVA. Biologiskt nedbrytbart i deponi med tillsatsen Eco-One™, som ett oberoende laboratorietest visar.",
+                "Ditt varumärke på produkten. Din logotyp kan skäras in i själva skärmen."
               ]
-            }
-          ]
-        },
-        {
-          "id": "about-2",
-          "question": "Vilken urinoarmatta ska jag välja?",
-          "answer": [
-            {
-              "type": "paragraph",
-              "text": "Välj efter hur välbesökt toaletten är och hur ofta ni underhåller den. Matta Doft Storlek Passar bäst för ëkcoscreen 60+ 60+ dagar 20 x 21 cm Välbesökta toaletter. 141 g doftande material. Borsten täcker 95 % av mattan. xcrën HD 60+ 60+ dagar 17 x 18 cm Välbesökta toaletter där utseendet är viktigt. Patenterad designform. powër screen upp till 30 18 x 20 cm Månatligt byte. Flexibel form dagar som passar nästan alla urinoarer. üro lite upp till 30 13 x 13 cm Mindre urinoarer. Långa dagar patenterade borst. xcrën puck upp till 30 17 x 17 cm Hålla avloppet fritt från fasta dagar partiklar och skräp. Deodoriserande puck."
             }
           ]
         }
@@ -60,115 +60,156 @@
     },
     {
       "id": "urinal-screens",
-      "title": "Urinoarmattor",
+      "title": "Urinal skärmar",
       "items": [
         {
           "id": "urinal-screens-1",
-          "question": "Hur länge räcker en urinoarmatta?",
+          "question": "Vilken urinalskärm ska jag välja?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "ëkcoscreen 60+ och xcrën HD 60+ ger 60+ dagars doft, dubbelt så länge som vanliga 30-dagarsmattor. På mindre besökta toaletter räcker de ännu längre. powër screen, üro lite och xcrën puck räcker i upp till 30 dagar, vilket gör dem idealiska för månatligt underhåll."
+              "text": "Välj efter trafik och hur ofta du servar toaletten."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Skärm",
+                "Doft",
+                "Storlek",
+                "Bäst för"
+              ],
+              "rows": [
+                [
+                  "ëkcoscreen 60+",
+                  "60+ dagar",
+                  "20 x 21 cm",
+                  "Högtrafikerade toaletter. 141 g doftmaterial. Borst täcker 95 % av skärmen."
+                ],
+                [
+                  "xcrën HD 60+",
+                  "60+ dagar",
+                  "17 x 18 cm",
+                  "Högtrafikerade toaletter där utseendet är viktigt. Patenterad designform."
+                ],
+                [
+                  "powër screen",
+                  "upp till 30 dagar",
+                  "18 x 20 cm",
+                  "Månatliga förändringar. Smidig form som passar nästan alla urinaler."
+                ],
+                [
+                  "üro lite",
+                  "upp till 30 dagar",
+                  "13 x 13 cm",
+                  "Mindre urinaler. Långa patenterade borst."
+                ],
+                [
+                  "xcrën puck",
+                  "upp till 30 dagar",
+                  "17 x 17 cm",
+                  "Hålla fasta partiklar och skräp borta från avloppet. Deodoriserande puck."
+                ]
+              ]
             }
           ]
         },
         {
           "id": "urinal-screens-2",
-          "question": "Varför välja en matta som räcker 60+ dagar?",
+          "question": "Hur länge håller en urinalskärm?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "ëkcoscreen 60+ räcker dubbelt så länge som en vanlig 30-dagarsmatta, till en liknande kostnad per dag. Ni byter den också hälften så ofta, så er personal lägger mindre tid på den."
+              "text": "ëkcoscreen 60+ och xcrën HD 60+ ger 60+ dagars doft, dubbelt så långa som vanliga 30-dagarsskärmar. I lågtrafikerade toaletter håller de ännu längre. powër screen, üro lite och xcrën puck ger upp till 30 dagar, vilket gör dem idealiska för månatligt underhåll."
             }
           ]
         },
         {
           "id": "urinal-screens-3",
-          "question": "Hur fungerar stänkskyddssystemet?",
+          "question": "Varför välja en 60+ dagars skärm?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Våra mattor har Sealed Bristles Technology™, vårt eget patenterade stänkskyddssystem. Täta borst bryter upp urinstrålen och minimerar urinstänk. Borsten täcker 95 % av ëkcoscreen 60+ och 92 % av xcrën HD 60+. üro lite har samma teknik med långa borst, som ger ett stort stänkskydd i en liten matta."
+              "text": "ëkcoscreen 60+ håller dubbelt så länge som en vanlig 30-dagarsskärm till en liknande kostnad per dag. Du byter också ut den hälften så ofta, så att din personal lägger mindre tid på det."
             }
           ]
         },
         {
           "id": "urinal-screens-4",
-          "question": "Finns det belägg för att borsten fungerar?",
+          "question": "Hur fungerar antistänksystemet?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Vi har filmat ëkcoscreen 60+ i ett UV-stänktest sida vid sida under identiska förhållanden: samma urinoarmodell, samma höjd och samma flöde. ëkcoscreen 60+ visade inget synligt stänk utanför mattan. Be oss om videon. Själva borstsystemet är patenterat."
+              "text": "Våra skärmar använder Sealed Bristles Technology™, vårt eget patenterade anti-stänksystem. Täta borst bryter upp urinströmmen och minimerar urinstänk. Borsten täcker 95 % av ëkcoscreen 60+ och 92 % av xcrën HD 60+. üro lite använder samma teknik med långa borst, som ger stort stänkskydd på en liten skärm."
             }
           ]
         },
         {
           "id": "urinal-screens-5",
-          "question": "Kan jag använda mattorna i vattenfria urinoarer?",
+          "question": "Finns det bevis på att borsten fungerar?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Ja. ëkcoscreen 60+ och xcrën HD 60+ är idealiska för vattenfria urinoarer, och powër screen och üro lite är också lämpliga. För avloppet i en vattenfri urinoar, se ëz trap nedan. powër screen har en flexibel form som passar nästan alla typer av urinoarer, och üro lite är gjord för mindre urinoarer. Storleken på varje matta hittar ni i tabellen ovan."
+              "text": "Vi filmade ëkcoscreen 60+ i ett UV-stänktest sida vid sida under identiska förhållanden: samma urinalmodell, samma höjd och samma flöde. ëkcoscreen 60+ visade ingen synlig stänk utanför skärmen. Be oss om videon. Själva borstsystemet är patenterat."
             }
           ]
         },
         {
           "id": "urinal-screens-6",
-          "question": "Hur lägger jag i eller byter en urinoarmatta?",
+          "question": "Kan jag använda skärmarna i vattenfria urinaler?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Använd handskar. Ta ut den använda mattan och släng den i restavfallet. Packa upp den nya mattan och lägg den plant i botten av urinoaren, över avloppet, med borsten uppåt. Byt den när doften avtar eller vid ert vanliga serviceintervall."
+              "text": "Ja. ëkcoscreen 60+ och xcrën HD 60+ är idealiska för vattenfria urinaler, och powër screen och üro lite är också lämpliga. För dränering av en vattenfri urinal, se ëz trap nedan."
             }
           ]
         },
         {
           "id": "urinal-screens-7",
-          "question": "Hur slänger jag en använd matta?",
+          "question": "Passar skärmen min urinal?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Släng den i restavfallet. Själva EVA-materialet går att återvinna, men inte en använd urinoarmatta, eftersom den är biologiskt förorenad. Den hamnar på deponi eller går till förbränning. Därför blandar vi in tillsatsen Eco-One™, som gör vårt material biologiskt nedbrytbart på deponi."
+              "text": "powër screen har en flexibel form som passar nästan alla urinaltyper, och üro lite är gjord för mindre urinaler. Du hittar storleken på varje skärm i tabellen ovan."
             }
           ]
         },
         {
           "id": "urinal-screens-8",
-          "question": "Vad är xcrën puck?",
+          "question": "Hur placerar eller byter jag en urinalskärm?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "xcrën puck är en X-formad urinoarmatta med en deodoriserande puck. X- formen hindrar fasta partiklar och skräp från att täppa till avloppet, och pucken avger en fräsch doft vid varje användning i upp till 30 dagar. Pucken består huvudsakligen av vax och glycerin och löses upp vid användning. Pucken kan inte ersättas, så ni byter hela xcrën puck."
+              "text": "Använd handskar. Ta ut den använda skärmen och lägg den i allmänt avfall. Packa upp den nya skärmen och lägg den platt i botten av urinalen, över avloppet, med borsten uppåt. Byt ut den när doften bleknar eller med ditt vanliga serviceintervall."
             }
           ]
         },
         {
           "id": "urinal-screens-9",
-          "question": "Vad betyder NON-PARA?",
+          "question": "Hur gör jag av med en använd skärm?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Det betyder att pucken i xcrën puck inte innehåller paradiklorbensen (PARA), som WHO klassar som möjligen cancerframkallande. ëkcos har aldrig använt PARA. NON-PARA betyder inte parabenfri."
+              "text": "Lägg det i allmänt avfall. Själva EVA-materialet kan återvinnas, men en använd urinalskärm kan inte, eftersom den är biologiskt förorenad. Det hamnar på deponi eller förbränning. Det är därför vi lägger till tillsatsen Eco-One™, som gör vårt material biologiskt nedbrytbart i deponi."
             }
           ]
         },
         {
           "id": "urinal-screens-10",
-          "question": "Vad är ëz trap, och vilka urinoarer passar den?",
+          "question": "Vad är xcrën puck?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "ëz trap är en patron för vattenfria urinoarer. Urinen rinner genom sifonen, och ett förslutningslock tätar efter varje användning, vilket hjälper till att hindra avloppslukt från att tränga ut. Den passar Sloan, Falcon, Vitra, Bobrick och andra märken som använder Falcon Velocity-systemet (diameter 11,8 cm, höjd 11,5 cm)."
+              "text": "xcrën puck är en X-formad urinalskärm med en luktborttagande puck. X-formen hindrar fasta partiklar och skräp från att täppa till avloppet, och pucken avger en fräsch doft vid varje användning i upp till 30 dagar. Pucken är huvudsakligen gjord av vax och glycerin och löses upp vid användning. Den kan inte ersättas, så du ändrar hela xcrën puck."
             }
           ]
         },
         {
           "id": "urinal-screens-11",
-          "question": "Hur länge håller ëz trap, och hur sköter jag den?",
+          "question": "Vad betyder NON-PARA?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Patronen håller i 4 till 6+ månader och behöver inga dyra geler eller specialrengöringsmedel. Häll ett glas vatten i urinoaren varje dag för att förhindra kalkavlagringar. Regelbunden rengöring med ett kalklösande medel, till exempel en kvalitetsgel för toaletter, förlänger livslängden. ëz trap finns med eller utan demonteringsverktyg. Verktyget kan återanvändas, så ni behöver det bara vid er första beställning."
+              "text": "Det betyder att pucken i xcrën puck inte innehåller paradiklorbensen (PARA), som WHO klassar som möjligen cancerframkallande. ëkcos har aldrig använt PARA. NON-PARA betyder inte parabenfri."
             }
           ]
         }
@@ -180,35 +221,31 @@
       "items": [
         {
           "id": "ez-trap-ekco-mat-1",
-          "question": "Vad är ëkco mat?",
+          "question": "Vad är ëz trap, och vilka urinaler passar det?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "ëkco mat är en absorberande golvmatta för engångsbruk som läggs under urinoaren. Med måtten 54 x 51 cm täcker den ytan runt de flesta standardurinoarer. Den skyddar golvet mot urin och minskar mängden urin som förs vidare med skosulor."
+              "text": "ëz trap är en patron för vattenfria urinaler. Urin rinner genom sifonen och en stängningslock tätar efter varje användning, vilket hjälper till att förhindra att dräneringslukter läcker ut. Den passar Sloan, Falcon, Vitra, Bobrick och andra märken som använder Falcon Velocity-systemet (diameter 11,8 cm, höjd 11,5 cm)."
             }
           ]
         },
         {
           "id": "ez-trap-ekco-mat-2",
-          "question": "Vilken luftfräschare ska jag välja?",
+          "question": "Hur länge håller ëz trap och hur underhåller jag den?",
           "answer": [
             {
-              "type": "list",
-              "items": [
-                "frësh drop: för toalettbås och toaletter. 30+ dagars doft i bås med liten ventilation och 60+ dagar i mindre besökta bås, utan batterier eller el.",
-                "ëkco clip: fästs på toalettstolen och ger upp till 30 dagars doft. Den flexibla formen passar nästan alla typer av toalettstolar.",
-                "ëkco loop: kompakt luftfräschare för små utrymmen med lite luftcirkulation, som under skrivbord, på insidan av soptunnelock, i garderober och skoskåp. Upp till 30 dagar. Välj frësh drop för toalettbås."
-              ]
+              "type": "paragraph",
+              "text": "Patronen håller i 4 till 6+ månader och behöver inga dyra geler eller speciella rengöringsmedel. Häll ett glas vatten i urinoaren varje dag för att förhindra kalciumansamling. Regelbunden rengöring med ett anti-kalciummedel, såsom en kvalitetstoalettgel, förlänger dess livslängd. ëz trap kommer med eller utan borttagningsverktyget. Verktyget är återanvändbart, så du behöver det bara med din första beställning."
             }
           ]
         },
         {
           "id": "ez-trap-ekco-mat-3",
-          "question": "Hur länge räcker frësh drop?",
+          "question": "Vad är ëkco mat?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "I bås med liten eller ingen ventilation räcker den 30+ dagar, i mindre besökta bås 60+ dagar. När doften avtar byter ni bara doftinsatsen. Hållaren sitter kvar på väggen."
+              "text": "ëkco mat är en absorberande golvmatta för engångsbruk för området under urinalen. Med 54 x 51 cm täcker den området runt de flesta vanliga urinaler. Det skyddar golvet från urin och minskar urinen som transporteras bort på skosulor."
             }
           ]
         }
@@ -216,65 +253,69 @@
     },
     {
       "id": "air-fresheners",
-      "title": "Luftfräschare och WC-clips",
+      "title": "Luftfräschare och klämmor för toalettskålar",
       "items": [
         {
           "id": "air-fresheners-1",
-          "question": "Hur monterar jag frësh drop och ëkco loop?",
+          "question": "Vilken luftfräschare ska jag välja?",
           "answer": [
             {
-              "type": "paragraph",
-              "text": "Båda är system med en hållare och en doftinsats. Fäst hållaren på en ren, torr yta: frësh drop med den medföljande tejpen, ëkco loop med sin självhäftande hållare. Sätt sedan fast doftinsatsen. På frësh drop håller ett litet vridlås doftinsatsen på hållaren, och det finns reservlås om ett lås skulle komma bort. Placera ëkco loop nära den plats där ni vill ha doften."
+              "type": "list",
+              "items": [
+                "frësh drop: för toalettbås och toaletter. 30+ dagars doft i skåp med lite ventilation och 60+ dagar vid låg trafik, utan batterier eller elektricitet.",
+                "ëkco clip: fästs på toalettskålen och ger upp till 30 dagars doft. Dess flexibla form passar nästan alla skåltyper.",
+                "ëkco loop: kompakt fräschare för små utrymmen med lite luftflöde, till exempel under skrivbord, inuti papperskorgarlock, garderober och skoskåp. Upp till 30 dagar. För toalettbås, välj frësh drop."
+              ]
             }
           ]
         },
         {
           "id": "air-fresheners-2",
-          "question": "Hur avges doften?",
+          "question": "Hur länge håller frësh drop?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Passivt. Doften är tillsatt i materialet och avges gradvis över tid. Varken spray, batterier eller el behövs."
+              "text": "I skåp med liten eller ingen ventilation varar den 30+ dagar och vid låg trafik 60+ dagar. När doften bleknar byter du bara ut insatsen. Basen stannar på väggen."
             }
           ]
         },
         {
           "id": "air-fresheners-3",
-          "question": "Vilka färger och dofter finns det?",
+          "question": "Hur installerar jag frësh drop och ëkco loop?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Våra viktigaste serier har samma elva färger och dofter: lila / skogsbär, grön / äpple, blå / fresh, orange / tropisk frukt, transparent / tropisk frukt, svart / mint, flamma / mango, grön / tall, röd / melon, lila / lavendel och gul / citrus. Därför kan en byggnad ha en och samma doft från urinoaren till toalettbåset. Våra dofter är lätta att känna igen: äpple doftar äpple, melon doftar melon."
+              "text": "Båda är system av en bas och en doftinsats. Fäst basen på en ren, torr yta: frësh drop med den medföljande tejpen, ëkco loop med sin självhäftande monteringsbas. Fäst sedan insatsen. På frësh drop håller ett litet vridlås insatsen på basen, och reservlås finns tillgängliga om man tappar bort något. Placera ëkco loop nära där du vill ha doften."
             }
           ]
         },
         {
           "id": "air-fresheners-4",
-          "question": "Vad bör jag veta om säker hantering?",
+          "question": "Hur släpps doften?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Vissa av våra doftande produkter kan orsaka allergisk hudreaktion. Följ etiketten och säkerhetsdatabladet, använd handskar när ni hanterar produkterna och förvara dem oåtkomligt för barn."
+              "text": "Passivt. Doften infunderas i materialet och frigörs gradvis över tiden. Inga sprayer, batterier eller elektricitet behövs."
             }
           ]
         },
         {
           "id": "air-fresheners-5",
-          "question": "Vad är produkterna från ëkcos tillverkade av?",
+          "question": "Vilka färger och dofter finns tillgängliga?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Våra urinoarmattor, WC-clips och doftinsatser till luftfräschare är tillverkade av ett egenutvecklat material med doft på deodorantbas. Materialet är tillverkat med återvunnen EVA. Andelen återvunnen EVA varierar från parti till parti, så vi anger ingen fast procentsats. Alla produkter från ëkcos utom ëkco mat innehåller tillsatsen Eco-One™."
+              "text": "Våra huvudlinjer delar samma elva färger och dofter: lila / bär, grönt / äpple, blått / färskt, orange / tropisk frukt, klar / tropisk frukt, svart / mint, flamma / mango, grön / tall, röd / melon, lila / lavendel och gul / citrus. Så en byggnad kan hålla en doft från urinoaren till skåpet. Våra dofter är lätta att känna igen: äpple luktar äpple, melon som melon."
             }
           ]
         },
         {
           "id": "air-fresheners-6",
-          "question": "Vad är Eco-One™?",
+          "question": "Vad bör jag veta om säker hantering?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Eco-One™ är en organisk tillsats som tillverkas av EcoLogic, LLC. Vi blandar in cirka 1 % av den i vårt material under tillverkningen. Den förändrar inte produktens hållfasthet, utseende eller prestanda. När produkten hamnar på en biologiskt aktiv deponi bryts materialet ned till biogas, CO₂ och humus. Moderna deponier tar tillvara biogasen som energi."
+              "text": "Vissa av våra parfymerade produkter kan orsaka en allergisk hudreaktion. Följ etiketten och säkerhetsdatabladet, använd handskar när du hanterar produkterna och förvara dem utom räckhåll för barn."
             }
           ]
         }
@@ -286,71 +327,71 @@
       "items": [
         {
           "id": "materials-1",
-          "question": "Vad betyder ”biologiskt nedbrytbar på deponi”, och hur har det testats?",
+          "question": "Vad är ëkcos produkter gjorda av?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Det betyder att vårt material bryts ned på en biologiskt aktiv deponi, där använda mattor hamnar. Instituto Politécnico Nacional i Mexico City har testat ëkcos EVA med Eco-One™ enligt standarderna ASTM D5511 och ISO 15985. Materialet nådde 93 % biologisk nedbrytning inom 3,5 år, medan samma material utan tillsatsen visade 0 %. Upp till 99 % beräknas inom 5 år. Det är en prognos utifrån den uppmätta trenden, inte ett uppmätt resultat. Den biologiska nedbrytningen beror på förhållandena på deponin."
+              "text": "Våra urinalskärmar, klämmor för toalettskålar och luftfräschare är gjorda av ett patentskyddat material med en deodorantbaserad doft. Materialet är tillverkat med återvunnen EVA. Andelen återvunnen EVA varierar från batch till batch, så vi anger ingen fast procentsats. Varje ëkcos produkt utom ëkco mat innehåller tillsatsen Eco-One™."
             }
           ]
         },
         {
           "id": "materials-2",
-          "question": "Varför kallar ni inte era produkter ”miljövänliga”?",
+          "question": "Vad är Eco-One™?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Sedan den 27 september 2026 tillåter EU:s regler (direktiv (EU) 2024/825) inte längre allmänna påståenden som ”miljövänlig”, ”grön” eller ”hållbar” utan erkända belägg för utmärkt miljöprestanda. Därför berättar vi exakt vad vi kan bevisa: tillverkade med återvunnen EVA, biologiskt nedbrytbara på deponi med Eco-One™ i ett oberoende laboratorietest, och lådor av 100 % återvunnen kartong."
+              "text": "Eco-One™ är en organisk tillsats tillverkad av EcoLogic, LLC. Vi lägger till cirka 1 % av det till vårt material under produktionen. Det förändrar inte produktens styrka, utseende eller prestanda. När produkten hamnar på en biologiskt aktiv deponi bryts materialet ner till biogas, CO₂ och humus. Moderna deponier använder biogasen för energi."
             }
           ]
         },
         {
           "id": "materials-3",
-          "question": "Kan produkterna från ëkcos återvinnas?",
+          "question": "Vad betyder \"biologiskt nedbrytbart i deponi\" och hur testades det?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Själva EVA-materialet går att återvinna. En använd urinoarmatta eller ett använt WC-clip går inte att återvinna, eftersom de är biologiskt förorenade, så de hör hemma i restavfallet. Doftinsatserna till frësh drop och ëkco loop är tillverkade med återvunnen EVA och är inte förorenade, så deras material kan återvinnas. Följ era lokala regler för avfallshantering. Vi kallar inte våra produkter ”100 % återvinningsbara”, eftersom det inte skulle stämma för en använd matta."
+              "text": "Det innebär att vårt material bryts ner i en biologiskt aktiv deponi, där använda skärmar hamnar. Instituto Politécnico Nacional i Mexico City testade ëkcos EVA med Eco-One™ under standarderna ASTM D5511-02 och ISO 15985:2014. Den nådde 93 % biologisk nedbrytning inom 3,5 år, medan samma material utan tillsatsen visade 0 %. Upp till 99 % beräknas inom 5 år. Detta är en prognos från den uppmätta trenden, inte ett uppmätt resultat. Biologisk nedbrytning beror på deponiförhållandena."
             }
           ]
         },
         {
           "id": "materials-4",
-          "question": "Vilka förpackningar använder ni?",
+          "question": "Varför kallar du inte dina produkter \"miljövänliga\"?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Våra produktlådor och ytterkartonger är tillverkade av 100 % återvunnen wellpapp. Produktpåsarna är tillverkade av BOPP, en polypropenfilm. Vi gör inga miljöpåståenden om påsarna."
+              "text": "Sedan den 27 september 2026 tillåter EU:s regler (direktiv (EU) 2024/825) inte längre allmänna påståenden som \"miljövänliga\", \"gröna\" eller \"hållbara\" utan erkända bevis på utmärkt miljöprestanda. Så vi berättar exakt vad vi kan bevisa: gjorda av återvunnen EVA, biologiskt nedbrytbar i deponi med Eco-One™ i ett oberoende laboratorietest, och lådor gjorda av 100 % återvunnen kartong."
             }
           ]
         },
         {
           "id": "materials-5",
-          "question": "Kan jag få se testcertifikatet och andra dokument?",
+          "question": "Kan ëkcos produkter återvinnas?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Ja. Företagskunder kan be oss om testcertifikatet för biologisk nedbrytning, vår broschyr om Eco-One™, säkerhetsdatablad och vår dokumentation för förpackningar. Skriv till support@ekcos.eu."
+              "text": "Själva EVA-materialet kan återvinnas. En använd urinalskärm eller klämma för toalettskål kan inte, eftersom den är biologiskt förorenad, så den hör till allmänt avfall. Insatserna av frësh drop och ëkco loop är gjorda med återvunnen EVA och är inte kontaminerade, så deras material kan återvinnas. Vänligen följ dina lokala avfallsregler. Vi kallar inte våra produkter \"100% återvinningsbara\", eftersom det inte skulle vara sant för en begagnad skärm."
             }
           ]
         },
         {
           "id": "materials-6",
-          "question": "Kan jag få produkter med min egen logotyp?",
+          "question": "Vilken förpackning använder du?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Ja. Vi kan skära ut er logotyp i själva mattan, inte bara trycka den på förpackningen, så att den finns kvar under hela produktens livslängd. Er logotyp kan också tryckas på produkten. Förpackningen kan ha era egna etiketter med er logotyp och EAN-koder, och ni väljer färger och dofter."
+              "text": "Våra produktlådor och masterfodral är gjorda av 100 % återvunnen wellpapp. Produktpåsarna är gjorda av BOPP, en polypropenfilm. Vi gör inga miljöpåståenden om påsarna."
             }
           ]
         },
         {
           "id": "materials-7",
-          "question": "Vilka produkter kan ha min logotyp?",
+          "question": "Kan jag se provintyget och andra dokument?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "De flesta av våra produkter. Urinoarmattor och ëkco clip kan ha er logotyp utskuren i materialet eller tryckt. frësh drop märks med tryck. ëkco loop har ingen plats för en logotyp."
+              "text": "Ja. Företagskunder kan be oss om testcertifikatet för biologisk nedbrytning, vår broschyr Eco-One™, säkerhetsdatablad och vår förpackningsdokumentation. Skriv till support@ekcos.eu."
             }
           ]
         }
@@ -362,31 +403,31 @@
       "items": [
         {
           "id": "private-label-1",
-          "question": "Hur lång tid tar märkning med egen logotyp, och vad kostar den?",
+          "question": "Kan jag få produkter med min egen logotyp?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Produkter med egen logotyp tillverkas på beställning. Normal produktions- och leveranstid är 6 till 10 veckor. Det tillkommer en engångsavgift för uppstart per produkt, och specialbeställningar betalas till 100 % i förskott. Aktuella avgifter hittar ni på vår sida om märkning med egen logotyp."
+              "text": "Ja. Vi kan skära in din logotyp i själva skärmen, inte bara skriva ut den på förpackningen, så den stannar där under produktens livstid. Din logotyp kan även tryckas på produkten. Förpackningen kan bära dina egna etiketter med din logotyp och EAN-koder, och du väljer färger och dofter."
             }
           ]
         },
         {
           "id": "private-label-2",
-          "question": "Finns det någon minsta beställning?",
+          "question": "Vilka produkter kan bära min logotyp?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Nej. Vissa produkter säljs styckvis, andra i tvåpack. Det framgår alltid av produktnamnet."
+              "text": "De flesta av våra produkter. Urinalskärmar och ëkco clip kan bära din logotyp skuren i materialet eller tryckt. frësh drop är märkt genom tryckning. ëkco loop har inget utrymme för en logotyp."
             }
           ]
         },
         {
           "id": "private-label-3",
-          "question": "Vilka betalningssätt accepterar ni?",
+          "question": "Hur lång tid tar custom branding och vad kostar det?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Betalkort som Visa, Mastercard, Maestro och American Express, Apple Pay, Google Pay och Shop Pay, lokala betalningssätt som Bancontact, BLIK, MB WAY och MobilePay samt banköverföring. I kassan ser ni vilka betalningssätt som finns i ert land."
+              "text": "Märkesprodukter tillverkas på beställning. Typisk tillverkning och leveranstid är 6 till 10 veckor. Det tillkommer en engångsavgift per produkt, och anpassade beställningar betalas 100 % i förskott. Du hittar de aktuella avgifterna på vår Custom Branding-sida."
             }
           ]
         }
@@ -394,85 +435,176 @@
     },
     {
       "id": "orders",
-      "title": "Beställning, betalning och leverans",
+      "title": "Beställningar, betalning och leverans",
       "items": [
         {
           "id": "orders-1",
-          "question": "Kan mitt företag handla utan moms?",
+          "question": "Vem kan köpa i e-butiken?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Ja, om ert företag är momsregistrerat i ett annat EU-land än Tjeckien. Ange i kassan ert officiella företagsnamn och ert momsregistreringsnummer med landsprefix, till exempel DE123456789. Vi kontrollerar det i realtid i EU:s databas VIES. Om numret är giltigt sänks momsen till 0 % (omvänd betalningsskyldighet). Tjeckiska företag betalar tjeckisk moms, eftersom vi fakturerar med ett tjeckiskt momsregistreringsnummer. Ange ert momsregistreringsnummer innan ni betalar. Har ni glömt det, skriv till oss. Mer information finns i vår guide om B2B och 0 % moms. Ja. Till varje beställning får ni en momsfaktura. Om ni behöver en kopia, skriv till support@ekcos.eu."
+              "text": "Företag och privatkunder från alla EU-länder. Företag registrerade för moms i ett annat EU-land än Tjeckien kan köpa med 0 % moms."
             }
           ]
         },
         {
           "id": "orders-2",
-          "question": "Hur snabbt skickar ni?",
+          "question": "Finns det en minimibeställning?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Vi skickar beställningar från webbutiken inom 1 till 2 arbetsdagar efter betalning. Om en produkt tillfälligt är slut i lager skickar vi den oftast inom en månad, eftersom nya varor regelbundet kommer in till vårt lager. Vi levererar till alla EU-länder. Leveransen tar oftast cirka 5 dagar efter avsändning, och kortare tid till länder nära Tjeckien. Till exempel tar leveransen till Tyskland och Österrike 1 till 2 dagar, och till Italien, Frankrike och Nederländerna 3 till 4 dagar. För leveranser utanför EU ber vi er skriva till oss."
+              "text": "Nej. Vissa produkter säljs individuellt, andra i förpackningar om två. Produktnamnet säger alltid så."
             }
           ]
         },
         {
           "id": "orders-3",
-          "question": "Vilka transportörer använder ni?",
+          "question": "Vilka betalningsmetoder accepterar du?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "I Tjeckien skickar vi med FOFR, till andra EU-länder med FedEx. Ni får spårningsinformation via e-post när paketet är på väg."
+              "text": "Betalkort som Visa, Mastercard, Maestro och American Express, Apple Pay, Google Pay och Shop Pay, lokala metoder som Bancontact, BLIK, MB WAY och MobilePay samt banköverföring. I kassan visas de metoder som är tillgängliga i ditt land."
             }
           ]
         },
         {
           "id": "orders-4",
-          "question": "Vad kostar frakten?",
+          "question": "Kan mitt företag köpa utan moms?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Frakten är gratis för beställningar över 120 EUR, utom till Cypern och Malta. Under 120 EUR kostar frakten: Frakt Länder 3,90 EUR Tjeckien 4,90 EUR Polen, Slovakien, Tyskland, Ungern, Österrike 5,90 EUR Belgien, Italien, Luxemburg, Nederländerna, Rumänien, Slovenien 7,90 EUR Frankrike 8,90 EUR Danmark, Grekland, Kroatien, Spanien, Sverige 9,90 EUR Bulgarien, Estland, Finland, Irland, Lettland, Litauen 10,90 EUR Portugal 16,90 EUR Cypern, Malta (ingen fri frakt) I kassan ser ni det exakta beloppet i er valuta."
+              "text": "Ja, om ditt företag är momsregistrerat i ett annat EU-land än Tjeckien. I kassan anger du ditt officiella företagsnamn och ditt momsregistreringsnummer med landsprefixet, till exempel DE123456789. Vi kontrollerar det i realtid i EU VIES-databasen. Om den är giltig sjunker momsen till 0 % (omvänd skattskyldighet). Tjeckiska företag betalar tjeckisk moms, eftersom vi fakturerar under ett tjeckiskt momsregistreringsnummer. Ange ditt momsregistreringsnummer innan du betalar. Om du har glömt, skriv till oss. Mer information finns i vår B2B & 0% momsguide."
             }
           ]
         },
         {
           "id": "orders-5",
-          "question": "Kan jag returnera en produkt?",
+          "question": "Kommer jag att få en faktura?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Ja. Ni kan returnera oanvända produkter i originalförpackningen inom 30 dagar från leveransen. Skriv först till support@ekcos.eu. Vi skickar en returetikett och instruktioner till er. När vi har godkänt returen betalar vi tillbaka beloppet till ert ursprungliga betalningssätt inom 10 arbetsdagar. Produkter med egen logotyp kan inte returneras."
+              "text": "Ja. Varje beställning kommer med en momsfaktura. Om du behöver en kopia, skriv till support@ekcos.eu."
             }
           ]
         },
         {
           "id": "orders-6",
-          "question": "Vad gör jag om min beställning kommer fram skadad eller ofullständig?",
+          "question": "Hur snabbt skickar du?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Kontrollera paketet vid leveransen. Om något är skadat, fel eller saknas, skriv direkt till support@ekcos.eu, helst med foton. Vi ser till att det blir rätt."
+              "text": "Vi skickar e-butiksbeställningar inom 1 till 2 arbetsdagar efter betalning. Om en produkt är tillfälligt slut i lager, skickar vi den vanligtvis inom en månad, eftersom nya varor kommer till vårt lager regelbundet."
             }
           ]
         },
         {
           "id": "orders-7",
-          "question": "Kan jag få prover eller ett pris för större volymer?",
+          "question": "Var levererar du och hur lång tid tar leverans?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Ja. Företag kan be oss om prover. För större volymer eller regelbundna leveranser, skriv till support@ekcos.eu. Vi tar fram en offert eller sätter er i kontakt med vår partner i ert land."
+              "text": "Vi levererar till alla EU-länder. Leveransen tar vanligtvis cirka 5 dagar efter avsändning, och mindre för länder nära Tjeckien. Till exempel tar Tyskland och Österrike 1 till 2 dagar och Italien, Frankrike och Nederländerna 3 till 4 dagar. För leveranser utanför EU, vänligen skriv till oss."
             }
           ]
         },
         {
           "id": "orders-8",
-          "question": "Hur kan jag kontakta er?",
+          "question": "Vilka bärare använder du?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Skriv till support@ekcos.eu eller använd kontaktformuläret i vår webbutik. Webbutiken drivs av Ekcos Europe OÜ, Saani tn 2/2-26, 10149 Tallinn, Estland."
+              "text": "I Tjeckien skickar vi med FOFR, till andra EU-länder med FedEx. Du får spårningsinformation via e-post när ditt paket är på väg."
+            }
+          ]
+        },
+        {
+          "id": "orders-9",
+          "question": "Hur mycket kostar frakten?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Frakt är gratis på beställningar över 120 EUR, förutom till Cypern och Malta. Under 120 EUR, fraktkostnader:"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Frakt",
+                "Länder"
+              ],
+              "rows": [
+                [
+                  "3,90 EUR",
+                  "Tjeckien"
+                ],
+                [
+                  "4,90 EUR",
+                  "Österrike, Tyskland, Ungern, Polen, Slovakien"
+                ],
+                [
+                  "5,90 EUR",
+                  "Belgien, Italien, Luxemburg, Nederländerna, Rumänien, Slovenien"
+                ],
+                [
+                  "7,90 EUR",
+                  "Frankrike"
+                ],
+                [
+                  "8,90 EUR",
+                  "Kroatien, Danmark, Grekland, Spanien, Sverige"
+                ],
+                [
+                  "9,90 EUR",
+                  "Bulgarien, Estland, Finland, Irland, Lettland, Litauen"
+                ],
+                [
+                  "10,90 EUR",
+                  "Portugal"
+                ],
+                [
+                  "16,90 EUR",
+                  "Cypern, Malta (ingen fri frakt) I kassan ser du det exakta beloppet i din valuta."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "orders-10",
+          "question": "Kan jag returnera en produkt?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Ja. Du kan returnera oanvända produkter i originalförpackningen inom 30 dagar efter leverans. Skriv till support@ekcos.eu först. Vi skickar en returetikett och instruktioner. Efter att vi har godkänt returen återbetalar vi dig till din ursprungliga betalningsmetod inom 10 arbetsdagar. Produkter med anpassat varumärke kan inte returneras."
+            }
+          ]
+        },
+        {
+          "id": "orders-11",
+          "question": "Vad händer om min beställning kommer fram skadad eller ofullständig?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Kontrollera ditt paket vid leverans. Om något är skadat, fel eller saknas, skriv till support@ekcos.eu omedelbart, helst med foton. Vi kommer att göra det rätt."
+            }
+          ]
+        },
+        {
+          "id": "orders-12",
+          "question": "Kan jag få prover eller ett pris för större volymer?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Ja. Företag kan be oss om prover. För större volymer eller regelbundna leveranser, skriv till support@ekcos.eu. Vi förbereder ett erbjudande eller sätter dig i kontakt med vår partner i ditt land."
+            }
+          ]
+        },
+        {
+          "id": "orders-13",
+          "question": "Hur kan jag kontakta dig?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Skriv till support@ekcos.eu eller använd kontaktformuläret i vår e-butik. E-butiken drivs av Ekcos Europe OÜ, Saani tn 2/2-26, 10149 Tallinn, Estland."
             }
           ]
         }
@@ -480,8 +612,8 @@
     }
   ],
   "contact": {
-    "title": "Har ni fortfarande frågor?",
-    "body": ""
+    "title": "Har du fortfarande en fråga?",
+    "body": "Skriv till support@ekcos.eu. Vi hjälper gärna till."
   },
-  "footnote": "Datakälla: oberoende test av biologisk nedbrytning enligt ASTM D5511-02 och ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City). Produkt från ëkcos med 1 % tillsats av Eco-One™: 93,31 % biologisk nedbrytning på 1 288 dagar (cirka 3,5 år). Samma produkt utan tillsatsen: 0 %. Upp till 99 % inom 5 år beräknas utifrån den uppmätta trenden. Den biologiska nedbrytningen beror på förhållandena på deponin. Eco-One™ är ett varumärke som tillhör EcoLogic, LLC."
+  "footnote": "Datakälla: oberoende biologisk nedbrytningstest under ASTM D5511-02 och ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City). ëkcos produkt med 1 % Eco-One™ tillsats: 93,31 % biologisk nedbrytning på 1 288 dagar (ca 3,5 år). Samma produkt utan tillsats: 0%. Upp till 99 % inom 5 år projiceras från den uppmätta trenden. Biologisk nedbrytning beror på deponiförhållandena. Eco-One™ är ett varumärke som tillhör EcoLogic, LLC."
 }
