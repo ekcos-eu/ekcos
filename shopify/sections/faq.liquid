@@ -359,7 +359,6 @@
 <section class="faq-page" aria-labelledby="faq-page-title">
   <div class="faq-page__hero">
     <div class="faq-page__wrap">
-      <p class="faq-page__eyebrow">{{ faq_eyebrow }}</p>
       <h1 class="faq-page__title" id="faq-page-title">{{ faq_title }}</h1>
       <p class="faq-page__lead">{{ faq_lead }}</p>
       <p class="faq-page__intro">{{ faq_intro }}</p>
@@ -593,8 +592,9 @@
   }
 
   .faq-page__wrap {
-    width: min(920px, calc(100% - 3rem));
+    width: min(115.2rem, 100%);
     margin-inline: auto;
+    padding-inline: 1.6rem;
   }
 
   .faq-page__hero {
@@ -602,21 +602,11 @@
       radial-gradient(120% 80% at 50% -20%, rgba(15, 104, 178, 0.14), transparent 55%),
       linear-gradient(180deg, #eef5fb 0%, #ffffff 78%);
     padding: 6rem 0 4.5rem;
-    text-align: center;
-  }
-
-  .faq-page__eyebrow {
-    margin: 0;
-    font-family: var(--font-heading-family, inherit);
-    font-size: 1.3rem;
-    font-weight: 700;
-    letter-spacing: 0.14em;
-    text-transform: uppercase;
-    color: var(--faq-blue);
+    text-align: left;
   }
 
   .faq-page__title {
-    margin: 1.2rem 0 0;
+    margin: 0;
     font-family: var(--font-heading-family, inherit);
     font-style: var(--font-heading-style, normal);
     font-weight: var(--font-heading-weight, 700);
@@ -624,11 +614,11 @@
     line-height: 1.15;
     letter-spacing: -0.02em;
     color: var(--faq-ink);
+    text-wrap: balance;
   }
 
   .faq-page__lead {
-    margin: 1.6rem auto 0;
-    max-width: 64rem;
+    margin: 1.6rem 0 0;
     font-family: var(--font-heading-family, inherit);
     font-size: 2.4rem;
     font-weight: 700;
@@ -638,12 +628,11 @@
   }
 
   .faq-page__intro {
-    margin: 1.8rem auto 0;
-    max-width: 68rem;
+    margin: 1.8rem 0 0;
     font-size: 1.9rem;
     line-height: 1.7;
     color: var(--faq-body);
-    text-align: left;
+    text-align: justify;
   }
 
   .faq-page__section {
@@ -659,14 +648,14 @@
 
   .faq-page__category {
     margin: 3.2rem 0 0.8rem;
-    padding-bottom: 1rem;
-    border-bottom: 0.2rem solid var(--faq-ink);
+    padding-bottom: 0;
+    border-bottom: 0;
     font-family: var(--font-heading-family, inherit);
-    font-size: 1.7rem;
+    font-size: 2.4rem;
     font-weight: 700;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--faq-ink);
+    letter-spacing: -0.01em;
+    text-transform: none;
+    color: var(--faq-blue);
   }
 
   .faq-page__category:first-child {
@@ -750,7 +739,7 @@
   }
 
   .faq-page__support {
-    max-width: 72rem;
+    max-width: none;
   }
 
   .faq-page__support-title {
@@ -796,11 +785,19 @@
   }
 
   @media screen and (min-width: 750px) {
+    .faq-page__wrap {
+      padding-inline: 2.4rem;
+    }
+
     .faq-page__title {
-      font-size: 5.2rem;
+      font-size: 4.8rem;
     }
 
     .faq-page__lead {
+      font-size: 3rem;
+    }
+
+    .faq-page__category {
       font-size: 3rem;
     }
 
@@ -817,11 +814,13 @@
     }
   }
 
-  @media (max-width: 860px) {
+  @media screen and (min-width: 990px) {
     .faq-page__wrap {
-      width: min(920px, calc(100% - 2rem));
+      padding-inline: 3.2rem;
     }
+  }
 
+  @media (max-width: 860px) {
     .faq-page__hero {
       padding: 4.5rem 0 3rem;
     }

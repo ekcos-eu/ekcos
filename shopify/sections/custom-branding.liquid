@@ -1209,7 +1209,6 @@
 <section class="cb" id="custom-branding" aria-labelledby="cb-hero-title">
   <div class="cb__hero">
     <div class="cb__wrap cb__hero-inner">
-      <p class="cb__eyebrow">{{ cb_eyebrow }}</p>
       <h1 class="cb__title" id="cb-hero-title">{{ cb_title }}</h1>
       <p class="cb__lead">{{ cb_lead }}</p>
       <p class="cb__intro">{{ cb_intro }}</p>
@@ -1485,8 +1484,9 @@
   }
 
   .cb__wrap {
-    width: min(1100px, calc(100% - 3rem));
+    width: min(115.2rem, 100%);
     margin-inline: auto;
+    padding-inline: 1.6rem;
   }
 
   .cb__hero {
@@ -1494,21 +1494,11 @@
       radial-gradient(120% 80% at 50% -20%, rgba(15, 104, 178, 0.14), transparent 55%),
       linear-gradient(180deg, #eef5fb 0%, #ffffff 78%);
     padding: 6rem 0 4.5rem;
-    text-align: center;
-  }
-
-  .cb__eyebrow {
-    margin: 0;
-    font-family: var(--font-heading-family, inherit);
-    font-size: 1.3rem;
-    font-weight: 700;
-    letter-spacing: 0.14em;
-    text-transform: uppercase;
-    color: var(--cb-blue);
+    text-align: left;
   }
 
   .cb__title {
-    margin: 1.2rem 0 0;
+    margin: 0;
     font-family: var(--font-heading-family, inherit);
     font-style: var(--font-heading-style, normal);
     font-weight: var(--font-heading-weight, 700);
@@ -1520,8 +1510,7 @@
   }
 
   .cb__lead {
-    margin: 1.6rem auto 0;
-    max-width: 56rem;
+    margin: 1.6rem 0 0;
     font-family: var(--font-heading-family, inherit);
     font-size: 2.4rem;
     font-weight: 700;
@@ -1531,18 +1520,17 @@
   }
 
   .cb__intro {
-    margin: 1.8rem auto 0;
-    max-width: 68rem;
+    margin: 1.8rem 0 0;
     font-size: 1.7rem;
     line-height: 1.7;
     color: var(--cb-body);
-    text-align: left;
+    text-align: justify;
   }
 
   .cb__hero-actions {
     margin-top: 2.8rem;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     gap: 1rem;
     flex-wrap: wrap;
   }
@@ -1560,7 +1548,7 @@
     font-family: var(--font-heading-family, inherit);
     font-style: var(--font-heading-style, normal);
     font-weight: var(--font-heading-weight, 700);
-    font-size: 2.6rem;
+    font-size: 2.4rem;
     line-height: 1.25;
     letter-spacing: -0.01em;
     color: var(--cb-ink);
@@ -1898,6 +1886,10 @@
   }
 
   @media screen and (min-width: 750px) {
+    .cb__wrap {
+      padding-inline: 2.4rem;
+    }
+
     .cb__title {
       font-size: 4.8rem;
     }
@@ -1907,7 +1899,7 @@
     }
 
     .cb__h2 {
-      font-size: 3.2rem;
+      font-size: 3rem;
     }
 
     .cb__h3 {
@@ -1924,11 +1916,13 @@
     }
   }
 
-  @media (max-width: 860px) {
+  @media screen and (min-width: 990px) {
     .cb__wrap {
-      width: min(1100px, calc(100% - 2rem));
+      padding-inline: 3.2rem;
     }
+  }
 
+  @media (max-width: 860px) {
     .cb__grid--2,
     .cb__grid--3,
     .cb__form-grid {

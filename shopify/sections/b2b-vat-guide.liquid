@@ -431,7 +431,6 @@
 <section class="vat-guide" aria-labelledby="vat-guide-title">
   <div class="vat-guide__hero">
     <div class="vat-guide__wrap">
-      <p class="vat-guide__eyebrow">{{ vat_eyebrow }}</p>
       <h1 class="vat-guide__title" id="vat-guide-title">{{ vat_title }}</h1>
       <p class="vat-guide__lead">{{ vat_lead }}</p>
       <p class="vat-guide__intro">{{ vat_intro }}</p>
@@ -548,8 +547,9 @@
   }
 
   .vat-guide__wrap {
-    width: min(1100px, calc(100% - 3rem));
+    width: min(115.2rem, 100%);
     margin-inline: auto;
+    padding-inline: 1.6rem;
   }
 
   .vat-guide__hero {
@@ -557,21 +557,11 @@
       radial-gradient(120% 80% at 50% -20%, rgba(15, 104, 178, 0.14), transparent 55%),
       linear-gradient(180deg, #eef5fb 0%, #ffffff 78%);
     padding: 6rem 0 4.5rem;
-    text-align: center;
-  }
-
-  .vat-guide__eyebrow {
-    margin: 0;
-    font-family: var(--font-heading-family, inherit);
-    font-size: 1.3rem;
-    font-weight: 700;
-    letter-spacing: 0.14em;
-    text-transform: uppercase;
-    color: var(--vat-blue);
+    text-align: left;
   }
 
   .vat-guide__title {
-    margin: 1.2rem 0 0;
+    margin: 0;
     font-family: var(--font-heading-family, inherit);
     font-style: var(--font-heading-style, normal);
     font-weight: var(--font-heading-weight, 700);
@@ -583,8 +573,7 @@
   }
 
   .vat-guide__lead {
-    margin: 1.6rem auto 0;
-    max-width: 72rem;
+    margin: 1.6rem 0 0;
     font-family: var(--font-heading-family, inherit);
     font-size: 2.4rem;
     font-weight: 700;
@@ -594,17 +583,15 @@
   }
 
   .vat-guide__intro {
-    margin: 1.8rem auto 0;
-    max-width: 76rem;
+    margin: 1.8rem 0 0;
     font-size: 1.7rem;
     line-height: 1.7;
     color: var(--vat-body);
-    text-align: left;
+    text-align: justify;
   }
 
   .vat-guide__eligibility {
-    margin: 2.4rem auto 0;
-    max-width: 76rem;
+    margin: 2.4rem 0 0;
     padding: 1.8rem 2rem;
     border-left: 0.4rem solid var(--vat-blue);
     background: rgba(15, 104, 178, 0.06);
@@ -757,7 +744,7 @@
   }
 
   .vat-guide__support {
-    max-width: 72rem;
+    max-width: none;
   }
 
   .vat-guide__support-title {
@@ -804,6 +791,10 @@
   }
 
   @media screen and (min-width: 750px) {
+    .vat-guide__wrap {
+      padding-inline: 2.4rem;
+    }
+
     .vat-guide__title {
       font-size: 4.8rem;
     }
@@ -819,11 +810,13 @@
     }
   }
 
-  @media (max-width: 860px) {
+  @media screen and (min-width: 990px) {
     .vat-guide__wrap {
-      width: min(1100px, calc(100% - 2rem));
+      padding-inline: 3.2rem;
     }
+  }
 
+  @media (max-width: 860px) {
     .vat-guide__hero {
       padding: 4.5rem 0 3rem;
     }
