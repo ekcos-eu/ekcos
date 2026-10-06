@@ -1,0 +1,330 @@
+{
+  "hero": {
+    "title": "FAQ",
+    "tagline": "Jūsų klausimai, mūsų faktai. Aiškūs atsakymai apie mūsų gaminius, medžiagas ir dokumentus.",
+    "intro": "Čia rasite aiškius atsakymus į klausimus, kuriuos mūsų partneriai ir jų klientai užduoda dažniausiai. Kiekvienas šio DUK teiginys yra konkretus ir pagrįstas įrodymais: nepriklausomu laboratorijos bandymu, patentais ir mūsų gamintojo dokumentais."
+  },
+  "metrics": [
+    {
+      "value": "93 %",
+      "label": "biologiškai suiro per 3,5 metų nepriklausomame laboratorijos bandyme, su priedu Eco-One™"
+    },
+    {
+      "value": "60+",
+      "label": "dienų kvapas (ëkcoscreen 60+, xcrën HD 60+), dvigubai ilgesnis nei standartinių 30 dienų tinklelių"
+    },
+    {
+      "value": "141 g",
+      "label": "kvapiosios medžiagos tinklelyje ëkcoscreen 60+, daugiau nei tris kartus daugiau nei įprastame"
+    },
+    {
+      "value": "95 %",
+      "label": "tinklelio ëkcoscreen 60+ paviršiaus padengta užpatentuotais šereliais nuo purslų"
+    }
+  ],
+  "categories": [
+    {
+      "id": "about",
+      "title": "Apie ëkcos",
+      "items": [
+        {
+          "id": "about-1",
+          "question": "Kas yra ëkcos?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Bendrovė ëkcos innovations kuria, gamina ir platina kvapnius pisuarų tinklelius, pakabinamus WC gaiviklius ir oro gaiviklius. Esame rinkos lyderiai Jungtinėse Amerikos Valstijose ir savo gaminius pristatėme daugiau nei 70 šalių. Mūsų gaminiai pagaminti Meksikoje. Mūsų centrinis sandėlis Čekijoje aprūpina klientus ir partnerius visoje Europoje, Azijoje ir Afrikoje. Keturiais dalykais:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Apsauga nuo purslų. Mūsų užpatentuoti šereliai nuo purslų (Sealed Bristles Technology™) dengia iki 95 % tinklelio.",
+                "Ilgai išliekantis kvapas. ëkcoscreen 60+ ir xcrën HD 60+ skleidžia kvapą 60+ dienų, dvigubai ilgiau nei standartiniai 30 dienų tinkleliai.",
+                "Patikrinami faktai apie medžiagą. Pagaminti naudojant perdirbtą EVA. Su priedu Eco-One™ biologiškai skaidūs sąvartyne, kaip rodo nepriklausomas laboratorijos bandymas.",
+                "Jūsų prekės ženklas ant gaminio. Jūsų logotipą galima išpjauti pačiame tinklelyje."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "about-2",
+          "question": "Kodėl verta rinktis 60+ dienų tinklelį?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcoscreen 60+ tarnauja dvigubai ilgiau nei standartinis 30 dienų tinklelis, o kaina per dieną panaši. Be to, jį reikia keisti dvigubai rečiau, todėl jūsų darbuotojai tam skiria mažiau laiko."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urinal-screens",
+      "title": "Pisuarų tinkleliai",
+      "items": [
+        {
+          "id": "urinal-screens-1",
+          "question": "Kaip veikia apsaugos nuo purslų sistema?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Mūsų tinkleliuose naudojama Sealed Bristles Technology™, mūsų pačių užpatentuota apsaugos nuo purslų sistema. Tankūs šereliai išskaido šlapimo srovę ir iki minimumo sumažina šlapimo purslus. Šereliai dengia 95 % tinklelio ëkcoscreen 60+ ir 92 % tinklelio xcrën HD 60+. Tinklelyje üro lite naudojama ta pati technologija su ilgais šereliais, kurie mažame tinklelyje užtikrina didelę apsaugą nuo purslų."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-2",
+          "question": "Ar yra įrodymų, kad šereliai veikia?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Nufilmavome tinklelį ëkcoscreen 60+ lyginamajame UV purslų bandyme vienodomis sąlygomis: tas pats pisuaro modelis, tas pats aukštis ir tas pats srautas. Naudojant tinklelį ëkcoscreen 60+, už tinklelio ribų nebuvo matomų purslų. Paprašykite mūsų vaizdo įrašo. Pati šerelių sistema yra užpatentuota."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-3",
+          "question": "Ar galiu naudoti tinklelius bevandeniuose pisuaruose?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Taip. ëkcoscreen 60+ ir xcrën HD 60+ idealiai tinka bevandeniams pisuarams, tinka ir powër screen, üro lite bei basic scrëen. Bevandenio pisuaro kanalizacijai žiūrėkite toliau aprašytą kasetę ëz trap."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-4",
+          "question": "Ar tinklelis tiks mano pisuarui?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "powër screen ir basic scrëen turi lanksčią formą, kuri tinka beveik visų tipų pisuarams, o üro lite skirtas mažesniems pisuarams. Kiekvieno tinklelio dydį rasite lentelėje aukščiau."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-5",
+          "question": "Kaip man įdėti arba pakeisti pisuaro tinklelį?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Mūvėkite pirštines. Išimkite panaudotą tinklelį ir išmeskite jį į mišrias komunalines atliekas. Išpakuokite naują tinklelį ir paguldykite jį plokščiai ant pisuaro dugno virš kanalizacijos angos, šereliais į viršų. Pakeiskite jį, kai kvapas susilpnėja, arba įprastu priežiūros intervalu."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-6",
+          "question": "Kaip man išmesti panaudotą tinklelį?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Išmeskite jį į mišrias komunalines atliekas. Pačią EVA medžiagą galima perdirbti, tačiau panaudoto pisuaro tinklelio perdirbti negalima, nes jis biologiškai užterštas. Jis patenka į sąvartyną arba yra deginamas. Todėl dedame priedą Eco-One™, dėl kurio mūsų medžiaga tampa biologiškai skaidi sąvartyne."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-7",
+          "question": "Kas yra xcrën puck?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "xcrën puck yra X formos pisuaro tinklelis su dezodoruojančia tablete. X forma neleidžia kietosioms dalelėms ir šiukšlėms užkimšti kanalizacijos, o tabletė po kiekvieno naudojimo iki 30 dienų skleidžia gaivų kvapą. Tabletė daugiausia pagaminta iš vaško ir glicerino ir naudojant ištirpsta. Jos negalima pakeisti, todėl keičiamas visas tinklelis xcrën puck. Tai reiškia, kad tinklelio xcrën puck tabletėje nėra paradichlorbenzeno (PARA), kurį PSO klasifikuoja kaip galimai kancerogeninį. Bendrovė ëkcos niekada nenaudojo PARA. NON-PARA nereiškia, kad gaminyje nėra parabenų."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-8",
+          "question": "Kas yra ëz trap ir kokiems pisuarams jis tinka?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëz trap yra kasetė bevandeniams pisuarams. Šlapimas teka per sifoną, o uždaromasis dangtelis po kiekvieno naudojimo užsisandarina ir taip padeda neleisti kanalizacijos kvapams išsiveržti. Kasetė tinka Sloan, Falcon, Vitra, Bobrick ir kitų gamintojų pisuarams su Falcon Velocity sistema (skersmuo 11,8 cm, aukštis 11,5 cm). Kasetė tarnauja nuo 4 iki 6+ mėnesių, jai nereikia brangių gelių ar specialių valiklių. Kasdien įpilkite į pisuarą stiklinę vandens, kad nesikauptų kalkių nuosėdos. Reguliarus valymas priemone nuo kalkių, pavyzdžiui, kokybišku tualeto geliu, pailgina jos tarnavimo laiką. ëz trap tiekiamas su išėmimo įrankiu arba be jo. Įrankis yra daugkartinio naudojimo, todėl jo jums reikia tik su pirmuoju užsakymu."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-9",
+          "question": "Kas yra ëkco mat?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkco mat yra sugeriantis vienkartinis grindų kilimėlis, skirtas plotui po pisuaru. Jo matmenys 54 x 51 cm, todėl jis uždengia plotą aplink daugumą standartinių pisuarų. Jis apsaugo grindis nuo šlapimo ir sumažina šlapimo pernešimą ant batų padų."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-10",
+          "question": "Kaip man sumontuoti gaiviklius frësh drop ir ëkco loop?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Abu gaivikliai yra sistemos, sudarytos iš pagrindo ir kvapų įdėklo. Pritvirtinkite pagrindą prie švaraus, sauso paviršiaus: gaiviklio frësh drop atveju pridedama lipnia juosta, gaiviklio ëkco loop atveju jo lipniu tvirtinimo pagrindu. Tada uždėkite įdėklą. Gaiviklyje frësh drop įdėklą ant pagrindo laiko mažas pasukamas fiksatorius, o jį pametus galima įsigyti atsarginių fiksatorių. Gaiviklį ëkco loop įrenkite arti tos vietos, kur norite kvapo."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-11",
+          "question": "Kaip sklinda kvapas?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Pasyviai. Medžiaga yra prisotinta kvapu, kuris laikui bėgant sklinda palaipsniui. Nereikia purškiklių, baterijų ar elektros. Pagrindinės mūsų linijos turi tas pačias vienuolika spalvų ir kvapų: violetinis / miško uogos, žalias / obuolys, mėlynas / fresh, oranžinis / tropiniai vaisiai, skaidrus / tropiniai vaisiai, juodas / mėta, ugninis / mangas, žalias / pušis, raudonas / melionas, violetinis / levanda ir geltonas / citrusai. Todėl visame pastate galima išlaikyti vieną kvapą nuo pisuaro iki tualeto kabinos. Mūsų kvapus lengva atpažinti: obuolys kvepia obuoliu, melionas melionu. Kai kurie mūsų kvapnūs gaminiai gali sukelti alerginę odos reakciją. Prašome laikytis etiketėje ir saugos duomenų lape pateiktų nurodymų, dirbant su gaminiais mūvėti pirštines ir laikyti juos vaikams neprieinamoje vietoje."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ez-trap-ekco-mat",
+      "title": "ëz trap ir ëkco mat",
+      "items": [
+        {
+          "id": "ez-trap-ekco-mat-1",
+          "question": "Kas yra Eco-One™?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Eco-One™ yra organinis priedas, kurį gamina bendrovė EcoLogic, LLC. Gamybos metu į savo medžiagą dedame apie 1 % šio priedo. Jis nekeičia gaminio tvirtumo, išvaizdos ar veikimo. Kai gaminys patenka į biologiškai aktyvų sąvartyną, medžiaga suyra ir susidaro biodujos, CO₂ ir humusas. Šiuolaikiniuose sąvartynuose biodujos naudojamos energijai gaminti. Tai reiškia, kad mūsų medžiaga suyra biologiškai aktyviame sąvartyne, į kurį patenka panaudoti tinkleliai. ëkcos EVA su Eco-One™ buvo išbandytas Instituto Politécnico Nacional Meksiko mieste pagal standartus ASTM D5511 ir ISO 15985. Per 3,5 metų jis biologiškai suiro 93 %, o ta pati medžiaga be priedo suiro 0 %. Prognozuojama, kad per 5 metus biologiškai suirs iki 99 %. Tai prognozė pagal išmatuotą tendenciją, o ne išmatuotas rezultatas. Tai, kaip medžiaga biologiškai suyra, priklauso nuo sąvartyno sąlygų."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-2",
+          "question": "Kodėl nesakote, kad jūsų gaminiai „draugiški aplinkai“?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Nuo 2026 m. rugsėjo 27 d. ES taisyklės (Direktyva (ES) 2024/825) nebeleidžia naudoti bendrųjų teiginių, tokių kaip „draugiškas aplinkai“, „žalias“ ar „tvarus“, be pripažinto puikaus aplinkosauginio veiksmingumo įrodymų. Todėl sakome tiksliai tai, ką galime įrodyti: pagaminti naudojant perdirbtą EVA, su Eco-One™ biologiškai skaidūs sąvartyne, kaip parodė nepriklausomas laboratorijos bandymas, o dėžės pagamintos iš 100 % perdirbto kartono."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-3",
+          "question": "Ar ëkcos gaminius galima perdirbti?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Pačią EVA medžiagą galima perdirbti. Panaudoto pisuaro tinklelio ar pakabinamo WC gaiviklio perdirbti negalima, nes jis biologiškai užterštas, todėl jį reikia išmesti į mišrias komunalines atliekas. Gaiviklių frësh drop ir ëkco loop įdėklai pagaminti naudojant perdirbtą EVA ir nėra užteršti, todėl jų medžiagą galima perdirbti. Laikykitės vietinių atliekų tvarkymo taisyklių. Nesakome, kad mūsų gaminiai „100 % perdirbami“, nes panaudotam tinkleliui tai nebūtų tiesa. Mūsų gaminių dėžės ir transportavimo dėžės pagamintos iš 100 % perdirbto gofruoto kartono. Gaminių maišeliai pagaminti iš polipropileno plėvelės BOPP. Dėl maišelių jokių aplinkosauginių teiginių neteikiame. Jūsų atitikties dokumentams galime pateikti pakuočių dokumentaciją pagal ES pakuočių ir pakuočių atliekų reglamentą (PPWR)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "air-fresheners",
+      "title": "Oro gaivikliai ir pakabinami WC gaivikliai",
+      "items": [
+        {
+          "id": "air-fresheners-1",
+          "question": "Ar galiu gauti gaminių su savo logotipu?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Taip. Jūsų logotipą galime išpjauti pačiame tinklelyje, o ne tik atspausdinti ant pakuotės, todėl jis išlieka visą gaminio naudojimo laiką. Jūsų logotipą taip pat galima atspausdinti ant gaminio. Ant pakuotės gali būti jūsų etiketės su jūsų logotipu ir EAN kodais, o spalvas ir kvapus pasirenkate jūs. Ant daugumos mūsų gaminių. Ant pisuarų tinklelių ir gaiviklio ëkco clip jūsų logotipas gali būti išpjautas medžiagoje arba atspausdintas. Gaiviklis frësh drop ženklinamas spaudos būdu. Ant gaiviklio ëkco loop nėra vietos logotipui. Minimalūs kiekiai priklauso nuo gaminio, o kiekvienam ženklinamam gaminiui taikomas vienkartinis paruošimo mokestis. Gaminiai su jūsų prekės ženklu gaminami pagal užsakymą, įprastas gamybos ir pristatymo laikas yra nuo 6 iki 10 savaičių. Individualūs užsakymai apmokami 100 % iš anksto. Paprašykite mūsų pasiūlymo."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-2",
+          "question": "Kaip greitai išsiunčiate partnerių užsakymus?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Partnerių užsakymų išsiuntimas trunka nuo 3 iki 5 darbo dienų. Jei gaminio laikinai nėra sandėlyje, paprastai jį išsiunčiame per mėnesį, nes naujos prekės iš Meksikos į mūsų sandėlį atkeliauja reguliariai."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-3",
+          "question": "Kaip siunčiate prekes ir kiek laiko trunka pristatymas?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Čekijoje siuntinius ir padėklus pristato FOFR. Į kitas ES šalis siuntinius pristato FedEx, o padėklus DSV. Pristatymas ES viduje paprastai trunka apie 5 dienas nuo išsiuntimo, į Čekijai artimas šalis trumpiau: pavyzdžiui, į Austriją ir Vokietiją nuo 1 iki 2 dienų, į Italiją, Nyderlandus ir Prancūziją nuo 3 iki 4 dienų. Už ES ribų transporto kainą pasiūlome kiekvienam užsakymui atskirai, o daugelis partnerių transportą organizuoja patys. Transporto išlaidas apskaičiuojame kiekvienam užsakymui."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-4",
+          "question": "Ar galiu gauti pavyzdžių?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Taip. Paprašykite mūsų pavyzdžių, kad jūs ir jūsų klientai galėtumėte palyginti mūsų gaminius ir kvapus su bet kurio kito tiekėjo gaminiais ir kvapais."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Biologinio skaidumo bandymo sertifikatas, kurį išdavė Instituto Politécnico Nacional, Meksiko miestas (ASTM D5511 ir ISO 15985).",
+                "Eco-One™ lankstinukas, kuriame paaiškinamas priedas ir bandymas.",
+                "PPWR pakuočių dokumentacija iš mūsų gamintojo, skirta tik jūsų atitikties dokumentams. Prašome tiekėjų deklaracijų neperduoti niekam, išskyrus valdžios institucijas.",
+                "Patentai technologijai Sealed Bristles Technology™ ir mūsų tinklelių formoms.",
+                "Saugos duomenų lapai mūsų kvapniems gaminiams.",
+                "UV purslų bandymo vaizdo įrašas su tinkleliu ëkcoscreen 60+.",
+                "Profesionalios gaminių nuotraukos ir vaizdo įrašai, įskaitant UV purslų bandymą.",
+                "Paruošti naudoti gaminių aprašymai 22 kalbomis.",
+                "Logotipai ir prekės ženklo vaizdinė medžiaga.",
+                "Palyginimo gidas, Eco-One™ lankstinukas, bandymo sertifikatas, PPWR dokumentacija ir saugos duomenų lapai."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-5",
+          "question": "Kodėl pasikeitė jūsų gaminių aprašymai?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Gaminių informacijai ir pakuotėms dabar taikomos dvi naujos ES taisyklės: nuo 2026 m. rugsėjo 27 d. Direktyva (ES) 2024/825 (naujos aplinkosauginių teiginių taisyklės) ir nuo 2026 m. rugpjūčio 12 d. Pakuočių ir pakuočių atliekų reglamentas (ES) 2025/40 (PPWR). Kiekvieną teiginį patikrinome pagal šias taisykles. Mūsų naujuose aprašymuose yra tik konkretūs, įrodymais pagrįsti aplinkosauginiai teiginiai. Prašome juos naudoti savo elektroninėje parduotuvėje, kataloguose ir pasiūlymuose."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Bendrieji terminai, tokie kaip „draugiškas aplinkai“, „žalias“, „ekologiškas“ ar „tvarus“, taip pat ir pakuotėms.",
+                "„Celofano maišelis“ arba „celofano pakuotė“. Mūsų maišeliai pagaminti iš BOPP plėvelės.",
+                "„100 % perdirbamas“. Mūsų naujuose aprašymuose tiksliai nurodyta, ką galima perdirbti.",
+                "„99 % biologiškai skaidus per 5 metus“ kaip bandymo rezultatas. Bandymu išmatuota, kad per 3,5 metų biologiškai suiro 93 %. Iki 99 % per 5 metus yra prognozė.",
+                "Vien žodžiai „biologiškai skaidus“ gaminių pavadinimuose ar antraštėse. Prašome rašyti „biologiškai skaidus sąvartyne“.",
+                "Bet kokie teiginiai apie bakterijas, virusus, mikrobus ar sveikatos apsaugą.",
+                "Teiginiai apie LOJ (VOC) ir toksiškumą, pavyzdžiui, „atitinka Europos LOJ standartus“, „Be LOJ“ ar „netoksiškas aplinkai“.",
+                "Absoliutūs pažadai, pavyzdžiui, „pašalina purslus“ ar „bekvapis“.",
+                "„Be parabenų“ kaip NON-PARA reikšmė. NON-PARA reiškia, kad tabletėje nėra paradichlorbenzeno.",
+                "Vien „60+ dienų“ gaivikliui frësh drop. Prašome rašyti „30+ dienų silpnai vėdinamose kabinose ir 60+ dienų mažai lankomose“."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-6",
+          "question": "Ar galiu redaguoti ar versti gaminių aprašymus?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Prašome naudoti mūsų patvirtintus aprašymus, kurie paruošti 22 kalbomis. Jei juos trumpinate ar pritaikote, išlaikykite kiekvieną su teiginiu susijusią sąlygą, pavyzdžiui, „sąvartyne“, „pagamintas naudojant perdirbtą EVA“ ir skirtumą tarp išmatuotų 93 % ir prognozuojamų 99 %."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "title": "Medžiagos, Eco-One™ ir pakuotė",
+      "items": []
+    },
+    {
+      "id": "private-label",
+      "title": "Privatus prekės ženklas",
+      "items": []
+    },
+    {
+      "id": "working-with",
+      "title": "Bendradarbiavimas su bendrove ëkcos",
+      "items": []
+    }
+  ],
+  "contact": {
+    "title": "Vis dar turite klausimų?",
+    "body": "Susisiekite su savo ëkcos pardavimų atstovu arba rašykite adresu"
+  },
+  "footnote": "Duomenų šaltinis: nepriklausomas biologinio skaidumo bandymas pagal ASTM D5511-02 ir ISO 15985:2014 (Instituto Politécnico Nacional, Meksiko miestas). ëkcos gaminys su 1 % priedo Eco-One™: per 1288 dienas (apie 3,5 metų) biologiškai suiro 93,31 %. Tas pats gaminys be priedo: 0 %. Remiantis išmatuota tendencija, prognozuojama, kad per 5 metus biologiškai suirs iki 99 %. Tai, kaip medžiaga biologiškai suyra, priklauso nuo sąvartyno sąlygų. Eco-One™ yra bendrovės EcoLogic, LLC prekės ženklas."
+}

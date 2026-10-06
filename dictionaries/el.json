@@ -13,7 +13,13 @@
     "contactTitle": "Επαφή",
     "contactDescription": "Επικοινωνήστε με την ομάδα ëkcos για προδιαγραφές, προγράμματα και συνεργασίες.",
     "privateLabelTitle": "Ιδιωτική μάρκα",
-    "privateLabelDescription": "Πουλήστε προϊόντα μπάνιου ëkcos με τη δική σας επωνυμία — ιδιωτική ετικέτα για διανομείς."
+    "privateLabelDescription": "Πουλήστε προϊόντα μπάνιου ëkcos με τη δική σας επωνυμία — ιδιωτική ετικέτα για διανομείς.",
+    "faqTitle": "FAQ",
+    "faqDescription": "Clear answers about ëkcos products, materials, Eco-One™, private label, and ordering.",
+    "faqDistributorsTitle": "FAQ for distributors",
+    "faqDistributorsDescription": "Answers for partners about products, materials, documents, and working with ëkcos.",
+    "faqEshopTitle": "FAQ for the e-shop",
+    "faqEshopDescription": "Answers about products, delivery, payment, returns, and ordering on eshop.ekcos.eu."
   },
   "LocaleSwitcher": {
     "label": "Γλώσσα",
@@ -51,7 +57,9 @@
       "label": "Ιδιωτική μάρκα"
     },
     "faq": {
-      "label": "FAQ"
+      "label": "FAQ",
+      "distributors": "Διανομείς",
+      "eshop": "E-shop"
     }
   },
   "footer": {
@@ -747,6 +755,30 @@
       "error": "Κάτι πήγε στραβά. Δοκιμάστε ξανά σε λίγο.",
       "alertSelect": "Εισαγάγετε μια ποσότητα για τουλάχιστον ένα προϊόν. Δεν χρειάζεται να παραγγείλετε κάθε προϊόν.",
       "boundaryError": "Δεν ήταν δυνατή η φόρτωση της φόρμας ερωτήματος. Ανανεώστε τη σελίδα ή στείλτε email στο support@ekcos.eu."
+    }
+  },
+  "faq": {
+    "error": "This FAQ section could not be loaded. Please refresh the page.",
+    "tocLabel": "In this FAQ",
+    "switchLabel": "Looking for a different FAQ?",
+    "nav": {
+      "distributors": "Διανομείς",
+      "eshop": "E-shop"
+    },
+    "audiences": {
+      "distributors": {
+        "eyebrow": "For partners"
+      },
+      "eshop": {
+        "eyebrow": "For e-shop customers"
+      }
+    },
+    "hub": {
+      "title": "FAQ",
+      "tagline": "Your questions, our facts",
+      "intro": "Choose the FAQ that matches how you buy from ëkcos — as a distributor partner, or as an e-shop customer.",
+      "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
+      "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
     }
   }
 }

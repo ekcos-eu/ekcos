@@ -13,7 +13,13 @@
     "contactTitle": "Contacto",
     "contactDescription": "Contacta al equipo ëkcos para especificaciones, programas y alianzas.",
     "privateLabelTitle": "Private Label",
-    "privateLabelDescription": "Venda productos washroom ëkcos bajo su propia marca — private label para distribuidores."
+    "privateLabelDescription": "Venda productos washroom ëkcos bajo su propia marca — private label para distribuidores.",
+    "faqTitle": "FAQ",
+    "faqDescription": "Respuestas claras sobre productos ëkcos, materiales, Eco-One™, marca privada y pedidos.",
+    "faqDistributorsTitle": "FAQ para distribuidores",
+    "faqDistributorsDescription": "Respuestas para partners sobre productos, materiales, documentos y colaboración con ëkcos.",
+    "faqEshopTitle": "FAQ de la tienda online",
+    "faqEshopDescription": "Respuestas sobre productos, entrega, pago, devoluciones y pedidos en eshop.ekcos.eu."
   },
   "LocaleSwitcher": {
     "label": "Idioma",
@@ -51,7 +57,9 @@
       "label": "Private Label"
     },
     "faq": {
-      "label": "FAQ"
+      "label": "FAQ",
+      "distributors": "Distribuidores",
+      "eshop": "E-shop"
     }
   },
   "footer": {
@@ -747,6 +755,30 @@
       "error": "Algo salió mal. Inténtelo de nuevo en un momento.",
       "alertSelect": "Introduzca una cantidad en al menos un producto. No necesita pedir todos los productos.",
       "boundaryError": "No se pudo cargar el formulario. Actualice la página o escriba a support@ekcos.eu."
+    }
+  },
+  "faq": {
+    "error": "No se pudo cargar esta sección FAQ. Actualice la página.",
+    "tocLabel": "En este FAQ",
+    "switchLabel": "¿Busca otro FAQ?",
+    "nav": {
+      "distributors": "Distribuidores",
+      "eshop": "E-shop"
+    },
+    "audiences": {
+      "distributors": {
+        "eyebrow": "Para partners"
+      },
+      "eshop": {
+        "eyebrow": "Para clientes de la tienda"
+      }
+    },
+    "hub": {
+      "title": "FAQ",
+      "tagline": "Sus preguntas, nuestros hechos",
+      "intro": "Elija el FAQ según cómo compra en ëkcos: como distribuidor partner o como cliente de la tienda online.",
+      "distributorsDescription": "Productos, materiales, Eco-One™, marca privada, documentos y colaboración con ëkcos.",
+      "eshopDescription": "Productos, pedidos, pago, entrega, devoluciones y compras en eshop.ekcos.eu."
     }
   }
 }

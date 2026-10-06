@@ -1,0 +1,402 @@
+{
+  "hero": {
+    "title": "FAQ",
+    "tagline": "Le vostre domande, i. nostri dati di fatto",
+    "intro": "Qui trovate risposte chiare alle domande che i nostri partner e i loro clienti ci fanno più spesso. Ogni dichiarazione di queste FAQ è specifica e supportata da prove: un test di laboratorio indipendente, brevetti e documenti del nostro produttore."
+  },
+  "metrics": [],
+  "categories": [
+    {
+      "id": "about",
+      "title": "Informazioni su ëkcos",
+      "items": [
+        {
+          "id": "about-1",
+          "question": "Chi è ëkcos?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcos innovations sviluppa, produce e distribuisce griglie profumate per orinatoi, clip deodoranti per WC e deodoranti per ambienti. Siamo leader di mercato negli Stati Uniti e abbiamo introdotto i nostri prodotti in oltre 70 paesi. I nostri prodotti sono fabbricati in Messico. Il nostro magazzino centrale in Repubblica Ceca rifornisce clienti e partner in Europa, Asia e Africa."
+            }
+          ]
+        },
+        {
+          "id": "about-2",
+          "question": "Che cosa distingue i prodotti ëkcos?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Quattro aspetti:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Protezione antischizzi. Le nostre setole antischizzi brevettate (Sealed Bristles Technology™) coprono fino al 95% della griglia.",
+                "Lunga durata del profumo. ëkcoscreen 60+ e xcrën HD 60+ offrono 60+ giorni di profumo, il doppio rispetto alle griglie standard da 30 giorni.",
+                "Dati sul materiale che potete verificare. Realizzato con EVA riciclato. Biodegradabile in discarica con l’additivo Eco-One™, come dimostra un test di laboratorio indipendente.",
+                "Il vostro marchio sul prodotto. Il vostro logo può essere ritagliato nella griglia stessa."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urinal-screens",
+      "title": "Griglie per orinatoi",
+      "items": [
+        {
+          "id": "urinal-screens-1",
+          "question": "Quale griglia per orinatoio devo scegliere?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Scegliete in base a quanto è frequentato il bagno e a quanto spesso se ne fa la manutenzione. Griglia Profumo Dimensioni Ideale per ëkcoscreen 60+ 60+ giorni 20 x 21 cm Bagni molto frequentati. 141 g di materiale profumato. Le setole coprono il 95% della griglia. xcrën HD 60+ 60+ giorni 17 x 18 cm Bagni molto frequentati in cui conta l’estetica. Forma di design brevettata. powër screen fino a 30 giorni 18 x 20 cm Cambio mensile. Forma flessibile che si adatta a quasi tutti gli orinatoi. üro lite fino a 30 giorni 13 x 13 cm Orinatoi più piccoli. Setole lunghe brevettate. basic scrëen fino a 30 giorni 20 x 19 cm Cambio mensile a prezzo contenuto. Forma flessibile. xcrën puck fino a 30 giorni 17 x 17 cm Tenere solidi e detriti fuori dallo scarico. Pastiglia deodorante. ëkcoscreen 60+ e xcrën HD 60+ offrono 60+ giorni di profumo, il doppio rispetto alle griglie standard da 30 giorni. Nei bagni poco frequentati durano ancora di più. powër screen, üro lite, basic scrëen e xcrën puck offrono fino a 30 giorni, il che le rende ideali per la manutenzione mensile."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-2",
+          "question": "Perché scegliere una griglia da 60+ giorni?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcoscreen 60+ dura il doppio rispetto a una griglia standard da 30 giorni, con un costo giornaliero simile. Inoltre la sostituite la metà delle volte, quindi il vostro personale ci dedica meno tempo."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-3",
+          "question": "Come funziona il sistema antischizzi?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Le nostre griglie utilizzano Sealed Bristles Technology™, il nostro sistema antischizzi brevettato. Setole fitte spezzano il getto di urina e riducono al minimo gli schizzi. Le setole coprono il 95% di ëkcoscreen 60+ e il 92% di xcrën HD 60+. üro lite utilizza la stessa tecnologia con setole lunghe, che offrono una grande protezione antischizzi in una griglia piccola. Abbiamo filmato ëkcoscreen 60+ in un test comparativo degli schizzi con luce UV, a parità di condizioni: stesso modello di orinatoio, stessa altezza e stesso flusso. ëkcoscreen 60+ non ha mostrato nessuno schizzo visibile fuori dalla griglia. Chiedeteci il video. Il sistema di setole, inoltre, è brevettato."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-4",
+          "question": "Posso usare le griglie negli orinatoi senza acqua?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Sì. ëkcoscreen 60+ e xcrën HD 60+ sono ideali per gli orinatoi senza acqua, e anche powër screen, üro lite e basic scrëen sono adatte. Per lo scarico di un orinatoio senza acqua, vedere ëz trap qui sotto. powër screen e basic scrëen hanno una forma flessibile che si adatta a quasi tutti i tipi di orinatoio, e üro lite è pensata per orinatoi più piccoli. Trovate le dimensioni di ogni griglia nella tabella qui sopra."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-5",
+          "question": "Come posiziono o sostituisco una griglia per orinatoio?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Indossate i guanti. Rimuovete la griglia usata e gettatela nei rifiuti indifferenziati. Scartate la nuova griglia e appoggiatela piatta sul fondo dell’orinatoio, sopra lo scarico, con le setole rivolte verso l’alto. Sostituitela quando il profumo svanisce o secondo il vostro abituale intervallo di manutenzione."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-6",
+          "question": "Come smaltisco una griglia usata?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Gettatela nei rifiuti indifferenziati. Il materiale EVA in sé può essere riciclato, ma una griglia per orinatoio usata no, perché è contaminata biologicamente. Finisce in discarica o nell’inceneritore. Per questo aggiungiamo l’additivo Eco-One™, che rende il nostro materiale biodegradabile in discarica."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-7",
+          "question": "Che cos’è xcrën puck?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "xcrën puck è una griglia per orinatoio a forma di X con pastiglia deodorante. La forma a X impedisce a solidi e detriti di ostruire lo scarico, e la pastiglia rilascia un profumo fresco a ogni utilizzo, fino a 30 giorni. La pastiglia è composta principalmente da cera e glicerina e si scioglie con l’uso. Non può essere sostituita, quindi cambiate l’intera griglia xcrën puck."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-8",
+          "question": "Che cosa significa NON-PARA?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Significa che la pastiglia di xcrën puck non contiene paradiclorobenzene (PARA), che l’OMS classifica come possibile cancerogeno. ëkcos non ha mai usato il PARA. NON-PARA non significa senza parabeni."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-9",
+          "question": "Che cos’è ëz trap e a quali orinatoi si adatta?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëz trap è una cartuccia per orinatoi senza acqua. L’urina scorre attraverso il sifone e un tappo di chiusura sigilla dopo ogni utilizzo, il che aiuta a impedire la fuoriuscita degli odori di scarico. È adatta a Sloan, Falcon, Vitra, Bobrick e altre marche che utilizzano il sistema Falcon Velocity (diametro 11,8 cm, altezza 11,5 cm). La cartuccia dura da 4 a 6+ mesi e non richiede gel costosi né detergenti speciali. Versate ogni giorno un bicchiere d’acqua nell’orinatoio per prevenire i depositi di calcare. Una pulizia regolare con un anticalcare, come un buon gel per WC, ne prolunga la vita. ëz trap è disponibile con o senza strumento di rimozione. Lo strumento è riutilizzabile, quindi vi serve solo con il primo ordine."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-10",
+          "question": "Che cos’è ëkco mat?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkco mat è un tappeto da pavimento assorbente e usa e getta per l’area sotto l’orinatoio. Con le sue dimensioni di 54 x 51 cm copre l’area intorno alla maggior parte degli orinatoi standard. Protegge il pavimento dall’urina e riduce il trasferimento di urina sulle suole delle scarpe."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-11",
+          "question": "Quale deodorante per ambienti devo scegliere?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "frësh drop: per cabine WC e bagni. 30+ giorni di profumo nelle cabine poco ventilate e 60+ giorni se poco frequentate, senza pile né elettricità.",
+                "ëkco clip: si aggancia al vaso WC e offre fino a 30 giorni di profumo. La sua forma flessibile si adatta a quasi tutti i tipi di vaso.",
+                "ëkco loop: deodorante compatto per piccoli spazi con poco ricambio d’aria, come sotto le scrivanie, nei coperchi dei cestini, negli armadi e nelle scarpiere. Fino a 30 giorni. Per le cabine WC, scegliete frësh drop. Nelle cabine con poca o nessuna ventilazione dura 30+ giorni, e 60+ giorni se poco frequentate. Quando il profumo svanisce, sostituite solo la ricarica. La base resta sulla parete."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ez-trap-ekco-mat",
+      "title": "ëz trap ed ëkco mat",
+      "items": [
+        {
+          "id": "ez-trap-ekco-mat-1",
+          "question": "Come installo frësh drop ed ëkco loop?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Entrambi sono sistemi composti da una base e una ricarica profumata. Fissate la base su una superficie pulita e asciutta: frësh drop con il nastro adesivo incluso, ëkco loop con la sua base adesiva. Poi applicate la ricarica. Su frësh drop una piccola chiusura a rotazione tiene ferma la ricarica sulla base, e sono disponibili chiusure di ricambio se una va persa. Posizionate ëkco loop vicino al punto in cui volete il profumo."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-2",
+          "question": "Come viene rilasciato il profumo?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "In modo passivo. Il materiale è impregnato di profumo, che viene rilasciato gradualmente nel tempo. Non servono spray, pile né elettricità."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-3",
+          "question": "Quali colori e fragranze sono disponibili?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Le nostre linee principali condividono gli stessi undici colori e fragranze: viola / frutti di bosco, verde / mela, blu / fresh, arancione / frutta tropicale, trasparente / frutta tropicale, nero / menta, fiamma / mango, verde / pino, rosso / melone, viola / lavanda e giallo / agrumi. Così un edificio può mantenere un’unica profumazione dall’orinatoio alla cabina. Le nostre fragranze sono facili da riconoscere: la mela profuma di mela, il melone di melone."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "air-fresheners",
+      "title": "Deodoranti per ambienti e clip per WC",
+      "items": [
+        {
+          "id": "air-fresheners-1",
+          "question": "Che cosa devo sapere per maneggiare i prodotti in sicurezza?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Alcuni dei nostri prodotti profumati possono provocare una reazione allergica cutanea. Seguite l’etichetta e la scheda di sicurezza, indossate i guanti quando maneggiate i prodotti e teneteli fuori dalla portata dei bambini."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-2",
+          "question": "Che cos’è Eco-One™?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Eco-One™ è un additivo organico prodotto da EcoLogic, LLC. Ne aggiungiamo circa l’1% al nostro materiale durante la produzione. Non modifica la resistenza, l’aspetto o le prestazioni del prodotto. Quando il prodotto finisce in una discarica biologicamente attiva, il materiale si decompone in biogas, CO₂ e humus. Le discariche moderne usano il biogas per produrre energia."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-3",
+          "question": "Che cosa significa «biodegradabile in discarica» e come è stato testato?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Significa che il nostro materiale si decompone in una discarica biologicamente attiva, dove finiscono le griglie usate. L’Instituto Politécnico Nacional di Città del Messico ha testato l’EVA ëkcos con Eco-One™ secondo le norme ASTM D5511 e ISO 15985. Il materiale ha raggiunto il 93% di biodegradazione in 3,5 anni, mentre lo stesso materiale senza additivo ha registrato lo 0%. Si prevede una biodegradazione fino al 99% entro 5 anni. Si tratta di una proiezione basata sull’andamento misurato, non di un risultato misurato. La biodegradazione dipende dalle condizioni della discarica."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-4",
+          "question": "Perché non definite i vostri prodotti «ecologici»?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Dal 27 settembre 2026 le norme UE (direttiva (UE) 2024/825) non consentono più dichiarazioni generiche come «ecologico», «green» o «sostenibile» senza una prova riconosciuta di prestazioni ambientali eccellenti. Per questo vi diciamo esattamente ciò che possiamo dimostrare: realizzato con EVA riciclato, biodegradabile in discarica con Eco-One™ in un test di laboratorio indipendente, e scatole in cartone riciclato al 100%. Il materiale EVA in sé può essere riciclato. Una griglia per orinatoio o una clip per WC usate invece no, perché sono contaminate biologicamente, quindi vanno nei rifiuti indifferenziati. Le ricariche di frësh drop ed ëkco loop sono realizzate con EVA riciclato e non sono contaminate, quindi il loro materiale può essere riciclato. Seguite le norme locali sui rifiuti. Non definiamo i nostri prodotti «100% riciclabili», perché non sarebbe vero per una griglia usata."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-5",
+          "question": "Quali imballaggi utilizzate?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Le scatole dei nostri prodotti e i nostri scatoloni di spedizione sono in cartone ondulato riciclato al 100%. I sacchetti dei prodotti sono in BOPP, un film di polipropilene. Non facciamo alcuna dichiarazione ambientale sui sacchetti. La documentazione sugli imballaggi ai sensi del regolamento UE sugli imballaggi e i rifiuti di imballaggio (PPWR) è disponibile per i vostri fascicoli di conformità."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-6",
+          "question": "Posso avere prodotti con il mio logo?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Sì. Possiamo ritagliare il vostro logo nella griglia stessa, e non solo stamparlo sulla confezione, così rimane per tutta la vita del prodotto. Il vostro logo può anche essere stampato sul prodotto. La confezione può riportare le vostre etichette con il vostro logo e i codici EAN, e scegliete voi colori e fragranze."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "title": "Materiali, Eco-One™ e imballaggi",
+      "items": [
+        {
+          "id": "materials-1",
+          "question": "Quali prodotti possono riportare il mio logo?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "La maggior parte dei nostri prodotti. Le griglie per orinatoi ed ëkco clip possono riportare il vostro logo ritagliato nel materiale o stampato. frësh drop si personalizza con la stampa. ëkco loop non ha spazio per un logo."
+            }
+          ]
+        },
+        {
+          "id": "materials-2",
+          "question": "Quali sono le condizioni per la produzione in private label?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Le quantità minime dipendono dal prodotto, ed è previsto un costo di impianto una tantum per ogni prodotto personalizzato. I prodotti personalizzati sono realizzati su ordinazione, con tempi tipici di produzione e consegna da 6 a 10 settimane. Gli ordini personalizzati si pagano al 100% in anticipo. Chiedeteci un’offerta."
+            }
+          ]
+        },
+        {
+          "id": "materials-3",
+          "question": "Come spedite e quanto tempo richiede la consegna?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "In Repubblica Ceca spediamo pacchi e pallet con FOFR. Negli altri paesi dell’UE spediamo i pacchi con FedEx e i pallet con DSV. La consegna nell’UE richiede di solito circa 5 giorni dalla spedizione, e meno per i paesi vicini alla Repubblica Ceca, ad esempio da 1 a 2 giorni per la Germania e l’Austria e da 3 a 4 giorni per l’Italia, la Francia e i Paesi Bassi. Fuori dall’UE prepariamo un preventivo di trasporto per ogni ordine, e molti partner organizzano il trasporto in proprio. Calcoliamo i costi di trasporto per ogni ordine."
+            }
+          ]
+        },
+        {
+          "id": "materials-4",
+          "question": "Posso ricevere campioni?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Sì. Chiedeteci dei campioni, così voi e i vostri clienti potete confrontare i nostri prodotti e le nostre fragranze con quelli di qualsiasi altro fornitore."
+            }
+          ]
+        },
+        {
+          "id": "materials-5",
+          "question": "Quali documenti posso ricevere da voi?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "Certificato del test di biodegradazione dell’Instituto Politécnico Nacional, Città del Messico (ASTM D5511 e ISO 15985).",
+                "Pieghevole Eco-One™ che spiega l’additivo e il test.",
+                "Documentazione PPWR sugli imballaggi del nostro produttore, solo per i vostri fascicoli di conformità. Vi preghiamo di non condividere le dichiarazioni del fornitore con nessuno, tranne che con le autorità.",
+                "Brevetti per Sealed Bristles Technology™ e per le forme delle nostre griglie.",
+                "Schede di sicurezza per i nostri prodotti profumati.",
+                "Video del test degli schizzi con luce UV di ëkcoscreen 60+."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "materials-6",
+          "question": "Quale supporto marketing offrite?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "Foto e video professionali dei prodotti, incluso il test degli schizzi con luce UV.",
+                "Testi di prodotto pronti all’uso in 22 lingue.",
+                "Loghi e immagini del marchio.",
+                "Guida comparativa, pieghevole Eco-One™, certificato del test, documentazione PPWR e schede di sicurezza."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "private-label",
+      "title": "Private label",
+      "items": [
+        {
+          "id": "private-label-1",
+          "question": "Perché sono cambiati i vostri testi di prodotto?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Ora due nuove norme UE si applicano alle informazioni sui prodotti e agli imballaggi: la direttiva (UE) 2024/825 (nuove regole per le dichiarazioni ambientali) dal 27 settembre 2026 e il regolamento (UE) 2025/40 sugli imballaggi e i rifiuti di imballaggio (PPWR) dal 12 agosto 2026. Abbiamo verificato ogni dichiarazione alla luce di queste norme. I nostri nuovi testi contengono solo dichiarazioni ambientali specifiche e supportate da prove. Usateli nel vostro negozio online, nei cataloghi e nelle offerte."
+            }
+          ]
+        },
+        {
+          "id": "private-label-2",
+          "question": "Quali vecchie dichiarazioni devo eliminare?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "Termini generici come «ecocompatibile», «green», «ecologico» o «sostenibile», anche per gli imballaggi.",
+                "«Sacchetto in cellophane» o «confezione in cellophane». I nostri sacchetti sono in BOPP.",
+                "«100% riciclabile». I nostri nuovi testi dicono esattamente che cosa si può riciclare.",
+                "«Biodegradabile al 99% in 5 anni» come risultato del test. Il test ha misurato il 93% in 3,5 anni. Il valore fino al 99% in 5 anni è una proiezione.",
+                "«Biodegradabile» da solo nei nomi o nei titoli dei prodotti. Scrivete «biodegradabile in discarica».",
+                "Qualsiasi dichiarazione su batteri, virus, germi o protezione della salute.",
+                "Dichiarazioni su VOC e tossicità come «conforme agli standard europei sui VOC», «Senza VOC» o «non tossico per l’ambiente».",
+                "Promesse assolute come «elimina gli schizzi» o «senza odori».",
+                "«Senza parabeni» per NON-PARA. NON-PARA significa che la pastiglia non contiene paradiclorobenzene.",
+                "«60+ giorni» da solo per frësh drop. Scrivete «30+ giorni nelle cabine poco ventilate e 60+ giorni se poco frequentate»."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "private-label-3",
+          "question": "Posso modificare o tradurre i testi di prodotto?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Usate i nostri testi approvati, già pronti in 22 lingue. Se li abbreviate o li adattate, mantenete ogni condizione legata a una dichiarazione, ad esempio «in discarica», «realizzato con EVA riciclato» e la differenza tra il 93% misurato e il 99% previsto."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "working-with",
+      "title": "Lavorare con ëkcos",
+      "items": []
+    }
+  ],
+  "contact": {
+    "title": "Avete ancora una domanda?",
+    "body": "Contattate il vostro referente commerciale ëkcos o scrivete a"
+  },
+  "footnote": "Fonte dei dati: test di biodegradazione indipendente secondo ASTM D5511-02 e ISO 15985:2014 (Instituto Politécnico Nacional, Città del Messico). Prodotto ëkcos con l’1% di additivo Eco-One™: 93,31% di biodegradazione in 1.288 giorni (circa 3,5 anni). Lo stesso prodotto senza additivo: 0%. Si prevede fino al 99% entro 5 anni sulla base dell’andamento misurato. La biodegradazione dipende dalle condizioni della discarica. Eco-One™ è un marchio di EcoLogic, LLC."
+}

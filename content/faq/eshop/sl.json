@@ -1,0 +1,318 @@
+{
+  "hero": {
+    "title": "FAQ",
+    "tagline": "Vaša vprašanja, naša dejstva. Jasni odgovori o naših izdelkih, materialih, naročilih in dostavi.",
+    "intro": "Tu najdete jasne odgovore na vprašanja, ki nam jih kupci najpogosteje zastavljajo, od izbire prave mrežice za pisoar do dostave in vračil. Vsaka okoljska trditev je konkretna in podprta z dokazi, na primer z neodvisnim laboratorijskim preskusom."
+  },
+  "metrics": [],
+  "categories": [
+    {
+      "id": "about",
+      "title": "O podjetju ëkcos",
+      "items": [
+        {
+          "id": "about-1",
+          "question": "Kdo je ëkcos?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Podjetje ëkcos innovations razvija, proizvaja in distribuira dišeče mrežice za pisoarje, osvežilce za WC-školjke in osvežilce zraka. Vodilni smo na trgu v ZDA, svoje izdelke pa smo predstavili v več kot 70 državah. Naši izdelki so narejeni v Mehiki. Naše osrednje skladišče na Češkem oskrbuje kupce in partnerje po vsej Evropi, Aziji in Afriki. Štiri stvari:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Zaščita pred brizganjem. Naše patentirane ščetine proti brizganju (Sealed Bristles Technology™) prekrivajo do 95 % mrežice.",
+                "Dolgotrajen vonj. Mrežici ëkcoscreen 60+ in xcrën HD 60+ zagotavljata 60+ dni vonja, dvakrat dlje kot standardne 30-dnevne mrežice.",
+                "Dejstva o materialu, ki jih lahko preverite. Izdelano z recikliranim EVA materialom. Biorazgradljivo na odlagališču odpadkov z aditivom Eco-One™, kot kaže neodvisni laboratorijski preskus.",
+                "Vaša blagovna znamka na izdelku. Vaš logotip je mogoče izrezati v samo mrežico."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "about-2",
+          "question": "Katero mrežico za pisoar naj izberem?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Izberite glede na obisk in na to, kako pogosto vzdržujete sanitarije. Mrežica Vonj Velikost Najbolj primerna za ëkcoscreen 60+ 60+ dni 20 x 21 cm Zelo obiskane sanitarije. 141 g dišečega materiala. Ščetine prekrivajo 95 % mrežice. xcrën HD 60+ 60+ dni 17 x 18 cm Zelo obiskane sanitarije, kjer je pomemben videz. Patentirana dizajnerska oblika. powër screen do 30 dni 18 x 20 cm Mesečna menjava. Prožna oblika, ki ustreza skoraj vsem pisoarjem. üro lite do 30 dni 13 x 13 cm Manjši pisoarji. Dolge patentirane ščetine. xcrën puck do 30 dni 17 x 17 cm Zaščita odtoka pred trdnimi delci in odpadki. Tableta proti vonjavam."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urinal-screens",
+      "title": "Mrežice za pisoarje",
+      "items": [
+        {
+          "id": "urinal-screens-1",
+          "question": "Kako dolgo zdrži mrežica za pisoar?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Mrežici ëkcoscreen 60+ in xcrën HD 60+ zagotavljata 60+ dni vonja, dvakrat dlje kot standardne 30-dnevne mrežice. V manj obiskanih sanitarijah zdržita še dlje. Mrežice powër screen, üro lite in xcrën puck zagotavljajo do 30 dni vonja, zato so idealne za mesečno vzdrževanje."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-2",
+          "question": "Zakaj izbrati mrežico, ki zdrži 60+ dni?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Mrežica ëkcoscreen 60+ zdrži dvakrat dlje kot standardna 30-dnevna mrežica, pri podobnem strošku na dan. Poleg tega jo menjate dvakrat redkeje, zato vaše osebje zanjo porabi manj časa. POGOSTA VPRAŠANJA"
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-3",
+          "question": "Kako deluje sistem proti brizganju?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Naše mrežice uporabljajo tehnologijo Sealed Bristles Technology™, naš lastni patentirani sistem proti brizganju. Goste ščetine razbijejo curek urina in brizganje urina zmanjšajo na minimum. Ščetine prekrivajo 95 % mrežice ëkcoscreen 60+ in 92 % mrežice xcrën HD 60+. Mrežica üro lite uporablja enako tehnologijo z dolgimi ščetinami, ki v majhni mrežici zagotavljajo veliko zaščito pred brizganjem. Mrežico ëkcoscreen 60+ smo posneli v primerjalnem UV-preskusu brizganja pod enakimi pogoji: isti model pisoarja, ista višina in isti pretok. Pri mrežici ëkcoscreen 60+ ni bilo vidnega brizganja zunaj mrežice. Zaprosite nas za video. Sam sistem ščetin je patentiran. Da. Mrežici ëkcoscreen 60+ in xcrën HD 60+ sta idealni za brezvodne pisoarje, primerni pa sta tudi mrežici powër screen in üro lite. Za odtok brezvodnega pisoarja si spodaj oglejte vložek ëz trap. Mrežica powër screen ima prožno obliko, ki ustreza skoraj vsem vrstam pisoarjev, mrežica üro lite pa je zasnovana za manjše pisoarje. Velikost vsake mrežice najdete v zgornji tabeli."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-4",
+          "question": "Kako namestim ali zamenjam mrežico za pisoar?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Nadenite si rokavice. Odstranite uporabljeno mrežico in jo odvrzite med mešane komunalne odpadke. Odpakirajte novo mrežico in jo položite ravno na dno pisoarja, čez odtok, s ščetinami obrnjenimi navzgor. Zamenjajte jo, ko vonj pojenja, ali ob običajnem intervalu vzdrževanja."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-5",
+          "question": "Kako odvržem uporabljeno mrežico?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Odvrzite jo med mešane komunalne odpadke. Sam EVA material je mogoče reciklirati, uporabljene mrežice za pisoar pa ne, ker je biološko kontaminirana. Konča na odlagališču odpadkov ali v sežigalnici. Zato dodajamo aditiv Eco-One™, ki naš material naredi biorazgradljiv na odlagališču odpadkov."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-6",
+          "question": "Kaj je xcrën puck?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "xcrën puck je mrežica za pisoar v obliki črke X s tableto proti vonjavam. Oblika črke X preprečuje, da bi trdni delci in odpadki zamašili odtok, tableta pa ob vsaki uporabi do 30 dni sprošča svež vonj. Tableta je izdelana predvsem iz voska in glicerina ter se z uporabo raztaplja. Tablete ni mogoče zamenjati, zato zamenjate celotno mrežico xcrën puck."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-7",
+          "question": "Kaj pomeni NON-PARA?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "To pomeni, da tableta v mrežici xcrën puck ne vsebuje paradiklorobenzena (PARA), ki ga SZO uvršča med morda rakotvorne snovi. Podjetje ëkcos PARA ni nikoli uporabljalo. NON-PARA ne pomeni, da je izdelek brez parabenov."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-8",
+          "question": "Kaj je ëz trap in katerim pisoarjem ustreza?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëz trap je vložek za brezvodne pisoarje. Urin odteka skozi sifon, zapiralni pokrovček pa se po vsaki uporabi zatesni, kar pomaga preprečevati uhajanje vonjav iz odtoka. Primeren je za pisoarje Sloan, Falcon, Vitra, Bobrick in drugih znamk s sistemom Falcon Velocity (premer 11,8 cm, višina 11,5 cm). POGOSTA VPRAŠANJA"
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-9",
+          "question": "Kako dolgo zdrži ëz trap in kako ga vzdržujem?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Vložek zdrži 4 do 6+ mesecev in ne potrebuje dragih gelov ali posebnih čistil. Vsak dan zlijte v pisoar kozarec vode, da preprečite nalaganje vodnega kamna. Redno čiščenje s sredstvom proti vodnemu kamnu, na primer s kakovostnim WC-gelom, podaljša njegovo življenjsko dobo. Vložek ëz trap je na voljo z orodjem za odstranjevanje ali brez njega. Orodje je za večkratno uporabo, zato ga potrebujete samo pri prvem naročilu."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-10",
+          "question": "Kaj je ëkco mat?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkco mat je vpojna talna podloga za enkratno uporabo, namenjena površini pod pisoarjem. Z merami 54 x 51 cm pokrije površino okoli večine standardnih pisoarjev. Ščiti tla pred urinom in zmanjšuje raznašanje urina s podplati čevljev."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-11",
+          "question": "Kateri osvežilec zraka naj izberem?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "frësh drop: za WC-kabine in sanitarije. 30+ dni vonja v kabinah s slabim prezračevanjem in 60+ dni ob manjšem obisku, brez baterij in elektrike.",
+                "ëkco clip: pritrdi se na WC-školjko in zagotavlja do 30 dni vonja. Prožna oblika se prilega skoraj vsem vrstam školjk.",
+                "ëkco loop: kompakten osvežilec za majhne prostore s slabim pretokom zraka, na primer pod pisalnimi mizami, v pokrovih košev za smeti, v omarah in omaricah za čevlje. Do 30 dni. Za WC-kabine izberite osvežilec frësh drop."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ez-trap-ekco-mat",
+      "title": "ëz trap in ëkco mat",
+      "items": [
+        {
+          "id": "ez-trap-ekco-mat-1",
+          "question": "Kako dolgo zdrži frësh drop?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "V kabinah s slabim prezračevanjem ali brez njega zdrži 30+ dni, ob manjšem obisku pa 60+ dni. Ko vonj pojenja, zamenjate samo vložek. Nosilec ostane na steni."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-2",
+          "question": "Kako namestim osvežilca frësh drop in ëkco loop?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Oba sta sistema iz nosilca in dišavnega vložka. Nosilec pritrdite na čisto, suho površino: pri osvežilcu frësh drop s priloženim lepilnim trakom, pri osvežilcu ëkco loop pa je nosilec samolepilen. Nato namestite vložek. Pri osvežilcu frësh drop vložek na nosilcu drži majhen vrtljivi zaklep, nadomestni zaklepi pa so na voljo, če se kateri izgubi. Osvežilec ëkco loop namestite blizu mesta, kjer želite vonj."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-3",
+          "question": "Kako se sprošča vonj?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Pasivno. Material je prepojen z dišavo, ki se sčasoma postopoma sprošča. Ne potrebujete razpršil, baterij ali elektrike. Naše glavne linije imajo istih enajst barv in vonjev: vijolična / gozdni sadeži, zelena / jabolko, modra / fresh, oranžna / tropsko sadje, prozorna / tropsko sadje, črna / meta, ognjena / mango, zelena / bor, rdeča / melona, vijolična / sivka in rumena / citrusi. Tako lahko stavba ohrani en sam vonj od pisoarja do WC-kabine. Naše vonje je lahko prepoznati: jabolko diši po jabolku, melona po meloni."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "air-fresheners",
+      "title": "Osvežilci zraka in osvežilci za WC-školjke",
+      "items": [
+        {
+          "id": "air-fresheners-1",
+          "question": "Kaj moram vedeti o varnem ravnanju?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Nekateri naši dišeči izdelki lahko povzročijo alergijski odziv kože. Prosimo, upoštevajte navodila na etiketi in v varnostnem listu, pri ravnanju z izdelki nosite rokavice in jih hranite zunaj dosega otrok. POGOSTA VPRAŠANJA"
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-2",
+          "question": "Kaj je Eco-One™?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Eco-One™ je organski aditiv, ki ga proizvaja podjetje EcoLogic, LLC. Med proizvodnjo ga našemu materialu dodamo približno 1 %. Ne spremeni trdnosti, videza ali učinkovitosti izdelka. Ko izdelek konča na biološko aktivnem odlagališču odpadkov, se material razgradi v bioplin, CO₂ in humus. Sodobna odlagališča odpadkov bioplin uporabljajo za pridobivanje energije."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-3",
+          "question": "Kaj pomeni „biorazgradljivo na odlagališču odpadkov“ in kako je bilo to preskušeno?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "To pomeni, da se naš material razgradi na biološko aktivnem odlagališču odpadkov, kjer končajo uporabljene mrežice. Instituto Politécnico Nacional v mestu Ciudad de México je material ëkcos EVA z aditivom Eco-One™ preskusil po standardih ASTM D5511 in ISO 15985. Material je v roku 3,5 leta dosegel stopnjo biorazgradnje 93 %, isti material brez aditiva pa 0 %. V roku 5 let je predvidena biorazgradnja do 99 %. To je napoved na podlagi izmerjenega trenda, ne izmerjen rezultat. Biorazgradnja je odvisna od razmer na odlagališču odpadkov."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-4",
+          "question": "Zakaj svojih izdelkov ne označujete kot „okolju prijazne“?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Od 27. septembra 2026 pravila EU (Direktiva (EU) 2024/825) ne dovoljujejo več splošnih trditev, kot so „okolju prijazno“, „zeleno“ ali „trajnostno“, brez priznanega dokaza o odlični okoljski učinkovitosti. Zato vam natančno povemo, kaj lahko dokažemo: izdelano z recikliranim EVA materialom, z aditivom Eco-One™ biorazgradljivo na odlagališču odpadkov v neodvisnem laboratorijskem preskusu ter škatle iz 100 % recikliranega kartona. Sam EVA material je mogoče reciklirati. Uporabljenih mrežic za pisoarje ali osvežilcev za WC-školjke ni mogoče reciklirati, ker so biološko kontaminirani, zato sodijo med mešane komunalne odpadke. Vložki osvežilcev frësh drop in ëkco loop so izdelani z recikliranim EVA materialom in niso kontaminirani, zato je njihov material mogoče reciklirati. Upoštevajte lokalna pravila za ravnanje z odpadki. Svojih izdelkov ne označujemo kot „100 % reciklabilne“, ker to za uporabljeno mrežico ne bi bilo res. Naše škatle za izdelke in transportne škatle so izdelane iz 100 % recikliranega valovitega kartona. Vrečke za izdelke so iz materiala BOPP, polipropilenske folije. Za vrečke ne navajamo nobene okoljske trditve. Da. Poslovni kupci lahko od nas zahtevajo certifikat o preskusu biorazgradnje, naš letak Eco-One™, varnostne liste in našo dokumentacijo o embalaži. Pišite na support@ekcos.eu. POGOSTA VPRAŠANJA"
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-5",
+          "question": "Kdo lahko kupuje v spletni trgovini?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Podjetja in zasebni kupci iz vseh držav EU. Podjetja, registrirana za DDV v državi EU, ki ni Češka, lahko kupujejo z 0 % DDV. Ne. Nekateri izdelki se prodajajo posamično, drugi v pakiranjih po dva. To je vedno navedeno v nazivu izdelka. Plačilne kartice, kot so Visa, Mastercard, Maestro in American Express, Apple Pay, Google Pay in Shop Pay, lokalni načini plačila, kot so Bancontact, BLIK, MB WAY in MobilePay, ter bančno nakazilo. Na blagajni so prikazani načini plačila, ki so na voljo v vaši državi. Da, če je vaše podjetje registrirano za DDV v državi EU, ki ni Češka. Na blagajni vnesite uradno ime podjetja in svojo identifikacijsko številko za DDV s predpono države, na primer DE123456789. Številko v realnem času preverimo v bazi podatkov VIES Evropske unije. Če je veljavna, se DDV zniža na 0 % (obrnjena davčna obveznost). Češka podjetja plačajo češki DDV, ker račune izdajamo s češko identifikacijsko številko za DDV. Identifikacijsko številko za DDV vnesite pred plačilom. Če ste pozabili, nam pišite. Več podrobnosti najdete v našem vodniku za B2B in 0 % DDV. Da. Vsakemu naročilu je priložen račun z DDV. Če potrebujete kopijo, pišite na support@ekcos.eu."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-6",
+          "question": "Kako hitro pošiljate naročila?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Naročila iz spletne trgovine odpošljemo v 1 do 2 delovnih dneh po plačilu. Če izdelka začasno ni na zalogi, ga običajno odpošljemo v enem mesecu, ker v naše skladišče redno prihaja novo blago."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "title": "Materiali, Eco-One™ in embalaža",
+      "items": [
+        {
+          "id": "materials-1",
+          "question": "Kam dostavljate in koliko časa traja dostava?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Dostavljamo v vse države EU. Dostava običajno traja približno 5 dni po odpremi, v države blizu Češke pa manj. V Nemčijo in Avstrijo na primer traja 1 do 2 dni, v Italijo, Francijo in na Nizozemsko pa 3 do 4 dni. Za dostavo zunaj EU nam pišite. POGOSTA VPRAŠANJA Na Češkem pošiljamo s prevoznikom FOFR, v druge države EU pa s prevoznikom FedEx. Ko je vaš paket na poti, prejmete podatke za sledenje po e-pošti. Dostava je brezplačna za naročila nad 120 EUR, razen na Ciper in Malto. Za naročila pod 120 EUR dostava stane: Dostava Države 3,90 EUR Češka 4,90 EUR Avstrija, Madžarska, Nemčija, Poljska, Slovaška 5,90 EUR Belgija, Italija, Luksemburg, Nizozemska, Romunija, Slovenija 7,90 EUR Francija 8,90 EUR Danska, Grčija, Hrvaška, Španija, Švedska 9,90 EUR Bolgarija, Estonija, Finska, Irska, Latvija, Litva 10,90 EUR Portugalska 16,90 EUR Ciper, Malta (brez brezplačne dostave) Na blagajni vidite točen znesek v svoji valuti. Da. Neuporabljene izdelke v originalni embalaži lahko vrnete v 30 dneh od dostave. Najprej pišite na support@ekcos.eu. Pošljemo vam nalepko za vračilo in navodila. Ko vračilo odobrimo, vam denar vrnemo na prvotni način plačila v 10 delovnih dneh. Izdelkov z vašo blagovno znamko ni mogoče vrniti."
+            }
+          ]
+        },
+        {
+          "id": "materials-2",
+          "question": "Kaj če moje naročilo prispe poškodovano ali nepopolno?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Prosimo, ob dostavi preverite paket. Če je kaj poškodovano, napačno ali manjka, takoj pišite na support@ekcos.eu, po možnosti s fotografijami. Zadevo bomo uredili. Da. Podjetja lahko od nas zahtevajo vzorce. Za večje količine ali redne dobave pišite na support@ekcos.eu. Pripravimo vam ponudbo ali vas povežemo z našim partnerjem v vaši državi."
+            }
+          ]
+        },
+        {
+          "id": "materials-3",
+          "question": "Kako vas lahko kontaktiram?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Pišite na support@ekcos.eu ali uporabite kontaktni obrazec v naši spletni trgovini. Spletno trgovino upravlja podjetje Ekcos Europe OÜ, Saani tn 2/2-26, 10149 Tallinn, Estonija."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "private-label",
+      "title": "Zasebna blagovna znamka",
+      "items": []
+    },
+    {
+      "id": "orders",
+      "title": "Naročila, plačilo in dostava",
+      "items": []
+    }
+  ],
+  "contact": {
+    "title": "Imate še vprašanje?",
+    "body": ""
+  },
+  "footnote": ""
+}

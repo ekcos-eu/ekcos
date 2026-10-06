@@ -1,0 +1,355 @@
+{
+  "hero": {
+    "title": "FAQ",
+    "tagline": "Teidän kysymyksenne,. meidän faktamme",
+    "intro": "Täältä löydätte selkeät vastaukset kysymyksiin, joita asiakkaamme kysyvät useimmin, oikean urinaalimaton valinnasta toimitukseen ja palautuksiin. Jokainen ympäristöväittämä on täsmällinen ja perustuu näyttöön, kuten riippumattomaan laboratoriotestiin."
+  },
+  "metrics": [
+    {
+      "value": "93 %",
+      "label": "biohajosi 3,5 vuodessa riippumattomassa laboratoriotestissä, Eco-One™-lisäaineella"
+    },
+    {
+      "value": "60+",
+      "label": "päivää tuoksua (ëkcoscreen 60+, xcrën HD 60+), kaksi kertaa pidempään kuin tavalliset 30 päivän"
+    },
+    {
+      "value": "141 g",
+      "label": "tuoksuvaa materiaalia ëkcoscreen 60+ -matossa, yli kolme kertaa enemmän kuin tavallisessa matossa"
+    },
+    {
+      "value": "95 %",
+      "label": "ëkcoscreen 60+ -maton pinnasta peittävät patentoidut roiskeita estävät harjakset"
+    }
+  ],
+  "categories": [
+    {
+      "id": "about",
+      "title": "Tietoa ëkcos-yrityksestä",
+      "items": [
+        {
+          "id": "about-1",
+          "question": "Mikä on ëkcos?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcos innovations kehittää, valmistaa ja jakelee tuoksuvia urinaalimattoja, WC- raikastinklipsejä ja ilmanraikastimia. Olemme markkinajohtaja Yhdysvalloissa, ja olemme tuoneet tuotteemme yli 70 maahan. Tuotteemme valmistetaan Meksikossa. Tšekissä sijaitseva keskusvarastomme toimittaa tuotteita asiakkaille ja kumppaneille eri puolille Eurooppaa, Aasiaa ja Afrikkaa."
+            }
+          ]
+        },
+        {
+          "id": "about-2",
+          "question": "Mikä tekee ëkcos- tuotteista erilaisia?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Neljä asiaa:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Roiskesuoja. Patentoidut roiskeita estävät harjaksemme (Sealed Bristles Technology™) peittävät jopa 95 % matosta.",
+                "Tuoksun pitkä kesto. ëkcoscreen 60+ ja xcrën HD 60+ tuoksuvat 60+ päivän ajan, kaksi kertaa pidempään kuin tavalliset 30 päivän matot.",
+                "Materiaalifaktat, jotka voitte tarkistaa. Sisältää kierrätettyä EVA- materiaalia. Biohajoava kaatopaikalla Eco-One™-lisäaineen ansiosta, kuten riippumaton laboratoriotesti osoittaa.",
+                "Oma brändinne tuotteessa. Logonne voidaan leikata itse mattoon."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urinal-screens",
+      "title": "Urinaalimatot",
+      "items": [
+        {
+          "id": "urinal-screens-1",
+          "question": "Mikä urinaalimatto minun kannattaa valita?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Valitkaa matto WC-tilan kävijämäärän ja huoltovälin mukaan. Matto Tuoksu Koko Sopii parhaiten ëkcoscreen 60+ 60+ päivää 20 x 21 cm Vilkkaat WC-tilat. 141 g tuoksuvaa materiaalia. Harjakset peittävät 95 % matosta. xcrën HD 60+ 60+ päivää 17 x 18 cm Vilkkaat WC-tilat, joissa ulkonäöllä on merkitystä. Patentoitu muoto. powër screen jopa 30 päivää 18 x 20 cm Kuukausivaihto. Joustava muoto sopii lähes kaikkiin urinaaleihin. üro lite jopa 30 päivää 13 x 13 cm Pienemmät urinaalit. Pitkät patentoidut harjakset. xcrën puck jopa 30 päivää 17 x 17 cm Viemärin suojaaminen kiinteiltä aineilta ja roskilta. Hajunpoistotabletti. ëkcoscreen 60+ ja xcrën HD 60+ tuoksuvat 60+ päivän ajan, kaksi kertaa pidempään kuin tavalliset 30 päivän matot. Vähemmän käytetyissä WC-tiloissa niiden käyttöikä on vielä pidempi. powër screen, üro lite ja xcrën puck tuoksuvat jopa 30 päivän ajan, joten ne sopivat erinomaisesti kuukausittaiseen huoltoon."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-2",
+          "question": "Miksi valita matto, jonka tuoksu kestää 60+ päivää?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcoscreen 60+ kestää kaksi kertaa pidempään kuin tavallinen 30 päivän matto samankaltaisella päiväkustannuksella. Vaihdatte sen myös puolet harvemmin, joten henkilökuntanne käyttää siihen vähemmän aikaa."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-3",
+          "question": "Miten roiskeenestojärjestelmä toimii?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Matoissamme on Sealed Bristles Technology™, oma patentoitu roiskeenestojärjestelmämme. Tiheät harjakset rikkovat virtsasuihkun ja minimoivat virtsaroiskeet. Harjakset peittävät 95 % ëkcoscreen 60+ -matosta ja 92 % xcrën HD 60+ -matosta. üro lite käyttää samaa tekniikkaa pitkillä harjaksilla, jotka antavat suuren roiskesuojan pienessä matossa."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-4",
+          "question": "Onko harjasten toimivuudesta näyttöä?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Kuvasimme ëkcoscreen 60+ -maton rinnakkaisessa UV-roisketestissä identtisissä olosuhteissa: sama urinaalimalli, sama korkeus ja sama virtaus. ëkcoscreen 60+ -maton ulkopuolella ei ollut näkyviä roiskeita. Pyytäkää meiltä video. Itse harjasjärjestelmä on patentoitu. Kyllä. ëkcoscreen 60+ ja xcrën HD 60+ sopivat ihanteellisesti vedettömiin urinaaleihin, ja myös powër screen ja üro lite sopivat niihin. Vedettömän urinaalin viemäriin sopii ëz trap, josta kerromme alempana."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-5",
+          "question": "Sopiiko matto urinaaliini?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "powër screen on muodoltaan joustava ja sopii lähes kaikkiin urinaalityyppeihin, ja üro lite on tehty pienempiin urinaaleihin. Kunkin maton koon löydätte yllä olevasta taulukosta."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-6",
+          "question": "Miten asetan urinaalimaton paikalleen tai vaihdan sen?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Käyttäkää käsineitä. Ottakaa käytetty matto pois ja laittakaa se sekajätteeseen. Ottakaa uusi matto pakkauksesta ja asettakaa se tasaisesti urinaalin pohjalle viemärin päälle harjakset ylöspäin. Vaihtakaa matto, kun tuoksu heikkenee, tai tavallisen huoltovälinne mukaan."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-7",
+          "question": "Miten hävitän käytetyn maton?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Laittakaa se sekajätteeseen. Itse EVA-materiaalin voi kierrättää, mutta käytettyä urinaalimattoa ei, koska se on biologisesti saastunut. Se päätyy kaatopaikalle tai poltettavaksi. Siksi lisäämme Eco-One™-lisäainetta, joka tekee materiaalistamme biohajoavan kaatopaikalla."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-8",
+          "question": "Mikä on xcrën puck?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "xcrën puck on X-muotoinen urinaalimatto, jossa on hajunpoistotabletti. X- muoto estää kiinteitä aineita ja roskia tukkimasta viemäriä, ja tabletti vapauttaa raikkaan tuoksun jokaisella käyttökerralla jopa 30 päivän ajan. Tabletti on valmistettu pääasiassa vahasta ja glyseriinistä, ja se liukenee käytössä. Tablettia ei voi vaihtaa, joten vaihdatte koko xcrën puck -maton."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-9",
+          "question": "Mitä NON-PARA tarkoittaa?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Se tarkoittaa, että xcrën puck -maton tabletti ei sisällä paradiklooribentseeniä (PARA), jonka WHO luokittelee mahdollisesti syöpää aiheuttavaksi. ëkcos ei ole koskaan käyttänyt PARA:ta. NON-PARA ei tarkoita, että tuote olisi parabeeniton."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-10",
+          "question": "Mikä on ëz trap ja mihin urinaaleihin se sopii?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëz trap on vedettömien urinaalien patruuna. Virtsa virtaa hajulukon läpi, ja sulkukansi sulkeutuu tiiviisti jokaisen käytön jälkeen, mikä auttaa estämään viemärihajujen pääsyn ulos. Se sopii Sloan-, Falcon-, Vitra- ja Bobrick- urinaaleihin sekä muihin Falcon Velocity -järjestelmää käyttäviin merkkeihin (halkaisija 11,8 cm, korkeus 11,5 cm). Patruuna kestää 4 kuukaudesta 6 kuukauteen tai pidempään, eikä se tarvitse kalliita geelejä tai erikoispuhdistusaineita. Kaatakaa urinaaliin lasillinen vettä joka päivä kalkin kertymisen estämiseksi. Säännöllinen puhdistus kalkinpoistoaineella, kuten laadukkaalla WC-geelillä, pidentää sen käyttöikää. ëz trap on saatavana irrotustyökalun kanssa tai ilman sitä. Työkalu on uudelleenkäytettävä, joten tarvitsette sen vain ensimmäisen tilauksenne mukana."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-11",
+          "question": "Mikä on ëkco mat?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkco mat on imukykyinen kertakäyttöinen lattiamatto urinaalin alle. Kooltaan 54 x 51 cm matto peittää useimpien vakiokokoisten urinaalien ympäristön. Se suojaa lattiaa virtsalta ja vähentää virtsan kulkeutumista kengänpohjissa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ez-trap-ekco-mat",
+      "title": "ëz trap ja ëkco mat",
+      "items": [
+        {
+          "id": "ez-trap-ekco-mat-1",
+          "question": "Mikä ilmanraikastin minun kannattaa valita?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "frësh drop: WC-koppeihin ja WC-tiloihin. 30+ päivän tuoksu vähän tuuletetuissa WC-kopeissa ja 60+ päivää vähäisessä käytössä, ilman paristoja tai sähköä.",
+                "ëkco clip: kiinnittyy WC-pöntön reunaan ja antaa tuoksua jopa 30 päivän ajan. Joustava muoto sopii lähes kaikkiin WC-pönttötyyppeihin.",
+                "ëkco loop: kompakti raikastin pieniin tiloihin, joissa ilma liikkuu vähän, kuten työpöytien alle, roska-astioiden kansien sisäpuolelle, kaappeihin ja kenkäkaappeihin. Jopa 30 päivää. WC-koppeihin kannattaa valita frësh drop. WC-kopeissa, joissa on vähän tai ei lainkaan ilmanvaihtoa, se kestää 30+ päivää ja vähäisessä käytössä 60+ päivää. Kun tuoksu heikkenee, vaihdatte vain tuoksuosan. Pohjaosa jää seinälle."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-2",
+          "question": "Miten asennan frësh drop- ja ëkco loop -raikastimet?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Molemmat ovat pohjaosasta ja tuoksuosasta koostuvia järjestelmiä. Kiinnittäkää pohjaosa puhtaalle ja kuivalle pinnalle: frësh drop mukana tulevalla kiinnitysteipillä, ëkco loop tarrakiinnitteisellä pohjaosallaan. Kiinnittäkää sitten tuoksuosa paikalleen. frësh drop -raikastimessa pieni kiertolukko pitää tuoksuosan kiinni pohjaosassa, ja varalukkoja on saatavana, jos lukko katoaa. Sijoittakaa ëkco loop lähelle paikkaa, jossa haluatte tuoksun."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-3",
+          "question": "Miten tuoksu vapautuu?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Passiivisesti. Tuoksu on imeytetty materiaaliin, ja se vapautuu vähitellen ajan mittaan. Suihkeita, paristoja tai sähköä ei tarvita."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "air-fresheners",
+      "title": "Ilmanraikastimet ja WC-raikastinklipsit",
+      "items": [
+        {
+          "id": "air-fresheners-1",
+          "question": "Mitä värejä ja tuoksuja on saatavana?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Tärkeimmissä tuotesarjoissamme on samat yksitoista väriä ja tuoksua: violetti / metsämarja, vihreä / omena, sininen / fresh, oranssi / trooppiset hedelmät, läpinäkyvä / trooppiset hedelmät, musta / minttu, liekki / mango, vihreä / mänty, punainen / meloni, violetti / laventeli ja keltainen / sitrus. Näin rakennuksessa voi käyttää samaa tuoksua urinaalista WC-koppiin. Tuoksumme on helppo tunnistaa: omena tuoksuu omenalta, meloni melonilta."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-2",
+          "question": "Mitä minun pitää tietää turvallisesta käsittelystä?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Jotkin tuoksuvista tuotteistamme voivat aiheuttaa allergisen ihoreaktion. Noudattakaa pakkausmerkintöjä ja käyttöturvallisuustiedotetta, käyttäkää käsineitä tuotteita käsitellessänne ja säilyttäkää ne lasten ulottumattomissa."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-3",
+          "question": "Mikä on Eco-One™?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Eco-One™ on orgaaninen lisäaine, jota valmistaa EcoLogic, LLC. Lisäämme sitä materiaaliimme noin 1 % valmistuksen aikana. Se ei muuta tuotteen lujuutta, ulkonäköä eikä toimivuutta. Kun tuote päätyy biologisesti aktiiviselle kaatopaikalle, materiaali hajoaa biokaasuksi, hiilidioksidiksi (CO₂) ja humukseksi. Nykyaikaiset kaatopaikat hyödyntävät biokaasun energiana."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-4",
+          "question": "Mitä ”biohajoava kaatopaikalla” tarkoittaa ja miten se on testattu?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Se tarkoittaa, että materiaalimme hajoaa biologisesti aktiivisella kaatopaikalla, jonne käytetyt matot päätyvät. Méxicossa toimiva Instituto Politécnico Nacional testasi Eco-One™-lisäainetta sisältävän ëkcos-EVA-materiaalin ASTM D5511- ja ISO 15985 -standardien mukaisesti. Materiaalista biohajosi 3,5 vuodessa 93 %, kun taas ilman lisäainetta saman materiaalin tulos oli 0 %. Ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %. Tämä on mitatusta kehityksestä laskettu ennuste, ei mitattu tulos. Biohajoaminen riippuu kaatopaikan olosuhteista."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-5",
+          "question": "Miksi ette kutsu tuotteitanne ”ympäristöystävällisiksi”?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "27. syyskuuta 2026 alkaen EU:n säännöt (direktiivi (EU) 2024/825) eivät enää salli yleisiä väittämiä, kuten ”ympäristöystävällinen”, ”vihreä” tai ”kestävä”, ilman tunnustettua näyttöä erinomaisesta ympäristönsuojelun tasosta. Siksi kerromme tarkasti, minkä voimme todistaa: tuotteiden valmistuksessa käytetään kierrätettyä EVA-materiaalia, materiaali on riippumattoman laboratoriotestin mukaan biohajoava kaatopaikalla Eco-One™-lisäaineen ansiosta, ja laatikot on valmistettu 100 % kierrätetystä kartongista."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-6",
+          "question": "Voiko ëkcos-tuotteet kierrättää?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Itse EVA-materiaalin voi kierrättää. Käytettyä urinaalimattoa tai WC- raikastinklipsiä ei voi kierrättää, koska se on biologisesti saastunut, joten se kuuluu sekajätteeseen. frësh drop- ja ëkco loop -raikastimien tuoksuosien valmistuksessa käytetään kierrätettyä EVA-materiaalia, eivätkä ne ole saastuneita, joten niiden materiaali on kierrätettävissä. Noudattakaa paikallisia jätehuoltomääräyksiä. Emme kutsu tuotteitamme ”100 % kierrätettäviksi”, koska se ei pitäisi paikkaansa käytetyn maton kohdalla. Tuotelaatikkomme ja ulkopakkauksemme on valmistettu 100 % kierrätetystä aaltopahvista. Tuotepussien materiaali on BOPP, polypropeenikalvo. Emme esitä pusseista ympäristöväittämiä. Kyllä. Yritysasiakkaat voivat pyytää meiltä biohajoavuustestin sertifikaatin, Eco-One™-esitteemme, käyttöturvallisuustiedotteet ja pakkausdokumentaatiomme. Kirjoittakaa osoitteeseen support@ekcos.eu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "title": "Materiaalit, Eco-One™ ja pakkaukset",
+      "items": [
+        {
+          "id": "materials-1",
+          "question": "Onko vähimmäistilausta?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Ei. Osa tuotteista myydään yksittäin, osa kahden kappaleen pakkauksissa. Tuotteen nimestä näkee aina, kumpi on kyseessä."
+            }
+          ]
+        },
+        {
+          "id": "materials-2",
+          "question": "Mitä maksutapoja hyväksytte?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Maksukortit, kuten Visa, Mastercard, Maestro ja American Express, Apple Pay, Google Pay ja Shop Pay, paikalliset maksutavat, kuten Bancontact, BLIK, MB WAY ja MobilePay, sekä tilisiirto. Kassalla näette maassanne käytettävissä olevat maksutavat."
+            }
+          ]
+        },
+        {
+          "id": "materials-3",
+          "question": "Voiko yritykseni ostaa ilman arvonlisäveroa?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Kyllä, jos yrityksenne on merkitty arvonlisäverorekisteriin muussa EU-maassa kuin Tšekissä. Syöttäkää kassalla yrityksenne virallinen nimi ja ALV- tunnisteenne maatunnuksen kanssa, esimerkiksi DE123456789. Tarkistamme sen reaaliajassa EU:n VIES-tietokannasta. Jos tunniste on voimassa, arvonlisävero laskee 0 %:iin (käännetty verovelvollisuus). Tšekkiläiset yritykset maksavat Tšekin arvonlisäveron, koska laskutamme tšekkiläisellä ALV- tunnisteella. Syöttäkää ALV-tunnisteenne ennen maksamista. Jos unohditte sen, kirjoittakaa meille. Lisätietoja on B2B- ja ALV 0 % -oppaassamme. Kyllä. Jokaisesta tilauksesta saatte ALV-laskun. Jos tarvitsette kopion, kirjoittakaa osoitteeseen support@ekcos.eu. Lähetämme verkkokaupan tilaukset 1 tai 2 arkipäivän kuluessa maksusta. Jos tuote on tilapäisesti loppunut varastosta, lähetämme sen yleensä kuukauden kuluessa, koska varastoomme saapuu uusia tuotteita säännöllisesti. Toimitamme kaikkiin EU-maihin. Toimitus kestää yleensä noin 5 päivää lähettämisestä, Tšekin lähialueen maihin vähemmän. Esimerkiksi Saksaan ja Itävaltaan toimitus kestää 1 tai 2 päivää, ja Italiaan, Ranskaan ja Alankomaihin 3 tai 4 päivää. EU:n ulkopuolisista toimituksista kirjoittakaa meille."
+            }
+          ]
+        },
+        {
+          "id": "materials-4",
+          "question": "Mitä kuljetusyhtiöitä käytätte?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Tšekissä lähetykset kuljettaa FOFR, muihin EU-maihin FedEx. Saatte seurantatiedot sähköpostitse, kun pakettinne on matkalla. Toimitus on ilmainen yli 120 euron tilauksille, paitsi Kyprokselle ja Maltalle. Alle 120 euron tilauksissa toimitusmaksut ovat: Toimitus Maat 3,90 EUR Tšekki 4,90 EUR Itävalta, Puola, Saksa, Slovakia, Unkari 5,90 EUR Alankomaat, Belgia, Italia, Luxemburg, Romania, Slovenia 7,90 EUR Ranska 8,90 EUR Espanja, Kreikka, Kroatia, Ruotsi, Tanska 9,90 EUR Bulgaria, Irlanti, Latvia, Liettua, Suomi, Viro 10,90 EUR Portugali 16,90 EUR Kypros, Malta (ei ilmaista toimitusta) Kassalla näette tarkan summan omassa valuutassanne. Kyllä. Voitte palauttaa käyttämättömät tuotteet alkuperäisessä pakkauksessa 30 päivän kuluessa toimituksesta. Kirjoittakaa ensin osoitteeseen support@ekcos.eu. Lähetämme teille palautustarran ja ohjeet. Kun olemme hyväksyneet palautuksen, palautamme rahat alkuperäiselle maksutavallenne 10 arkipäivän kuluessa. Omalla brändäyksellä varustettuja tuotteita ei voi palauttaa. Tarkistakaa paketti toimituksen yhteydessä. Jos jokin on vaurioitunut, väärä tai puuttuu, kirjoittakaa heti osoitteeseen support@ekcos.eu, mieluiten valokuvien kanssa. Korjaamme asian. Kyllä. Yritykset voivat pyytää meiltä näytteitä. Suurempia määriä tai säännöllisiä toimituksia varten kirjoittakaa osoitteeseen support@ekcos.eu. Teemme teille tarjouksen tai ohjaamme teidät kumppanillemme omassa maassanne."
+            }
+          ]
+        },
+        {
+          "id": "materials-5",
+          "question": "Miten voin ottaa teihin yhteyttä?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Kirjoittakaa osoitteeseen support@ekcos.eu tai käyttäkää verkkokauppamme yhteydenottolomaketta. Verkkokauppaa ylläpitää Ekcos Europe OÜ, Saani tn 2/2-26, 10149 Tallinn, Viro."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "private-label",
+      "title": "Private label",
+      "items": []
+    },
+    {
+      "id": "orders",
+      "title": "Tilaukset, maksaminen ja toimitus",
+      "items": []
+    }
+  ],
+  "contact": {
+    "title": "Onko teillä vielä kysyttävää?",
+    "body": "Kirjoittakaa osoitteeseen support@ekcos.eu. Autamme mielellämme."
+  },
+  "footnote": "Tietolähde: riippumaton biohajoavuustesti ASTM D5511-02- ja ISO 15985:2014 -standardien mukaisesti (Instituto Politécnico Nacional, México). ëkcos- tuote, jossa on 1 % Eco-One™-lisäainetta: biohajoaminen 1 288 päivässä (noin 3,5 vuotta) oli 93,31 %. Sama tuote ilman lisäainetta: 0 %. Mitatun kehityksen perusteella ennuste on 5 vuodessa jopa 99 %. Biohajoaminen riippuu kaatopaikan olosuhteista. Eco-One™ on tavaramerkki, jonka omistaa EcoLogic, LLC."
+}

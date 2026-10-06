@@ -1,0 +1,50 @@
+{
+  "hero": {
+    "title": "FAQ",
+    "tagline": "Sus preguntas, nuestros. datos",
+    "intro": "Aquí encontrará respuestas claras a las preguntas que más nos hacen nuestros socios y sus clientes. Cada afirmación de estas preguntas frecuentes es concreta y está respaldada por pruebas: un ensayo de laboratorio independiente, patentes y documentos de nuestro fabricante."
+  },
+  "metrics": [],
+  "categories": [
+    {
+      "id": "about",
+      "title": "Sobre ëkcos",
+      "items": []
+    },
+    {
+      "id": "urinal-screens",
+      "title": "Rejillas para urinarios",
+      "items": []
+    },
+    {
+      "id": "ez-trap-ekco-mat",
+      "title": "ëz trap y ëkco mat",
+      "items": []
+    },
+    {
+      "id": "air-fresheners",
+      "title": "Ambientadores y clips para inodoro",
+      "items": []
+    },
+    {
+      "id": "materials",
+      "title": "Materiales, Eco-One™ y embalaje",
+      "items": []
+    },
+    {
+      "id": "private-label",
+      "title": "Marca blanca",
+      "items": []
+    },
+    {
+      "id": "working-with",
+      "title": "Trabajar con ëkcos",
+      "items": []
+    }
+  ],
+  "contact": {
+    "title": "¿Aún tiene alguna pregunta?",
+    "body": "Póngase en contacto con su representante comercial de ëkcos o escriba Líder del mercado en Estados Unidos, con productos introducidos en más de 70 países. Visite nuestro sitio web Almacén central en la República Checa que abastece a socios de Europa, Asia y ekcos.eu África."
+  },
+  "footnote": "Fuente de los datos: ensayo independiente de biodegradación según ASTM D5511-02 e ISO 15985:2014 (Instituto Politécnico Nacional, Ciudad de México). Producto ëkcos con un 1 % de aditivo Eco-One™: 93,31 % de biodegradación en 1288 días (unos 3,5 años). El mismo producto sin el aditivo: 0 %. Se prevé hasta un 99 % en 5 años a partir de la tendencia medida. La biodegradación depende de las condiciones del vertedero. Eco-One™ es una marca comercial de EcoLogic, LLC."
+}

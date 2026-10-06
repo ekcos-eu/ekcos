@@ -1,0 +1,341 @@
+{
+  "hero": {
+    "title": "FAQ",
+    "tagline": "Jūsu jautājumi, mūsu fakti. Skaidras atbildes par mūsu produktiem, materiāliem un dokumentiem.",
+    "intro": "Šeit atradīsiet skaidras atbildes uz jautājumiem, ko mūsu partneri un viņu klienti uzdod visbiežāk. Katrs šeit sniegtais apgalvojums ir konkrēts un pamatots ar pierādījumiem: neatkarīgu laboratorijas testu, patentiem un mūsu ražotāja dokumentiem."
+  },
+  "metrics": [
+    {
+      "value": "93 %",
+      "label": "bioloģiskā noārdīšanās 3,5 gadu laikā neatkarīgā laboratorijas testā, ar piedevu Eco-One™"
+    },
+    {
+      "value": "60+",
+      "label": "dienu aromāts (ëkcoscreen 60+, xcrën HD 60+), divreiz ilgāks nekā standarta 30 dienu ieliktņiem"
+    },
+    {
+      "value": "141 g",
+      "label": "aromatizēta materiāla ieliktnī ëkcoscreen 60+, vairāk nekā trīsreiz vairāk nekā parastā ieliktnī"
+    },
+    {
+      "value": "95 %",
+      "label": "ieliktņa ëkcoscreen 60+ virsmas klāj patentēti sariņi pret šļakatām"
+    }
+  ],
+  "categories": [
+    {
+      "id": "about",
+      "title": "Par ëkcos",
+      "items": [
+        {
+          "id": "about-1",
+          "question": "Kas ir ëkcos?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Uzņēmums ëkcos innovations izstrādā, ražo un izplata aromatizētus pisuāru ieliktņus, WC podu atsvaidzinātājus ar klipsi un gaisa atsvaidzinātājus. Esam tirgus līderis Amerikas Savienotajās Valstīs un esam ieviesuši savus produktus vairāk nekā 70 valstīs. Mūsu produkti tiek ražoti Meksikā. Mūsu centrālā noliktava Čehijā apgādā klientus un partnerus visā Eiropā, Āzijā un Āfrikā."
+            }
+          ]
+        },
+        {
+          "id": "about-2",
+          "question": "Ar ko atšķiras ëkcos produkti?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Ar četrām lietām:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Aizsardzība pret šļakatām. Mūsu patentētie sariņi pret šļakatām (Sealed Bristles Technology™) klāj līdz 95 % ieliktņa virsmas.",
+                "Ilgstošs aromāts. ëkcoscreen 60+ un xcrën HD 60+ nodrošina aromātu 60+ dienas, divreiz ilgāk nekā standarta 30 dienu ieliktņi.",
+                "Pārbaudāmi fakti par materiālu. Izgatavots, izmantojot pārstrādātu EVA. Bioloģiski noārdāms atkritumu poligonā ar piedevu Eco-One™, kā liecina neatkarīgs laboratorijas tests.",
+                "Jūsu zīmols uz produkta. Jūsu logotipu var izgriezt pašā ieliktnī."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urinal-screens",
+      "title": "Pisuāru ieliktņi",
+      "items": [
+        {
+          "id": "urinal-screens-1",
+          "question": "Kāpēc izvēlēties 60+ dienu ieliktni?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcoscreen 60+ kalpo divreiz ilgāk nekā standarta 30 dienu ieliktnis, ar līdzīgām izmaksām dienā. Turklāt tas jāmaina divreiz retāk, tāpēc jūsu darbinieki tam patērē mazāk laika. BIEŽI UZDOTIE JAUTĀJUMI"
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-2",
+          "question": "Kā darbojas sistēma pret šļakatām?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Mūsu ieliktņos izmantota Sealed Bristles Technology™, mūsu pašu patentēta sistēma pret šļakatām. Blīvi sariņi sadala urīna strūklu un samazina urīna šļakatas līdz minimumam. Sariņi klāj 95 % ieliktņa ëkcoscreen 60+ virsmas un 92 % ieliktņa xcrën HD 60+ virsmas. Ieliktnī üro lite izmantota tā pati tehnoloģija ar gariem sariņiem, kas mazā ieliktnī nodrošina lielu aizsardzību pret šļakatām."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-3",
+          "question": "Vai ir pierādījumi, ka sariņi darbojas?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Mēs nofilmējām ieliktni ëkcoscreen 60+ salīdzinošā UV šļakatu testā identiskos apstākļos: tas pats pisuāra modelis, tas pats augstums un tā pati plūsma. Ar ëkcoscreen 60+ ārpus ieliktņa nebija redzamu šļakatu. Pieprasiet mums šo video. Pati sariņu sistēma ir patentēta."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-4",
+          "question": "Vai ieliktņus varu izmantot bezūdens pisuāros?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Jā. ëkcoscreen 60+ un xcrën HD 60+ ir ideāli piemēroti bezūdens pisuāriem, un piemēroti ir arī powër screen, üro lite un basic scrëen. Bezūdens pisuāra notekai skatiet tālāk kasetni ëz trap."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-5",
+          "question": "Vai ieliktnis derēs manam pisuāram?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Ieliktņiem powër screen un basic scrëen ir elastīga forma, kas der gandrīz visu veidu pisuāriem, un üro lite ir paredzēts mazākiem pisuāriem. Katra ieliktņa izmēru atradīsiet tabulā augstāk."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-6",
+          "question": "Kā man ievietot vai nomainīt pisuāra ieliktni?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Uzvelciet cimdus. Izņemiet lietoto ieliktni un izmetiet to nešķirotajos sadzīves atkritumos. Izsaiņojiet jauno ieliktni un novietojiet to līdzeni pisuāra apakšā virs notekas ar sariņiem uz augšu. Nomainiet to, kad aromāts mazinās, vai ierastajā apkopes intervālā."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-7",
+          "question": "Kā man atbrīvoties no lietota ieliktņa?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Izmetiet to nešķirotajos sadzīves atkritumos. Pašu EVA materiālu var pārstrādāt, bet lietotu pisuāra ieliktni nevar, jo tas ir bioloģiski piesārņots. Tas nonāk atkritumu poligonā vai tiek sadedzināts. Tāpēc mēs pievienojam piedevu Eco-One™, kas padara mūsu materiālu bioloģiski noārdāmu atkritumu poligonā."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-8",
+          "question": "Kas ir xcrën puck?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "xcrën puck ir X veida pisuāra ieliktnis ar dezodorējošu tableti. X forma neļauj cietām daļiņām un gružiem aizsprostot noteku, un tablete ar katru lietošanu līdz 30 dienām izdala svaigu aromātu. Tablete galvenokārt ir izgatavota no vaska un glicerīna un lietošanas laikā izšķīst. To nevar nomainīt, tāpēc jānomaina viss ieliktnis xcrën puck. Tas nozīmē, ka ieliktņa xcrën puck tablete nesatur paradihlorbenzolu (PARA), ko PVO klasificē kā iespējamu kancerogēnu. ëkcos nekad nav izmantojis PARA. NON-PARA nenozīmē, ka produkts nesatur parabēnus."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-9",
+          "question": "Kas ir ëz trap un kādiem pisuāriem tas der?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëz trap ir kasetne bezūdens pisuāriem. Urīns plūst caur sifonu, un noslēdzošais vāciņš pēc katras lietošanas noslēdzas, kas palīdz neļaut kanalizācijas smakām izplūst. Kasetne der Sloan, Falcon, Vitra, Bobrick un citu zīmolu pisuāriem ar Falcon Velocity sistēmu (diametrs 11,8 cm, augstums 11,5 cm). Kasetne kalpo 4 līdz 6+ mēnešus, un tai nav vajadzīgi dārgi geli vai speciāli tīrīšanas līdzekļi. Katru dienu ielejiet pisuārā glāzi ūdens, lai novērstu kaļķa nogulsnes. Regulāra tīrīšana ar līdzekli pret kaļķa nogulsnēm, piemēram, kvalitatīvu tualetes gelu, pagarina tās kalpošanas laiku. ëz trap ir pieejams ar izņemšanas instrumentu vai bez tā. Instruments ir atkārtoti lietojams, tāpēc tas jums vajadzīgs tikai pirmajā pasūtījumā. BIEŽI UZDOTIE JAUTĀJUMI"
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-10",
+          "question": "Kas ir ëkco mat?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkco mat ir absorbējošs vienreizējas lietošanas grīdas paklājs laukumam zem pisuāra. Ar izmēriem 54 x 51 cm tas nosedz laukumu ap lielāko daļu standarta pisuāru. Tas aizsargā grīdu no urīna un samazina urīna izplatīšanos ar apavu zolēm."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-11",
+          "question": "Kā man uzstādīt atsvaidzinātājus frësh drop un ëkco loop?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Abi ir sistēmas, kas sastāv no turētāja un aromāta ieliktņa. Piestipriniet turētāju pie tīras, sausas virsmas: modelim frësh drop ar komplektā iekļauto līmlenti, modelim ëkco loop ar tā pašlīmējošo turētāju. Pēc tam pievienojiet ieliktni. Modelim frësh drop ieliktni pie turētāja notur neliels pagriežams fiksators, un, ja tas pazūd, ir pieejami rezerves fiksatori. Novietojiet atsvaidzinātāju ëkco loop tuvu vietai, kur vēlaties aromātu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ez-trap-ekco-mat",
+      "title": "ëz trap un ëkco mat",
+      "items": [
+        {
+          "id": "ez-trap-ekco-mat-1",
+          "question": "Kā izdalās aromāts?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Pasīvi. Materiāls ir piesūcināts ar aromātu, kas laika gaitā izdalās pakāpeniski. Nav vajadzīgi aerosoli, baterijas vai elektrība. Mūsu galvenajām līnijām ir tās pašas vienpadsmit krāsas un aromāti: violets / meža ogas, zaļš / ābols, zils / fresh, oranžs / tropu augļi, caurspīdīgs / tropu augļi, melns / piparmētra, ugunssarkans / mango, zaļš / priede, sarkans / melone, violets / lavanda un dzeltens / citrusaugļi. Tāpēc visā ēkā var saglabāt vienu aromātu no pisuāra līdz tualetes kabīnei. Mūsu aromātus ir viegli atpazīt: ābols smaržo pēc ābola, melone pēc melones."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-2",
+          "question": "Kas man jāzina par drošu lietošanu?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Daži mūsu aromatizētie produkti var izraisīt alerģisku ādas reakciju. Lūdzu, ievērojiet marķējumā un drošības datu lapā sniegtos norādījumus, rīkojoties ar produktiem, valkājiet cimdus un glabājiet tos bērniem nepieejamā vietā."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-3",
+          "question": "Kas ir Eco-One™?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Eco-One™ ir organiska piedeva, ko ražo uzņēmums EcoLogic, LLC. Ražošanas laikā mēs pievienojam mūsu materiālam aptuveni 1 % šīs piedevas. Tā nemaina produkta izturību, izskatu vai darbību. Kad produkts nonāk bioloģiski aktīvā atkritumu poligonā, materiāls noārdās un rodas biogāze, CO₂ un humuss. Mūsdienu atkritumu poligonos biogāzi izmanto enerģijas ražošanai. Tas nozīmē, ka mūsu materiāls noārdās bioloģiski aktīvā atkritumu poligonā, kur nonāk lietotie ieliktņi. Instituto Politécnico Nacional Mehiko pārbaudīja ëkcos EVA ar Eco-One™ saskaņā ar standartiem ASTM D5511 un ISO 15985. Tas 3,5 gadu laikā sasniedza 93 % bioloģisko noārdīšanos, bet tas pats materiāls bez piedevas uzrādīja 0 %. Tiek prognozēts, ka 5 gadu laikā bioloģiskā noārdīšanās sasniegs līdz 99 %. Tā ir prognoze, kas balstīta uz izmērīto tendenci, nevis izmērīts rezultāts. Bioloģiskā noārdīšanās ir atkarīga no apstākļiem atkritumu poligonā."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "air-fresheners",
+      "title": "Gaisa atsvaidzinātāji un WC podu atsvaidzinātāji ar klipsi",
+      "items": [
+        {
+          "id": "air-fresheners-1",
+          "question": "Kāpēc jūs nesaucat savus produktus par „videi draudzīgiem“?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Kopš 2026. gada 27. septembra ES noteikumi (Direktīva (ES) 2024/825) vairs neļauj izmantot vispārīgus apgalvojumus, piemēram, „videi draudzīgs“, „zaļš“ vai „ilgtspējīgs“, bez atzītiem pierādījumiem par izcilu vides sniegumu. Tāpēc mēs jums sakām tieši to, ko varam pierādīt: izgatavoti, izmantojot pārstrādātu EVA, bioloģiski noārdāmi atkritumu poligonā ar piedevu Eco-One™ saskaņā ar neatkarīgu laboratorijas testu, un kastes no 100 % pārstrādāta kartona."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-2",
+          "question": "Vai ëkcos produktus var pārstrādāt?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Pašu EVA materiālu var pārstrādāt. Lietotu pisuāra ieliktni vai WC poda atsvaidzinātāju ar klipsi nevar, jo tas ir bioloģiski piesārņots, tāpēc tas jāizmet nešķirotajos sadzīves atkritumos. frësh drop un ëkco loop ieliktņi ir izgatavoti, izmantojot pārstrādātu EVA, un nav piesārņoti, tāpēc to materiālu var pārstrādāt. Lūdzu, ievērojiet vietējos atkritumu apsaimniekošanas noteikumus. Mēs nesakām, ka mūsu produkti ir „100 % pārstrādājami“, jo lietotam ieliktnim tā nebūtu taisnība. Mūsu produktu kastes un transporta kastes ir izgatavotas no 100 % pārstrādāta gofrētā kartona. Produktu maisiņi ir izgatavoti no polipropilēna plēves BOPP. Attiecībā uz maisiņiem mēs nesniedzam nekādus vides apgalvojumus. Iepakojuma dokumentācija saskaņā ar ES Iepakojuma un izlietotā iepakojuma regulu (PPWR) ir pieejama jūsu atbilstības dokumentācijai."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-3",
+          "question": "Vai varu saņemt produktus ar savu logotipu?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Jā. Jūsu logotipu varam izgriezt pašā ieliktnī, ne tikai uzdrukāt uz iepakojuma, tāpēc tas saglabājas visu produkta kalpošanas laiku. Jūsu logotipu var arī uzdrukāt uz produkta. Uz iepakojuma var būt jūsu pašu etiķetes ar jūsu logotipu un EAN kodiem, un krāsas un aromātus izvēlaties jūs. Uz lielākās daļas mūsu produktu. Pisuāru ieliktņiem un atsvaidzinātājam ëkco clip var būt jūsu logotips, izgriezts materiālā vai uzdrukāts. Uz atsvaidzinātāja frësh drop logotipu uzdrukā. Uz atsvaidzinātāja ëkco loop nav vietas logotipam. BIEŽI UZDOTIE JAUTĀJUMI Minimālais daudzums ir atkarīgs no produkta, un katram produktam ar individuālu zīmolu ir vienreizēja sagatavošanas maksa. Produkti ar individuālu zīmolu tiek izgatavoti pēc pasūtījuma, un parastais ražošanas un piegādes laiks ir 6 līdz 10 nedēļas. Individuālie pasūtījumi tiek apmaksāti 100 % avansā. Pieprasiet mums piedāvājumu."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-4",
+          "question": "Kā jūs sūtāt preces un cik ilgi ilgst piegāde?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Čehijā pakas un paletes piegādā FOFR. Uz citām ES valstīm pakas piegādā FedEx, bet paletes DSV. Piegāde ES teritorijā parasti ilgst aptuveni 5 dienas pēc nosūtīšanas, bet uz Čehijai tuvām valstīm mazāk, piemēram, uz Austriju un Vāciju 1 līdz 2 dienas un uz Franciju, Itāliju un Nīderlandi 3 līdz 4 dienas. Ārpus ES mēs katram pasūtījumam sagatavojam transporta piedāvājumu, un daudzi partneri transportu organizē paši. Transporta izmaksas mēs aprēķinām katram pasūtījumam."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-5",
+          "question": "Vai varu saņemt paraugus?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Jā. Pieprasiet mums paraugus, lai jūs un jūsu klienti varētu salīdzināt mūsu produktus un aromātus ar jebkura cita piegādātāja produktiem un aromātiem."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Bioloģiskās noārdīšanās testa sertifikāts, ko izsniedzis Instituto Politécnico Nacional, Mehiko (ASTM D5511 un ISO 15985).",
+                "Eco-One™ buklets, kas izskaidro piedevu un testu.",
+                "PPWR iepakojuma dokumentācija no mūsu ražotāja, tikai jūsu atbilstības dokumentācijai. Lūdzu, nenododiet piegādātāju deklarācijas nevienam, izņemot iestādes.",
+                "Patenti tehnoloģijai Sealed Bristles Technology™ un mūsu ieliktņu formām.",
+                "Drošības datu lapas mūsu aromatizētajiem produktiem.",
+                "UV šļakatu testa video ar ieliktni ëkcoscreen 60+.",
+                "Profesionāli produktu fotoattēli un videoklipi, tostarp UV šļakatu tests.",
+                "Lietošanai gatavi produktu apraksti 22 valodās.",
+                "Logotipi un zīmola vizuālie materiāli.",
+                "Salīdzinājuma ceļvedis, Eco-One™ buklets, testa sertifikāts, PPWR dokumentācija un drošības datu lapas."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-6",
+          "question": "Kāpēc mainījās jūsu produktu apraksti?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Uz produktu informāciju un iepakojumu tagad attiecas divi jauni ES noteikumi: kopš 2026. gada 27. septembra Direktīva (ES) 2024/825 (jauni noteikumi par vides apgalvojumiem) un kopš 2026. gada 12. augusta Iepakojuma un izlietotā iepakojuma regula (ES) 2025/40 (PPWR). Mēs pārbaudījām katru apgalvojumu atbilstoši šiem noteikumiem. Mūsu jaunajos aprakstos ir tikai konkrēti, ar pierādījumiem pamatoti vides apgalvojumi. Lūdzu, izmantojiet tos savā interneta veikalā, katalogos un piedāvājumos. BIEŽI UZDOTIE JAUTĀJUMI"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Vispārīgi termini, piemēram, „videi draudzīgs“, „zaļš“, „ekoloģisks“ vai „ilgtspējīgs“, arī attiecībā uz iepakojumu.",
+                "„Celofāna maisiņš“ vai „celofāna iepakojums“. Mūsu maisiņi ir izgatavoti no BOPP plēves.",
+                "„100 % pārstrādājams“. Mūsu jaunajos aprakstos ir precīzi norādīts, ko var pārstrādāt.",
+                "„99 % bioloģiski noārdāms 5 gadu laikā“ kā testa rezultāts. Testā tika izmērīti 93 % 3,5 gadu laikā. Līdz 99 % 5 gadu laikā ir prognoze.",
+                "„Bioloģiski noārdāms“ bez papildinājuma produktu nosaukumos vai virsrakstos. Lūdzu, rakstiet „bioloģiski noārdāms atkritumu poligonā“.",
+                "Jebkādi apgalvojumi par baktērijām, vīrusiem, mikrobiem vai veselības aizsardzību.",
+                "Apgalvojumi par GOS (VOC) un toksiskumu, piemēram, „atbilst Eiropas GOS standartiem“, „Bez GOS“ vai „netoksisks videi“.",
+                "Absolūti solījumi, piemēram, „novērš šļakatas“ vai „bez smakām“.",
+                "„Bez parabēniem“ kā NON-PARA skaidrojums. NON-PARA nozīmē, ka tablete nesatur paradihlorbenzolu.",
+                "„60+ dienas“ bez papildinājuma atsvaidzinātājam frësh drop. Lūdzu, rakstiet „30+ dienas kabīnēs ar vāju ventilāciju un 60+ dienas pie mazas apmeklētības“."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "title": "Materiāli, Eco-One™ un iepakojums",
+      "items": [
+        {
+          "id": "materials-1",
+          "question": "Vai drīkstu rediģēt vai tulkot produktu aprakstus?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Lūdzu, izmantojiet mūsu apstiprinātos aprakstus, kas ir gatavi 22 valodās. Ja tos saīsināt vai pielāgojat, saglabājiet katru nosacījumu, kas attiecas uz apgalvojumu, piemēram, „atkritumu poligonā“, „izgatavots, izmantojot pārstrādātu EVA“ un atšķirību starp izmērītajiem 93 % un prognozētajiem 99 %."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "private-label",
+      "title": "Privātais zīmols",
+      "items": []
+    },
+    {
+      "id": "working-with",
+      "title": "Sadarbība ar uzņēmumu ëkcos",
+      "items": []
+    }
+  ],
+  "contact": {
+    "title": "Vai jums vēl ir kāds jautājums?",
+    "body": "Sazinieties ar savu ëkcos tirdzniecības pārstāvi vai rakstiet uz"
+  },
+  "footnote": "Datu avots: neatkarīgs bioloģiskās noārdīšanās tests saskaņā ar ASTM D5511-02 un ISO 15985:2014 (Instituto Politécnico Nacional, Mehiko). ëkcos produkts ar 1 % piedevas Eco-One™: 93,31 % bioloģiskā noārdīšanās 1288 dienās (aptuveni 3,5 gados). Tas pats produkts bez piedevas: 0 %. Pamatojoties uz izmērīto tendenci, tiek prognozēts līdz 99 % 5 gadu laikā. Bioloģiskā noārdīšanās ir atkarīga no apstākļiem atkritumu poligonā. Eco-One™ ir uzņēmuma EcoLogic, LLC preču zīme."
+}

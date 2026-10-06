@@ -4,7 +4,15 @@ import { getArticleSitemapEntries, type ArticlesLocale } from '@/lib/articles'
 import { SITE_URL } from '@/lib/brand'
 import { getAllProductSlugs } from '@/lib/csv-products'
 
-const STATIC_PATHS = ['/', '/articles', '/eco-one', '/private-label'] as const
+const STATIC_PATHS = [
+  '/',
+  '/articles',
+  '/eco-one',
+  '/private-label',
+  '/faq',
+  '/faq/distributors',
+  '/faq/eshop',
+] as const
 
 function localeUrl(locale: string, path: string): string {
   const prefix = `/${locale}`

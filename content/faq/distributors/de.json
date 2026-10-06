@@ -1,0 +1,456 @@
+{
+  "hero": {
+    "title": "FAQ",
+    "tagline": "Ihre Fragen, unsere Fakten. Klare Antworten zu unseren Produkten, Materialien und Unterlagen.",
+    "intro": "Hier finden Sie klare Antworten auf die Fragen, die unsere Partner und ihre Kunden am häufigsten stellen. Jede Aussage in dieser FAQ ist konkret und durch Nachweise belegt: ein unabhängiger Labortest, Patente und Unterlagen unseres Herstellers."
+  },
+  "metrics": [
+    {
+      "value": "93 %",
+      "label": "biologischer Abbau innerhalb von 3,5 Jahren in einem unabhängigen Labortest, mit dem Additiv"
+    },
+    {
+      "value": "60+",
+      "label": "Tage Duft (ëkcoscreen 60+, xcrën HD 60+), doppelt so lange wie Standard-30-Tage-Siebe"
+    },
+    {
+      "value": "141 g",
+      "label": "duftendes Material im ëkcoscreen 60+, mehr als das Dreifache eines üblichen Siebs"
+    },
+    {
+      "value": "95 %",
+      "label": "der Siebfläche des ëkcoscreen 60+ mit patentierten Anti-Spritz-Borsten bedeckt"
+    }
+  ],
+  "categories": [
+    {
+      "id": "about",
+      "title": "Über ëkcos",
+      "items": [
+        {
+          "id": "about-1",
+          "question": "Wer ist ëkcos?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcos innovations entwickelt, produziert und vertreibt Urinalsiebe mit Duft, WC-Clips und Lufterfrischer. Wir sind Marktführer in den USA und haben unsere Produkte in mehr als 70 Ländern eingeführt. Unsere Produkte werden in Mexiko hergestellt. Unser Zentrallager in Tschechien beliefert Kunden und Partner in ganz Europa, Asien und Afrika. Vier Dinge:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Spritzschutz. Unsere patentierten Anti-Spritz-Borsten (Sealed Bristles Technology™) bedecken bis zu 95 % des Siebs.",
+                "Lange Duftdauer. ëkcoscreen 60+ und xcrën HD 60+ bieten 60+ Tage Duft, doppelt so lange wie Standard-30-Tage-Siebe.",
+                "Überprüfbare Fakten zum Material. Mit recyceltem EVA hergestellt. Mit dem Additiv Eco-One™ auf der Deponie biologisch abbaubar, wie ein unabhängiger Labortest zeigt.",
+                "Ihre Marke auf dem Produkt. Ihr Logo kann in das Sieb selbst geschnitten werden."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "about-2",
+          "question": "Welches Urinalsieb soll ich wählen?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Wählen Sie nach der Frequentierung und danach, wie oft der Sanitärraum betreut wird. Sieb Duft Größe Ideal für ëkcoscreen 60+ 60+ Tage 20 x 21 cm Stark frequentierte Toiletten. 141 g duftendes Material. Die Borsten bedecken 95 % des Siebs. xcrën HD 60+ 60+ Tage 17 x 18 cm Stark frequentierte Toiletten, in denen die Optik zählt. Patentierte Designform. powër screen bis zu 30 Tage 18 x 20 cm Monatlicher Wechsel. Flexible Form, die in fast alle Urinale passt. üro lite bis zu 30 Tage 13 x 13 cm Kleinere Urinale. Lange, patentierte Borsten. basic scrëen bis zu 30 Tage 20 x 19 cm Monatlicher Wechsel zu einem günstigen Preis. Flexible Form. xcrën puck bis zu 30 Tage 17 x 17 cm Feststoffe und Schmutz vom Abfluss fernhalten. Desodorierender Puck."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urinal-screens",
+      "title": "Urinalsiebe",
+      "items": [
+        {
+          "id": "urinal-screens-1",
+          "question": "Wie lange hält ein Urinalsieb?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcoscreen 60+ und xcrën HD 60+ bieten 60+ Tage Duft, doppelt so lange wie Standard-30-Tage-Siebe. In wenig frequentierten Toiletten halten sie sogar noch länger. powër screen, üro lite, basic scrëen und xcrën puck bieten bis zu 30 Tage Duft und sind damit ideal für die monatliche Pflege. HÄUFIGE FRAGEN"
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-2",
+          "question": "Warum ein Sieb für 60+ Tage wählen?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcoscreen 60+ hält doppelt so lange wie ein Standard-30-Tage-Sieb, bei ähnlichen Kosten pro Tag. Außerdem wechseln Sie es nur halb so oft, sodass Ihr Personal weniger Zeit dafür braucht."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-3",
+          "question": "Wie funktioniert das Anti- Spritz-System?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Unsere Siebe nutzen die Sealed Bristles Technology™, unser eigenes patentiertes Anti-Spritz-System. Dichte Borsten brechen den Urinstrahl und minimieren Urinspritzer. Die Borsten bedecken 95 % des Siebs beim ëkcoscreen 60+ und 92 % beim xcrën HD 60+. üro lite nutzt dieselbe Technologie mit langen Borsten, die in einem kleinen Sieb großen Spritzschutz bieten."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-4",
+          "question": "Gibt es einen Nachweis, dass die Borsten wirken?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Wir haben ëkcoscreen 60+ bei einem UV-Spritztest im direkten Vergleich unter identischen Bedingungen gefilmt: dasselbe Urinalmodell, dieselbe Höhe und derselbe Durchfluss. ëkcoscreen 60+ zeigte keine sichtbaren Spritzer außerhalb des Siebs. Fragen Sie uns nach dem Video. Das Borstensystem selbst ist patentiert."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-5",
+          "question": "Kann ich die Siebe in wasserlosen Urinalen verwenden?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Ja. ëkcoscreen 60+ und xcrën HD 60+ sind ideal für wasserlose Urinale, und auch powër screen, üro lite und basic scrëen sind geeignet. Für den Abfluss eines wasserlosen Urinals siehe ëz trap weiter unten."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-6",
+          "question": "Passt das Sieb in mein Urinal?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "powër screen und basic scrëen haben eine flexible Form, die in fast alle Urinaltypen passt, und üro lite ist für kleinere Urinale entwickelt. Die Größe jedes Siebs finden Sie in der Tabelle oben."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-7",
+          "question": "Wie lege ich ein Urinalsieb ein oder wechsle es?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Tragen Sie Handschuhe. Nehmen Sie das gebrauchte Sieb heraus und geben Sie es in den Restmüll. Packen Sie das neue Sieb aus und legen Sie es flach auf den Boden des Urinals, über den Abfluss, mit den Borsten nach oben. Wechseln Sie es, wenn der Duft nachlässt, oder nach Ihrem üblichen Serviceintervall."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-8",
+          "question": "Wie entsorge ich ein gebrauchtes Sieb?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Geben Sie es in den Restmüll. Das EVA-Material selbst ist recycelbar, ein gebrauchtes Urinalsieb jedoch nicht, da es biologisch kontaminiert ist. Es landet auf der Deponie oder in der Müllverbrennung. Deshalb setzen wir das Additiv Eco-One™ zu, das unser Material auf der Deponie biologisch abbaubar macht."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-9",
+          "question": "Was ist xcrën puck?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "xcrën puck ist ein X-förmiges Urinalsieb mit desodorierendem Puck. Die X-Form verhindert, dass Feststoffe und Schmutz den Abfluss verstopfen, und der Puck gibt bei jeder Benutzung bis zu 30 Tage lang einen frischen Duft ab. Der Puck besteht hauptsächlich aus Wachs und Glycerin und löst sich bei Gebrauch auf. Er lässt sich nicht ersetzen, deshalb wechseln Sie xcrën puck komplett."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-10",
+          "question": "Was bedeutet NON-PARA?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Es bedeutet, dass der Puck im xcrën puck kein Paradichlorbenzol (PARA) enthält, das die WHO als möglicherweise krebserregend einstuft. ëkcos hat nie PARA verwendet. NON-PARA bedeutet nicht parabenfrei. HÄUFIGE FRAGEN"
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-11",
+          "question": "Was ist ëz trap und in welche Urinale passt die Kartusche?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëz trap ist eine Kartusche für wasserlose Urinale. Der Urin fließt durch den Siphon ab, und eine Verschlusskappe dichtet nach jeder Benutzung ab, was hilft, Abflussgerüche zurückzuhalten. Die Kartusche passt in Urinale von Sloan, Falcon, Vitra, Bobrick und anderen Marken, die das Falcon-Velocity-System nutzen (Durchmesser 11,8 cm, Höhe 11,5 cm)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ez-trap-ekco-mat",
+      "title": "ëz trap und ëkco mat",
+      "items": [
+        {
+          "id": "ez-trap-ekco-mat-1",
+          "question": "Wie lange hält ëz trap und wie pflege ich die Kartusche?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Die Kartusche hält 4 bis 6+ Monate und braucht keine teuren Gele oder Spezialreiniger. Gießen Sie täglich ein Glas Wasser in das Urinal, um Kalkablagerungen zu verhindern. Regelmäßige Reinigung mit einem Kalklöser, zum Beispiel einem hochwertigen WC-Gel, verlängert ihre Lebensdauer. ëz trap gibt es mit oder ohne Ausbauwerkzeug. Das Werkzeug ist wiederverwendbar, Sie brauchen es also nur bei Ihrer ersten Bestellung."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-2",
+          "question": "Was ist ëkco mat?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkco mat ist eine saugfähige Einweg-Bodenmatte für den Bereich unter dem Urinal. Mit 54 x 51 cm deckt sie den Bereich um die meisten Standardurinale ab. Die Matte schützt den Boden vor Urin und verringert die Menge an Urin, die über die Schuhsohlen verschleppt wird."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-3",
+          "question": "Wie lange hält frësh drop?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "In Kabinen mit wenig oder keiner Belüftung hält er 30+ Tage, bei geringer Frequentierung 60+ Tage. Wenn der Duft nachlässt, tauschen Sie nur den Einsatz aus. Die Halterung bleibt an der Wand."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "air-fresheners",
+      "title": "Lufterfrischer und WC-Clips",
+      "items": [
+        {
+          "id": "air-fresheners-1",
+          "question": "Wie montiere ich frësh drop und ëkco loop?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Beide sind Systeme aus einer Halterung und einem Dufteinsatz. Befestigen Sie die Halterung auf einer sauberen, trockenen Oberfläche: frësh drop mit dem mitgelieferten Klebeband, ëkco loop dank seiner selbstklebenden Halterung. Bringen Sie dann den Einsatz an. Bei frësh drop hält eine kleine Drehverriegelung den Einsatz an der Halterung, und Ersatzverriegelungen sind erhältlich, falls eine verloren geht. Platzieren Sie ëkco loop nahe der Stelle, an der Sie den Duft haben möchten."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-2",
+          "question": "Wie wird der Duft abgegeben?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Passiv. Das Material ist mit dem Duft versetzt und gibt ihn mit der Zeit nach und nach ab. Sprays, Batterien oder Strom sind nicht nötig. HÄUFIGE FRAGEN"
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-3",
+          "question": "Welche Farben und Düfte gibt es?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Unsere wichtigsten Duftlinien teilen dieselben elf Farben und Düfte: violett / Waldbeere, grün / Apfel, blau / fresh, orange / tropische Früchte, klar / tropische Früchte, schwarz / Minze, Flamme / Mango, grün / Kiefer, rot / Melone, violett / Lavendel und gelb / Zitrone. So kann ein Gebäude vom Urinal bis zur WC-Kabine bei einem Duft bleiben. Unsere Düfte sind leicht zu erkennen: Apfel riecht nach Apfel, Melone nach Melone."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-4",
+          "question": "Was sollte ich zur sicheren Handhabung wissen?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Einige unserer Duftprodukte können allergische Hautreaktionen verursachen. Bitte beachten Sie das Etikett und das Sicherheitsdatenblatt, tragen Sie beim Umgang mit den Produkten Handschuhe und bewahren Sie sie für Kinder unzugänglich auf."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-5",
+          "question": "Was ist Eco-One™?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Eco-One™ ist ein organisches Additiv, hergestellt von EcoLogic, LLC. Wir setzen unserem Material bei der Herstellung etwa 1 % davon zu. Es verändert weder Festigkeit noch Aussehen oder Leistung des Produkts. Wenn das Produkt auf einer biologisch aktiven Deponie landet, wird das Material zu Biogas, CO₂ und Humus abgebaut. Moderne Deponien nutzen das Biogas zur Energiegewinnung."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-6",
+          "question": "Was bedeutet „auf der Deponie biologisch abbaubar“ und wie wurde das getestet?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Es bedeutet, dass unser Material auf einer biologisch aktiven Deponie abgebaut wird, auf der gebrauchte Siebe landen. Das Instituto Politécnico Nacional in Mexiko-Stadt hat EVA von ëkcos mit Eco-One™ nach den Normen ASTM D5511 und ISO 15985 getestet. Es wurde innerhalb von 3,5 Jahren zu 93 % biologisch abgebaut, dasselbe Material ohne das Additiv dagegen zu 0 %. Innerhalb von 5 Jahren werden bis zu 99 % prognostiziert. Das ist eine Prognose auf Basis des gemessenen Verlaufs, kein Messergebnis. Der biologische Abbau hängt von den Bedingungen auf der Deponie ab."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "title": "Materialien, Eco-One™ und Verpackung",
+      "items": [
+        {
+          "id": "materials-1",
+          "question": "Warum nennen Sie Ihre Produkte nicht „umweltfreundlich“?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Seit dem 27. September 2026 erlauben die EU-Regeln (Richtlinie (EU) 2024/825) keine allgemeinen Aussagen wie „umweltfreundlich“, „grün“ oder „nachhaltig“ mehr ohne anerkannten Nachweis einer hervorragenden Umweltleistung. Deshalb sagen wir Ihnen genau, was wir belegen können: mit recyceltem EVA hergestellt, mit Eco-One™ in einem unabhängigen Labortest auf der Deponie biologisch abbaubar und Schachteln aus 100 % Recyclingkarton. HÄUFIGE FRAGEN"
+            }
+          ]
+        },
+        {
+          "id": "materials-2",
+          "question": "Können ëkcos-Produkte recycelt werden?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Das EVA-Material selbst ist recycelbar. Gebrauchte Urinalsiebe und WC-Clips dagegen nicht, da sie biologisch kontaminiert sind, deshalb gehören sie in den Restmüll. Die Einsätze von frësh drop und ëkco loop werden mit recyceltem EVA hergestellt und sind nicht kontaminiert, deshalb ist ihr Material recycelbar. Bitte beachten Sie Ihre örtlichen Entsorgungsvorschriften. Wir bezeichnen unsere Produkte nicht als „100 % recycelbar“, weil das für ein gebrauchtes Sieb nicht zutreffen würde."
+            }
+          ]
+        },
+        {
+          "id": "materials-3",
+          "question": "Welche Verpackung verwenden Sie?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Unsere Produktschachteln und Umkartons bestehen zu 100 % aus recycelter Wellpappe. Die Produktbeutel bestehen aus BOPP, einer Polypropylenfolie. Zu den Beuteln machen wir keine Umweltaussage. Verpackungsdokumentation gemäß der EU-Verordnung über Verpackungen und Verpackungsabfälle (PPWR) steht für Ihre Compliance-Unterlagen zur Verfügung."
+            }
+          ]
+        },
+        {
+          "id": "materials-4",
+          "question": "Kann ich Produkte mit meinem eigenen Logo bekommen?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Ja. Wir können Ihr Logo in das Sieb selbst schneiden und nicht nur auf die Verpackung drucken. So bleibt es über die gesamte Lebensdauer des Produkts erhalten. Ihr Logo kann auch auf das Produkt gedruckt werden. Die Verpackung kann Ihre eigenen Etiketten mit Ihrem Logo und EAN-Codes tragen, und Sie wählen die Farben und Düfte."
+            }
+          ]
+        },
+        {
+          "id": "materials-5",
+          "question": "Welche Produkte können mein Logo tragen?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Die meisten unserer Produkte. Urinalsiebe und ëkco clip können Ihr Logo tragen, ins Material geschnitten oder aufgedruckt. frësh drop erhält Ihr Branding per Aufdruck. ëkco loop bietet keinen Platz für ein Logo."
+            }
+          ]
+        },
+        {
+          "id": "materials-6",
+          "question": "Welche Bedingungen gelten für Private Label?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Die Mindestmengen hängen vom Produkt ab, und pro Produkt mit Branding fällt eine einmalige Einrichtungsgebühr an. Produkte mit Branding werden auf Bestellung gefertigt, mit einer üblichen Produktions- und Lieferzeit von 6 bis 10 Wochen. Sonderanfertigungen werden zu 100 % im Voraus bezahlt. Fordern Sie ein Angebot bei uns an."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "private-label",
+      "title": "Private Label",
+      "items": [
+        {
+          "id": "private-label-1",
+          "question": "Wie schnell versenden Sie Partnerbestellungen?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Partnerbestellungen versenden wir innerhalb von 3 bis 5 Werktagen. Ist ein Produkt vorübergehend nicht vorrätig, versenden wir es in der Regel innerhalb eines Monats, da regelmäßig neue Ware aus Mexiko in unserem Lager eintrifft."
+            }
+          ]
+        },
+        {
+          "id": "private-label-2",
+          "question": "Wie versenden Sie und wie lange dauert die Lieferung?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Innerhalb Tschechiens versenden wir Pakete und Paletten mit FOFR. In andere EU-Länder versenden wir Pakete mit FedEx und Paletten mit DSV. Die Lieferung innerhalb der EU dauert in der Regel etwa 5 Tage ab Versand, in Länder nahe Tschechien kürzer, zum Beispiel 1 bis 2 Tage nach Deutschland und Österreich und 3 bis 4 Tage nach Italien, Frankreich und in die Niederlande. Außerhalb der EU erstellen wir für jede Bestellung ein Transportangebot, und viele Partner organisieren ihren Transport selbst. Die Transportkosten berechnen wir für jede Bestellung. HÄUFIGE FRAGEN"
+            }
+          ]
+        },
+        {
+          "id": "private-label-3",
+          "question": "Kann ich Muster bekommen?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Ja. Fordern Sie Muster bei uns an, damit Sie und Ihre Kunden unsere Produkte und Düfte mit denen jedes anderen Anbieters vergleichen können."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "working-with",
+      "title": "Zusammenarbeit mit ëkcos",
+      "items": [
+        {
+          "id": "working-with-1",
+          "question": "Welche Unterlagen kann ich von Ihnen bekommen?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "Prüfzertifikat zum biologischen Abbau vom Instituto Politécnico Nacional, Mexiko-Stadt (ASTM D5511 und ISO 15985).",
+                "Infoblatt zu Eco-One™, das das Additiv und den Test erklärt.",
+                "PPWR-Verpackungsdokumentation unseres Herstellers, nur für Ihre Compliance-Unterlagen. Bitte geben Sie die Lieferantenerklärungen an niemanden außer den Behörden weiter.",
+                "Patente für die Sealed Bristles Technology™ und unsere Siebformen.",
+                "Sicherheitsdatenblätter für unsere Duftprodukte.",
+                "Video des UV-Spritztests mit ëkcoscreen 60+."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "working-with-2",
+          "question": "Welche Marketing- Unterstützung bieten Sie?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "Professionelle Produktfotos und Videos, einschließlich des UV-Spritztests.",
+                "Sofort nutzbare Produkttexte in 22 Sprachen.",
+                "Logos und Markengrafiken.",
+                "Vergleichsleitfaden, Infoblatt zu Eco-One™, Prüfzertifikat, PPWR- Dokumentation und Sicherheitsdatenblätter."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "working-with-3",
+          "question": "Warum haben sich Ihre Produkttexte geändert?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Für Produktinformationen und Verpackungen gelten jetzt zwei neue EU-Regeln: seit dem 27. September 2026 die Richtlinie (EU) 2024/825 (neue Regeln für Umweltaussagen) und seit dem 12. August 2026 die Verordnung (EU) 2025/40 über Verpackungen und Verpackungsabfälle (PPWR). Wir haben jede Aussage anhand dieser Regeln geprüft. Unsere neuen Texte enthalten nur konkrete Umweltaussagen, die durch Nachweise belegt sind. Bitte verwenden Sie sie in Ihrem Onlineshop, Ihren Katalogen und Angeboten."
+            }
+          ]
+        },
+        {
+          "id": "working-with-4",
+          "question": "Welche älteren Aussagen sollte ich entfernen?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "Allgemeine Begriffe wie „umweltfreundlich“, „grün“, „ökologisch“ oder „nachhaltig“, auch für Verpackungen.",
+                "„Cellophanbeutel“ oder „Cellophanverpackung“. Unsere Beutel bestehen aus BOPP.",
+                "„100 % recycelbar“. Unsere neuen Texte sagen genau, was recycelt werden kann.",
+                "„99 % biologisch abbaubar innerhalb von 5 Jahren“ als Testergebnis. Gemessen wurden im Test 93 % innerhalb von 3,5 Jahren. Bis zu 99 % innerhalb von 5 Jahren sind eine Prognose.",
+                "„Biologisch abbaubar“ allein in Produktnamen oder Titeln. Bitte schreiben Sie „auf der Deponie biologisch abbaubar“.",
+                "Jede Aussage über Bakterien, Viren, Keime oder Gesundheitsschutz.",
+                "Aussagen zu VOC und Toxizität wie „entspricht den europäischen VOC- Normen“, „VOC-frei“ oder „für die Umwelt ungiftig“.",
+                "Absolute Versprechen wie „eliminiert Rückspritzer“ oder „geruchsfrei“.",
+                "„Parabenfrei“ für NON-PARA. NON-PARA bedeutet, dass der Puck kein Paradichlorbenzol enthält.",
+                "„60+ Tage“ allein für frësh drop. Bitte schreiben Sie „30+ Tage in Kabinen mit wenig Belüftung und 60+ Tage bei geringer Frequentierung“. HÄUFIGE FRAGEN Bitte verwenden Sie unsere freigegebenen Texte, die in 22 Sprachen vorliegen. Wenn Sie sie kürzen oder anpassen, behalten Sie jede Bedingung bei, die zu einer Aussage gehört, zum Beispiel „auf der Deponie“, „mit recyceltem EVA hergestellt“ und den Unterschied zwischen den gemessenen 93 % und den prognostizierten 99 %."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "title": "Haben Sie noch eine Frage?",
+    "body": "Wenden Sie sich an Ihren Ansprechpartner im Vertrieb von ëkcos oder eingeführt. Zu unserer Website Zentrallager in Tschechien, das Partner in ganz Europa, Asien und Afrika ekcos.eu beliefert."
+  },
+  "footnote": "Datenquelle: unabhängiger Test zum biologischen Abbau nach ASTM D5511-02 und ISO 15985:2014 (Instituto Politécnico Nacional, Mexiko-Stadt). Produkt von ëkcos mit 1 % des Additivs Eco-One™: 93,31 % biologischer Abbau in 1.288 Tagen (etwa 3,5 Jahre). Dasselbe Produkt ohne das Additiv: 0 %. Bis zu 99 % innerhalb von 5 Jahren werden aus dem gemessenen Verlauf prognostiziert. Der biologische Abbau hängt von den Bedingungen auf der Deponie ab. Eco-One™ ist eine Marke von EcoLogic, LLC."
+}

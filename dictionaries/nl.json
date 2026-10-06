@@ -13,7 +13,13 @@
     "contactTitle": "Contact",
     "contactDescription": "Bereik het ëkcos-team voor specificaties, programma's en partnerschappen.",
     "privateLabelTitle": "Privélabel",
-    "privateLabelDescription": "Verkoop ëkcos toiletproducten onder uw eigen merk — private label voor distributeurs."
+    "privateLabelDescription": "Verkoop ëkcos toiletproducten onder uw eigen merk — private label voor distributeurs.",
+    "faqTitle": "FAQ",
+    "faqDescription": "Duidelijke antwoorden over ëkcos-producten, materialen, Eco-One™, private label en bestellingen.",
+    "faqDistributorsTitle": "FAQ voor distributeurs",
+    "faqDistributorsDescription": "Antwoorden voor partners over producten, materialen, documenten en samenwerking met ëkcos.",
+    "faqEshopTitle": "FAQ voor de webshop",
+    "faqEshopDescription": "Antwoorden over producten, levering, betaling, retouren en bestellingen op eshop.ekcos.eu."
   },
   "LocaleSwitcher": {
     "label": "Taal",
@@ -51,7 +57,9 @@
       "label": "Privélabel"
     },
     "faq": {
-      "label": "Veelgestelde vragen"
+      "label": "Veelgestelde vragen",
+      "distributors": "Distributeurs",
+      "eshop": "Webshop"
     }
   },
   "footer": {
@@ -747,6 +755,30 @@
       "error": "Er is iets misgegaan. Probeer het over enkele ogenblikken opnieuw.",
       "alertSelect": "Voer voor minimaal één product een aantal in. U hoeft niet elk product te bestellen.",
       "boundaryError": "Het aanvraagformulier kon niet worden geladen. Vernieuw de pagina of stuur een e-mail naar support@ekcos.eu."
+    }
+  },
+  "faq": {
+    "error": "Dit FAQ-onderdeel kon niet worden geladen. Vernieuw de pagina.",
+    "tocLabel": "In deze FAQ",
+    "switchLabel": "Op zoek naar een andere FAQ?",
+    "nav": {
+      "distributors": "Distributeurs",
+      "eshop": "Webshop"
+    },
+    "audiences": {
+      "distributors": {
+        "eyebrow": "Voor partners"
+      },
+      "eshop": {
+        "eyebrow": "Voor webshopklanten"
+      }
+    },
+    "hub": {
+      "title": "FAQ",
+      "tagline": "Uw vragen, onze feiten",
+      "intro": "Kies de FAQ die past bij hoe u bij ëkcos koopt — als distributiepartner of als webshopklant.",
+      "distributorsDescription": "Producten, materialen, Eco-One™, private label, documenten en samenwerking met ëkcos.",
+      "eshopDescription": "Producten, bestellingen, betaling, levering, retouren en winkelen op eshop.ekcos.eu."
     }
   }
 }

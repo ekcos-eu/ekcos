@@ -1,0 +1,277 @@
+{
+  "hero": {
+    "title": "FAQ",
+    "tagline": "As suas perguntas, os. nossos factos",
+    "intro": "Aqui encontra respostas claras às perguntas que os nossos clientes fazem com mais frequência, desde a escolha do tapete para urinol mais adequado até à entrega e às devoluções. Cada alegação ambiental é específica e fundamentada com provas, como um ensaio laboratorial"
+  },
+  "metrics": [],
+  "categories": [
+    {
+      "id": "about",
+      "title": "Sobre a ëkcos",
+      "items": [
+        {
+          "id": "about-1",
+          "question": "Quem é a ëkcos?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "A ëkcos innovations desenvolve, fabrica e distribui tapetes perfumados para urinol, clips ambientadores para sanita e ambientadores. Somos líderes de mercado nos Estados Unidos e já introduzimos os nossos produtos em mais de 70 países. Os nossos produtos são fabricados no México. O nosso armazém central na República Checa abastece clientes e parceiros em toda a Europa, Ásia e África. Quatro coisas:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Proteção contra salpicos. As nossas cerdas anti-salpicos patenteadas (Sealed Bristles Technology™) cobrem até 95% do tapete.",
+                "Longa duração da fragrância. O ëkcoscreen 60+ e o xcrën HD 60+ oferecem 60+ dias de fragrância, o dobro do tempo dos tapetes convencionais de 30 dias.",
+                "Factos sobre o material que pode verificar. Fabricado com EVA reciclado. Biodegradável em aterro com o aditivo Eco-One™, como demonstra um ensaio laboratorial independente.",
+                "A sua marca no produto. O seu logótipo pode ser recortado no próprio tapete."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "about-2",
+          "question": "Que tapete para urinol devo escolher?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Escolha em função da afluência e da frequência com que faz a manutenção da casa de banho. Tapete Fragrância Tamanho Ideal para ëkcoscreen 60+ 60+ dias 20 x 21 cm Casas de banho de grande afluência. 141 g de material perfumado. As cerdas cobrem 95% do tapete. xcrën HD 60+ 60+ dias 17 x 18 cm Casas de banho de grande afluência onde o visual conta. Forma de design patenteada. powër screen até 30 dias 18 x 20 cm Troca mensal. Forma flexível que se adapta a quase todos os urinóis. üro lite até 30 dias 13 x 13 cm Urinóis mais pequenos. Cerdas longas patenteadas. xcrën puck até 30 dias 17 x 17 cm Manter sólidos e detritos fora do ralo. Pastilha desodorizante. O ëkcoscreen 60+ e o xcrën HD 60+ oferecem 60+ dias de fragrância, o dobro do tempo dos tapetes convencionais de 30 dias. Em casas de banho de pouca afluência, duram ainda mais. O powër screen, o üro lite e o xcrën puck oferecem até 30 dias, o que os torna ideais para a manutenção mensal. O ëkcoscreen 60+ dura o dobro do tempo de um tapete convencional de 30 dias, com um custo diário semelhante. Além disso, substitui-o com metade da frequência, pelo que a sua equipa gasta menos tempo nesta tarefa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urinal-screens",
+      "title": "Tapetes para urinol",
+      "items": [
+        {
+          "id": "urinal-screens-1",
+          "question": "Como funciona o sistema anti-salpicos?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Os nossos tapetes utilizam a Sealed Bristles Technology™, o nosso próprio sistema anti-salpicos patenteado. As cerdas densas quebram o jato de urina e minimizam os salpicos de urina. As cerdas cobrem 95% do ëkcoscreen 60+ e 92% do xcrën HD 60+. O üro lite utiliza a mesma tecnologia com cerdas longas, que oferecem uma grande proteção contra salpicos num tapete pequeno."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-2",
+          "question": "Há provas de que as cerdas funcionam?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Filmámos o ëkcoscreen 60+ num teste comparativo de salpicos com luz UV, lado a lado e em condições idênticas: o mesmo modelo de urinol, a mesma altura e o mesmo caudal. O ëkcoscreen 60+ não apresentou salpicos visíveis fora do tapete. Peça-nos o vídeo. O próprio sistema de cerdas é patenteado."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-3",
+          "question": "Posso utilizar os tapetes em urinóis sem água?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Sim. O ëkcoscreen 60+ e o xcrën HD 60+ são ideais para urinóis sem água, e o powër screen e o üro lite também são adequados. Para o ralo de um urinol sem água, veja o ëz trap mais abaixo. O powër screen tem uma forma flexível que se adapta a quase todos os tipos de urinol, e o üro lite foi concebido para urinóis mais pequenos. Encontra o tamanho de cada tapete na tabela acima."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-4",
+          "question": "Como coloco ou troco um tapete para urinol?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Use luvas. Retire o tapete usado e deite-o no lixo indiferenciado. Desembale o tapete novo e coloque-o bem assente no fundo do urinol, sobre o ralo, com as cerdas viradas para cima. Substitua-o quando a fragrância se desvanecer ou no seu intervalo habitual de manutenção."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-5",
+          "question": "Como me desfaço de um tapete usado?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Deite-o no lixo indiferenciado. O material EVA em si pode ser reciclado, mas um tapete para urinol usado não, porque está biologicamente contaminado. Acaba em aterro ou na incineração. É por isso que adicionamos o aditivo Eco-One™, que torna o nosso material biodegradável em aterro. O xcrën puck é um tapete para urinol em forma de X com uma pastilha desodorizante. A forma em X impede que sólidos e detritos entupam o ralo, e a pastilha liberta uma fragrância fresca a cada utilização, durante até 30 dias. A pastilha é feita principalmente de cera e glicerina e dissolve-se com a utilização. Não pode ser substituída, pelo que se troca o xcrën puck inteiro. Significa que a pastilha do xcrën puck não contém paradiclorobenzeno (PARA), que a OMS classifica como possivelmente cancerígeno. A ëkcos nunca utilizou PARA. NON-PARA não significa sem parabenos."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-6",
+          "question": "Que ambientador devo escolher?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "frësh drop: para cabines de WC e casas de banho. 30+ dias de fragrância em cabines com pouca ventilação e 60+ dias com pouca afluência, sem pilhas nem eletricidade.",
+                "ëkco clip: prende-se à sanita e oferece até 30 dias de fragrância. A sua forma flexível adapta-se a quase todos os tipos de sanita.",
+                "ëkco loop: ambientador compacto para espaços pequenos com pouca circulação de ar, como debaixo de secretárias, dentro de tampas de caixotes do lixo, roupeiros e sapateiras. Até 30 dias. Para cabines de WC, escolha o frësh drop. Em cabines com pouca ou nenhuma ventilação dura 30+ dias e, com pouca afluência, 60+ dias. Quando a fragrância se desvanecer, substitui apenas a recarga. A base fica na parede."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-7",
+          "question": "Como instalo o frësh drop e o ëkco loop?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Ambos são sistemas compostos por uma base e uma recarga de fragrância. Fixe a base numa superfície limpa e seca: o frësh drop com a fita adesiva incluída, o ëkco loop com a sua base de montagem adesiva. Depois, encaixe a recarga. No frësh drop, um pequeno fecho rotativo prende a recarga à base, e há fechos de substituição disponíveis caso algum se perca. Coloque o ëkco loop perto do local onde quer a fragrância."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-8",
+          "question": "Como é libertada a fragrância?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "De forma passiva. A fragrância está impregnada no material e é libertada gradualmente ao longo do tempo. Não são necessários sprays, pilhas nem eletricidade."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-9",
+          "question": "Que cores e fragrâncias estão disponíveis?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "As nossas principais linhas partilham as mesmas onze cores e fragrâncias: roxo / frutos silvestres, verde / maçã, azul / fresh, laranja / frutos tropicais, transparente / frutos tropicais, preto / menta, chama / manga, verde / pinho, vermelho / melão, roxo / lavanda e amarelo / citrinos. Assim, um edifício pode manter um único aroma, do urinol à cabine. Os nossos aromas são fáceis de reconhecer: a maçã cheira a maçã, o melão a melão. Alguns dos nossos produtos perfumados podem provocar uma reação alérgica cutânea. Siga as indicações do rótulo e da ficha de dados de segurança, use luvas quando manusear os produtos e mantenha-os fora do alcance das crianças."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-10",
+          "question": "Que embalagens utilizam?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "As caixas dos nossos produtos e as caixas de transporte são feitas de cartão canelado 100% reciclado. Os sacos dos produtos são feitos de BOPP, uma película de polipropileno. Não fazemos qualquer alegação ambiental sobre os sacos."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-11",
+          "question": "Posso ver o certificado do ensaio e outros documentos?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Sim. Os clientes empresariais podem pedir-nos o certificado do ensaio de biodegradação, o nosso folheto Eco-One™, as fichas de dados de segurança e a documentação das nossas embalagens. Escreva para support@ekcos.eu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ez-trap-ekco-mat",
+      "title": "ëz trap e ëkco mat",
+      "items": [
+        {
+          "id": "ez-trap-ekco-mat-1",
+          "question": "Posso ter produtos com o meu próprio logótipo?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Sim. Podemos recortar o seu logótipo no próprio tapete, e não apenas imprimi- lo na embalagem, pelo que se mantém durante toda a vida útil do produto. O seu logótipo também pode ser impresso no produto. A embalagem pode ter as suas próprias etiquetas com o seu logótipo e códigos EAN, e as cores e fragrâncias são escolhidas por si."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-2",
+          "question": "Que produtos podem ter o meu logótipo?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "A maioria dos nossos produtos. Os tapetes para urinol e o ëkco clip podem ter o seu logótipo recortado no material ou impresso. O frësh drop é personalizado por impressão. O ëkco loop não tem espaço para um logótipo. Os produtos personalizados são fabricados por encomenda. O prazo habitual de produção e entrega é de 6 a 10 semanas. Há uma taxa única de preparação por produto, e as encomendas personalizadas são pagas a 100% antecipadamente. Encontra as taxas atuais na nossa página de personalização."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-3",
+          "question": "Quem pode comprar na loja online?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Empresas e particulares de todos os países da UE. As empresas registadas para efeitos de IVA num país da UE que não a República Checa podem comprar com IVA a 0%. Não. Alguns produtos são vendidos à unidade, outros em embalagens de duas unidades. O nome do produto indica-o sempre."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "air-fresheners",
+      "title": "Ambientadores e clips para sanita",
+      "items": [
+        {
+          "id": "air-fresheners-1",
+          "question": "Que métodos de pagamento aceitam?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Cartões de pagamento como Visa, Mastercard, Maestro e American Express, Apple Pay, Google Pay e Shop Pay, métodos locais como Bancontact, BLIK, MB WAY e MobilePay, e transferência bancária. Na finalização da compra, são apresentados os métodos disponíveis no seu país. Sim, se a sua empresa estiver registada para efeitos de IVA num país da UE que não a República Checa. Na finalização da compra, introduza a denominação social da sua empresa e o seu número de IVA com o prefixo do país, por exemplo DE123456789. Verificamos o número em tempo real na base de dados VIES da UE. Se for válido, o IVA passa para 0% (autoliquidação). As empresas checas pagam IVA checo, porque faturamos com um número de IVA checo. Introduza o seu número de IVA antes de pagar. Se se esqueceu, escreva-nos. Encontra mais informações no nosso guia B2B e IVA a 0%. Sim. Cada encomenda inclui uma fatura com IVA. Se precisar de uma cópia, escreva para support@ekcos.eu. Enviamos as encomendas da loja online no prazo de 1 a 2 dias úteis após o pagamento. Se um produto estiver temporariamente esgotado, normalmente enviamo-lo no prazo de um mês, porque chegam regularmente novas mercadorias ao nosso armazém. Entregamos em todos os países da UE. A entrega demora normalmente cerca de 5 dias após a expedição, e menos nos países próximos da República Checa. Por exemplo, para a Alemanha e a Áustria demora 1 a 2 dias, e para a Itália, a França e os Países Baixos 3 a 4 dias. Para entregas fora da UE, escreva-nos."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-2",
+          "question": "Que transportadoras utilizam?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Na República Checa enviamos com a FOFR e para os outros países da UE com a FedEx. Quando a sua encomenda estiver a caminho, recebe as informações de seguimento por e-mail. O envio é gratuito em encomendas acima de 120 EUR, exceto para Chipre e Malta. Abaixo de 120 EUR, os portes custam: Portes Países 3,90 EUR República Checa 4,90 EUR Alemanha, Áustria, Eslováquia, Hungria, Polónia 5,90 EUR Bélgica, Eslovénia, Itália, Luxemburgo, Países Baixos, Roménia 7,90 EUR França 8,90 EUR Croácia, Dinamarca, Espanha, Grécia, Suécia 9,90 EUR Bulgária, Estónia, Finlândia, Irlanda, Letónia, Lituânia 10,90 EUR Portugal 16,90 EUR Chipre, Malta (sem portes grátis) Na finalização da compra, vê o valor exato na sua moeda."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-3",
+          "question": "Posso devolver um produto?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Sim. Pode devolver produtos não utilizados na embalagem original no prazo de 30 dias após a entrega. Escreva primeiro para support@ekcos.eu. Enviamos-lhe uma etiqueta de devolução e as instruções. Depois de aprovarmos a devolução, reembolsamos o valor através do método de pagamento original no prazo de 10 dias úteis. Os produtos personalizados não podem ser devolvidos. Verifique a sua encomenda no momento da entrega. Se algo estiver danificado, errado ou em falta, escreva de imediato para support@ekcos.eu, de preferência com fotografias. Vamos resolver a situação."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-4",
+          "question": "Posso obter amostras ou um preço para volumes maiores?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Sim. As empresas podem pedir-nos amostras. Para volumes maiores ou entregas regulares, escreva para support@ekcos.eu. Preparamos uma proposta ou pomo-lo em contacto com o nosso parceiro no seu país."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-5",
+          "question": "Como posso contactar- vos?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Escreva para support@ekcos.eu ou utilize o formulário de contacto da nossa loja online. A loja online é gerida pela Ekcos Europe OÜ, Saani tn 2/2-26, 10149 Tallinn, Estónia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "title": "Materiais, Eco-One™ e embalagem",
+      "items": []
+    },
+    {
+      "id": "private-label",
+      "title": "Marca do cliente",
+      "items": []
+    },
+    {
+      "id": "orders",
+      "title": "Encomendas, pagamento e entrega",
+      "items": []
+    }
+  ],
+  "contact": {
+    "title": "Ainda tem alguma dúvida?",
+    "body": "Escreva para support@ekcos.eu. Teremos todo o gosto em ajudar. Líder de mercado nos Estados Unidos, com produtos introduzidos em mais de 70 países. Armazém central na República Checa, que abastece parceiros em toda a Visite a nossa loja online Europa, Ásia e África. eshop.ekcos.eu Fonte dos dados: ensaio de biodegradação independente segundo as normas ASTM D5511-02 e ISO 15985:2014 (Instituto Politécnico Nacional, Cidade do México). Produto ëkcos com 1% de aditivo Eco-One™: 93,31% de biodegradação em 1 288 dias (cerca de 3,5 anos). O mesmo produto sem o aditivo: 0%. Prevê-se até 99% em 5 anos, com base na tendência medida. A biodegradação depende das condições do aterro. Eco-One™ é uma marca comercial da EcoLogic, LLC."
+  },
+  "footnote": ""
+}

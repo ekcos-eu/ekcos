@@ -1,0 +1,387 @@
+{
+  "hero": {
+    "title": "FAQ",
+    "tagline": "Întrebările. dumneavoastră, faptele",
+    "intro": "Aici găsiți răspunsuri clare la întrebările pe care clienții noștri ni le pun cel mai des, de la alegerea sitei potrivite pentru pisoar până la livrare și retururi. Fiecare afirmație de mediu este specifică și susținută de dovezi, cum ar fi un test de laborator independent."
+  },
+  "metrics": [
+    {
+      "value": "93%",
+      "label": "biodegradare în 3,5 ani, într-un test de laborator independent, cu aditivul Eco-One™"
+    },
+    {
+      "value": "60+",
+      "label": "de zile de parfum (ëkcoscreen 60+, xcrën HD 60+), de două ori mai mult decât sitele standard de 30 de zile"
+    },
+    {
+      "value": "141 g",
+      "label": "de material parfumat în ëkcoscreen 60+, de peste trei ori mai mult decât o sită obișnuită"
+    },
+    {
+      "value": "95%",
+      "label": "din suprafața sitei ëkcoscreen 60+ acoperită cu peri antistropire brevetați"
+    }
+  ],
+  "categories": [
+    {
+      "id": "about",
+      "title": "Despre ëkcos",
+      "items": [
+        {
+          "id": "about-1",
+          "question": "Ce sită pentru pisoar să aleg?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Alegeți în funcție de trafic și de cât de des întrețineți toaleta. Sită Parfum Dimensiuni Ideală pentru ëkcoscreen 60+ 60+ de zile 20 x 21 cm Toalete cu trafic intens. 141 g de material parfumat. Perii acoperă 95% din sită. xcrën HD 60+ 60+ de zile 17 x 18 cm Toalete cu trafic intens, unde aspectul contează. Formă de design brevetată. powër screen până la 30 de 18 x 20 cm Schimbare lunară. Formă zile flexibilă care se potrivește la aproape toate pisoarele. üro lite până la 30 de 13 x 13 cm Pisoare mai mici. Peri lungi zile brevetați. xcrën puck până la 30 de 17 x 17 cm Protejarea scurgerii de solide și zile reziduuri. Tabletă dezodorizantă. ëkcoscreen 60+ și xcrën HD 60+ oferă parfum timp de 60+ de zile, de două ori mai mult decât sitele standard de 30 de zile. În toaletele cu trafic redus durează și mai mult. powër screen, üro lite și xcrën puck oferă până la 30 de zile, ceea ce le face ideale pentru întreținerea lunară. ëkcoscreen 60+ durează de două ori mai mult decât o sită standard de 30 de zile, la un cost pe zi similar. În plus, o înlocuiți de două ori mai rar, așa că personalul dumneavoastră petrece mai puțin timp cu înlocuirea ei."
+            }
+          ]
+        },
+        {
+          "id": "about-2",
+          "question": "Cum funcționează sistemul antistropire?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Sitele noastre folosesc Sealed Bristles Technology™, propriul nostru sistem antistropire brevetat. Perii deși sparg jetul de urină și reduc la minimum stropii de urină. Perii acoperă 95% din sita ëkcoscreen 60+ și 92% din sita xcrën HD 60+. üro lite folosește aceeași tehnologie cu peri lungi, care oferă o protecție mare împotriva stropilor într-o sită mică."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urinal-screens",
+      "title": "Site pentru pisoar",
+      "items": [
+        {
+          "id": "urinal-screens-1",
+          "question": "Există dovezi că perii funcționează?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Am filmat sita ëkcoscreen 60+ într-un test comparativ de stropire cu lumină UV, efectuat în paralel, în condiții identice: același model de pisoar, aceeași înălțime și același debit. ëkcoscreen 60+ nu a lăsat niciun strop vizibil în afara sitei. Cereți-ne videoclipul. Sistemul de peri în sine este brevetat."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-2",
+          "question": "Pot folosi sitele în pisoare fără apă?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Da. ëkcoscreen 60+ și xcrën HD 60+ sunt ideale pentru pisoare fără apă, iar powër screen și üro lite sunt de asemenea potrivite. Pentru scurgerea unui pisoar fără apă, vedeți ëz trap mai jos. powër screen are o formă flexibilă care se potrivește la aproape toate tipurile de pisoare, iar üro lite este concepută pentru pisoare mai mici. Dimensiunile fiecărei site le găsiți în tabelul de mai sus."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-3",
+          "question": "Cum pun sau schimb o sită pentru pisoar?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Purtați mănuși. Scoateți sita folosită și aruncați-o la deșeurile menajere. Despachetați sita nouă și așezați-o întinsă pe fundul pisoarului, peste scurgere, cu perii în sus. Înlocuiți-o când parfumul se estompează sau la intervalul obișnuit de întreținere."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-4",
+          "question": "Cum arunc o sită folosită?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Aruncați-o la deșeurile menajere. Materialul EVA în sine poate fi reciclat, dar o sită de pisoar folosită nu, deoarece este contaminată biologic. Ajunge în depozitele de deșeuri sau la incinerare. De aceea adăugăm aditivul Eco-One™, care face materialul nostru biodegradabil în depozitele de deșeuri."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-5",
+          "question": "Ce este xcrën puck?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "xcrën puck este o sită pentru pisoar în formă de X, cu tabletă dezodorizantă. Forma în X împiedică solidele și reziduurile să înfunde scurgerea, iar tableta eliberează un parfum proaspăt la fiecare utilizare, timp de până la 30 de zile. Tableta este fabricată în principal din ceară și glicerină și se dizolvă odată cu utilizarea. Nu poate fi înlocuită, așa că schimbați întreaga sită xcrën puck."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-6",
+          "question": "Ce înseamnă NON-PARA?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Înseamnă că tableta din xcrën puck nu conține paradiclorbenzen (PARA), pe care OMS îl clasifică drept posibil cancerigen. ëkcos nu a folosit niciodată PARA. NON-PARA nu înseamnă fără parabeni."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-7",
+          "question": "Ce este ëz trap și la ce pisoare se potrivește?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëz trap este un cartuș pentru pisoare fără apă. Urina curge prin sifon, iar un capac se închide etanș după fiecare utilizare, ceea ce ajută la blocarea mirosurilor din canalizare. Este potrivit pentru Sloan, Falcon, Vitra, Bobrick și alte mărci care folosesc sistemul Falcon Velocity (diametru 11,8 cm, înălțime 11,5 cm). Cartușul rezistă între 4 și 6+ luni și nu necesită geluri costisitoare sau soluții de curățare speciale. Turnați în fiecare zi un pahar cu apă în pisoar, pentru a preveni depunerile de calcar. Curățarea regulată cu un agent anticalcar, de exemplu un gel WC de calitate, îi prelungește durata de viață. ëz trap se vinde cu sau fără instrumentul de extragere. Instrumentul este reutilizabil, așa că aveți nevoie de el doar la prima comandă."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-8",
+          "question": "Ce este ëkco mat?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkco mat este un covoraș de podea absorbant, de unică folosință, pentru zona de sub pisoar. Cu dimensiunile de 54 x 51 cm, acoperă zona din jurul majorității pisoarelor standard. Protejează pardoseala de urină și reduce urina purtată pe tălpile încălțămintei."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-9",
+          "question": "Ce odorizant de cameră să aleg?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "frësh drop: pentru cabine de toaletă și grupuri sanitare. Parfum timp de 30+ de zile în cabine cu ventilație redusă și 60+ de zile la trafic redus, fără baterii sau electricitate.",
+                "ëkco clip: se prinde pe vasul de toaletă și oferă parfum timp de până la 30 de zile. Forma flexibilă se potrivește pe aproape toate tipurile de vase de toaletă.",
+                "ëkco loop: odorizant compact pentru spații mici, cu circulație redusă a aerului, precum sub birouri, în capacele coșurilor de gunoi, în dulapuri și pantofare. Până la 30 de zile. Pentru cabinele de toaletă, alegeți frësh drop. În cabinele cu ventilație redusă sau inexistentă durează 30+ de zile, iar la trafic redus 60+ de zile. Când parfumul se estompează, înlocuiți doar rezerva. Baza rămâne pe perete."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-10",
+          "question": "Cum montez frësh drop și ëkco loop?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Ambele sunt sisteme formate dintr-o bază și o rezervă de parfum. Fixați baza pe o suprafață curată și uscată: frësh drop cu banda adezivă inclusă, ëkco loop cu baza sa adezivă de montaj. Apoi atașați rezerva. La frësh drop, un mic sistem de blocare prin răsucire fixează rezerva pe bază, iar dacă se pierde unul, sunt disponibile sisteme de blocare de schimb. Așezați ëkco loop aproape de locul în care doriți parfumul."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-11",
+          "question": "Cum se eliberează parfumul?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Pasiv. Parfumul este impregnat în material și se eliberează treptat, în timp. Nu sunt necesare spray-uri, baterii sau electricitate."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ez-trap-ekco-mat",
+      "title": "ëz trap și ëkco mat",
+      "items": [
+        {
+          "id": "ez-trap-ekco-mat-1",
+          "question": "Ce culori și parfumuri sunt disponibile?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Principalele noastre linii au aceleași unsprezece culori și parfumuri: mov / fructe de pădure, verde / măr, albastru / fresh, portocaliu / fructe tropicale, transparent / fructe tropicale, negru / mentă, flacără / mango, verde / pin, roșu / pepene galben, mov / lavandă și galben / citrice. Astfel, o clădire poate păstra un singur parfum, de la pisoar până la cabina de toaletă. Aromele noastre sunt ușor de recunoscut: mărul miroase a măr, pepenele galben a pepene galben."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-2",
+          "question": "Ce trebuie să știu despre manipularea în siguranță?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Unele dintre produsele noastre parfumate pot provoca o reacție alergică a pielii. Vă rugăm să respectați eticheta și fișa cu date de securitate, să purtați mănuși când manipulați produsele și să nu le lăsați la îndemâna copiilor."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-3",
+          "question": "Ce este Eco-One™?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Eco-One™ este un aditiv organic produs de EcoLogic, LLC. Adăugăm aproximativ 1% din acest aditiv în materialul nostru în timpul producției. Nu modifică rezistența, aspectul sau performanța produsului. Când produsul ajunge într-un depozit de deșeuri biologic activ, materialul se descompune în biogaz, CO₂ și humus. Depozitele de deșeuri moderne folosesc biogazul pentru producerea de energie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "air-fresheners",
+      "title": "Odorizante de cameră și odorizante WC cu clips",
+      "items": [
+        {
+          "id": "air-fresheners-1",
+          "question": "Ce înseamnă „biodegradabil în depozitele de deșeuri” și cum a fost testat?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Înseamnă că materialul nostru se descompune într-un depozit de deșeuri biologic activ, unde ajung sitele folosite. Instituto Politécnico Nacional din Ciudad de México a testat materialul EVA ëkcos cu Eco-One™ conform standardelor ASTM D5511 și ISO 15985. Acesta a atins o biodegradare de 93% în 3,5 ani, în timp ce același material fără aditiv a înregistrat 0%. Se estimează până la 99% în 5 ani. Aceasta este o proiecție pe baza tendinței măsurate, nu un rezultat măsurat. Biodegradarea depinde de condițiile din depozitul de deșeuri. Din 27 septembrie 2026, normele UE (Directiva (UE) 2024/825) nu mai permit afirmații generice precum „ecologic”, „verde” sau „sustenabil” fără o dovadă recunoscută a unei performanțe de mediu excelente. De aceea vă spunem exact ce putem dovedi: fabricat cu EVA reciclat, biodegradabil în depozitele de deșeuri cu Eco-One™ într-un test de laborator independent și cutii din carton 100% reciclat."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-2",
+          "question": "Pot fi reciclate produsele ëkcos?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Materialul EVA în sine poate fi reciclat. O sită de pisoar folosită sau un odorizant WC cu clips folosit nu poate fi reciclat, deoarece este contaminat biologic, așa că se aruncă la deșeurile menajere. Rezervele frësh drop și ëkco loop sunt fabricate cu EVA reciclat și nu sunt contaminate, așa că materialul lor poate fi reciclat. Vă rugăm să respectați regulile locale privind deșeurile. Nu spunem că produsele noastre sunt „100% reciclabile”, pentru că acest lucru nu ar fi adevărat pentru o sită folosită."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-3",
+          "question": "Ce ambalaje folosiți?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Cutiile produselor noastre și cutiile de transport sunt fabricate din carton ondulat 100% reciclat. Pungile produselor sunt din BOPP, o folie de polipropilenă. Nu facem nicio afirmație de mediu despre pungi."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-4",
+          "question": "Pot vedea certificatul testului și alte documente?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Da. Clienții business ne pot cere certificatul testului de biodegradare, pliantul nostru Eco-One™, fișele cu date de securitate și documentația noastră privind ambalajele. Scrieți-ne la support@ekcos.eu."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-5",
+          "question": "Pot obține produse cu propria mea siglă?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Da. Putem decupa sigla dumneavoastră chiar în sită, nu doar imprima pe ambalaj, astfel încât rămâne acolo pe toată durata de viață a produsului. Sigla dumneavoastră poate fi și imprimată pe produs. Ambalajul poate avea propriile dumneavoastră etichete, cu sigla și codurile EAN, iar culorile și parfumurile le alegeți dumneavoastră."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-6",
+          "question": "Ce produse pot purta sigla mea?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Majoritatea produselor noastre. Sitele pentru pisoar și ëkco clip pot purta sigla dumneavoastră decupată în material sau imprimată. frësh drop se personalizează prin imprimare. ëkco loop nu are spațiu pentru siglă. Produsele personalizate se fabrică la comandă. Termenul obișnuit de producție și livrare este de 6 până la 10 săptămâni. Există o taxă unică de pregătire pentru fiecare produs, iar comenzile personalizate se plătesc 100% în avans. Taxele actuale le găsiți pe pagina noastră de personalizare."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "title": "Materiale, Eco-One™ și ambalaje",
+      "items": [
+        {
+          "id": "materials-1",
+          "question": "Există o comandă minimă?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Nu. Unele produse se vând la bucată, altele în pachete de câte două. Denumirea produsului indică întotdeauna acest lucru."
+            }
+          ]
+        },
+        {
+          "id": "materials-2",
+          "question": "Ce metode de plată acceptați?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Carduri de plată precum Visa, Mastercard, Maestro și American Express, Apple Pay, Google Pay și Shop Pay, metode locale precum Bancontact, BLIK, MB WAY și MobilePay, precum și transfer bancar. Pagina de finalizare a comenzii afișează metodele disponibile în țara dumneavoastră."
+            }
+          ]
+        },
+        {
+          "id": "materials-3",
+          "question": "Poate compania mea să cumpere fără TVA?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Da, dacă compania dumneavoastră este înregistrată în scopuri de TVA într-o altă țară UE decât Republica Cehă. La finalizarea comenzii, introduceți denumirea oficială a companiei și codul de TVA cu prefixul țării, de exemplu DE123456789. Îl verificăm în timp real în baza de date VIES a UE. Dacă este valid, TVA scade la 0% (taxare inversă). Companiile cehe plătesc TVA cehă, deoarece facturăm cu un cod de TVA ceh. Vă rugăm să introduceți codul de TVA înainte de plată. Dacă ați uitat, scrieți-ne. Mai multe detalii găsiți în ghidul nostru B2B și TVA 0%. Da. Fiecare comandă vine cu factură fiscală. Dacă aveți nevoie de o copie, scrieți-ne la support@ekcos.eu. Expediem comenzile din magazinul online în 1 până la 2 zile lucrătoare de la plată. Dacă un produs lipsește temporar din stoc, de obicei îl expediem în decurs de o lună, deoarece în depozitul nostru sosesc regulat mărfuri noi."
+            }
+          ]
+        },
+        {
+          "id": "materials-4",
+          "question": "Unde livrați și cât durează livrarea?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Livrăm în toate țările UE. Livrarea durează de obicei aproximativ 5 zile de la expediere și mai puțin pentru țările apropiate de Republica Cehă. De exemplu, în Germania și Austria durează 1 până la 2 zile, iar în Italia, Franța și Țările de Jos 3 până la 4 zile. Pentru livrări în afara UE, vă rugăm să ne scrieți."
+            }
+          ]
+        },
+        {
+          "id": "materials-5",
+          "question": "Ce firme de curierat folosiți?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "În Republica Cehă expediem prin FOFR, iar în celelalte țări UE prin FedEx. Primiți informațiile de urmărire prin e-mail când coletul dumneavoastră este pe drum. Transportul este gratuit pentru comenzile de peste 120 EUR, cu excepția livrărilor în Cipru și Malta. Sub 120 EUR, transportul costă: Transport Țări 3,90 EUR Republica Cehă 4,90 EUR Austria, Germania, Polonia, Slovacia, Ungaria 5,90 EUR Belgia, Italia, Luxemburg, România, Slovenia, Țările de Jos 7,90 EUR Franța 8,90 EUR Croația, Danemarca, Grecia, Spania, Suedia 9,90 EUR Bulgaria, Estonia, Finlanda, Irlanda, Letonia, Lituania 10,90 EUR Portugalia 16,90 EUR Cipru, Malta (fără transport gratuit) La finalizarea comenzii vedeți suma exactă în moneda dumneavoastră."
+            }
+          ]
+        },
+        {
+          "id": "materials-6",
+          "question": "Pot returna un produs?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Da. Puteți returna produsele nefolosite, în ambalajul original, în termen de 30 de zile de la livrare. Vă rugăm să ne scrieți mai întâi la support@ekcos.eu. Vă trimitem o etichetă de retur și instrucțiunile. După ce aprobăm returul, vă rambursăm suma prin metoda de plată inițială în termen de 10 zile lucrătoare. Produsele personalizate nu pot fi returnate."
+            }
+          ]
+        },
+        {
+          "id": "materials-7",
+          "question": "Ce se întâmplă dacă comanda mea ajunge deteriorată sau incompletă?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Vă rugăm să verificați coletul la livrare. Dacă ceva este deteriorat, greșit sau lipsește, scrieți-ne imediat la support@ekcos.eu, ideal cu fotografii. Vom rezolva problema."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "private-label",
+      "title": "Private label",
+      "items": [
+        {
+          "id": "private-label-1",
+          "question": "Pot primi mostre sau un preț pentru cantități mai mari?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Da. Companiile ne pot cere mostre. Pentru cantități mai mari sau livrări regulate, scrieți-ne la support@ekcos.eu. Vă pregătim o ofertă sau vă punem în legătură cu partenerul nostru din țara dumneavoastră."
+            }
+          ]
+        },
+        {
+          "id": "private-label-2",
+          "question": "Cum vă pot contacta?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Scrieți-ne la support@ekcos.eu sau folosiți formularul de contact din magazinul nostru online. Magazinul online este administrat de Ekcos Europe OÜ, Saani tn 2/2-26, 10149 Tallinn, Estonia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "orders",
+      "title": "Comenzi, plată și livrare",
+      "items": []
+    }
+  ],
+  "contact": {
+    "title": "Mai aveți întrebări?",
+    "body": ""
+  },
+  "footnote": "Sursa datelor: test independent de biodegradare conform ASTM D5511-02 și ISO 15985:2014 (Instituto Politécnico Nacional, Ciudad de México). Produs ëkcos cu 1% aditiv Eco-One™: biodegradare de 93,31% în 1.288 de zile (aproximativ 3,5 ani). Același produs fără aditiv: 0%. Pe baza tendinței măsurate, se estimează până la 99% în 5 ani. Biodegradarea depinde de condițiile din depozitul de deșeuri. Eco-One™ este o marcă comercială a companiei EcoLogic, LLC."
+}

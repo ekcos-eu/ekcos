@@ -1,0 +1,91 @@
+{
+  "hero": {
+    "title": "FAQ",
+    "tagline": "Vaše otázky, naše fakty. Jasné odpovede o našich výrobkoch, materiáloch a dokumentoch.",
+    "intro": "Nájdete tu jasné odpovede na otázky, ktoré nám partneri a ich zákazníci kladú najčastejšie. Každé tvrdenie v týchto odpovediach je konkrétne a podložené dôkazmi: nezávislým laboratórnym testom, patentmi a dokumentmi od nášho výrobcu."
+  },
+  "metrics": [],
+  "categories": [
+    {
+      "id": "about",
+      "title": "O spoločnosti ëkcos",
+      "items": [
+        {
+          "id": "about-1",
+          "question": "Čím sa líšia výrobky ëkcos?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Štyrmi vecami:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Ochrana proti rozstreku. Naše patentované štetinky proti rozstreku (Sealed Bristles Technology™) pokrývajú až 95 % sitka.",
+                "Dlhá výdrž vône. ëkcoscreen 60+ a xcrën HD 60+ voňajú 60+ dní, dvakrát dlhšie ako bežné 30-dňové sitká.",
+                "Fakty o materiáli, ktoré si môžete overiť. S podielom recyklovaného EVA. Vďaka prísade Eco-One™ biologicky rozložiteľné na skládke, ako ukazuje nezávislý laboratórny test.",
+                "Vaša značka na výrobku. Vaše logo môžeme vyrezať priamo do sitka."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "about-2",
+          "question": "Existuje dôkaz, že štetinky fungujú?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Sitko ëkcoscreen 60+ sme natočili v porovnávacom UV teste rozstreku za identických podmienok: rovnaký model pisoára, rovnaká výška a rovnaký prietok. ëkcoscreen 60+ nevykázalo žiadny viditeľný rozstrek mimo sitka. Vyžiadajte si od nás video. Samotný systém štetiniek je patentovaný. Áno. ëkcoscreen 60+ a xcrën HD 60+ sú ideálne pre bezvodé pisoáre a vhodné sú aj powër screen, üro lite a basic scrëen. Pre odpad bezvodého pisoára si pozrite kartušu ëz trap nižšie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urinal-screens",
+      "title": "Sitká do pisoárov",
+      "items": [
+        {
+          "id": "urinal-screens-1",
+          "question": "Bude sitko pasovať do môjho pisoára?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Sitká powër screen a basic scrëen majú pružný tvar, ktorý pasuje takmer do všetkých typov pisoárov, a sitko üro lite je určené pre menšie pisoáre. Veľkosť každého sitka nájdete v tabuľke vyššie. Použite rukavice. Vyberte použité sitko a vyhoďte ho do zmesového odpadu. Nové sitko vybaľte a položte ho naplocho na dno pisoára nad odtok, štetinkami nahor. Vymeňte ho, keď vôňa vyprchá, alebo v obvyklom intervale údržby. Vyhoďte ho do zmesového odpadu. Samotný materiál EVA sa dá recyklovať, použité sitko do pisoára však nie, pretože je biologicky kontaminované. Končí na skládke alebo v spaľovni. Preto pridávame prísadu Eco-One™, vďaka ktorej je náš materiál biologicky rozložiteľný na skládke. xcrën puck je sitko do pisoára v tvare X s dezodoračnou tabletou. Tvar X nedovolí pevným nečistotám a zvyškom upchať odpad a tableta pri každom použití uvoľňuje sviežu vôňu až 30 dní. Tableta je vyrobená prevažne z vosku a glycerínu a používaním sa rozpúšťa. Nedá sa vymeniť, preto meníte celé sitko xcrën puck. Znamená to, že tableta v sitku xcrën puck neobsahuje paradichlórbenzén (PARA), ktorý WHO klasifikuje ako možno karcinogénny. Spoločnosť ëkcos PARA nikdy nepoužívala. NON-PARA neznamená „bez parabénov“."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ez-trap-ekco-mat",
+      "title": "ëz trap a ëkco mat",
+      "items": []
+    },
+    {
+      "id": "air-fresheners",
+      "title": "Osviežovače vzduchu a vonné závesky na WC",
+      "items": []
+    },
+    {
+      "id": "materials",
+      "title": "Materiály, Eco-One™ a obaly",
+      "items": []
+    },
+    {
+      "id": "private-label",
+      "title": "Privátna značka",
+      "items": []
+    },
+    {
+      "id": "working-with",
+      "title": "Spolupráca so spoločnosťou ëkcos",
+      "items": []
+    }
+  ],
+  "contact": {
+    "title": "Máte ešte otázku?",
+    "body": "Kontaktujte svojho obchodného zástupcu ëkcos alebo napíšte na Líder trhu v Spojených štátoch, s výrobkami uvedenými na trh vo viac ako 70 krajinách. Navštívte náš web Centrálny sklad v Českej republike zásobuje partnerov v Európe, Ázii a Afrike. Zdroj údajov: nezávislý test biologického rozkladu podľa ASTM D5511-02 a ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City). Výrobok ëkcos s 1 % prísady Eco-One™: biologický rozklad 93,31 % za 1 288 dní (približne 3,5 roka). Rovnaký výrobok bez prísady: 0 %. Rozklad až 99 % do 5 rokov sa predpokladá podľa nameraného trendu. Biologický rozklad závisí od podmienok na skládke. Eco-One™ je ochranná známka spoločnosti EcoLogic, LLC."
+  },
+  "footnote": ""
+}

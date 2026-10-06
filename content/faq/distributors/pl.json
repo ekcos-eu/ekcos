@@ -1,0 +1,255 @@
+{
+  "hero": {
+    "title": "FAQ",
+    "tagline": "Wasze pytania, nasze fakty. Jasne odpowiedzi na temat naszych produktów, materiałów i dokumentów.",
+    "intro": "Zebraliśmy tu jasne odpowiedzi na pytania, które partnerzy i ich klienci zadają nam najczęściej. Każde oświadczenie w tych odpowiedziach jest konkretne i poparte dowodami: niezależnym testem laboratoryjnym, patentami i dokumentami od naszego producenta."
+  },
+  "metrics": [
+    {
+      "value": "93%",
+      "label": "biodegradacji w ciągu 3,5 roku w niezależnym teście laboratoryjnym, z dodatkiem Eco-One™"
+    },
+    {
+      "value": "60+",
+      "label": "dni zapachu (ëkcoscreen 60+, xcrën HD 60+), dwa razy dłużej niż standardowe sitka 30-dniowe"
+    },
+    {
+      "value": "141 g",
+      "label": "materiału zapachowego w sitku ëkcoscreen 60+, ponad trzykrotność typowego sitka"
+    },
+    {
+      "value": "95%",
+      "label": "powierzchni sitka ëkcoscreen 60+ pokrywają opatentowane szczecinki przeciw rozpryskom"
+    }
+  ],
+  "categories": [
+    {
+      "id": "about",
+      "title": "O firmie ëkcos",
+      "items": [
+        {
+          "id": "about-1",
+          "question": "Jak długo wystarcza sitko do pisuaru?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcoscreen 60+ i xcrën HD 60+ zapewniają zapach przez 60+ dni, czyli dwa razy dłużej niż standardowe sitka 30-dniowe. W rzadziej używanych toaletach działają jeszcze dłużej. powër screen, üro lite, basic scrëen i xcrën puck zapewniają zapach do 30 dni, dlatego idealnie sprawdzają się przy comiesięcznym serwisie. ëkcoscreen 60+ działa dwa razy dłużej niż standardowe sitko 30-dniowe, przy podobnym koszcie dziennym. Wymienia się je też o połowę rzadziej, więc personel poświęca mu mniej czasu."
+            }
+          ]
+        },
+        {
+          "id": "about-2",
+          "question": "Jak działa system przeciw rozpryskom?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Nasze sitka wykorzystują Sealed Bristles Technology™, nasz własny opatentowany system chroniący przed rozpryskami. Gęste szczecinki rozbijają strumień moczu i minimalizują rozpryski. Szczecinki pokrywają 95% sitka ëkcoscreen 60+ i 92% sitka xcrën HD 60+. Sitko üro lite wykorzystuje tę samą technologię z długimi szczecinkami, które w małym sitku zapewniają dużą ochronę przed rozpryskami. Sfilmowaliśmy sitko ëkcoscreen 60+ w porównawczym teście rozprysków w świetle UV w identycznych warunkach: ten sam model pisuaru, ta sama wysokość i ten sam przepływ. W przypadku ëkcoscreen 60+ nie było widocznych rozprysków poza sitkiem. Film udostępniamy na życzenie. Sam system szczecinek jest opatentowany. Tak. ëkcoscreen 60+ i xcrën HD 60+ idealnie nadają się do pisuarów bezwodnych, a powër screen, üro lite i basic scrëen również są do nich odpowiednie. O odpływie pisuaru bezwodnego piszemy poniżej, w części o ëz trap. Sitka powër screen i basic scrëen mają elastyczny kształt, który pasuje do niemal wszystkich typów pisuarów, a sitko üro lite jest przeznaczone do mniejszych pisuarów. Rozmiar każdego sitka podaje tabela powyżej."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urinal-screens",
+      "title": "Sitka do pisuarów",
+      "items": [
+        {
+          "id": "urinal-screens-1",
+          "question": "Jak mam umieścić lub wymienić sitko w pisuarze?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Założyć rękawice. Wyjąć zużyte sitko i wyrzucić je do odpadów zmieszanych. Rozpakować nowe sitko i położyć je płasko na dnie pisuaru, nad odpływem, szczecinkami do góry. Wymienić je, gdy zapach osłabnie, lub zgodnie ze zwykłym cyklem serwisu."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-2",
+          "question": "Jak mam zutylizować zużyte sitko?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Należy je wyrzucić do odpadów zmieszanych. Sam materiał EVA nadaje się do recyklingu, ale zużyte sitko do pisuaru już nie, ponieważ jest skażone biologicznie. Trafia na składowisko odpadów lub do spalarni. Dlatego stosujemy dodatek Eco-One™, dzięki któremu nasz materiał ulega biodegradacji na składowisku odpadów."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-3",
+          "question": "Co to jest xcrën puck?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "xcrën puck to sitko do pisuaru w kształcie litery X z krążkiem dezodorującym. Kształt litery X zapobiega zatykaniu odpływu przez ciała stałe i zanieczyszczenia, a krążek przy każdym użyciu uwalnia świeży zapach przez okres do 30 dni. Krążek składa się głównie z wosku i gliceryny oraz rozpuszcza się w trakcie użytkowania. Nie można go wymienić, dlatego wymienia się całe sitko xcrën puck. NAJCZĘSTSZE PYTANIA"
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-4",
+          "question": "Co oznacza NON-PARA?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Oznacza to, że krążek w sitku xcrën puck nie zawiera paradichlorobenzenu (PARA), który WHO klasyfikuje jako możliwie rakotwórczy. Firma ëkcos nigdy nie stosowała PARA. NON-PARA nie oznacza „bez parabenów”."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-5",
+          "question": "Co to jest ëz trap i do jakich pisuarów pasuje?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëz trap to wkład do pisuarów bezwodnych. Mocz przepływa przez syfon, a klapka zamykająca uszczelnia odpływ po każdym użyciu, co pomaga zapobiegać ulatnianiu się zapachów z kanalizacji. Pasuje do pisuarów Sloan, Falcon, Vitra, Bobrick i innych marek z systemem Falcon Velocity (średnica 11,8 cm, wysokość 11,5 cm)."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-6",
+          "question": "Jak długo działa wkład ëz trap i jak mam o niego dbać?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Wkład wystarcza na 4 do 6+ miesięcy i nie wymaga drogich żeli ani specjalistycznych środków czyszczących. Codziennie należy wlać do pisuaru szklankę wody, aby zapobiec osadzaniu się kamienia moczowego. Regularne czyszczenie środkiem przeciw kamieniowi moczowemu, np. dobrej jakości żelem do WC, przedłuża okres jego użytkowania. Wkład ëz trap jest dostępny z narzędziem do wyjmowania lub bez niego. Narzędzie jest wielokrotnego użytku, więc potrzebne jest tylko przy pierwszym zamówieniu."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-7",
+          "question": "Co to jest ëkco mat?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkco mat to chłonna, jednorazowa mata podłogowa pod pisuar. Przy wymiarach 54 x 51 cm zakrywa obszar wokół większości standardowych pisuarów. Chroni podłogę przed moczem i ogranicza przenoszenie moczu na podeszwach butów."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-8",
+          "question": "Jak długo wystarcza frësh drop?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "W kabinach ze słabą wentylacją lub bez niej wystarcza na 30+ dni, a w rzadziej używanych kabinach na 60+ dni. Gdy zapach osłabnie, wymienia się tylko wkład. Uchwyt pozostaje na ścianie. NAJCZĘSTSZE PYTANIA"
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-9",
+          "question": "Jak mam zamontować frësh drop i ëkco loop?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Oba odświeżacze składają się z uchwytu i wkładu zapachowego. Uchwyt należy przymocować do czystej, suchej powierzchni: frësh drop za pomocą dołączonej taśmy klejącej, ëkco loop za pomocą jego samoprzylepnego uchwytu montażowego. Następnie zakłada się wkład. W odświeżaczu frësh drop mały zamek obrotowy utrzymuje wkład na uchwycie, a w razie zgubienia dostępne są zapasowe zamki. Odświeżacz ëkco loop należy umieścić blisko miejsca, w którym potrzebny jest zapach."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-10",
+          "question": "Jak uwalnia się zapach?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Pasywnie. Materiał jest nasączony zapachem, który stopniowo się z niego uwalnia. Nie są potrzebne aerozole, baterie ani prąd. Nasze główne linie mają te same jedenaście kolorów i zapachów: fioletowy / owoce leśne, zielony / jabłko, niebieski / fresh, pomarańczowy / owoce tropikalne, przezroczysty / owoce tropikalne, czarny / mięta, ognisty / mango, zielony / sosna, czerwony / melon, fioletowy / lawenda i żółty / cytrusy. Dzięki temu w całym budynku, od pisuaru po kabinę WC, może unosić się ten sam zapach. Nasze zapachy łatwo rozpoznać: jabłko pachnie jak jabłko, melon jak elon. Niektóre nasze produkty zapachowe mogą powodować reakcję alergiczną skóry. Prosimy postępować zgodnie z etykietą i kartą charakterystyki, nosić rękawice podczas pracy z produktami i przechowywać je w miejscu niedostępnym dla dzieci."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-11",
+          "question": "Co to jest Eco-One™?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Eco-One™ to organiczny dodatek produkowany przez firmę EcoLogic, LLC. Podczas produkcji dodajemy go do naszego materiału w ilości około 1%. Nie zmienia on wytrzymałości, wyglądu ani skuteczności produktu. Gdy produkt trafi na biologicznie aktywne składowisko odpadów, materiał rozkłada się na biogaz, CO₂ i humus. Nowoczesne składowiska wykorzystują biogaz do produkcji energii. NAJCZĘSTSZE PYTANIA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ez-trap-ekco-mat",
+      "title": "ëz trap i ëkco mat",
+      "items": [
+        {
+          "id": "ez-trap-ekco-mat-1",
+          "question": "Co oznacza „biodegradowalne na składowisku odpadów” i jak to przetestowano?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Oznacza to, że nasz materiał rozkłada się na biologicznie aktywnym składowisku odpadów, na które trafiają zużyte sitka. Instituto Politécnico Nacional w mieście Meksyk przetestował materiał EVA ëkcos z dodatkiem Eco-One™ według norm ASTM D5511 i ISO 15985. Materiał uległ biodegradacji w 93% w ciągu 3,5 roku, podczas gdy ten sam materiał bez dodatku wykazał 0%. W ciągu 5 lat prognozuje się biodegradację do 99%. Jest to prognoza na podstawie zmierzonego trendu, a nie zmierzony wynik. Biodegradacja zależy od warunków na składowisku. Od 27 września 2026 r. przepisy UE (dyrektywa (UE) 2024/825) nie pozwalają już na ogólne oświadczenia, takie jak „ekologiczny”, „zielony” czy „zrównoważony”, bez uznanego dowodu doskonałej efektywności środowiskowej. Dlatego podajemy dokładnie to, co możemy udowodnić: produkty zawierają EVA z recyklingu, dzięki Eco-One™ ulegają biodegradacji na składowisku odpadów, co wykazał niezależny test laboratoryjny, a pudełka są wykonane z tektury w 100% z recyklingu. Sam materiał EVA nadaje się do recyklingu. Zużyte sitko do pisuaru lub zużyta zawieszka do WC już nie, ponieważ są skażone biologicznie, dlatego ich miejsce jest w odpadach zmieszanych. Wkłady frësh drop i ëkco loop powstają z wykorzystaniem EVA z recyklingu i nie są skażone, więc ich materiał nadaje się do recyklingu. Prosimy przestrzegać lokalnych zasad gospodarowania odpadami. Nie określamy naszych produktów jako „w 100% do recyklingu”, ponieważ w przypadku zużytego sitka nie byłoby to prawdą. Nasze pudełka produktowe i kartony zbiorcze są wykonane z tektury falistej w 100% z recyklingu. Woreczki na produkty są wykonane z BOPP, czyli folii polipropylenowej. Nie składamy żadnych oświadczeń środowiskowych dotyczących woreczków. Do celów wykazania zgodności z przepisami udostępniamy dokumentację opakowań zgodnie z unijnym rozporządzeniem w sprawie opakowań i odpadów opakowaniowych (PPWR)."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-2",
+          "question": "Jak szybko wysyłacie zamówienia partnerów?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Zamówienia partnerów wysyłamy w ciągu 3 do 5 dni roboczych. Jeśli produkt jest chwilowo niedostępny, zwykle wysyłamy go w ciągu miesiąca, ponieważ nowy towar z Meksyku regularnie trafia do naszego magazynu."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-3",
+          "question": "Jak wysyłacie towar i ile trwa dostawa?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Na terenie Czech wysyłamy paczki i palety za pośrednictwem FOFR. Do innych krajów UE wysyłamy paczki za pośrednictwem FedEx, a palety za pośrednictwem DSV. Dostawa na terenie UE trwa zwykle około 5 dni od wysyłki, a do krajów położonych blisko Czech krócej, na przykład 1 do 2 dni do Niemiec i Austrii oraz 3 do 4 dni do Włoch, Francji i Niderlandów. Poza UE wyceniamy transport dla każdego zamówienia, a wielu partnerów organizuje transport we własnym zakresie. Koszty transportu obliczamy dla każdego zamówienia. Tak. Warto poprosić nas o próbki, aby partner i jego klienci mogli porównać nasze produkty i zapachy z produktami dowolnego innego dostawcy."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Certyfikat testu biodegradacji z Instituto Politécnico Nacional, Meksyk (ASTM D5511 i ISO 15985).",
+                "Ulotka Eco-One™ z opisem dodatku i testu.",
+                "Dokumentacja PPWR dla opakowań od naszego producenta, wyłącznie na potrzeby wykazania zgodności z przepisami. Prosimy nie udostępniać deklaracji dostawców nikomu poza właściwymi organami.",
+                "Patenty na Sealed Bristles Technology™ i kształty naszych sitek.",
+                "Karty charakterystyki dla naszych produktów zapachowych.",
+                "Film z testu rozprysków w świetle UV sitka ëkcoscreen 60+.",
+                "Profesjonalne zdjęcia i filmy produktowe, w tym test rozprysków w świetle UV.",
+                "Gotowe teksty produktowe w 22 językach.",
+                "Logotypy i grafiki marki.",
+                "Przewodnik porównawczy, ulotka Eco-One™, certyfikat testu, dokumentacja PPWR i karty charakterystyki. Informacje o produktach i opakowania podlegają teraz dwóm nowym przepisom UE: dyrektywie (UE) 2024/825 (nowe zasady dotyczące oświadczeń środowiskowych) od 27 września 2026 r. oraz rozporządzeniu (UE) 2025/40 w sprawie opakowań i odpadów opakowaniowych (PPWR) od 12 sierpnia 2026 r. Każde oświadczenie sprawdziliśmy pod kątem tych przepisów. Nasze nowe teksty zawierają wyłącznie konkretne oświadczenia środowiskowe poparte dowodami. Prosimy używać ich w swoich sklepach internetowych, katalogach i ofertach. NAJCZĘSTSZE PYTANIA",
+                "Ogólne określenia, takie jak „przyjazny dla środowiska”, „zielony”, „ekologiczny” czy „zrównoważony”, także w odniesieniu do opakowań.",
+                "„Woreczek celofanowy” lub „opakowanie celofanowe”. Nasze woreczki są wykonane z BOPP.",
+                "„W 100% do recyklingu”. Nasze nowe teksty dokładnie określają, co nadaje się do recyklingu.",
+                "„Biodegradowalne w 99% w ciągu 5 lat” jako wynik testu. Test wykazał 93% w ciągu 3,5 roku. Do 99% w ciągu 5 lat to prognoza.",
+                "Samo słowo „biodegradowalne” w nazwach lub tytułach produktów. Prosimy pisać „biodegradowalne na składowisku odpadów”.",
+                "Wszelkie oświadczenia dotyczące bakterii, wirusów, zarazków lub ochrony zdrowia.",
+                "Oświadczenia dotyczące VOC i toksyczności, takie jak „zgodny z europejskimi normami VOC”, „bez VOC” czy „nietoksyczny dla środowiska”.",
+                "Absolutne obietnice, takie jak „eliminuje rozpryski” czy „bez zapachów”.",
+                "„Bez parabenów” w odniesieniu do NON-PARA. NON-PARA oznacza, że krążek nie zawiera paradichlorobenzenu.",
+                "Samo „60+ dni” w przypadku frësh drop. Prosimy pisać „przez 30+ dni w kabinach ze słabą wentylacją i przez 60+ dni w rzadziej używanych kabinach”. Prosimy korzystać z naszych zatwierdzonych tekstów, które są gotowe w 22 językach. Przy ich skracaniu lub dostosowywaniu należy zachować każdy warunek związany z oświadczeniem, na przykład „na składowisku odpadów”, „z wykorzystaniem EVA z recyklingu” oraz różnicę między zmierzonymi 93% a prognozowanymi 99%."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "air-fresheners",
+      "title": "Odświeżacze powietrza i zawieszki zapachowe do WC",
+      "items": []
+    },
+    {
+      "id": "materials",
+      "title": "Materiały, Eco-One™ i opakowania",
+      "items": []
+    },
+    {
+      "id": "private-label",
+      "title": "Marka własna",
+      "items": []
+    },
+    {
+      "id": "working-with",
+      "title": "Współpraca z firmą ëkcos",
+      "items": []
+    }
+  ],
+  "contact": {
+    "title": "Jeszcze jakieś pytanie?",
+    "body": "Prosimy o kontakt z przedstawicielem handlowym ëkcos lub wiadomość"
+  },
+  "footnote": "Źródło danych: niezależny test biodegradacji według norm ASTM D5511-02 i ISO 15985:2014 (Instituto Politécnico Nacional, Meksyk). Produkt ëkcos z 1% dodatku Eco-One™: biodegradacja 93,31% w ciągu 1 288 dni (około 3,5 roku). Ten sam produkt bez dodatku: 0%. Biodegradację do 99% w ciągu 5 lat prognozuje się na podstawie zmierzonego trendu. Biodegradacja zależy od warunków na składowisku. Eco-One™ jest znakiem towarowym firmy EcoLogic, LLC."
+}

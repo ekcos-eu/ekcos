@@ -1,0 +1,619 @@
+{
+  "hero": {
+    "title": "FAQ",
+    "tagline": "Your questions, our facts. Clear answers about our products, materials, orders and delivery.",
+    "intro": "Here you find clear answers to the questions our customers ask most often, from choosing the right urinal screen to delivery and returns. Every claim in this FAQ is specific and backed by evidence: an independent laboratory test, patents and documents from our manufacturer."
+  },
+  "metrics": [
+    {
+      "value": "93%",
+      "label": "biodegradation within 3.5 years in an independent laboratory test, with the Eco-One™ additive"
+    },
+    {
+      "value": "60+",
+      "label": "days of fragrance (ëkcoscreen 60+, xcrën HD 60+), twice as long as standard 30-day screens"
+    },
+    {
+      "value": "141 g",
+      "label": "of fragranced material in ëkcoscreen 60+, more than three times a typical screen"
+    },
+    {
+      "value": "95%",
+      "label": "of the ëkcoscreen 60+ surface covered with patented anti-splash bristles"
+    }
+  ],
+  "categories": [
+    {
+      "id": "about",
+      "title": "About ëkcos",
+      "items": [
+        {
+          "id": "about-1",
+          "question": "Who is ëkcos?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcos innovations develops, manufactures and distributes fragranced urinal screens, toilet bowl clips and air fresheners. We are the market leader in the United States and have introduced our products in more than 70 countries. Our products are made in Mexico. Our central warehouse in the Czech Republic supplies customers and partners across Europe, Asia and Africa."
+            }
+          ]
+        },
+        {
+          "id": "about-2",
+          "question": "What makes ëkcos products different?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Four things:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Splash protection. Our patented anti-splash bristles (Sealed Bristles Technology™) cover up to 95% of the screen.",
+                "Long fragrance life. ëkcoscreen 60+ and xcrën HD 60+ give 60+ days of fragrance, twice as long as standard 30-day screens.",
+                "Material facts you can check. Made with recycled EVA. Biodegradable in landfill with the Eco-One™ additive, as an independent laboratory test shows.",
+                "Your brand on the product. Your logo can be cut into the screen itself."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urinal-screens",
+      "title": "Urinal screens",
+      "items": [
+        {
+          "id": "urinal-screens-1",
+          "question": "Which urinal screen should I choose?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Choose by traffic and by how often you service the restroom."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Screen",
+                "Fragrance",
+                "Size",
+                "Best for"
+              ],
+              "rows": [
+                [
+                  "ëkcoscreen 60+",
+                  "60+ days",
+                  "20 x 21 cm",
+                  "High-traffic restrooms. 141 g of fragranced material. Bristles cover 95% of the screen."
+                ],
+                [
+                  "xcrën HD 60+",
+                  "60+ days",
+                  "17 x 18 cm",
+                  "High-traffic restrooms where the look matters. Patented design shape."
+                ],
+                [
+                  "powër screen",
+                  "up to 30 days",
+                  "18 x 20 cm",
+                  "Monthly changes. Flexible shape that fits almost all urinals."
+                ],
+                [
+                  "üro lite",
+                  "up to 30 days",
+                  "13 x 13 cm",
+                  "Smaller urinals. Long patented bristles."
+                ],
+                [
+                  "xcrën puck",
+                  "up to 30 days",
+                  "17 x 17 cm",
+                  "Keeping solids and debris out of the drain. Deodorizing puck."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-2",
+          "question": "How long does a urinal screen last?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcoscreen 60+ and xcrën HD 60+ give 60+ days of fragrance, twice as long as standard 30-day screens. In low-traffic restrooms they last even longer. powër screen, üro lite and xcrën puck give up to 30 days, which makes them ideal for monthly maintenance."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-3",
+          "question": "Why choose a 60+ day screen?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcoscreen 60+ lasts twice as long as a standard 30-day screen at a similar cost per day. You also replace it half as often, so your staff spend less time on it."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-4",
+          "question": "How does the anti-splash system work?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Our screens use Sealed Bristles Technology™, our own patented anti-splash system. Dense bristles break up the urine stream and minimize urine splashback. The bristles cover 95% of ëkcoscreen 60+ and 92% of xcrën HD 60+. üro lite uses the same technology with long bristles, which give big splash protection in a small screen."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-5",
+          "question": "Is there proof that the bristles work?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "We filmed ëkcoscreen 60+ in a side-by-side UV splash test under identical conditions: the same urinal model, the same height and the same flow. ëkcoscreen 60+ showed no visible splashback outside the screen. Ask us for the video. The bristle system itself is patented."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-6",
+          "question": "Can I use the screens in waterless urinals?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Yes. ëkcoscreen 60+ and xcrën HD 60+ are ideal for waterless urinals, and powër screen and üro lite are suitable too. For the drain of a waterless urinal, see ëz trap below."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-7",
+          "question": "Will the screen fit my urinal?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "powër screen has a flexible shape that fits almost all urinal types, and üro lite is made for smaller urinals. You find the size of each screen in the table above."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-8",
+          "question": "How do I place or change a urinal screen?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Wear gloves. Take out the used screen and put it in general waste. Unpack the new screen and lay it flat in the bottom of the urinal, over the drain, with the bristles facing up. Replace it when the fragrance fades or at your usual service interval."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-9",
+          "question": "How do I dispose of a used screen?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Put it in general waste. The EVA material itself can be recycled, but a used urinal screen cannot, because it is biologically contaminated. It ends up in landfill or incineration. That is why we add the Eco-One™ additive, which makes our material biodegradable in landfill."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-10",
+          "question": "What is xcrën puck?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "xcrën puck is an X-shaped urinal screen with a deodorizing puck. The X shape stops solids and debris from clogging the drain, and the puck releases a fresh fragrance with each use for up to 30 days. The puck is made mainly from wax and glycerin and dissolves with use. It cannot be replaced, so you change the whole xcrën puck."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-11",
+          "question": "What does NON-PARA mean?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "It means that the puck in xcrën puck contains no paradichlorobenzene (PARA), which the WHO classifies as possibly carcinogenic. ëkcos has never used PARA. NON-PARA does not mean paraben-free."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ez-trap-ekco-mat",
+      "title": "ëz trap and ëkco mat",
+      "items": [
+        {
+          "id": "ez-trap-ekco-mat-1",
+          "question": "What is ëz trap, and which urinals does it fit?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëz trap is a cartridge for waterless urinals. Urine flows through the siphon, and a closing cap seals after each use, which helps keep drain odors from escaping. It fits Sloan, Falcon, Vitra, Bobrick and other brands that use the Falcon Velocity system (diameter 11.8 cm, height 11.5 cm)."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-2",
+          "question": "How long does ëz trap last, and how do I maintain it?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "The cartridge lasts 4 to 6+ months and needs no costly gels or special cleaners. Pour a glass of water into the urinal every day to prevent calcium buildup. Regular cleaning with an anti-calcium agent, such as a quality toilet gel, extends its life. ëz trap comes with or without the removal tool. The tool is reusable, so you only need it with your first order."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-3",
+          "question": "What is ëkco mat?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkco mat is an absorbent, disposable floor mat for the area under the urinal. At 54 x 51 cm it covers the area around most standard urinals. It protects the floor from urine and reduces the urine carried away on shoe soles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "air-fresheners",
+      "title": "Air fresheners and toilet bowl clips",
+      "items": [
+        {
+          "id": "air-fresheners-1",
+          "question": "Which air freshener should I choose?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "frësh drop: for toilet cubicles and restrooms. 30+ days of fragrance in cubicles with little ventilation and 60+ days at low traffic, with no batteries or electricity.",
+                "ëkco clip: clips onto the toilet bowl and gives up to 30 days of fragrance. Its flexible shape fits almost all bowl types.",
+                "ëkco loop: compact freshener for small spaces with little airflow, such as under desks, inside trash bin lids, closets and shoe cabinets. Up to 30 days. For toilet cubicles, choose frësh drop."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-2",
+          "question": "How long does frësh drop last?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "In cubicles with little or no ventilation it lasts 30+ days, and at low traffic 60+ days. When the fragrance fades, you replace only the insert. The base stays on the wall."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-3",
+          "question": "How do I install frësh drop and ëkco loop?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Both are systems of a base and a fragrance insert. Fix the base on a clean, dry surface: frësh drop with the included adhesive tape, ëkco loop with its adhesive mounting base. Then attach the insert. On frësh drop, a small twist lock holds the insert on the base, and spare locks are available if one gets lost. Place ëkco loop close to where you want the fragrance."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-4",
+          "question": "How is the fragrance released?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Passively. The fragrance is infused into the material and released gradually over time. No sprays, batteries or electricity are needed."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-5",
+          "question": "Which colors and fragrances are available?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Our main lines share the same eleven colors and fragrances: purple / berry, green / apple, blue / fresh, orange / tropical fruit, clear / tropical fruit, black / mint, flame / mango, green / pine, red / melon, purple / lavender and yellow / citrus. So a building can keep one scent from the urinal to the cubicle. Our scents are easy to recognize: apple smells like apple, melon like melon."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-6",
+          "question": "What should I know about safe handling?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Some of our fragranced products may cause an allergic skin reaction. Please follow the label and the safety data sheet, wear gloves when you handle the products, and keep them out of the reach of children."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "title": "Materials, Eco-One™ and packaging",
+      "items": [
+        {
+          "id": "materials-1",
+          "question": "What are ëkcos products made of?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Our urinal screens, toilet bowl clips and air freshener inserts are made from a proprietary material infused with a deodorant-based fragrance. The material is made with recycled EVA. The share of recycled EVA varies from batch to batch, so we do not state a fixed percentage. Every ëkcos product except ëkco mat contains the Eco-One™ additive."
+            }
+          ]
+        },
+        {
+          "id": "materials-2",
+          "question": "What is Eco-One™?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Eco-One™ is an organic additive made by EcoLogic, LLC. We add about 1% of it to our material during production. It does not change the product’s strength, appearance or performance. When the product ends up in a biologically active landfill, the material breaks down into biogas, CO₂ and humus. Modern landfills use the biogas for energy."
+            }
+          ]
+        },
+        {
+          "id": "materials-3",
+          "question": "What does “biodegradable in landfill” mean, and how was it tested?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "It means that our material breaks down in a biologically active landfill, where used screens end up. The Instituto Politécnico Nacional in Mexico City tested ëkcos EVA with Eco-One™ under the standards ASTM D5511 and ISO 15985. It reached 93% biodegradation within 3.5 years, while the same material without the additive showed 0%. Up to 99% is projected within 5 years. This is a projection from the measured trend, not a measured result. Biodegradation depends on landfill conditions."
+            }
+          ]
+        },
+        {
+          "id": "materials-4",
+          "question": "Why don’t you call your products “eco-friendly”?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Since 27 September 2026, EU rules (Directive (EU) 2024/825) no longer allow general claims such as “eco-friendly”, “green” or “sustainable” without recognized proof of excellent environmental performance. So we tell you exactly what we can prove: made with recycled EVA, biodegradable in landfill with Eco-One™ in an independent laboratory test, and boxes made from 100% recycled cardboard."
+            }
+          ]
+        },
+        {
+          "id": "materials-5",
+          "question": "Can ëkcos products be recycled?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "The EVA material itself can be recycled. A used urinal screen or toilet bowl clip cannot, because it is biologically contaminated, so it belongs in general waste. The inserts of frësh drop and ëkco loop are made with recycled EVA and are not contaminated, so their material can be recycled. Please follow your local waste rules. We do not call our products “100% recyclable”, because that would not be true for a used screen."
+            }
+          ]
+        },
+        {
+          "id": "materials-6",
+          "question": "What packaging do you use?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Our product boxes and master cases are made from 100% recycled corrugated cardboard. The product bags are made of BOPP, a polypropylene film. We make no environmental claim about the bags."
+            }
+          ]
+        },
+        {
+          "id": "materials-7",
+          "question": "Can I see the test certificate and other documents?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Yes. Business customers can ask us for the biodegradation test certificate, our Eco-One™ leaflet, safety data sheets and our packaging documentation. Write to support@ekcos.eu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "private-label",
+      "title": "Private label",
+      "items": [
+        {
+          "id": "private-label-1",
+          "question": "Can I get products with my own logo?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Yes. We can cut your logo into the screen itself, not only print it on the packaging, so it stays there for the life of the product. Your logo can also be printed on the product. The packaging can carry your own labels with your logo and EAN codes, and you choose the colors and fragrances."
+            }
+          ]
+        },
+        {
+          "id": "private-label-2",
+          "question": "Which products can carry my logo?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Most of our products. Urinal screens and ëkco clip can carry your logo cut into the material or printed. frësh drop is branded by printing. ëkco loop has no space for a logo."
+            }
+          ]
+        },
+        {
+          "id": "private-label-3",
+          "question": "How long does custom branding take, and what does it cost?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Branded products are made to order. Typical production and delivery time is 6 to 10 weeks. There is a one-time setup fee per product, and custom orders are paid 100% in advance. You find the current fees on our Custom Branding page."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "orders",
+      "title": "Orders, payment and delivery",
+      "items": [
+        {
+          "id": "orders-1",
+          "question": "Who can buy in the e-shop?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Businesses and private customers from all EU countries. Companies registered for VAT in an EU country other than the Czech Republic can buy with 0% VAT."
+            }
+          ]
+        },
+        {
+          "id": "orders-2",
+          "question": "Is there a minimum order?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "No. Some products are sold individually, others in packs of two. The product name always says so."
+            }
+          ]
+        },
+        {
+          "id": "orders-3",
+          "question": "Which payment methods do you accept?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Payment cards such as Visa, Mastercard, Maestro and American Express, Apple Pay, Google Pay and Shop Pay, local methods such as Bancontact, BLIK, MB WAY and MobilePay, and bank transfer. The checkout shows the methods available in your country."
+            }
+          ]
+        },
+        {
+          "id": "orders-4",
+          "question": "Can my company buy without VAT?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Yes, if your company is registered for VAT in an EU country other than the Czech Republic. At checkout, enter your official company name and your VAT ID with the country prefix, for example DE123456789. We check it in real time in the EU VIES database. If it is valid, the VAT drops to 0% (reverse charge). Czech companies pay Czech VAT, because we invoice under a Czech VAT ID. Please enter your VAT ID before you pay. If you forgot, write to us. More details are in our B2B & 0% VAT Guide."
+            }
+          ]
+        },
+        {
+          "id": "orders-5",
+          "question": "Will I get an invoice?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Yes. Every order comes with a VAT invoice. If you need a copy, write to support@ekcos.eu."
+            }
+          ]
+        },
+        {
+          "id": "orders-6",
+          "question": "How fast do you ship?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "We ship e-shop orders within 1 to 2 working days after payment. If a product is temporarily out of stock, we usually ship it within a month, because new goods arrive at our warehouse regularly."
+            }
+          ]
+        },
+        {
+          "id": "orders-7",
+          "question": "Where do you deliver, and how long does delivery take?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "We deliver to all EU countries. Delivery usually takes about 5 days after dispatch, and less for countries close to the Czech Republic. For example, Germany and Austria take 1 to 2 days, and Italy, France and the Netherlands 3 to 4 days. For deliveries outside the EU, please write to us."
+            }
+          ]
+        },
+        {
+          "id": "orders-8",
+          "question": "Which carriers do you use?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "In the Czech Republic we ship with FOFR, to other EU countries with FedEx. You receive tracking information by email when your parcel is on its way."
+            }
+          ]
+        },
+        {
+          "id": "orders-9",
+          "question": "How much does shipping cost?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Shipping is free on orders over 120 EUR, except to Cyprus and Malta. Below 120 EUR, shipping costs:"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Shipping",
+                "Countries"
+              ],
+              "rows": [
+                [
+                  "3.90 EUR",
+                  "Czech Republic"
+                ],
+                [
+                  "4.90 EUR",
+                  "Austria, Germany, Hungary, Poland, Slovakia"
+                ],
+                [
+                  "5.90 EUR",
+                  "Belgium, Italy, Luxembourg, Netherlands, Romania, Slovenia"
+                ],
+                [
+                  "7.90 EUR",
+                  "France"
+                ],
+                [
+                  "8.90 EUR",
+                  "Croatia, Denmark, Greece, Spain, Sweden"
+                ],
+                [
+                  "9.90 EUR",
+                  "Bulgaria, Estonia, Finland, Ireland, Latvia, Lithuania"
+                ],
+                [
+                  "10.90 EUR",
+                  "Portugal"
+                ],
+                [
+                  "16.90 EUR",
+                  "Cyprus, Malta (no free shipping) At checkout you see the exact amount in your currency."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "orders-10",
+          "question": "Can I return a product?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Yes. You can return unused products in their original packaging within 30 days of delivery. Please write to support@ekcos.eu first. We send you a return label and instructions. After we approve the return, we refund you to your original payment method within 10 business days. Products with custom branding cannot be returned."
+            }
+          ]
+        },
+        {
+          "id": "orders-11",
+          "question": "What if my order arrives damaged or incomplete?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Please check your parcel on delivery. If anything is damaged, wrong or missing, write to support@ekcos.eu right away, ideally with photos. We will make it right."
+            }
+          ]
+        },
+        {
+          "id": "orders-12",
+          "question": "Can I get samples or a price for larger volumes?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Yes. Companies can ask us for samples. For larger volumes or regular deliveries, write to support@ekcos.eu. We prepare an offer or put you in touch with our partner in your country."
+            }
+          ]
+        },
+        {
+          "id": "orders-13",
+          "question": "How can I contact you?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Write to support@ekcos.eu or use the contact form in our e-shop. The e-shop is run by Ekcos Europe OÜ, Saani tn 2/2-26, 10149 Tallinn, Estonia."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "title": "Still have a question?",
+    "body": "Write to support@ekcos.eu. We are happy to help."
+  },
+  "footnote": "Data source: independent biodegradation test under ASTM D5511-02 and ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City). ëkcos product with 1% Eco-One™ additive: 93.31% biodegradation in 1,288 days (about 3.5 years). The same product without the additive: 0%. Up to 99% within 5 years is projected from the measured trend. Biodegradation depends on landfill conditions. Eco-One™ is a trademark of EcoLogic, LLC."
+}

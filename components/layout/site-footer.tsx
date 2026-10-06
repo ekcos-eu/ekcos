@@ -9,7 +9,11 @@ import { FadeIn } from '@/components/ui/fade-in'
 import { SHOP_BASE_URL } from '@/lib/brand'
 
 type ExploreLink =
-  | { kind: 'internal'; href: '/' | '/articles' | '/eco-one' | '/private-label'; label: string }
+  | {
+      kind: 'internal'
+      href: '/' | '/articles' | '/eco-one' | '/private-label' | '/faq'
+      label: string
+    }
   | { kind: 'external'; href: string; label: string }
 
 export async function SiteFooter() {
@@ -21,7 +25,7 @@ export async function SiteFooter() {
     { kind: 'internal', href: '/articles', label: nav('articles.label') },
     { kind: 'internal', href: '/eco-one', label: nav('ecoOne.label') },
     { kind: 'internal', href: '/private-label', label: nav('privateLabel.label') },
-    { kind: 'external', href: `${SHOP_BASE_URL}/pages/faq`, label: nav('faq.label') },
+    { kind: 'internal', href: '/faq', label: nav('faq.label') },
     { kind: 'external', href: `${SHOP_BASE_URL}/pages/contact`, label: nav('contact.label') },
   ]
 

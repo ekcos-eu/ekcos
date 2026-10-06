@@ -5,6 +5,7 @@ import {PortableText, type PortableTextComponents} from 'next-sanity'
 import type {PortableTextBlock} from '@portabletext/types'
 import {urlFor} from '@/sanity/lib/image'
 import {
+  createProductImageAltLookup,
   linkifyProductChildren,
   type ProductImageAltLookup,
 } from '@/lib/article-product-links'
@@ -104,23 +105,12 @@ function articlePortableTextComponents(
 
 export async function ArticlePortableText({value}: {value: PortableTextBlock[]}) {
   const t = await getTranslations('products')
-  const imageAlts: Record<string, string> = {
-    '/collections/xcren-hd': t('xcrenHd.imageAlt'),
-    '/collections/xcren-puck': t('xcrenPuck.imageAlt'),
-    '/collections/ekcoscreen': t('ekcoscreen.imageAlt'),
-    '/collections/powerscreen': t('powerscreen.imageAlt'),
-    '/collections/basic-screen': t('basicScreen.imageAlt'),
-    '/collections/uro-lite': t('urolite.imageAlt'),
-    '/collections/ekco-clip': t('ekcoClip.imageAlt'),
-    '/collections/fresh-drop': t('freshDrop.imageAlt'),
-    '/collections/ez-trap': t('ezTrap.imageAlt'),
-    '/collections/ekco-mat': t('ekcoMat.imageAlt'),
-  }
+  const getImageAlt = createProductImageAltLookup((key) => t(key))
 
   return (
     <PortableText
       value={value}
-      components={articlePortableTextComponents((shopPath) => imageAlts[shopPath] ?? '')}
+      components={articlePortableTextComponents(getImageAlt)}
     />
   )
 }

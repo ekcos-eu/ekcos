@@ -13,7 +13,13 @@
     "contactTitle": "Kontaktovať",
     "contactDescription": "Kontaktujte tím ëkcos pre špecifikácie, programy a partnerstvá.",
     "privateLabelTitle": "Súkromná značka",
-    "privateLabelDescription": "Predávajte toaletné produkty ëkcos pod svojou vlastnou značkou – privátnou značkou pre distribútorov."
+    "privateLabelDescription": "Predávajte toaletné produkty ëkcos pod svojou vlastnou značkou – privátnou značkou pre distribútorov.",
+    "faqTitle": "FAQ",
+    "faqDescription": "Jasné odpovede k výrobkom ëkcos, materiálom, Eco-One™, privátnej značke a objednávkam.",
+    "faqDistributorsTitle": "FAQ pre distributorov",
+    "faqDistributorsDescription": "Odpovede pre partnerov k výrobkom, materiálom, dokumentom a spolupráci s ëkcos.",
+    "faqEshopTitle": "FAQ pre e-shop",
+    "faqEshopDescription": "Odpovede k výrobkom, doprave, platbe, reklamáciám a objednávkam na eshop.ekcos.eu."
   },
   "LocaleSwitcher": {
     "label": "Jazyk",
@@ -51,7 +57,9 @@
       "label": "Súkromná značka"
     },
     "faq": {
-      "label": "FAQ"
+      "label": "FAQ",
+      "distributors": "Distributori",
+      "eshop": "E-shop"
     }
   },
   "footer": {
@@ -747,6 +755,30 @@
       "error": "Niečo sa pokazilo. Skúste to znova o chvíľu.",
       "alertSelect": "Zadajte množstvo aspoň pre jeden produkt. Nie je potrebné objednávať každý produkt.",
       "boundaryError": "Formulár dopytu sa nepodarilo načítať. Obnovte stránku alebo pošlite e-mail na adresu support@ekcos.eu."
+    }
+  },
+  "faq": {
+    "error": "Túto sekciu FAQ sa nepodarilo načítať. Obnovte prosím stránku.",
+    "tocLabel": "Obsah",
+    "switchLabel": "Hľadáte iné FAQ?",
+    "nav": {
+      "distributors": "Distributori",
+      "eshop": "E-shop"
+    },
+    "audiences": {
+      "distributors": {
+        "eyebrow": "Pre partnerov"
+      },
+      "eshop": {
+        "eyebrow": "Pre zákazníkov e-shopu"
+      }
+    },
+    "hub": {
+      "title": "FAQ",
+      "tagline": "Vaše otázky, naše fakty",
+      "intro": "Vyberte FAQ podľa toho, ako od ëkcos nakupujete — ako partnerský distributor, alebo ako zákazník e-shopu.",
+      "distributorsDescription": "Výrobky, materiály, Eco-One™, privátna značka, dokumenty a spolupráca s ëkcos.",
+      "eshopDescription": "Výrobky, objednávky, platba, doprava, reklamácie a nákup na eshop.ekcos.eu."
     }
   }
 }

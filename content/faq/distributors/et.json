@@ -1,0 +1,320 @@
+{
+  "hero": {
+    "title": "FAQ",
+    "tagline": "Teie küsimused, meie faktid. Selged vastused meie toodete, materjalide ja dokumentide kohta.",
+    "intro": "Siit leiate selged vastused küsimustele, mida meie partnerid ja nende kliendid kõige sagedamini küsivad. Iga väide selles KKK-s on konkreetne ja põhineb tõenditel: sõltumatul laborikatsel, patentidel ja meie tootja dokumentidel."
+  },
+  "metrics": [
+    {
+      "value": "93 %",
+      "label": "biolagunemine 3,5 aasta jooksul sõltumatus laborikatses, Eco-One™ lisandiga"
+    },
+    {
+      "value": "60+",
+      "label": "päeva lõhna (ëkcoscreen 60+, xcrën HD 60+), kaks korda kauem kui tavalistel 30-päevastel sõeltel"
+    },
+    {
+      "value": "141 g",
+      "label": "lõhnastatud materjali sõelas ëkcoscreen 60+, üle kolme korra rohkem kui tavalisel sõelal"
+    },
+    {
+      "value": "95 %",
+      "label": "sõela ëkcoscreen 60+ pinnast katavad patenteeritud pritsmevastased harjased"
+    }
+  ],
+  "categories": [
+    {
+      "id": "about",
+      "title": "Ettevõttest ëkcos",
+      "items": [
+        {
+          "id": "about-1",
+          "question": "Kes on ëkcos?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcos innovations arendab, toodab ja turustab lõhnastatud pissuaarisõelu, klambriga WC-värskendajaid ja õhuvärskendajaid. Oleme Ameerika Ühendriikides turuliider ja oleme toonud oma tooted turule enam kui 70 riigis. Meie tooted valmistatakse Mehhikos. Meie keskladu Tšehhis varustab kliente ja partnereid kogu Euroopas, Aasias ja Aafrikas. Neli asja:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Pritsmekaitse. Meie patenteeritud pritsmevastased harjased (Sealed Bristles Technology™) katavad kuni 95 % sõelast.",
+                "Lõhna pikk kestus. ëkcoscreen 60+ ja xcrën HD 60+ annavad lõhna 60+ päeva, kaks korda kauem kui tavalised 30-päevased sõelad.",
+                "Kontrollitavad faktid materjali kohta. Sisaldab ringlussevõetud EVA- materjali. Eco-One™ lisandiga prügilas biolagunev, nagu näitab sõltumatu laborikatse.",
+                "Teie kaubamärk tootel. Teie logo saab lõigata otse sõela sisse."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "about-2",
+          "question": "Miks valida 60+ päeva kestev sõel?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcoscreen 60+ kestab kaks korda kauem kui tavaline 30-päevane sõel, sarnase päevakuluga. Lisaks vahetate seda poole harvemini, nii et teie töötajad kulutavad sellele vähem aega."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urinal-screens",
+      "title": "Pissuaarisõelad",
+      "items": [
+        {
+          "id": "urinal-screens-1",
+          "question": "Kuidas pritsmekaitsesüsteem töötab?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Meie sõeltes on kasutusel Sealed Bristles Technology™, meie enda patenteeritud pritsmekaitsesüsteem. Tihedad harjased lõhuvad uriinijoa ja minimeerivad uriinipritsmeid. Harjased katavad 95 % sõelast ëkcoscreen 60+ ja 92 % sõelast xcrën HD 60+. üro lite kasutab sama tehnoloogiat pikkade harjastega, mis pakuvad väikeses sõelas suurt pritsmekaitset."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-2",
+          "question": "Kas on tõendeid, et harjased toimivad?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Filmisime sõela ëkcoscreen 60+ kõrvutises UV-pritsmekatses identsetes tingimustes: sama pissuaarimudel, sama kõrgus ja sama vool. Nähtavaid pritsmeid väljaspool sõela ëkcoscreen 60+ ei tekkinud. Küsige meilt videot. Harjassüsteem ise on patenteeritud."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-3",
+          "question": "Kas ma saan sõelu kasutada veevabades pissuaarides?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Jah. ëkcoscreen 60+ ja xcrën HD 60+ on ideaalsed veevabadele pissuaaridele ning ka powër screen, üro lite ja basic scrëen sobivad neile. Veevaba pissuaari äravoolu jaoks vaadake allpool padrunit ëz trap."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-4",
+          "question": "Kas sõel sobib minu pissuaarile?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "powër screen ja basic scrëen on painduva kujuga ja sobivad peaaegu igat tüüpi pissuaaridele ning üro lite on mõeldud väiksematele pissuaaridele. Iga sõela suuruse leiate ülaltoodud tabelist."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-5",
+          "question": "Kuidas ma pissuaarisõela paigaldan või vahetan?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Kandke kindaid. Võtke kasutatud sõel välja ja visake see segaolmejäätmete hulka. Võtke uus sõel pakendist välja ja asetage see tasaselt pissuaari põhja äravoolu kohale, harjased ülespoole. Vahetage sõel, kui lõhn nõrgeneb, või tavapärase hooldusintervalli järel."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-6",
+          "question": "Kuidas ma kasutatud sõelast vabanen?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Visake see segaolmejäätmete hulka. EVA-materjali ennast saab ringlusse võtta, kuid kasutatud pissuaarisõela mitte, sest see on bioloogiliselt saastunud. See jõuab prügilasse või põletusse. Seetõttu lisame lisandit Eco-One™, mis muudab meie materjali prügilas biolagunevaks."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-7",
+          "question": "Mis on xcrën puck?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "xcrën puck on X-kujuline pissuaarisõel deodoreeriva tabletiga. X-kuju takistab tahketel osakestel ja prahil äravoolu ummistamast ning tablett eraldab iga kasutuskorraga värsket lõhna kuni 30 päeva. Tablett on valmistatud peamiselt vahast ja glütseriinist ning lahustub kasutamise käigus. Tabletti ei saa asendada, seega vahetatakse kogu xcrën puck. See tähendab, et sõela xcrën puck tablett ei sisalda paradiklorobenseeni (PARA), mille WHO liigitab võimalikuks kantserogeeniks. ëkcos ei ole kunagi kasutanud ainet PARA. NON-PARA ei tähenda, et toode on parabeenivaba."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-8",
+          "question": "Mis on ëz trap ja millistele pissuaaridele see sobib?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëz trap on veevabade pissuaaride padrun. Uriin voolab läbi sifooni ja sulgurkaas sulgub tihedalt pärast iga kasutuskorda, mis aitab takistada kanalisatsioonilõhnade väljapääsu. See sobib kaubamärkide Sloan, Falcon, Vitra, Bobrick ja teiste Falcon Velocity süsteemi kasutavate tootjate pissuaaridele (läbimõõt 11,8 cm, kõrgus 11,5 cm). Padrun kestab 4 kuni 6+ kuud ega vaja kalleid geele ega spetsiaalseid puhastusvahendeid. Valage iga päev pissuaari klaasitäis vett, et vältida lubjasetteid. Regulaarne puhastamine lubjaeemaldusvahendiga, näiteks kvaliteetse WC-geeliga, pikendab selle eluiga. ëz trap on saadaval eemaldustööriistaga või ilma. Tööriist on korduvkasutatav, nii et vajate seda ainult esimese tellimusega."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-9",
+          "question": "Mis on ëkco mat?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkco mat on imav ühekordne põrandamatt pissuaari alla. Mõõtmetega 54 x 51 cm katab see enamiku standardsete pissuaaride ümbruse. See kaitseb põrandat uriini eest ja vähendab uriini kandumist jalatsitaldadel."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-10",
+          "question": "Kuidas ma paigaldan õhuvärskendajad frësh drop ja ëkco loop?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Mõlemad on süsteemid, mis koosnevad alusest ja lõhnatäitest. Kinnitage alus puhtale ja kuivale pinnale: frësh drop kaasasoleva kleeplindiga, ëkco loop isekleepuva kinnitusalusega. Seejärel kinnitage täide. Õhuvärskendajal frësh drop hoiab väike keeratav lukk täidet alusel ning varulukke on saadaval, kui mõni peaks kaduma. Paigaldage ëkco loop sinna lähedale, kus soovite lõhna tunda."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-11",
+          "question": "Kuidas lõhn eraldub?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Passiivselt. Lõhn on materjali imbutatud ja eraldub järk-järgult aja jooksul. Pihusteid, patareisid ega elektrit pole vaja. Meie peamistel tootesarjadel on samad üksteist värvi ja lõhna: lilla / metsamari, roheline / õun, sinine / fresh, oranž / troopilised puuviljad, läbipaistev / troopilised puuviljad, must / piparmünt, leek / mango, roheline / mänd, punane / melon, lilla / lavendel ja kollane / tsitrus. Nii võib hoones olla üks ja sama lõhn pissuaarist WC-kabiinini. Meie lõhnu on lihtne ära tunda: õun lõhnab nagu õun, melon nagu melon. Mõned meie lõhnastatud tooted võivad põhjustada allergilist nahareaktsiooni. Järgige märgistust ja ohutuskaarti, kandke toodete käsitsemisel kindaid ja hoidke tooted lastele kättesaamatus kohas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ez-trap-ekco-mat",
+      "title": "ëz trap ja ëkco mat",
+      "items": [
+        {
+          "id": "ez-trap-ekco-mat-1",
+          "question": "Mis on Eco-One™?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Eco-One™ on orgaaniline lisand, mida toodab EcoLogic, LLC. Lisame seda tootmise käigus oma materjalile umbes 1 %. See ei muuda toote tugevust, välimust ega toimivust. Kui toode jõuab bioloogiliselt aktiivsesse prügilasse, laguneb materjal biogaasiks, süsinikdioksiidiks (CO₂) ja huumuseks. Kaasaegsed prügilad kasutavad biogaasi energia tootmiseks. See tähendab, et meie materjal laguneb bioloogiliselt aktiivses prügilas, kuhu kasutatud sõelad jõuavad. México linnas asuv Instituto Politécnico Nacional katsetas Eco-One™ lisandiga ëkcos EVA-materjali standardite ASTM D5511 ja ISO 15985 järgi. Materjal saavutas 3,5 aasta jooksul 93 % biolagunemise, samas kui sama materjal ilma lisandita näitas 0 %. Prognoositav biolagunemine 5 aasta jooksul on kuni 99 %. See on mõõdetud trendi põhjal tehtud prognoos, mitte mõõdetud tulemus. Biolagunemine sõltub prügila tingimustest."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-2",
+          "question": "Miks te ei nimeta oma tooteid „keskkonnasõbralikeks“?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Alates 27. septembrist 2026 ei luba EL-i eeskirjad (direktiiv (EL) 2024/825) enam kasutada üldisi väiteid, nagu „keskkonnasõbralik“, „roheline“ või „jätkusuutlik“, ilma tunnustatud tõenditeta suurepärase keskkonnatoimivuse kohta. Seetõttu ütleme täpselt, mida suudame tõendada: valmistamisel on kasutatud ringlussevõetud EVA-materjali, sõltumatu laborikatse järgi on Eco-One™ lisandiga materjal prügilas biolagunev ning karbid on valmistatud 100 % ringlussevõetud kartongist."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-3",
+          "question": "Kas ëkcos-tooteid saab ringlusse võtta?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "EVA-materjali ennast saab ringlusse võtta. Kasutatud pissuaarisõela või klambriga WC-värskendajat mitte, sest see on bioloogiliselt saastunud, seega kuulub see segaolmejäätmete hulka. Õhuvärskendajate frësh drop ja ëkco loop täidete valmistamisel kasutatakse ringlussevõetud EVA-materjali ja need ei ole saastunud, seega saab nende materjali ringlusse võtta. Järgige kohalikke jäätmekäitluse eeskirju. Me ei nimeta oma tooteid „100 % ringlussevõetavateks“, sest kasutatud sõela puhul ei oleks see tõsi. Meie tootekarbid ja väliskastid on valmistatud 100 % ringlussevõetud lainepapist. Tootekottide materjal on BOPP ehk polüpropüleenkile. Kottide kohta me keskkonnaväiteid ei esita. EL-i pakendite ja pakendijäätmete määruse (PPWR) kohane pakendidokumentatsioon on saadaval teie vastavusdokumentide jaoks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "air-fresheners",
+      "title": "Õhuvärskendajad ja klambriga WC-värskendajad",
+      "items": [
+        {
+          "id": "air-fresheners-1",
+          "question": "Kas ma saan tooteid oma logoga?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Jah. Saame lõigata teie logo otse sõela sisse, mitte ainult trükkida pakendile, nii et see püsib seal kogu toote eluea. Teie logo saab ka tootele trükkida. Pakendil võivad olla teie enda etiketid teie logo ja EAN-koodidega ning värvid ja lõhnad valite teie. Enamikule meie toodetest. Pissuaarisõeltele ja klambriga WC-värskendajale ëkco clip saab teie logo lõigata materjali sisse või trükkida. frësh drop märgistatakse trükiga. Õhuvärskendajal ëkco loop ei ole logo jaoks ruumi. Miinimumkogused sõltuvad tootest ning iga omamärgistusega toote kohta lisandub ühekordne seadistustasu. Omamärgistusega tooted valmistatakse tellimuse alusel, tavapärane tootmis- ja tarneaeg on 6 kuni 10 nädalat. Eritellimused tasutakse 100 % ette. Küsige meilt pakkumist."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-2",
+          "question": "Kuidas te kaupa saadate ja kui kaua tarne aega võtab?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Tšehhi piires saadame pakid ja kaubaalused vedajaga FOFR. Teistesse EL-i riikidesse saadame pakid vedajaga FedEx ja kaubaalused vedajaga DSV. Tarne EL-i piires võtab tavaliselt umbes 5 päeva alates väljasaatmisest, Tšehhile lähedal asuvatesse riikidesse vähem, näiteks Saksamaale ja Austriasse 1 kuni 2 päeva ning Itaaliasse, Prantsusmaale ja Madalmaadesse 3 kuni 4 päeva. Väljapoole EL-i teeme veopakkumise iga tellimuse kohta ja paljud partnerid korraldavad transpordi ise. Arvutame veokulud iga tellimuse kohta."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-3",
+          "question": "Kas ma saan näidiseid?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Jah. Küsige meilt näidiseid, et teie ja teie kliendid saaksite võrrelda meie tooteid ja lõhnu mis tahes teise tarnija omadega."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Biolagunemiskatse sertifikaat (Instituto Politécnico Nacional, México linn; ASTM D5511 ja ISO 15985).",
+                "Eco-One™ infoleht, mis selgitab lisandit ja katset.",
+                "Pakendite PPWR-dokumentatsioon meie tootjalt, ainult teie vastavusdokumentide jaoks. Palun ärge jagage tarnija deklaratsioone kellelegi peale ametiasutuste.",
+                "Patendid tehnoloogiale Sealed Bristles Technology™ ja meie sõelte kujudele.",
+                "Ohutuskaardid meie lõhnastatud toodetele.",
+                "UV-pritsmekatse video sõelaga ëkcoscreen 60+.",
+                "Professionaalsed tootefotod ja videod, sealhulgas UV-pritsmekatse video.",
+                "Kasutusvalmis tootetekstid 22 keeles.",
+                "Logod ja brändigraafika.",
+                "Võrdlusjuhend, Eco-One™ infoleht, katsesertifikaat, PPWR- dokumentatsioon ja ohutuskaardid."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-4",
+          "question": "Miks teie tootetekstid muutusid?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Tooteteabe ja pakendite kohta kehtivad nüüd kaks uut EL-i õigusakti: direktiiv (EL) 2024/825 (uued keskkonnaväidete reeglid) alates 27. septembrist 2026 ning pakendite ja pakendijäätmete määrus (EL) 2025/40 (PPWR) alates 12. augustist 2026. Kontrollisime iga väidet nende reeglite alusel. Meie uued tekstid sisaldavad ainult konkreetseid ja tõenditel põhinevaid keskkonnaväiteid. Palun kasutage neid oma e-poes, kataloogides ja pakkumistes."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Üldised väljendid, nagu „keskkonnasõbralik“, „roheline“, „ökoloogiline“ või „jätkusuutlik“, ka pakendite kohta.",
+                "„Tsellofaankott“ või „tsellofaanpakend“. Meie kottide materjal on BOPP.",
+                "„100 % ringlussevõetav“. Meie uued tekstid ütlevad täpselt, mida saab ringlusse võtta.",
+                "„99 % biolagunev 5 aasta jooksul“ katsetulemusena. Katses mõõdeti 3,5 aasta jooksul 93 %. Kuni 99 % 5 aasta jooksul on prognoos.",
+                "Üksnes „biolagunev“ tootenimedes või pealkirjades. Palun kirjutage „prügilas biolagunev“.",
+                "Kõik väited bakterite, viiruste, pisikute või tervisekaitse kohta.",
+                "VOC- ja toksilisusväited, nagu „vastab Euroopa VOC-standarditele“, „VOC- vaba“ või „keskkonnale mittetoksiline“.",
+                "Absoluutsed lubadused, nagu „kõrvaldab pritsmed“ või „lõhnavaba“.",
+                "„Parabeenivaba“ NON-PARA tähenduses. NON-PARA tähendab, et tablett ei sisalda paradiklorobenseeni.",
+                "Üksnes „60+ päeva“ õhuvärskendaja frësh drop puhul. Palun kirjutage „30+ päeva vähese ventilatsiooniga WC-kabiinides ja 60+ päeva vähese kasutuse korral“."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-5",
+          "question": "Kas ma võin tootetekste muuta või tõlkida?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Palun kasutage meie heakskiidetud tekste, mis on valmis 22 keeles. Kui te neid lühendate või kohandate, säilitage iga väitega seotud tingimus, näiteks „prügilas“, „valmistamisel on kasutatud ringlussevõetud EVA-materjali“ ning erinevus mõõdetud 93 % ja prognoositud 99 % vahel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "title": "Materjalid, Eco-One™ ja pakendid",
+      "items": []
+    },
+    {
+      "id": "private-label",
+      "title": "Omamärgistus",
+      "items": []
+    },
+    {
+      "id": "working-with",
+      "title": "Koostöö ettevõttega ëkcos",
+      "items": []
+    }
+  ],
+  "contact": {
+    "title": "Kas teil on veel küsimusi?",
+    "body": "Võtke ühendust oma ëkcos-müügiesindajaga või kirjutage aadressil"
+  },
+  "footnote": ""
+}

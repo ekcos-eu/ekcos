@@ -1,0 +1,304 @@
+{
+  "hero": {
+    "title": "FAQ",
+    "tagline": "Vos questions, nos faits. Des réponses claires sur nos produits, nos matériaux, les commandes et la livraison.",
+    "intro": "Vous trouverez ici des réponses claires aux questions que nos clients posent le plus souvent, du choix de la bonne grille urinoir à la livraison et aux retours. Chaque allégation environnementale est précise et étayée par des preuves, comme un test indépendant en laboratoire."
+  },
+  "metrics": [
+    {
+      "value": "93 %",
+      "label": "de biodégradation en 3 ans et demi lors d’un test indépendant en laboratoire, avec l’additif Eco-One™"
+    },
+    {
+      "value": "60+",
+      "label": "jours de parfum (ëkcoscreen 60+, xcrën HD 60+), deux fois plus longtemps que les grilles standard de 30 jours"
+    },
+    {
+      "value": "141 g",
+      "label": "de matériau parfumé dans la grille ëkcoscreen 60+, soit plus de trois fois une grille classique"
+    },
+    {
+      "value": "95 %",
+      "label": "de la surface de la grille ëkcoscreen 60+ couverte de picots anti-éclaboussures brevetés"
+    }
+  ],
+  "categories": [
+    {
+      "id": "about",
+      "title": "À propos d’ëkcos",
+      "items": [
+        {
+          "id": "about-1",
+          "question": "Qui est ëkcos ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcos innovations développe, fabrique et distribue des grilles urinoir parfumées, des clips WC et des désodorisants d’intérieur. Nous sommes leader du marché aux États-Unis et avons lancé nos produits dans plus de 70 pays. Nos produits sont fabriqués au Mexique. Notre entrepôt central en République tchèque approvisionne des clients et des partenaires en Europe, en Asie et en Afrique. Quatre points :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Protection anti-éclaboussures. Nos picots anti-éclaboussures brevetés (Sealed Bristles Technology™) couvrent jusqu’à 95 % de la grille.",
+                "Longue tenue du parfum. ëkcoscreen 60+ et xcrën HD 60+ offrent 60+ jours de parfum, soit deux fois plus longtemps que les grilles standard de 30 jours.",
+                "Des faits vérifiables sur le matériau. Fabriqué avec de l’EVA recyclé. Biodégradable en décharge avec l’additif Eco-One™, comme le montre un test indépendant en laboratoire.",
+                "Votre marque sur le produit. Votre logo peut être découpé dans la grille elle- même."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "about-2",
+          "question": "Quelle grille urinoir dois-je choisir ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Choisissez en fonction de la fréquentation et de la fréquence d’entretien de vos toilettes. Grille Parfum Taille Idéale pour ëkcoscreen 60+ 60+ jours 20 x 21 cm Toilettes très fréquentées. 141 g de matériau parfumé. Les picots couvrent 95 % de la grille. xcrën HD 60+ 60+ jours 17 x 18 cm Toilettes très fréquentées où l’esthétique compte. Forme design brevetée. powër screen jusqu’à 30 18 x 20 cm Changement mensuel. Forme jours souple qui s’adapte à presque tous les urinoirs. üro lite jusqu’à 30 13 x 13 cm Petits urinoirs. Longs picots jours brevetés. xcrën puck jusqu’à 30 17 x 17 cm Garder solides et débris hors de jours l’évacuation. Pastille désodorisante. ëkcoscreen 60+ et xcrën HD 60+ offrent 60+ jours de parfum, soit deux fois plus longtemps que les grilles standard de 30 jours. Dans les toilettes peu fréquentées, elles durent encore plus longtemps. powër screen, üro lite et xcrën puck offrent jusqu’à 30 jours, ce qui les rend idéales pour l’entretien mensuel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urinal-screens",
+      "title": "Grilles urinoir",
+      "items": [
+        {
+          "id": "urinal-screens-1",
+          "question": "Pourquoi choisir une grille de 60+ jours ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcoscreen 60+ dure deux fois plus longtemps qu’une grille standard de 30 jours, à coût par jour similaire. Vous la remplacez aussi deux fois moins souvent : votre personnel y consacre donc moins de temps."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-2",
+          "question": "Comment fonctionne le système anti- éclaboussures ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Nos grilles utilisent Sealed Bristles Technology™, notre propre système anti- éclaboussures breveté. Des picots denses brisent le jet d’urine et réduisent au minimum les éclaboussures d’urine. Les picots couvrent 95 % de la grille ëkcoscreen 60+ et 92 % de la grille xcrën HD 60+. üro lite utilise la même technologie avec de longs picots, qui offrent une grande protection anti- éclaboussures dans une petite grille. Nous avons filmé ëkcoscreen 60+ lors d’un test comparatif d’éclaboussures sous UV, dans des conditions identiques : même modèle d’urinoir, même hauteur et même débit. ëkcoscreen 60+ n’a montré aucune éclaboussure visible hors de la grille. Demandez-nous la vidéo. Le système de picots est lui- même breveté. Oui. ëkcoscreen 60+ et xcrën HD 60+ sont idéales pour les urinoirs sans eau, et powër screen et üro lite conviennent aussi. Pour l’évacuation d’un urinoir sans eau, voir ëz trap ci-dessous. powër screen a une forme souple qui s’adapte à presque tous les types d’urinoirs, et üro lite est conçue pour les petits urinoirs. Vous trouverez la taille de chaque grille dans le tableau ci-dessus."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-3",
+          "question": "Comment puis-je poser ou changer une grille urinoir ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Portez des gants. Retirez la grille usagée et jetez-la dans les ordures ménagères. Déballez la nouvelle grille et posez-la à plat au fond de l’urinoir, sur l’évacuation, picots vers le haut. Remplacez-la quand le parfum s’estompe ou selon votre intervalle d’entretien habituel."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-4",
+          "question": "Comment puis-je jeter une grille usagée ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Jetez-la dans les ordures ménagères. Le matériau EVA lui-même peut être recyclé, mais pas une grille urinoir usagée, car elle est contaminée biologiquement. Elle finit en décharge ou à l’incinération. C’est pourquoi nous ajoutons l’additif Eco-One™, qui rend notre matériau biodégradable en décharge. xcrën puck est une grille urinoir en forme de X avec pastille désodorisante. La forme en X empêche les solides et les débris d’obstruer l’évacuation, et la pastille diffuse un parfum frais à chaque utilisation, jusqu’à 30 jours. La pastille est composée principalement de cire et de glycérine et se dissout à l’usage. Elle ne peut pas être remplacée : vous changez donc toute la grille xcrën puck."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-5",
+          "question": "Que signifie NON-PARA ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Cela signifie que la pastille de la grille xcrën puck ne contient pas de paradichlorobenzène (PARA), que l’OMS classe comme cancérogène possible. ëkcos n’a jamais utilisé de PARA. NON-PARA ne signifie pas sans parabènes."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-6",
+          "question": "Quel désodorisant dois-je choisir ?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "frësh drop : pour les cabines WC et les toilettes. 30+ jours de parfum dans les cabines peu ventilées et 60+ jours si elles sont peu fréquentées, sans piles ni électricité.",
+                "ëkco clip : se fixe sur la cuvette des WC et offre jusqu’à 30 jours de parfum. Sa forme souple s’adapte à presque tous les types de cuvettes.",
+                "ëkco loop : désodorisant compact pour les petits espaces peu aérés, comme sous les bureaux, dans les couvercles de poubelles, les placards et les meubles à chaussures. Jusqu’à 30 jours. Pour les cabines WC, choisissez frësh drop. Dans les cabines peu ou pas ventilées, il dure 30+ jours, et 60+ jours si elles sont peu fréquentées. Quand le parfum s’estompe, vous ne remplacez que la recharge. La base reste au mur."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-7",
+          "question": "Comment puis-je installer frësh drop et ëkco loop ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Les deux se composent d’une base et d’une recharge parfumée. Fixez la base sur une surface propre et sèche : frësh drop avec le ruban adhésif fourni, ëkco loop avec sa base de fixation adhésive. Mettez ensuite la recharge en place. Sur frësh drop, un petit verrou rotatif maintient la recharge sur la base, et des verrous de rechange sont disponibles si l’un d’eux se perd. Placez ëkco loop près de l’endroit où vous voulez le parfum."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-8",
+          "question": "Comment le parfum est-il diffusé ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "De façon passive. Le matériau est imprégné de parfum, qui se diffuse progressivement au fil du temps. Pas besoin d’aérosol, de piles ni d’électricité."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-9",
+          "question": "Quelles couleurs et quels parfums sont disponibles ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Nos principales lignes partagent onze couleurs et parfums identiques : violet / fruits rouges, vert / pomme, bleu / fresh, orange / fruits tropicaux, transparent / fruits tropicaux, noir / menthe, flamme / mangue, vert / pin, rouge / melon, violet / lavande et jaune / agrumes. Un bâtiment peut ainsi garder un seul parfum, de l’urinoir à la cabine. Nos parfums sont faciles à reconnaître : la pomme sent la pomme, le melon sent le melon."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-10",
+          "question": "Que dois-je savoir pour manipuler les produits en toute sécurité ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Certains de nos produits parfumés peuvent provoquer une allergie cutanée. Veuillez respecter l’étiquette et la fiche de données de sécurité, porter des gants lorsque vous manipulez les produits et les tenir hors de portée des enfants."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-11",
+          "question": "Que signifie « biodégradable en décharge », et comment cela a-t-il été testé ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Cela signifie que notre matériau se décompose dans une décharge biologiquement active, là où finissent les grilles usagées. L’Instituto Politécnico Nacional de Mexico a testé l’EVA ëkcos avec Eco-One™ selon les normes ASTM D5511 et ISO 15985. Le matériau a atteint 93 % de biodégradation en 3 ans et demi, contre 0 % pour le même matériau sans l’additif. Une biodégradation allant jusqu’à 99 % est prévue en 5 ans. Il s’agit d’une projection fondée sur la tendance mesurée, et non d’un résultat mesuré. La biodégradation dépend des conditions de la décharge."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ez-trap-ekco-mat",
+      "title": "ëz trap et ëkco mat",
+      "items": [
+        {
+          "id": "ez-trap-ekco-mat-1",
+          "question": "Pourquoi ne qualifiez-vous pas vos produits d’« écologiques » ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Depuis le 27 septembre 2026, les règles de l’UE (directive (UE) 2024/825) n’autorisent plus les allégations générales comme « écologique », « vert » ou « durable » sans preuve reconnue d’une excellente performance environnementale. Nous vous disons donc exactement ce que nous pouvons prouver : fabriqué avec de l’EVA recyclé, biodégradable en décharge avec Eco-One™ lors d’un test indépendant en laboratoire, et boîtes en carton 100 % recyclé. Le matériau EVA lui-même peut être recyclé. Ce n’est pas le cas d’une grille urinoir usagée ou d’un clip WC usagé, car ils sont contaminés biologiquement : ils vont donc dans les ordures ménagères. Les recharges frësh drop et ëkco loop sont fabriquées avec de l’EVA recyclé et ne sont pas contaminées : leur matériau peut donc être recyclé. Veuillez respecter les règles locales de tri des déchets. Nous ne qualifions pas nos produits de « 100 % recyclables », car ce serait faux pour une grille usagée."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-2",
+          "question": "Quels emballages utilisez- vous ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Nos boîtes de produits et nos cartons d’expédition sont en carton ondulé 100 % recyclé. Les sachets des produits sont en BOPP, un film de polypropylène. Nous ne faisons aucune allégation environnementale sur les sachets. Oui. Les clients professionnels peuvent nous demander le certificat d’essai de biodégradation, notre dépliant Eco-One™, les fiches de données de sécurité et notre documentation sur les emballages. Écrivez à support@ekcos.eu."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-3",
+          "question": "Quels produits peuvent porter mon logo ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "La plupart de nos produits. Les grilles urinoir et ëkco clip peuvent porter votre logo découpé dans le matériau ou imprimé. frësh drop se personnalise par impression. ëkco loop n’a pas de place pour un logo. Les produits personnalisés sont fabriqués sur commande. Le délai habituel de production et de livraison est de 6 à 10 semaines. Des frais de mise en place sont facturés une seule fois par produit, et les commandes personnalisées sont payées à 100 % à l’avance. Vous trouverez les tarifs actuels sur notre page de personnalisation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "air-fresheners",
+      "title": "Désodorisants d’intérieur et clips WC",
+      "items": [
+        {
+          "id": "air-fresheners-1",
+          "question": "Qui peut acheter sur la boutique en ligne ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Les entreprises et les particuliers de tous les pays de l’UE. Les entreprises immatriculées à la TVA dans un pays de l’UE autre que la République tchèque peuvent acheter avec une TVA à 0 %. Non. Certains produits sont vendus à l’unité, d’autres par lots de deux. Le nom du produit l’indique toujours."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-2",
+          "question": "Quels moyens de paiement acceptez-vous ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Les cartes de paiement comme Visa, Mastercard, Maestro et American Express, Apple Pay, Google Pay et Shop Pay, des moyens locaux comme Bancontact, BLIK, MB WAY et MobilePay, ainsi que le virement bancaire. La page de paiement affiche les moyens disponibles dans votre pays. Oui, si votre entreprise est immatriculée à la TVA dans un pays de l’UE autre que la République tchèque. Lors du paiement, saisissez la raison sociale officielle de votre entreprise et votre numéro de TVA intracommunautaire avec le préfixe du pays, par exemple DE123456789. Nous le vérifions en temps réel dans la base de données VIES de l’UE. S’il est valide, la TVA passe à 0 % (autoliquidation). Les entreprises tchèques paient la TVA tchèque, car nous facturons sous un numéro de TVA tchèque. Veuillez saisir votre numéro de TVA avant de payer. En cas d’oubli, écrivez-nous. Vous trouverez plus de détails dans notre guide B2B et TVA à 0 %. Oui. Chaque commande est accompagnée d’une facture avec TVA. Si vous avez besoin d’une copie, écrivez à support@ekcos.eu. Nous expédions les commandes de la boutique en ligne sous 1 à 2 jours ouvrés après le paiement. Si un produit est temporairement en rupture de stock, nous l’expédions généralement dans un délai d’un mois, car de nouvelles marchandises arrivent régulièrement dans notre entrepôt."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-3",
+          "question": "Où livrez-vous, et combien de temps prend la livraison ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Nous livrons dans tous les pays de l’UE. La livraison prend généralement environ 5 jours après l’expédition, et moins pour les pays proches de la République tchèque. Par exemple, comptez 1 à 2 jours pour l’Allemagne et l’Autriche, et 3 à 4 jours pour l’Italie, la France et les Pays-Bas. Pour les livraisons hors UE, veuillez nous écrire."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-4",
+          "question": "Quels transporteurs utilisez-vous ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "En République tchèque, nous expédions avec FOFR, vers les autres pays de l’UE avec FedEx. Vous recevez les informations de suivi par e-mail lorsque votre colis est en route. La livraison est gratuite pour les commandes de plus de 120 EUR, sauf vers Chypre et Malte. En dessous de 120 EUR, la livraison coûte : Livraison Pays 3,90 EUR République tchèque 4,90 EUR Allemagne, Autriche, Hongrie, Pologne, Slovaquie 5,90 EUR Belgique, Italie, Luxembourg, Pays-Bas, Roumanie, Slovénie 7,90 EUR France 8,90 EUR Croatie, Danemark, Espagne, Grèce, Suède 9,90 EUR Bulgarie, Estonie, Finlande, Irlande, Lettonie, Lituanie 10,90 EUR Portugal 16,90 EUR Chypre, Malte (sans livraison gratuite) Lors du paiement, vous voyez le montant exact dans votre devise. Oui. Vous pouvez retourner les produits non utilisés dans leur emballage d’origine dans les 30 jours suivant la livraison. Veuillez d’abord écrire à support@ekcos.eu. Nous vous envoyons une étiquette de retour et les instructions. Une fois le retour accepté, nous vous remboursons sur votre moyen de paiement initial sous 10 jours ouvrés. Les produits personnalisés ne peuvent pas être retournés."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-5",
+          "question": "Que faire si ma commande arrive endommagée ou incomplète ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Veuillez vérifier votre colis à la livraison. Si un article est endommagé, erroné ou manquant, écrivez immédiatement à support@ekcos.eu, si possible avec des photos. Nous trouverons une solution. Oui. Les entreprises peuvent nous demander des échantillons. Pour de plus grandes quantités ou des livraisons régulières, écrivez à support@ekcos.eu. Nous préparons une offre ou vous mettons en relation avec notre partenaire dans votre pays."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-6",
+          "question": "Comment puis-je vous contacter ?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Écrivez à support@ekcos.eu ou utilisez le formulaire de contact de notre boutique en ligne. La boutique en ligne est exploitée par Ekcos Europe OÜ, Saani tn 2/2-26, 10149 Tallinn, Estonie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "title": "Matériaux, Eco-One™ et emballage",
+      "items": []
+    },
+    {
+      "id": "private-label",
+      "title": "Marque blanche",
+      "items": []
+    },
+    {
+      "id": "orders",
+      "title": "Commandes, paiement et livraison",
+      "items": []
+    }
+  ],
+  "contact": {
+    "title": "Vous avez encore une question ?",
+    "body": "Écrivez à support@ekcos.eu. Nous serons ravis de vous aider. Leader du marché aux États-Unis, avec des produits lancés dans plus de 70 pays. Visitez notre boutique en Entrepôt central en République tchèque, qui approvisionne des partenaires en ligne Europe, en Asie et en Afrique. eshop.ekcos.eu"
+  },
+  "footnote": "Source des données : test indépendant de biodégradation selon les normes ASTM D5511-02 et ISO 15985:2014 (Instituto Politécnico Nacional, Mexico). Produit ëkcos avec 1 % d’additif Eco-One™ : 93,31 % de biodégradation en 1 288 jours (environ 3 ans et demi). Le même produit sans l’additif : 0 %. Une biodégradation allant jusqu’à 99 % en 5 ans est prévue d’après la tendance mesurée. La biodégradation dépend des conditions de la décharge. Eco-One™ est une marque de la société EcoLogic, LLC."
+}

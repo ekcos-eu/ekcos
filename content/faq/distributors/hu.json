@@ -1,0 +1,314 @@
+{
+  "hero": {
+    "title": "FAQ",
+    "tagline": "Az Ön kérdései, a mi tényeink. Világos válaszok termékeinkről, anyagainkról és dokumentumainkról.",
+    "intro": "Itt világos válaszokat talál azokra a kérdésekre, amelyeket partnereink és ügyfeleik a leggyakrabban feltesznek. Ebben a GYIK-ben minden állítás konkrét, és bizonyíték támasztja alá: független laboratóriumi vizsgálat, szabadalmak és gyártónk dokumentumai."
+  },
+  "metrics": [],
+  "categories": [
+    {
+      "id": "about",
+      "title": "Az ëkcos bemutatása",
+      "items": [
+        {
+          "id": "about-1",
+          "question": "Ki az ëkcos?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Az ëkcos innovations illatosított piszoárrácsokat, WC-illatosító klipeket és légfrissítőket fejleszt, gyárt és forgalmaz. Piacvezetők vagyunk az Egyesült Államokban, és több mint 70 országban vezettük be termékeinket. Termékeink Mexikóban készülnek. Csehországi központi raktárunk Európa, Ázsia és Afrika ügyfeleit és partnereit látja el. Négy dologban:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Fröccsenésvédelem. Szabadalmaztatott fröccsenésgátló sörtéink (Sealed Bristles Technology™) a rács akár 95%-át borítják.",
+                "Hosszan tartó illat. Az ëkcoscreen 60+ és az xcrën HD 60+ illata 60+ napig tart, kétszer olyan sokáig, mint a szokásos 30 napos rácsoké.",
+                "Ellenőrizhető tények az anyagról. Újrahasznosított EVA felhasználásával készült. Az Eco-One™ adalékanyaggal hulladéklerakóban biológiailag lebomló, ahogy azt egy független laboratóriumi vizsgálat mutatja.",
+                "Saját márkája a terméken. Logója magába a rácsba belevágható."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "about-2",
+          "question": "Melyik piszoárrácsot válasszam? mos Meddig tart egy piszoárrács?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Válasszon a forgalom alapján, és aszerint, hogy milyen gyakran tartják karban a dót. Rács Illat Méret Ideális ëkcoscreen 60+ 60+ nap 20 x 21 cm Nagy forgalmú mosdókhoz. 141 g illatosított anyag. A sörték a rács 95%-át borítják. xcrën HD 60+ 60+ nap 17 x 18 cm Nagy forgalmú mosdókhoz, ahol számít a megjelenés. Szabadalmaztatott, dizájnos forma. powër screen akár 30 nap 18 x 20 cm Havi cseréhez. Rugalmas forma, amely szinte minden piszoárba illeszkedik. üro lite akár 30 nap 13 x 13 cm Kisebb piszoárokhoz. Hosszú, szabadalmaztatott sörték. basic scrëen akár 30 nap 20 x 19 cm Havi cseréhez, kedvező áron. Rugalmas forma. xcrën puck akár 30 nap 17 x 17 cm Hogy a szilárd anyagok és szennyeződések ne kerüljenek a lefolyóba. Szagtalanító korong. Az ëkcoscreen 60+ és az xcrën HD 60+ illata 60+ napig tart, kétszer olyan sokáig, mint a szokásos 30 napos rácsoké. Kis forgalmú mosdókban még tovább tartanak. A powër screen, az üro lite, a basic scrëen és az xcrën puck illata akár 30 napig tart, ezért ezek ideálisak a havi karbantartáshoz. GYAKORI KÉRDÉSEK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urinal-screens",
+      "title": "Piszoárrácsok",
+      "items": [
+        {
+          "id": "urinal-screens-1",
+          "question": "Miért érdemes 60+ napos rácsot választani?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Az ëkcoscreen 60+ kétszer olyan sokáig tart, mint egy szokásos 30 napos rács, hasonló napi költség mellett. Emellett feleannyiszor kell cserélni, így munkatársai kevesebb időt töltenek vele."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-2",
+          "question": "Hogyan működik a fröccsenésgátló rendszer?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Rácsaink a Sealed Bristles Technology™ rendszerrel működnek, amely saját, szabadalmaztatott fröccsenésgátló megoldásunk. A sűrű sörték megtörik a vizeletsugarat, és minimálisra csökkentik a vizeletfröccsenést. A sörték az ëkcoscreen 60+ rács 95%-át, az xcrën HD 60+ rács 92%-át borítják. Az üro lite ugyanezt a technológiát alkalmazza hosszú sörtékkel, amelyek kis rácsban is nagy fröccsenésvédelmet nyújtanak."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-3",
+          "question": "Van bizonyíték arra, hogy a sörték működnek?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Az ëkcoscreen 60+ rácsot azonos körülmények között végzett, összehasonlító UV-fröccsenéstesztben filmeztük le: azonos piszoármodell, azonos magasság és azonos áramlás. Az ëkcoscreen 60+ esetében nem volt látható visszafröccsenés a rácson kívül. Kérje el tőlünk a videót. Maga a sörterendszer szabadalmaztatott. Igen. Az ëkcoscreen 60+ és az xcrën HD 60+ ideális vízmentes piszoárokhoz, a powër screen, az üro lite és a basic scrëen pedig szintén alkalmas. A vízmentes piszoár lefolyójához lásd lent az ëz trap patront. A powër screen és a basic scrëen rugalmas formája szinte minden piszoártípusba illeszkedik, az üro lite pedig kisebb piszoárokhoz készült. Az egyes rácsok méretét a fenti táblázatban találja."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-4",
+          "question": "Hogyan helyezzem be vagy cseréljem ki a piszoárrácsot?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Viseljen kesztyűt. Vegye ki a használt rácsot, és dobja a vegyes hulladékba. Csomagolja ki az új rácsot, és fektesse laposan a piszoár aljára, a lefolyó fölé, a sörtékkel felfelé. Cserélje ki, amikor az illat gyengül, vagy a szokásos karbantartási időközönként."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-5",
+          "question": "Hogyan dobjam ki a használt rácsot?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Dobja a vegyes hulladékba. Maga az EVA anyag újrahasznosítható, a használt piszoárrács viszont nem, mert biológiailag szennyezett. Hulladéklerakóba vagy égetőműbe kerül. Ezért adjuk hozzá az Eco-One™ adalékanyagot, amely anyagunkat hulladéklerakóban biológiailag lebomlóvá teszi."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-6",
+          "question": "Mi az xcrën puck?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Az xcrën puck X alakú piszoárrács szagtalanító koronggal. Az X forma megakadályozza, hogy a szilárd anyagok és szennyeződések eltömítsék a lefolyót, a korong pedig minden használatkor friss illatot áraszt, akár 30 napig. A korong főként viaszból és glicerinből készül, és használat közben feloldódik. Nem cserélhető, ezért a teljes xcrën puck rácsot kell kicserélni. Azt jelenti, hogy az xcrën puck korongja nem tartalmaz paradiklórbenzolt (PARA), amelyet a WHO lehetségesen rákkeltőnek minősít. Az ëkcos soha nem használt PARA-t. A NON-PARA nem azt jelenti, hogy a termék parabénmentes. GYAKORI KÉRDÉSEK"
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-7",
+          "question": "Mi az ëz trap, és mely piszoárokba illik?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Az ëz trap patron vízmentes piszoárokhoz. A vizelet átfolyik a szifonon, a záró kupak pedig minden használat után lezár, ami segít megakadályozni, hogy a lefolyószag kijusson. Alkalmas a Sloan, Falcon, Vitra, Bobrick és más, Falcon Velocity rendszert használó márkák piszoárjaihoz (átmérő 11,8 cm, magasság 11,5 cm). A patron 4-től 6+ hónapig tart, és nincs szükség hozzá drága gélekre vagy speciális tisztítószerekre. Naponta öntsön egy pohár vizet a piszoárba a vízkő lerakódásának megelőzésére. A rendszeres tisztítás vízkőoldó szerrel, például minőségi WC-géllel, meghosszabbítja az élettartamát. Az ëz trap eltávolító eszközzel vagy anélkül kapható. Az eszköz újrafelhasználható, ezért csak az első rendelésnél van rá szüksége."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-8",
+          "question": "Mi az ëkco mat?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Az ëkco mat nedvszívó, eldobható padlószőnyeg a piszoár alatti területre. Mérete 54 x 51 cm, így lefedi a legtöbb szabványos piszoár körüli területet. Védi a padlót a vizelettől, és csökkenti a vizelet cipőtalpakon történő továbbhordását."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-9",
+          "question": "Melyik légfrissítőt válasszam?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "frësh drop: WC-fülkékbe és mosdókba. 30+ napig tartó illat alig szellőző fülkékben, kis forgalom mellett 60+ napig, elem és áram nélkül.",
+                "ëkco clip: a WC-csészére akasztható, és akár 30 napig tartó illatot ad. Rugalmas formája szinte minden típusú WC-csészére illeszkedik.",
+                "ëkco loop: kompakt légfrissítő kis légmozgású, szűk terekbe, például íróasztalok alá, szemetesek fedelének belső oldalára, szekrényekbe és cipősszekrényekbe. Akár 30 napig. WC-fülkékbe válassza a frësh drop légfrissítőt. Alig vagy egyáltalán nem szellőző fülkékben 30+ napig tart, kis forgalom mellett 60+ napig. Amikor az illat gyengül, csak a betétet kell kicserélnie. A tartó a falon marad."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-10",
+          "question": "Hogyan szereljem fel a frësh drop és az ëkco loop légfrissítőt?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Mindkettő egy tartóból és egy illatbetétből álló rendszer. Rögzítse a tartót tiszta, száraz felületre: a frësh drop esetében a mellékelt ragasztószalaggal, az ëkco loop esetében öntapadós tartójával. Ezután helyezze fel a betétet. A frësh drop esetében egy kis elfordítható zár rögzíti a betétet a tartón, és ha egy elveszik, pótzár is kapható. Az ëkco loop légfrissítőt annak a helynek a közelébe tegye, ahol illatot szeretne."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-11",
+          "question": "Hogyan szabadul fel az illat?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Passzívan. Az anyag illatanyaggal van átitatva, amely idővel fokozatosan szabadul fel. Nincs szükség sprayre, elemre vagy áramra. GYAKORI KÉRDÉSEK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ez-trap-ekco-mat",
+      "title": "ëz trap és ëkco mat",
+      "items": [
+        {
+          "id": "ez-trap-ekco-mat-1",
+          "question": "Milyen színek és illatok kaphatók?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Fő termékcsaládjaink ugyanazt a tizenegy színt és illatot kínálják: lila / erdei gyümölcs, zöld / alma, kék / fresh, narancssárga / trópusi gyümölcs, átlátszó / trópusi gyümölcs, fekete / menta, lángvörös / mangó, zöld / fenyő, piros / dinnye, lila / levendula és sárga / citrus. Így egy épület a piszoártól a WC-fülkéig egyetlen illatot használhat. Illataink könnyen felismerhetők: az alma almaillatú, a dinnye dinnyeillatú. Egyes illatosított termékeink allergiás bőrreakciót válthatnak ki. Kérjük, kövesse a címkén és a biztonsági adatlapon szereplő utasításokat, a termékek kezelésekor viseljen kesztyűt, és tartsa őket gyermekektől elzárva."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-2",
+          "question": "Mi az Eco-One™?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Az Eco-One™ az EcoLogic, LLC által gyártott szerves adalékanyag. Gyártás közben körülbelül 1%-ot adunk belőle az anyagunkhoz. Nem változtat a termék szilárdságán, megjelenésén vagy teljesítményén. Amikor a termék biológiailag aktív hulladéklerakóba kerül, az anyag lebomlik, és biogáz, CO₂ és humusz keletkezik belőle. A modern hulladéklerakók a biogázt energiatermelésre használják. Azt jelenti, hogy anyagunk lebomlik a biológiailag aktív hulladéklerakóban, ahová a használt rácsok kerülnek. A mexikóvárosi Instituto Politécnico Nacional az ASTM D5511 és az ISO 15985 szabvány szerint vizsgálta az Eco-One™ adalékot tartalmazó ëkcos EVA anyagot. A vizsgálatban 3,5 év alatt 93%-os biológiai lebomlást ért el, míg ugyanez az anyag adalék nélkül 0%-ot mutatott. Az előrejelzés szerint 5 év alatt akár 99%-os biológiai lebomlás várható. Ez a mért tendencián alapuló előrejelzés, nem mért eredmény. A biológiai lebomlás a hulladéklerakó körülményeitől függ."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-3",
+          "question": "Miért nem mondják a termékeikre, hogy „környezetbarát”?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "2026. szeptember 27. óta az uniós szabályok (az (EU) 2024/825 irányelv) már nem engedik meg az olyan általános állításokat, mint a „környezetbarát”, a „zöld” vagy a „fenntartható”, a kiváló környezeti teljesítmény elismert bizonyítéka nélkül. Ezért pontosan azt mondjuk el, amit bizonyítani tudunk: újrahasznosított EVA felhasználásával készült, egy független laboratóriumi vizsgálat szerint az Eco-One™ adalékkal hulladéklerakóban biológiailag lebomló, valamint 100%-ban újrahasznosított kartonból készült dobozok. GYAKORI KÉRDÉSEK Maga az EVA anyag újrahasznosítható. A használt piszoárrács vagy WC- illatosító klip viszont nem, mert biológiailag szennyezett, ezért a vegyes hulladékba való. A frësh drop és az ëkco loop betétjei újrahasznosított EVA felhasználásával készülnek, és nem szennyezettek, így anyaguk újrahasznosítható. Kérjük, kövesse a helyi hulladékkezelési szabályokat. Nem mondjuk termékeinkre, hogy „100%-ban újrahasznosítható”, mert ez a használt rácsra nem lenne igaz."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "air-fresheners",
+      "title": "Légfrissítők és WC-illatosító klipek",
+      "items": [
+        {
+          "id": "air-fresheners-1",
+          "question": "Milyen csomagolást használnak?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Termékdobozaink és gyűjtőkartonjaink 100%-ban újrahasznosított hullámkartonból készülnek. A termékek tasakjainak anyaga BOPP, azaz polipropilén fólia. A tasakokra vonatkozóan nem teszünk környezeti állítást. A csomagolásról és a csomagolási hulladékról szóló uniós rendelet (PPWR) szerinti csomagolási dokumentáció elérhető az Ön megfelelőségi nyilvántartásához."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-2",
+          "question": "Milyen gyorsan adják fel a partneri rendeléseket?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "A partneri rendelések feladási ideje 3 és 5 munkanap között van. Ha egy termék átmenetileg nincs készleten, általában egy hónapon belül feladjuk, mert raktárunkba rendszeresen érkezik új áru Mexikóból."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-3",
+          "question": "Hogyan szállítanak, és mennyi ideig tart a szállítás?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Csehországon belül a csomagokat és a raklapokat a FOFR szállítja. A többi EU- országba a csomagokat a FedEx, a raklapokat a DSV szállítja. Az EU-n belül a kézbesítés a feladás után általában körülbelül 5 napig tart, a Csehországhoz közeli országokba rövidebb ideig, például Ausztriába és Németországba 1 vagy 2 napig, Franciaországba, Hollandiába és Olaszországba 3 vagy 4 napig. Az EU-n kívüli szállításra minden rendeléshez külön ajánlatot adunk, és sok partner maga gondoskodik a szállításról. A szállítási költséget minden rendelésnél külön számítjuk ki. GYAKORI KÉRDÉSEK Igen. Kérjen tőlünk mintákat, hogy Ön és ügyfelei összehasonlíthassák termékeinket és illatainkat bármely más beszállító termékeivel és illataival."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-4",
+          "question": "Milyen dokumentumokat kaphatok Önöktől?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "Biológiai lebomlási vizsgálati tanúsítvány, kiállította a mexikóvárosi Instituto Politécnico Nacional (ASTM D5511 és ISO 15985).",
+                "Eco-One™ szórólap, amely bemutatja az adalékanyagot és a vizsgálatot.",
+                "A csomagolás PPWR-dokumentációja gyártónktól, kizárólag az Ön megfelelőségi nyilvántartásához. Kérjük, a beszállítói nyilatkozatokat a hatóságokon kívül senkivel ne ossza meg.",
+                "Szabadalmak a Sealed Bristles Technology™ megoldásra és rácsaink formájára.",
+                "Biztonsági adatlapok illatosított termékeinkhez.",
+                "UV-fröccsenésteszt videó az ëkcoscreen 60+ rácsról."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-5",
+          "question": "Milyen marketingtámogatást nyújtanak?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "Professzionális termékfotók és videók, az UV-fröccsenéstesztet is beleértve.",
+                "Használatra kész termékszövegek 22 nyelven.",
+                "Logók és arculati elemek.",
+                "Összehasonlító útmutató, Eco-One™ szórólap, vizsgálati tanúsítvány, PPWR-dokumentáció és biztonsági adatlapok."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-6",
+          "question": "Miért változtak meg a termékszövegeik?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Két új uniós szabályozás vonatkozik most a termékinformációkra és a csomagolásra: 2026. szeptember 27. óta az (EU) 2024/825 irányelv (új szabályok a környezeti állításokra), 2026. augusztus 12. óta pedig a csomagolásról és a csomagolási hulladékról szóló (EU) 2025/40 rendelet (PPWR). Minden állításunkat felülvizsgáltuk e szabályok alapján. Új szövegeink kizárólag konkrét, bizonyítékokkal alátámasztott környezeti állításokat tartalmaznak. Kérjük, ezeket használja webáruházában, katalógusaiban és ajánlataiban. GYAKORI KÉRDÉSEK"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Általános kifejezések, például „környezetbarát”, „zöld”, „ökológiai” vagy „fenntartható”, a csomagolás esetében is.",
+                "„Celofán tasak” vagy „celofán csomagolás”. Tasakjaink anyaga BOPP.",
+                "„100%-ban újrahasznosítható”. Új szövegeink pontosan megmondják, mi hasznosítható újra.",
+                "„5 éven belül 99%-ban biológiailag lebomló” vizsgálati eredményként. A vizsgálat 3,5 év alatt 93%-ot mért. Az 5 éven belüli akár 99% előrejelzés.",
+                "Az önmagában álló „biológiailag lebomló” kifejezés terméknevekben vagy címekben. Kérjük, írja azt, hogy „hulladéklerakóban biológiailag lebomló”.",
+                "Bármilyen állítás baktériumokról, vírusokról, kórokozókról vagy egészségvédelemről.",
+                "Az illékony szerves vegyületekre (VOC) és a toxicitásra vonatkozó állítások, például „megfelel az európai VOC-szabványoknak”, „VOC-mentes” vagy „nem mérgező a környezetre”.",
+                "Abszolút ígéretek, például „megszünteti a visszafröccsenést” vagy „szagmentes”.",
+                "„Parabénmentes” a NON-PARA magyarázataként. A NON-PARA azt jelenti, hogy a korong nem tartalmaz paradiklórbenzolt.",
+                "Az önmagában álló „60+ nap” megjelölés a frësh drop esetében. Kérjük, írja azt, hogy „30+ napig tartó illat alig szellőző fülkékben, kis forgalom mellett 60+ napig”. Kérjük, jóváhagyott szövegeinket használja, amelyek 22 nyelven készen állnak. Ha rövidíti vagy átdolgozza őket, tartson meg minden feltételt, amely egy állításhoz tartozik, például „hulladéklerakóban”, „újrahasznosított EVA felhasználásával készült”, valamint a mért 93% és az előrejelzés szerinti 99% közötti különbséget."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "title": "Anyagok, Eco-One™ és csomagolás",
+      "items": []
+    },
+    {
+      "id": "private-label",
+      "title": "Saját márka",
+      "items": []
+    },
+    {
+      "id": "working-with",
+      "title": "Együttműködés az ëkcos céggel",
+      "items": []
+    }
+  ],
+  "contact": {
+    "title": "Van még kérdése?",
+    "body": "Forduljon ëkcos értékesítési képviselőjéhez, vagy írjon a"
+  },
+  "footnote": "Adatforrás: független biológiai lebomlási vizsgálat az ASTM D5511-02 és az ISO 15985:2014 szabvány szerint (Instituto Politécnico Nacional, Mexikóváros). Az 1% Eco-One™ adalékot tartalmazó ëkcos termék: 93,31%-os biológiai lebomlás 1288 nap (körülbelül 3,5 év) alatt. Ugyanez a termék adalék nélkül: 0%. A mért tendencia alapján 5 év alatt akár 99% várható. A biológiai lebomlás a hulladéklerakó körülményeitől függ. Az Eco-One™ az EcoLogic, LLC védjegye."
+}

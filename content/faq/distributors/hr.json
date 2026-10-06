@@ -1,0 +1,360 @@
+{
+  "hero": {
+    "title": "FAQ",
+    "tagline": "Vaša pitanja, naše činjenice. Jasni odgovori o našim proizvodima, materijalima i dokumentima.",
+    "intro": "Ovdje ćete pronaći jasne odgovore na pitanja koja nam partneri i njihovi kupci najčešće postavljaju. Svaka tvrdnja u ovim odgovorima konkretna je i potkrijepljena dokazima: neovisnim laboratorijskim ispitivanjem, patentima i dokumentima našeg proizvođača."
+  },
+  "metrics": [],
+  "categories": [
+    {
+      "id": "about",
+      "title": "O tvrtki ëkcos",
+      "items": [
+        {
+          "id": "about-1",
+          "question": "Tko je ëkcos?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Tvrtka ëkcos innovations razvija, proizvodi i distribuira mirisne mrežice za pisoare, osvježivače za WC školjke i osvježivače zraka. Vodeći smo na tržištu SAD-a, a svoje proizvode predstavili smo u više od 70 zemalja. Naši proizvodi izrađuju se u Meksiku. Naše središnje skladište u Češkoj opskrbljuje kupce i partnere diljem Europe, Azije i Afrike. Četiri stvari:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Zaštita od prskanja. Naše patentirane čekinje protiv prskanja (Sealed Bristles Technology™) prekrivaju do 95 % površine mrežice.",
+                "Dugotrajan miris. Mrežice ëkcoscreen 60+ i xcrën HD 60+ pružaju 60+ dana mirisa, dvostruko dulje od standardnih 30-dnevnih mrežica.",
+                "Činjenice o materijalu koje možete provjeriti. Izrađeno s recikliranim EVA materijalom. Biorazgradivo na odlagalištu otpada uz aditiv Eco-One™, kao što pokazuje neovisno laboratorijsko ispitivanje.",
+                "Vaša marka na proizvodu. Vaš logotip može se izrezati u samu mrežicu."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "about-2",
+          "question": "Zašto odabrati mrežicu koja traje 60+ dana?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Mrežica ëkcoscreen 60+ traje dvostruko dulje od standardne 30-dnevne mrežice, uz sličan trošak po danu. Mijenjate je i upola rjeđe, pa vaše osoblje na nju troši manje vremena."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urinal-screens",
+      "title": "Mrežice za pisoare",
+      "items": [
+        {
+          "id": "urinal-screens-1",
+          "question": "Kako radi sustav protiv prskanja?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Naše mrežice koriste tehnologiju Sealed Bristles Technology™, naš vlastiti patentirani sustav protiv prskanja. Guste čekinje razbijaju mlaz urina i svode prskanje urina na minimum. Čekinje prekrivaju 95 % mrežice ëkcoscreen 60+ i 92 % mrežice xcrën HD 60+. Mrežica üro lite koristi istu tehnologiju s dugim čekinjama koje u maloj mrežici pružaju veliku zaštitu od prskanja. Mrežicu ëkcoscreen 60+ snimili smo u usporednom UV testu prskanja pod jednakim uvjetima: isti model pisoara, ista visina i isti protok. Kod mrežice ëkcoscreen 60+ nije bilo vidljivog prskanja izvan mrežice. Zatražite od nas videozapis. Sam sustav čekinja patentiran je."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-2",
+          "question": "Mogu li mrežice koristiti u bezvodnim pisoarima?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Da. Mrežice ëkcoscreen 60+ i xcrën HD 60+ idealne su za bezvodne pisoare, a prikladne su i mrežice powër screen, üro lite i basic scrëen. Za odvod bezvodnog pisoara pogledajte uložak ëz trap u nastavku. Mrežice powër screen i basic scrëen imaju fleksibilan oblik koji pristaje gotovo svim vrstama pisoara, a mrežica üro lite namijenjena je manjim pisoarima. Veličinu svake mrežice pronaći ćete u tablici iznad."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-3",
+          "question": "Kako da postavim ili zamijenim mrežicu za pisoar?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Nosite rukavice. Izvadite korištenu mrežicu i odložite je u miješani komunalni otpad. Raspakirajte novu mrežicu i položite je ravno na dno pisoara, preko odvoda, s čekinjama okrenutima prema gore. Zamijenite je kad miris oslabi ili prema uobičajenom intervalu održavanja."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-4",
+          "question": "Kako da zbrinem korištenu mrežicu?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Odložite je u miješani komunalni otpad. Sam EVA materijal može se reciklirati, ali korištena mrežica za pisoar ne može jer je biološki kontaminirana. Završava na odlagalištu otpada ili u spalionici. Zato dodajemo aditiv Eco-One™, koji naš materijal čini biorazgradivim na odlagalištu otpada."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-5",
+          "question": "Što je xcrën puck?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "xcrën puck mrežica je za pisoar u obliku slova X s dezodorirajućom tabletom. Oblik slova X sprječava da krute tvari i otpaci začepe odvod, a tableta pri svakoj upotrebi do 30 dana otpušta svjež miris. Tableta je izrađena uglavnom od voska i glicerina i otapa se tijekom upotrebe. Ne može se zamijeniti, pa mijenjate cijelu mrežicu xcrën puck."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-6",
+          "question": "Što znači NON-PARA?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "To znači da tableta u mrežici xcrën puck ne sadrži paradiklorbenzen (PARA), koji SZO klasificira kao moguće kancerogen. ëkcos nikada nije koristio PARA. NON-PARA ne znači da je proizvod bez parabena."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-7",
+          "question": "Što je ëz trap i kojim pisoarima pristaje?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëz trap uložak je za bezvodne pisoare. Urin otječe kroz sifon, a poklopac za zatvaranje brtvi nakon svake upotrebe, što pomaže spriječiti izlazak mirisa iz odvoda. Pristaje pisoarima marki Sloan, Falcon, Vitra, Bobrick i drugih koje koriste sustav Falcon Velocity (promjer 11,8 cm, visina 11,5 cm). ČESTA PITANJA Uložak traje 4 do 6+ mjeseci i nisu mu potrebni skupi gelovi ni posebna sredstva za čišćenje. Svaki dan ulijte čašu vode u pisoar kako biste spriječili nakupljanje kamenca. Redovito čišćenje sredstvom protiv kamenca, na primjer kvalitetnim WC gelom, produljuje mu vijek trajanja. Uložak ëz trap dostupan je s alatom za vađenje ili bez njega. Alat je za višekratnu upotrebu, pa vam je potreban samo uz prvu narudžbu."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-8",
+          "question": "Što je ëkco mat?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkco mat upijajuća je podna podloga za jednokratnu upotrebu, namijenjena prostoru ispod pisoara. S dimenzijama 54 x 51 cm prekriva prostor oko većine standardnih pisoara. Štiti pod od urina i smanjuje prenošenje urina na potplatima cipela."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-9",
+          "question": "Koji osvježivač zraka trebam odabrati?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "frësh drop: za WC kabine i toalete. 30+ dana mirisa u kabinama sa slabom ventilacijom i 60+ dana uz manji promet, bez baterija i struje.",
+                "ëkco clip: pričvršćuje se na WC školjku i pruža do 30 dana mirisa. Fleksibilan oblik pristaje gotovo svim vrstama školjki.",
+                "ëkco loop: kompaktni osvježivač za male prostore sa slabim protokom zraka, kao što su prostor ispod stola, unutarnja strana poklopca kante za smeće, ormari i ormarići za cipele. Do 30 dana. Za WC kabine odaberite osvježivač frësh drop. U kabinama sa slabom ventilacijom ili bez nje traje 30+ dana, a uz manji promet 60+ dana. Kad miris oslabi, mijenjate samo uložak. Nosač ostaje na zidu."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-10",
+          "question": "Kako da postavim osvježivače frësh drop i ëkco loop?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Oba su sustavi koji se sastoje od nosača i mirisnog uloška. Nosač pričvrstite na čistu, suhu površinu: kod osvježivača frësh drop priloženom ljepljivom trakom, a kod osvježivača ëkco loop nosač je samoljepljiv. Zatim pričvrstite uložak. Kod osvježivača frësh drop mala okretna brava drži uložak na nosaču, a ako se izgubi, dostupne su rezervne brave. Osvježivač ëkco loop postavite blizu mjesta na kojem želite miris."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-11",
+          "question": "Kako se otpušta miris?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Pasivno. Materijal je prožet mirisom koji se s vremenom postupno otpušta. Nisu potrebni sprejevi, baterije ni struja."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ez-trap-ekco-mat",
+      "title": "ëz trap i ëkco mat",
+      "items": [
+        {
+          "id": "ez-trap-ekco-mat-1",
+          "question": "Koje su boje i mirisi dostupni?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Naše glavne linije dijele istih jedanaest boja i mirisa: ljubičasta / bobičasto voće, zelena / jabuka, plava / fresh, narančasta / tropsko voće, prozirna / tropsko voće, crna / menta, plamena / mango, zelena / bor, crvena / dinja, ljubičasta / lavanda i žuta / citrus. Tako zgrada može imati jedan miris od pisoara do WC kabine. Naše je mirise lako prepoznati: jabuka miriše na jabuku, dinja na dinju."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-2",
+          "question": "Što trebam znati o sigurnom rukovanju?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Neki naši mirisni proizvodi mogu izazvati alergijsku reakciju na koži. Pridržavajte se uputa na etiketi i u sigurnosno-tehničkom listu, nosite rukavice pri rukovanju proizvodima i čuvajte ih izvan dohvata djece. ČESTA PITANJA"
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-3",
+          "question": "Što je Eco-One™?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Eco-One™ organski je aditiv koji proizvodi tvrtka EcoLogic, LLC. Tijekom proizvodnje našem materijalu dodajemo oko 1 % tog aditiva. Ne mijenja čvrstoću, izgled ni učinkovitost proizvoda. Kad proizvod završi na biološki aktivnom odlagalištu otpada, materijal se razgrađuje na bioplin, CO₂ i humus. Suvremena odlagališta otpada koriste bioplin za dobivanje energije."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "air-fresheners",
+      "title": "Osvježivači zraka i osvježivači za WC školjke",
+      "items": [
+        {
+          "id": "air-fresheners-1",
+          "question": "Što znači „biorazgradivo na odlagalištu otpada“ i kako je to ispitano?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "To znači da se naš materijal razgrađuje na biološki aktivnom odlagalištu otpada, gdje završavaju korištene mrežice. Instituto Politécnico Nacional u gradu Meksiku ispitao je materijal ëkcos EVA s aditivom Eco-One™ prema normama ASTM D5511 i ISO 15985. Materijal je postigao 93 % biorazgradnje u roku od 3,5 godine, dok je isti materijal bez aditiva pokazao 0 %. U roku od 5 godina predviđa se do 99 %. To je predviđanje na temelju izmjerenog trenda, a ne izmjereni rezultat. Biorazgradnja ovisi o uvjetima na odlagalištu otpada."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-2",
+          "question": "Zašto svoje proizvode ne nazivate „ekološki prihvatljivima“?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Od 27. rujna 2026. pravila EU-a (Direktiva (EU) 2024/825) više ne dopuštaju općenite tvrdnje kao što su „ekološki prihvatljivo“, „zeleno“ ili „održivo“ bez priznatog dokaza o izvrsnoj okolišnoj učinkovitosti. Zato vam točno kažemo što možemo dokazati: izrađeno s recikliranim EVA materijalom, biorazgradivo na odlagalištu otpada uz aditiv Eco-One™ prema neovisnom laboratorijskom ispitivanju te kutije od 100 % recikliranog kartona."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-3",
+          "question": "Mogu li se proizvodi ëkcos reciklirati?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Sam EVA materijal može se reciklirati. Korištene mrežice za pisoare i osvježivači za WC školjke ne mogu se reciklirati jer su biološki kontaminirani, pa pripadaju u miješani komunalni otpad. Ulošci osvježivača frësh drop i ëkco loop izrađeni su s recikliranim EVA materijalom i nisu kontaminirani, pa se njihov materijal može reciklirati. Pridržavajte se lokalnih pravila o otpadu. Svoje proizvode ne nazivamo „100 % reciklabilnima“ jer to ne bi bilo točno za korištenu mrežicu. Naše kutije za proizvode i transportne kutije izrađene su od 100 % recikliranog valovitog kartona. Vrećice za proizvode izrađene su od materijala BOPP, polipropilenske folije. Za vrećice ne navodimo nikakvu tvrdnju o okolišu. Za vašu evidenciju o sukladnosti dostupna je dokumentacija o ambalaži prema Uredbi EU-a o ambalaži i ambalažnom otpadu (PPWR). ČESTA PITANJA"
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-4",
+          "question": "Mogu li dobiti proizvode sa svojim logotipom?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Da. Vaš logotip možemo izrezati u samu mrežicu, a ne samo otisnuti na ambalažu, pa ostaje na njoj cijeli vijek trajanja proizvoda. Vaš logotip može se i otisnuti na proizvod. Na ambalaži mogu biti vaše vlastite etikete s vašim logotipom i EAN kodovima, a boje i mirise birate vi. Na većini naših proizvoda. Mrežice za pisoare i osvježivač ëkco clip mogu imati vaš logotip izrezan u materijal ili otisnut. Kod osvježivača frësh drop logotip se otiskuje. Na osvježivaču ëkco loop nema mjesta za logotip."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-5",
+          "question": "Koji su uvjeti za privatnu marku?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Minimalne količine ovise o proizvodu, a za svaki brendirani proizvod naplaćuje se jednokratna naknada za pripremu. Brendirani proizvodi izrađuju se po narudžbi, a uobičajeno vrijeme proizvodnje i isporuke iznosi 6 do 10 tjedana. Narudžbe po mjeri plaćaju se 100 % unaprijed. Zatražite od nas ponudu."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-6",
+          "question": "Kako šaljete robu i koliko traje dostava?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Unutar Češke pakete i palete šaljemo putem dostavne službe FOFR. U ostale zemlje EU-a pakete šaljemo putem službe FedEx, a palete putem tvrtke DSV. Dostava unutar EU-a obično traje oko 5 dana od otpreme, a za zemlje blizu Češke i kraće, na primjer 1 do 2 dana u Njemačku i Austriju te 3 do 4 dana u Italiju, Francusku i Nizozemsku. Izvan EU-a ponudu za prijevoz izrađujemo za svaku narudžbu, a mnogi partneri sami organiziraju prijevoz. Troškove prijevoza izračunavamo za svaku narudžbu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "title": "Materijali, Eco-One™ i ambalaža",
+      "items": [
+        {
+          "id": "materials-1",
+          "question": "Mogu li dobiti uzorke?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Da. Zatražite od nas uzorke kako biste vi i vaši kupci mogli usporediti naše proizvode i mirise s proizvodima i mirisima bilo kojeg drugog dobavljača."
+            }
+          ]
+        },
+        {
+          "id": "materials-2",
+          "question": "Koje dokumente mogu dobiti od vas?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "Certifikat o ispitivanju biorazgradnje koji je izdao Instituto Politécnico Nacional u gradu Meksiku (ASTM D5511 i ISO 15985).",
+                "Letak Eco-One™ koji objašnjava aditiv i ispitivanje.",
+                "Dokumentacija PPWR za ambalažu našeg proizvođača, samo za vašu evidenciju o sukladnosti. Molimo vas da izjave dobavljača ne dijelite ni s kim osim s nadležnim tijelima.",
+                "Patenti za tehnologiju Sealed Bristles Technology™ i oblike naših mrežica.",
+                "Sigurnosno-tehnički listovi za naše mirisne proizvode.",
+                "Videozapis UV testa prskanja mrežice ëkcoscreen 60+.",
+                "Profesionalne fotografije proizvoda i videozapisi, uključujući UV test prskanja.",
+                "Gotovi opisi proizvoda na 22 jezika.",
+                "Logotipi i vizualni elementi marke.",
+                "Vodič za usporedbu, letak Eco-One™, certifikat o ispitivanju, dokumentacija PPWR i sigurnosno-tehnički listovi. ČESTA PITANJA"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "materials-3",
+          "question": "Zašto su se vaši opisi proizvoda promijenili?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Za informacije o proizvodima i ambalažu sada vrijede dva nova propisa EU-a: Direktiva (EU) 2024/825 (nova pravila za tvrdnje o okolišu) od 27. rujna 2026. i Uredba (EU) 2025/40 o ambalaži i ambalažnom otpadu (PPWR) od 12. kolovoza 2026. Svaku smo tvrdnju provjerili prema tim propisima. Naši novi opisi sadrže samo konkretne tvrdnje o okolišu potkrijepljene dokazima. Molimo vas da ih koristite u svojoj web-trgovini, katalozima i ponudama."
+            }
+          ]
+        },
+        {
+          "id": "materials-4",
+          "question": "Koje starije tvrdnje trebam ukloniti?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "Općeniti izrazi kao što su „ekološki prihvatljivo“, „zeleno“, „ekološko“ ili „održivo“, i kad se odnose na ambalažu.",
+                "„Celofanska vrećica“ ili „celofanska ambalaža“. Naše su vrećice izrađene od materijala BOPP.",
+                "„100 % reciklabilno“. Naši novi opisi točno navode što se može reciklirati.",
+                "„99 % biorazgradivo u roku od 5 godina“ kao rezultat ispitivanja. Ispitivanjem je izmjereno 93 % u roku od 3,5 godine. U roku od 5 godina predviđa se do 99 %.",
+                "Samostalni izraz „biorazgradivo“ u nazivima proizvoda ili naslovima. Molimo vas da pišete „biorazgradivo na odlagalištu otpada“.",
+                "Sve tvrdnje o bakterijama, virusima, klicama ili zaštiti zdravlja.",
+                "Tvrdnje o HOS-u i toksičnosti kao što su „u skladu s europskim standardima za HOS“, „bez HOS-a“ ili „netoksično za okoliš“.",
+                "Apsolutna obećanja kao što su „eliminira prskanje“ ili „bez neugodnih mirisa“.",
+                "„Bez parabena“ za NON-PARA. NON-PARA znači da tableta ne sadrži paradiklorbenzen.",
+                "Samostalni podatak „60+ dana“ za osvježivač frësh drop. Molimo vas da pišete „30+ dana u kabinama sa slabom ventilacijom i 60+ dana uz manji promet“."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "materials-5",
+          "question": "Mogu li uređivati ili prevoditi opise proizvoda?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Molimo vas da koristite naše odobrene opise, koji su gotovi na 22 jezika. Ako ih skraćujete ili prilagođavate, zadržite svaki uvjet koji pripada nekoj tvrdnji, na primjer „na odlagalištu otpada“, „izrađeno s recikliranim EVA materijalom“ i razliku između izmjerenih 93 % i predviđenih 99 %."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "private-label",
+      "title": "Privatna marka",
+      "items": []
+    },
+    {
+      "id": "working-with",
+      "title": "Suradnja s tvrtkom ëkcos",
+      "items": []
+    }
+  ],
+  "contact": {
+    "title": "Imate još pitanja?",
+    "body": "Obratite se svojem prodajnom predstavniku tvrtke ëkcos ili pišite na"
+  },
+  "footnote": ""
+}

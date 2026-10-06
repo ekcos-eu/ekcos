@@ -1,0 +1,431 @@
+{
+  "hero": {
+    "title": "FAQ",
+    "tagline": "Dine spørgsmål, vores fakta. Klare svar om vores produkter, materialer og dokumentation.",
+    "intro": "Her finder du klare svar på de spørgsmål, vores partnere og deres kunder oftest stiller. Enhver anprisning i denne FAQ er konkret og underbygget med dokumentation: en uafhængig laboratorietest, patenter og dokumenter fra vores producent."
+  },
+  "metrics": [],
+  "categories": [
+    {
+      "id": "about",
+      "title": "Om ëkcos",
+      "items": [
+        {
+          "id": "about-1",
+          "question": "Hvem er ëkcos?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcos innovations udvikler, producerer og distribuerer urinalmåtter med duft, toiletclips og luftfriskere. Vi er markedsleder i USA og har introduceret vores produkter i mere end 70 lande. Vores produkter fremstilles i Mexico. Vores centrallager i Tjekkiet forsyner kunder og partnere i hele Europa, Asien og Afrika."
+            }
+          ]
+        },
+        {
+          "id": "about-2",
+          "question": "Hvad gør ëkcos-produkter anderledes?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Fire ting:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Stænkbeskyttelse. Vores patenterede børstehår mod stænk (Sealed Bristles Technology™) dækker op til 95 % af måtten.",
+                "Lang duftvarighed. ëkcoscreen 60+ og xcrën HD 60+ giver 60+ dages duft, dobbelt så længe som standardmåtter med 30 dages duft.",
+                "Fakta om materialet, som du kan tjekke. Fremstillet med genanvendt EVA. Biologisk nedbrydelig på deponi med additivet Eco-One™, som en uafhængig laboratorietest viser.",
+                "Dit brand på produktet. Dit logo kan skæres ind i selve måtten."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urinal-screens",
+      "title": "Urinalmåtter",
+      "items": [
+        {
+          "id": "urinal-screens-1",
+          "question": "Hvilken urinalmåtte skal jeg vælge?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Vælg ud fra antallet af besøgende, og hvor ofte toilettet bliver serviceret. Måtte Duft Størrelse Bedst til ëkcoscreen 60+ 60+ dage 20 x 21 cm Travle toiletter. 141 g duftende materiale. Børstehårene dækker 95 % af måtten. xcrën HD 60+ 60+ dage 17 x 18 cm Travle toiletter, hvor udseendet betyder noget. Patenteret designform. powër screen op til 30 dage 18 x 20 cm Månedlig udskiftning. Fleksibel form, der passer til næsten alle urinaler. üro lite op til 30 dage 13 x 13 cm Mindre urinaler. Lange patenterede børstehår. basic scrëen op til 30 dage 20 x 19 cm Månedlig udskiftning til en lav pris. Fleksibel form. xcrën puck op til 30 dage 17 x 17 cm At holde faste stoffer og snavs ude af afløbet. Deodoriserende puck."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-2",
+          "question": "Hvor længe holder en urinalmåtte?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcoscreen 60+ og xcrën HD 60+ giver 60+ dages duft, dobbelt så længe som standardmåtter med 30 dages duft. På toiletter med få besøgende holder de endnu længere. powër screen, üro lite, basic scrëen og xcrën puck giver op til 30 dages duft, hvilket gør dem ideelle til månedlig vedligeholdelse."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-3",
+          "question": "Hvorfor vælge en måtte med 60+ dages duft?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcoscreen 60+ holder dobbelt så længe som en standardmåtte med 30 dages duft, til en lignende pris pr. dag. Du skifter den også kun halvt så ofte, så dit personale bruger mindre tid på det."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-4",
+          "question": "Hvordan virker systemet mod stænk?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Vores måtter bruger Sealed Bristles Technology™, vores eget patenterede system mod stænk. Tætte børstehår bryder urinstrålen og minimerer urinstænk. Børstehårene dækker 95 % af ëkcoscreen 60+ og 92 % af xcrën HD 60+. üro lite bruger den samme teknologi med lange børstehår, der giver stor stænkbeskyttelse i en lille måtte."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-5",
+          "question": "Er der bevis for, at børstehårene virker?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Vi har filmet ëkcoscreen 60+ i en UV-stænktest side om side under identiske forhold: samme urinalmodel, samme højde og samme stråle. ëkcoscreen 60+ viste intet synligt stænk uden for måtten. Bed os om videoen. Selve børstesystemet er patenteret."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-6",
+          "question": "Kan jeg bruge måtterne i vandfri urinaler?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Ja. ëkcoscreen 60+ og xcrën HD 60+ er ideelle til vandfri urinaler, og powër screen, üro lite og basic scrëen er også egnede. Til afløbet i et vandfrit urinal: se ëz trap nedenfor. powër screen og basic scrëen har en fleksibel form, der passer til næsten alle typer urinaler, og üro lite er lavet til mindre urinaler. Du finder størrelsen på hver måtte i tabellen ovenfor."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-7",
+          "question": "Hvordan placerer eller skifter jeg en urinalmåtte?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Brug handsker. Tag den brugte måtte op og smid den i restaffaldet. Pak den nye måtte ud og læg den fladt i bunden af urinalet, over afløbet, med børstehårene opad. Skift den, når duften aftager, eller med dit sædvanlige serviceinterval."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-8",
+          "question": "Hvordan bortskaffer jeg en brugt måtte?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Smid den i restaffaldet. Selve EVA-materialet kan genanvendes, men det kan en brugt urinalmåtte ikke, fordi den er biologisk forurenet. Den ender på deponi eller til forbrænding. Derfor tilsætter vi additivet Eco-One™, som gør vores materiale biologisk nedbrydeligt på deponi."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-9",
+          "question": "Hvad er xcrën puck?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "xcrën puck er en X-formet urinalmåtte med en deodoriserende puck. X-formen forhindrer faste stoffer og snavs i at stoppe afløbet til, og pucken afgiver en frisk duft ved hver brug i op til 30 dage. Pucken består hovedsageligt af voks og glycerin og opløses ved brug. Den kan ikke udskiftes, så du skifter hele xcrën puck."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-10",
+          "question": "Hvad betyder NON-PARA?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Det betyder, at pucken i xcrën puck ikke indeholder paradichlorbenzen (PARA), som WHO klassificerer som muligvis kræftfremkaldende. ëkcos har aldrig brugt PARA. NON-PARA betyder ikke parabenfri."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-11",
+          "question": "Hvad er ëz trap, og hvilke urinaler passer den til?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëz trap er en patron til vandfri urinaler. Urinen løber gennem vandlåsen, og en lukkehætte slutter tæt efter hver brug, hvilket hjælper med at forhindre, at lugt fra afløbet slipper ud. Den passer til Sloan, Falcon, Vitra, Bobrick og andre mærker, der bruger Falcon Velocity-systemet (diameter 11,8 cm, højde 11,5 cm)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ez-trap-ekco-mat",
+      "title": "ëz trap og ëkco mat",
+      "items": [
+        {
+          "id": "ez-trap-ekco-mat-1",
+          "question": "Hvor længe holder ëz trap, og hvordan vedligeholder jeg den?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Patronen holder 4 til 6+ måneder og kræver hverken dyre geler eller specialrengøringsmidler. Hæld et glas vand i urinalet hver dag for at forhindre kalkaflejringer. Regelmæssig rengøring med et kalkfjernende middel, fx en god toiletgel, forlænger levetiden. ëz trap fås med eller uden demonteringsværktøj. Værktøjet kan genbruges, så du har kun brug for det ved din første ordre."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-2",
+          "question": "Hvad er ëkco mat?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkco mat er en absorberende engangsgulvmåtte til området under urinalet. Med sine 54 x 51 cm dækker den området omkring de fleste standardurinaler. Den beskytter gulvet mod urin og mindsker mængden af urin, der bliver båret videre på skosålerne."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-3",
+          "question": "Hvilken luftfrisker skal jeg vælge?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "frësh drop: til toiletbåse og toiletter. 30+ dages duft i toiletbåse med lidt ventilation og 60+ dage ved få besøgende, uden batterier eller strøm.",
+                "ëkco clip: sættes fast på toiletkummen og giver op til 30 dages duft. Den fleksible form passer til næsten alle typer toiletkummer.",
+                "ëkco loop: kompakt luftfrisker til små rum med lidt luftcirkulation, fx under skriveborde, i skraldespandslåg, skabe og skoskabe. Op til 30 dage. Vælg frësh drop til toiletbåse."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "air-fresheners",
+      "title": "Luftfriskere og toiletclips",
+      "items": [
+        {
+          "id": "air-fresheners-1",
+          "question": "Hvor længe holder frësh drop?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "I toiletbåse med lidt eller ingen ventilation holder den i 30+ dage og ved få besøgende i 60+ dage. Når duften aftager, skifter du kun indsatsen. Holderen bliver siddende på væggen."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-2",
+          "question": "Hvordan monterer jeg frësh drop og ëkco loop?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Begge er systemer med en holder og en duftindsats. Sæt holderen fast på en ren, tør overflade: frësh drop med den medfølgende tape, ëkco loop med den selvklæbende holder. Sæt derefter indsatsen på. På frësh drop sidder indsatsen fast på holderen med en lille drejelås, og der fås reservelåse, hvis en bliver væk. Placer ëkco loop tæt på det sted, hvor du vil have duft."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-3",
+          "question": "Hvordan afgives duften?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Passivt. Materialet er tilsat duften og afgiver den gradvist over tid. Der er ikke brug for spray, batterier eller strøm. Vores vigtigste duftserier har de samme elleve farver og dufte: lilla / skovbær, grøn / æble, blå / fresh, orange / tropisk frugt, transparent / tropisk frugt, sort / mynte, flamme / mango, grøn / fyrrenål, rød / melon, lilla / lavendel og gul / citrus. Dermed kan en bygning have én duft hele vejen fra urinalet til toiletbåsen. Vores dufte er nemme at genkende: Æble dufter af æble, melon af melon."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-4",
+          "question": "Hvad skal jeg vide om sikker håndtering?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Nogle af vores duftprodukter kan forårsage en allergisk hudreaktion. Følg etiketten og sikkerhedsdatabladet, brug handsker, når du håndterer produkterne, og opbevar dem utilgængeligt for børn."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-5",
+          "question": "Hvad er ëkcos-produkter lavet af?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Vores urinalmåtter, toiletclips og indsatser til luftfriskere er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis. Materialet er fremstillet med genanvendt EVA. Andelen af genanvendt EVA varierer fra parti til parti, så vi angiver ikke en fast procentdel. Alle ëkcos-produkter undtagen ëkco mat indeholder additivet Eco-One™."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-6",
+          "question": "Hvad er Eco-One™?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Eco-One™ er et organisk additiv fremstillet af EcoLogic, LLC. Vi tilsætter ca. 1 % af det til vores materiale under produktionen. Det ændrer ikke produktets styrke, udseende eller ydeevne. Når produktet ender på et biologisk aktivt deponi, nedbrydes materialet til biogas, CO₂ og humus. Moderne deponier udnytter biogassen til energi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "title": "Materialer, Eco-One™ og emballage",
+      "items": [
+        {
+          "id": "materials-1",
+          "question": "Hvad betyder »biologisk nedbrydelig på deponi«, og hvordan er det testet?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Det betyder, at vores materiale nedbrydes på et biologisk aktivt deponi, hvor brugte måtter ender. Instituto Politécnico Nacional i Mexico City har testet EVA fra ëkcos med Eco-One™ efter standarderne ASTM D5511 og ISO 15985. Materialet nåede 93 % biologisk nedbrydning inden for 3,5 år, mens det samme materiale uden additivet viste 0 %. Inden for 5 år forventes op til 99 %. Det er en prognose ud fra den målte tendens, ikke et måleresultat. Biologisk nedbrydning afhænger af forholdene på deponiet."
+            }
+          ]
+        },
+        {
+          "id": "materials-2",
+          "question": "Hvorfor kalder I ikke jeres produkter »miljøvenlige«?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Siden den 27. september 2026 tillader EU-reglerne (direktiv (EU) 2024/825) ikke længere generelle anprisninger som »miljøvenlig«, »grøn« eller »bæredygtig« uden anerkendt dokumentation for fremragende miljøpræstation. Derfor fortæller vi dig præcist, hvad vi kan dokumentere: fremstillet med genanvendt EVA, biologisk nedbrydelig på deponi med Eco-One™ i en uafhængig laboratorietest og æsker af 100 % genanvendt pap."
+            }
+          ]
+        },
+        {
+          "id": "materials-3",
+          "question": "Kan ëkcos-produkter genanvendes?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Selve EVA-materialet kan genanvendes. Det kan en brugt urinalmåtte eller toiletclips ikke, fordi den er biologisk forurenet, så den hører til i restaffaldet. Indsatserne i frësh drop og ëkco loop er fremstillet med genanvendt EVA og er ikke forurenede, så deres materiale kan genanvendes. Følg de lokale affaldsregler. Vi kalder ikke vores produkter »100 % genanvendelige«, fordi det ikke ville passe for en brugt måtte."
+            }
+          ]
+        },
+        {
+          "id": "materials-4",
+          "question": "Hvilken emballage bruger I?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Vores produktæsker og yderkartoner er lavet af 100 % genanvendt bølgepap. Produktposerne er lavet af BOPP, en polypropylenfilm. Vi fremsætter ingen miljøanprisninger om poserne. Emballagedokumentation efter EU-forordningen om emballage og emballageaffald (PPWR) er tilgængelig til din compliancedokumentation."
+            }
+          ]
+        },
+        {
+          "id": "materials-5",
+          "question": "Kan jeg få produkter med mit eget logo?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Ja. Vi kan skære dit logo ind i selve måtten og ikke kun trykke det på emballagen, så det sidder der i hele produktets levetid. Dit logo kan også trykkes på produktet. Emballagen kan forsynes med dine egne etiketter med dit logo og EAN-koder, og du vælger farver og dufte. De fleste af vores produkter. Urinalmåtter og ëkco clip kan få dit logo skåret ind i materialet eller trykt. frësh drop brandes med tryk. ëkco loop har ikke plads til et logo."
+            }
+          ]
+        },
+        {
+          "id": "materials-6",
+          "question": "Hvad er betingelserne for private label?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Minimumsmængderne afhænger af produktet, og der betales et etableringsgebyr én gang pr. brandet produkt. Brandede produkter fremstilles på bestilling med en typisk produktions- og leveringstid på 6 til 10 uger. Specialordrer betales 100 % forud. Bed os om et tilbud."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "private-label",
+      "title": "Private label",
+      "items": [
+        {
+          "id": "private-label-1",
+          "question": "Hvor hurtigt sender I partnerordrer?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Vi sender partnerordrer inden for 3 til 5 hverdage. Hvis et produkt midlertidigt er udsolgt, sender vi det normalt inden for en måned, fordi der jævnligt kommer nye varer fra Mexico på vores lager."
+            }
+          ]
+        },
+        {
+          "id": "private-label-2",
+          "question": "Hvordan sender I, og hvor lang tid tager leveringen?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Inden for Tjekkiet sender vi pakker og paller med FOFR. Til andre EU-lande sender vi pakker med FedEx og paller med DSV. Levering inden for EU tager normalt ca. 5 dage efter afsendelse og kortere tid til lande tæt på Tjekkiet, fx 1 til 2 dage til Tyskland og Østrig og 3 til 4 dage til Italien, Frankrig og Nederlandene. Uden for EU giver vi et fragttilbud på hver ordre, og mange partnere arrangerer selv transporten. Vi beregner transportomkostningerne for hver ordre."
+            }
+          ]
+        },
+        {
+          "id": "private-label-3",
+          "question": "Kan jeg få prøver?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Ja. Bed os om prøver, så du og dine kunder kan sammenligne vores produkter og dufte med dem fra enhver anden leverandør."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Testcertifikat for biologisk nedbrydning fra Instituto Politécnico Nacional, Mexico City (ASTM D5511 og ISO 15985).",
+                "Folder om Eco-One™, der forklarer additivet og testen.",
+                "PPWR-dokumentation for emballagen fra vores producent, kun til din compliancedokumentation. Del ikke leverandørerklæringerne med andre end myndighederne.",
+                "Patenter på Sealed Bristles Technology™ og vores måtteformer.",
+                "Sikkerhedsdatablade til vores duftprodukter.",
+                "Video af UV-stænktesten med ëkcoscreen 60+."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "working-with",
+      "title": "Samarbejde med ëkcos",
+      "items": [
+        {
+          "id": "working-with-1",
+          "question": "Hvilken marketingsupport tilbyder I?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "Professionelle produktfotos og videoer, herunder UV-stænktesten.",
+                "Færdige produkttekster på 22 sprog.",
+                "Logoer og visuelt brandmateriale.",
+                "Sammenligningsguide, folder om Eco-One™, testcertifikat, PPWR- dokumentation og sikkerhedsdatablade."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "working-with-2",
+          "question": "Hvorfor er jeres produkttekster ændret?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "To nye EU-regler gælder nu for produktinformation og emballage: direktiv (EU) 2024/825 (nye regler for miljøanprisninger) siden den 27. september 2026 og forordning (EU) 2025/40 om emballage og emballageaffald (PPWR) siden den 12. august 2026. Vi har gennemgået hver anprisning ud fra disse regler. Vores nye tekster indeholder kun konkrete miljøanprisninger, der er underbygget med dokumentation. Brug dem i din webshop, dine kataloger og dine tilbud."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Generelle begreber som »miljøvenlig«, »grøn«, »økologisk« eller »bæredygtig«, også om emballage.",
+                "»Cellofanpose« eller »cellofanemballage«. Vores poser er lavet af BOPP.",
+                "»100 % genanvendelig«. Vores nye tekster siger præcist, hvad der kan genanvendes.",
+                "»99 % biologisk nedbrydelig inden for 5 år« som testresultat. Testen målte 93 % inden for 3,5 år. Op til 99 % inden for 5 år er en prognose.",
+                "»Biologisk nedbrydelig« alene i produktnavne eller titler. Skriv »biologisk nedbrydelig på deponi«.",
+                "Ethvert udsagn om bakterier, vira, smitstoffer eller sundhedsbeskyttelse.",
+                "Udsagn om VOC og giftighed som »overholder europæiske VOC- standarder«, »VOC-fri« eller »ikke giftig for miljøet«.",
+                "Absolutte løfter som »eliminerer stænk« eller »lugtfri«.",
+                "»Parabenfri« for NON-PARA. NON-PARA betyder, at pucken ikke indeholder paradichlorbenzen.",
+                "»60+ dage« alene for frësh drop. Skriv »30+ dage i toiletbåse med lidt ventilation og 60+ dage ved få besøgende«. Brug vores godkendte tekster, som er klar på 22 sprog. Hvis du forkorter eller tilpasser dem, så bevar alle betingelser, der hører til en anprisning, fx »på deponi«, »fremstillet med genanvendt EVA« og forskellen mellem de målte 93 % og de forventede 99 %."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "title": "Har du stadig spørgsmål?",
+    "body": "Kontakt din salgsrepræsentant hos ëkcos eller skriv til"
+  },
+  "footnote": "Datakilde: uafhængig test af biologisk nedbrydning efter ASTM D5511-02 og ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City). Produkt fra ëkcos med 1 % af additivet Eco-One™: 93,31 % biologisk nedbrydning på 1.288 dage (ca. 3,5 år). Samme produkt uden additivet: 0 %. Op til 99 % inden for 5 år forventes ud fra den målte tendens. Biologisk nedbrydning afhænger af forholdene på deponiet. Eco-One™ er et varemærke tilhørende EcoLogic, LLC."
+}
