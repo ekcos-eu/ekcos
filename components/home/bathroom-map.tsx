@@ -2,6 +2,7 @@
 
 import {getImageProps} from 'next/image'
 import {useTranslations} from 'next-intl'
+import {useState} from 'react'
 import {useRouter} from '@/i18n/routing'
 import {
   desktopBathroomHotspots,
@@ -9,6 +10,7 @@ import {
   type BathroomHotspot,
 } from '@/lib/bathroom-hotspots'
 import {getProductBySlug} from '@/lib/products'
+import {getConfiguratorThumbnailSrc} from '@/lib/product-variants'
 import {BathroomHotspotButton} from '@/components/home/bathroom-hotspot'
 
 const MOBILE_MEDIA = '(max-width: 767px)'
@@ -18,6 +20,7 @@ export function BathroomMap() {
   const home = useTranslations('home.map')
   const router = useRouter()
   const alt = home('imageAlt')
+  const [hoveredId, setHoveredId] = useState<string | null>(null)
 
   const {
     props: {srcSet: mobileSrcSet, sizes: mobileSizes},
@@ -44,16 +47,25 @@ export function BathroomMap() {
     router.push(`/products/${slug}`)
   }
 
-  const renderHotspots = (hotspots: BathroomHotspot[]) =>
+  const renderHotspots = (
+    hotspots: BathroomHotspot[],
+    {showHoverCard}: {showHoverCard: boolean},
+  ) =>
     hotspots.map((hotspot) => {
       const product = getProductBySlug(hotspot.slug)
       const label = product ? t(product.nameKey) : hotspot.slug
+      const imageSrc = product ? getConfiguratorThumbnailSrc(product) : undefined
       return (
         <BathroomHotspotButton
           key={hotspot.id}
           hotspot={hotspot}
           label={label}
+          imageSrc={imageSrc}
+          showHoverCard={showHoverCard}
+          active={showHoverCard && hoveredId === hotspot.id}
+          dimmed={showHoverCard && hoveredId !== null && hoveredId !== hotspot.id}
           onSelect={handleSelect}
+          onHoverChange={showHoverCard ? setHoveredId : undefined}
         />
       )
     })
@@ -77,9 +89,11 @@ export function BathroomMap() {
           />
         </picture>
 
-        <div className="absolute inset-0 md:hidden">{renderHotspots(mobileBathroomHotspots)}</div>
+        <div className="absolute inset-0 md:hidden">
+          {renderHotspots(mobileBathroomHotspots, {showHoverCard: false})}
+        </div>
         <div className="absolute inset-0 hidden md:block">
-          {renderHotspots(desktopBathroomHotspots)}
+          {renderHotspots(desktopBathroomHotspots, {showHoverCard: true})}
         </div>
       </div>
     </section>
