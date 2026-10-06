@@ -87,23 +87,30 @@ Stránka je vizuálně sladěná s `Custom Branding`, obsahuje checkout screensh
 
 ## FAQ
 
+E-shop FAQ (distributors zůstává na marketing webu). Soubory se generují z `content/faq/eshop/*.json` (bez slovinštiny):
+
+```bash
+bun scripts/generate-shopify-faq.ts          # jen lokální soubory
+bun scripts/generate-shopify-faq.ts --push   # + upload do live theme + page /pages/faq
+```
+
 Soubory:
 
-- `sections/faq.liquid`
+- `sections/faq.liquid` — layout, CSS, locale switch
+- `snippets/faq-eshop-{locale}.liquid` — obsah (en/cs/…, bez `sl`)
 - `templates/page.faq.json`
 
 Nasazení:
 
-1. Nahraj oba soubory do Shopify theme.
-2. Vytvoř page:
+1. Spusť generátor s `--push`, nebo nahraj liquid/snippet/template ručně.
+2. Page:
    - Title: `FAQ`
-   - Handle: `faq`
+   - Handle: `faq` → `/pages/faq`
    - Theme template: **faq**
-3. Otevři náhled na `/pages/faq`.
 
-FAQ má stejný vizuální styl (hero, typografie, CTA), accordion podle tvého HTML a překlady pro `en/cs/de/fr/es/it`.
+Produktové názvy v odpovědích vedou na reprezentativní produkt v eshopu (modrá / fresh). Eco-One™ vede na www.ekcos.eu. E-maily mají `mailto:`.
 
-Kanonický zápis značky v copy: **Eco-One™**. V Theme Editoru u homepage/product Guarantees je teď „EcoOne™“ — přepiš na Eco-One™ (product body HTML už Eco-One™ používá).
+Kanonický zápis značky v copy: **Eco-One™**.
 
 ## Lookbook (washroom) — mobilní obrázek
 
