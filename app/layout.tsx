@@ -1,4 +1,6 @@
 import {Open_Sans} from 'next/font/google'
+import {Analytics} from '@vercel/analytics/next'
+import {SpeedInsights} from '@vercel/speed-insights/next'
 import type {Metadata} from 'next'
 import type {ReactNode} from 'react'
 import {SITE_URL} from '@/lib/brand'
@@ -21,7 +23,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${openSans.variable} font-sans antialiased`}>{children}</body>
+      <body className={`${openSans.variable} font-sans antialiased`}>
+        {children}
+        <Analytics />
+        <SpeedInsights />
+      </body>
     </html>
   )
 }
