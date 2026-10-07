@@ -47,6 +47,12 @@ export async function FaqView({ audience, content }: Props) {
             .map((block) => {
               if (block.type === 'paragraph') return block.text
               if (block.type === 'list') return block.items.join(' ')
+              if (block.type === 'chart') {
+                return [
+                  ...block.rows.map((r) => `${r.label} ${r.display}`),
+                  block.caption,
+                ].join(' ')
+              }
               return block.rows.map((r) => r.join(' ')).join(' ')
             })
             .join(' '),
@@ -140,8 +146,8 @@ export async function FaqView({ audience, content }: Props) {
                   <h2 className="mb-4 text-2xl font-bold tracking-tight text-[#0F68B2] sm:text-3xl">
                     {linkifyPlainText(category.title, getImageAlt)}
                   </h2>
-                  <FaqAccordion category={category} />
                 </FadeIn>
+                <FaqAccordion category={category} />
               </section>
             ))}
           </div>

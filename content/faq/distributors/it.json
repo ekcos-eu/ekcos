@@ -294,6 +294,23 @@
             {
               "type": "paragraph",
               "text": "In Repubblica Ceca spediamo pacchi e pallet con FOFR. Negli altri paesi dell’UE spediamo i pacchi con FedEx e i pallet con DSV. La consegna nell’UE richiede di solito circa 5 giorni dalla spedizione, e meno per i paesi vicini alla Repubblica Ceca, ad esempio da 1 a 2 giorni per la Germania e l’Austria e da 3 a 4 giorni per l’Italia, la Francia e i Paesi Bassi. Fuori dall’UE prepariamo un preventivo di trasporto per ogni ordine, e molti partner organizzano il trasporto in proprio. Calcoliamo i costi di trasporto per ogni ordine."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "EVA ëkcos con Eco-One™",
+                  "value": 93,
+                  "display": "93%"
+                },
+                {
+                  "label": "Stesso materiale senza Eco-One™",
+                  "value": 0,
+                  "display": "0%"
+                }
+              ],
+              "caption": "Stesso materiale, stesso test di laboratorio, 3,5 anni (ASTM D5511, ISO 15985)"
             }
           ]
         },

@@ -282,30 +282,87 @@
   .faq-page__table-wrap {
     overflow-x: auto;
     margin: 1.2rem 0;
-    border: 0.1rem solid rgba(0,0,0,0.08);
-    border-radius: 0.8rem;
   }
 
   .faq-page__table {
     width: 100%;
-    min-width: 52rem;
+    min-width: 40rem;
     border-collapse: collapse;
     text-align: left;
     font-size: 1.6rem;
   }
 
   .faq-page__table th {
-    background: #eef6fc;
-    color: var(--faq-blue);
+    background: var(--faq-blue);
+    color: #fff;
     font-weight: 700;
     padding: 1rem 1.2rem;
   }
 
   .faq-page__table td {
     padding: 1rem 1.2rem;
-    border-top: 0.1rem solid rgba(0,0,0,0.06);
+    border-bottom: 0.1rem solid rgba(0,0,0,0.08);
     color: var(--faq-muted);
     vertical-align: top;
+  }
+
+  .faq-page__table tr:last-child td { border-bottom: 0; }
+
+  .faq-page__table-price {
+    color: var(--faq-blue);
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  .faq-page__chart {
+    margin: 1.6rem 0 0;
+  }
+
+  .faq-page__chart-row + .faq-page__chart-row { margin-top: 1.4rem; }
+
+  .faq-page__chart-meta {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .faq-page__chart-label {
+    color: var(--faq-blue);
+    font-weight: 700;
+    font-size: 1.5rem;
+  }
+
+  .faq-page__chart-value {
+    color: var(--faq-blue);
+    font-weight: 700;
+    font-size: 1.5rem;
+    flex-shrink: 0;
+  }
+
+  .faq-page__chart-value--zero { color: #9ca3af; }
+
+  .faq-page__chart-track {
+    height: 0.85rem;
+    border-radius: 999px;
+    background: #e8eef4;
+    overflow: hidden;
+  }
+
+  .faq-page__chart-fill {
+    height: 100%;
+    border-radius: 999px;
+    background: var(--faq-blue);
+  }
+
+  .faq-page__chart-fill--zero { background: #9ca3af; }
+
+  .faq-page__chart-caption {
+    margin: 1.2rem 0 0;
+    color: #9ca3af;
+    font-size: 1.35rem;
+    line-height: 1.4;
   }
 
   .faq-page__support { margin-top: 4rem; max-width: none; }

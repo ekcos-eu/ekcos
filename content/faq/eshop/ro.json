@@ -352,6 +352,23 @@
             {
               "type": "paragraph",
               "text": "Înseamnă că materialul nostru se descompune într-un depozit de deșeuri biologic activ, unde ajung ecranele uzate. Instituto Politécnico Nacional din Mexico City a testat ëkcos EVA cu Eco-One™ conform standardelor ASTM D5511-02 și ISO 15985:2014. A ajuns la 93% biodegradare în 3,5 ani, în timp ce același material fără aditiv a prezentat 0%. Până la 99% este proiectat în 5 ani. Aceasta este o proiecție din tendința măsurată, nu un rezultat măsurat. Biodegradarea depinde de condițiile depozitului de deșeuri."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "EVA ëkcos cu Eco-One™",
+                  "value": 93,
+                  "display": "93%"
+                },
+                {
+                  "label": "Același material fără Eco-One™",
+                  "value": 0,
+                  "display": "0%"
+                }
+              ],
+              "caption": "Același material, același test de laborator, 3,5 ani (ASTM D5511, ISO 15985)"
             }
           ]
         },
@@ -565,6 +582,10 @@
                   "Cipru, Malta (fără transport gratuit) La finalizarea comenzii vedeți suma exactă în moneda dvs."
                 ]
               ]
+            },
+            {
+              "type": "paragraph",
+              "text": "La finalizare vedeți suma exactă în moneda dvs."
             }
           ]
         },

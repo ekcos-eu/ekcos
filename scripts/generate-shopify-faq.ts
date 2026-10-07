@@ -47,6 +47,12 @@ type FaqBlock =
   | { type: 'paragraph'; text: string }
   | { type: 'list'; items: string[] }
   | { type: 'table'; headers: string[]; rows: string[][] }
+  | {
+      type: 'chart'
+      variant: 'biodegradation'
+      rows: { label: string; value: number; display: string }[]
+      caption: string
+    }
 
 type FaqItem = { id: string; question: string; answer: FaqBlock[] }
 type FaqCategory = { id: string; title: string; items: FaqItem[] }
@@ -168,6 +174,29 @@ function linkify(text: string, locale: string): string {
   return out
 }
 
+function renderChart(block: Extract<FaqBlock, { type: 'chart' }>, locale: string): string {
+  const rows = block.rows
+    .map((row) => {
+      const filled = Math.max(0, Math.min(100, row.value))
+      const isZero = filled === 0
+      const bar = isZero
+        ? `<div class="faq-page__chart-fill faq-page__chart-fill--zero" style="width:0.75rem"></div>`
+        : `<div class="faq-page__chart-fill" style="width:${filled}%"></div>`
+      const valueClass = isZero
+        ? 'faq-page__chart-value faq-page__chart-value--zero'
+        : 'faq-page__chart-value'
+      return `<div class="faq-page__chart-row">
+  <div class="faq-page__chart-meta">
+    <span class="faq-page__chart-label">${linkify(row.label, locale)}</span>
+    <span class="${valueClass}">${escapeHtml(row.display)}</span>
+  </div>
+  <div class="faq-page__chart-track">${bar}</div>
+</div>`
+    })
+    .join('')
+  return `<figure class="faq-page__chart" aria-label="${escapeHtml(block.caption)}">${rows}<figcaption class="faq-page__chart-caption">${escapeHtml(block.caption)}</figcaption></figure>`
+}
+
 function renderBlock(block: FaqBlock, locale: string): string {
   if (block.type === 'paragraph') {
     return `<p>${linkify(block.text, locale)}</p>`
@@ -178,13 +207,21 @@ function renderBlock(block: FaqBlock, locale: string): string {
       .join('')
     return `<ul>${items}</ul>`
   }
+  if (block.type === 'chart') {
+    return renderChart(block, locale)
+  }
   const headers = block.headers
     .map((h) => `<th>${linkify(h, locale)}</th>`)
     .join('')
   const rows = block.rows
     .map(
       (row) =>
-        `<tr>${row.map((cell) => `<td>${linkify(cell, locale)}</td>`).join('')}</tr>`,
+        `<tr>${row
+          .map(
+            (cell, ci) =>
+              `<td${ci === 0 ? ' class="faq-page__table-price"' : ''}>${linkify(cell, locale)}</td>`,
+          )
+          .join('')}</tr>`,
     )
     .join('')
   return `<div class="faq-page__table-wrap"><table class="faq-page__table"><thead><tr>${headers}</tr></thead><tbody>${rows}</tbody></table></div>`
@@ -562,30 +599,87 @@ ${whenBlocks}
   .faq-page__table-wrap {
     overflow-x: auto;
     margin: 1.2rem 0;
-    border: 0.1rem solid rgba(0,0,0,0.08);
-    border-radius: 0.8rem;
   }
 
   .faq-page__table {
     width: 100%;
-    min-width: 52rem;
+    min-width: 40rem;
     border-collapse: collapse;
     text-align: left;
     font-size: 1.6rem;
   }
 
   .faq-page__table th {
-    background: #eef6fc;
-    color: var(--faq-blue);
+    background: var(--faq-blue);
+    color: #fff;
     font-weight: 700;
     padding: 1rem 1.2rem;
   }
 
   .faq-page__table td {
     padding: 1rem 1.2rem;
-    border-top: 0.1rem solid rgba(0,0,0,0.06);
+    border-bottom: 0.1rem solid rgba(0,0,0,0.08);
     color: var(--faq-muted);
     vertical-align: top;
+  }
+
+  .faq-page__table tr:last-child td { border-bottom: 0; }
+
+  .faq-page__table-price {
+    color: var(--faq-blue);
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  .faq-page__chart {
+    margin: 1.6rem 0 0;
+  }
+
+  .faq-page__chart-row + .faq-page__chart-row { margin-top: 1.4rem; }
+
+  .faq-page__chart-meta {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .faq-page__chart-label {
+    color: var(--faq-blue);
+    font-weight: 700;
+    font-size: 1.5rem;
+  }
+
+  .faq-page__chart-value {
+    color: var(--faq-blue);
+    font-weight: 700;
+    font-size: 1.5rem;
+    flex-shrink: 0;
+  }
+
+  .faq-page__chart-value--zero { color: #9ca3af; }
+
+  .faq-page__chart-track {
+    height: 0.85rem;
+    border-radius: 999px;
+    background: #e8eef4;
+    overflow: hidden;
+  }
+
+  .faq-page__chart-fill {
+    height: 100%;
+    border-radius: 999px;
+    background: var(--faq-blue);
+  }
+
+  .faq-page__chart-fill--zero { background: #9ca3af; }
+
+  .faq-page__chart-caption {
+    margin: 1.2rem 0 0;
+    color: #9ca3af;
+    font-size: 1.35rem;
+    line-height: 1.4;
   }
 
   .faq-page__support { margin-top: 4rem; max-width: none; }

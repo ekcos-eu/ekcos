@@ -305,6 +305,23 @@
             {
               "type": "paragraph",
               "text": "Za informacije o proizvodima i ambalažu sada vrijede dva nova propisa EU-a: Direktiva (EU) 2024/825 (nova pravila za tvrdnje o okolišu) od 27. rujna 2026. i Uredba (EU) 2025/40 o ambalaži i ambalažnom otpadu (PPWR) od 12. kolovoza 2026. Svaku smo tvrdnju provjerili prema tim propisima. Naši novi opisi sadrže samo konkretne tvrdnje o okolišu potkrijepljene dokazima. Molimo vas da ih koristite u svojoj web-trgovini, katalozima i ponudama."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "ëkcos EVA s aditivom Eco-One™",
+                  "value": 93,
+                  "display": "93 %"
+                },
+                {
+                  "label": "Isti materijal bez Eco-One™",
+                  "value": 0,
+                  "display": "0 %"
+                }
+              ],
+              "caption": "Isti materijal, isto laboratorijsko ispitivanje, 3,5 godine (ASTM D5511, ISO 15985)"
             }
           ]
         },

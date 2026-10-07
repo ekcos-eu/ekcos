@@ -5,10 +5,24 @@ import { defaultLocale } from '@/i18n/locales'
 
 export type FaqAudience = 'distributors' | 'eshop'
 
+export type FaqChartRow = {
+  label: string
+  value: number
+  display: string
+}
+
+export type FaqChartBlock = {
+  type: 'chart'
+  variant: 'biodegradation'
+  rows: FaqChartRow[]
+  caption: string
+}
+
 export type FaqAnswerBlock =
   | { type: 'paragraph'; text: string }
   | { type: 'list'; items: string[] }
   | { type: 'table'; headers: string[]; rows: string[][] }
+  | FaqChartBlock
 
 export type FaqItem = {
   id: string

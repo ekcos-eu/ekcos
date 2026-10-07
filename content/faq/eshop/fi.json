@@ -352,6 +352,23 @@
             {
               "type": "paragraph",
               "text": "Se tarkoittaa, että materiaalimme hajoaa biologisesti aktiiviselle kaatopaikalle, jonne käytetyt seulat päätyvät. Instituto Politécnico Nacional paikassa Mexico City testattiin ëkcos EVA Eco-One™:n kanssa standardien ASTM D5511-02 ja ISO 15985:2014 mukaisesti. Se saavutti 93 %:n biohajoavuuden 3,5 vuodessa, kun taas sama materiaali ilman lisäainetta osoitti 0 %. Jopa 99 % ennustetaan 5 vuoden sisällä. Tämä on ennuste mitatusta trendistä, ei mitattu tulos. Biologinen hajoaminen riippuu kaatopaikan olosuhteista."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "ëkcos EVA Eco-One™-lisäaineella",
+                  "value": 93,
+                  "display": "93 %"
+                },
+                {
+                  "label": "Sama materiaali ilman Eco-One™",
+                  "value": 0,
+                  "display": "0 %"
+                }
+              ],
+              "caption": "Sama materiaali, sama laboratoriotesti, 3,5 vuotta (ASTM D5511, ISO 15985)"
             }
           ]
         },
@@ -565,6 +582,10 @@
                   "Kypros, Malta (ei ilmaista toimitusta) Kassalla näet tarkan summan valuutassasi."
                 ]
               ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Kassalla näet tarkan summan omassa valuutassasi."
             }
           ]
         },

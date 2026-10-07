@@ -352,6 +352,23 @@
             {
               "type": "paragraph",
               "text": "It means that our material breaks down in a biologically active landfill, where used screens end up. The Instituto Politécnico Nacional in Mexico City tested ëkcos EVA with Eco-One™ under the standards ASTM D5511 and ISO 15985. It reached 93% biodegradation within 3.5 years, while the same material without the additive showed 0%. Up to 99% is projected within 5 years. This is a projection from the measured trend, not a measured result. Biodegradation depends on landfill conditions."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "ëkcos EVA with Eco-One™",
+                  "value": 93,
+                  "display": "93%"
+                },
+                {
+                  "label": "Same material without Eco-One™",
+                  "value": 0,
+                  "display": "0%"
+                }
+              ],
+              "caption": "Same material, same laboratory test, 3.5 years (ASTM D5511, ISO 15985)"
             }
           ]
         },
@@ -562,9 +579,13 @@
                 ],
                 [
                   "16.90 EUR",
-                  "Cyprus, Malta (no free shipping) At checkout you see the exact amount in your currency."
+                  "Cyprus, Malta (no free shipping)"
                 ]
               ]
+            },
+            {
+              "type": "paragraph",
+              "text": "At checkout you see the exact amount in your currency."
             }
           ]
         },

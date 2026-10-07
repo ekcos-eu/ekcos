@@ -352,6 +352,23 @@
             {
               "type": "paragraph",
               "text": "Isso significa que nosso material se decompõe em um aterro biologicamente ativo, onde vão parar as telas usadas. O Instituto Politécnico Nacional em Mexico City testou ëkcos EVA com Eco-One™ sob os padrões ASTM D5511-02 e ISO 15985:2014. Atingiu 93% de biodegradação em 3,5 anos, enquanto o mesmo material sem o aditivo apresentou 0%. Até 99% está projetado dentro de 5 anos. Esta é uma projeção da tendência medida, não um resultado medido. A biodegradação depende das condições do aterro."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "EVA ëkcos com Eco-One™",
+                  "value": 93,
+                  "display": "93%"
+                },
+                {
+                  "label": "O mesmo material sem Eco-One™",
+                  "value": 0,
+                  "display": "0%"
+                }
+              ],
+              "caption": "Mesmo material, mesmo ensaio laboratorial, 3,5 anos (ASTM D5511, ISO 15985)"
             }
           ]
         },
@@ -565,6 +582,10 @@
                   "Chipre, Malta (sem frete grátis) Na finalização da compra, você vê o valor exato em sua moeda."
                 ]
               ]
+            },
+            {
+              "type": "paragraph",
+              "text": "No checkout vê o valor exato na sua moeda."
             }
           ]
         },

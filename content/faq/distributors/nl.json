@@ -306,6 +306,23 @@
                 "Logo's en merkvisuals.",
                 "Vergelijkingsgids, folder over Eco-One™, testcertificaat, PPWR- documentatie en veiligheidsinformatiebladen."
               ]
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "ëkcos EVA met Eco-One™",
+                  "value": 93,
+                  "display": "93%"
+                },
+                {
+                  "label": "Hetzelfde materiaal zonder Eco-One™",
+                  "value": 0,
+                  "display": "0%"
+                }
+              ],
+              "caption": "Hetzelfde materiaal, dezelfde laboratoriumtest, 3,5 jaar (ASTM D5511, ISO 15985)"
             }
           ]
         },

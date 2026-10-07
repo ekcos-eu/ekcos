@@ -352,6 +352,23 @@
             {
               "type": "paragraph",
               "text": "Tas nozīmē, ka mūsu materiāls sadalās bioloģiski aktīvā poligonā, kur nonāk lietotie sieti. Instituto Politécnico Nacional vietā Mexico City testēja ëkcos EVA ar Eco-One™ saskaņā ar standartiem ASTM D5511-02 un ISO 15985:2014. Tas sasniedza 93% bioloģisko noārdīšanos 3,5 gadu laikā, savukārt tas pats materiāls bez piedevas uzrādīja 0%. 5 gadu laikā tiek prognozēts līdz 99%. Šī ir izmērītās tendences projekcija, nevis izmērīts rezultāts. Bioloģiskā noārdīšanās ir atkarīga no poligona apstākļiem."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "ëkcos EVA ar Eco-One™",
+                  "value": 93,
+                  "display": "93 %"
+                },
+                {
+                  "label": "Tas pats materiāls bez Eco-One™",
+                  "value": 0,
+                  "display": "0 %"
+                }
+              ],
+              "caption": "Tas pats materiāls, tas pats laboratorijas tests, 3,5 gadi (ASTM D5511, ISO 15985)"
             }
           ]
         },
@@ -565,6 +582,10 @@
                   "Kipra, Malta (bez bezmaksas piegādes) Izrakstīšanās laikā redzat precīzu summu savā valūtā."
                 ]
               ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Kasē redzat precīzo summu savā valūtā."
             }
           ]
         },

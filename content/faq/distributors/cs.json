@@ -358,6 +358,23 @@
             {
               "type": "paragraph",
               "text": "Znamená to, že se náš materiál rozkládá na biologicky aktivní skládce, kde použitá sítka končí. Instituto Politécnico Nacional v Mexico City testoval materiál EVA ëkcos s přísadou Eco-One™ podle norem ASTM D5511 a ISO 15985. Materiál se za 3,5 roku biologicky rozložil z 93 %, zatímco stejný materiál bez přísady vykázal 0 %. Do 5 let se předpokládá rozklad až 99 %. Jde o předpoklad odvozený z naměřeného trendu, nikoli o naměřený výsledek. Biologický rozklad závisí na podmínkách na skládce."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "ëkcos EVA s Eco-One™",
+                  "value": 93,
+                  "display": "93 %"
+                },
+                {
+                  "label": "Stejný materiál bez Eco-One™",
+                  "value": 0,
+                  "display": "0 %"
+                }
+              ],
+              "caption": "Stejný materiál, stejný laboratorní test, 3,5 roku (ASTM D5511, ISO 15985)"
             }
           ]
         },

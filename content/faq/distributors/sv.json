@@ -311,6 +311,23 @@
             {
               "type": "paragraph",
               "text": "Själva EVA-materialet går att återvinna. En använd urinoarmatta eller ett använt WC-clip går inte att återvinna, eftersom de är biologiskt förorenade, så de hör hemma i restavfallet. Doftinsatserna till frësh drop och ëkco loop är tillverkade med återvunnen EVA och är inte förorenade, så deras material kan återvinnas. Följ era lokala regler för avfallshantering. Vi kallar inte våra produkter ”100 % återvinningsbara”, eftersom det inte skulle stämma för en använd matta."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "ëkcos EVA med Eco-One™",
+                  "value": 93,
+                  "display": "93 %"
+                },
+                {
+                  "label": "Samma material utan Eco-One™",
+                  "value": 0,
+                  "display": "0 %"
+                }
+              ],
+              "caption": "Samma material, samma laboratorietest, 3,5 år (ASTM D5511, ISO 15985)"
             }
           ]
         },

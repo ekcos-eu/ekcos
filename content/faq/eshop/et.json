@@ -352,6 +352,23 @@
             {
               "type": "paragraph",
               "text": "See tähendab, et meie materjal laguneb bioloogiliselt aktiivses prügilas, kuhu satuvad kasutatud sõelmed. Instituto Politécnico Nacional asukohas Mexico City testiti ëkcos EVA ettevõttega Eco-One™ vastavalt standarditele ASTM D5511-02 ja ISO 15985:2014. See saavutas 93% biolagunevuse 3,5 aasta jooksul, samas kui sama materjal ilma lisandita näitas 0%. 5 aasta jooksul prognoositakse kuni 99%. See on mõõdetud trendi projektsioon, mitte mõõdetud tulemus. Biolagunemine sõltub prügila tingimustest."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "ëkcos EVA Eco-One™ lisandiga",
+                  "value": 93,
+                  "display": "93 %"
+                },
+                {
+                  "label": "Sama materjal ilma Eco-One™ta",
+                  "value": 0,
+                  "display": "0 %"
+                }
+              ],
+              "caption": "Sama materjal, sama laborikatse, 3,5 aastat (ASTM D5511, ISO 15985)"
             }
           ]
         },
@@ -562,9 +579,13 @@
                 ],
                 [
                   "16.90 EUR",
-                  "Küpros, Malta (tasuta kohaletoimetamine puudub) Kassas näete täpset summat oma valuutas."
+                  "Küpros, Malta (tasuta kohaletoimetamine puudub)"
                 ]
               ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Kassas näete täpset summat oma valuutas."
             }
           ]
         },

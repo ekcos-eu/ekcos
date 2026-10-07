@@ -337,6 +337,23 @@
                 "”Parabeeniton” NON-PARA-merkinnän selityksenä. NON-PARA tarkoittaa, että tabletti ei sisällä paradiklooribentseeniä.",
                 "Pelkkä ”60+ päivää” frësh drop -raikastimen yhteydessä. Kirjoittakaa ”30+ päivää vähän tuuletetuissa WC-kopeissa ja 60+ päivää vähäisessä käytössä”. Käyttäkää hyväksyttyjä tekstejämme, jotka ovat valmiina 22 kielellä. Jos lyhennätte tai muokkaatte niitä, säilyttäkää jokainen väittämään kuuluva ehto, esimerkiksi ”kaatopaikalla”, ”valmistuksessa käytetään kierrätettyä EVA- materiaalia” ja ero mitatun 93 %:n ja ennustetun 99 %:n välillä."
               ]
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "ëkcos EVA Eco-One™-lisäaineella",
+                  "value": 93,
+                  "display": "93 %"
+                },
+                {
+                  "label": "Sama materiaali ilman Eco-One™",
+                  "value": 0,
+                  "display": "0 %"
+                }
+              ],
+              "caption": "Sama materiaali, sama laboratoriotesti, 3,5 vuotta (ASTM D5511, ISO 15985)"
             }
           ]
         }

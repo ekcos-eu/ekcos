@@ -352,6 +352,23 @@
             {
               "type": "paragraph",
               "text": "Het betekent dat ons materiaal afbreekt op een biologisch actieve stortplaats, waar gebruikte schermen terechtkomen. De Instituto Politécnico Nacional in Mexico City testte ëkcos EVA met Eco-One™ onder de standaarden ASTM D5511-02 en ISO 15985:2014. Het bereikte binnen 3,5 jaar een biologische afbraak van 93%, terwijl hetzelfde materiaal zonder het additief 0% vertoonde. Binnen 5 jaar wordt tot 99% verwacht. Dit is een projectie van de gemeten trend, geen gemeten resultaat. Biologische afbraak is afhankelijk van de omstandigheden op de stortplaats."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "ëkcos EVA met Eco-One™",
+                  "value": 93,
+                  "display": "93%"
+                },
+                {
+                  "label": "Hetzelfde materiaal zonder Eco-One™",
+                  "value": 0,
+                  "display": "0%"
+                }
+              ],
+              "caption": "Hetzelfde materiaal, dezelfde laboratoriumtest, 3,5 jaar (ASTM D5511, ISO 15985)"
             }
           ]
         },
@@ -565,6 +582,10 @@
                   "Cyprus, Malta (geen gratis verzending) Bij het afrekenen ziet u het exacte bedrag in uw valuta."
                 ]
               ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Bij het afrekenen zie je het exacte bedrag in jouw valuta."
             }
           ]
         },

@@ -352,6 +352,23 @@
             {
               "type": "paragraph",
               "text": "To znači da se naš materijal razgrađuje na biološki aktivnom odlagalištu, gdje završavaju iskorišteni siti. Instituto Politécnico Nacional u Mexico City testirao je ëkcos EVA s Eco-One™ prema standardima ASTM D5511-02 i ISO 15985:2014. Postigao je 93% biorazgradnje unutar 3,5 godine, dok je isti materijal bez aditiva pokazao 0%. Predviđa se do 99% u roku od 5 godina. Ovo je projekcija izmjerenog trenda, a ne izmjereni rezultat. Biorazgradnja ovisi o uvjetima odlagališta."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "ëkcos EVA s aditivom Eco-One™",
+                  "value": 93,
+                  "display": "93 %"
+                },
+                {
+                  "label": "Isti materijal bez Eco-One™",
+                  "value": 0,
+                  "display": "0 %"
+                }
+              ],
+              "caption": "Isti materijal, isto laboratorijsko ispitivanje, 3,5 godine (ASTM D5511, ISO 15985)"
             }
           ]
         },
@@ -562,9 +579,13 @@
                 ],
                 [
                   "16,90 EUR",
-                  "Cipar, Malta (bez besplatne dostave) Na blagajni vidite točan iznos u svojoj valuti."
+                  "Cipar, Malta (bez besplatne dostave)"
                 ]
               ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Na blagajni vidite točan iznos u svojoj valuti."
             }
           ]
         },

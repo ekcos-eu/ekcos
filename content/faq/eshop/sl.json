@@ -294,6 +294,23 @@
             {
               "type": "paragraph",
               "text": "Pišite na support@ekcos.eu ali uporabite kontaktni obrazec v naši spletni trgovini. Spletno trgovino upravlja podjetje Ekcos Europe OÜ, Saani tn 2/2-26, 10149 Tallinn, Estonija."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "ëkcos EVA z aditivom Eco-One™",
+                  "value": 93,
+                  "display": "93 %"
+                },
+                {
+                  "label": "Isti material brez Eco-One™",
+                  "value": 0,
+                  "display": "0 %"
+                }
+              ],
+              "caption": "Isti material, isti laboratorijski preskus, 3,5 leta (ASTM D5511, ISO 15985)"
             }
           ]
         }

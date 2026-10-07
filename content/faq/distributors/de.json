@@ -307,6 +307,23 @@
             {
               "type": "paragraph",
               "text": "Unsere Produktschachteln und Umkartons bestehen zu 100 % aus recycelter Wellpappe. Die Produktbeutel bestehen aus BOPP, einer Polypropylenfolie. Zu den Beuteln machen wir keine Umweltaussage. Verpackungsdokumentation gemäß der EU-Verordnung über Verpackungen und Verpackungsabfälle (PPWR) steht für Ihre Compliance-Unterlagen zur Verfügung."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "ëkcos EVA mit Eco-One™",
+                  "value": 93,
+                  "display": "93 %"
+                },
+                {
+                  "label": "Dasselbe Material ohne Eco-One™",
+                  "value": 0,
+                  "display": "0 %"
+                }
+              ],
+              "caption": "Dasselbe Material, derselbe Labortest, 3,5 Jahre (ASTM D5511, ISO 15985)"
             }
           ]
         },

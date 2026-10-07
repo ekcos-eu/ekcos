@@ -352,6 +352,23 @@
             {
               "type": "paragraph",
               "text": "Cela signifie que nos matériaux se décomposent dans une décharge biologiquement active, où finissent les écrans usagés. Le Instituto Politécnico Nacional de Mexico City a testé ëkcos EVA avec Eco-One™ selon les normes ASTM D5511-02 et ISO 15985:2014. Il a atteint 93 % de biodégradation en 3,5 ans, alors que le même matériau sans additif en affichait 0 %. Jusqu’à 99 % sont projetés d’ici 5 ans. Il s'agit d'une projection de la tendance mesurée, et non d'un résultat mesuré. La biodégradation dépend des conditions de mise en décharge."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "EVA ëkcos avec Eco-One™",
+                  "value": 93,
+                  "display": "93 %"
+                },
+                {
+                  "label": "Même matériau sans Eco-One™",
+                  "value": 0,
+                  "display": "0 %"
+                }
+              ],
+              "caption": "Même matériau, même test en laboratoire, 3,5 ans (ASTM D5511, ISO 15985)"
             }
           ]
         },
@@ -562,9 +579,13 @@
                 ],
                 [
                   "16,90 euros",
-                  "Chypre, Malte (pas de livraison gratuite) Lors du paiement, vous voyez le montant exact dans votre devise."
+                  "Chypre, Malte (pas de livraison gratuite)"
                 ]
               ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Lors du paiement, vous voyez le montant exact dans votre devise."
             }
           ]
         },

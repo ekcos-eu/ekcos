@@ -309,6 +309,23 @@
                 "Fișele cu date de securitate pentru produsele noastre parfumate.",
                 "Videoclipul testului de stropire cu UV al sitei ëkcoscreen 60+."
               ]
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "EVA ëkcos cu Eco-One™",
+                  "value": 93,
+                  "display": "93%"
+                },
+                {
+                  "label": "Același material fără Eco-One™",
+                  "value": 0,
+                  "display": "0%"
+                }
+              ],
+              "caption": "Același material, același test de laborator, 3,5 ani (ASTM D5511, ISO 15985)"
             }
           ]
         },

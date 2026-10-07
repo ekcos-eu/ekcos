@@ -352,6 +352,23 @@
             {
               "type": "paragraph",
               "text": "Tai reiškia, kad mūsų medžiaga suyra biologiškai aktyviame sąvartyne, į kurį patenka panaudoti sietai. Instituto Politécnico Nacional Mexico City išbandytas ëkcos EVA su Eco-One™ pagal standartus ASTM D5511-02 ir ISO 15985:2014. Per 3,5 metų ji pasiekė 93 % biologinio skaidymosi, o ta pati medžiaga be priedo – 0 %. Per 5 metus prognozuojama iki 99 proc. Tai yra išmatuotos tendencijos projekcija, o ne išmatuotas rezultatas. Biologinis skaidymas priklauso nuo sąvartyno sąlygų."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "ëkcos EVA su Eco-One™",
+                  "value": 93,
+                  "display": "93 %"
+                },
+                {
+                  "label": "Ta pati medžiaga be Eco-One™",
+                  "value": 0,
+                  "display": "0 %"
+                }
+              ],
+              "caption": "Ta pati medžiaga, tas pats laboratorijos bandymas, 3,5 metų (ASTM D5511, ISO 15985)"
             }
           ]
         },
@@ -565,6 +582,10 @@
                   "Kipras, Malta (nemokamas pristatymas) Atsiskaitydami matote tikslią sumą savo valiuta."
                 ]
               ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Atsiskaitymo metu matote tikslią sumą savo valiuta."
             }
           ]
         },

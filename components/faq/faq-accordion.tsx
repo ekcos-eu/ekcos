@@ -14,14 +14,18 @@ export function FaqAccordion({ category }: { category: FaqCategory }) {
 
   return (
     <Accordion type="single" collapsible className="w-full">
-      {category.items.map((item) => (
-        <AccordionItem key={item.id} value={item.id}>
-          <AccordionTrigger>{item.question}</AccordionTrigger>
-          <AccordionContent>
-            <FaqAnswer blocks={item.answer} />
-          </AccordionContent>
-        </AccordionItem>
-      ))}
+      {category.items.map((item) => {
+        const triggerId = `faq-${category.id}-${item.id}-trigger`
+        const contentId = `faq-${category.id}-${item.id}-content`
+        return (
+          <AccordionItem key={item.id} value={item.id}>
+            <AccordionTrigger id={triggerId}>{item.question}</AccordionTrigger>
+            <AccordionContent id={contentId} aria-labelledby={triggerId}>
+              <FaqAnswer blocks={item.answer} />
+            </AccordionContent>
+          </AccordionItem>
+        )
+      })}
     </Accordion>
   )
 }

@@ -6,6 +6,7 @@ import {
 } from '@/lib/article-product-links'
 import type { FaqAnswerBlock } from '@/lib/faq'
 import { useTranslations } from 'next-intl'
+import { FaqBiodegradationChart } from './faq-biodegradation-chart'
 
 export function FaqAnswer({ blocks }: { blocks: FaqAnswerBlock[] }) {
   const t = useTranslations('products')
@@ -38,11 +39,20 @@ export function FaqAnswer({ blocks }: { blocks: FaqAnswerBlock[] }) {
             </ul>
           )
         }
+        if (block.type === 'chart') {
+          return (
+            <FaqBiodegradationChart
+              key={i}
+              block={block}
+              getImageAlt={getImageAlt}
+            />
+          )
+        }
         return (
-          <div key={i} className="overflow-x-auto rounded-lg border border-black/[0.08]">
+          <div key={i} className="overflow-x-auto rounded-lg">
             <table className="w-full min-w-[28rem] border-collapse text-left text-sm sm:text-base">
               <thead>
-                <tr className="bg-[#eef6fc] text-[#0F68B2]">
+                <tr className="bg-[#0F68B2] text-white">
                   {block.headers.map((h) => (
                     <th key={h} className="px-3 py-2.5 font-semibold">
                       {linkifyPlainText(h, getImageAlt)}
@@ -52,9 +62,19 @@ export function FaqAnswer({ blocks }: { blocks: FaqAnswerBlock[] }) {
               </thead>
               <tbody>
                 {block.rows.map((row, ri) => (
-                  <tr key={ri} className="border-t border-black/[0.06] align-top">
+                  <tr
+                    key={ri}
+                    className="border-b border-black/[0.08] align-top last:border-b-0"
+                  >
                     {row.map((cell, ci) => (
-                      <td key={ci} className="px-3 py-2.5 text-[#575756]">
+                      <td
+                        key={ci}
+                        className={
+                          ci === 0
+                            ? 'px-3 py-2.5 font-semibold text-[#0F68B2]'
+                            : 'px-3 py-2.5 text-[#575756]'
+                        }
+                      >
                         {linkifyPlainText(cell, getImageAlt)}
                       </td>
                     ))}

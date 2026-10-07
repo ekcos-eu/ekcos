@@ -294,6 +294,23 @@
             {
               "type": "paragraph",
               "text": "Selve EVA-materialet kan genanvendes. Det kan en brugt urinalmåtte eller toiletclips ikke, fordi den er biologisk forurenet, så den hører til i restaffaldet. Indsatserne i frësh drop og ëkco loop er fremstillet med genanvendt EVA og er ikke forurenede, så deres materiale kan genanvendes. Følg de lokale affaldsregler. Vi kalder ikke vores produkter »100 % genanvendelige«, fordi det ikke ville passe for en brugt måtte."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "ëkcos EVA med Eco-One™",
+                  "value": 93,
+                  "display": "93 %"
+                },
+                {
+                  "label": "Samme materiale uden Eco-One™",
+                  "value": 0,
+                  "display": "0 %"
+                }
+              ],
+              "caption": "Samme materiale, samme laboratorietest, 3,5 år (ASTM D5511, ISO 15985)"
             }
           ]
         },

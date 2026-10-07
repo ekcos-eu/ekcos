@@ -352,6 +352,23 @@
             {
               "type": "paragraph",
               "text": "Det betyder, at vores materiale nedbrydes på en biologisk aktiv losseplads, hvor brugte skærme ender. Instituto Politécnico Nacional i Mexico City testede ëkcos EVA med Eco-One™ under standarderne ASTM D5511-02 og ISO 15985:2014. Det nåede 93% biologisk nedbrydning inden for 3,5 år, mens det samme materiale uden tilsætningsstoffet viste 0%. Op til 99 % forventes inden for 5 år. Dette er en fremskrivning fra den målte tendens, ikke et målt resultat. Bionedbrydning afhænger af lossepladsforhold."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "ëkcos EVA med Eco-One™",
+                  "value": 93,
+                  "display": "93 %"
+                },
+                {
+                  "label": "Samme materiale uden Eco-One™",
+                  "value": 0,
+                  "display": "0 %"
+                }
+              ],
+              "caption": "Samme materiale, samme laboratorietest, 3,5 år (ASTM D5511, ISO 15985)"
             }
           ]
         },
@@ -565,6 +582,10 @@
                   "Cypern, Malta (ingen gratis forsendelse) Ved kassen ser du det nøjagtige beløb i din valuta."
                 ]
               ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Ved kassen ser du det præcise beløb i din valuta."
             }
           ]
         },

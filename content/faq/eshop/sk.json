@@ -352,6 +352,23 @@
             {
               "type": "paragraph",
               "text": "Znamená to, že náš materiál sa rozkladá na biologicky aktívnej skládke, kde končia použité sitá. Instituto Politécnico Nacional v Mexico City testovala ëkcos EVA s Eco-One™ podľa štandardov ASTM D5511-02 a ISO 15985:2014. Dosiahol 93% biodegradáciu v priebehu 3,5 roka, pričom rovnaký materiál bez aditíva vykazoval 0%. Do 5 rokov sa predpokladá až 99 %. Ide o projekciu z nameraného trendu, nie o nameraný výsledok. Biodegradácia závisí od podmienok skládky."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "ëkcos EVA s Eco-One™",
+                  "value": 93,
+                  "display": "93 %"
+                },
+                {
+                  "label": "Rovnaký materiál bez Eco-One™",
+                  "value": 0,
+                  "display": "0 %"
+                }
+              ],
+              "caption": "Rovnaký materiál, rovnaký laboratórny test, 3,5 roka (ASTM D5511, ISO 15985)"
             }
           ]
         },
@@ -562,9 +579,13 @@
                 ],
                 [
                   "16,90 EUR",
-                  "Cyprus, Malta (bez dopravy zdarma) Pri pokladni uvidíte presnú sumu vo vašej mene."
+                  "Cyprus, Malta (bez dopravy zdarma)"
                 ]
               ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Pri pokladni uvidíte presnú sumu vo vašej mene."
             }
           ]
         },

@@ -352,6 +352,23 @@
             {
               "type": "paragraph",
               "text": "Ez azt jelenti, hogy az anyagunk egy biológiailag aktív hulladéklerakóban bomlik le, ahol a használt sziták kerülnek. A Instituto Politécnico Nacional in Mexico City a ëkcos EVA Eco-One™-val tesztelve a ASTM D5511-02 és ISO 15985:2014 szabványok szerint. 3,5 év alatt elérte a 93%-os biológiai lebomlást, míg ugyanez az anyag adalék nélkül 0%-ot mutatott. 5 éven belül akár 99%-ot is terveznek. Ez egy előrejelzés a mért trendből, nem pedig egy mért eredmény. A biológiai lebomlás a hulladéklerakó körülményeitől függ."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "ëkcos EVA Eco-One™ adalékkal",
+                  "value": 93,
+                  "display": "93%"
+                },
+                {
+                  "label": "Ugyanaz az anyag Eco-One™ nélkül",
+                  "value": 0,
+                  "display": "0%"
+                }
+              ],
+              "caption": "Ugyanaz az anyag, ugyanaz a laborvizsgálat, 3,5 év (ASTM D5511, ISO 15985)"
             }
           ]
         },
@@ -565,6 +582,10 @@
                   "Ciprus, Málta (nincs ingyenes szállítás) A fizetéskor a pontos összeget látja a pénznemben."
                 ]
               ]
+            },
+            {
+              "type": "paragraph",
+              "text": "A pénztárnál a pontos összeget a saját pénznemében látja."
             }
           ]
         },

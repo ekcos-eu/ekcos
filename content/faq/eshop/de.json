@@ -352,6 +352,23 @@
             {
               "type": "paragraph",
               "text": "Das bedeutet, dass unser Material auf einer biologisch aktiven Deponie zerfällt, wo gebrauchte Siebe landen. Das Instituto Politécnico Nacional in Mexico City testete ëkcos EVA mit Eco-One™ unter den Standards ASTM D5511-02 und ISO 15985:2014. Innerhalb von 3,5 Jahren wurde ein biologischer Abbau von 93 % erreicht, während das gleiche Material ohne den Zusatzstoff 0 % aufwies. Bis zu 99 % werden innerhalb von 5 Jahren prognostiziert. Dies ist eine Prognose des gemessenen Trends, kein gemessenes Ergebnis. Der biologische Abbau hängt von den Deponiebedingungen ab."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "ëkcos EVA mit Eco-One™",
+                  "value": 93,
+                  "display": "93 %"
+                },
+                {
+                  "label": "Dasselbe Material ohne Eco-One™",
+                  "value": 0,
+                  "display": "0 %"
+                }
+              ],
+              "caption": "Dasselbe Material, derselbe Labortest, 3,5 Jahre (ASTM D5511, ISO 15985)"
             }
           ]
         },
@@ -562,9 +579,13 @@
                 ],
                 [
                   "16,90 EUR",
-                  "Zypern, Malta (kein kostenloser Versand) An der Kasse sehen Sie den genauen Betrag in Ihrer Währung."
+                  "Zypern, Malta (kein kostenloser Versand)"
                 ]
               ]
+            },
+            {
+              "type": "paragraph",
+              "text": "An der Kasse sehen Sie den genauen Betrag in Ihrer Währung."
             }
           ]
         },

@@ -352,6 +352,23 @@
             {
               "type": "paragraph",
               "text": "Oznacza to, że nasz materiał rozkłada się na biologicznie aktywnym wysypisku śmieci, na którym lądują zużyte sita. Instituto Politécnico Nacional w Mexico City przetestowała ëkcos EVA z Eco-One™ zgodnie ze standardami ASTM D5511-02 i ISO 15985:2014. Osiągnął 93% biodegradacji w ciągu 3,5 roku, podczas gdy ten sam materiał bez dodatku wykazał 0%. Do 99% prognozuje się w ciągu 5 lat. Jest to projekcja zmierzonego trendu, a nie zmierzony wynik. Biodegradacja zależy od warunków składowania."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradation",
+              "rows": [
+                {
+                  "label": "ëkcos EVA z Eco-One™",
+                  "value": 93,
+                  "display": "93%"
+                },
+                {
+                  "label": "Ten sam materiał bez Eco-One™",
+                  "value": 0,
+                  "display": "0%"
+                }
+              ],
+              "caption": "Ten sam materiał, ten sam test laboratoryjny, 3,5 roku (ASTM D5511, ISO 15985)"
             }
           ]
         },
@@ -562,9 +579,13 @@
                 ],
                 [
                   "16,90 EUR",
-                  "Cypr, Malta (bez bezpłatnej wysyłki) Przy kasie widzisz dokładną kwotę w swojej walucie."
+                  "Cypr, Malta (bez bezpłatnej wysyłki)"
                 ]
               ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Przy kasie widzisz dokładną kwotę w swojej walucie."
             }
           ]
         },
