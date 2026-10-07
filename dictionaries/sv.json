@@ -214,65 +214,92 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "Eco-One™ för biologisk nedbrytning av deponier",
-      "tagline": "Samma produkt. Samma prestation. Tillverkad med återvunnen EVA och Eco-One™.",
-      "body": "Våra urinoarmattor och luktförbättrare är tillverkade med återvunnen EVA. Själva materialet går att återvinna, men inte en använd urinoarmatta, eftersom den är biologiskt förorenad. Den hamnar på deponi eller går till förbränning, och därför blandar vi in tillsatsen Eco-One™ i alla våra produkter. I ett oberoende test enligt ASTM D5511 och ISO 15985 vid Instituto Politécnico Nacional i Mexico City nådde ëkcos EVA med Eco-One™ 93 % biologisk nedbrytning inom 3,5 år, medan samma material utan tillsatsen visade 0 %. Upp till 99 % biologisk nedbrytning beräknas inom 5 år. Våra lådor är tillverkade av 100 % återvunnen kartong."
+      "title": "År, inte sekler.",
+      "tagline": "Samma prestanda vid användning. Biologiskt nedbrytbar på deponi med Eco-One™.",
+      "body": "Våra urinoarmattor och luktförbättrare är tillverkade med återvunnen EVA. Själva materialet går att återvinna, men inte en använd urinoarmatta, eftersom den är biologiskt förorenad. Den hamnar på deponi eller går till förbränning, och därför blandar vi in tillsatsen Eco-One™ i alla våra produkter."
+    },
+    "afterUse": {
+      "heading": "Vad som händer efter användning",
+      "title": "Biologiskt nedbrytbar på deponi: 93 % inom 3,5 år",
+      "steps": {
+        "use": {
+          "title": "Vid användning",
+          "body": "Lika effektiva som produkter utan Eco-One™"
+        },
+        "after": {
+          "title": "Efter användning",
+          "body": "Biologiskt förorenade och kan därför inte återvinnas"
+        },
+        "landfill": {
+          "title": "På deponi",
+          "body": "Med Eco-One™ är materialet biologiskt nedbrytbart"
+        },
+        "breakdown": {
+          "title": "Biogas, CO2 och humus",
+          "body": "Inom 3,5 år omvandlas 93 % av materialet till detta (oberoende test)"
+        }
+      }
     },
     "metrics": {
       "additive": {
         "value": "~1 %",
-        "label": "additivt innehåll"
+        "label": "Eco-One™ i materialet"
       },
       "measured": {
-        "value": "~3,5 år",
-        "label": "till 93 % biologisk nedbrytning"
+        "value": "93 %",
+        "label": "uppmätt inom 3,5 år"
       },
       "projected": {
         "value": "upp till 99 %",
-        "label": "inom ~5 år"
+        "label": "beräknat inom 5 år"
+      },
+      "cardboard": {
+        "value": "100 %",
+        "label": "lådor av återvunnen kartong"
       }
     },
     "problem": {
-      "title": "Varför vanlig plast är ett problem",
-      "body": "Vanliga plastprodukter är konstruerade för att hålla. Utan en biologisk nedbrytningstillsats kan en plastprodukt som skickas till deponi förbli där i <bold>300 till 1 000 år</bold>; skum träskor \"Crocs-style\" är ett välbekant exempel på plast som är <bold>inte biologiskt nedbrytbar</bold>. Våra produkter är tillverkade av samma sorts hållbara plast (EVA) - men med en avgörande skillnad: Eco-One™-tillsatsen.",
-      "chartAlt": "Produkter utan Eco-One™ jämfört med ëkcos produkter som innehåller tillsatsen",
-      "chartCaption": "Produkter utan Eco-One™ jämfört med ëkcos produkter som innehåller tillsatsen.",
+      "title": "Därför ligger en vanlig urinoarmatta kvar i sekler",
+      "body": "EVA är ett slitstarkt material. Utan en tillsats för biologisk nedbrytning kan en använd urinoarmatta ligga kvar på deponi i uppskattningsvis <bold>300 till 1 000</bold> år. Foppatofflor och flipflops tillverkas av samma material, och inte heller de bryts ned biologiskt.",
+      "chartAlt": "Uppskattad tid för nedbrytning på deponi",
+      "chartCaption": "Uppskattad tid för nedbrytning på deponi.",
       "chart": {
-        "ariaLabel": "Jämförelse av år att bryta ner i deponi",
+        "ariaLabel": "Uppskattad tid för nedbrytning på deponi",
         "withoutLabel": "Produkter utan Eco-One™",
         "withLabel": "ëkcos med Eco-One™",
-        "withoutValue": "300–1 000 år",
-        "withValue": "3,5–5 år",
+        "withoutValue": "300-1 000 år",
+        "withValue": "3,5-5 år",
         "withoutDetail": "Utan en tillsats för biologisk nedbrytning kan konventionell plast förbli i deponi i århundraden.",
         "withDetail": "Med Eco-One™-tillsatsen visar oberoende tester ~93 % biologisk nedbrytning på cirka 3,5 år och upp till 99 % inom fem år.",
         "axisLabel": "År att bryta ner (deponi)",
-        "caption": "Produkter utan Eco-One™ jämfört med ëkcos produkter som innehåller tillsatsen.",
+        "caption": "Uppskattad tid för nedbrytning på deponi.",
         "scaleLabel": "Diagramskala",
-        "scaleFull": "0–1 000 år",
-        "scaleZoom": "0–10 år",
-        "clippedNote": "fortsätter →"
+        "scaleFull": "0-1 000 år",
+        "scaleZoom": "0-10 år",
+        "clippedNote": "fortsätter ->"
       }
     },
     "solution": {
-      "title": "Vår lösning: Eco-One™-tillsatsen",
-      "body1": "Under tillverkningen använder vi cirka <bold>1 % av Eco-One™</bold>, en organisk tillsats som doseras på samma sätt som ett färgämne. Det påverkar inte produktens styrka, utseende eller prestanda.",
-      "body2": "I en biologiskt aktiv deponi bryter naturligt förekommande mikroorganismer ner den behandlade plasten genom enzymatisk aktivitet och omvandlar den till biogas (<bold>metan</bold>, som moderna deponier fångar upp för energiåtervinning), koldioxid och humus.",
-      "body3": "Eftersom produkten i slutändan bryts ner till humus, återför den organiskt material till deponin och hjälper till att påskynda de biokemiska processer som redan är igång där. Produkten bidrar därför <bold>inte bara under sin livslängd, utan även efter den</bold>."
+      "title": "Vår lösning: tillsatsen Eco-One™",
+      "body1": "Vid tillverkningen blandar vi in <bold>cirka 1 % Eco-One™</bold> i materialet. Det påverkar inte produktens hållfasthet, utseende eller prestanda.",
+      "body2": "På en biologiskt aktiv deponi gör Eco-One™ att materialet kan brytas ned till biogas, koldioxid och humus. Moderna deponier samlar upp biogasen och använder den till energi.",
+      "calloutTitle": "Gör nytta under användning - och efteråt",
+      "calloutBody": "I stället för att ligga på deponi i århundraden bryts materialet ned till biogas, som moderna deponier använder till energi, och till humus. Humusen berikar i sin tur jorden."
     },
     "testing": {
-      "title": "Oberoende testning",
-      "body": "Produkten testades av ett oberoende laboratorium enligt de internationella standarderna <bold>ASTM D5511 och ISO 15985</bold>, och jämförde samma produkt med och utan tillsatsen Eco-One™. Med Eco-One™ nådde den <bold>93,31 % biologisk nedbrytning inom cirka 3,5 år och upp till 99 % inom fem år</bold>; utan Eco-One™ visade produkten ingen mätbar biologisk nedbrytning.",
+      "title": "Oberoende test: 93 % mot 0 %",
+      "body": "I ett oberoende test enligt <bold>ASTM D5511 och ISO 15985</bold> vid Instituto Politécnico Nacional i Mexico City nådde ëkcos EVA med Eco-One™ <bold>93 % biologisk nedbrytning inom 3,5 år, medan samma material utan tillsatsen visade 0</bold> %. Upp till 99 % biologisk nedbrytning beräknas inom 5 år.",
       "barChart": {
-        "ariaLabel": "Biologisk nedbrytning efter cirka 3,5 år med och utan Eco-One™",
+        "ariaLabel": "Oberoende test: 93 % mot 0 %",
         "yAxis": "Biologisk nedbrytning (%)",
         "withLabel": "ëkcos med Eco-One™",
         "withoutLabel": "Produkter utan Eco-One™",
         "withDetail": "93,31 % biologisk nedbrytning uppmätt i ett oberoende ASTM D5511 / ISO 15985 labbtest efter cirka 3,5 år.",
         "withoutDetail": "Samma produkt utan Eco-One™ visade ingen mätbar biologisk nedbrytning under samma testperiod.",
-        "subtitle": "Samma produkt · samma labbtest (ASTM D5511 / ISO 15985) · ~3,5 år"
+        "subtitle": "Samma material, samma laboratorietest, 3,5 år"
       },
       "timelineChart": {
-        "ariaLabel": "Biologisk nedbrytning under fem år med och utan Eco-One™",
+        "ariaLabel": "Oberoende test: 93 % mot 0 %",
         "yAxis": "Biologisk nedbrytning (%)",
         "xAxis": "år",
         "withLabel": "ëkcos med Eco-One™",
@@ -281,16 +308,16 @@
         "measured": "mätt",
         "projected": "projicerade",
         "yearsUnit": "år",
-        "projectedNote": "Projiceras från den uppmätta trenden",
-        "caption": "Biologisk nedbrytning med och utan tillsatsen Eco-One™. Värden över 3,5 år projiceras från den uppmätta trenden."
+        "projectedNote": "Värden efter 3,5 år är beräknade",
+        "caption": "Värden efter 3,5 år är beräknade."
       }
     },
     "closing": {
-      "title": "ëkcos produkter med Eco-One™",
-      "body": "Våra tvättrumsprodukter är tillverkade med tillsatsen Eco-One™. I ett oberoende laboratorietest nådde ëkcos EVA med Eco-One™ 93 % biologisk nedbrytning inom 3,5 år, och upp till 99 % projiceras inom 5 år under deponiförhållanden – med prestanda identisk med produkter utan tillsats.",
+      "title": "ëkcos med Eco-One™",
+      "body": "Våra urinoarmattor, WC-clips och luftfräschare innehåller tillsatsen Eco-One™: samma prestanda vid användning som produkter utan den, och ett betydligt bättre slut när de är uttjänta.",
       "shopCta": "Handla"
     },
-    "footnote": "Datakälla: oberoende biologisk nedbrytningstest enligt ASTM D5511-02 och ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) - ëkcos-produkt med 1 % Eco-One™-tillsats: 93,31 % biologisk nedbrytning under 1,23,8 år (≈8,5 år); samma produkt utan tillsats: 0 %. Biologisk nedbrytning efter testperioden (upp till 99 % inom ~5 år) beräknas utifrån den uppmätta trenden. Persistenssiffror för konventionell plast (≈300–1 000 år) är allmänt citerade industriuppskattningar. Eco-One™-tillsatsen är tillverkad och certifierad av EcoLogic, LLC."
+    "footnote": "Datakälla: oberoende test av biologisk nedbrytning enligt ASTM D5511-02 och ISO 15985:2014, Instituto Politécnico Nacional, Mexico City. ëkcos EVA med cirka 1 % Eco-One™: 93,31 % biologisk nedbrytning på 1 288 dagar (cirka 3,5 år); samma material utan tillsatsen: 0 %. Upp till 99 % inom 5 år är beräknat utifrån den uppmätta trenden. Den biologiska nedbrytningen beror på förhållandena på deponin. 300 till 1 000 år för EVA utan tillsats är en allmänt citerad uppskattning inom branschen. Eco-One™ är ett varumärke som tillhör EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {

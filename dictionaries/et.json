@@ -5,7 +5,7 @@
     "productsTitle": "Tooted",
     "productsDescription": "Avastage ëkcos tooteid: vahetage mudeleid, viimistlusi ja valikuid – seejärel külastage ametlikku poodi.",
     "ecoOneTitle": "Eco-One™",
-    "ecoOneDescription": "Meie pissuaarisõelte ja värskendajate valmistamisel kasutatakse ringlussevõetud EVA-materjali. Materjali ennast saab ringlusse võtta, kuid kasutatud pissuaarisõela mitte, sest see on bioloogiliselt saastunud. See jõuab prügilasse või põletusse ja seetõttu lisame kõigile oma toodetele lisandit Eco-One™.",
+    "ecoOneDescription": "Meie pissuaarisõelte ja värskendajate valmistamisel kasutatakse ringlussevõetud EVAmaterjali. Materjali ennast saab ringlusse võtta, kuid kasutatud pissuaarisõela mitte, sest see on bioloogiliselt saastunud. See jõuab prügilasse või põletusse ja seetõttu lisame kõigile oma toodetele lisandit Eco-One™.",
     "brandingTitle": "Kohandatud bränding",
     "brandingDescription": "Erabrändi loomine, väljalõiked ja printimine B2B programmide jaoks.",
     "articlesTitle": "Artiklid",
@@ -214,83 +214,110 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "Eco-One™ prügilas biolagunemiseks",
-      "tagline": "Sama toode. Sama esitus. Valmistatud taaskasutatud EVA-st ja Eco-One™-st.",
-      "body": "Meie pissuaarisõelte ja värskendajate valmistamisel kasutatakse ringlussevõetud EVA-materjali. Materjali ennast saab ringlusse võtta, kuid kasutatud pissuaarisõela mitte, sest see on bioloogiliselt saastunud. See jõuab prügilasse või põletusse ja seetõttu lisame kõigile oma toodetele lisandit Eco-One™. Sõltumatus katses, mis tehti standardite ASTM D5511 ja ISO 15985 järgi ülikoolis Instituto Politécnico Nacional México linnas, saavutas Eco-One™ lisandiga ëkcos EVA-materjal 3,5 aasta jooksul 93 % biolagunemise, samas kui sama materjal ilma lisandita näitas 0 %. Prognoositav biolagunemine 5 aasta jooksul on kuni 99 %. Meie karbid on valmistatud 100 % ringlussevõetud kartongist."
+      "title": "Aastaid, mitte sajandeid.",
+      "tagline": "Kasutamisel sama tõhus. Eco-One™ lisandiga prügilas biolagunev.",
+      "body": "Meie pissuaarisõelte ja värskendajate valmistamisel kasutatakse ringlussevõetud EVAmaterjali. Materjali ennast saab ringlusse võtta, kuid kasutatud pissuaarisõela mitte, sest see on bioloogiliselt saastunud. See jõuab prügilasse või põletusse ja seetõttu lisame kõigile oma toodetele lisandit Eco-One™."
+    },
+    "afterUse": {
+      "heading": "Mis juhtub pärast kasutamist",
+      "title": "Prügilas biolagunev 93 % ulatuses 3,5 aasta jooksul",
+      "steps": {
+        "use": {
+          "title": "Kasutamise ajal",
+          "body": "Sama tõhusad kui tooted ilma Eco-One™-ita"
+        },
+        "after": {
+          "title": "Pärast kasutamist",
+          "body": "Bioloogiliselt saastunud, seega ei saa neid ringlusse võtta"
+        },
+        "landfill": {
+          "title": "Prügilas",
+          "body": "Tänu Eco-One™-ile on materjal biolagunev"
+        },
+        "breakdown": {
+          "title": "Biogaas, CO2 ja huumus",
+          "body": "3,5 aasta jooksul muutub 93 % materjalist nendeks (sõltumatu test)"
+        }
+      }
     },
     "metrics": {
       "additive": {
-        "value": "~1%",
-        "label": "lisaaine sisu"
+        "value": "~1 %",
+        "label": "lisandit Eco-One™ materjalis"
       },
       "measured": {
-        "value": "~3,5 a",
-        "label": "biolagunemine kuni 93%."
+        "value": "93 %",
+        "label": "mõõdetud 3,5 aasta jooksul"
       },
       "projected": {
-        "value": "kuni 99%",
-        "label": "~5 aasta jooksul"
+        "value": "kuni 99 %",
+        "label": "prognoositav 5 aasta jooksul"
+      },
+      "cardboard": {
+        "value": "100 %",
+        "label": "ringlussevõetud kartongist karbid"
       }
     },
     "problem": {
-      "title": "Miks tavaline plast on probleem",
-      "body": "Tavalised plasttooted on loodud kestma. Ilma biolaguneva lisandita võib prügilasse saadetud plasttoode sinna jääda <bold>300 kuni 1000 aastat</bold>; vahtplastist “Crocsi stiilis” puukingad on tuttav näide plastikust, mis <bold>ei ole biolagunev</bold>. Meie tooted on valmistatud samast vastupidavast plastikust (EVA), kuid sellel on üks otsustav erinevus: lisand Eco-One™.",
-      "chartAlt": "Tooted ilma Eco-One™ta võrreldes lisandit sisaldavate ëkcos toodetega",
-      "chartCaption": "Tooted ilma Eco-One™ta võrreldes lisandit sisaldavate ëkcos toodetega.",
+      "title": "Miks tavaline sõel püsib sajandeid",
+      "body": "EVA on vastupidav materjal. Ilma biolagunemislisandita võib kasutatud sõel püsida prügilas hinnanguliselt <bold>300 kuni 1 000</bold> aastat. Samast materjalist tehakse ka vahust puukingi ja plätusid ning needki ei biolagune.",
+      "chartAlt": "Hinnanguline lagunemisaeg prügilas",
+      "chartCaption": "Hinnanguline lagunemisaeg prügilas.",
       "chart": {
-        "ariaLabel": "Prügilas lagunemise aastate võrdlus",
+        "ariaLabel": "Hinnanguline lagunemisaeg prügilas",
         "withoutLabel": "Tooted ilma Eco-One™ta",
-        "withLabel": "ëkcos koos Eco-One™",
+        "withLabel": "ëkcos Eco-One™ lisandiga",
         "withoutValue": "300-1000 aastat",
         "withValue": "3,5-5 aastat",
         "withoutDetail": "Ilma biolaguneva lisandita võib tavaline plast jääda prügilasse sajandeid.",
         "withDetail": "Lisandiga Eco-One™ näitavad sõltumatud testid umbes 93% biolagunemist umbes 3,5 aasta jooksul ja kuni 99% viie aasta jooksul.",
         "axisLabel": "Aastaid lagunemiseks (prügilasse)",
-        "caption": "Tooted ilma Eco-One™ta võrreldes lisandit sisaldavate ëkcos toodetega.",
+        "caption": "Hinnanguline lagunemisaeg prügilas.",
         "scaleLabel": "Diagrammi skaala",
-        "scaleFull": "0–1000 a",
+        "scaleFull": "0-1000 a",
         "scaleZoom": "0-10 a",
-        "clippedNote": "jätkub →"
+        "clippedNote": "jätkub ->"
       }
     },
     "solution": {
-      "title": "Meie lahendus: Eco-One™ lisand",
-      "body1": "Tootmise ajal lisame ligikaudu <bold>1% Eco-One™</bold>, orgaanilist lisandit, mida doseeritakse samamoodi nagu värvainet. See ei mõjuta toote tugevust, välimust ega toimivust.",
-      "body2": "Bioloogiliselt aktiivses prügilas lagundavad looduslikult esinevad mikroorganismid töödeldud plastikut ensümaatilise aktiivsuse kaudu, muutes selle biogaasiks (<bold>metaan</bold>, mille tänapäevased prügilad püüavad energia taaskasutamiseks), süsihappegaasiks ja huumuseks.",
-      "body3": "Kuna toode laguneb lõpuks huumuseks, viib see orgaanilise aine prügilasse tagasi ja aitab kiirendada seal juba töötavaid biokeemilisi protsesse. Seetõttu aitab toode <bold>mitte ainult oma kasutusaja jooksul, vaid ka pärast seda</bold>."
+      "title": "Meie lahendus: lisand Eco-One™",
+      "body1": "Tootmise käigus lisame materjalile umbes 1 % lisandit Eco-One™. See ei mõjuta toote tugevust, välimust ega toimivust.",
+      "body2": "Bioloogiliselt aktiivses prügilas võimaldab lisand Eco-One™ materjalil laguneda biogaasiks, süsinikdioksiidiks ja huumuseks. Tänapäevased prügilad koguvad biogaasi kokku ja kasutavad seda energia tootmiseks.",
+      "calloutTitle": "Kasulik nii kasutuses kui ka pärast seda",
+      "calloutBody": "Selle asemel, et sajandeid prügilas lebada, laguneb materjal biogaasiks, mida tänapäevased prügilad kasutavad energia tootmiseks, ja huumuseks. Huumus omakorda rikastab mulda."
     },
     "testing": {
-      "title": "Sõltumatu testimine",
-      "body": "Toodet testiti sõltumatus laboris rahvusvaheliste standardite <bold>ASTM D5511 ja ISO 15985</bold> järgi, võrreldes sama toodet lisandiga Eco-One™ ja ilma. Eco-One™ puhul saavutas see ligikaudu 3,5 aasta jooksul <bold>93,31% biolagunemise ja viie aasta jooksul kuni 99%</bold>; ilma Eco-One™ta ei näidanud toode mõõdetavat biolagunemist.",
+      "title": "Sõltumatu katse: 93 % vs 0 % Sõltumatus katses, mis tehti standardite ASTM D5511 ja ISO 15985 järgi ülikoolis Instituto Politécnico Nacional México linnas, saavutas Eco-One™ lisandiga ëkcos EVA-materjal 3,5 aasta jooksul 93 % biolagunemise, samas kui sama materjal ilma lisandita näitas 0 %",
+      "body": "Prognoositav biolagunemine 5 aasta jooksul on kuni 99 %.",
       "barChart": {
-        "ariaLabel": "Biolagunemine ligikaudu 3,5 aasta pärast ⟦ECOONE-ga ja ilma",
+        "ariaLabel": "Sõltumatu katse: 93 % vs 0 % Sõltumatus katses, mis tehti standardite ASTM D5511 ja ISO 15985 järgi ülikoolis Instituto Politécnico Nacional México linnas, saavutas Eco-One™ lisandiga ëkcos EVA-materjal 3,5 aasta jooksul 93 % biolagunemise, samas kui sama materjal ilma lisandita näitas 0 %",
         "yAxis": "Biolagunemine (%)",
-        "withLabel": "ëkcos koos Eco-One™",
+        "withLabel": "ëkcos Eco-One™ lisandiga",
         "withoutLabel": "Tooted ilma Eco-One™ta",
         "withDetail": "93,31% biolagunemine, mõõdetud sõltumatu ASTM D5511 / ISO 15985 laboritestiga umbes 3,5 aasta pärast.",
         "withoutDetail": "Sama toode ilma Eco-One™ta ei näidanud sama katseperioodi jooksul mõõdetavat biolagunemist.",
-        "subtitle": "Sama toode · sama laborikatse (ASTM D5511 / ISO 15985) · ~3,5 aastat"
+        "subtitle": "Sama materjal, sama laborikatse, 3,5 aastat"
       },
       "timelineChart": {
-        "ariaLabel": "Biolagunemine viie aasta jooksul koos ja ilma Eco-One™ta",
+        "ariaLabel": "Sõltumatu katse: 93 % vs 0 % Sõltumatus katses, mis tehti standardite ASTM D5511 ja ISO 15985 järgi ülikoolis Instituto Politécnico Nacional México linnas, saavutas Eco-One™ lisandiga ëkcos EVA-materjal 3,5 aasta jooksul 93 % biolagunemise, samas kui sama materjal ilma lisandita näitas 0 %",
         "yAxis": "Biolagunemine (%)",
         "xAxis": "Aastaid",
-        "withLabel": "ëkcos koos Eco-One™",
+        "withLabel": "ëkcos Eco-One™ lisandiga",
         "withoutLabel": "Tooted ilma Eco-One™ta",
         "zeroNote": "0% kogu aeg",
         "measured": "mõõdetud",
         "projected": "prognoositud",
         "yearsUnit": "a",
-        "projectedNote": "Prognoositud mõõdetud trendist",
-        "caption": "Biolagunemine lisandiga Eco-One™ ja ilma. Väärtused, mis on pikemad kui 3,5 aastat, prognoositakse mõõdetud trendist."
+        "projectedNote": "Väärtused pärast 3,5 aastat on prognoositavad",
+        "caption": "Väärtused pärast 3,5 aastat on prognoositavad."
       }
     },
     "closing": {
-      "title": "ëkcos tooted, millel on Eco-One™",
-      "body": "Meie pesuruumitooted on valmistatud lisandiga Eco-One™. Sõltumatu laborikatse käigus saavutas ëkcos EVA koos Eco-One™-ga 93% biolagunemise 3,5 aasta jooksul ja kuni 99% prognoositakse 5 aasta jooksul prügilasse ladestamise tingimustes – toimivus on identne ilma lisandita toodetega.",
+      "title": "ëkcos Eco-One™ lisandiga",
+      "body": "Meie pissuaarisõelad, klambriga WC-värskendajad ja õhuvärskendajad sisaldavad lisandit Eco-One™: kasutamisel on need sama tõhusad kui tooted ilma selleta ja nende olelusringi lõpp on palju parem.",
       "shopCta": "Pood"
     },
-    "footnote": "Andmeallikas: sõltumatu biolagunevuse test vastavalt ASTM D5511-02 ja ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) – ëkcos toode 1% Eco-One™ lisandiga: 93,31% biolagunemine 1,283 päeva jooksul (≈283 päeva); sama toode ilma lisandita: 0%. Biodegradatsioon pärast katseperioodi (kuni 99% ~5 aasta jooksul) prognoositakse mõõdetud trendist. Tavapäraste plastide püsivusnäitajad (≈300–1000 aastat) on laialdaselt tsiteeritud tööstuse hinnangud. Lisandit Eco-One™ toodab ja sertifitseerib EcoLogic, LLC."
+    "footnote": "Andmete allikas: sõltumatu biolagunemiskatse standardite ASTM D5511-02 ja ISO 15985:2014 järgi, Instituto Politécnico Nacional, México. ëkcos EVA-materjal umbes 1 % Eco-One™ lisandiga: 93,31 % biolagunemist 1 288 päeva jooksul (umbes 3,5 aastat); sama materjal ilma lisandita: 0 %. Kuni 99 % biolagunemine 5 aasta jooksul on prognoositud mõõdetud trendi põhjal. Biolagunemine sõltub prügila tingimustest. 300 kuni 1 000 aastat ilma lisandita EVA-materjali puhul on laialt tsiteeritud tööstusharu hinnang. Eco-One™ on ettevõtte EcoLogic, LLC kaubamärk."
   },
   "customBranding": {
     "hero": {

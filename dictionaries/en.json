@@ -5,7 +5,7 @@
     "productsTitle": "Products",
     "productsDescription": "Explore ëkcos products: switch models, finishes, and options - then visit the official store.",
     "ecoOneTitle": "Eco-One™",
-    "ecoOneDescription": "Our urinal screens and fresheners are made with recycled EVA. The material itself can be recycled, but a used urinal screen cannot, because it is biologically contaminated. It ends up in landfill or incineration, and that is why we add the Eco-One™ additive to all our products.",
+    "ecoOneDescription": "Our urinal screens and fresheners are made with recycled EVA. The material itself can be recycled, but a used urinal screen cannot, because it is biologically contaminated. It ends up in landfill or incineration, and that is why we add the Eco-One™ additive to all our",
     "brandingTitle": "Custom Branding",
     "brandingDescription": "Private branding, cutouts, and printing for B2B programs.",
     "articlesTitle": "Articles",
@@ -214,65 +214,92 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "Eco-One™ for landfill biodegradation",
-      "tagline": "Same product. Same performance. Made with recycled EVA and Eco-One™.",
-      "body": "Our urinal screens and fresheners are made with recycled EVA. The material itself can be recycled, but a used urinal screen cannot, because it is biologically contaminated. It ends up in landfill or incineration, and that is why we add the Eco-One™ additive to all our products. In an independent test under ASTM D5511 and ISO 15985 at the Instituto Politécnico Nacional in Mexico City, ëkcos EVA with Eco-One™ reached 93% biodegradation within 3.5 years, while the same material without the additive showed 0%. Up to 99% biodegradation is projected within 5 years. Our boxes are made from 100% recycled cardboard."
+      "title": "Years, not centuries.",
+      "tagline": "Same performance in use. Biodegradable in landfill with Eco-One™.",
+      "body": "Our urinal screens and fresheners are made with recycled EVA. The material itself can be recycled, but a used urinal screen cannot, because it is biologically contaminated. It ends up in landfill or incineration, and that is why we add the Eco-One™ additive to all our"
+    },
+    "afterUse": {
+      "heading": "What happens after use",
+      "title": "Biodegradable in landfill by 93% within 3.5 years",
+      "steps": {
+        "use": {
+          "title": "During use",
+          "body": "As effective as products without Eco-One™"
+        },
+        "after": {
+          "title": "After use",
+          "body": "Biologically contaminated, so it cannot be recycled"
+        },
+        "landfill": {
+          "title": "In landfill",
+          "body": "With Eco-One™ the material is biodegradable"
+        },
+        "breakdown": {
+          "title": "Biogas, CO2 and humus",
+          "body": "Within 3.5 years, 93% of the material turns into these (independent test)"
+        }
+      }
     },
     "metrics": {
       "additive": {
         "value": "~1%",
-        "label": "additive content"
+        "label": "Eco-One™ in the material"
       },
       "measured": {
-        "value": "~3.5 yrs",
-        "label": "to 93% biodegradation"
+        "value": "93%",
+        "label": "measured within 3.5 years"
       },
       "projected": {
         "value": "up to 99%",
-        "label": "within ~5 years"
+        "label": "projected within 5 years"
+      },
+      "cardboard": {
+        "value": "100%",
+        "label": "recycled cardboard boxes"
       }
     },
     "problem": {
-      "title": "Why ordinary plastic is a problem",
-      "body": "Ordinary plastic products are engineered to last. Without a biodegradation additive, a plastic product sent to landfill can remain there for <bold>300 to 1,000 years</bold>; foam “Crocs-style” clogs are a familiar example of plastic that is <bold>not biodegradable</bold>. Our products are made from the same kind of durable plastic (EVA) - but with one decisive difference: the Eco-One™ additive.",
-      "chartAlt": "Products without Eco-One™ compared with ëkcos products containing the additive",
-      "chartCaption": "Products without Eco-One™ compared with ëkcos products containing the additive.",
+      "title": "Why an ordinary screen stays for centuries",
+      "body": "EVA is a durable material. Without a biodegradation additive, a used screen can remain in landfill for an estimated 300 to 1,000 years. Foam clogs and flip-flops are made from the same material, and they do not biodegrade either.",
+      "chartAlt": "Estimated time to break down in landfill",
+      "chartCaption": "Estimated time to break down in landfill.",
       "chart": {
-        "ariaLabel": "Comparison of years to break down in landfill",
+        "ariaLabel": "Estimated time to break down in landfill",
         "withoutLabel": "Products without Eco-One™",
         "withLabel": "ëkcos with Eco-One™",
-        "withoutValue": "300–1,000 years",
-        "withValue": "3.5–5 years",
+        "withoutValue": "300-1,000 years",
+        "withValue": "3.5-5 years",
         "withoutDetail": "Without a biodegradation additive, conventional plastic can remain in landfill for centuries.",
         "withDetail": "With the Eco-One™ additive, independent testing shows ~93% biodegradation in about 3.5 years, and up to 99% within five years.",
         "axisLabel": "Years to break down (landfill)",
-        "caption": "Products without Eco-One™ compared with ëkcos products containing the additive.",
+        "caption": "Estimated time to break down in landfill.",
         "scaleLabel": "Chart scale",
-        "scaleFull": "0–1,000 yrs",
-        "scaleZoom": "0–10 yrs",
-        "clippedNote": "continues →"
+        "scaleFull": "0-1,000 yrs",
+        "scaleZoom": "0-10 yrs",
+        "clippedNote": "continues ->"
       }
     },
     "solution": {
-      "title": "Our solution: The Eco-One™ additive",
-      "body1": "During manufacturing we incorporate approximately <bold>1% of Eco-One™</bold>, an organic additive dosed in the same way as a colorant. It does not affect the product’s strength, appearance or performance.",
-      "body2": "In a biologically active landfill, naturally occurring microorganisms break down the treated plastic through enzymatic activity, converting it into biogas (<bold>methane</bold>, which modern landfill sites capture for energy recovery), carbon dioxide and humus.",
-      "body3": "Because the product ultimately breaks down into humus, it returns organic matter to the landfill and helps accelerate the biochemical processes already at work there. The product therefore contributes <bold>not only during its service life, but also after it</bold>."
+      "title": "Our solution: the Eco-One™ additive",
+      "body1": "During manufacturing, we add <bold>about 1% Eco-One™</bold> to the material. It does not affect the product’s strength, appearance or performance.",
+      "body2": "In a biologically active landfill, Eco-One™ allows the material to break down into biogas, carbon dioxide and humus. Modern landfills capture the biogas and use it for energy.",
+      "calloutTitle": "Useful during its service life, and after it",
+      "calloutBody": "Instead of lying in landfill for centuries, the material breaks down into biogas that modern landfills use for energy, and into humus. Humus, in turn, makes soil richer."
     },
     "testing": {
-      "title": "Independent testing",
-      "body": "The product was tested by an independent laboratory to the international standards <bold>ASTM D5511 and ISO 15985</bold>, comparing the same product with and without the Eco-One™ additive. With Eco-One™, it reached <bold>93.31% biodegradation within approximately 3.5 years, and up to 99% within five years</bold>; without Eco-One™, the product showed no measurable biodegradation.",
+      "title": "Independent test: 93% vs. 0%",
+      "body": "In an independent test under <bold>ASTM D5511 and ISO 15985</bold> at the Instituto Politécnico Nacional in Mexico City, ëkcos EVA with Eco-One™ reached <bold>93% biodegradation within 3.5 years, while the same material without the additi</bold>ve showed 0%. Up to 99% biodegradation is projected within 5 years.",
       "barChart": {
-        "ariaLabel": "Biodegradation at approximately 3.5 years with and without Eco-One™",
+        "ariaLabel": "Independent test: 93% vs. 0%",
         "yAxis": "Biodegradation (%)",
         "withLabel": "ëkcos with Eco-One™",
         "withoutLabel": "Products without Eco-One™",
         "withDetail": "93.31% biodegradation measured in an independent ASTM D5511 / ISO 15985 lab test after about 3.5 years.",
         "withoutDetail": "The same product without Eco-One™ showed no measurable biodegradation over the same test period.",
-        "subtitle": "Same product · same lab test (ASTM D5511 / ISO 15985) · ~3.5 years"
+        "subtitle": "Same material, same laboratory test, 3.5 years"
       },
       "timelineChart": {
-        "ariaLabel": "Biodegradation over five years with and without Eco-One™",
+        "ariaLabel": "Independent test: 93% vs. 0%",
         "yAxis": "Biodegradation (%)",
         "xAxis": "Years",
         "withLabel": "ëkcos with Eco-One™",
@@ -281,16 +308,16 @@
         "measured": "measured",
         "projected": "projected",
         "yearsUnit": "yrs",
-        "projectedNote": "Projected from the measured trend",
-        "caption": "Biodegradation with and without the Eco-One™ additive. Values beyond 3.5 years are projected from the measured trend."
+        "projectedNote": "Values after 3.5 years are projected",
+        "caption": "Values after 3.5 years are projected."
       }
     },
     "closing": {
-      "title": "ëkcos products with Eco-One™",
-      "body": "Our washroom products are manufactured with the Eco-One™ additive. In an independent laboratory test, ëkcos EVA with Eco-One™ reached 93% biodegradation within 3.5 years, and up to 99% is projected within 5 years in landfill conditions - with performance identical to products without the additive.",
+      "title": "ëkcos with Eco-One™",
+      "body": "Our urinal screens, toilet bowl clips and air fresheners contain the Eco-One™ additive: the same performance in use as products without it, and a far better end of life.",
       "shopCta": "Shop"
     },
-    "footnote": "Data source: independent biodegradation test per ASTM D5511-02 and ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) - ëkcos product with 1% Eco-One™ additive: 93.31% biodegradation over 1,288 days (≈3.5 years); the same product without the additive: 0%. Biodegradation beyond the test period (up to 99% within ~5 years) is projected from the measured trend. Persistence figures for conventional plastics (≈300–1,000 years) are widely cited industry estimates. The Eco-One™ additive is manufactured and certified by EcoLogic, LLC."
+    "footnote": "Data source: independent biodegradation test under ASTM D5511-02 and ISO 15985:2014, Instituto Politécnico Nacional, Mexico City. ëkcos EVA with about 1% Eco-One™: 93.31% biodegradation in 1,288 days (about 3.5 years); the same material without the additive: 0%. Up to 99% within 5 years is projected from the measured trend. Biodegradation depends on landfill conditions. 300 to 1,000 years for EVA without an additive is a widely cited industry estimate. Eco-One™ is a trademark of EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {

@@ -214,65 +214,92 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "Eco-One™ pour la biodégradation en décharge",
-      "tagline": "Même produit. Mêmes performances. Avec EVA recyclé et Eco-One™.",
-      "body": "Nos grilles urinoir et nos désodorisants sont fabriqués avec de l’EVA recyclé. Le matériau lui-même peut être recyclé, mais pas une grille urinoir usagée, car elle est contaminée biologiquement. Elle finit en décharge ou à l’incinération : c’est pourquoi nous ajoutons l’additif Eco-One™ à tous nos produits. Lors d’un test indépendant selon les normes ASTM D5511 et ISO 15985, mené à l’Instituto Politécnico Nacional de Mexico, l’EVA ëkcos avec Eco-One™ a atteint 93 % de biodégradation en 3,5 ans, contre 0 % pour le même matériau sans l’additif. Une biodégradation allant jusqu’à 99 % est prévue en 5 ans. Nos boîtes sont en carton 100 % recyclé."
+      "title": "Des années, pas des siècles.",
+      "tagline": "Même efficacité à l’usage. Biodégradable en décharge avec Eco-One™.",
+      "body": "Nos grilles urinoir et nos désodorisants sont fabriqués avec de l’EVA recyclé. Le matériau lui-même peut être recyclé, mais pas une grille urinoir usagée, car elle est contaminée biologiquement. Elle finit en décharge ou à l’incinération : c’est pourquoi nous ajoutons l’additif Eco-One™ à tous nos produits."
+    },
+    "afterUse": {
+      "heading": "Ce qui se passe après usage",
+      "title": "Biodégradable en décharge à 93 % en 3 ans et demi",
+      "steps": {
+        "use": {
+          "title": "À l'usage",
+          "body": "Aussi efficace que les produits sans Eco-One™"
+        },
+        "after": {
+          "title": "Après usage",
+          "body": "Contaminé biologiquement, donc non recyclable"
+        },
+        "landfill": {
+          "title": "En décharge",
+          "body": "Avec Eco-One™, le matériau est biodégradable"
+        },
+        "breakdown": {
+          "title": "Biogaz, CO2 et humus",
+          "body": "En 3 ans et demi, 93 % du matériau se transforment en ces substances (test indépendant)"
+        }
+      }
     },
     "metrics": {
       "additive": {
         "value": "~1 %",
-        "label": "teneur en additif"
+        "label": "Eco-One™ dans le matériau"
       },
       "measured": {
-        "value": "~3,5 ans",
-        "label": "pour 93 % de biodégradation"
+        "value": "93 %",
+        "label": "mesurés en 3 ans et demi"
       },
       "projected": {
-        "value": "jusqu’à 99 %",
-        "label": "en ~5 ans"
+        "value": "jusqu'à 99 %",
+        "label": "prévus en 5 ans"
+      },
+      "cardboard": {
+        "value": "100 %",
+        "label": "boîtes en carton recyclé"
       }
     },
     "problem": {
-      "title": "Pourquoi le plastique ordinaire est un problème",
-      "body": "Les produits en plastique ordinaires sont conçus pour durer. Sans additif de biodégradation, un produit plastique envoyé en décharge peut y rester <bold>de 300 à 1 000 ans</bold> ; les sabots en mousse de type « Crocs » en sont un exemple familier de plastique <bold>non biodégradable</bold>. Nos produits sont fabriqués dans le même type de plastique durable (EVA) - avec une différence décisive : l’additif Eco-One™.",
-      "chartAlt": "Produits sans Eco-One™ comparés aux produits ëkcos contenant l’additif",
-      "chartCaption": "Produits sans Eco-One™ comparés aux produits ëkcos contenant l’additif.",
+      "title": "Pourquoi une grille ordinaire reste des siècles",
+      "body": "L’EVA est un matériau résistant. Sans additif de biodégradation, une grille usagée peut rester en décharge pendant une durée estimée de <bold>300 à 1 000</bold> ans. Les sabots en mousse et les tongs sont faits du même matériau, et ne se biodégradent pas non plus.",
+      "chartAlt": "Durée estimée de dégradation en décharge",
+      "chartCaption": "Durée estimée de dégradation en décharge.",
       "chart": {
-        "ariaLabel": "Comparaison des années de dégradation en décharge",
+        "ariaLabel": "Durée estimée de dégradation en décharge",
         "withoutLabel": "Produits sans Eco-One™",
         "withLabel": "ëkcos avec Eco-One™",
-        "withoutValue": "300–1 000 ans",
-        "withValue": "3,5–5 ans",
+        "withoutValue": "300-1 000 ans",
+        "withValue": "3,5-5 ans",
         "withoutDetail": "Sans additif de biodégradation, le plastique conventionnel peut rester en décharge pendant des siècles.",
         "withDetail": "Avec l’additif Eco-One™, des tests indépendants montrent ~93 % de biodégradation en environ 3,5 ans, et jusqu’à 99 % en cinq ans.",
         "axisLabel": "Années avant dégradation (décharge)",
-        "caption": "Produits sans Eco-One™ comparés aux produits ëkcos contenant l’additif.",
+        "caption": "Durée estimée de dégradation en décharge.",
         "scaleLabel": "Échelle du graphique",
-        "scaleFull": "0–1 000 ans",
-        "scaleZoom": "0–10 ans",
-        "clippedNote": "continue →"
+        "scaleFull": "0-1 000 ans",
+        "scaleZoom": "0-10 ans",
+        "clippedNote": "continue ->"
       }
     },
     "solution": {
       "title": "Notre solution : l’additif Eco-One™",
-      "body1": "Lors de la fabrication, nous incorporons environ <bold>1 % d’Eco-One™</bold>, un additif organique dosé de la même manière qu’un colorant. Il n’affecte ni la résistance, ni l’apparence, ni les performances du produit.",
-      "body2": "Dans une décharge biologiquement active, les micro-organismes naturellement présents décomposent le plastique traité par activité enzymatique, le convertissant en biogaz (<bold>méthane</bold>, capté par les décharges modernes pour la récupération d’énergie), dioxyde de carbone et humus.",
-      "body3": "Parce que le produit se décompose finalement en humus, il restitue de la matière organique à la décharge et accélère les processus biochimiques qui y sont déjà à l’œuvre. Le produit contribue donc <bold>non seulement pendant sa durée de vie, mais aussi après</bold>."
+      "body1": "Lors de la fabrication, nous ajoutons au matériau <bold>environ 1 % d’additif Eco-One™</bold>. Il n’affecte ni la résistance, ni l’aspect, ni l’efficacité du produit.",
+      "body2": "Dans une décharge biologiquement active, Eco-One™ permet au matériau de se décomposer en biogaz, dioxyde de carbone et humus. Les décharges modernes captent le biogaz et l’utilisent pour produire de l’énergie.",
+      "calloutTitle": "Utile à l’usage, et après",
+      "calloutBody": "Au lieu de rester des siècles en décharge, le matériau se décompose en biogaz, que les décharges modernes utilisent pour produire de l’énergie, et en humus. L’humus, quant à lui, enrichit le sol."
     },
     "testing": {
-      "title": "Tests indépendants",
-      "body": "Le produit a été testé par un laboratoire indépendant selon les normes internationales <bold>ASTM D5511 et ISO 15985</bold>, en comparant le même produit avec et sans l’additif Eco-One™. Avec Eco-One™, il a atteint <bold>93,31 % de biodégradation en environ 3,5 ans, et jusqu’à 99 % en cinq ans</bold> ; sans Eco-One™, le produit n’a montré aucune biodégradation mesurable.",
+      "title": "Test indépendant : 93 % contre 0 %",
+      "body": "Lors d’un test indépendant selon les normes <bold>ASTM D5511 et ISO 15985</bold>, mené à l’Instituto Politécnico Nacional de Mexico, l’EVA ëkcos avec Eco-One™ a atteint <bold>93 % de biodégradation en 3 ans et demi, contre 0 % pour le même matériau sans l’additif</bold>. Une biodégradation allant jusqu’à 99 % est prévue en 5 ans.",
       "barChart": {
-        "ariaLabel": "Biodégradation à environ 3,5 ans avec et sans Eco-One™",
+        "ariaLabel": "Test indépendant : 93 % contre 0 %",
         "yAxis": "Biodégradation (%)",
         "withLabel": "ëkcos avec Eco-One™",
         "withoutLabel": "Produits sans Eco-One™",
         "withDetail": "93,31 % de biodégradation mesurée lors d’un essai de laboratoire indépendant ASTM D5511 / ISO 15985 après environ 3,5 ans.",
         "withoutDetail": "Le même produit sans Eco-One™ n’a montré aucune biodégradation mesurable sur la même période d’essai.",
-        "subtitle": "Même produit · même essai de laboratoire (ASTM D5511 / ISO 15985) · ~3,5 ans"
+        "subtitle": "Même matériau, même test en laboratoire, 3 ans et demi"
       },
       "timelineChart": {
-        "ariaLabel": "Biodégradation sur cinq ans avec et sans Eco-One™",
+        "ariaLabel": "Test indépendant : 93 % contre 0 %",
         "yAxis": "Biodégradation (%)",
         "xAxis": "Années",
         "withLabel": "ëkcos avec Eco-One™",
@@ -281,16 +308,16 @@
         "measured": "mesuré",
         "projected": "projeté",
         "yearsUnit": "ans",
-        "projectedNote": "Projeté à partir de la tendance mesurée",
-        "caption": "Biodégradation avec et sans l’additif Eco-One™. Les valeurs au-delà de 3,5 ans sont projetées à partir de la tendance mesurée."
+        "projectedNote": "Au-delà de 3 ans et demi, les valeurs sont prévues",
+        "caption": "Au-delà de 3 ans et demi, les valeurs sont prévues."
       }
     },
     "closing": {
-      "title": "Produits ëkcos avec Eco-One™",
-      "body": "Nos produits pour sanitaires sont fabriqués avec l’additif Eco-One™. Lors d’un essai laboratoire indépendant, l’EVA ëkcos avec Eco-One™ a atteint 93 % de biodégradation en 3,5 ans, et jusqu’à 99 % sont projetés sous 5 ans en décharge - avec les mêmes performances que sans additif.",
+      "title": "ëkcos avec Eco-One™",
+      "body": "Nos grilles urinoir, clips WC et désodorisants d’intérieur contiennent l’additif Eco-One™ : à l’usage, la même efficacité que les produits sans cet additif, et une fin de vie bien meilleure.",
       "shopCta": "Shop"
     },
-    "footnote": "Source des données : test de biodégradation indépendant selon ASTM D5511-02 et ISO 15985:2014 (Instituto Politécnico Nacional, Mexico) - produit ëkcos avec 1 % d’additif Eco-One™ : 93,31 % de biodégradation sur 1 288 jours (≈3,5 ans) ; le même produit sans additif : 0 %. La biodégradation au-delà de la période de test (jusqu’à 99 % en ~5 ans) est projetée à partir de la tendance mesurée. Les chiffres de persistance des plastiques conventionnels (≈300–1 000 ans) sont des estimations industrielles largement citées. L’additif Eco-One™ est fabriqué et certifié par EcoLogic, LLC."
+    "footnote": "Source des données : test indépendant de biodégradation selon les normes ASTM D5511-02 et ISO 15985:2014, Instituto Politécnico Nacional, Mexico. EVA ëkcos avec environ 1 % d’additif Eco-One™ : 93,31 % de biodégradation en 1 288 jours (environ 3 ans et demi) ; même matériau sans l’additif : 0 %. Jusqu’à 99 % en 5 ans sont prévus par extrapolation de la tendance mesurée. La biodégradation dépend des conditions de la décharge. La durée de 300 à 1 000 ans pour l’EVA sans additif est une estimation largement citée dans le secteur. Eco-One™ est une marque de la société EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {

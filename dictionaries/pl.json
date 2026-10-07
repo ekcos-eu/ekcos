@@ -214,65 +214,92 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "Eco-One™ do biodegradacji składowisk",
-      "tagline": "Ten sam produkt. Ta sama wydajność. Wykonane z przetworzonej pianki EVA i Eco-One™.",
-      "body": "Nasze sitka do pisuarów i odświeżacze powstają z wykorzystaniem EVA z recyklingu. Sam materiał nadaje się do recyklingu, ale zużyte sitko do pisuaru już nie, ponieważ jest skażone biologicznie. Trafia na składowisko odpadów lub do spalarni, dlatego we wszystkich naszych produktach stosujemy dodatek Eco-One™. W niezależnym teście według norm ASTM D5511 i ISO 15985, przeprowadzonym w Instituto Politécnico Nacional w mieście Meksyk, materiał EVA ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, podczas gdy ten sam materiał bez dodatku wykazał 0%. W ciągu 5 lat prognozuje się biodegradację do 99%. Nasze pudełka są wykonane w 100% z tektury z recyklingu."
+      "title": "Lata, nie wieki.",
+      "tagline": "Ta sama skuteczność w użyciu. Biodegradowalne na składowisku dzięki Eco-One™.",
+      "body": "Nasze sitka do pisuarów i odświeżacze powstają z wykorzystaniem EVA z recyklingu. Sam materiał nadaje się do recyklingu, ale zużyte sitko do pisuaru już nie, ponieważ jest skażone biologicznie. Trafia na składowisko odpadów lub do spalarni, dlatego we wszystkich naszych produktach stosujemy dodatek Eco-One™."
+    },
+    "afterUse": {
+      "heading": "Co dzieje się po użyciu",
+      "title": "Biodegradowalne na składowisku w 93% w ciągu 3,5 roku",
+      "steps": {
+        "use": {
+          "title": "W użyciu",
+          "body": "Tak samo skuteczne jak produkty bez Eco-One™"
+        },
+        "after": {
+          "title": "Po użyciu",
+          "body": "Skażone biologicznie, dlatego nie nadają się do recyklingu"
+        },
+        "landfill": {
+          "title": "Na składowisku",
+          "body": "Dzięki Eco-One™ materiał ulega biodegradacji"
+        },
+        "breakdown": {
+          "title": "Biogaz, CO2 i humus",
+          "body": "W ciągu 3,5 roku 93% materiału przekształca się w te substancje (niezależny test)"
+        }
+      }
     },
     "metrics": {
       "additive": {
         "value": "~1%",
-        "label": "zawartość dodatkowa"
+        "label": "Eco-One™ w materiale"
       },
       "measured": {
-        "value": "~3,5 roku",
-        "label": "do 93% biodegradacji"
+        "value": "93%",
+        "label": "zmierzone w ciągu 3,5 roku"
       },
       "projected": {
         "value": "do 99%",
-        "label": "w ciągu ~5 lat"
+        "label": "prognozowane w ciągu 5 lat"
+      },
+      "cardboard": {
+        "value": "100%",
+        "label": "pudełka z tektury z recyklingu"
       }
     },
     "problem": {
-      "title": "Dlaczego zwykły plastik stanowi problem",
-      "body": "Zwykłe produkty z tworzyw sztucznych zostały zaprojektowane z myślą o trwałości. Bez dodatku biodegradującego produkt z tworzywa sztucznego wysłany na wysypisko może tam pozostać przez <bold>300 do 1000 lat</bold>; Piankowe chodaki w stylu Crocs są znanym przykładem plastiku, który <bold>nie ulega biodegradacji</bold>. Nasze produkty wykonane są z tego samego rodzaju wytrzymałego tworzywa sztucznego (EVA) - z jedną zdecydowaną różnicą: dodatkiem Eco-One™.",
-      "chartAlt": "Produkty niezawierające Eco-One™ w porównaniu z produktami ëkcos zawierającymi dodatek",
-      "chartCaption": "Produkty niezawierające Eco-One™ w porównaniu z produktami ëkcos zawierającymi dodatek.",
+      "title": "Dlaczego zwykłe sitko przetrwa wieki",
+      "body": "EVA to trwały materiał. Bez dodatku umożliwiającego biodegradację zużyte sitko może przetrwać na składowisku szacunkowo od <bold>300 do 1 000</bold> lat. Z tego samego materiału powstają piankowe chodaki i japonki, które również nie ulegają biodegradacji.",
+      "chartAlt": "Szacowany czas rozkładu na składowisku",
+      "chartCaption": "Szacowany czas rozkładu na składowisku.",
       "chart": {
-        "ariaLabel": "Porównanie lat rozkładu na składowiskach",
+        "ariaLabel": "Szacowany czas rozkładu na składowisku",
         "withoutLabel": "Produkty bez Eco-One™",
         "withLabel": "ëkcos z Eco-One™",
-        "withoutValue": "300–1000 lat",
-        "withValue": "3,5–5 lat",
+        "withoutValue": "300-1000 lat",
+        "withValue": "3,5-5 lat",
         "withoutDetail": "Bez dodatku biodegradującego konwencjonalny plastik może leżeć na wysypiskach przez wieki.",
         "withDetail": "W przypadku dodatku Eco-One™ niezależne badania wykazują ~93% biodegradacji w ciągu około 3,5 roku i do 99% w ciągu pięciu lat.",
         "axisLabel": "Lata do rozbicia (wysypisko śmieci)",
-        "caption": "Produkty niezawierające Eco-One™ w porównaniu z produktami ëkcos zawierającymi dodatek.",
+        "caption": "Szacowany czas rozkładu na składowisku.",
         "scaleLabel": "Skala wykresu",
-        "scaleFull": "0–1000 lat",
-        "scaleZoom": "0–10 lat",
-        "clippedNote": "kontynuuje →"
+        "scaleFull": "0-1000 lat",
+        "scaleZoom": "0-10 lat",
+        "clippedNote": "kontynuuje ->"
       }
     },
     "solution": {
-      "title": "Nasze rozwiązanie: Dodatek Eco-One™",
-      "body1": "Podczas produkcji dodajemy około <bold>1% Eco-One™</bold>, organicznego dodatku dozowanego w taki sam sposób jak barwnik. Nie ma to wpływu na wytrzymałość, wygląd ani działanie produktu.",
-      "body2": "Na biologicznie aktywnym składowisku naturalnie występujące mikroorganizmy rozkładają poddane obróbce tworzywo sztuczne poprzez aktywność enzymatyczną, przekształcając je w biogaz (<bold>metan</bold>, który nowoczesne składowiska wychwytują w celu odzysku energii), dwutlenek węgla i próchnicę.",
-      "body3": "Ponieważ produkt ostatecznie rozkłada się na humus, zawraca materię organiczną na wysypisko i pomaga przyspieszyć zachodzące tam procesy biochemiczne. Produkt przyczynia się zatem <bold>nie tylko przez cały okres użytkowania, ale także po nim</bold>."
+      "title": "Nasze rozwiązanie: dodatek Eco-One™",
+      "body1": "Podczas produkcji dodajemy do materiału dodatek Eco-One™ w ilości około 1%. Nie wpływa to na wytrzymałość, wygląd ani skuteczność produktu.",
+      "body2": "Na biologicznie aktywnym składowisku dodatek Eco-One™ umożliwia rozkład materiału na biogaz, dwutlenek węgla i humus. Nowoczesne składowiska wychwytują biogaz i wykorzystują go energetycznie.",
+      "calloutTitle": "Użyteczne w trakcie użytkowania i po nim",
+      "calloutBody": "Zamiast zalegać na składowisku przez wieki, materiał rozkłada się na biogaz, który nowoczesne składowiska wykorzystują energetycznie, oraz na humus. Humus z kolei wzbogaca glebę."
     },
     "testing": {
-      "title": "Niezależne testy",
-      "body": "Produkt został przetestowany przez niezależne laboratorium zgodnie z międzynarodowymi normami <bold>ASTM D5511 i ISO 15985</bold>, porównując ten sam produkt z dodatkiem Eco-One™ i bez niego. W przypadku Eco-One™ osiągnął <bold>93,31% biodegradacji w ciągu około 3,5 roku i do 99% w ciągu pięciu lat</bold>; bez Eco-One™ produkt nie wykazywał mierzalnej biodegradacji.",
+      "title": "Niezależny test: 93% kontra 0%",
+      "body": "W niezależnym teście według norm <bold>ASTM D5511 i ISO 15985</bold>, przeprowadzonym w Instituto Politécnico Nacional w mieście Meksyk, materiał EVA ëkcos z dodatkiem Eco-One™ uległ biodegradacji w <bold>93% w ciągu 3,5 roku, podczas gdy ten sam materiał bez dodatku wy</bold>kazał 0%. W ciągu 5 lat prognozuje się biodegradację do 99%.",
       "barChart": {
-        "ariaLabel": "Biodegradacja po około 3,5 roku z i bez Eco-One™",
+        "ariaLabel": "Niezależny test: 93% kontra 0%",
         "yAxis": "Biodegradacja (%)",
         "withLabel": "ëkcos z Eco-One™",
         "withoutLabel": "Produkty bez Eco-One™",
         "withDetail": "Biodegradacja 93,31% zmierzona w niezależnym teście laboratoryjnym ASTM D5511 / ISO 15985 po około 3,5 roku.",
         "withoutDetail": "Ten sam produkt bez Eco-One™ nie wykazał mierzalnej biodegradacji w tym samym okresie testowym.",
-        "subtitle": "Ten sam produkt · ten sam test laboratoryjny (ASTM D5511 / ISO 15985) · ~3,5 roku"
+        "subtitle": "Ten sam materiał, ten sam test laboratoryjny, 3,5 roku"
       },
       "timelineChart": {
-        "ariaLabel": "Biodegradacja w ciągu pięciu lat z i bez Eco-One™",
+        "ariaLabel": "Niezależny test: 93% kontra 0%",
         "yAxis": "Biodegradacja (%)",
         "xAxis": "Lata",
         "withLabel": "ëkcos z Eco-One™",
@@ -281,16 +308,16 @@
         "measured": "wymierzony",
         "projected": "przewidywane",
         "yearsUnit": "lata",
-        "projectedNote": "Prognozowane na podstawie zmierzonego trendu",
-        "caption": "Biodegradacja z dodatkiem Eco-One™ i bez niego. Z zmierzonego trendu prognozowane są wartości przekraczające 3,5 roku."
+        "projectedNote": "Wartości po 3,5 roku są prognozowane",
+        "caption": "Wartości po 3,5 roku są prognozowane."
       }
     },
     "closing": {
-      "title": "Produkty ëkcos z Eco-One™",
-      "body": "Nasze produkty do łazienek są produkowane z dodatkiem Eco-One™. W niezależnym teście laboratoryjnym ëkcos EVA z Eco-One™ osiągnął 93% biodegradacji w ciągu 3,5 roku, a do 99% szacuje się w ciągu 5 lat w warunkach składowania – z wydajnością identyczną jak produkty bez dodatku.",
+      "title": "ëkcos z Eco-One™",
+      "body": "Nasze sitka do pisuarów, zawieszki zapachowe do WC i odświeżacze powietrza zawierają dodatek Eco-One™: ta sama skuteczność w użyciu co produkty bez niego i znacznie lepszy koniec cyklu życia. Więcej",
       "shopCta": "Sklep"
     },
-    "footnote": "Źródło danych: niezależny test biodegradacji zgodnie z ASTM D5511-02 i ISO 15985:2014 (Instituto Politécnico Nacional, Meksyk) - produkt ëkcos z 1% dodatkiem Eco-One™: 93,31% biodegradacji w ciągu 1288 dni (≈3,5 roku); ten sam produkt bez dodatku: 0%. Z zmierzonego trendu wynika biodegradacja wykraczająca poza okres badania (do 99% w ciągu ~5 lat). Dane dotyczące trwałości konwencjonalnych tworzyw sztucznych (≈300–1000 lat) są szeroko cytowanymi szacunkami branżowymi. Dodatek Eco-One™ jest produkowany i certyfikowany przez EcoLogic, LLC."
+    "footnote": "Źródło danych: niezależny test biodegradacji według norm ASTM D5511-02 i ISO 15985:2014, Instituto Politécnico Nacional, miasto Meksyk. Materiał EVA ëkcos z dodatkiem Eco-One™ w ilości około 1%: biodegradacja 93,31% w ciągu 1 288 dni (około 3,5 roku); ten sam materiał bez dodatku: 0%. Biodegradacja do 99% w ciągu 5 lat jest prognozowana na podstawie zmierzonego trendu. Biodegradacja zależy od warunków na składowisku. Od 300 do 1 000 lat w przypadku EVA bez dodatku to powszechnie przytaczany szacunek branżowy. Eco-One™ jest znakiem towarowym firmy EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {

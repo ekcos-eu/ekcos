@@ -214,83 +214,110 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "Eco-One™ pre biodegradáciu na skládkach",
-      "tagline": "Rovnaký produkt. Rovnaký výkon. Vyrobené z recyklovaného EVA a Eco-One™.",
-      "body": "Naše sitká do pisoárov a osviežovače vyrábame s podielom recyklovaného EVA. Samotný materiál sa dá recyklovať, použité sitko do pisoára však nie, pretože je biologicky kontaminované. Končí na skládke alebo v spaľovni, a preto do všetkých našich výrobkov pridávame prísadu Eco-One™. V nezávislom teste podľa noriem ASTM D5511 a ISO 15985 na Instituto Politécnico Nacional v Mexico City sa materiál EVA ëkcos s prísadou Eco-One™ za 3,5 roka biologicky rozložil z 93 %, zatiaľ čo rovnaký materiál bez prísady vykázal 0 %. Do 5 rokov sa predpokladá biologický rozklad až 99 %. Naše krabice sú zo 100 % recyklovanej lepenky."
+      "title": "Roky, nie storočia.",
+      "tagline": "Pri používaní rovnako účinné. Vďaka Eco-One™ biologicky rozložiteľné na skládke.",
+      "body": "Naše sitká do pisoárov a osviežovače vyrábame s podielom recyklovaného EVA. Samotný materiál sa dá recyklovať, použité sitko do pisoára však nie, pretože je biologicky kontaminované. Končí na skládke alebo v spaľovni, a preto do všetkých našich výrobkov pridávame prísadu Eco-One™."
+    },
+    "afterUse": {
+      "heading": "Čo sa deje po použití",
+      "title": "Biologicky rozložiteľné na skládke: 93 % za 3,5 roka",
+      "steps": {
+        "use": {
+          "title": "Pri používaní",
+          "body": "Rovnako účinné ako výrobky bez Eco-One™"
+        },
+        "after": {
+          "title": "Po použití",
+          "body": "Biologicky kontaminované, preto ich nemožno recyklovať"
+        },
+        "landfill": {
+          "title": "Na skládke",
+          "body": "Vďaka Eco-One™ je materiál biologicky rozložiteľný"
+        },
+        "breakdown": {
+          "title": "Bioplyn, CO2 a humus",
+          "body": "Za 3,5 roka sa na ne premení 93 % materiálu (nezávislý test)"
+        }
+      }
     },
     "metrics": {
       "additive": {
-        "value": "~1%",
-        "label": "aditívny obsah"
+        "value": "~1 %",
+        "label": "Eco-One™ v materiáli"
       },
       "measured": {
-        "value": "~ 3,5 roka",
-        "label": "na 93% biodegradáciu"
+        "value": "93 %",
+        "label": "namerané za 3,5 roka"
       },
       "projected": {
-        "value": "až 99%",
-        "label": "do ~5 rokov"
+        "value": "až 99 %",
+        "label": "predpokladané do 5 rokov"
+      },
+      "cardboard": {
+        "value": "100 %",
+        "label": "krabice z recyklovanej lepenky"
       }
     },
     "problem": {
-      "title": "Prečo je obyčajný plast problém",
-      "body": "Bežné plastové výrobky sú navrhnuté tak, aby vydržali. Bez biodegradačnej prísady tam môže plastový výrobok poslaný na skládku zostať <bold>300 až 1000 rokov</bold>; Penové dreváky v štýle Crocs sú známym príkladom plastu, ktorý <bold>nie je biologicky odbúrateľný</bold>. Naše produkty sú vyrobené z rovnakého druhu odolného plastu (EVA) – ale s jedným rozhodujúcim rozdielom: aditívum Eco-One™.",
-      "chartAlt": "Produkty bez Eco-One™ v porovnaní s produktmi ëkcos obsahujúcimi aditívum",
-      "chartCaption": "Produkty bez Eco-One™ v porovnaní s produktmi ëkcos obsahujúcimi aditívum.",
+      "title": "Prečo bežné sitko pretrvá stáročia",
+      "body": "EVA je odolný materiál. Bez prísady na biologický rozklad môže použité sitko zostať na skládke odhadom <bold>300 až 1 000</bold> rokov. Z rovnakého materiálu sa vyrábajú aj penové dreváky a žabky a ani tie sa biologicky nerozkladajú.",
+      "chartAlt": "Odhadovaná doba rozkladu na skládke",
+      "chartCaption": "Odhadovaná doba rozkladu na skládke.",
       "chart": {
-        "ariaLabel": "Porovnanie rokov rozpadu na skládke",
+        "ariaLabel": "Odhadovaná doba rozkladu na skládke",
         "withoutLabel": "Produkty bez Eco-One™",
-        "withLabel": "ëkcos s Eco-One™",
-        "withoutValue": "300 – 1000 rokov",
+        "withLabel": "ëkcos s prísadou Eco-One™",
+        "withoutValue": "300 - 1000 rokov",
         "withValue": "3,5-5 rokov",
         "withoutDetail": "Bez biodegradačnej prísady môže konvenčný plast zostať na skládke po stáročia.",
         "withDetail": "S aditívom Eco-One™ nezávislé testovanie ukazuje ~93% biodegradáciu za približne 3,5 roka a až 99% za päť rokov.",
         "axisLabel": "Roky do rozpadu (skládka)",
-        "caption": "Produkty bez Eco-One™ v porovnaní s produktmi ëkcos obsahujúcimi aditívum.",
+        "caption": "Odhadovaná doba rozkladu na skládke.",
         "scaleLabel": "Mierka grafu",
-        "scaleFull": "0 – 1 000 r",
+        "scaleFull": "0 - 1 000 r",
         "scaleZoom": "0-10 r",
-        "clippedNote": "pokračuje →"
+        "clippedNote": "pokračuje ->"
       }
     },
     "solution": {
-      "title": "Naše riešenie: Prísada Eco-One™",
-      "body1": "Počas výroby pridávame približne <bold>1% Eco-One™</bold>, organickej prísady dávkovanej rovnakým spôsobom ako farbivo. Nemá vplyv na silu, vzhľad alebo výkon produktu.",
-      "body2": "Na biologicky aktívnej skládke prirodzene sa vyskytujúce mikroorganizmy rozkladajú upravený plast prostredníctvom enzymatickej aktivity a premieňajú ho na bioplyn (<bold>metán</bold>, ktorý moderné skládky zachytávajú na energetické využitie), oxid uhličitý a humus.",
-      "body3": "Pretože sa produkt v konečnom dôsledku rozkladá na humus, vracia organickú hmotu na skládku a pomáha urýchliť biochemické procesy, ktoré tam už fungujú. Produkt teda prispieva <bold> nielen počas svojej životnosti, ale aj po nej</bold>."
+      "title": "Naše riešenie: prísada Eco-One™",
+      "body1": "Pri výrobe pridávame do materiálu <bold>približne 1 % prísady Eco-One™</bold>. Nemá vplyv na pevnosť, vzhľad ani účinnosť výrobku.",
+      "body2": "Na biologicky aktívnej skládke umožňuje prísada Eco-One™, aby sa materiál rozložil na bioplyn, oxid uhličitý a humus. Moderné skládky bioplyn zachytávajú a energeticky ho využívajú.",
+      "calloutTitle": "Užitočné počas životnosti aj po nej",
+      "calloutBody": "Namiesto toho, aby materiál ležal na skládke po stáročia, rozloží sa na bioplyn, ktorý moderné skládky energeticky využívajú, a na humus. Humus zasa obohacuje pôdu."
     },
     "testing": {
-      "title": "Nezávislé testovanie",
-      "body": "Produkt bol testovaný nezávislým laboratóriom podľa medzinárodných noriem <bold>ASTM D5511 a ISO 15985</bold>, pričom sa porovnával rovnaký produkt s a bez aditíva Eco-One™. S Eco-One™ dosiahol biodegradáciu <bold>93,31 % za približne 3,5 roka a až 99 % za päť rokov</bold>; bez Eco-One™ produkt nevykazoval žiadnu merateľný biologický rozklad.",
+      "title": "Nezávislý test: 93 % oproti 0 %",
+      "body": "V nezávislom teste podľa noriem <bold>ASTM D5511 a ISO 15985</bold> na Instituto Politécnico Nacional v Mexico City sa materiál EVA ëkcos s prísadou Eco-One™ za 3,5 roka biologicky rozložil z 93 %, zatiaľ čo rovnaký materiál bez prísady vykázal 0 %. Do 5 rokov sa predpokladá biologický rozklad až 99 %.",
       "barChart": {
-        "ariaLabel": "Biodegradácia po približne 3,5 roku s a bez Eco-One™",
+        "ariaLabel": "Nezávislý test: 93 % oproti 0 %",
         "yAxis": "Biodegradácia (%)",
-        "withLabel": "ëkcos s Eco-One™",
+        "withLabel": "ëkcos s prísadou Eco-One™",
         "withoutLabel": "Produkty bez Eco-One™",
         "withDetail": "93,31 % biodegradácia meraná v nezávislom laboratórnom teste ASTM D5511 / ISO 15985 po približne 3,5 rokoch.",
         "withoutDetail": "Rovnaký produkt bez Eco-One™ nevykazoval počas rovnakého testovacieho obdobia žiadnu merateľný biologický rozklad.",
-        "subtitle": "Rovnaký produkt · rovnaký laboratórny test (ASTM D5511 / ISO 15985) · ~3,5 roka"
+        "subtitle": "Rovnaký materiál, rovnaký laboratórny test, 3,5 roka"
       },
       "timelineChart": {
-        "ariaLabel": "Biodegradácia počas piatich rokov s Eco-One™ a bez neho",
+        "ariaLabel": "Nezávislý test: 93 % oproti 0 %",
         "yAxis": "Biodegradácia (%)",
         "xAxis": "rokov",
-        "withLabel": "ëkcos s Eco-One™",
+        "withLabel": "ëkcos s prísadou Eco-One™",
         "withoutLabel": "Produkty bez Eco-One™",
         "zeroNote": "0% po celý čas",
         "measured": "merané",
         "projected": "projektované",
         "yearsUnit": "r",
-        "projectedNote": "Premietnuté z nameraného trendu",
-        "caption": "Biodegradácia s a bez prísady Eco-One™. Hodnoty nad 3,5 roka sú projektované z nameraného trendu."
+        "projectedNote": "Hodnoty po 3,5 roku sú predpokladané",
+        "caption": "Hodnoty po 3,5 roku sú predpokladané."
       }
     },
     "closing": {
-      "title": "ëkcos produkty s Eco-One™",
-      "body": "Naše toaletné výrobky sú vyrábané s prísadou Eco-One™. V nezávislom laboratórnom teste dosiahol ëkcos EVA s Eco-One™ 93 % biodegradáciu v priebehu 3,5 roka a až 99 % sa predpokladá do 5 rokov v podmienkach skládky – s výkonom identickým s produktmi bez aditíva.",
+      "title": "ëkcos s prísadou Eco-One™",
+      "body": "Naše sitká do pisoárov, vonné závesky na WC a osviežovače vzduchu obsahujú prísadu Eco-One™: pri používaní rovnaká účinnosť ako pri výrobkoch bez nej a oveľa lepší koniec životnosti.",
       "shopCta": "Obchod"
     },
-    "footnote": "Zdroj údajov: nezávislý test biologickej odbúrateľnosti podľa ASTM D5511-02 a ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) - ëkcos produkt s 1 % Eco-One™ prísady: 93,31 % biologická odbúrateľnosť počas 1 288,5 rokov (≈)); rovnaký výrobok bez prísady: 0 %. Z nameraného trendu sa premieta biodegradácia po testovacom období (až 99 % v priebehu ~5 rokov). Údaje o perzistencii konvenčných plastov (≈300–1 000 rokov) sú široko citované odhady priemyslu. Prísada Eco-One™ vyrába a certifikuje spoločnosť EcoLogic, LLC."
+    "footnote": "Zdroj údajov: nezávislý test biologického rozkladu podľa noriem ASTM D5511-02 a ISO 15985:2014, Instituto Politécnico Nacional, Mexico City. Materiál EVA ëkcos s približne 1 % prísady Eco-One™: biologický rozklad 93,31 % za 1 288 dní (približne 3,5 roka); rovnaký materiál bez prísady: 0 %. Až 99 % do 5 rokov sa predpokladá na základe nameraného trendu. Biologický rozklad závisí od podmienok na skládke. Údaj 300 až 1 000 rokov pre EVA bez prísady je v odvetví často uvádzaný odhad. Eco-One™ je ochranná známka spoločnosti EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {

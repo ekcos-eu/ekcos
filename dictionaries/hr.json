@@ -214,83 +214,110 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "Eco-One™ za biorazgradnju na odlagalištima",
-      "tagline": "Isti proizvod. Ista izvedba. Napravljen od reciklirane EVA i Eco-One™.",
-      "body": "Naše mrežice za pisoare i osvježivači izrađeni su s recikliranim EVA materijalom. Sam materijal može se reciklirati, ali korištena mrežica za pisoar ne može jer je biološki kontaminirana. Završava na odlagalištu otpada ili u spalionici i zato svim našim proizvodima dodajemo aditiv Eco-One™. U neovisnom ispitivanju prema normama ASTM D5511 i ISO 15985, koje je proveo Instituto Politécnico Nacional u gradu Meksiku, materijal ëkcos EVA s aditivom Eco-One™ postigao je 93 % biorazgradnje u roku od 3,5 godine, dok je isti materijal bez aditiva pokazao 0 %. U roku od 5 godina predviđa se do 99 % biorazgradnje. Naše kutije izrađene su od 100 % recikliranog kartona."
+      "title": "Godine, a ne stoljeća.",
+      "tagline": "Isti učinak u uporabi. Uz aditiv Eco-One™ biorazgradivi na odlagalištu otpada.",
+      "body": "Naše mrežice za pisoare i osvježivači izrađeni su s recikliranim EVA materijalom. Sam materijal može se reciklirati, ali korištena mrežica za pisoar ne može jer je biološki kontaminirana. Završava na odlagalištu otpada ili u spalionici i zato svim našim proizvodima dodajemo aditiv Eco-One™."
+    },
+    "afterUse": {
+      "heading": "Što se događa nakon uporabe",
+      "title": "Biorazgradivi na odlagalištu otpada: 93 % u roku od 3,5 godine",
+      "steps": {
+        "use": {
+          "title": "Tijekom uporabe",
+          "body": "Jednako učinkoviti kao proizvodi bez Eco-One™"
+        },
+        "after": {
+          "title": "Nakon uporabe",
+          "body": "Biološki kontaminirani, stoga se ne mogu reciklirati"
+        },
+        "landfill": {
+          "title": "Na odlagalištu",
+          "body": "Zahvaljujući Eco-One™ materijal je biorazgradiv"
+        },
+        "breakdown": {
+          "title": "Bioplin, CO2 i humus",
+          "body": "U roku od 3,5 godine 93 % materijala pretvori se u njih (neovisno ispitivanje)"
+        }
+      }
     },
     "metrics": {
       "additive": {
-        "value": "~1%",
-        "label": "sadržaj aditiva"
+        "value": "~1 %",
+        "label": "aditiva Eco-One™ u materijalu"
       },
       "measured": {
-        "value": "~3,5 god",
-        "label": "do 93% biorazgradljivosti"
+        "value": "93 %",
+        "label": "izmjereno u roku od 3,5 godine"
       },
       "projected": {
-        "value": "do 99%",
-        "label": "unutar ~5 godina"
+        "value": "do 99 %",
+        "label": "predviđeno u roku od 5 godina"
+      },
+      "cardboard": {
+        "value": "100 %",
+        "label": "kutije od recikliranog kartona"
       }
     },
     "problem": {
-      "title": "Zašto je obična plastika problem",
-      "body": "Obični plastični proizvodi projektirani su da traju. Bez aditiva za biorazgradnju, plastični proizvod poslan na odlagalište može tamo ostati <bold>300 do 1000 godina</bold>; pjenaste klompe u \"Crocs stilu\" poznati su primjer plastike koja <bold>nije biorazgradiva</bold>. Naši proizvodi izrađeni su od iste vrste izdržljive plastike (EVA) - ali s jednom odlučujućom razlikom: aditiv Eco-One™.",
-      "chartAlt": "Proizvodi bez Eco-One™ u usporedbi s ëkcos proizvodima koji sadrže aditiv",
-      "chartCaption": "Proizvodi bez Eco-One™ u usporedbi s ëkcos proizvodima koji sadrže aditiv.",
+      "title": "Zašto obična mrežica ostaje stoljećima",
+      "body": "EVA je izdržljiv materijal. Bez aditiva za biorazgradnju korištena mrežica može na odlagalištu otpada ostati prema procjenama <bold>300 do 1.000</bold> godina. Od istog materijala izrađuju se pjenaste klompe i japanke, a ni one se biološki ne razgrađuju.",
+      "chartAlt": "Procijenjeno vrijeme razgradnje na odlagalištu otpada",
+      "chartCaption": "Procijenjeno vrijeme razgradnje na odlagalištu otpada.",
       "chart": {
-        "ariaLabel": "Usporedba godina razgradnje na odlagalištu",
+        "ariaLabel": "Procijenjeno vrijeme razgradnje na odlagalištu otpada",
         "withoutLabel": "Proizvodi bez Eco-One™",
-        "withLabel": "ëkcos s Eco-One™",
-        "withoutValue": "300–1000 godina",
-        "withValue": "3,5–5 godina",
+        "withLabel": "ëkcos s aditivom Eco-One™",
+        "withoutValue": "300-1000 godina",
+        "withValue": "3,5-5 godina",
         "withoutDetail": "Bez aditiva za biorazgradnju, konvencionalna plastika može stoljećima ostati na odlagalištu.",
         "withDetail": "S aditivom Eco-One™, neovisno testiranje pokazuje ~93% biorazgradnje za oko 3,5 godine, i do 99% unutar pet godina.",
         "axisLabel": "Godine za kvar (odlagalište)",
-        "caption": "Proizvodi bez Eco-One™ u usporedbi s ëkcos proizvodima koji sadrže aditiv.",
+        "caption": "Procijenjeno vrijeme razgradnje na odlagalištu otpada.",
         "scaleLabel": "Mjerilo grafikona",
-        "scaleFull": "0–1000 god",
-        "scaleZoom": "0–10 god",
-        "clippedNote": "nastavlja →"
+        "scaleFull": "0-1000 god",
+        "scaleZoom": "0-10 god",
+        "clippedNote": "nastavlja ->"
       }
     },
     "solution": {
       "title": "Naše rješenje: aditiv Eco-One™",
-      "body1": "Tijekom proizvodnje uključujemo približno <bold>1% Eco-One™</bold>, organskog aditiva doziranog na isti način kao i bojilo. Ne utječe na snagu, izgled ili performanse proizvoda.",
-      "body2": "Na biološki aktivnom odlagalištu, prirodni mikroorganizmi razgrađuju tretiranu plastiku putem enzimatske aktivnosti, pretvarajući je u bioplin (<bold>metan</bold>, koji moderna odlagališta hvataju za oporabu energije), ugljični dioksid i humus.",
-      "body3": "Budući da se proizvod na kraju razgrađuje u humus, vraća organsku tvar na odlagalište i pomaže ubrzati biokemijske procese koji tamo već djeluju. Proizvod stoga doprinosi <bold>ne samo tijekom radnog vijeka, već i nakon njega</bold>."
+      "body1": "Tijekom proizvodnje materijalu dodajemo <bold>oko 1 % aditiva Eco-One™</bold>. To ne utječe na čvrstoću, izgled ni učinkovitost proizvoda.",
+      "body2": "Na biološki aktivnom odlagalištu otpada aditiv Eco-One™ omogućuje razgradnju materijala na bioplin, ugljikov dioksid i humus. Moderna odlagališta prikupljaju bioplin i energetski ga iskorištavaju.",
+      "calloutTitle": "Korisno tijekom uporabe, ali i nakon nje",
+      "calloutBody": "Umjesto da stoljećima leži na odlagalištu otpada, materijal se razgrađuje na bioplin, koji moderna odlagališta energetski iskorištavaju, i na humus. Humus pak obogaćuje tlo."
     },
     "testing": {
-      "title": "Neovisno testiranje",
-      "body": "Proizvod je ispitao neovisni laboratorij prema međunarodnim standardima <bold>ASTM D5511 i ISO 15985</bold>, uspoređujući isti proizvod sa i bez aditiva Eco-One™. S Eco-One™, dosegla je <bold>93,31% biorazgradnje unutar otprilike 3,5 godine, i do 99% unutar pet godina</bold>; bez Eco-One™, proizvod nije pokazao mjerljivu biorazgradnju.",
+      "title": "Neovisno ispitivanje: 93 % naspram 0 %",
+      "body": "U neovisnom ispitivanju prema normama <bold>ASTM D5511 i ISO 15985</bold>, koje je proveo Instituto Politécnico Nacional u gradu Meksiku, materijal ëkcos EVA s aditivom Eco-One™ postigao je <bold>93 % biorazgradnje u roku od 3,5 godine, dok je isti materijal bez aditiva pokazao</bold> 0 %. U roku od 5 godina predviđa se do 99 % biorazgradnje.",
       "barChart": {
-        "ariaLabel": "Biorazgradnja za približno 3,5 godine sa i bez Eco-One™",
+        "ariaLabel": "Neovisno ispitivanje: 93 % naspram 0 %",
         "yAxis": "Biorazgradnja (%)",
-        "withLabel": "ëkcos s Eco-One™",
+        "withLabel": "ëkcos s aditivom Eco-One™",
         "withoutLabel": "Proizvodi bez Eco-One™",
         "withDetail": "Biorazgradnja od 93,31% izmjerena u neovisnom laboratorijskom testu ASTM D5511 / ISO 15985 nakon otprilike 3,5 godine.",
         "withoutDetail": "Isti proizvod bez Eco-One™ nije pokazao mjerljivu biorazgradnju tijekom istog razdoblja ispitivanja.",
-        "subtitle": "Isti proizvod · isti laboratorijski test (ASTM D5511 / ISO 15985) · ~3,5 godina"
+        "subtitle": "Isti materijal, isto laboratorijsko ispitivanje, 3,5 godine"
       },
       "timelineChart": {
-        "ariaLabel": "Biorazgradnja tijekom pet godina sa i bez Eco-One™",
+        "ariaLabel": "Neovisno ispitivanje: 93 % naspram 0 %",
         "yAxis": "Biorazgradnja (%)",
         "xAxis": "Godine",
-        "withLabel": "ëkcos s Eco-One™",
+        "withLabel": "ëkcos s aditivom Eco-One™",
         "withoutLabel": "Proizvodi bez Eco-One™",
         "zeroNote": "0% cijelo vrijeme",
         "measured": "izmjereno",
         "projected": "projektiran",
         "yearsUnit": "god",
-        "projectedNote": "Projicirano iz izmjerenog trenda",
-        "caption": "Biorazgradnja sa i bez aditiva Eco-One™. Vrijednosti iznad 3,5 godine projicirane su iz izmjerenog trenda."
+        "projectedNote": "Vrijednosti nakon 3,5 godine predviđene su",
+        "caption": "Vrijednosti nakon 3,5 godine predviđene su."
       }
     },
     "closing": {
-      "title": "ëkcos proizvodi s Eco-One™",
-      "body": "Naši proizvodi za kupaonice proizvedeni su s aditivom Eco-One™. U neovisnom laboratorijskom ispitivanju, ëkcos EVA s Eco-One™ dosegao je 93% biorazgradnje unutar 3,5 godine, a predviđa se do 99% unutar 5 godina u uvjetima odlagališta - s učinkom identičnim proizvodima bez aditiva.",
+      "title": "ëkcos s aditivom Eco-One™",
+      "body": "Naše mrežice za pisoare, osvježivači za WC školjke i osvježivači zraka sadrže aditiv Eco-One™: isti učinak u uporabi kao proizvodi bez njega i znatno bolji kraj životnog vijeka.",
       "shopCta": "Dućan"
     },
-    "footnote": "Izvor podataka: nezavisni test biorazgradnje prema ASTM D5511-02 i ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) - ëkcos proizvod s 1% aditiva Eco-One™: 93,31% biorazgradnje tijekom 1288 dana (≈3,5 godina); isti proizvod bez aditiva: 0%. Biorazgradnja nakon razdoblja ispitivanja (do 99% unutar ~5 godina) predviđa se prema izmjerenom trendu. Podaci o postojanosti konvencionalne plastike (≈300–1000 godina) često su citirane industrijske procjene. Aditiv Eco-One™ proizvodi i certificira EcoLogic, LLC."
+    "footnote": "Izvor podataka: neovisno ispitivanje biorazgradnje prema normama ASTM D5511-02 i ISO 15985:2014, Instituto Politécnico Nacional, grad Meksiko. Materijal ëkcos EVA s oko 1 % aditiva Eco-One™: 93,31 % biorazgradnje za 1.288 dana (oko 3,5 godine); isti materijal bez aditiva: 0 %. Do 99 % u roku od 5 godina predviđa se na temelju izmjerenog trenda. Biorazgradnja ovisi o uvjetima na odlagalištu otpada. Razdoblje od 300 do 1.000 godina za EVA materijal bez aditiva često je navođena procjena u industriji. Eco-One™ je žig tvrtke EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {

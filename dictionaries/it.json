@@ -5,7 +5,7 @@
     "productsTitle": "Prodotti",
     "productsDescription": "Esplora i prodotti ëkcos: modelli, finiture e opzioni - poi visita lo store ufficiale.",
     "ecoOneTitle": "Eco-One™",
-    "ecoOneDescription": "I nostri tappetini per orinatoio e i nostri deodoranti sono realizzati con EVA riciclato. Il materiale in sé può essere riciclato, ma un tappetino per orinatoio usato no, perché è contaminato biologicamente.",
+    "ecoOneDescription": "Le nostre griglie per orinatoi ed i nostri deodoranti passivi sono realizzati con EVA riciclato. Anche se il materiale è riciclabile, una griglia per orinatoio usata non lo è, perché è contaminata biologicamente. Finirà in discarica o nell’inceneritore ed è per questo che aggiungiamo l’additivo Eco-One™ a tutti i nostri prodotti.",
     "brandingTitle": "Branding personalizzato",
     "brandingDescription": "Marchio privato, sagome e stampa per programmi B2B.",
     "articlesTitle": "Articoli",
@@ -214,65 +214,92 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "Eco-One™ per la biodegradazione in discarica",
-      "tagline": "Stesso prodotto. Stesse prestazioni. Con EVA riciclato e Eco-One™.",
-      "body": "I nostri tappetini per orinatoio e i nostri deodoranti sono realizzati con EVA riciclato. Il materiale in sé può essere riciclato, ma un tappetino per orinatoio usato no, perché è contaminato biologicamente. Finisce in discarica o nell’inceneritore, ed è per questo che aggiungiamo l’additivo Eco-One™ a tutti i nostri prodotti. In un test indipendente secondo ASTM D5511 e ISO 15985 presso l’Instituto Politécnico Nacional di Città del Messico, l’EVA ëkcos con Eco-One™ ha raggiunto il 93% di biodegradazione in 3,5 anni, mentre lo stesso materiale senza additivo ha registrato lo 0%. Si prevede una biodegradazione fino al 99% entro 5 anni. Le nostre scatole sono in cartone riciclato al 100%."
+      "title": "Anni, non secoli.",
+      "tagline": "Stesse prestazioni durante l’uso. Biodegradabile in discarica con Eco-One™.",
+      "body": "Le nostre griglie per orinatoi ed i nostri deodoranti passivi sono realizzati con EVA riciclato. Anche se il materiale è riciclabile, una griglia per orinatoio usata non lo è, perché è contaminata biologicamente. Finirà in discarica o nell’inceneritore ed è per questo che aggiungiamo l’additivo Eco-One™ a tutti i nostri prodotti."
+    },
+    "afterUse": {
+      "heading": "Cosa succede dopo l’uso",
+      "title": "Biodegradabile in discarica al 93% in 3,5 anni",
+      "steps": {
+        "use": {
+          "title": "Durante l'uso",
+          "body": "Stessa efficacia dei prodotti senza Eco-One™"
+        },
+        "after": {
+          "title": "Dopo l'uso",
+          "body": "Contaminati biologicamente, quindi non riciclabili"
+        },
+        "landfill": {
+          "title": "In discarica",
+          "body": "Con Eco-One™ il materiale è biodegradabile"
+        },
+        "breakdown": {
+          "title": "Biogas, CO2 e humus",
+          "body": "In 3,5 anni il 93% del materiale si trasforma in queste sostanze (test indipendente)"
+        }
+      }
     },
     "metrics": {
       "additive": {
-        "value": "~1 %",
-        "label": "contenuto di additivo"
+        "value": "~1%",
+        "label": "Eco-One™ nel materiale"
       },
       "measured": {
-        "value": "~3,5 anni",
-        "label": "fino al 93 % di biodegradazione"
+        "value": "93%",
+        "label": "misurato in 3,5 anni"
       },
       "projected": {
-        "value": "fino al 99 %",
-        "label": "entro ~5 anni"
+        "value": "fino al 99%",
+        "label": "previsto entro 5 anni"
+      },
+      "cardboard": {
+        "value": "100%",
+        "label": "scatole in cartone riciclato"
       }
     },
     "problem": {
-      "title": "Perché la plastica ordinaria è un problema",
-      "body": "I prodotti in plastica ordinaria sono progettati per durare. Senza un additivo di biodegradazione, un prodotto in plastica inviato in discarica può rimanervi <bold>da 300 a 1.000 anni</bold>; i clog in schiuma stile «Crocs» sono un esempio familiare di plastica <bold>non biodegradabile</bold>. I nostri prodotti sono realizzati nello stesso tipo di plastica durevole (EVA) - ma con una differenza decisiva: l’additivo Eco-One™.",
-      "chartAlt": "Prodotti senza Eco-One™ confrontati con prodotti ëkcos contenenti l’additivo",
-      "chartCaption": "Prodotti senza Eco-One™ confrontati con prodotti ëkcos contenenti l’additivo.",
+      "title": "Perché una griglia comune resta per secoli",
+      "body": "L’EVA è un materiale durevole. Senza un additivo di biodegradazione, una griglia usata può restare in discarica per un periodo stimato da <bold>300 a 1.000</bold> anni. Gli zoccoli in schiuma e le infradito sono fatti dello stesso materiale, e nemmeno loro si biodegradano.",
+      "chartAlt": "Tempo stimato di degradazione in discarica",
+      "chartCaption": "Tempo stimato di degradazione in discarica.",
       "chart": {
-        "ariaLabel": "Confronto degli anni di degradazione in discarica",
+        "ariaLabel": "Tempo stimato di degradazione in discarica",
         "withoutLabel": "Prodotti senza Eco-One™",
         "withLabel": "ëkcos con Eco-One™",
-        "withoutValue": "300–1.000 anni",
-        "withValue": "3,5–5 anni",
+        "withoutValue": "300-1.000 anni",
+        "withValue": "3,5-5 anni",
         "withoutDetail": "Senza un additivo di biodegradazione, la plastica convenzionale può rimanere in discarica per secoli.",
         "withDetail": "Con l’additivo Eco-One™, test indipendenti mostrano ~93 % di biodegradazione in circa 3,5 anni, e fino al 99 % entro cinque anni.",
         "axisLabel": "Anni per degradarsi (discarica)",
-        "caption": "Prodotti senza Eco-One™ confrontati con prodotti ëkcos contenenti l’additivo.",
+        "caption": "Tempo stimato di degradazione in discarica.",
         "scaleLabel": "Scala del grafico",
-        "scaleFull": "0–1.000 anni",
-        "scaleZoom": "0–10 anni",
-        "clippedNote": "continua →"
+        "scaleFull": "0-1.000 anni",
+        "scaleZoom": "0-10 anni",
+        "clippedNote": "continua ->"
       }
     },
     "solution": {
       "title": "La nostra soluzione: l’additivo Eco-One™",
-      "body1": "Durante la produzione incorporiamo circa <bold>l’1 % di Eco-One™</bold>, un additivo organico dosato allo stesso modo di un colorante. Non influisce sulla resistenza, sull’aspetto né sulle prestazioni del prodotto.",
-      "body2": "In una discarica biologicamente attiva, i microrganismi presenti in natura scompongono la plastica trattata attraverso attività enzimatica, convertendola in biogas (<bold>metano</bold>, che le discariche moderne catturano per il recupero energetico), anidride carbonica e humus.",
-      "body3": "Poiché il prodotto si scompone infine in humus, restituisce materia organica alla discarica e aiuta ad accelerare i processi biochimici già in atto. Il prodotto contribuisce quindi <bold>non solo durante la sua vita utile, ma anche dopo</bold>."
+      "body1": "Durante la produzione aggiungiamo al materiale circa l’1% di Eco-One™. Non influisce sulla resistenza, sull’aspetto né sulle prestazioni del prodotto.",
+      "body2": "In una discarica biologicamente attiva, Eco-One™ permette al materiale di decomporsi in biogas, anidride carbonica e humus. Le discariche moderne captano il biogas e lo utilizzano per produrre energia.",
+      "calloutTitle": "Utile durante l’uso, e anche dopo",
+      "calloutBody": "Invece di restare in discarica per secoli, il materiale si decompone in biogas, che le discariche moderne utilizzano per produrre energia, e in humus. L’humus, a sua volta, arricchisce il suolo."
     },
     "testing": {
-      "title": "Test indipendenti",
-      "body": "Il prodotto è stato testato da un laboratorio indipendente secondo gli standard internazionali <bold>ASTM D5511 e ISO 15985</bold>, confrontando lo stesso prodotto con e senza l’additivo Eco-One™. Con Eco-One™ ha raggiunto <bold>il 93,31 % di biodegradazione in circa 3,5 anni, e fino al 99 % entro cinque anni</bold>; senza Eco-One™, il prodotto non ha mostrato biodegradazione misurabile.",
+      "title": "Test indipendente: 93% contro 0%",
+      "body": "In un test indipendente secondo <bold>ASTM D5511 e ISO 15985</bold> presso l’Instituto Politécnico Nacional di Città del Messico, l’EVA ëkcos con Eco-One™ ha raggiunto il <bold>93% di biodegradazione in 3,5 anni, mentre lo stesso materiale senza additivo h</bold>a registrato lo 0%. Si prevede una biodegradazione fino al 99% entro 5 anni.",
       "barChart": {
-        "ariaLabel": "Biodegradazione a circa 3,5 anni con e senza Eco-One™",
+        "ariaLabel": "Test indipendente: 93% contro 0%",
         "yAxis": "Biodegradazione (%)",
         "withLabel": "ëkcos con Eco-One™",
         "withoutLabel": "Prodotti senza Eco-One™",
         "withDetail": "93,31 % di biodegradazione misurata in un test di laboratorio indipendente ASTM D5511 / ISO 15985 dopo circa 3,5 anni.",
         "withoutDetail": "Lo stesso prodotto senza Eco-One™ non ha mostrato biodegradazione misurabile nello stesso periodo di test.",
-        "subtitle": "Stesso prodotto · stesso test di laboratorio (ASTM D5511 / ISO 15985) · ~3,5 anni"
+        "subtitle": "Stesso materiale, stesso test di laboratorio, 3,5 anni"
       },
       "timelineChart": {
-        "ariaLabel": "Biodegradazione in cinque anni con e senza Eco-One™",
+        "ariaLabel": "Test indipendente: 93% contro 0%",
         "yAxis": "Biodegradazione (%)",
         "xAxis": "Anni",
         "withLabel": "ëkcos con Eco-One™",
@@ -281,16 +308,16 @@
         "measured": "misurato",
         "projected": "proiettato",
         "yearsUnit": "anni",
-        "projectedNote": "Proiettato dal trend misurato",
-        "caption": "Biodegradazione con e senza l’additivo Eco-One™. I valori oltre i 3,5 anni sono proiettati dal trend misurato."
+        "projectedNote": "I valori oltre i 3,5 anni sono previsti",
+        "caption": "I valori oltre i 3,5 anni sono previsti."
       }
     },
     "closing": {
-      "title": "Prodotti ëkcos con Eco-One™",
-      "body": "I nostri prodotti per i servizi igienici sono realizzati con l’additivo Eco-One™. In un test di laboratorio indipendente, l’EVA ëkcos con Eco-One™ ha raggiunto il 93 % di biodegradazione in 3,5 anni, e si proietta fino al 99 % entro 5 anni in discarica - con le stesse prestazioni dei prodotti senza additivo.",
+      "title": "ëkcos con Eco-One™",
+      "body": "Le nostre griglie per orinatoi, le clip deodoranti per WC e i deodoranti per ambienti contengono l’additivo Eco-One™: durante l’uso le stesse prestazioni dei prodotti senza questo additivo e un fine vita di gran lunga migliore.",
       "shopCta": "Shop"
     },
-    "footnote": "Fonte dati: test di biodegradazione indipendente secondo ASTM D5511-02 e ISO 15985:2014 (Instituto Politécnico Nacional, Città del Messico) - prodotto ëkcos con 1 % di additivo Eco-One™: 93,31 % di biodegradazione in 1.288 giorni (≈3,5 anni); lo stesso prodotto senza additivo: 0 %. La biodegradazione oltre il periodo di test (fino al 99 % entro ~5 anni) è proiettata dal trend misurato. Le cifre di persistenza delle plastiche convenzionali (≈300–1.000 anni) sono stime di settore ampiamente citate. L’additivo Eco-One™ è prodotto e certificato da EcoLogic, LLC."
+    "footnote": "Fonte dei dati: test indipendente di biodegradazione secondo ASTM D5511-02 e ISO 15985:2014, Instituto Politécnico Nacional, Città del Messico. EVA ëkcos con circa l’1% di Eco-One™: 93,31% di biodegradazione in 1.288 giorni (circa 3,5 anni); stesso materiale senza l’additivo: 0%. Il valore fino al 99% entro 5 anni è previsto in base all’andamento misurato. La biodegradazione dipende dalle condizioni della discarica. La stima da 300 a 1.000 anni per l’EVA senza additivo è ampiamente citata nel settore. Eco-One™ è un marchio di EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {

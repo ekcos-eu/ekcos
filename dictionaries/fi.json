@@ -5,7 +5,7 @@
     "productsTitle": "Tuotteet",
     "productsDescription": "Tutustu ëkcos-tuotteisiin: vaihda malleja, viimeistelyjä ja vaihtoehtoja – käy sitten virallisessa myymälässä.",
     "ecoOneTitle": "Eco-One™",
-    "ecoOneDescription": "Urinaalimattojemme ja raikastimiemme valmistuksessa käytetään kierrätettyä EVA-materiaalia. Itse materiaalin voi kierrättää, mutta käytettyä urinaalimattoa ei, koska se on biologisesti saastunut. Se päätyy kaatopaikalle tai poltettavaksi, ja siksi lisäämme kaikkiin tuotteisiimme Eco-One™-lisäainetta.",
+    "ecoOneDescription": "Urinaalimattojemme ja raikastimiemme valmistuksessa käytetään kierrätettyä EVAmateriaalia. Itse materiaalin voi kierrättää, mutta käytettyä urinaalimattoa ei, koska se on biologisesti saastunut. Se päätyy kaatopaikalle tai poltettavaksi, ja siksi lisäämme kaikkiin tuotteisiimme Eco-One™-lisäainetta.",
     "brandingTitle": "Mukautettu brändäys",
     "brandingDescription": "Yksityinen brändäys, leikkaukset ja tulostus B2B-ohjelmia varten.",
     "articlesTitle": "Artikkelit",
@@ -214,83 +214,110 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "Eco-One™ kaatopaikoilla tapahtuvaan biohajoamiseen",
-      "tagline": "Sama tuote. Sama suorituskyky. Valmistettu kierrätetystä EVA:sta ja ECOONEsta.",
-      "body": "Urinaalimattojemme ja raikastimiemme valmistuksessa käytetään kierrätettyä EVA-materiaalia. Itse materiaalin voi kierrättää, mutta käytettyä urinaalimattoa ei, koska se on biologisesti saastunut. Se päätyy kaatopaikalle tai poltettavaksi, ja siksi lisäämme kaikkiin tuotteisiimme Eco-One™-lisäainetta. Riippumattomassa ASTM D5511- ja ISO 15985 -standardien mukaisessa testissä, joka tehtiin Instituto Politécnico Nacional -yliopistossa Méxicossa, Eco-One™-lisäainetta sisältävästä ëkcos-EVA-materiaalista biohajosi 3,5 vuodessa 93 %, kun taas ilman lisäainetta saman materiaalin tulos oli 0 %. Ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %. Laatikkomme on valmistettu 100 % kierrätetystä kartongista."
+      "title": "Vuosia, ei vuosisatoja.",
+      "tagline": "Sama suorituskyky käytössä. Biohajoaa kaatopaikalla Eco-One™-lisäaineella.",
+      "body": "Urinaalimattojemme ja raikastimiemme valmistuksessa käytetään kierrätettyä EVAmateriaalia. Itse materiaalin voi kierrättää, mutta käytettyä urinaalimattoa ei, koska se on biologisesti saastunut. Se päätyy kaatopaikalle tai poltettavaksi, ja siksi lisäämme kaikkiin tuotteisiimme Eco-One™-lisäainetta."
+    },
+    "afterUse": {
+      "heading": "Mitä käytön jälkeen tapahtuu",
+      "title": "Biohajoaa kaatopaikalla 93-prosenttisesti 3,5 vuodessa",
+      "steps": {
+        "use": {
+          "title": "Käytössä",
+          "body": "Yhtä tehokkaita kuin tuotteet ilman Eco-One™-lisäainetta"
+        },
+        "after": {
+          "title": "Käytön jälkeen",
+          "body": "Biologisesti saastuneita, joten niitä ei voi kierrättää"
+        },
+        "landfill": {
+          "title": "Kaatopaikalla",
+          "body": "Eco-One™-lisäaineen ansiosta materiaali biohajoaa"
+        },
+        "breakdown": {
+          "title": "Biokaasu, CO2 ja humus",
+          "body": "3,5 vuodessa 93 % materiaalista muuttuu näiksi (riippumaton testi)"
+        }
+      }
     },
     "metrics": {
       "additive": {
         "value": "~1 %",
-        "label": "lisäainesisältö"
+        "label": "Eco-One™-osuus materiaalissa"
       },
       "measured": {
-        "value": "~3,5v",
-        "label": "93 % biologiseen hajoamiseen"
+        "value": "93 %",
+        "label": "mitattu 3,5 vuodessa"
       },
       "projected": {
         "value": "jopa 99 %",
-        "label": "~5 vuoden sisällä"
+        "label": "ennustettu 5 vuodessa"
+      },
+      "cardboard": {
+        "value": "100 %",
+        "label": "laatikot kierrätyskartongista"
       }
     },
     "problem": {
-      "title": "Miksi tavallinen muovi on ongelma?",
-      "body": "Tavalliset muovituotteet on suunniteltu kestämään. Ilman biohajoavaa lisäainetta kaatopaikalle lähetetty muovituote voi jäädä sinne <bold>300–1 000 vuotta</bold>; vaahtomuovi \"Crocs-tyylinen\" puukengät ovat tuttu esimerkki muovista, joka <bold>ei ole biohajoavaa</bold>. Tuotteemme on valmistettu samanlaisesta kestävästä muovista (EVA) – mutta yhdellä ratkaisevalla erolla: Eco-One™-lisäaine.",
-      "chartAlt": "Tuotteet, joissa ei ole Eco-One™a verrattuna lisäainetta sisältäviin ëkcos tuotteisiin",
-      "chartCaption": "Tuotteet, joissa ei ole Eco-One™a, verrattuna lisäainetta sisältäviin ëkcos-tuotteisiin.",
+      "title": "Miksi tavallinen urinaalimatto säilyy vuosisatoja",
+      "body": "EVA on pitkäikäinen materiaali. Ilman biohajoamista edistävää lisäainetta käytetty urinaalimatto voi säilyä kaatopaikalla arviolta 300-1 000 vuotta. Samasta materiaalista valmistetaan myös vaahtomaisia puukenkiä ja varvassandaaleja, eivätkä nekään biohajoa.",
+      "chartAlt": "Arvioitu hajoamisaika kaatopaikalla",
+      "chartCaption": "Arvioitu hajoamisaika kaatopaikalla.",
       "chart": {
-        "ariaLabel": "Vuosien vertailu kaatopaikalle hajoamiseen",
+        "ariaLabel": "Arvioitu hajoamisaika kaatopaikalla",
         "withoutLabel": "Tuotteet ilman Eco-One™",
-        "withLabel": "ëkcos ja Eco-One™",
+        "withLabel": "ëkcos Eco-One™-lisäaineella",
         "withoutValue": "300-1000 vuotta",
         "withValue": "3,5-5 vuotta",
         "withoutDetail": "Ilman biohajoavaa lisäainetta tavanomainen muovi voi jäädä kaatopaikalle vuosisatoja.",
         "withDetail": "Eco-One™-lisäaineella riippumaton testaus osoittaa ~93 % biologisen hajoamisen noin 3,5 vuodessa ja jopa 99 % viiden vuoden sisällä.",
         "axisLabel": "Vuosia hajottaa (kaatopaikka)",
-        "caption": "Tuotteet, joissa ei ole Eco-One™a, verrattuna lisäainetta sisältäviin ëkcos-tuotteisiin.",
+        "caption": "Arvioitu hajoamisaika kaatopaikalla.",
         "scaleLabel": "Kaavion mittakaava",
         "scaleFull": "0-1000 v",
         "scaleZoom": "0-10 v",
-        "clippedNote": "jatkuu →"
+        "clippedNote": "jatkuu ->"
       }
     },
     "solution": {
-      "title": "Ratkaisumme: Eco-One™ -lisäaine",
-      "body1": "Valmistuksen aikana lisäämme noin <bold>1 % Eco-One™</bold>, orgaanista lisäainetta, joka annostellaan samalla tavalla kuin väriainetta. Se ei vaikuta tuotteen lujuuteen, ulkonäköön tai suorituskykyyn.",
-      "body2": "Biologisesti aktiivisella kaatopaikalla luonnossa esiintyvät mikro-organismit hajottavat käsitellyn muovin entsymaattisen toiminnan kautta ja muuttavat sen biokaasuksi (<bold>metaaniksi</bold>, jonka nykyaikaiset kaatopaikat talteenovat energian talteenottoon), hiilidioksidiksi ja humukseksi.",
-      "body3": "Koska tuote lopulta hajoaa humukseksi, se palauttaa orgaanista ainetta kaatopaikalle ja auttaa nopeuttamaan siellä jo toimivia biokemiallisia prosesseja. Siksi tuote vaikuttaa <bold>ei vain sen käyttöiän aikana, vaan myös sen jälkeen</bold>."
+      "title": "Ratkaisumme: Eco-One™-lisäaine",
+      "body1": "Lisäämme materiaaliin valmistuksen aikana <bold>noin 1 % Eco-One™</bold>-lisäainetta. Se ei vaikuta tuotteen lujuuteen, ulkonäköön eikä suorituskykyyn.",
+      "body2": "Biologisesti aktiivisella kaatopaikalla Eco-One™-lisäaine mahdollistaa materiaalin hajoamisen biokaasuksi, hiilidioksidiksi ja humukseksi. Nykyaikaiset kaatopaikat ottavat biokaasun talteen ja hyödyntävät sen energiana.",
+      "calloutTitle": "Hyödyksi käytössä - ja sen jälkeenkin",
+      "calloutBody": "Sen sijaan että materiaali makaisi kaatopaikalla vuosisatoja, se hajoaa biokaasuksi, jota nykyaikaiset kaatopaikat hyödyntävät energiana, sekä humukseksi. Humus puolestaan rikastuttaa maaperää."
     },
     "testing": {
-      "title": "Riippumaton testaus",
-      "body": "Tuote on testattu riippumattomassa laboratoriossa kansainvälisten standardien <bold>ASTM D5511 ja ISO 15985</bold> mukaisesti, vertaamalla samaa tuotetta Eco-One™-lisäaineen kanssa ja ilman. ⟦ECOONElla⟧ se saavutti <bold>93,31 % biologisen hajoamisen noin 3,5 vuodessa ja jopa 99 % viidessä vuodessa</bold>; ilman ⟦ECOONEa⟧, tuote ei osoittanut mitattavissa olevaa biologista hajoamista.",
+      "title": "Riippumaton testi: 93 % vs. 0 %",
+      "body": "Riippumattomassa ASTM D5511- ja ISO 15985 -standardien mukaisessa testissä, joka tehtiin Instituto Politécnico Nacional -yliopistossa Méxicossa, Eco-One™-lisäainetta sisältävästä ëkcos-EVA-materiaalista biohajosi 3,5 vuodessa 93 %, kun taas ilman lisäainetta saman materiaalin tulos oli 0 %. Ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %.",
       "barChart": {
-        "ariaLabel": "Biologinen hajoaminen noin 3,5 vuoden kuluttua ⟦ECOONEen⟧ kanssa ja ilman",
+        "ariaLabel": "Riippumaton testi: 93 % vs. 0 %",
         "yAxis": "Biologinen hajoaminen (%)",
-        "withLabel": "ëkcos ja Eco-One™",
+        "withLabel": "ëkcos Eco-One™-lisäaineella",
         "withoutLabel": "Tuotteet ilman Eco-One™",
         "withDetail": "93,31 %:n biohajoavuus mitattuna riippumattomassa ASTM D5511 / ISO 15985 -laboratoriotestissä noin 3,5 vuoden kuluttua.",
         "withoutDetail": "Sama tuote ilman ⟦ECOONEa⟧ ei osoittanut mitattavissa olevaa biologista hajoamista saman testijakson aikana.",
-        "subtitle": "Sama tuote · sama laboratoriotesti (ASTM D5511 / ISO 15985) · ~3,5 vuotta"
+        "subtitle": "Sama materiaali, sama laboratoriotesti, 3,5 vuotta"
       },
       "timelineChart": {
-        "ariaLabel": "Biologinen hajoaminen viiden vuoden ajan ⟦ECOONEen⟧ kanssa ja ilman",
+        "ariaLabel": "Riippumaton testi: 93 % vs. 0 %",
         "yAxis": "Biologinen hajoaminen (%)",
         "xAxis": "Vuosia",
-        "withLabel": "ëkcos ja Eco-One™",
+        "withLabel": "ëkcos Eco-One™-lisäaineella",
         "withoutLabel": "Tuotteet ilman Eco-One™",
         "zeroNote": "0% koko ajan",
         "measured": "mitattu",
         "projected": "ennustetaan",
         "yearsUnit": "v",
-        "projectedNote": "Projisoitu mitatusta trendistä",
-        "caption": "Biologinen hajoaminen Eco-One™-lisäaineen kanssa ja ilman. Yli 3,5 vuoden arvot ennustetaan mitatusta trendistä."
+        "projectedNote": "3,5 vuoden jälkeiset arvot ovat ennusteita",
+        "caption": "3,5 vuoden jälkeiset arvot ovat ennusteita."
       }
     },
     "closing": {
-      "title": "ëkcos tuotteet, joissa on Eco-One™",
-      "body": "Pesuhuonetuotteemme valmistetaan Eco-One™-lisäaineella. Riippumattomassa laboratoriotestissä ëkcos EVA ja Eco-One™ saavuttivat 93 %:n biohajoavuuden 3,5 vuodessa, ja jopa 99 %:n ennustetaan olevan 5 vuoden sisällä kaatopaikkaolosuhteissa – suorituskyvyn ollessa identtinen ilman lisäainetta sisältävien tuotteiden kanssa.",
+      "title": "ëkcos Eco-One™-lisäaineella",
+      "body": "Urinaalimattomme, WC-raikastinklipsimme ja ilmanraikastimemme sisältävät Eco-One™-lisäainetta: käytössä sama suorituskyky kuin tuotteilla ilman sitä ja paljon parempi elinkaaren loppu.",
       "shopCta": "Kauppa"
     },
-    "footnote": "Tietolähde: riippumaton biohajoavuustesti ASTM D5511-02:n ja ISO 15985:2014:n mukaan (Instituto Politécnico Nacional, Mexico City) - ëkcos tuote, jossa on 1 % Eco-One™ lisäainetta: 93,31 % biohajoavuus 5 vuoden aikana (≈ 283 päivää); sama tuote ilman lisäainetta: 0 %. Biohajoaminen testijakson jälkeen (jopa 99 % ~5 vuoden sisällä) ennustetaan mitatusta trendistä. Perinteisten muovien kestävyysluvut (≈300–1 000 vuotta) ovat laajalti siteerattuja teollisuuden arvioita. Eco-One™-lisäaineen valmistaa ja sertifioi EcoLogic, LLC."
+    "footnote": "Tietolähde: riippumaton biohajoamistesti ASTM D5511-02- ja ISO 15985:2014 -standardien mukaan, Instituto Politécnico Nacional, México. ëkcos-EVA, jossa noin 1 % Eco-One™-lisäainetta, biohajosi 1 288 päivässä (noin 3,5 vuodessa) 93,31 %; sama materiaali ilman lisäainetta: 0 %. Mitatun kehityksen perusteella ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %. Biohajoaminen riippuu kaatopaikan olosuhteista. Lisäaineettoman EVA-materiaalin 300-1 000 vuoden hajoamisaika on alalla yleisesti mainittu arvio. Eco-One™ on yhtiön EcoLogic, LLC tavaramerkki."
   },
   "customBranding": {
     "hero": {

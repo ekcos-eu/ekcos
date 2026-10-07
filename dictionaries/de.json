@@ -5,7 +5,7 @@
     "productsTitle": "Produkte",
     "productsDescription": "ëkcos-Produkte entdecken: Modelle, Oberflächen und Optionen wählen - dann zum offiziellen Shop.",
     "ecoOneTitle": "Eco-One™",
-    "ecoOneDescription": "Unsere Urinalsiebe, WC- und Lufterfrischer werden mit recyceltem EVA hergestellt. Das Material selbst ist recycelbar, ein gebrauchtes Urinalsieb jedoch nicht, da es biologisch kontaminiert ist.",
+    "ecoOneDescription": "Unsere Urinalsiebe, WC- und Lufterfrischer werden mit recyceltem EVA hergestellt. Das Material selbst ist recycelbar, ein gebrauchtes Urinalsieb jedoch nicht, da es biologisch kontaminiert ist. Es landet auf der Deponie oder in der Müllverbrennung, und deshalb setzen wir allen unseren Produkten das Additiv Eco-One™ zu.",
     "brandingTitle": "Custom Branding",
     "brandingDescription": "Eigenmarke, Ausschnitte und Druck für B2B-Programme.",
     "articlesTitle": "Artikel",
@@ -214,65 +214,92 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "Eco-One™ für den biologischen Abbau auf der Deponie",
-      "tagline": "Gleiches Produkt. Gleiche Leistung. Mit recyceltem EVA und Eco-One™.",
-      "body": "Unsere Urinalsiebe, WC- und Lufterfrischer werden mit recyceltem EVA hergestellt. Das Material selbst ist recycelbar, ein gebrauchtes Urinalsieb jedoch nicht, da es biologisch kontaminiert ist. Es landet auf der Deponie oder in der Müllverbrennung, und deshalb setzen wir allen unseren Produkten das Additiv Eco-One™ zu. In einem unabhängigen Test nach ASTM D5511 und ISO 15985 am Instituto Politécnico Nacional in Mexiko-Stadt wurde EVA von ëkcos mit Eco-One™ innerhalb von 3,5 Jahren zu 93 % biologisch abgebaut, dasselbe Material ohne das Additiv dagegen zu 0 %. Innerhalb von 5 Jahren wird ein biologischer Abbau von bis zu 99 % prognostiziert. Unsere Schachteln bestehen zu 100 % aus Recyclingkarton."
+      "title": "Jahre statt Jahrhunderte.",
+      "tagline": "Gleiche Leistung im Einsatz. Mit Eco-One™ auf der Deponie biologisch abbaubar.",
+      "body": "Unsere Urinalsiebe, WC- und Lufterfrischer werden mit recyceltem EVA hergestellt. Das Material selbst ist recycelbar, ein gebrauchtes Urinalsieb jedoch nicht, da es biologisch kontaminiert ist. Es landet auf der Deponie oder in der Müllverbrennung, und deshalb setzen wir allen unseren Produkten das Additiv Eco-One™ zu."
+    },
+    "afterUse": {
+      "heading": "Was nach dem Gebrauch passiert",
+      "title": "Auf der Deponie binnen 3,5 Jahren zu 93 % biologisch abbaubar",
+      "steps": {
+        "use": {
+          "title": "Im Einsatz",
+          "body": "Ebenso wirksam wie Produkte ohne Eco-One™"
+        },
+        "after": {
+          "title": "Nach dem Gebrauch",
+          "body": "Biologisch kontaminiert, daher nicht recycelbar"
+        },
+        "landfill": {
+          "title": "Auf der Deponie",
+          "body": "Dank Eco-One™ ist das Material biologisch abbaubar"
+        },
+        "breakdown": {
+          "title": "Biogas, CO2 und Humus",
+          "body": "Innerhalb von 3,5 Jahren werden 93 % des Materials dazu umgewandelt (unabhängiger Test)"
+        }
+      }
     },
     "metrics": {
       "additive": {
         "value": "~1 %",
-        "label": "Additivanteil"
+        "label": "Eco-One™ im Material"
       },
       "measured": {
-        "value": "~3,5 Jahre",
-        "label": "bis 93 % Biodegradation"
+        "value": "93 %",
+        "label": "binnen 3,5 Jahren gemessen"
       },
       "projected": {
         "value": "bis zu 99 %",
-        "label": "innerhalb von ~5 Jahren"
+        "label": "binnen 5 Jahren prognostiziert"
+      },
+      "cardboard": {
+        "value": "100 %",
+        "label": "Schachteln aus Recyclingkarton"
       }
     },
     "problem": {
-      "title": "Warum herkömmlicher Kunststoff ein Problem ist",
-      "body": "Herkömmliche Kunststoffprodukte sind darauf ausgelegt, lange zu halten. Ohne Biodegradationsadditiv kann ein Kunststoffprodukt auf der Deponie <bold>300 bis 1.000 Jahre</bold> verbleiben; Schaumstoff-Clogs im „Crocs“-Stil sind ein bekanntes Beispiel für <bold>nicht biologisch abbaubaren</bold> Kunststoff. Unsere Produkte bestehen aus demselben langlebigen Kunststoff (EVA) - mit einem entscheidenden Unterschied: dem Eco-One™-Additiv.",
-      "chartAlt": "Produkte ohne Eco-One™ im Vergleich zu ëkcos-Produkten mit dem Additiv",
-      "chartCaption": "Produkte ohne Eco-One™ im Vergleich zu ëkcos-Produkten mit dem Additiv.",
+      "title": "Warum ein herkömmliches Sieb Jahrhunderte überdauert",
+      "body": "EVA ist ein beständiges Material. Ohne ein Additiv für den biologischen Abbau kann ein gebrauchtes Sieb schätzungsweise <bold>300 bis 1.000</bold> Jahre auf der Deponie verbleiben. Clogs aus Schaumstoff und Flip-Flops bestehen aus demselben Material und bauen sich ebenfalls nicht biologisch ab.",
+      "chartAlt": "Geschätzte Abbauzeit auf der Deponie",
+      "chartCaption": "Geschätzte Abbauzeit auf der Deponie.",
       "chart": {
-        "ariaLabel": "Vergleich der Abbaujahre auf der Deponie",
+        "ariaLabel": "Geschätzte Abbauzeit auf der Deponie",
         "withoutLabel": "Produkte ohne Eco-One™",
         "withLabel": "ëkcos mit Eco-One™",
-        "withoutValue": "300–1.000 Jahre",
-        "withValue": "3,5–5 Jahre",
+        "withoutValue": "300-1.000 Jahre",
+        "withValue": "3,5-5 Jahre",
         "withoutDetail": "Ohne Biodegradationsadditiv kann herkömmlicher Kunststoff jahrhundertelang auf der Deponie bleiben.",
         "withDetail": "Mit dem Eco-One™-Additiv zeigt unabhängige Prüfung ~93 % Biodegradation in etwa 3,5 Jahren und bis zu 99 % innerhalb von fünf Jahren.",
         "axisLabel": "Jahre bis zum Abbau (Deponie)",
-        "caption": "Produkte ohne Eco-One™ im Vergleich zu ëkcos-Produkten mit dem Additiv.",
+        "caption": "Geschätzte Abbauzeit auf der Deponie.",
         "scaleLabel": "Diagrammskala",
-        "scaleFull": "0–1.000 J.",
-        "scaleZoom": "0–10 J.",
-        "clippedNote": "weiter →"
+        "scaleFull": "0-1.000 J.",
+        "scaleZoom": "0-10 J.",
+        "clippedNote": "weiter ->"
       }
     },
     "solution": {
-      "title": "Unsere Lösung: Das Eco-One™-Additiv",
-      "body1": "Bei der Herstellung mischen wir etwa <bold>1 % Eco-One™</bold> ein - ein organisches Additiv, das wie ein Farbstoff dosiert wird. Es beeinflusst weder Festigkeit, Aussehen noch Leistung des Produkts.",
-      "body2": "Auf einer biologisch aktiven Deponie bauen natürlich vorkommende Mikroorganismen den behandelten Kunststoff durch enzymatische Aktivität ab und wandeln ihn in Biogas (<bold>Methan</bold>, das moderne Deponien zur Energierückgewinnung erfassen), Kohlendioxid und Humus um.",
-      "body3": "Weil das Produkt letztlich zu Humus zerfällt, führt es organische Substanz in die Deponie zurück und beschleunigt die dort bereits ablaufenden biochemischen Prozesse. Das Produkt leistet damit einen Beitrag <bold>nicht nur während der Nutzungsdauer, sondern auch danach</bold>."
+      "title": "Unsere Lösung: das Additiv Eco-One™",
+      "body1": "Bei der Herstellung setzen wir dem Material <bold>etwa 1 % Eco-One™</bold> zu. Es beeinflusst weder die Festigkeit noch das Aussehen noch die Leistung des Produkts.",
+      "body2": "Auf einer biologisch aktiven Deponie ermöglicht Eco-One™ den Abbau des Materials zu Biogas, Kohlendioxid und Humus. Moderne Deponien fangen das Biogas auf und nutzen es zur Energiegewinnung.",
+      "calloutTitle": "Nützlich im Einsatz - und auch danach",
+      "calloutBody": "Statt jahrhundertelang auf der Deponie zu liegen, wird das Material zu Biogas abgebaut, das moderne Deponien zur Energiegewinnung nutzen, und zu Humus. Humus wiederum reichert den Boden an."
     },
     "testing": {
-      "title": "Unabhängige Prüfung",
-      "body": "Das Produkt wurde von einem unabhängigen Labor nach den internationalen Normen <bold>ASTM D5511 und ISO 15985</bold> geprüft - im Vergleich desselben Produkts mit und ohne Eco-One™-Additiv. Mit Eco-One™ erreichte es <bold>93,31 % Biodegradation in etwa 3,5 Jahren und bis zu 99 % innerhalb von fünf Jahren</bold>; ohne Eco-One™ zeigte das Produkt keine messbare Biodegradation.",
+      "title": "Unabhängiger Test: 93 % gegenüber 0 %",
+      "body": "In einem unabhängigen Test nach <bold>ASTM D5511 und ISO 15985</bold> am Instituto Politécnico Nacional in MexikoStadt wurde EVA von ëkcos mit Eco-One™ innerhalb von 3,5 Jahren zu 93 % biologisch abgebaut, dasselbe Material ohne das Additiv dagegen zu 0 %. Innerhalb von 5 Jahren wird ein biologischer Abbau von bis zu 99 % prognostiziert.",
       "barChart": {
-        "ariaLabel": "Biodegradation nach etwa 3,5 Jahren mit und ohne Eco-One™",
+        "ariaLabel": "Unabhängiger Test: 93 % gegenüber 0 %",
         "yAxis": "Biodegradation (%)",
         "withLabel": "ëkcos mit Eco-One™",
         "withoutLabel": "Produkte ohne Eco-One™",
         "withDetail": "93,31 % Biodegradation in einem unabhängigen ASTM-D5511- / ISO-15985-Labortest nach etwa 3,5 Jahren gemessen.",
         "withoutDetail": "Dasselbe Produkt ohne Eco-One™ zeigte im gleichen Testzeitraum keine messbare Biodegradation.",
-        "subtitle": "Gleiches Produkt · gleicher Labortest (ASTM D5511 / ISO 15985) · ~3,5 Jahre"
+        "subtitle": "Dasselbe Material, derselbe Labortest, 3,5 Jahre"
       },
       "timelineChart": {
-        "ariaLabel": "Biodegradation über fünf Jahre mit und ohne Eco-One™",
+        "ariaLabel": "Unabhängiger Test: 93 % gegenüber 0 %",
         "yAxis": "Biodegradation (%)",
         "xAxis": "Jahre",
         "withLabel": "ëkcos mit Eco-One™",
@@ -281,16 +308,16 @@
         "measured": "gemessen",
         "projected": "projiziert",
         "yearsUnit": "J.",
-        "projectedNote": "Aus dem gemessenen Trend projiziert",
-        "caption": "Biodegradation mit und ohne Eco-One™-Additiv. Werte jenseits von 3,5 Jahren sind aus dem gemessenen Trend projiziert."
+        "projectedNote": "Werte über 3,5 Jahre hinaus sind prognostiziert",
+        "caption": "Werte über 3,5 Jahre hinaus sind prognostiziert."
       }
     },
     "closing": {
-      "title": "ëkcos-Produkte mit Eco-One™",
-      "body": "Unsere Sanitärprodukte werden mit dem Eco-One™-Additiv hergestellt. In einem unabhängigen Labortest erreichte ëkcos-EVA mit Eco-One™ innerhalb von 3,5 Jahren 93 % biologischen Abbau; innerhalb von 5 Jahren werden auf der Deponie bis zu 99 % projiziert - bei gleicher Leistung wie ohne Additiv.",
+      "title": "ëkcos mit Eco-One™",
+      "body": "Unsere Urinalsiebe, WC-Clips und Lufterfrischer enthalten das Additiv Eco-One™: im Einsatz die gleiche Leistung wie Produkte ohne das Additiv und ein weitaus besseres Ende ihres Produktlebens. Weitere",
       "shopCta": "Shop"
     },
-    "footnote": "Datenquelle: unabhängiger Biodegradationstest nach ASTM D5511-02 und ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) - ëkcos-Produkt mit 1 % Eco-One™-Additiv: 93,31 % Biodegradation über 1.288 Tage (≈3,5 Jahre); dasselbe Produkt ohne Additiv: 0 %. Biodegradation jenseits des Testzeitraums (bis zu 99 % innerhalb von ~5 Jahren) ist aus dem gemessenen Trend projiziert. Persistenzwerte für herkömmliche Kunststoffe (≈300–1.000 Jahre) sind weithin zitierte Branchenschätzungen. Das Eco-One™-Additiv wird von EcoLogic, LLC hergestellt und zertifiziert."
+    "footnote": "Datenquelle: unabhängiger Test zum biologischen Abbau nach ASTM D5511-02 und ISO 15985:2014, Instituto Politécnico Nacional, Mexiko-Stadt. EVA von ëkcos mit etwa 1 % Eco-One™: 93,31 % biologischer Abbau in 1.288 Tagen (etwa 3,5 Jahre); dasselbe Material ohne das Additiv: 0 %. Bis zu 99 % innerhalb von 5 Jahren werden auf Basis des gemessenen Verlaufs prognostiziert. Der biologische Abbau hängt von den Bedingungen auf der Deponie ab. Die 300 bis 1.000 Jahre für EVA ohne Additiv sind eine in der Branche häufig zitierte Schätzung. Eco-One™ ist eine Marke von EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {

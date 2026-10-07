@@ -214,65 +214,92 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "Eco-One™ biologiniam skaidymui sąvartynuose",
-      "tagline": "Tas pats produktas. Tas pats pasirodymas. Pagaminta iš perdirbtos EVA ir Eco-One™.",
-      "body": "Mūsų pisuarų tinkleliai ir gaivikliai pagaminti naudojant perdirbtą EVA. Pačią medžiagą galima perdirbti, tačiau panaudoto pisuaro tinklelio perdirbti negalima, nes jis biologiškai užterštas. Jis patenka į sąvartyną arba yra deginamas, todėl į visus savo gaminius dedame priedą Eco-One™. Nepriklausomame bandyme pagal ASTM D5511 ir ISO 15985, atliktame Instituto Politécnico Nacional Meksiko mieste, ëkcos EVA su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o ta pati medžiaga be priedo suiro 0 %. Prognozuojama, kad per 5 metus biologiškai suirs iki 99 %. Mūsų dėžės pagamintos iš 100 % perdirbto kartono."
+      "title": "Metai, ne šimtmečiai.",
+      "tagline": "Tokie pat veiksmingi naudojant. Su Eco-One™ biologiškai skaidūs sąvartyne.",
+      "body": "Mūsų pisuarų tinkleliai ir gaivikliai pagaminti naudojant perdirbtą EVA. Pačią medžiagą galima perdirbti, tačiau panaudoto pisuaro tinklelio perdirbti negalima, nes jis biologiškai užterštas. Jis patenka į sąvartyną arba yra deginamas, todėl į visus savo gaminius dedame priedą Eco-One™."
+    },
+    "afterUse": {
+      "heading": "Kas vyksta po naudojimo",
+      "title": "Biologiškai skaidūs sąvartyne: 93 % per 3,5 metų",
+      "steps": {
+        "use": {
+          "title": "Naudojant",
+          "body": "Tokie pat veiksmingi kaip gaminiai be Eco-One™"
+        },
+        "after": {
+          "title": "Po naudojimo",
+          "body": "Biologiškai užteršti, todėl jų negalima perdirbti"
+        },
+        "landfill": {
+          "title": "Sąvartyne",
+          "body": "Dėl Eco-One™ medžiaga biologiškai skyla"
+        },
+        "breakdown": {
+          "title": "Biodyjos, CO2 ir humusas",
+          "body": "Per 3,5 metų 93 % medžiagos virsta jais (nepriklausomas bandymas)"
+        }
+      }
     },
     "metrics": {
       "additive": {
         "value": "~1 %",
-        "label": "priedų turinį"
+        "label": "Eco-One™ medžiagoje"
       },
       "measured": {
-        "value": "~3,5m",
-        "label": "iki 93 % biologinio skaidymosi"
+        "value": "93 %",
+        "label": "išmatuota per 3,5 metų"
       },
       "projected": {
-        "value": "iki 99 proc.",
-        "label": "per ~5 metus"
+        "value": "iki 99 %",
+        "label": "prognozuojama per 5 metus"
+      },
+      "cardboard": {
+        "value": "100 %",
+        "label": "dėžės iš perdirbto kartono"
       }
     },
     "problem": {
-      "title": "Kodėl paprastas plastikas yra problema",
-      "body": "Įprasti plastikiniai gaminiai yra sukurti taip, kad tarnautų. Be biologinio skaidymo priedo plastikinis gaminys, išsiųstas į sąvartyną, gali likti ten nuo <bold>300 iki 1000 metų</bold>; putplasčio „Crocs“ stiliaus klumpės yra žinomas plastiko, kuris <bold>biologiškai neskaidomas</bold>, pavyzdys. Mūsų gaminiai gaminami iš tos pačios rūšies patvaraus plastiko (EVA), tačiau turi vieną esminį skirtumą: Eco-One™ priedą.",
-      "chartAlt": "Produktai be Eco-One™, palyginti su ëkcos produktais, kuriuose yra priedo",
-      "chartCaption": "Produktai be Eco-One™, palyginti su ëkcos produktais, kuriuose yra priedo.",
+      "title": "Kodėl įprastas tinklelis išlieka šimtmečius",
+      "body": "EVA yra ilgaamžė medžiaga. Vertinama, kad be priedo, leidžiančio biologiškai suirti, panaudotas tinklelis sąvartyne gali išlikti nuo <bold>300 iki 1 000</bold> metų. Iš tos pačios medžiagos gaminamos putų klumpės ir šlepetės per pirštą, kurios taip pat biologiškai nesuyra.",
+      "chartAlt": "Įvertinta suirimo sąvartyne trukmė",
+      "chartCaption": "Įvertinta suirimo sąvartyne trukmė.",
       "chart": {
-        "ariaLabel": "Sąvartynų suskaidymo metų palyginimas",
+        "ariaLabel": "Įvertinta suirimo sąvartyne trukmė",
         "withoutLabel": "Produktai be Eco-One™",
         "withLabel": "ëkcos su Eco-One™",
-        "withoutValue": "300–1000 metų",
+        "withoutValue": "300-1000 metų",
         "withValue": "3,5-5 metai",
         "withoutDetail": "Be biologiškai skaidomo priedo, įprastas plastikas gali likti sąvartynuose šimtmečius.",
         "withDetail": "Naudojant Eco-One™ priedą, nepriklausomi bandymai rodo ~93% biologinį skaidymą maždaug per 3,5 metų ir iki 99% per penkerius metus.",
         "axisLabel": "Metai suskaidyti (sąvartynas)",
-        "caption": "Produktai be Eco-One™, palyginti su ëkcos produktais, kuriuose yra priedo.",
+        "caption": "Įvertinta suirimo sąvartyne trukmė.",
         "scaleLabel": "Diagramos mastelis",
-        "scaleFull": "0–1000 m",
+        "scaleFull": "0-1000 m",
         "scaleZoom": "0-10 m",
-        "clippedNote": "tęsiasi →"
+        "clippedNote": "tęsiasi ->"
       }
     },
     "solution": {
-      "title": "Mūsų sprendimas: Eco-One™ priedas",
-      "body1": "Gamybos metu įdedame maždaug <bold>1 % Eco-One™</bold> – organinio priedo, dozuojamo taip pat, kaip ir dažiklio. Tai neturi įtakos gaminio stiprumui, išvaizdai ar veikimui.",
-      "body2": "Biologiškai aktyviame sąvartyne natūraliai atsirandantys mikroorganizmai fermentiniu aktyvumu skaido apdorotą plastiką ir paverčia jį biodujomis (<bold>metanu</bold>, kurias šiuolaikiniai sąvartynai sugauna energijai atgauti), anglies dioksidu ir humusu.",
-      "body3": "Kadangi produktas galiausiai skyla į humusą, jis grąžina organines medžiagas į sąvartyną ir padeda paspartinti ten jau vykstančius biocheminius procesus. Todėl gaminys prisideda <bold>ne tik per savo tarnavimo laiką, bet ir po jo</bold>."
+      "title": "Mūsų sprendimas: priedas Eco-One™",
+      "body1": "Gamybos metu į medžiagą įdedame apie 1 % priedo Eco-One™. Jis neturi įtakos gaminio tvirtumui, išvaizdai ar veiksmingumui.",
+      "body2": "Biologiškai aktyviame sąvartyne priedas Eco-One™ leidžia medžiagai suirti į biodujas, anglies dioksidą ir humusą. Šiuolaikiniai sąvartynai biodujas surenka ir naudoja energijai gaminti.",
+      "calloutTitle": "Naudinga visą tarnavimo laiką - ir po jo",
+      "calloutBody": "Užuot šimtmečius gulėjusi sąvartyne, medžiaga suyra į biodujas, kurias šiuolaikiniai sąvartynai naudoja energijai gaminti, ir į humusą. Humusas savo ruožtu praturtina dirvožemį."
     },
     "testing": {
-      "title": "Nepriklausomas bandymas",
-      "body": "Produktas buvo išbandytas nepriklausomoje laboratorijoje pagal tarptautinius standartus <bold>ASTM D5511 ir ISO 15985</bold>, lyginant tą patį gaminį su Eco-One™ priedu ir be jo. Naudojant Eco-One™, jis pasiekė <bold>93,31 % biologinį skaidymą per maždaug 3,5 metų ir iki 99 % per penkerius metus</bold>; be Eco-One™, produktas neparodė išmatuojamo biologinio skaidymosi.",
+      "title": "Nepriklausomas bandymas: 93 % prieš 0 %",
+      "body": "Nepriklausomame bandyme pagal <bold>ASTM D5511 ir ISO 15985</bold>, atliktame Instituto Politécnico Nacional Meksiko mieste, ëkcos EVA su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o ta pati medžiaga be priedo suiro 0 %. Prognozuojama, kad per 5 metus biologiškai suirs iki 99 %.",
       "barChart": {
-        "ariaLabel": "Biologinis skaidymas maždaug po 3,5 metų su Eco-One™ ir be jo",
+        "ariaLabel": "Nepriklausomas bandymas: 93 % prieš 0 %",
         "yAxis": "Biologinis skaidymas (%)",
         "withLabel": "ëkcos su Eco-One™",
         "withoutLabel": "Produktai be Eco-One™",
         "withDetail": "93,31 % biologinis skaidymas, išmatuotas nepriklausomu ASTM D5511 / ISO 15985 laboratoriniu tyrimu po maždaug 3,5 metų.",
         "withoutDetail": "Tas pats produktas be Eco-One™ per tą patį bandymo laikotarpį neparodė išmatuojamo biologinio skaidymosi.",
-        "subtitle": "Tas pats produktas · tas pats laboratorinis tyrimas (ASTM D5511 / ISO 15985) · ~3,5 metų"
+        "subtitle": "Ta pati medžiaga, tas pats laboratorijos bandymas, 3,5 metų"
       },
       "timelineChart": {
-        "ariaLabel": "Biologinis skaidymas per penkerius metus su ir be Eco-One™",
+        "ariaLabel": "Nepriklausomas bandymas: 93 % prieš 0 %",
         "yAxis": "Biologinis skaidymas (%)",
         "xAxis": "Metai",
         "withLabel": "ëkcos su Eco-One™",
@@ -281,16 +308,16 @@
         "measured": "išmatuotas",
         "projected": "prognozuojama",
         "yearsUnit": "m",
-        "projectedNote": "Prognozuojama pagal išmatuotą tendenciją",
-        "caption": "Biologinis skaidymas su Eco-One™ priedu ir be jo. Didesnės nei 3,5 metų vertės prognozuojamos pagal išmatuotą tendenciją."
+        "projectedNote": "Vertės po 3,5 metų yra prognozuojamos",
+        "caption": "Vertės po 3,5 metų yra prognozuojamos."
       }
     },
     "closing": {
-      "title": "ëkcos produktai su Eco-One™",
-      "body": "Mūsų prausyklos gaminiai gaminami su Eco-One™ priedu. Atliekant nepriklausomą laboratorinį tyrimą, ëkcos EVA su Eco-One™ pasiekė 93 % biologinio skaidymosi per 3,5 metų, o iki 99 % prognozuojama per 5 metus sąvartyno sąlygomis – o veikimas toks pat kaip produktų be priedo.",
+      "title": "ëkcos su Eco-One™",
+      "body": "Mūsų pisuarų tinkleliuose, pakabinamuose WC gaivikliuose ir oro gaivikliuose yra priedo Eco-One™: naudojant jie veikia taip pat kaip gaminiai be jo, o jų gyvavimo ciklo pabaiga - daug geresnė. Daugiau",
       "shopCta": "Parduotuvė"
     },
-    "footnote": "Duomenų šaltinis: nepriklausomas biologinio skilimo testas pagal ASTM D5511-02 ir ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) – ëkcos produktas su 1 % Eco-One™ priedu: 93,31 % biologinis skaidymas per 1,283 dienas (≈283 dienas); tas pats produktas be priedo: 0%. Biologinis skaidymas po bandymo laikotarpio (iki 99% per ~5 metus) yra prognozuojamas pagal išmatuotą tendenciją. Įprastų plastikų patvarumo skaičiai (≈300–1000 metų) yra plačiai cituojami pramonės vertinimai. Eco-One™ priedą gamina ir sertifikavo EcoLogic, LLC."
+    "footnote": "Duomenų šaltinis: nepriklausomas biologinio suirimo bandymas pagal ASTM D5511-02 ir ISO 15985:2014, Instituto Politécnico Nacional, Meksiko miestas. ëkcos EVA su maždaug 1 % Eco-One™: 93,31 % biologinis suirimas per 1 288 dienas (maždaug 3,5 metų); ta pati medžiaga be priedo: 0 %. Iki 99 % per 5 metus prognozuojama pagal išmatuotą tendenciją. Biologinis suirimas priklauso nuo sąvartyno sąlygų. EVA be priedo suirimo trukmė - nuo 300 iki 1 000 metų - yra plačiai cituojamas pramonės vertinimas. Eco-One™ yra bendrovės EcoLogic, LLC prekių ženklas."
   },
   "customBranding": {
     "hero": {

@@ -5,7 +5,7 @@
     "productsTitle": "Producten",
     "productsDescription": "Ontdek ëkcos-producten: wissel van model, afwerking en opties en bezoek vervolgens de officiële winkel.",
     "ecoOneTitle": "Eco-One™",
-    "ecoOneDescription": "Onze urinoirmatten en verfrissers worden gemaakt met gerecycled EVA. Het materiaal zelf is recyclebaar, maar een gebruikte urinoirmat niet, omdat die biologisch verontreinigd is. Die belandt op de stortplaats of in de verbrandingsoven, en daarom voegen we aan al onze producten het additief Eco-One™ toe.",
+    "ecoOneDescription": "Onze urinoirmatten en verfrissers worden gemaakt met gerecycled EVA. Het materiaal zelf is recyclebaar, maar een gebruikte urinoirmat niet, omdat die biologisch verontreinigd is. Die belandt op de stortplaats of in de verbrandingsoven, en daarom voegen we aan al onze",
     "brandingTitle": "Aangepaste branding",
     "brandingDescription": "Private branding, uitsnijdingen en bedrukking voor B2B-programma's.",
     "articlesTitle": "Artikelen",
@@ -214,65 +214,92 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "Eco-One™ voor biologische afbraak van stortplaatsen",
-      "tagline": "Hetzelfde product. Dezelfde prestatie. Gemaakt met gerecycled EVA en Eco-One™.",
-      "body": "Onze urinoirmatten en verfrissers worden gemaakt met gerecycled EVA. Het materiaal zelf is recyclebaar, maar een gebruikte urinoirmat niet, omdat die biologisch verontreinigd is. Die belandt op de stortplaats of in de verbrandingsoven, en daarom voegen we aan al onze producten het additief Eco-One™ toe. In een onafhankelijke test volgens ASTM D5511 en ISO 15985 aan het Instituto Politécnico Nacional in Mexico-Stad bereikte EVA van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, terwijl hetzelfde materiaal zonder het additief 0% haalde. Binnen 5 jaar wordt tot 99% biologische afbraak verwacht. Onze dozen zijn gemaakt van 100% gerecycled karton."
+      "title": "Jaren, geen eeuwen.",
+      "tagline": "Dezelfde prestaties in gebruik. Met Eco-One™ biologisch afbreekbaar op de stortplaats.",
+      "body": "Onze urinoirmatten en verfrissers worden gemaakt met gerecycled EVA. Het materiaal zelf is recyclebaar, maar een gebruikte urinoirmat niet, omdat die biologisch verontreinigd is. Die belandt op de stortplaats of in de verbrandingsoven, en daarom voegen we aan al onze"
+    },
+    "afterUse": {
+      "heading": "Wat er na gebruik gebeurt",
+      "title": "Voor 93% biologisch afbreekbaar op de stortplaats binnen 3,5 jaar",
+      "steps": {
+        "use": {
+          "title": "Tijdens gebruik",
+          "body": "Even effectief als producten zonder Eco-One™"
+        },
+        "after": {
+          "title": "Na gebruik",
+          "body": "Biologisch verontreinigd, dus niet recyclebaar"
+        },
+        "landfill": {
+          "title": "Op de stortplaats",
+          "body": "Dankzij Eco-One™ is het materiaal biologisch afbreekbaar"
+        },
+        "breakdown": {
+          "title": "Biogas, CO2 en humus",
+          "body": "Binnen 3,5 jaar verandert 93% van het materiaal hierin (onafhankelijke test)"
+        }
+      }
     },
     "metrics": {
       "additive": {
         "value": "~1%",
-        "label": "additieve inhoud"
+        "label": "Eco-One™ in het materiaal"
       },
       "measured": {
-        "value": "~3,5 jaar",
-        "label": "tot 93% biologische afbraak"
+        "value": "93%",
+        "label": "gemeten binnen 3,5 jaar"
       },
       "projected": {
         "value": "tot 99%",
-        "label": "binnen ~5 jaar"
+        "label": "verwacht binnen 5 jaar"
+      },
+      "cardboard": {
+        "value": "100%",
+        "label": "dozen van gerecycled karton"
       }
     },
     "problem": {
-      "title": "Waarom gewoon plastic een probleem is",
-      "body": "Gewone plastic producten zijn ontworpen om lang mee te gaan. Zonder een additief voor biologische afbraak kan een plastic product dat naar een stortplaats wordt gestuurd, daar <bold>300 tot 1000 jaar</bold> blijven liggen; Schuimklompen in Crocs-stijl zijn een bekend voorbeeld van plastic dat <bold>niet biologisch afbreekbaar</bold> is. Onze producten zijn gemaakt van hetzelfde soort duurzaam plastic (EVA) - maar met één beslissend verschil: het Eco-One™ additief.",
-      "chartAlt": "Producten zonder Eco-One™ vergeleken met ëkcos-producten die het additief bevatten",
-      "chartCaption": "Producten zonder Eco-One™ vergeleken met ëkcos-producten die het additief bevatten.",
+      "title": "Waarom een gewone urinoirmat eeuwenlang blijft liggen",
+      "body": "EVA is een slijtvast materiaal. Zonder additief voor biologische afbraak kan een gebruikte urinoirmat naar schatting <bold>300 tot 1.000</bold> jaar op de stortplaats blijven liggen. Schuimklompen en teenslippers worden van hetzelfde materiaal gemaakt, en ook die breken biologisch niet af.",
+      "chartAlt": "Geschatte afbraaktijd op de stortplaats",
+      "chartCaption": "Geschatte afbraaktijd op de stortplaats.",
       "chart": {
-        "ariaLabel": "Vergelijking van de jaren voor afbraak op de stortplaats",
+        "ariaLabel": "Geschatte afbraaktijd op de stortplaats",
         "withoutLabel": "Producten zonder Eco-One™",
         "withLabel": "ëkcos met Eco-One™",
-        "withoutValue": "300–1.000 jaar",
-        "withValue": "3,5–5 jaar",
+        "withoutValue": "300-1.000 jaar",
+        "withValue": "3,5-5 jaar",
         "withoutDetail": "Zonder een additief voor biologische afbraak kan conventioneel plastic eeuwenlang op stortplaatsen blijven liggen.",
         "withDetail": "Met het Eco-One™ additief blijkt uit onafhankelijke tests dat de biologische afbraak ongeveer 93% bedraagt ​​in ongeveer 3,5 jaar, en tot 99% binnen vijf jaar.",
         "axisLabel": "Jaren om af te breken (stortplaats)",
-        "caption": "Producten zonder Eco-One™ vergeleken met ëkcos-producten die het additief bevatten.",
+        "caption": "Geschatte afbraaktijd op de stortplaats.",
         "scaleLabel": "Grafiekschaal",
-        "scaleFull": "0–1.000 jaar",
-        "scaleZoom": "0–10 jaar",
-        "clippedNote": "vervolgt →"
+        "scaleFull": "0-1.000 jaar",
+        "scaleZoom": "0-10 jaar",
+        "clippedNote": "vervolgt ->"
       }
     },
     "solution": {
-      "title": "Onze oplossing: het Eco-One™ additief",
-      "body1": "Tijdens de productie verwerken we ongeveer <bold>1% van Eco-One™</bold>, een organisch additief dat op dezelfde manier wordt gedoseerd als een kleurstof. Het heeft geen invloed op de sterkte, het uiterlijk of de prestaties van het product.",
-      "body2": "Op een biologisch actieve stortplaats breken natuurlijk voorkomende micro-organismen het behandelde plastic af door middel van enzymatische activiteit, waardoor het wordt omgezet in biogas (<bold>methaan</bold>, dat moderne stortplaatsen opvangen voor energieterugwinning), koolstofdioxide en humus.",
-      "body3": "Omdat het product uiteindelijk wordt afgebroken tot humus, brengt het organisch materiaal terug naar de stortplaats en helpt het de biochemische processen te versnellen die daar al aan het werk zijn. Het product draagt ​​dus niet alleen <bold>bij tijdens zijn levensduur, maar ook daarna</bold>."
+      "title": "Onze oplossing: het additief Eco-One™",
+      "body1": "Tijdens de productie voegen we <bold>ongeveer 1% Eco-One™</bold> aan het materiaal toe. Dat heeft geen invloed op de sterkte, het uiterlijk of de prestaties van het product.",
+      "body2": "Op een biologisch actieve stortplaats maakt Eco-One™ het mogelijk dat het materiaal afbreekt tot biogas, koolstofdioxide en humus. Moderne stortplaatsen vangen het biogas op en benutten het voor energie.",
+      "calloutTitle": "Nuttig tijdens gebruik - en ook daarna",
+      "calloutBody": "In plaats van eeuwenlang op de stortplaats te liggen, breekt het materiaal af tot biogas, dat moderne stortplaatsen benutten voor energie, en tot humus. Humus maakt de bodem op zijn beurt rijker."
     },
     "testing": {
-      "title": "Onafhankelijk testen",
-      "body": "Het product is door een onafhankelijk laboratorium getest volgens de internationale normen <bold>ASTM D5511 en ISO 15985</bold>, waarbij hetzelfde product met en zonder het Eco-One™ additief werd vergeleken. Met Eco-One™ werd binnen ongeveer 3,5 jaar een biologische afbraak van <bold>93,31% bereikt, en binnen vijf jaar</bold> zelfs 99%; zonder Eco-One™ vertoonde het product geen meetbare biologische afbraak.",
+      "title": "Onafhankelijke test: 93% tegenover 0% In een onafhankelijke test volgens ASTM D5511 en ISO 15985 aan het Instituto Politécnico Nacional in Mexico-Stad bereikte EVA van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, terwijl hetzelfde materiaal zonder het additief 0% haalde",
+      "body": "Binnen 5 jaar wordt tot 99% biologische afbraak verwacht.",
       "barChart": {
-        "ariaLabel": "Biologische afbraak na ongeveer 3,5 jaar met en zonder Eco-One™",
+        "ariaLabel": "Onafhankelijke test: 93% tegenover 0% In een onafhankelijke test volgens ASTM D5511 en ISO 15985 aan het Instituto Politécnico Nacional in Mexico-Stad bereikte EVA van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, terwijl hetzelfde materiaal zonder het additief 0% haalde",
         "yAxis": "Biologische afbraak (%)",
         "withLabel": "ëkcos met Eco-One™",
         "withoutLabel": "Producten zonder Eco-One™",
         "withDetail": "93,31% biologische afbraak gemeten in een onafhankelijke ASTM D5511 / ISO 15985 laboratoriumtest na ongeveer 3,5 jaar.",
         "withoutDetail": "Hetzelfde product zonder Eco-One™ vertoonde gedurende dezelfde testperiode geen meetbare biologische afbraak.",
-        "subtitle": "Hetzelfde product · dezelfde laboratoriumtest (ASTM D5511 / ISO 15985) · ~3,5 jaar"
+        "subtitle": "Hetzelfde materiaal, dezelfde laboratoriumtest, 3,5 jaar"
       },
       "timelineChart": {
-        "ariaLabel": "Biologische afbraak gedurende vijf jaar met en zonder Eco-One™",
+        "ariaLabel": "Onafhankelijke test: 93% tegenover 0% In een onafhankelijke test volgens ASTM D5511 en ISO 15985 aan het Instituto Politécnico Nacional in Mexico-Stad bereikte EVA van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, terwijl hetzelfde materiaal zonder het additief 0% haalde",
         "yAxis": "Biologische afbraak (%)",
         "xAxis": "Jaren",
         "withLabel": "ëkcos met Eco-One™",
@@ -281,16 +308,16 @@
         "measured": "gemeten",
         "projected": "geprojecteerd",
         "yearsUnit": "jaar",
-        "projectedNote": "Geprojecteerd op basis van de gemeten trend",
-        "caption": "Biologische afbraak met en zonder het Eco-One™ additief. Waarden na 3,5 jaar worden geprojecteerd op basis van de gemeten trend."
+        "projectedNote": "Na 3,5 jaar gaat het om verwachte waarden",
+        "caption": "Na 3,5 jaar gaat het om verwachte waarden."
       }
     },
     "closing": {
-      "title": "ëkcos producten met Eco-One™",
-      "body": "Onze sanitaire producten worden vervaardigd met het Eco-One™ additief. Uit een onafhankelijke laboratoriumtest blijkt dat ëkcos EVA met Eco-One™ binnen 3,5 jaar een biologische afbraak van 93% bereikt, en naar verwachting binnen 5 jaar zelfs 99% op stortplaatsen – waarbij de prestaties identiek zijn aan die van producten zonder het additief.",
+      "title": "ëkcos met Eco-One™",
+      "body": "Onze urinoirmatten, toiletclips en luchtverfrissers bevatten het additief Eco-One™: dezelfde prestaties in gebruik als producten zonder dit additief, en een veel beter levenseinde.",
       "shopCta": "Winkel"
     },
-    "footnote": "Gegevensbron: onafhankelijke biologische afbreekbaarheidstest volgens ASTM D5511-02 en ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) - ëkcos product met 1% Eco-One™ additief: 93,31% biologische afbraak gedurende 1.288 dagen (≈3,5 jaar); hetzelfde product zonder het additief: 0%. De biologische afbraak na de testperiode (tot 99% binnen ~5 jaar) wordt op basis van de gemeten trend geprojecteerd. Persistentiecijfers voor conventionele kunststoffen (≈300–1.000 jaar) zijn veel geciteerde schattingen van de industrie. Het Eco-One™-additief wordt vervaardigd en gecertificeerd door EcoLogic, LLC."
+    "footnote": "Gegevensbron: onafhankelijke test naar biologische afbraak volgens ASTM D5511-02 en ISO 15985:2014, Instituto Politécnico Nacional, Mexico-Stad. EVA van ëkcos met ongeveer 1% Eco-One™: 93,31% biologische afbraak in 1.288 dagen (ongeveer 3,5 jaar); hetzelfde materiaal zonder het additief: 0%. Tot 99% binnen 5 jaar wordt verwacht op basis van de gemeten trend. Biologische afbraak hangt af van de omstandigheden op de stortplaats. 300 tot 1.000 jaar voor EVA zonder additief is een veelgenoemde schatting uit de branche. Eco-One™ is een handelsmerk van EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {

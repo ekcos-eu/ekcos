@@ -214,65 +214,92 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "Eco-One™ pentru biodegradarea gropii de gunoi",
-      "tagline": "Același produs. Aceeași performanță. Fabricat cu EVA reciclat și Eco-One™.",
-      "body": "Sitele noastre pentru pisoar și odorizantele noastre sunt fabricate cu EVA reciclat. Materialul în sine poate fi reciclat, dar o sită de pisoar folosită nu, deoarece este contaminată biologic. Ajunge în depozitele de deșeuri sau la incinerare și de aceea adăugăm aditivul Eco-One™ în toate produsele noastre. Într-un test independent conform ASTM D5511 și ISO 15985, efectuat la Instituto Politécnico Nacional din Ciudad de México, EVA-ul ëkcos cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, în timp ce același material fără aditiv a înregistrat 0%. Se estimează o biodegradare de până la 99% în 5 ani. Cutiile noastre sunt fabricate din carton 100% reciclat."
+      "title": "Ani, nu secole.",
+      "tagline": "Aceeași performanță în timpul utilizării. Biodegradabil în depozitele de deșeuri cu Eco-One™.",
+      "body": "Sitele noastre pentru pisoar și odorizantele noastre sunt fabricate cu EVA reciclat. Materialul în sine poate fi reciclat, dar o sită de pisoar folosită nu, deoarece este contaminată biologic. Ajunge în depozitele de deșeuri sau la incinerare și de aceea adăugăm aditivul Eco-One™ în toate produsele noastre."
+    },
+    "afterUse": {
+      "heading": "Ce se întâmplă după utilizare",
+      "title": "Biodegradabil în depozitele de deșeuri în proporție de 93% în 3,5 ani",
+      "steps": {
+        "use": {
+          "title": "În timpul utilizării",
+          "body": "La fel de eficiente ca produsele fără Eco-One™"
+        },
+        "after": {
+          "title": "După utilizare",
+          "body": "Contaminate biologic, deci nu pot fi reciclate"
+        },
+        "landfill": {
+          "title": "În depozitul de deșeuri",
+          "body": "Cu Eco-One™ materialul este biodegradabil"
+        },
+        "breakdown": {
+          "title": "Biogaz, CO2 și humus",
+          "body": "În 3,5 ani, 93% din material se transformă în acestea (test independent)"
+        }
+      }
     },
     "metrics": {
       "additive": {
         "value": "~1%",
-        "label": "continut aditiv"
+        "label": "Eco-One™ în material"
       },
       "measured": {
-        "value": "~3,5 ani",
-        "label": "la 93% biodegradare"
+        "value": "93%",
+        "label": "măsurat în 3,5 ani"
       },
       "projected": {
-        "value": "pana la 99%",
-        "label": "în ~5 ani"
+        "value": "până la 99%",
+        "label": "estimat în 5 ani"
+      },
+      "cardboard": {
+        "value": "100%",
+        "label": "cutii din carton reciclat"
       }
     },
     "problem": {
-      "title": "De ce plasticul obișnuit este o problemă",
-      "body": "Produsele obișnuite din plastic sunt concepute pentru a dura. Fără un aditiv de biodegradare, un produs din plastic trimis la groapa de gunoi poate rămâne acolo timp de <bold>300 până la 1.000 de ani</bold>; Saboții din spumă „în stil Crocs” sunt un exemplu familiar de plastic care <bold>nu este biodegradabil</bold>. Produsele noastre sunt fabricate din același tip de plastic durabil (EVA), dar cu o diferență decisivă: aditivul Eco-One™.",
-      "chartAlt": "Produse fără Eco-One™ în comparație cu produsele ëkcos care conțin aditiv",
-      "chartCaption": "Produse fără Eco-One™ în comparație cu produsele ëkcos care conțin aditiv.",
+      "title": "De ce o sită obișnuită rămâne secole întregi",
+      "body": "EVA este un material rezistent. Fără un aditiv de biodegradare, o sită folosită poate rămâne într-un depozit de deșeuri între 300 și 1.000 de ani, conform estimărilor. Saboții din spumă și șlapii sunt fabricați din același material și nici ei nu se biodegradează.",
+      "chartAlt": "Timp estimat de descompunere în depozitele de deșeuri",
+      "chartCaption": "Timp estimat de descompunere în depozitele de deșeuri.",
       "chart": {
-        "ariaLabel": "Comparație între anii de defalcat în groapa de gunoi",
+        "ariaLabel": "Timp estimat de descompunere în depozitele de deșeuri",
         "withoutLabel": "Produse fără Eco-One™",
         "withLabel": "ëkcos cu Eco-One™",
-        "withoutValue": "300–1.000 de ani",
-        "withValue": "3,5–5 ani",
+        "withoutValue": "300-1.000 de ani",
+        "withValue": "3,5-5 ani",
         "withoutDetail": "Fără un aditiv de biodegradare, plasticul convențional poate rămâne la groapa de gunoi timp de secole.",
         "withDetail": "Cu aditivul Eco-One™, testele independente arată o biodegradare de ~93% în aproximativ 3,5 ani și până la 99% în cinci ani.",
         "axisLabel": "Ani până la distrugere (depozit)",
-        "caption": "Produse fără Eco-One™ în comparație cu produsele ëkcos care conțin aditiv.",
+        "caption": "Timp estimat de descompunere în depozitele de deșeuri.",
         "scaleLabel": "Scara graficului",
         "scaleFull": "0-1.000 de ani",
         "scaleZoom": "0-10 ani",
-        "clippedNote": "continuă →"
+        "clippedNote": "continuă ->"
       }
     },
     "solution": {
-      "title": "Soluția noastră: Aditivul Eco-One™",
-      "body1": "În timpul producției incorporăm aproximativ <bold>1% din Eco-One™</bold>, un aditiv organic dozat în același mod ca un colorant. Nu afectează rezistența, aspectul sau performanța produsului.",
-      "body2": "Într-o groapă de gunoi activă din punct de vedere biologic, microorganismele naturale descompun plasticul tratat prin activitate enzimatică, transformându-l în biogaz (<bold>metan</bold>, pe care depozitele moderne de deșeuri îl captează pentru recuperarea energiei), dioxid de carbon și humus.",
-      "body3": "Deoarece produsul se descompune în ultimă instanță în humus, returnează materia organică la groapa de gunoi și ajută la accelerarea proceselor biochimice care lucrează deja acolo. Prin urmare, produsul contribuie <bold>nu numai pe durata de viață, ci și după acesta</bold>."
+      "title": "Soluția noastră: aditivul Eco-One™",
+      "body1": "În timpul fabricației adăugăm în material <bold>aproximativ 1% Eco-One™</bold>. Acesta nu afectează rezistența, aspectul sau performanța produsului.",
+      "body2": "Într-un depozit de deșeuri activ biologic, Eco-One™ permite descompunerea materialului în biogaz, dioxid de carbon și humus. Depozitele de deșeuri moderne captează biogazul și îl folosesc pentru producerea de energie.",
+      "calloutTitle": "Util cât este folosit - și după aceea",
+      "calloutBody": "În loc să stea secole întregi într-un depozit de deșeuri, materialul se descompune în biogaz, pe care depozitele moderne îl folosesc pentru producerea de energie, și în humus. Humusul, la rândul său, îmbogățește solul."
     },
     "testing": {
-      "title": "Testare independentă",
-      "body": "Produsul a fost testat de un laborator independent la standardele internaționale <bold>ASTM D5511 și ISO 15985</bold>, comparând același produs cu și fără aditivul Eco-One™. Cu Eco-One™, a atins <bold>93,31% biodegradare în aproximativ 3,5 ani și până la 99% în cinci ani</bold>; fără Eco-One™, produsul nu a prezentat o biodegradare măsurabilă.",
+      "title": "Test independent: 93% față de 0%",
+      "body": "Într-un test independent conform <bold>ASTM D5511 și ISO 15985</bold>, efectuat la Instituto Politécnico Nacional din Ciudad de México, EVA-ul ëkcos cu Eco-One™ a atins o biodegradare de <bold>93% în 3,5 ani, în timp ce același material fără aditiv a în</bold>registrat 0%. Se estimează o biodegradare de până la 99% în 5 ani.",
       "barChart": {
-        "ariaLabel": "Biodegradare la aproximativ 3,5 ani cu și fără Eco-One™",
+        "ariaLabel": "Test independent: 93% față de 0%",
         "yAxis": "Biodegradare (%)",
         "withLabel": "ëkcos cu Eco-One™",
         "withoutLabel": "Produse fără Eco-One™",
         "withDetail": "93,31% biodegradare măsurată într-un test de laborator independent ASTM D5511 / ISO 15985 după aproximativ 3,5 ani.",
         "withoutDetail": "Același produs fără Eco-One™ nu a prezentat nicio biodegradare măsurabilă în aceeași perioadă de testare.",
-        "subtitle": "Același produs · același test de laborator (ASTM D5511 / ISO 15985) · ~3,5 ani"
+        "subtitle": "Același material, același test de laborator, 3,5 ani"
       },
       "timelineChart": {
-        "ariaLabel": "Biodegradare timp de cinci ani cu și fără Eco-One™",
+        "ariaLabel": "Test independent: 93% față de 0%",
         "yAxis": "Biodegradare (%)",
         "xAxis": "ani",
         "withLabel": "ëkcos cu Eco-One™",
@@ -281,16 +308,16 @@
         "measured": "măsurat",
         "projected": "proiectat",
         "yearsUnit": "ani",
-        "projectedNote": "Proiectat din tendința măsurată",
-        "caption": "Biodegradare cu și fără aditivul Eco-One™. Valorile de peste 3,5 ani sunt proiectate din tendința măsurată."
+        "projectedNote": "Valorile de după 3,5 ani sunt estimate",
+        "caption": "Valorile de după 3,5 ani sunt estimate."
       }
     },
     "closing": {
-      "title": "produse ëkcos cu Eco-One™",
-      "body": "Produsele noastre pentru toaletă sunt fabricate cu aditivul Eco-One™. Într-un test de laborator independent, ëkcos EVA cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar până la 99% este proiectat în 5 ani în condiții de groapă de gunoi - cu performanțe identice cu produsele fără aditiv.",
+      "title": "ëkcos cu Eco-One™",
+      "body": "Sitele noastre pentru pisoar, odorizantele WC cu clips și odorizantele de cameră conțin aditivul Eco-One™: aceeași performanță în utilizare ca produsele fără acesta și un sfârșit de viață mult mai bun. Mai multe",
       "shopCta": "Magazin"
     },
-    "footnote": "Sursa datelor: test independent de biodegradare conform ASTM D5511-02 și ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City) - produs ëkcos cu 1% aditiv Eco-One™: 93,31% biodegradare în 1.288 de zile (≈35 ani); același produs fără aditiv: 0%. Biodegradarea dincolo de perioada de testare (până la 99% în ~5 ani) este proiectată din tendința măsurată. Cifrele de persistență pentru materialele plastice convenționale (≈300–1.000 de ani) sunt estimări ale industriei citate pe scară largă. Aditivul Eco-One™ este fabricat și certificat de EcoLogic, LLC."
+    "footnote": "Sursa datelor: test independent de biodegradare conform ASTM D5511-02 și ISO 15985:2014, Instituto Politécnico Nacional, Ciudad de México. EVA ëkcos cu aproximativ 1% Eco-One™: biodegradare de 93,31% în 1.288 de zile (aproximativ 3,5 ani); același material fără aditiv: 0%. Biodegradarea de până la 99% în 5 ani este estimată pe baza tendinței măsurate. Biodegradarea depinde de condițiile din depozitul de deșeuri. Intervalul de 300-1.000 de ani pentru EVA fără aditiv este o estimare larg citată în industrie. Eco-One™ este o marcă comercială a EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {

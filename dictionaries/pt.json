@@ -214,65 +214,92 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "Eco-One™ para biodegradação em aterros sanitários",
-      "tagline": "Mesmo produto. Mesmo desempenho. Feito com EVA reciclado e Eco-One™.",
-      "body": "Os nossos tapetes para urinol e ambientadores são fabricados com EVA reciclado. O material em si pode ser reciclado, mas um tapete para urinol usado não, porque está biologicamente contaminado. Acaba num aterro sanitário ou na incineração, e é por isso que adicionamos o aditivo Eco-One™ a todos os nossos produtos. Num ensaio independente segundo as normas ASTM D5511 e ISO 15985, no Instituto Politécnico Nacional, na Cidade do México, o EVA ëkcos com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, enquanto o mesmo material sem o aditivo registou 0%. Prevê-se até 99% de biodegradação em 5 anos. As nossas caixas são feitas de cartão 100% reciclado."
+      "title": "Anos, não séculos.",
+      "tagline": "O mesmo desempenho em uso. Biodegradável em aterro com Eco-One™.",
+      "body": "Os nossos tapetes para urinol e ambientadores são fabricados com EVA reciclado. O material em si pode ser reciclado, mas um tapete para urinol usado não, porque está biologicamente contaminado. Acaba num aterro sanitário ou na incineração, e é por isso que adicionamos o aditivo Eco-One™ a todos os nossos produtos."
+    },
+    "afterUse": {
+      "heading": "O que acontece após o uso",
+      "title": "Biodegradável em aterro: 93% em 3,5 anos",
+      "steps": {
+        "use": {
+          "title": "Durante o uso",
+          "body": "Tão eficazes como os produtos sem Eco-One™"
+        },
+        "after": {
+          "title": "Após o uso",
+          "body": "Contaminados biologicamente, por isso não podem ser reciclados"
+        },
+        "landfill": {
+          "title": "No aterro",
+          "body": "Com Eco-One™ o material é biodegradável"
+        },
+        "breakdown": {
+          "title": "Biogás, CO2 e húmus",
+          "body": "Em 3,5 anos, 93% do material transforma-se nisto (ensaio independente)"
+        }
+      }
     },
     "metrics": {
       "additive": {
         "value": "~1%",
-        "label": "conteúdo aditivo"
+        "label": "Eco-One™ no material"
       },
       "measured": {
-        "value": "~3,5 anos",
-        "label": "até 93% de biodegradação"
+        "value": "93%",
+        "label": "medido em 3,5 anos"
       },
       "projected": {
         "value": "até 99%",
-        "label": "dentro de aproximadamente 5 anos"
+        "label": "previsto em 5 anos"
+      },
+      "cardboard": {
+        "value": "100%",
+        "label": "caixas de cartão reciclado"
       }
     },
     "problem": {
-      "title": "Por que o plástico comum é um problema",
-      "body": "Os produtos plásticos comuns são projetados para durar. Sem um aditivo de biodegradação, um produto plástico enviado para aterro pode permanecer lá por <bold>300 a 1.000 anos</bold>; tamancos de espuma “estilo Crocs” são um exemplo familiar de plástico que <bold>não é biodegradável</bold>. Nossos produtos são feitos do mesmo tipo de plástico durável (EVA) - mas com uma diferença decisiva: o aditivo Eco-One™.",
-      "chartAlt": "Produtos sem Eco-One™ em comparação com produtos ëkcos contendo o aditivo",
-      "chartCaption": "Produtos sem Eco-One™ em comparação com produtos ëkcos contendo o aditivo.",
+      "title": "Porque é que um tapete comum fica séculos no aterro",
+      "body": "O EVA é um material durável. Sem um aditivo de biodegradação, um tapete usado pode permanecer em aterro durante um período estimado de <bold>300 a 1 000</bold> anos. As socas de espuma e os chinelos de dedo são feitos do mesmo material e também não se biodegradam.",
+      "chartAlt": "Tempo estimado de decomposição em aterro",
+      "chartCaption": "Tempo estimado de decomposição em aterro.",
       "chart": {
-        "ariaLabel": "Comparação de anos para decomposição em aterro",
+        "ariaLabel": "Tempo estimado de decomposição em aterro",
         "withoutLabel": "Produtos sem Eco-One™",
         "withLabel": "ëkcos com Eco-One™",
-        "withoutValue": "300–1.000 anos",
-        "withValue": "3,5–5 anos",
+        "withoutValue": "300-1.000 anos",
+        "withValue": "3,5-5 anos",
         "withoutDetail": "Sem um aditivo de biodegradação, o plástico convencional pode permanecer em aterros durante séculos.",
         "withDetail": "Com o aditivo Eco-One™, testes independentes mostram ~93% de biodegradação em cerca de 3,5 anos e até 99% em cinco anos.",
         "axisLabel": "Anos para quebrar (aterro)",
-        "caption": "Produtos sem Eco-One™ em comparação com produtos ëkcos contendo o aditivo.",
+        "caption": "Tempo estimado de decomposição em aterro.",
         "scaleLabel": "Escala do gráfico",
-        "scaleFull": "0–1.000 anos",
-        "scaleZoom": "0–10 anos",
-        "clippedNote": "continua →"
+        "scaleFull": "0-1.000 anos",
+        "scaleZoom": "0-10 anos",
+        "clippedNote": "continua ->"
       }
     },
     "solution": {
-      "title": "Nossa solução: O aditivo Eco-One™",
-      "body1": "Durante a fabricação incorporamos aproximadamente <bold>1% de Eco-One™</bold>, um aditivo orgânico dosado da mesma forma que um corante. Não afeta a resistência, aparência ou desempenho do produto.",
-      "body2": "Num aterro biologicamente ativo, os microrganismos naturais decompõem o plástico tratado através de atividade enzimática, convertendo-o em biogás (<bold>metano</bold>, que os aterros modernos capturam para recuperação de energia), dióxido de carbono e húmus.",
-      "body3": "Como o produto acaba se decompondo em húmus, ele devolve a matéria orgânica ao aterro e ajuda a acelerar os processos bioquímicos que já estão em operação lá. O produto, portanto, contribui <bold>não apenas durante sua vida útil, mas também após ela</bold>."
+      "title": "A nossa solução: o aditivo Eco-One™",
+      "body1": "Durante o fabrico, adicionamos cerca de 1% de Eco-One™ ao material. Não afeta a resistência, o aspeto nem o desempenho do produto.",
+      "body2": "Num aterro biologicamente ativo, o Eco-One™ permite que o material se decomponha em biogás, dióxido de carbono e húmus. Os aterros modernos captam o biogás e aproveitam-no para produzir energia.",
+      "calloutTitle": "Útil durante o uso - e depois dele",
+      "calloutBody": "Em vez de ficar séculos num aterro, o material decompõe-se em biogás, que os aterros modernos aproveitam para produzir energia, e em húmus. O húmus, por sua vez, enriquece o solo."
     },
     "testing": {
-      "title": "Teste independente",
-      "body": "O produto foi testado por laboratório independente de acordo com as normas internacionais <bold>ASTM D5511 e ISO 15985</bold>, comparando o mesmo produto com e sem o aditivo Eco-One™. Com Eco-One™, atingiu <bold>93,31% de biodegradação em aproximadamente 3,5 anos e até 99% em cinco anos</bold>; sem Eco-One™, o produto não apresentou biodegradação mensurável.",
+      "title": "Ensaio independente: 93% contra 0%",
+      "body": "Num ensaio independente segundo as normas <bold>ASTM D5511 e ISO 15985</bold>, no Instituto Politécnico Nacional, na Cidade do México, o EVA ëkcos com Eco-One™ atingiu <bold>93% de biodegradação em 3,5 anos, enquanto o mesmo material sem o aditivo reg</bold>istou 0%. Prevê-se até 99% de biodegradação em 5 anos.",
       "barChart": {
-        "ariaLabel": "Biodegradação em aproximadamente 3,5 anos com e sem Eco-One™",
+        "ariaLabel": "Ensaio independente: 93% contra 0%",
         "yAxis": "Biodegradação (%)",
         "withLabel": "ëkcos com Eco-One™",
         "withoutLabel": "Produtos sem Eco-One™",
         "withDetail": "93,31% de biodegradação medida em um teste de laboratório independente ASTM D5511/ISO 15985 após cerca de 3,5 anos.",
         "withoutDetail": "O mesmo produto sem Eco-One™ não apresentou biodegradação mensurável durante o mesmo período de teste.",
-        "subtitle": "Mesmo produto · mesmo teste de laboratório (ASTM D5511/ISO 15985) · ~3,5 anos"
+        "subtitle": "Mesmo material, mesmo ensaio laboratorial, 3,5 anos"
       },
       "timelineChart": {
-        "ariaLabel": "Biodegradação ao longo de cinco anos com e sem Eco-One™",
+        "ariaLabel": "Ensaio independente: 93% contra 0%",
         "yAxis": "Biodegradação (%)",
         "xAxis": "Anos",
         "withLabel": "ëkcos com Eco-One™",
@@ -281,16 +308,16 @@
         "measured": "medida",
         "projected": "projetada",
         "yearsUnit": "anos",
-        "projectedNote": "Projetado a partir da tendência medida",
-        "caption": "Biodegradação com e sem o aditivo Eco-One™. Valores além de 3,5 anos são projetados a partir da tendência medida."
+        "projectedNote": "Os valores posteriores a 3,5 anos são previsões",
+        "caption": "Os valores posteriores a 3,5 anos são previsões."
       }
     },
     "closing": {
-      "title": "Produtos ëkcos com Eco-One™",
-      "body": "Nossos produtos para banheiro são fabricados com o aditivo Eco-One™. Em um teste de laboratório independente, o ëkcos EVA com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e até 99% é projetado em 5 anos em condições de aterro - com desempenho idêntico aos produtos sem o aditivo.",
+      "title": "ëkcos com Eco-One™",
+      "body": "Os nossos tapetes para urinol, clips ambientadores para sanita e ambientadores contêm o aditivo Eco-One™: o mesmo desempenho em uso que os produtos sem ele e um fim de vida muito melhor.",
       "shopCta": "Comprar"
     },
-    "footnote": "Fonte de dados: teste de biodegradação independente de acordo com ASTM D5511-02 e ISO 15985:2014 (Instituto Politécnico Nacional, Cidade do México) - Produto ëkcos com 1% de aditivo Eco-One™: 93,31% de biodegradação ao longo de 1.288 dias (≈3,5 anos); o mesmo produto sem o aditivo: 0%. A biodegradação além do período de teste (até 99% dentro de aproximadamente 5 anos) é projetada a partir da tendência medida. Os números de persistência para plásticos convencionais (≈300–1.000 anos) são estimativas da indústria amplamente citadas. O aditivo Eco-One™ é fabricado e certificado pela EcoLogic, LLC."
+    "footnote": "Fonte dos dados: ensaio independente de biodegradação segundo as normas ASTM D5511-02 e ISO 15985:2014, Instituto Politécnico Nacional, Cidade do México. EVA ëkcos com cerca de 1% de Eco-One™: 93,31% de biodegradação em 1 288 dias (cerca de 3,5 anos); o mesmo material sem o aditivo: 0%. Prevê-se até 99% em 5 anos, com base na tendência medida. A biodegradação depende das condições do aterro. O intervalo de 300 a 1 000 anos para o EVA sem aditivo é uma estimativa amplamente citada no setor. Eco-One™ é uma marca comercial da EcoLogic, LLC."
   },
   "customBranding": {
     "hero": {

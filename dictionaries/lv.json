@@ -214,31 +214,57 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "Eco-One™ poligonu bioloģiskajai noārdīšanai",
-      "tagline": "Tas pats produkts. Tas pats sniegums. Izgatavots no pārstrādātas EVA un Eco-One™.",
-      "body": "Mūsu pisuāru ieliktņi un atsvaidzinātāji ir izgatavoti, izmantojot pārstrādātu EVA. Pašu materiālu var pārstrādāt, bet lietotu pisuāra ieliktni nevar, jo tas ir bioloģiski piesārņots. Tas nonāk atkritumu poligonā vai tiek sadedzināts, tāpēc visiem mūsu produktiem pievienojam piedevu Eco-One™. Neatkarīgā testā saskaņā ar ASTM D5511 un ISO 15985, kas veikts Instituto Politécnico Nacional Mehiko, ëkcos EVA ar Eco-One™ 3,5 gadu laikā sasniedza 93 % bioloģisko noārdīšanos, bet tas pats materiāls bez piedevas uzrādīja 0 %. Tiek prognozēts, ka 5 gadu laikā bioloģiskā noārdīšanās sasniegs līdz 99 %. Mūsu kastes ir izgatavotas no 100 % pārstrādāta kartona."
+      "title": "Gadi, nevis gadsimti.",
+      "tagline": "Lietošanā tikpat efektīvi. Ar Eco-One™ bioloģiski noārdāmi atkritumu poligonā.",
+      "body": "Mūsu pisuāru ieliktņi un atsvaidzinātāji ir izgatavoti, izmantojot pārstrādātu EVA. Pašu materiālu var pārstrādāt, bet lietotu pisuāra ieliktni nevar, jo tas ir bioloģiski piesārņots. Tas nonāk atkritumu poligonā vai tiek sadedzināts, tāpēc visiem mūsu produktiem pievienojam piedevu Eco-One™."
+    },
+    "afterUse": {
+      "heading": "Kas notiek pēc lietošanas",
+      "title": "Bioloģiski noārdāmi atkritumu poligonā: 93 % 3,5 gadu laikā",
+      "steps": {
+        "use": {
+          "title": "Lietošanas laikā",
+          "body": "Tikpat efektīvi kā produkti bez Eco-One™"
+        },
+        "after": {
+          "title": "Pēc lietošanas",
+          "body": "Bioloģiski piesārņoti, tāpēc nav pārstrādājami"
+        },
+        "landfill": {
+          "title": "Poligonā",
+          "body": "Pateicoties Eco-One™, materiāls ir bioloģiski noārdāms"
+        },
+        "breakdown": {
+          "title": "Biogāze, CO2 un humuss",
+          "body": "3,5 gadu laikā 93 % materiāla pārvēršas par tiem (neatkarīgs tests)"
+        }
+      }
     },
     "metrics": {
       "additive": {
-        "value": "~1%",
-        "label": "piedevu saturs"
+        "value": "~1 %",
+        "label": "Eco-One™ materiālā"
       },
       "measured": {
-        "value": "~3,5 gadi",
-        "label": "līdz 93% bioloģiskās noārdīšanās"
+        "value": "93 %",
+        "label": "izmērīts 3,5 gadu laikā"
       },
       "projected": {
-        "value": "līdz 99%",
-        "label": "~5 gadu laikā"
+        "value": "līdz 99 %",
+        "label": "prognozēts 5 gadu laikā"
+      },
+      "cardboard": {
+        "value": "100 %",
+        "label": "kastes no pārstrādāta kartona"
       }
     },
     "problem": {
-      "title": "Kāpēc parastā plastmasa ir problēma",
-      "body": "Parastie plastmasas izstrādājumi ir izstrādāti tā, lai tie būtu izturīgi. Bez bioloģiskās noārdīšanās piedevas plastmasas izstrādājums, kas tiek nosūtīts uz poligonu, var palikt tur <bold>300 līdz 1000 gadus</bold>; putuplasta “Crocs stila” koka tupeles ir pazīstams plastmasas piemērs, kas <bold>nav bioloģiski noārdāms</bold>. Mūsu produkti ir izgatavoti no tāda paša veida izturīgas plastmasas (EVA), taču ar vienu būtisku atšķirību: Eco-One™ piedevu.",
-      "chartAlt": "Produkti bez Eco-One™, salīdzinot ar ëkcos produktiem, kas satur piedevu",
-      "chartCaption": "Produkti bez Eco-One™ salīdzinājumā ar ëkcos produktiem, kas satur piedevu.",
+      "title": "Kāpēc parasts ieliktnis saglabājas gadsimtiem",
+      "body": "EVA ir izturīgs materiāls. Bez piedevas, kas ļauj materiālam bioloģiski noārdīties, lietots ieliktnis atkritumu poligonā var saglabāties pēc aplēsēm <bold>300 līdz 1 000</bold> gadus. No tā paša materiāla tiek izgatavotas putu čības un iešļūcenes, kas arī bioloģiski nenoārdās.",
+      "chartAlt": "Aplēstais sadalīšanās laiks atkritumu poligonā",
+      "chartCaption": "Aplēstais sadalīšanās laiks atkritumu poligonā.",
       "chart": {
-        "ariaLabel": "Gadu salīdzinājums noārdīšanai poligonā",
+        "ariaLabel": "Aplēstais sadalīšanās laiks atkritumu poligonā",
         "withoutLabel": "Produkti bez Eco-One™",
         "withLabel": "ëkcos ar Eco-One™",
         "withoutValue": "300-1000 gadi",
@@ -246,33 +272,34 @@
         "withoutDetail": "Bez bioloģiskās noārdīšanās piedevas parastā plastmasa var palikt poligonā gadsimtiem ilgi.",
         "withDetail": "Izmantojot piedevu Eco-One™, neatkarīgas pārbaudes uzrāda ~ 93% bioloģisko noārdīšanos aptuveni 3,5 gadu laikā un līdz 99% piecu gadu laikā.",
         "axisLabel": "Gadi līdz sadalīšanai (poligons)",
-        "caption": "Produkti bez Eco-One™ salīdzinājumā ar ëkcos produktiem, kas satur piedevu.",
+        "caption": "Aplēstais sadalīšanās laiks atkritumu poligonā.",
         "scaleLabel": "Diagrammas mērogs",
-        "scaleFull": "0–1000 g",
+        "scaleFull": "0-1000 g",
         "scaleZoom": "0-10 gadi",
-        "clippedNote": "turpinās →"
+        "clippedNote": "turpinās ->"
       }
     },
     "solution": {
-      "title": "Mūsu risinājums: Eco-One™ piedeva",
-      "body1": "Ražošanas laikā mēs iekļaujam aptuveni <bold>1% Eco-One™</bold> - organisku piedevu, kas tiek dozēta tāpat kā krāsviela. Tas neietekmē produkta izturību, izskatu vai veiktspēju.",
-      "body2": "Bioloģiski aktīvā poligonā dabiski sastopami mikroorganismi fermentatīvās aktivitātes rezultātā noārda apstrādāto plastmasu, pārvēršot to biogāzē (<bold>metānā</bold>, ko mūsdienu poligonos uztver enerģijas reģenerācijai), oglekļa dioksīdā un humusā.",
-      "body3": "Tā kā produkts galu galā sadalās humusā, tas atdod organiskās vielas atkritumu poligonā un palīdz paātrināt tur jau notiekošos bioķīmiskos procesus. Tāpēc produkts <bold> sniedz ieguldījumu ne tikai tā kalpošanas laikā, bet arī pēc tā</bold>."
+      "title": "Mūsu risinājums: piedeva Eco-One™",
+      "body1": "Ražošanas laikā materiālam pievienojam aptuveni 1 % piedevas Eco-One™. Tā neietekmē produkta izturību, izskatu vai efektivitāti.",
+      "body2": "Bioloģiski aktīvā atkritumu poligonā piedeva Eco-One™ ļauj materiālam sadalīties biogāzē, oglekļa dioksīdā un humusā. Mūsdienīgi atkritumu poligoni biogāzi uztver un izmanto enerģijas ražošanai.",
+      "calloutTitle": "Noderīgs kalpošanas laikā - un arī pēc tam",
+      "calloutBody": "Tā vietā, lai gadsimtiem gulētu atkritumu poligonā, materiāls sadalās biogāzē, ko mūsdienīgi atkritumu poligoni izmanto enerģijas ražošanai, un humusā. Humuss savukārt bagātina augsni."
     },
     "testing": {
-      "title": "Neatkarīga pārbaude",
-      "body": "Produkts tika pārbaudīts neatkarīgā laboratorijā atbilstoši starptautiskajiem standartiem <bold>ASTM D5511 un ISO 15985</bold>, salīdzinot to pašu produktu ar un bez piedevas Eco-One™. Izmantojot Eco-One™, tas sasniedza <bold>93,31% bioloģisko noārdīšanos aptuveni 3,5 gadu laikā un līdz 99% piecu gadu laikā</bold>; bez Eco-One™ produkts neuzrādīja izmērāmu bioloģisko noārdīšanos.",
+      "title": "Neatkarīgs tests: 93 % pret 0 %",
+      "body": "Neatkarīgā testā saskaņā ar ASTM D5511 un ISO 15985, kas veikts Instituto Politécnico Nacional Mehiko, ëkcos EVA ar Eco-One™ 3,5 gadu laikā sasniedza 93 % bioloģisko noārdīšanos, bet tas pats materiāls bez piedevas uzrādīja 0 %. Tiek prognozēts, ka 5 gadu laikā bioloģiskā noārdīšanās sasniegs līdz 99 %.",
       "barChart": {
-        "ariaLabel": "Bioloģiskā noārdīšanās aptuveni 3,5 gadu laikā ar un bez Eco-One™",
+        "ariaLabel": "Neatkarīgs tests: 93 % pret 0 %",
         "yAxis": "Bioloģiskā noārdīšanās (%)",
         "withLabel": "ëkcos ar Eco-One™",
         "withoutLabel": "Produkti bez Eco-One™",
         "withDetail": "93,31% bioloģiskā noārdīšanās, kas mērīta neatkarīgā ASTM D5511 / ISO 15985 laboratorijas testā pēc aptuveni 3,5 gadiem.",
         "withoutDetail": "Tas pats produkts bez Eco-One™ neuzrādīja izmērāmu bionoārdīšanos tajā pašā testa periodā.",
-        "subtitle": "Tas pats produkts · tas pats laboratorijas tests (ASTM D5511 / ISO 15985) · ~3,5 gadi"
+        "subtitle": "Tas pats materiāls, tas pats laboratorijas tests, 3,5 gadi"
       },
       "timelineChart": {
-        "ariaLabel": "Bioloģiskā noārdīšanās piecu gadu laikā ar un bez Eco-One™",
+        "ariaLabel": "Neatkarīgs tests: 93 % pret 0 %",
         "yAxis": "Bioloģiskā noārdīšanās (%)",
         "xAxis": "Gadiem",
         "withLabel": "ëkcos ar Eco-One™",
@@ -281,16 +308,16 @@
         "measured": "izmērīts",
         "projected": "prognozēts",
         "yearsUnit": "g.g",
-        "projectedNote": "Projicēts no izmērītās tendences",
-        "caption": "Bioloģiskā noārdīšanās ar un bez piedevas Eco-One™. Vērtības, kas pārsniedz 3,5 gadus, tiek prognozētas no izmērītās tendences."
+        "projectedNote": "Vērtības pēc 3,5 gadiem ir prognozētas",
+        "caption": "Vērtības pēc 3,5 gadiem ir prognozētas."
       }
     },
     "closing": {
-      "title": "ëkcos produkti ar Eco-One™",
-      "body": "Mūsu tualetes produkti tiek ražoti ar Eco-One™ piedevu. Neatkarīgā laboratorijas pārbaudē ëkcos EVA ar Eco-One™ sasniedza 93% bioloģisko noārdīšanos 3,5 gadu laikā, un līdz 99% tiek prognozēts 5 gadu laikā poligona apstākļos - ar veiktspēju identiski produktiem bez piedevas.",
+      "title": "ëkcos ar Eco-One™",
+      "body": "Mūsu pisuāru ieliktņi, WC podu atsvaidzinātāji ar klipsi un gaisa atsvaidzinātāji satur piedevu Eco-One™: lietošanā tie ir tikpat efektīvi kā produkti bez tās, bet to dzīves cikla noslēgums ir daudz labāks. Vairāk",
       "shopCta": "Veikals"
     },
-    "footnote": "Datu avots: neatkarīgs bioloģiskās noārdīšanās tests atbilstoši ASTM D5511-02 un ISO 15985:2014 (Instituto Politécnico Nacional, Mehiko) - ëkcos produkts ar 1% Eco-One™ piedevu: 93,31% bioloģiskā noārdīšanās. 1,283 dienās (≈283 dienās); tas pats produkts bez piedevas: 0%. Bioloģiskā noārdīšanās pēc testa perioda (līdz 99% ~ 5 gadu laikā) tiek prognozēta no izmērītās tendences. Parastās plastmasas noturības rādītāji (≈300–1000 gadi) ir plaši citēti nozares aprēķini. Eco-One™ piedevu ražo un sertificē EcoLogic, LLC."
+    "footnote": "Datu avots: neatkarīgs bioloģiskās noārdīšanās tests saskaņā ar ASTM D5511-02 un ISO 15985:2014, Instituto Politécnico Nacional, Mehiko. ëkcos EVA ar aptuveni 1 % Eco-One™: 93,31 % bioloģiskā noārdīšanās 1 288 dienu laikā (aptuveni 3,5 gadi); tas pats materiāls bez piedevas: 0 %. Pamatojoties uz izmērīto tendenci, tiek prognozēts, ka 5 gadu laikā bioloģiskā noārdīšanās sasniegs līdz 99 %. Bioloģiskā noārdīšanās ir atkarīga no atkritumu poligona apstākļiem. EVA bez piedevas sadalīšanās laiks - 300 līdz 1 000 gadu - ir nozarē plaši citēta aplēse. Eco-One™ ir uzņēmuma EcoLogic, LLC preču zīme."
   },
   "customBranding": {
     "hero": {

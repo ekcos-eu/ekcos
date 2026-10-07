@@ -214,83 +214,110 @@
   },
   "ecoOne": {
     "hero": {
-      "title": "Eco-One™ a hulladéklerakókban történő biológiai lebontáshoz",
-      "tagline": "Ugyanaz a termék. Ugyanaz a teljesítmény. Újrahasznosított EVA-ból és Eco-One™-ből készült.",
-      "body": "Piszoárrácsaink és illatosítóink újrahasznosított EVA felhasználásával készülnek. Maga az anyag újrahasznosítható, a használt piszoárrács viszont nem, mert biológiailag szennyezett. Hulladéklerakóba vagy égetőműbe kerül, ezért minden termékünkhöz Eco-One™ adalékanyagot adunk. A mexikóvárosi Instituto Politécnico Nacional által az ASTM D5511 és az ISO 15985 szabvány szerint végzett független vizsgálatban az Eco-One™ adalékot tartalmazó ëkcos EVA 3,5 év alatt 93%-os biológiai lebomlást ért el, míg ugyanez az anyag adalék nélkül 0%-ot mutatott. Az előrejelzés szerint 5 év alatt akár 99%-os biológiai lebomlás várható. Dobozaink 100%-ban újrahasznosított kartonból készülnek."
+      "title": "Évek, nem évszázadok.",
+      "tagline": "Használatban ugyanolyan hatékony. Eco-One™ adalékkal hulladéklerakóban biológiailag lebomló.",
+      "body": "Piszoárrácsaink és illatosítóink újrahasznosított EVA felhasználásával készülnek. Maga az anyag újrahasznosítható, a használt piszoárrács viszont nem, mert biológiailag szennyezett. Hulladéklerakóba vagy égetőműbe kerül, ezért minden termékünkhöz Eco-One™ adalékanyagot adunk."
+    },
+    "afterUse": {
+      "heading": "Mi történik használat után",
+      "title": "Hulladéklerakóban 3,5 év alatt 93%-ban biológiailag lebomló",
+      "steps": {
+        "use": {
+          "title": "Használat közben",
+          "body": "Ugyanolyan hatékonyak, mint az Eco-One™ nélküli termékek"
+        },
+        "after": {
+          "title": "Használat után",
+          "body": "Biológiailag szennyezettek, ezért nem újrahasznosíthatók"
+        },
+        "landfill": {
+          "title": "A hulladéklerakóban",
+          "body": "Az Eco-One™ révén az anyag biológiailag lebomló"
+        },
+        "breakdown": {
+          "title": "Biogáz, CO2 és humusz",
+          "body": "3,5 év alatt az anyag 93%-a ezekké alakul (független vizsgálat)"
+        }
+      }
     },
     "metrics": {
       "additive": {
         "value": "~1%",
-        "label": "adalékanyag tartalom"
+        "label": "Eco-One™ az anyagban"
       },
       "measured": {
-        "value": "~3,5 év",
-        "label": "93%-os biológiai lebomlásig"
+        "value": "93%",
+        "label": "mért érték 3,5 év alatt"
       },
       "projected": {
         "value": "akár 99%",
-        "label": "~5 éven belül"
+        "label": "előrejelzett érték 5 év alatt"
+      },
+      "cardboard": {
+        "value": "100%",
+        "label": "újrahasznosított kartondobozok"
       }
     },
     "problem": {
-      "title": "Miért jelent problémát a hagyományos műanyag?",
-      "body": "A hagyományos műanyag termékeket tartósra tervezték. Biológiai lebomlást elősegítő adalékanyag nélkül a hulladéklerakókba kerülő műanyag termék <bold>300-1000 évig</bold> ott maradhat; A „Crocs-stílusú” hab klumpa ismerős példája annak a műanyagnak, amely <bold>biológiailag nem lebomlik</bold>. Termékeink ugyanabból a tartós műanyagból (EVA) készülnek – de egy döntő különbséggel: az Eco-One™ adalékanyaggal.",
-      "chartAlt": "Eco-One™ nélküli termékek az adalékanyagot tartalmazó ëkcos termékekhez képest",
-      "chartCaption": "Eco-One™ nélküli termékek, összehasonlítva az adalékanyagot tartalmazó ëkcos termékekkel.",
+      "title": "Miért marad meg évszázadokig egy hagyományos rács",
+      "body": "Az EVA tartós anyag. Biológiai lebomlást segítő adalék nélkül a használt rács becslések szerint 300-1 000 évig megmaradhat a hulladéklerakóban. Ugyanebből az anyagból készülnek a habanyagú klumpák és a strandpapucsok is, és ezek sem bomlanak le biológiailag.",
+      "chartAlt": "Becsült lebomlási idő hulladéklerakóban",
+      "chartCaption": "Becsült lebomlási idő hulladéklerakóban.",
       "chart": {
-        "ariaLabel": "A hulladéklerakóban eltöltött évek összehasonlítása",
+        "ariaLabel": "Becsült lebomlási idő hulladéklerakóban",
         "withoutLabel": "Eco-One™ nélküli termékek",
-        "withLabel": "ëkcos és Eco-One™",
+        "withLabel": "ëkcos Eco-One™ adalékkal",
         "withoutValue": "300-1000 év",
         "withValue": "3,5-5 év",
         "withoutDetail": "Biológiai lebomlást elősegítő adalék nélkül a hagyományos műanyagok évszázadokig a hulladéklerakókban maradhatnak.",
         "withDetail": "Az Eco-One™ adalékanyaggal a független vizsgálatok ~93%-os biológiai lebomlást mutatnak körülbelül 3,5 év alatt, és akár 99%-ot is öt éven belül.",
         "axisLabel": "Évek a lebontásig (hulladéklerakó)",
-        "caption": "Eco-One™ nélküli termékek, összehasonlítva az adalékanyagot tartalmazó ëkcos termékekkel.",
+        "caption": "Becsült lebomlási idő hulladéklerakóban.",
         "scaleLabel": "Diagram léptéke",
         "scaleFull": "0-1000 év",
         "scaleZoom": "0-10 év",
-        "clippedNote": "folytatódik →"
+        "clippedNote": "folytatódik ->"
       }
     },
     "solution": {
-      "title": "Megoldásunk: Az Eco-One™ adalék",
-      "body1": "A gyártás során körülbelül <bold>1% Eco-One™</bold>-t, egy színezőanyaggal azonos módon adagolt szerves adalékot alkalmazunk. Nem befolyásolja a termék szilárdságát, megjelenését vagy teljesítményét.",
-      "body2": "A biológiailag aktív hulladéklerakóban a természetben előforduló mikroorganizmusok enzimatikus aktivitással lebontják a kezelt műanyagot, és biogázzá (<bold>metán</bold>, amelyet a modern hulladéklerakók felfognak energia-visszanyerés céljából), szén-dioxiddá és humuszsá alakítják.",
-      "body3": "Mivel a termék végső soron humuszra bomlik, visszajuttatja a szerves anyagokat a hulladéklerakóba, és elősegíti az ott már működő biokémiai folyamatok felgyorsítását. A termék ezért <bold>nem csak az élettartama alatt, hanem azt követően is hozzájárul</bold>."
+      "title": "Megoldásunk: az Eco-One™ adalék",
+      "body1": "A gyártás során <bold>körülbelül 1% Eco-One™</bold> adalékot keverünk az anyagba. Ez nem befolyásolja a termék szilárdságát, megjelenését vagy teljesítményét.",
+      "body2": "Biológiailag aktív hulladéklerakóban az Eco-One™ adalék lehetővé teszi, hogy az anyag biogázzá, széndioxiddá és humusszá bomoljon le. A modern hulladéklerakók felfogják a biogázt, és energetikailag hasznosítják.",
+      "calloutTitle": "Hasznos élettartama alatt, és utána is",
+      "calloutBody": "Ahelyett, hogy évszázadokig a hulladéklerakóban maradna, az anyag lebomlik: biogázzá, amelyet a modern hulladéklerakók energetikailag hasznosítanak, valamint humusszá. A humusz pedig gazdagabbá teszi a talajt."
     },
     "testing": {
-      "title": "Független tesztelés",
-      "body": "A terméket egy független laboratórium tesztelte a <bold>ASTM D5511 és ISO 15985</bold> nemzetközi szabványok szerint, összehasonlítva ugyanazt a terméket az Eco-One™ adalékanyaggal és anélkül. Az Eco-One™-vel elérte a <bold>93,31%-os biológiai lebomlást körülbelül 3,5 éven belül, és akár 99%-ot is 5 éven belül</bold>; Eco-One™ nélkül a termék nem mutatott mérhető biológiai lebomlást.",
+      "title": "Független vizsgálat: 93% kontra 0%",
+      "body": "A mexikóvárosi Instituto Politécnico Nacional által az ASTM D5511 és az ISO 15985 szabvány szerint végzett független vizsgálatban az Eco-One™ adalékot tartalmazó ëkcos EVA 3,5 év alatt 93%-os biológiai lebomlást ért el, míg ugyanez az anyag adalék nélkül 0%-ot mutatott. Az előrejelzés szerint 5 év alatt akár 99%-os biológiai lebomlás várható.",
       "barChart": {
-        "ariaLabel": "Biológiai lebomlás körülbelül 3,5 év alatt Eco-One™ nélkül és anélkül",
+        "ariaLabel": "Független vizsgálat: 93% kontra 0%",
         "yAxis": "Biológiai lebomlás (%)",
-        "withLabel": "ëkcos és Eco-One™",
+        "withLabel": "ëkcos Eco-One™ adalékkal",
         "withoutLabel": "Eco-One™ nélküli termékek",
         "withDetail": "93,31%-os biológiai lebomlás független ASTM D5511 / ISO 15985 laboratóriumi teszttel mérve körülbelül 3,5 év után.",
         "withoutDetail": "Ugyanaz a termék Eco-One™ nélkül nem mutatott mérhető biológiai lebomlást ugyanabban a vizsgálati időszakban.",
-        "subtitle": "Ugyanaz a termék · ugyanaz a laboratóriumi vizsgálat (ASTM D5511 / ISO 15985) · ~3,5 év"
+        "subtitle": "Ugyanaz az anyag, ugyanaz a laborvizsgálat, 3,5 év"
       },
       "timelineChart": {
-        "ariaLabel": "Biológiai lebomlás öt éven keresztül Eco-One™ nélkül és anélkül",
+        "ariaLabel": "Független vizsgálat: 93% kontra 0%",
         "yAxis": "Biológiai lebomlás (%)",
         "xAxis": "Évek",
-        "withLabel": "ëkcos és Eco-One™",
+        "withLabel": "ëkcos Eco-One™ adalékkal",
         "withoutLabel": "Eco-One™ nélküli termékek",
         "zeroNote": "0% egész idő alatt",
         "measured": "mért",
         "projected": "vetített",
         "yearsUnit": "évf",
-        "projectedNote": "A mért trendből vetítve",
-        "caption": "Biológiai lebomlás Eco-One™ adalékanyaggal és anélkül. A mért trendből a 3,5 éven túli értékeket vetítjük ki."
+        "projectedNote": "A 3,5 év utáni értékek előrejelzések",
+        "caption": "A 3,5 év utáni értékek előrejelzések."
       }
     },
     "closing": {
-      "title": "ëkcos termékek az Eco-One™ termékkel",
-      "body": "Mosdótermékeink Eco-One™ adalékanyaggal készülnek. Egy független laboratóriumi tesztben az ëkcos EVA Eco-One™-nel 3,5 éven belül elérte a 93%-os biológiai lebomlást, és az előrejelzések szerint 5 éven belül akár 99%-ot is elérhet a szemétlerakás körülményei között – a teljesítménye megegyezik az adalékanyag nélküli termékekével.",
+      "title": "ëkcos Eco-One™ adalékkal",
+      "body": "Piszoárrácsaink, WC-illatosító klipjeink és légfrissítőink Eco-One™ adalékot tartalmaznak: használatban ugyanolyan teljesítményt nyújtanak, mint az adalék nélküli termékek, életciklusuk vége pedig sokkal kedvezőbb.",
       "shopCta": "Üzlet"
     },
-    "footnote": "Adatforrás: független biológiai lebomlási teszt az ASTM D5511-02 és az ISO 15985:2014 szerint (Instituto Politécnico Nacional, Mexico City) – ëkcos termék 1% Eco-One™ adalékanyaggal: 93,31% biológiai lebomlás.5 napon keresztül (1,283 nap); ugyanaz a termék adalékanyag nélkül: 0%. A mért trendből előrevetítjük a tesztidőszakon túli biológiai lebomlást (akár 99%-ig ~5 éven belül). A hagyományos műanyagok tartóssági adatai (≈300–1000 év) széles körben hivatkozott iparági becslések. Az Eco-One™ adalékanyagot az EcoLogic, LLC gyártja és tanúsítja."
+    "footnote": "Adatforrás: független biológiai lebomlási vizsgálat az ASTM D5511-02 és az ISO 15985:2014 szabvány szerint, Instituto Politécnico Nacional, Mexikóváros. Az ëkcos EVA körülbelül 1% Eco-One™ adalékkal: 93,31%-os biológiai lebomlás 1 288 nap (körülbelül 3,5 év) alatt; ugyanez az anyag adalék nélkül: 0%. Az 5 év alatti, akár 99%os lebomlás a mért tendenciából levezetett előrejelzés. A biológiai lebomlás a hulladéklerakó körülményeitől függ. Az adalék nélküli EVA esetében a 300-1 000 év széles körben idézett iparági becslés. Az Eco-One™ az EcoLogic, LLC védjegye."
   },
   "customBranding": {
     "hero": {

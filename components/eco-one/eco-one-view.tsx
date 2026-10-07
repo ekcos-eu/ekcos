@@ -1,3 +1,4 @@
+import {AfterUseSteps} from '@/components/eco-one/after-use-steps'
 import {ComparisonChart} from '@/components/eco-one/comparison-chart'
 import {TestingCharts} from '@/components/eco-one/testing-charts'
 import {PageContainer} from '@/components/layout/page-container'
@@ -21,6 +22,7 @@ export async function EcoOneView() {
     {value: t('metrics.additive.value'), label: t('metrics.additive.label')},
     {value: t('metrics.measured.value'), label: t('metrics.measured.label')},
     {value: t('metrics.projected.value'), label: t('metrics.projected.label')},
+    {value: t('metrics.cardboard.value'), label: t('metrics.cardboard.label')},
   ] as const
 
   const ecoOneLdJson = {
@@ -48,23 +50,26 @@ export async function EcoOneView() {
       </PageHero>
 
       <section className="border-b border-black/[0.06]">
-        <PageContainer className="py-0">
-          <div className="grid gap-px bg-black/[0.06] sm:grid-cols-3">
-            {metrics.map((metric, index) => (
-              <FadeIn key={metric.label} delay={index * 0.06}>
-                <div
-                  className={
-                    index === 0
-                      ? 'bg-white py-7 pr-5 text-left sm:pr-6'
-                      : 'bg-white px-5 py-7 text-left sm:px-6'
-                  }
-                >
-                  <p className="text-3xl font-bold tracking-tight text-[#0F68B2]">{metric.value}</p>
-                  <p className="mt-2 text-sm leading-snug text-[#575756]/75 text-pretty">{metric.label}</p>
-                </div>
-              </FadeIn>
-            ))}
-          </div>
+        <PageContainer className="py-14 sm:py-16">
+          <FadeIn>
+            <AfterUseSteps />
+          </FadeIn>
+
+          <FadeIn delay={0.08}>
+            <div className="mt-14 sm:mt-16">
+              <h2 className="text-2xl font-bold tracking-tight text-[#0F68B2] text-balance sm:text-3xl">
+                {t('afterUse.title')}
+              </h2>
+              <div className="mt-8 grid gap-px bg-black/[0.06] sm:grid-cols-2 lg:grid-cols-4">
+                {metrics.map((metric) => (
+                  <div key={metric.label} className="bg-white px-5 py-7 text-left sm:px-6">
+                    <p className="text-3xl font-bold tracking-tight text-[#0F68B2]">{metric.value}</p>
+                    <p className="mt-2 text-sm leading-snug text-[#575756]/75 text-pretty">{metric.label}</p>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </FadeIn>
         </PageContainer>
       </section>
 
@@ -92,9 +97,14 @@ export async function EcoOneView() {
             <p className="mt-4 text-base leading-relaxed text-[#575756]/88 text-justify sm:text-lg">
               {t.rich('solution.body2', richBold)}
             </p>
-            <p className="mt-6 border-l-4 border-[#0F68B2] bg-[#0F68B2]/[0.07] px-5 py-4 text-base leading-relaxed text-[#575756]/88 text-justify sm:px-6 sm:py-5 sm:text-lg">
-              {t.rich('solution.body3', richBold)}
-            </p>
+            <div className="mt-6 border-l-4 border-[#0F68B2] bg-[#0F68B2]/[0.07] px-5 py-4 sm:px-6 sm:py-5">
+              <p className="text-base font-semibold leading-snug text-[#575756] text-balance sm:text-lg">
+                {t('solution.calloutTitle')}
+              </p>
+              <p className="mt-2 text-base leading-relaxed text-[#575756]/88 text-justify sm:text-lg">
+                {t.rich('solution.calloutBody', richBold)}
+              </p>
+            </div>
           </section>
         </FadeIn>
 
