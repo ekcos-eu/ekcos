@@ -28,6 +28,51 @@ const ECO_ONE_PATTERN = /Eco-One™/g
 
 const EMAIL_PATTERN = /[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/g
 
+const PAGE_LINK_CLASS = ECO_ONE_LINK_CLASS
+
+/** Shopify content pages mentioned in FAQ / marketing copy */
+const PAGE_NAME_LINKS: { pattern: RegExp; href: string }[] = [
+  {
+    pattern:
+      /Custom Branding(?:-sida|-side| -sivultamme| pagina| page)?|Branding personalizzato|branding personalizat/gi,
+    href: `${SHOP_BASE_URL}/pages/custom-branding`,
+  },
+  {
+    pattern: new RegExp(
+      [
+        'B2B és 0%-os áfával kapcsolatos útmutatónkban',
+        'B2B- und 0%-Mehrwertsteuer-Leitfaden',
+        'B2B & 0% ALV -oppaassamme',
+        'B2B ja 0% käibemaksu juhendist',
+        'Vodiču za B2B i 0% PDV-a',
+        'ръководство за B2B и 0% ДДС',
+        'Przewodniku B2B i 0% VAT',
+        'B2B un 0% PVN ceļvedī',
+        'B2B ir 0% PVM vadove',
+        'Guide B2B et TVA 0%',
+        'Guía B2B y 0% IVA',
+        'Guida B2B e IVA 0%',
+        'Guia B2B e 0% de IVA',
+        'Ghidul nostru B2B și 0% TVA',
+        'B2B & 0% VAT Guide',
+        'B2B & 0% BTW Gids',
+        'B2B & 0% momsguide',
+        'B2B & 0% ΦΠΑ',
+        'B2B & 0% DPH',
+        'B2B a 0% DPH',
+        'B2B i 0% PDV-a',
+        'B2B și 0% TVA',
+        'B2B и 0% ДДС',
+        'B2B in 0 % DDV',
+      ]
+        .map((s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'))
+        .join('|'),
+      'gi',
+    ),
+    href: `${SHOP_BASE_URL}/pages/b2b-vat-guide`,
+  },
+]
+
 /** Display-name aliases (as they appear in article / FAQ copy) → shop collection path */
 const PRODUCT_NAME_ALIASES: ProductLinkMatch[] = [
   { pattern: /xcr[eë]n\s+HD(?:\s*60\+)?/gi, shopPath: '/collections/xcren-hd' },
@@ -122,6 +167,58 @@ function linkifyProducts(
   return nodes.length > 0 ? nodes : [text]
 }
 
+function linkifyPages(
+  text: string,
+  getImageAlt: ProductImageAltLookup,
+): ReactNode[] {
+  type Hit = { start: number; end: number; href: string; label: string }
+  const hits: Hit[] = []
+  for (const entry of PAGE_NAME_LINKS) {
+    const re = new RegExp(entry.pattern.source, entry.pattern.flags)
+    for (const m of text.matchAll(re)) {
+      if (m.index == null) continue
+      hits.push({
+        start: m.index,
+        end: m.index + m[0].length,
+        href: entry.href,
+        label: m[0],
+      })
+    }
+  }
+  hits.sort((a, b) => a.start - b.start || b.end - a.end)
+
+  if (hits.length === 0) return linkifyProducts(text, getImageAlt)
+
+  const nodes: ReactNode[] = []
+  let lastIndex = 0
+  let cursor = 0
+  for (const hit of hits) {
+    if (hit.start < cursor) continue
+    if (hit.start > lastIndex) {
+      nodes.push(
+        ...linkifyProducts(text.slice(lastIndex, hit.start), getImageAlt),
+      )
+    }
+    nodes.push(
+      <a
+        key={`page-${hit.start}-${hit.label}`}
+        href={hit.href}
+        target="_blank"
+        rel="noopener noreferrer"
+        className={PAGE_LINK_CLASS}
+      >
+        {hit.label}
+      </a>,
+    )
+    lastIndex = hit.end
+    cursor = hit.end
+  }
+  if (lastIndex < text.length) {
+    nodes.push(...linkifyProducts(text.slice(lastIndex), getImageAlt))
+  }
+  return nodes.length > 0 ? nodes : [text]
+}
+
 function linkifyEmails(
   text: string,
   getImageAlt: ProductImageAltLookup,
@@ -134,7 +231,7 @@ function linkifyEmails(
   while ((match = pattern.exec(text)) !== null) {
     if (match.index > lastIndex) {
       nodes.push(
-        ...linkifyProducts(text.slice(lastIndex, match.index), getImageAlt),
+        ...linkifyPages(text.slice(lastIndex, match.index), getImageAlt),
       )
     }
     const email = match[0]
@@ -151,7 +248,7 @@ function linkifyEmails(
   }
 
   if (lastIndex < text.length) {
-    nodes.push(...linkifyProducts(text.slice(lastIndex), getImageAlt))
+    nodes.push(...linkifyPages(text.slice(lastIndex), getImageAlt))
   }
 
   return nodes.length > 0 ? nodes : [text]
@@ -192,8 +289,8 @@ function linkifyText(
 }
 
 /**
- * Link Eco-One™ → /eco-one, emails → mailto, and product names → eshop (with hover preview).
- * Use for plain marketing strings (FAQ, etc.).
+ * Link Eco-One™ → /eco-one, emails → mailto, FAQ page names → Shopify pages,
+ * and product names → eshop (with hover preview).
  */
 export function linkifyPlainText(
   text: string,

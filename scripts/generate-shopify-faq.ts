@@ -107,6 +107,50 @@ const PRODUCT_LINKS: { pattern: RegExp; href: string }[] = [
   },
 ]
 
+/** Shopify content pages mentioned in FAQ answers */
+const PAGE_LINKS: { pattern: RegExp; href: string }[] = [
+  {
+    pattern:
+      /Custom Branding(?:-sida|-side| -sivultamme| pagina| page)?|Branding personalizzato|branding personalizat/gi,
+    href: '/pages/custom-branding',
+  },
+  {
+    // Longer phrases first via alternation order
+    pattern: new RegExp(
+      [
+        'B2B és 0%-os áfával kapcsolatos útmutatónkban',
+        'B2B- und 0%-Mehrwertsteuer-Leitfaden',
+        'B2B & 0% ALV -oppaassamme',
+        'B2B ja 0% käibemaksu juhendist',
+        'Vodiču za B2B i 0% PDV-a',
+        'ръководство за B2B и 0% ДДС',
+        'Przewodniku B2B i 0% VAT',
+        'B2B un 0% PVN ceļvedī',
+        'B2B ir 0% PVM vadove',
+        'Guide B2B et TVA 0%',
+        'Guía B2B y 0% IVA',
+        'Guida B2B e IVA 0%',
+        'Guia B2B e 0% de IVA',
+        'Ghidul nostru B2B și 0% TVA',
+        'B2B & 0% VAT Guide',
+        'B2B & 0% BTW Gids',
+        'B2B & 0% momsguide',
+        'B2B & 0% ΦΠΑ',
+        'B2B & 0% DPH',
+        'B2B a 0% DPH',
+        'B2B i 0% PDV-a',
+        'B2B și 0% TVA',
+        'B2B и 0% ДДС',
+        'B2B in 0 % DDV',
+      ]
+        .map((s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'))
+        .join('|'),
+      'gi',
+    ),
+    href: '/pages/b2b-vat-guide',
+  },
+]
+
 const LINK_CLASS = 'faq-page__inline-link'
 const EMAIL_RE = /[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/g
 
@@ -140,6 +184,18 @@ function linkify(text: string, locale: string): string {
       end: m.index + email.length,
       html: `<a class="${LINK_CLASS}" href="mailto:${email}">${escapeHtml(email)}</a>`,
     })
+  }
+
+  for (const entry of PAGE_LINKS) {
+    const re = new RegExp(entry.pattern.source, entry.pattern.flags)
+    for (const m of text.matchAll(re)) {
+      if (m.index == null) continue
+      parts.push({
+        start: m.index,
+        end: m.index + m[0].length,
+        html: `<a class="${LINK_CLASS}" href="${entry.href}">${escapeHtml(m[0])}</a>`,
+      })
+    }
   }
 
   for (const entry of PRODUCT_LINKS) {
