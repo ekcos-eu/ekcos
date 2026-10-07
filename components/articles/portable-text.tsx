@@ -9,6 +9,22 @@ import {
   linkifyProductChildren,
   type ProductImageAltLookup,
 } from '@/lib/article-product-links'
+import {
+  ADVISOR_SKIP_BLOCK_KEYS,
+  isAdvisorArticle,
+} from '@/lib/advisor-article'
+import {
+  AdvisorCompleteGrid,
+  AdvisorDurationChart,
+  AdvisorEcoOneCallout,
+  AdvisorFiveSteps,
+  AdvisorFragranceVisual,
+  AdvisorInfoCallout,
+  AdvisorSplashStats,
+  AdvisorSummaryTable,
+  AdvisorTrafficCards,
+  AdvisorUrinalCards,
+} from '@/components/articles/advisor-visuals'
 
 function articlePortableTextComponents(
   getImageAlt: ProductImageAltLookup,
@@ -103,14 +119,126 @@ function articlePortableTextComponents(
   }
 }
 
-export async function ArticlePortableText({value}: {value: PortableTextBlock[]}) {
+function blockKey(block: PortableTextBlock): string | undefined {
+  if (typeof block._key === 'string') return block._key
+  return undefined
+}
+
+function isListItem(block: PortableTextBlock): boolean {
+  return (
+    block._type === 'block' &&
+    'listItem' in block &&
+    typeof (block as {listItem?: unknown}).listItem === 'string'
+  )
+}
+
+async function AdvisorInjectedBody({
+  value,
+  components,
+}: {
+  value: PortableTextBlock[]
+  components: PortableTextComponents
+}) {
+  const nodes: ReactNode[] = []
+  let i = 0
+
+  while (i < value.length) {
+    const block = value[i]
+    const key = blockKey(block)
+
+    if (key && ADVISOR_SKIP_BLOCK_KEYS.has(key)) {
+      if (key === 'p-splash-stats') {
+        nodes.push(<AdvisorSplashStats key="viz-splash-stats" />)
+      } else if (key === 'p-splash-uv') {
+        nodes.push(<AdvisorInfoCallout key="viz-uv" kind="uv" />)
+      } else if (key === 'p-splash-tip') {
+        nodes.push(<AdvisorInfoCallout key="viz-tip" kind="tip" />)
+      } else if (key === 'p-frag-strong') {
+        nodes.push(<AdvisorFragranceVisual key="viz-fragrance" />)
+      } else if (key === 'b-summary-1') {
+        nodes.push(<AdvisorSummaryTable key="viz-summary" />)
+      } else if (key === 'p-complete-clip') {
+        nodes.push(<AdvisorCompleteGrid key="viz-complete" />)
+      } else if (key === 'b-urinal-small') {
+        nodes.push(<AdvisorUrinalCards key="viz-urinal" />)
+      } else if (key === 'p-evidence-ask') {
+        nodes.push(<AdvisorInfoCallout key="viz-ask" kind="ask" />)
+      } else if (key === 'p-traffic-high') {
+        nodes.push(<AdvisorTrafficCards key="viz-traffic" />)
+      }
+      i += 1
+      continue
+    }
+
+    // Group consecutive list items so PortableText wraps them in <ul>/<ol>
+    if (isListItem(block)) {
+      const group: PortableTextBlock[] = [block]
+      let j = i + 1
+      while (j < value.length) {
+        const next = value[j]
+        const nextKey = blockKey(next)
+        if (nextKey && ADVISOR_SKIP_BLOCK_KEYS.has(nextKey)) break
+        if (!isListItem(next)) break
+        group.push(next)
+        j += 1
+      }
+      nodes.push(
+        <PortableText
+          key={key ?? `list-${i}`}
+          value={group}
+          components={components}
+        />,
+      )
+      i = j
+      continue
+    }
+
+    nodes.push(
+      <PortableText
+        key={key ?? `block-${i}`}
+        value={[block]}
+        components={components}
+      />,
+    )
+
+    if (key === 'intro') {
+      nodes.push(<AdvisorFiveSteps key="viz-steps" />)
+    } else if (key === 'p-frag-long') {
+      nodes.push(<AdvisorDurationChart key="viz-duration" />)
+    } else if (key === 'p-evidence-bio') {
+      nodes.push(<AdvisorEcoOneCallout key="viz-ecoone" />)
+    }
+
+    i += 1
+  }
+
+  return <div className="advisor-article-body">{nodes}</div>
+}
+
+export async function ArticlePortableText({
+  value,
+  slug,
+  articleId,
+}: {
+  value: PortableTextBlock[]
+  slug?: string
+  articleId?: string
+}) {
   const t = await getTranslations('products')
   const getImageAlt = createProductImageAltLookup((key) => t(key))
+  const components = articlePortableTextComponents(getImageAlt)
 
-  return (
-    <PortableText
-      value={value}
-      components={articlePortableTextComponents(getImageAlt)}
-    />
-  )
+  const advisor = isAdvisorArticle({
+    id: articleId,
+    slug,
+    blockKeys: value.map((block) =>
+      typeof block._key === 'string' ? block._key : undefined,
+    ),
+  })
+
+  if (advisor) {
+    return <AdvisorInjectedBody value={value} components={components} />
+  }
+
+  return <PortableText value={value} components={components} />
 }

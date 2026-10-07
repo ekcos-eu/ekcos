@@ -111,6 +111,103 @@
       "product": "Produkts",
       "sustainability": "Ilgtspēja",
       "news": "Jaunumi"
+    },
+    "advisor": {
+      "steps": {
+        "traffic": "Satiksme",
+        "trafficHint": "Cik aizņemta ir tualete?",
+        "splash": "Aizsardzība pret šļakatām",
+        "splashHint": "Cik labi tas aptur šļakatu atgriešanos?",
+        "fragrance": "Aromāts",
+        "fragranceHint": "Cik ilgi, cik spēcīgi, kādā krāsā?",
+        "evidence": "Pierādījumi",
+        "evidenceHint": "Vai apgalvojumi ir pierādīti?",
+        "urinal": "Pisuāra veids",
+        "urinalHint": "Kāds izmērs un tips?"
+      },
+      "traffic": {
+        "highTitle": "Liela satiksme",
+        "highPlaces": "Restorāni, bāri, lidostas, iepirkšanās centri",
+        "highBody": "Vairāk nekā 60 dienu aromāts un blīvi pretšļakatu sari. ëkcoscreen 60+ dienā maksā apmēram tikpat, cik 30 dienu ekrāns. Izvēlieties xcrën HD 60+, kad svarīgs ir arī tualetes izskats.",
+        "standardTitle": "Standarta satiksme",
+        "standardPlaces": "Ikmēneša apkope",
+        "standardBody": "Līdz 30 dienām aromāts ar patentētiem pretšļakatu sariem. Paredzēts ikmēneša izmaiņām.",
+        "budgetTitle": "Budžeta iespēja",
+        "budgetPlaces": "Mazāka satiksme, biroji un mazākas telpas",
+        "budgetBody": "Tie satur mazāk materiālu, tāpēc tie maksā mazāk un to aromāts ir vieglāks. üro lite joprojām ir sen patentēti pretšļakatu sari. basic scrëen aizsargā kanalizāciju no gružiem, bet tai nav pretšļakatu saru."
+      },
+      "splash": {
+        "eksLabel": "ëkcoscreen 60+ virsma ir pārklāta ar patentētiem pretšļakatu sariem",
+        "xhdLabel": "xcrën HD 60+ virsma ir pārklāta ar patentētiem pretšļakatu sariem"
+      },
+      "callouts": {
+        "uv": "ëkcoscreen 60+ blakus UV šļakatu pārbaudē: identiskos apstākļos ārpus ekrāna nav redzamu pretšļakatu. Jautājiet pēc video.",
+        "tip": "Padoms. Tualetes telpās ar intensīvu satiksmi izvairieties no ekrāniem bez blīviem pretšļakatu sariem.",
+        "ask": "Jautājiet jebkuram piegādātājam: vai ir neatkarīgs testa ziņojums? Vai apgalvojums \"100% pārstrādājams\" tiešām attiecas uz lietotu ekrānu?"
+      },
+      "duration": {
+        "day1": "1. diena",
+        "day30": "30. diena",
+        "day60": "60. diena",
+        "thirtyLabel": "30 dienu ekrāns",
+        "screen1": "1. ekrāns",
+        "screen2": "2. ekrāns",
+        "sixtyBar": "Viens ekrāns 60+ dienām",
+        "note": "Izmantojot ëkcoscreen 60+, maksa par dienu ir līdzīga 30 dienu ekrānam, taču jūs to maināt uz pusi retāk. Tas ietaupa darba laiku."
+      },
+      "intensity": {
+        "most": "Visintensīvākā",
+        "very": "Ļoti intensīva",
+        "medium": "Vidēja",
+        "subtle": "Smalks",
+        "popular": "Populāra izvēle ir ogas, svaigas, citrusaugļi un melone."
+      },
+      "ecoOne": {
+        "title": "Bioloģiski noārdās poligonā ar <ecoOne>Eco-One™</ecoOne>",
+        "body": "93% bioloģiskā noārdīšanās 3,5 gadu laikā neatkarīgā laboratorijas testā (ASTM D5511 un ISO 15985). Tas pats materiāls bez piedevas uzrādīja 0%. 5 gadu laikā tiek prognozēts līdz 99%."
+      },
+      "urinal": {
+        "smallTitle": "Mazāki pisuāri",
+        "smallBody": "Kompakts, ar tādu pašu patentētu Sealed Bristles Technology™ kā ëkcoscreen 60+.",
+        "mostTitle": "Lielākā daļa pisuāru veidu",
+        "mostBody": "powër screen un basic scrëen – elastīga forma, kas der gandrīz visu veidu pisuāriem.",
+        "waterlessTitle": "Bezūdens pisuāri",
+        "waterlessBody": "Ideāli piemērots bezūdens pisuāriem. Piemēroti ir arī powër screen, üro lite un basic scrëen.",
+        "drainTitle": "Drenāžas aizsardzība",
+        "drainBody": "Katrs ëkcos ekrāns aizsargā kanalizāciju. ëkcoscreen 60+ aptver lielāko laukumu.",
+        "designTitle": "Dizainam ir nozīme",
+        "designBody": "Patentēta forma, kas pārvērš pisuāru par dizaina elementu.",
+        "puckTitle": "Vai dodat priekšroku pisuāra blokam?",
+        "puckBody": "Ekrāns ar dezodorējošu ripu, kas izgatavots galvenokārt no vaska un glicerīna. Aromāts līdz 30 dienām."
+      },
+      "summary": {
+        "colNeed": "Jūsu tualete",
+        "colRec": "Mūsu ieteikums",
+        "rows": {
+          "high": "Liela satiksme",
+          "standard": "Standarta satiksme, ikmēneša izmaiņas",
+          "budget": "Budžeta iespēja",
+          "small": "Mazāki pisuāri",
+          "waterless": "Bezūdens pisuāri",
+          "drain": "Drenāžas aizsardzība",
+          "design": "Dizainam ir nozīme",
+          "puck": "Dodiet priekšroku pisuāra blokam",
+          "bio": "Bioloģiski noārdās poligonā",
+          "logo": "Savs logotips"
+        },
+        "recs": {
+          "budget": "üro lite vai basic scrëen bez pretšļakatu sariem",
+          "drain": "Katrs ëkcos ekrāns, galvenokārt ëkcoscreen 60+",
+          "bio": "Katrs ëkcos ekrāns ar Eco-One™",
+          "logo": "Privāta etiķete katrā ekrānā"
+        }
+      },
+      "complete": {
+        "clip": "Tualetes podu klipsis ar aromātu līdz 30 dienām. Der gandrīz jebkurai bļodai.",
+        "fresh": "Gaisa atsvaidzinātājs tualetes kabīnēm: 30+ dienas smaržas kabīnēs ar nelielu ventilāciju un 60+ dienas pie mazas satiksmes, bez baterijām vai elektrības.",
+        "mat": "Pisuāra grīdas paklājiņš, kas aizsargā grīdu zem pisuāra.",
+        "trap": "Kasetne bezūdens pisuāriem ar Falcon Velocity sistēmu. Novērš kanalizācijas smakas."
+      }
     }
   },
   "newsletter": {

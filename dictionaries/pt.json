@@ -111,6 +111,103 @@
       "product": "Produto",
       "sustainability": "Sustentabilidade",
       "news": "Notícias"
+    },
+    "advisor": {
+      "steps": {
+        "traffic": "Tráfego",
+        "trafficHint": "Quão ocupado está o banheiro?",
+        "splash": "Proteção contra respingos",
+        "splashHint": "Quão bem ele impede o splashback?",
+        "fragrance": "Fragrância",
+        "fragranceHint": "Quanto tempo, quão forte, qual cor?",
+        "evidence": "Evidência",
+        "evidenceHint": "As alegações estão comprovadas?",
+        "urinal": "Tipo de mictório",
+        "urinalHint": "Qual tamanho e tipo?"
+      },
+      "traffic": {
+        "highTitle": "Alto tráfego",
+        "highPlaces": "Restaurantes, bares, aeroportos, shoppings",
+        "highBody": "Mais de 60 dias de fragrância e cerdas densas anti-respingos. ëkcoscreen 60+ custa aproximadamente o mesmo por dia que uma tela de 30 dias. Escolha xcrën HD 60+ quando a aparência do banheiro também for importante.",
+        "standardTitle": "Tráfego padrão",
+        "standardPlaces": "Manutenção mensal",
+        "standardBody": "Até 30 dias de fragrância com cerdas anti-respingos patenteadas. Feito para alterações mensais.",
+        "budgetTitle": "Opção de orçamento",
+        "budgetPlaces": "Menor tráfego, escritórios e instalações menores",
+        "budgetBody": "Eles contêm menos material, por isso custam menos e sua fragrância é mais leve. üro lite ainda possui cerdas anti-respingos patenteadas há muito tempo. basic scrëen protege o ralo de detritos, mas não possui cerdas anti-respingos."
+      },
+      "splash": {
+        "eksLabel": "da superfície ëkcoscreen 60+ coberta com cerdas anti-respingos patenteadas",
+        "xhdLabel": "da superfície xcrën HD 60+ coberta com cerdas anti-respingos patenteadas"
+      },
+      "callouts": {
+        "uv": "ëkcoscreen 60+ em um teste de respingo UV lado a lado: nenhum respingo visível fora da tela sob condições idênticas. Peça o vídeo.",
+        "tip": "Dica: Em banheiros com tráfego intenso, evite telas sem cerdas densas anti-respingos.",
+        "ask": "Pergunte a qualquer fornecedor: Existe um relatório de teste independente? A afirmação “100% reciclável” realmente se aplica a uma tela usada?"
+      },
+      "duration": {
+        "day1": "Dia 1",
+        "day30": "Dia 30",
+        "day60": "Dia 60",
+        "thirtyLabel": "Tela de 30 dias",
+        "screen1": "Tela 1",
+        "screen2": "Tela 2",
+        "sixtyBar": "Uma tela por mais de 60 dias",
+        "note": "Com ëkcoscreen 60+, o custo por dia é semelhante a uma tela de 30 dias, mas você muda com metade da frequência. Isso economiza tempo de trabalho."
+      },
+      "intensity": {
+        "most": "Mais intenso",
+        "very": "Muito intenso",
+        "medium": "Média",
+        "subtle": "Sutil",
+        "popular": "As escolhas populares são frutas vermelhas, frescas, frutas cítricas e melão."
+      },
+      "ecoOne": {
+        "title": "Biodegradável em aterro com <ecoOne>Eco-One™</ecoOne>",
+        "body": "93% de biodegradação em 3,5 anos em um teste de laboratório independente (ASTM D5511 e ISO 15985). O mesmo material sem o aditivo apresentou 0%. Até 99% está projetado dentro de 5 anos."
+      },
+      "urinal": {
+        "smallTitle": "Urinóis menores",
+        "smallBody": "Compacto, com o mesmo Sealed Bristles Technology™ patenteado do ëkcoscreen 60+.",
+        "mostTitle": "A maioria dos tipos de mictório",
+        "mostBody": "powër screen e basic scrëen - um formato flexível que se adapta a quase todos os tipos de mictórios.",
+        "waterlessTitle": "Urinóis sem água",
+        "waterlessBody": "Ideal para mictórios sem água. powër screen, üro lite e basic scrëen também são adequados.",
+        "drainTitle": "Proteção de drenagem",
+        "drainBody": "Cada tela ëkcos protege o ralo. ëkcoscreen 60+ cobre a maior área.",
+        "designTitle": "O design é importante",
+        "designBody": "Uma forma patenteada que transforma o urinol num elemento de design.",
+        "puckTitle": "Prefere um mictório?",
+        "puckBody": "Tela com disco desodorizante feito principalmente de cera e glicerina. Fragrância por até 30 dias."
+      },
+      "summary": {
+        "colNeed": "Seu banheiro",
+        "colRec": "Nossa recomendação",
+        "rows": {
+          "high": "Alto tráfego",
+          "standard": "Tráfego padrão, alterações mensais",
+          "budget": "Opção de orçamento",
+          "small": "Urinóis menores",
+          "waterless": "Urinóis sem água",
+          "drain": "Proteção de drenagem",
+          "design": "O design é importante",
+          "puck": "Prefira um mictório",
+          "bio": "Biodegradável em aterro",
+          "logo": "Seu próprio logotipo"
+        },
+        "recs": {
+          "budget": "üro lite ou basic scrëen sem cerdas anti-respingos",
+          "drain": "Cada tela ëkcos, principalmente ëkcoscreen 60+",
+          "bio": "Cada tela ëkcos, com Eco-One™",
+          "logo": "Marca própria em todas as telas"
+        }
+      },
+      "complete": {
+        "clip": "Clipe para vaso sanitário com até 30 dias de fragrância. Cabe em quase qualquer tigela.",
+        "fresh": "Ambientador para cubículos sanitários: mais de 30 dias de fragrância em cubículos com pouca ventilação e mais de 60 dias com pouco tráfego, sem baterias ou eletricidade.",
+        "mat": "Tapete de mictório que protege o piso abaixo do mictório.",
+        "trap": "Cartucho para mictórios sem água com sistema Falcon Velocity. Mantém os odores do dreno afastados."
+      }
     }
   },
   "newsletter": {

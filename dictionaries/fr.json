@@ -111,6 +111,103 @@
       "product": "Produit",
       "sustainability": "Durabilité",
       "news": "Actualités"
+    },
+    "advisor": {
+      "steps": {
+        "traffic": "Trafic",
+        "trafficHint": "À quel point les toilettes sont-elles occupées ?",
+        "splash": "Protection contre les éclaboussures",
+        "splashHint": "Dans quelle mesure est-ce que ça arrête les éclaboussures ?",
+        "fragrance": "Parfum",
+        "fragranceHint": "Combien de temps, quelle force, quelle couleur ?",
+        "evidence": "Preuve",
+        "evidenceHint": "Les affirmations sont-elles prouvées ?",
+        "urinal": "Type d'urinoir",
+        "urinalHint": "Quelle taille et quel type ?"
+      },
+      "traffic": {
+        "highTitle": "Trafic élevé",
+        "highPlaces": "Restaurants, bars, aéroports, centres commerciaux",
+        "highBody": "Plus de 60 jours de parfum et des poils denses anti-éclaboussures. ëkcoscreen 60+ coûte à peu près le même prix par jour qu'un dépistage de 30 jours. Choisissez xcrën HD 60+ lorsque l'apparence des toilettes compte aussi.",
+        "standardTitle": "Trafic standard",
+        "standardPlaces": "Entretien mensuel",
+        "standardBody": "Jusqu'à 30 jours de parfum avec des poils anti-éclaboussures brevetés. Conçu pour les changements mensuels.",
+        "budgetTitle": "Option budgétaire",
+        "budgetPlaces": "Trafic réduit, bureaux et installations plus petites",
+        "budgetBody": "Ils contiennent moins de matière, ils coûtent donc moins cher et leur parfum est plus léger. üro lite possède toujours des poils anti-éclaboussures brevetés depuis longtemps. basic scrëen protège le drain des débris mais n'a pas de poils anti-éclaboussures."
+      },
+      "splash": {
+        "eksLabel": "de la surface ëkcoscreen 60+ recouverte de poils anti-éclaboussures brevetés",
+        "xhdLabel": "de la surface xcrën HD 60+ recouverte de poils anti-éclaboussures brevetés"
+      },
+      "callouts": {
+        "uv": "ëkcoscreen 60+ dans un test d'éclaboussure UV côte à côte : pas de projection visible à l'extérieur de l'écran dans des conditions identiques. Demandez la vidéo.",
+        "tip": "Astuce : dans les toilettes très fréquentées, évitez les écrans sans poils denses anti-éclaboussures.",
+        "ask": "Demandez à n’importe quel fournisseur : existe-t-il un rapport de test indépendant ? L'allégation « 100 % recyclable » s'applique-t-elle vraiment à un écran usagé ?"
+      },
+      "duration": {
+        "day1": "Jour 1",
+        "day30": "Jour 30",
+        "day60": "Jour 60",
+        "thirtyLabel": "écran de 30 jours",
+        "screen1": "Écran 1",
+        "screen2": "Écran 2",
+        "sixtyBar": "Un écran pendant plus de 60 jours",
+        "note": "Avec ëkcoscreen 60+, le coût journalier est similaire à celui d'un écran de 30 jours, mais vous le changez deux fois moins souvent. Cela fait gagner du temps de travail."
+      },
+      "intensity": {
+        "most": "Le plus intense",
+        "very": "Très intense",
+        "medium": "Moyen",
+        "subtle": "Subtile",
+        "popular": "Les choix populaires sont les baies, les fruits frais, les agrumes et le melon."
+      },
+      "ecoOne": {
+        "title": "Biodégradable en décharge avec <ecoOne>Eco-One™</ecoOne>",
+        "body": "Biodégradation de 93 % en 3,5 ans dans un test en laboratoire indépendant (ASTM D5511 et ISO 15985). Le même matériau sans additif affichait 0%. Jusqu’à 99 % sont projetés d’ici 5 ans."
+      },
+      "urinal": {
+        "smallTitle": "Des urinoirs plus petits",
+        "smallBody": "Compact, avec le même Sealed Bristles Technology™ breveté que le ëkcoscreen 60+.",
+        "mostTitle": "La plupart des types d'urinoirs",
+        "mostBody": "powër screen et basic scrëen - une forme flexible qui s'adapte à presque tous les types d'urinoirs.",
+        "waterlessTitle": "Urinoirs sans eau",
+        "waterlessBody": "Idéal pour les urinoirs sans eau. powër screen, üro lite et basic scrëen conviennent également.",
+        "drainTitle": "Protection des canalisations",
+        "drainBody": "Chaque écran ëkcos protège le drain. ëkcoscreen 60+ couvre la plus grande surface.",
+        "designTitle": "La conception compte",
+        "designBody": "Une forme brevetée qui transforme l'urinoir en un élément de design.",
+        "puckTitle": "Vous préférez un bloc urinoir ?",
+        "puckBody": "Un écran avec une rondelle désodorisante composée principalement de cire et de glycérine. Parfum jusqu'à 30 jours."
+      },
+      "summary": {
+        "colNeed": "Vos toilettes",
+        "colRec": "Notre recommandation",
+        "rows": {
+          "high": "Trafic élevé",
+          "standard": "Trafic standard, modifications mensuelles",
+          "budget": "Option budgétaire",
+          "small": "Des urinoirs plus petits",
+          "waterless": "Urinoirs sans eau",
+          "drain": "Protection des canalisations",
+          "design": "La conception compte",
+          "puck": "Préférez un bloc urinoir",
+          "bio": "Biodégradable en décharge",
+          "logo": "Votre propre logo"
+        },
+        "recs": {
+          "budget": "üro lite, ou basic scrëen sans poils anti-éclaboussures",
+          "drain": "Chaque écran ëkcos, surtout ëkcoscreen 60+",
+          "bio": "Chaque écran ëkcos, avec Eco-One™",
+          "logo": "Marque privée sur chaque écran"
+        }
+      },
+      "complete": {
+        "clip": "Clip pour cuvette de toilette avec jusqu'à 30 jours de parfum. S'adapte à presque tous les bols.",
+        "fresh": "Désodorisant pour cabines de toilettes : 30+ jours de parfum dans des cabines peu ventilées et 60+ jours à faible trafic, sans piles ni électricité.",
+        "mat": "Tapis de sol pour urinoir qui protège le sol sous l'urinoir.",
+        "trap": "Cartouche pour urinoirs sans eau avec système Falcon Velocity. Empêche les odeurs de canalisation d'entrer."
+      }
     }
   },
   "newsletter": {

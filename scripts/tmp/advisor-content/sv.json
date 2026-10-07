@@ -1,0 +1,971 @@
+{
+  "title": "Så väljer ni rätt urinoarmatta",
+  "excerpt": "Fem steg till mattan som passar er toalett.",
+  "imageAlt": "Blå urinoarmatta ëkcoscreen med stänkskyddande borst, sett ovanifrån mot svart bakgrund",
+  "body": [
+    {
+      "_key": "intro",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "introa",
+          "_type": "span",
+          "marks": [],
+          "text": "En toalett ska se ren ut och dofta fräscht varje dag. Urinoarmattan är en liten detalj som gör stor skillnad. Rätt matta håller urinoaren fräsch, minskar stänk på golv och väggar och sparar städtid. De här fem stegen hjälper er att välja den."
+        }
+      ]
+    },
+    {
+      "_key": "h2-traffic",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-traffica",
+          "_type": "span",
+          "marks": [],
+          "text": "Hur välbesökt är er toalett?"
+        }
+      ]
+    },
+    {
+      "_key": "p-traffic-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-traffic-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Börja med besöksfrekvensen. Ju fler besökare, desto mer måste mattan klara."
+        }
+      ]
+    },
+    {
+      "_key": "p-traffic-high",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-traffic-higha",
+          "_type": "span",
+          "marks": [],
+          "text": "På platser med hög besöksfrekvens som restauranger, barer, flygplatser och köpcentrum: välj ëkcoscreen 60+ eller xcrën HD 60+. 60+ dagars doft och täta stänkskyddande borst. ëkcoscreen 60+ kostar ungefär lika mycket per dag som en 30-dagarsmatta. Välj xcrën HD 60+ när även toalettens utseende är viktigt."
+        }
+      ]
+    },
+    {
+      "_key": "p-traffic-standard",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-traffic-standarda",
+          "_type": "span",
+          "marks": [],
+          "text": "Vid normal besöksfrekvens med månatligt underhåll levererar powër screen upp till 30 dagars doft med patenterade stänkskyddande borst. Avsedd för månatligt byte."
+        }
+      ]
+    },
+    {
+      "_key": "p-traffic-budget",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-traffic-budgeta",
+          "_type": "span",
+          "marks": [],
+          "text": "Budgetalternativen üro lite och basic scrëen innehåller mindre material, så de kostar mindre och doften är mildare. üro lite har ändå långa patenterade stänkskyddande borst. basic scrëen skyddar avloppet mot skräp men har inga stänkskyddande borst."
+        }
+      ]
+    },
+    {
+      "_key": "h2-splash",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-splasha",
+          "_type": "span",
+          "marks": [],
+          "text": "Stänkskydd: mindre stänk, mindre städning"
+        }
+      ]
+    },
+    {
+      "_key": "p-splash-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-splash-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Urinstänk utanför urinoaren är obehagligt för besökarna och innebär mer städning. Täta borst fångar upp strålen och håller omgivningen runt urinoaren renare. ëkcoscreen 60+, xcrën HD 60+, powër screen och üro lite har Sealed Bristles Technology™, vårt patenterade stänkskyddssystem."
+        }
+      ]
+    },
+    {
+      "_key": "p-splash-stats",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-splash-statsa",
+          "_type": "span",
+          "marks": [],
+          "text": "95 % av ytan på ëkcoscreen 60+ och 92 % av ytan på xcrën HD 60+ är täckt med patenterade stänkskyddande borst."
+        }
+      ]
+    },
+    {
+      "_key": "p-splash-uv",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-splash-uva",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+ i ett UV-stänktest sida vid sida: inget synligt stänk utanför mattan under identiska förhållanden. Be om videon."
+        }
+      ]
+    },
+    {
+      "_key": "b-splash-power",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-splash-powera",
+          "_type": "span",
+          "marks": [],
+          "text": "powër screen: patenterade stänkskyddande borst."
+        }
+      ]
+    },
+    {
+      "_key": "b-splash-uro",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-splash-uroa",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite: långa patenterade borst ger ett stort stänkskydd i en liten matta."
+        }
+      ]
+    },
+    {
+      "_key": "b-splash-basic",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-splash-basica",
+          "_type": "span",
+          "marks": [],
+          "text": "basic scrëen: inga stänkskyddande borst."
+        }
+      ]
+    },
+    {
+      "_key": "p-splash-tip",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-splash-tipa",
+          "_type": "span",
+          "marks": [],
+          "text": "Tips: Undvik mattor utan täta stänkskyddande borst på välbesökta toaletter."
+        }
+      ]
+    },
+    {
+      "_key": "h2-fragrance",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-fragrancea",
+          "_type": "span",
+          "marks": [],
+          "text": "Doft: hur länge, hur starkt, vilken färg"
+        }
+      ]
+    },
+    {
+      "_key": "h3-frag-long",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h3-frag-longa",
+          "_type": "span",
+          "marks": [],
+          "text": "Hur länge?"
+        }
+      ]
+    },
+    {
+      "_key": "p-frag-long",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-frag-longa",
+          "_type": "span",
+          "marks": [],
+          "text": "Urinoarmattor avger sin doft gradvis. De flesta mattor räcker i upp till 30 dagar och byts varje månad. ëkcoscreen 60+ och xcrën HD 60+ räcker i 60+ dagar, dubbelt så länge som vanliga 30-dagarsmattor, och ännu längre på mindre besökta toaletter."
+        }
+      ]
+    },
+    {
+      "_key": "p-frag-cost",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-frag-costa",
+          "_type": "span",
+          "marks": [],
+          "text": "Med ëkcoscreen 60+ är kostnaden per dag i nivå med en 30-dagarsmatta, men ni byter den hälften så ofta. Det sparar arbetstid."
+        }
+      ]
+    },
+    {
+      "_key": "h3-frag-strong",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h3-frag-stronga",
+          "_type": "span",
+          "marks": [],
+          "text": "Hur starkt?"
+        }
+      ]
+    },
+    {
+      "_key": "p-frag-strong",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-frag-stronga",
+          "_type": "span",
+          "marks": [],
+          "text": "Populära val är skogsbär, fresh, citrus och melon. Intensiteten sträcker sig från mint (svart, mest intensiv) via fresh, citrus, tall och lavendel till mer diskreta tropiska och äpple-dofter."
+        }
+      ]
+    },
+    {
+      "_key": "h3-frag-color",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h3-frag-colora",
+          "_type": "span",
+          "marks": [],
+          "text": "Vilken färg?"
+        }
+      ]
+    },
+    {
+      "_key": "p-frag-color",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-frag-colora",
+          "_type": "span",
+          "marks": [],
+          "text": "Anpassa färgen efter er inredning eller skyltning. Svart ser modernt ut. Blått står för fräschhet."
+        }
+      ]
+    },
+    {
+      "_key": "h2-evidence",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-evidencea",
+          "_type": "span",
+          "marks": [],
+          "text": "Be om belägg för miljöpåståenden"
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Enligt de nya EU-reglerna måste varje miljöpåstående kunna styrkas. Här är det som styrker våra:"
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-bio",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-bioa",
+          "_type": "span",
+          "marks": [],
+          "text": "Biologiskt nedbrytbar på deponi med Eco-One™: 93 % biologisk nedbrytning inom 3,5 år i ett oberoende laboratorietest, testet gjordes enligt ASTM D5511 och ISO 15985 vid Instituto Politécnico Nacional i Mexico City. Samma material utan tillsatsen visade 0 %. Upp till 99 % beräknas inom 5 år."
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-recycled",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-recycleda",
+          "_type": "span",
+          "marks": [],
+          "text": "Tillverkad med återvunnen EVA. Det minskar mängden ny EVA som släpps ut på marknaden."
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-used",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-useda",
+          "_type": "span",
+          "marks": [],
+          "text": "En använd matta är biologiskt förorenad och kan inte återvinnas, så den hamnar på deponi eller går till förbränning. På deponi gör Eco-One™ den biologiskt nedbrytbar."
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-aska",
+          "_type": "span",
+          "marks": [],
+          "text": "Fråga alla leverantörer: Finns det en oberoende testrapport? Gäller påståendet \"100 % återvinningsbar\" även för en använd matta?"
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-boxes",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-boxesa",
+          "_type": "span",
+          "marks": [],
+          "text": "Lådor av 100 % återvunnen kartong. PPWR-dokumentation för förpackningar finns tillgänglig."
+        }
+      ]
+    },
+    {
+      "_key": "h2-urinal",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-urinala",
+          "_type": "span",
+          "marks": [],
+          "text": "Anpassa mattan efter er urinoar"
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-small",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-smalla",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Mindre urinoarer: "
+        },
+        {
+          "_key": "b-urinal-smallba",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite - kompakt, med samma patenterade Sealed Bristles Technology™ som ëkcoscreen 60+."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-most",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-mosta",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "De flesta urinoartyper: "
+        },
+        {
+          "_key": "b-urinal-mostba",
+          "_type": "span",
+          "marks": [],
+          "text": "powër screen, basic scrëen - en flexibel form som passar nästan alla typer av urinoarer."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-waterless",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-waterlessa",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Vattenfria urinoarer: "
+        },
+        {
+          "_key": "b-urinal-waterlessba",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+, xcrën HD 60+ - idealiska för vattenfria urinoarer; powër screen, üro lite och basic scrëen är också lämpliga."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-drain",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-draina",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Skydd av avloppet: "
+        },
+        {
+          "_key": "b-urinal-drainba",
+          "_type": "span",
+          "marks": [],
+          "text": "Varje matta från ëkcos skyddar avloppet mot fasta partiklar och skräp. ëkcoscreen 60+ täcker den största ytan, eftersom den är vår största matta."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-design",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-designa",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "När designen är viktig: "
+        },
+        {
+          "_key": "b-urinal-designba",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën HD 60+ - en patenterad form som gör urinoaren till ett designelement."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-puck",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-pucka",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Hellre urinoarblock? "
+        },
+        {
+          "_key": "b-urinal-puckba",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën puck - en matta med en deodoriserande puck som huvudsakligen består av vax och glycerin. Pucken löses upp vid användning och avger doft i upp till 30 dagar."
+        }
+      ]
+    },
+    {
+      "_key": "h2-summary",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-summarya",
+          "_type": "span",
+          "marks": [],
+          "text": "Sammanfattning: vilken matta för vilken toalett?"
+        }
+      ]
+    },
+    {
+      "_key": "p-summary-intro",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-summary-introa",
+          "_type": "span",
+          "marks": [],
+          "text": "Rätt matta lönar sig: mindre städning, en fräschare toalett och nöjdare besökare."
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-1a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Hög besöksfrekvens: "
+        },
+        {
+          "_key": "b-summary-1ba",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+, xcrën HD 60+"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-2a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Normal besöksfrekvens, månatligt byte: "
+        },
+        {
+          "_key": "b-summary-2ba",
+          "_type": "span",
+          "marks": [],
+          "text": "powër screen"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-3a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Budgetalternativ: "
+        },
+        {
+          "_key": "b-summary-3ba",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite eller basic scrëen utan stänkskyddande borst"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-4",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-4a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Mindre urinoarer: "
+        },
+        {
+          "_key": "b-summary-4ba",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-5",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-5a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Vattenfria urinoarer: "
+        },
+        {
+          "_key": "b-summary-5ba",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+, xcrën HD 60+"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-6",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-6a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Skydd av avloppet: "
+        },
+        {
+          "_key": "b-summary-6ba",
+          "_type": "span",
+          "marks": [],
+          "text": "Varje matta från ëkcos, framför allt ëkcoscreen 60+"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-7",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-7a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "När designen är viktig: "
+        },
+        {
+          "_key": "b-summary-7ba",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën HD 60+"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-8",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-8a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Om ni föredrar urinoarblock: "
+        },
+        {
+          "_key": "b-summary-8ba",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën puck"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-9",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-9a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Biologiskt nedbrytbar på deponi: "
+        },
+        {
+          "_key": "b-summary-9ba",
+          "_type": "span",
+          "marks": [],
+          "text": "Varje matta från ëkcos, med Eco-One™"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-10",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-10a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Egen logotyp: "
+        },
+        {
+          "_key": "b-summary-10ba",
+          "_type": "span",
+          "marks": [],
+          "text": "Private label på varje matta"
+        }
+      ]
+    },
+    {
+      "_key": "h2-complete",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-completea",
+          "_type": "span",
+          "marks": [],
+          "text": "Komplettera toaletten"
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-intro",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-introa",
+          "_type": "span",
+          "marks": [],
+          "text": "Ha en och samma doft från urinoaren till toalettbåset: våra viktigaste serier har samma elva färger och dofter."
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-clip",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-clipa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkco clip - WC-clip med upp till 30 dagars doft. Passar nästan alla toalettstolar."
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-mat",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-mata",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkco mat - golvmatta för urinoarer som skyddar golvet under urinoaren."
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-fresh",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-fresha",
+          "_type": "span",
+          "marks": [],
+          "text": "frësh drop - luftfräschare för toalettbås: 30+ dagars doft i bås med liten ventilation och 60+ dagar i mindre besökta bås, utan batterier eller el."
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-trap",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-trapa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëz trap - patron för vattenfria urinoarer med Falcon Velocity-systemet. Håller avloppslukt borta."
+        }
+      ]
+    },
+    {
+      "_key": "h2-help",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-helpa",
+          "_type": "span",
+          "marks": [],
+          "text": "Osäker på vilken matta ni ska välja?"
+        }
+      ]
+    },
+    {
+      "_key": "p-help-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-help-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Vi hjälper gärna till. Be om prover och testa dem på er egen toalett."
+        }
+      ]
+    },
+    {
+      "_key": "p-help-2",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-help-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Marknadsledare i USA, med produkter lanserade i mer än 70 länder."
+        }
+      ]
+    }
+  ]
+}

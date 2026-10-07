@@ -1,0 +1,971 @@
+{
+  "title": "Ako vybrať správne sitko do pisoára",
+  "excerpt": "Päť krokov k sitku, ktoré vyhovuje vašim toaletám.",
+  "imageAlt": "Modré sitko ëkcoscreen do pisoára s štetinkami proti rozstreku, pohľad zhora na čiernom pozadí",
+  "body": [
+    {
+      "_key": "intro",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "introa",
+          "_type": "span",
+          "marks": [],
+          "text": "Toalety by mali každý deň vyzerať čisto a sviežo voňať. Sitko do pisoára je malý detail, ktorý zohráva veľkú úlohu. Správne sitko udržiava pisoár svieži, obmedzuje rozstrek na podlahu a steny a šetrí čas na upratovanie. Pri výbere vám pomôže týchto päť krokov."
+        }
+      ]
+    },
+    {
+      "_key": "h2-traffic",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-traffica",
+          "_type": "span",
+          "marks": [],
+          "text": "Aké frekventované sú vaše toalety?"
+        }
+      ]
+    },
+    {
+      "_key": "p-traffic-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-traffic-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Začnite návštevnosťou. Čím viac návštevníkov, tým viac musí sitko zvládnuť."
+        }
+      ]
+    },
+    {
+      "_key": "p-traffic-high",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-traffic-higha",
+          "_type": "span",
+          "marks": [],
+          "text": "Pri vysokej návštevnosti v reštauráciách, baroch, letiskách a nákupných centrách: zvoľte ëkcoscreen 60+ alebo xcrën HD 60+. Vôňa na 60+ dní a husté štetinky proti rozstreku. Denné náklady na sitko ëkcoscreen 60+ sú zhruba rovnaké ako pri 30-dňovom sitku. Ak záleží aj na vzhľade toaliet, zvoľte xcrën HD 60+."
+        }
+      ]
+    },
+    {
+      "_key": "p-traffic-standard",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-traffic-standarda",
+          "_type": "span",
+          "marks": [],
+          "text": "Pri bežnej návštevnosti s mesačnou údržbou poskytuje powër screen vôňu až na 30 dní s patentovanými štetinkami proti rozstreku. Je určené na mesačnú výmenu."
+        }
+      ]
+    },
+    {
+      "_key": "p-traffic-budget",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-traffic-budgeta",
+          "_type": "span",
+          "marks": [],
+          "text": "Úsporné riešenia üro lite a basic scrëen obsahujú menej materiálu, preto sú lacnejšie a ich vôňa je jemnejšia. Sitko üro lite má aj tak dlhé patentované štetinky proti rozstreku. Sitko basic scrëen chráni odpad pred nečistotami, ale štetinky proti rozstreku nemá."
+        }
+      ]
+    },
+    {
+      "_key": "h2-splash",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-splasha",
+          "_type": "span",
+          "marks": [],
+          "text": "Ochrana proti rozstreku: menej rozstreku, menej upratovania"
+        }
+      ]
+    },
+    {
+      "_key": "p-splash-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-splash-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Moč, ktorý strieka mimo pisoára, je pre návštevníkov nepríjemný a znamená viac upratovania. Husté štetinky zachytávajú prúd a udržiavajú okolie pisoára čistejšie. Sitká ëkcoscreen 60+, xcrën HD 60+, powër screen a üro lite využívajú Sealed Bristles Technology™, náš patentovaný systém proti rozstreku."
+        }
+      ]
+    },
+    {
+      "_key": "p-splash-stats",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-splash-statsa",
+          "_type": "span",
+          "marks": [],
+          "text": "95 % plochy sitka ëkcoscreen 60+ a 92 % plochy sitka xcrën HD 60+ pokrývajú patentované štetinky proti rozstreku."
+        }
+      ]
+    },
+    {
+      "_key": "p-splash-uv",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-splash-uva",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+ v porovnávacom UV teste rozstreku: žiadny viditeľný rozstrek mimo sitka za identických podmienok. Vyžiadajte si video."
+        }
+      ]
+    },
+    {
+      "_key": "b-splash-power",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-splash-powera",
+          "_type": "span",
+          "marks": [],
+          "text": "powër screen: patentované štetinky proti rozstreku."
+        }
+      ]
+    },
+    {
+      "_key": "b-splash-uro",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-splash-uroa",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite: dlhé patentované štetinky zabezpečia v malom sitku veľkú ochranu proti rozstreku."
+        }
+      ]
+    },
+    {
+      "_key": "b-splash-basic",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-splash-basica",
+          "_type": "span",
+          "marks": [],
+          "text": "basic scrëen: bez štetiniek proti rozstreku."
+        }
+      ]
+    },
+    {
+      "_key": "p-splash-tip",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-splash-tipa",
+          "_type": "span",
+          "marks": [],
+          "text": "Tip: Na frekventovaných toaletách sa vyhnite sitkám bez hustých štetiniek proti rozstreku."
+        }
+      ]
+    },
+    {
+      "_key": "h2-fragrance",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-fragrancea",
+          "_type": "span",
+          "marks": [],
+          "text": "Vôňa: ako dlho, ako silno, aká farba"
+        }
+      ]
+    },
+    {
+      "_key": "h3-frag-long",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h3-frag-longa",
+          "_type": "span",
+          "marks": [],
+          "text": "Ako dlho?"
+        }
+      ]
+    },
+    {
+      "_key": "p-frag-long",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-frag-longa",
+          "_type": "span",
+          "marks": [],
+          "text": "Sitká uvoľňujú vôňu postupne. Väčšina sitiek vydrží až 30 dní a mení sa každý mesiac. Sitká ëkcoscreen 60+ a xcrën HD 60+ vydržia 60+ dní, dvakrát dlhšie ako bežné 30-dňové sitká, a na menej frekventovaných toaletách ešte dlhšie."
+        }
+      ]
+    },
+    {
+      "_key": "p-frag-cost",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-frag-costa",
+          "_type": "span",
+          "marks": [],
+          "text": "Pri sitku ëkcoscreen 60+ sú denné náklady podobné ako pri 30-dňovom sitku, ale výmen je o polovicu menej. To šetrí pracovný čas."
+        }
+      ]
+    },
+    {
+      "_key": "h3-frag-strong",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h3-frag-stronga",
+          "_type": "span",
+          "marks": [],
+          "text": "Ako silno?"
+        }
+      ]
+    },
+    {
+      "_key": "p-frag-strong",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-frag-stronga",
+          "_type": "span",
+          "marks": [],
+          "text": "Medzi obľúbené vône patria lesné plody, fresh, citrusy a melón. Intenzita siahuje od mäty (čierna, najsilnejšia) cez fresh, citrusy, borovicu a levanduľu až po jemné tropické a jablkové vône."
+        }
+      ]
+    },
+    {
+      "_key": "h3-frag-color",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h3-frag-colora",
+          "_type": "span",
+          "marks": [],
+          "text": "Aká farba?"
+        }
+      ]
+    },
+    {
+      "_key": "p-frag-color",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-frag-colora",
+          "_type": "span",
+          "marks": [],
+          "text": "Farbu zlaďte s interiérom alebo značením. Čierna pôsobí moderne. Modrá symbolizuje sviežosť."
+        }
+      ]
+    },
+    {
+      "_key": "h2-evidence",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-evidencea",
+          "_type": "span",
+          "marks": [],
+          "text": "Vyžadujte dôkazy k environmentálnym tvrdeniam"
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Podľa nových pravidiel EÚ musí byť každé environmentálne tvrdenie podložené dôkazmi. Za našimi tvrdeniami stojí toto:"
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-bio",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-bioa",
+          "_type": "span",
+          "marks": [],
+          "text": "Biologicky rozložiteľné na skládke vďaka Eco-One™: 93 % biologického rozkladu za 3,5 roka v nezávislom laboratórnom teste, testované podľa noriem ASTM D5511 a ISO 15985 na Instituto Politécnico Nacional v Mexico City. Rovnaký materiál bez prísady vykázal 0 %. Do 5 rokov sa predpokladá rozklad až 99 %."
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-recycled",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-recycleda",
+          "_type": "span",
+          "marks": [],
+          "text": "Vyrobené s podielom recyklovaného EVA. Tým sa znižuje množstvo nového EVA uvádzaného na trh."
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-used",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-useda",
+          "_type": "span",
+          "marks": [],
+          "text": "Použité sitko je biologicky kontaminované a nedá sa recyklovať, preto končí na skládke alebo v spaľovni. Na skládke je vďaka Eco-One™ biologicky rozložiteľné."
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-aska",
+          "_type": "span",
+          "marks": [],
+          "text": "Opýtajte sa každého dodávateľa: Existuje protokol z nezávislého testu? Platí tvrdenie \"100 % recyklovateľné\" naozaj aj pre použité sitko?"
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-boxes",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-boxesa",
+          "_type": "span",
+          "marks": [],
+          "text": "Krabice zo 100 % recyklovanej lepenky. K dispozícii je dokumentácia obalov podľa PPWR."
+        }
+      ]
+    },
+    {
+      "_key": "h2-urinal",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-urinala",
+          "_type": "span",
+          "marks": [],
+          "text": "Zvoľte sitko podľa svojho pisoára"
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-small",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-smalla",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Menšie pisoáre: "
+        },
+        {
+          "_key": "b-urinal-smallba",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite - kompaktné, s rovnakým patentovaným systémom Sealed Bristles Technology™ ako sitko ëkcoscreen 60+."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-most",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-mosta",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Väčšina typov pisoárov: "
+        },
+        {
+          "_key": "b-urinal-mostba",
+          "_type": "span",
+          "marks": [],
+          "text": "powër screen, basic scrëen - pružný tvar, ktorý pasuje takmer do všetkých typov pisoárov."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-waterless",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-waterlessa",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Bezvodé pisoáre: "
+        },
+        {
+          "_key": "b-urinal-waterlessba",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+, xcrën HD 60+ - ideálne pre bezvodé pisoáre; vhodné sú aj sitká powër screen, üro lite a basic scrëen."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-drain",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-draina",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Ochrana odpadu: "
+        },
+        {
+          "_key": "b-urinal-drainba",
+          "_type": "span",
+          "marks": [],
+          "text": "Každé sitko ëkcos chráni odpad pred pevnými nečistotami a zvyškami. Sitko ëkcoscreen 60+ pokrýva najväčšiu plochu, pretože je to naše najväčšie sitko."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-design",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-designa",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Záleží na dizajne: "
+        },
+        {
+          "_key": "b-urinal-designba",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën HD 60+ - patentovaný tvar, ktorý premení pisoár na dizajnový prvok."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-puck",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-pucka",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Chcete radšej tabletu? "
+        },
+        {
+          "_key": "b-urinal-puckba",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën puck - sitko s dezodoračnou tabletou vyrobenou prevažne z vosku a glycerínu. Tableta sa používaním rozpúšťa a uvoľňuje vôňu až 30 dní."
+        }
+      ]
+    },
+    {
+      "_key": "h2-summary",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-summarya",
+          "_type": "span",
+          "marks": [],
+          "text": "Zhrnutie: aké sitko pre aké toalety?"
+        }
+      ]
+    },
+    {
+      "_key": "p-summary-intro",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-summary-introa",
+          "_type": "span",
+          "marks": [],
+          "text": "Správne sitko sa oplatí: menej upratovania, sviežejšie toalety a spokojnejší návštevníci."
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-1a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Vysoká návštevnosť: "
+        },
+        {
+          "_key": "b-summary-1ba",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+, xcrën HD 60+"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-2a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Bežná návštevnosť, mesačná výmena: "
+        },
+        {
+          "_key": "b-summary-2ba",
+          "_type": "span",
+          "marks": [],
+          "text": "powër screen"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-3a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Úsporné riešenie: "
+        },
+        {
+          "_key": "b-summary-3ba",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite alebo basic scrëen bez štetiniek proti rozstreku"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-4",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-4a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Menšie pisoáre: "
+        },
+        {
+          "_key": "b-summary-4ba",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-5",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-5a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Bezvodé pisoáre: "
+        },
+        {
+          "_key": "b-summary-5ba",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+, xcrën HD 60+"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-6",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-6a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Ochrana odpadu: "
+        },
+        {
+          "_key": "b-summary-6ba",
+          "_type": "span",
+          "marks": [],
+          "text": "Každé sitko ëkcos, predovšetkým ëkcoscreen 60+"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-7",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-7a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Záleží na dizajne: "
+        },
+        {
+          "_key": "b-summary-7ba",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën HD 60+"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-8",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-8a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Radšej tabletu do pisoára: "
+        },
+        {
+          "_key": "b-summary-8ba",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën puck"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-9",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-9a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Biologický rozklad na skládke: "
+        },
+        {
+          "_key": "b-summary-9ba",
+          "_type": "span",
+          "marks": [],
+          "text": "Každé sitko ëkcos, vďaka Eco-One™"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-10",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-10a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Vlastné logo: "
+        },
+        {
+          "_key": "b-summary-10ba",
+          "_type": "span",
+          "marks": [],
+          "text": "Privátna značka na každom sitku"
+        }
+      ]
+    },
+    {
+      "_key": "h2-complete",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-completea",
+          "_type": "span",
+          "marks": [],
+          "text": "Doplňte vybavenie toaliet"
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-intro",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-introa",
+          "_type": "span",
+          "marks": [],
+          "text": "Zjednoťte vôňu od pisoára až po WC kabínu: naše hlavné rady majú rovnakých jedenásť farieb a vôní."
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-clip",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-clipa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkco clip - záveska na WC s vôňou až na 30 dní. Pasuje takmer na každú misu."
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-mat",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-mata",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkco mat - podložka pod pisoár, ktorá chráni podlahu pod ním."
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-fresh",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-fresha",
+          "_type": "span",
+          "marks": [],
+          "text": "frësh drop - osviežovač vzduchu pre WC kabíny: vôňa na 30+ dní v kabínach s malým vetraním a 60+ dní pri nízkej návštevnosti, bez batérií a elektriny."
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-trap",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-trapa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëz trap - kartuša do bezvodých pisoárov so systémom Falcon Velocity. Zabraňuje úniku zápachu z odpadu."
+        }
+      ]
+    },
+    {
+      "_key": "h2-help",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-helpa",
+          "_type": "span",
+          "marks": [],
+          "text": "Nie ste si istí, ktoré sitko vybrať?"
+        }
+      ]
+    },
+    {
+      "_key": "p-help-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-help-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Radi vám pomôžeme. Vyžiadajte si vzorky a vyskúšajte ich na vlastných toaletách."
+        }
+      ]
+    },
+    {
+      "_key": "p-help-2",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-help-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Líder trhu v Spojených štátoch, s výrobkami uvedenými na trh vo viac ako 70 krajinách."
+        }
+      ]
+    }
+  ]
+}

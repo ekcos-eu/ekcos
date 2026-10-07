@@ -111,6 +111,103 @@
       "product": "Produkt",
       "sustainability": "Zrównoważony rozwój",
       "news": "Aktualności"
+    },
+    "advisor": {
+      "steps": {
+        "traffic": "Ruch drogowy",
+        "trafficHint": "Jak zajęta jest toaleta?",
+        "splash": "Ochrona przed rozpryskami",
+        "splashHint": "Jak dobrze zatrzymuje odpryski?",
+        "fragrance": "Zapach",
+        "fragranceHint": "Jak długo, jak mocno, jaki kolor?",
+        "evidence": "Dowód",
+        "evidenceHint": "Czy twierdzenia zostały udowodnione?",
+        "urinal": "Typ pisuaru",
+        "urinalHint": "Jaki rozmiar i typ?"
+      },
+      "traffic": {
+        "highTitle": "Duży ruch",
+        "highPlaces": "Restauracje, bary, lotniska, centra handlowe",
+        "highBody": "Ponad 60 dni zapachu i gęste włosie zapobiegające rozpryskiwaniu. ëkcoscreen 60+ kosztuje mniej więcej tyle samo dziennie, co ekran 30-dniowy. Wybierz xcrën HD 60+, gdy wygląd toalety również ma znaczenie.",
+        "standardTitle": "Ruch standardowy",
+        "standardPlaces": "Konserwacja miesięczna",
+        "standardBody": "Do 30 dni zapachu dzięki opatentowanemu włosiu zapobiegającemu rozpryskiwaniu. Stworzony do miesięcznych zmian.",
+        "budgetTitle": "Opcja budżetowa",
+        "budgetPlaces": "Mniejszy ruch, biura i mniejsze obiekty",
+        "budgetBody": "Zawierają mniej materiału, dzięki czemu są tańsze, a ich zapach jest lżejszy. üro lite nadal ma od dawna opatentowane włosie zapobiegające rozpryskiwaniu. basic scrëen chroni odpływ przed zanieczyszczeniami, ale nie posiada włosia zapobiegającego rozpryskiwaniu."
+      },
+      "splash": {
+        "eksLabel": "powierzchni ëkcoscreen 60+ pokrytej opatentowanym włosiem zapobiegającym rozpryskom",
+        "xhdLabel": "powierzchni xcrën HD 60+ pokrytej opatentowanym włosiem zapobiegającym rozpryskom"
+      },
+      "callouts": {
+        "uv": "ëkcoscreen 60+ w teście rozprysków UV side-by-side: brak widocznych odprysków na zewnątrz ekranu w identycznych warunkach. Poproś o film.",
+        "tip": "Wskazówka: W toaletach o dużym natężeniu ruchu unikaj ekranów bez gęstego włosia zapobiegającego rozpryskom.",
+        "ask": "Zapytaj dowolnego dostawcę: czy istnieje raport z niezależnych testów? Czy stwierdzenie „w 100% nadające się do recyklingu” naprawdę dotyczy używanego ekranu?"
+      },
+      "duration": {
+        "day1": "Dzień 1",
+        "day30": "Dzień 30",
+        "day60": "Dzień 60",
+        "thirtyLabel": "Ekran 30-dniowy",
+        "screen1": "Ekran 1",
+        "screen2": "Ekran 2",
+        "sixtyBar": "Jeden ekran przez ponad 60 dni",
+        "note": "W przypadku ëkcoscreen 60+ koszt dzienny jest podobny do 30-dniowego ekranu, ale zmieniasz go o połowę rzadziej. To oszczędza czas pracy."
+      },
+      "intensity": {
+        "most": "Najbardziej intensywny",
+        "very": "Bardzo intensywny",
+        "medium": "Średni",
+        "subtle": "Subtelny",
+        "popular": "Popularne wybory to jagody, świeże, cytrusowe i melonowe."
+      },
+      "ecoOne": {
+        "title": "Biodegradowalny na wysypisku z <ecoOne>Eco-One™</ecoOne>",
+        "body": "Biodegradacja 93% w ciągu 3,5 roku w niezależnym teście laboratoryjnym (ASTM D5511 i ISO 15985). Ten sam materiał bez dodatku wykazał 0%. Do 99% prognozuje się w ciągu 5 lat."
+      },
+      "urinal": {
+        "smallTitle": "Mniejsze pisuary",
+        "smallBody": "Kompaktowy, z tym samym opatentowanym Sealed Bristles Technology™ co ëkcoscreen 60+.",
+        "mostTitle": "Większość typów pisuarów",
+        "mostBody": "powër screen i basic scrëen - elastyczny kształt pasujący do niemal wszystkich typów pisuarów.",
+        "waterlessTitle": "Pisuary bezwodne",
+        "waterlessBody": "Idealny do pisuarów bezwodnych. Odpowiednie są również powër screen, üro lite i basic scrëen.",
+        "drainTitle": "Ochrona odpływu",
+        "drainBody": "Każdy ekran ëkcos chroni odpływ. ëkcoscreen 60+ obejmuje największy obszar.",
+        "designTitle": "Projekt ma znaczenie",
+        "designBody": "Opatentowany kształt, który zmienia pisuar w element projektu.",
+        "puckTitle": "Wolisz blokadę pisuaru?",
+        "puckBody": "Siatka z krążkiem dezodoryzującym wykonana głównie z wosku i gliceryny. Zapach aż do 30 dni."
+      },
+      "summary": {
+        "colNeed": "Twoja toaleta",
+        "colRec": "Nasza rekomendacja",
+        "rows": {
+          "high": "Duży ruch",
+          "standard": "Ruch standardowy, zmiany miesięczne",
+          "budget": "Opcja budżetowa",
+          "small": "Mniejsze pisuary",
+          "waterless": "Pisuary bezwodne",
+          "drain": "Ochrona odpływu",
+          "design": "Projekt ma znaczenie",
+          "puck": "Wolę blokadę pisuaru",
+          "bio": "Biodegradowalny na wysypiskach",
+          "logo": "Twoje własne logo"
+        },
+        "recs": {
+          "budget": "üro lite lub basic scrëen bez włosia zapobiegającego rozpryskiwaniu",
+          "drain": "Każdy ekran ëkcos, a przede wszystkim ëkcoscreen 60+",
+          "bio": "Każdy ekran ëkcos z Eco-One™",
+          "logo": "Prywatna etykieta na każdym ekranie"
+        }
+      },
+      "complete": {
+        "clip": "Klips do muszli klozetowej z zapachem utrzymującym się do 30 dni. Pasuje do prawie każdej miski.",
+        "fresh": "Odświeżacz powietrza do kabin toaletowych: ponad 30 dni zapachu w kabinach o małej wentylacji i ponad 60 dni przy małym natężeniu ruchu, bez baterii i prądu.",
+        "mat": "Mata podłogowa do pisuaru chroniąca podłogę pod pisuarem.",
+        "trap": "Wkład do pisuarów bezwodnych z systemem Falcon Velocity. Zatrzymuje nieprzyjemne zapachy z kanalizacji."
+      }
     }
   },
   "newsletter": {

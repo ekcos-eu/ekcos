@@ -1,0 +1,971 @@
+{
+  "title": "Kaip išsirinkti tinkamą pisuaro tinklelį",
+  "excerpt": "Penki žingsniai iki tinklelio, tinkančio jūsų tualetui.",
+  "imageAlt": "Mėlynas ëkcoscreen pisuaro tinklelis su šereliais nuo purslų, vaizdas iš viršaus ant juodo fono",
+  "body": [
+    {
+      "_key": "intro",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "introa",
+          "_type": "span",
+          "marks": [],
+          "text": "Tualetas kasdien turi atrodyti švarus ir gaiviai kvepėti. Pisuaro tinklelis yra maža detalė, turinti didelę reikšmę. Tinkamas tinklelis palaiko pisuaro gaivumą, mažina purslus ant grindų bei sienų ir sutaupo valymo laiko. Šie penki žingsniai padės jums jį išsirinkti."
+        }
+      ]
+    },
+    {
+      "_key": "h2-traffic",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-traffica",
+          "_type": "span",
+          "marks": [],
+          "text": "Kiek lankomas jūsų tualetas?"
+        }
+      ]
+    },
+    {
+      "_key": "p-traffic-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-traffic-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Pradėkite nuo lankomumo. Kuo daugiau lankytojų, tuo didesnė apkrova tinkleliui."
+        }
+      ]
+    },
+    {
+      "_key": "p-traffic-high",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-traffic-higha",
+          "_type": "span",
+          "marks": [],
+          "text": "Didelio lankomumo vietose, pavyzdžiui restoranuose, baruose, oro uostuose ir prekybos centruose: rinkitės ëkcoscreen 60+ arba xcrën HD 60+. 60+ dienų kvapas ir tankūs šereliai nuo purslų. Tinklelio ëkcoscreen 60+ kaina per dieną maždaug tokia pati kaip 30 dienų tinklelio. Rinkitės tinklelį xcrën HD 60+, kai svarbi ir tualeto išvaizda."
+        }
+      ]
+    },
+    {
+      "_key": "p-traffic-standard",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-traffic-standarda",
+          "_type": "span",
+          "marks": [],
+          "text": "Vidutiniam lankomumui su kas mėnesine priežiūra powër screen suteikia kvapą iki 30 dienų su užpatentuotais šereliais nuo purslų. Skirtas keisti kas mėnesį."
+        }
+      ]
+    },
+    {
+      "_key": "p-traffic-budget",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-traffic-budgeta",
+          "_type": "span",
+          "marks": [],
+          "text": "Ekonomiški üro lite ir basic scrëen turi mažiau medžiagos, todėl jie kainuoja mažiau, o jų kvapas lengvesnis. üro lite vis tiek turi ilgus užpatentuotus šerelius nuo purslų. basic scrëen apsaugo kanalizaciją nuo šiukšlių, bet neturi šerelių nuo purslų."
+        }
+      ]
+    },
+    {
+      "_key": "h2-splash",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-splasha",
+          "_type": "span",
+          "marks": [],
+          "text": "Apsauga nuo purslų: mažiau purslų, mažiau valymo"
+        }
+      ]
+    },
+    {
+      "_key": "p-splash-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-splash-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Šlapimo purslai už pisuaro ribų yra nemalonūs lankytojams ir reiškia daugiau valymo. Tankūs šereliai sulaiko srovę ir palaiko švaresnę pisuaro aplinką. Tinkleliuose ëkcoscreen 60+, xcrën HD 60+, powër screen ir üro lite naudojama Sealed Bristles Technology™, mūsų užpatentuota apsaugos nuo purslų sistema."
+        }
+      ]
+    },
+    {
+      "_key": "p-splash-stats",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-splash-statsa",
+          "_type": "span",
+          "marks": [],
+          "text": "95% tinklelio ëkcoscreen 60+ paviršiaus ir 92% tinklelio xcrën HD 60+ paviršiaus padengta užpatentuotais šereliais nuo purslų."
+        }
+      ]
+    },
+    {
+      "_key": "p-splash-uv",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-splash-uva",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+ lyginamajame UV purslų bandyme: vienodomis sąlygomis už tinklelio ribų nebuvo matomų purslų. Paprašykite vaizdo įrašo."
+        }
+      ]
+    },
+    {
+      "_key": "b-splash-power",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-splash-powera",
+          "_type": "span",
+          "marks": [],
+          "text": "powër screen: užpatentuoti šereliai nuo purslų."
+        }
+      ]
+    },
+    {
+      "_key": "b-splash-uro",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-splash-uroa",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite: ilgi užpatentuoti šereliai mažame tinklelyje užtikrina didelę apsaugą nuo purslų."
+        }
+      ]
+    },
+    {
+      "_key": "b-splash-basic",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-splash-basica",
+          "_type": "span",
+          "marks": [],
+          "text": "basic scrëen: be šerelių nuo purslų."
+        }
+      ]
+    },
+    {
+      "_key": "p-splash-tip",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-splash-tipa",
+          "_type": "span",
+          "marks": [],
+          "text": "Patarimas: Daug lankomuose tualetuose venkite tinklelių be tankių šerelių nuo purslų."
+        }
+      ]
+    },
+    {
+      "_key": "h2-fragrance",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-fragrancea",
+          "_type": "span",
+          "marks": [],
+          "text": "Kvapas: kiek ilgai, kiek stipriai, kokia spalva"
+        }
+      ]
+    },
+    {
+      "_key": "h3-frag-long",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h3-frag-longa",
+          "_type": "span",
+          "marks": [],
+          "text": "Kiek ilgai?"
+        }
+      ]
+    },
+    {
+      "_key": "p-frag-long",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-frag-longa",
+          "_type": "span",
+          "marks": [],
+          "text": "Tinkleliai skleidžia kvapą palaipsniui. Dauguma tinklelių tarnauja iki 30 dienų ir keičiami kas mėnesį. Tinkleliai ëkcoscreen 60+ ir xcrën HD 60+ tarnauja 60+ dienų, dvigubai ilgiau nei standartiniai 30 dienų tinkleliai, o mažai lankomuose tualetuose dar ilgiau."
+        }
+      ]
+    },
+    {
+      "_key": "p-frag-cost",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-frag-costa",
+          "_type": "span",
+          "marks": [],
+          "text": "Su tinkleliu ëkcoscreen 60+ kaina per dieną panaši į 30 dienų tinklelio kainą, tačiau jį keičiate dvigubai rečiau. Taip taupomas darbo laikas."
+        }
+      ]
+    },
+    {
+      "_key": "h3-frag-strong",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h3-frag-stronga",
+          "_type": "span",
+          "marks": [],
+          "text": "Kiek stipriai?"
+        }
+      ]
+    },
+    {
+      "_key": "p-frag-strong",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-frag-stronga",
+          "_type": "span",
+          "marks": [],
+          "text": "Dažnai pasirenkami kvapai: miško uogos, fresh, citrusai ir melionas. Intensyvumas svyruoja nuo mėtos (juodas, intensyviausias) per fresh, citrusus, pušį ir levandą iki švelnių tropinių ir obuolių kvapų."
+        }
+      ]
+    },
+    {
+      "_key": "h3-frag-color",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h3-frag-colora",
+          "_type": "span",
+          "marks": [],
+          "text": "Kokia spalva?"
+        }
+      ]
+    },
+    {
+      "_key": "p-frag-color",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-frag-colora",
+          "_type": "span",
+          "marks": [],
+          "text": "Parinkite spalvą pagal interjerą ar ženklinimą. Juoda atrodo moderniai. Mėlyna simbolizuoja gaivumą."
+        }
+      ]
+    },
+    {
+      "_key": "h2-evidence",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-evidencea",
+          "_type": "span",
+          "marks": [],
+          "text": "Prašykite aplinkosauginių teiginių įrodymų"
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Pagal naująsias ES taisykles kiekvienas aplinkosauginis teiginys turi būti pagrįstas įrodymais. Štai mūsų įrodymai:"
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-bio",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-bioa",
+          "_type": "span",
+          "marks": [],
+          "text": "Biologiškai skaidus sąvartyne su Eco-One™: 93% biologiškai suiro per 3,5 metų nepriklausomame laboratorijos bandyme, bandymas atliktas pagal ASTM D5511 ir ISO 15985 Instituto Politécnico Nacional Meksiko mieste. Ta pati medžiaga be priedo suiro 0%. Per 5 metus prognozuojama iki 99%."
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-recycled",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-recycleda",
+          "_type": "span",
+          "marks": [],
+          "text": "Pagamintas naudojant perdirbtą EVA. Tai mažina į rinką patenkančio naujo EVA kiekį."
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-used",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-useda",
+          "_type": "span",
+          "marks": [],
+          "text": "Panaudotas tinklelis yra biologiškai užterštas ir negali būti perdirbtas, todėl patenka į sąvartyną arba yra deginamas. Sąvartyne Eco-One™ jį padaro biologiškai skaidų."
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-aska",
+          "_type": "span",
+          "marks": [],
+          "text": "Paklauskite bet kurio tiekėjo: Ar yra nepriklausomo bandymo ataskaita? Ar teiginys \"100% perdirbamas\" tikrai galioja panaudotam tinkleliui?"
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-boxes",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-boxesa",
+          "_type": "span",
+          "marks": [],
+          "text": "Dėžės iš 100% perdirbto kartono. Turime PPWR pakuočių dokumentaciją."
+        }
+      ]
+    },
+    {
+      "_key": "h2-urinal",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-urinala",
+          "_type": "span",
+          "marks": [],
+          "text": "Parinkite tinklelį pagal pisuarą"
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-small",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-smalla",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Mažesni pisuarai: "
+        },
+        {
+          "_key": "b-urinal-smallba",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite - kompaktiškas, su ta pačia užpatentuota Sealed Bristles Technology™ kaip ir tinklelyje ëkcoscreen 60+."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-most",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-mosta",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Dauguma pisuarų tipų: "
+        },
+        {
+          "_key": "b-urinal-mostba",
+          "_type": "span",
+          "marks": [],
+          "text": "powër screen, basic scrëen - lanksti forma, tinkanti beveik visų tipų pisuarams."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-waterless",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-waterlessa",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Bevandeniai pisuarai: "
+        },
+        {
+          "_key": "b-urinal-waterlessba",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+, xcrën HD 60+ - idealiai tinka bevandeniams pisuarams. powër screen, üro lite ir basic scrëen taip pat tinka."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-drain",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-draina",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Kanalizacijos apsauga: "
+        },
+        {
+          "_key": "b-urinal-drainba",
+          "_type": "span",
+          "marks": [],
+          "text": "Kiekvienas ëkcos tinklelis apsaugo kanalizaciją nuo kietųjų dalelių ir šiukšlių. ëkcoscreen 60+ uždengia didžiausią plotą, nes tai mūsų didžiausias tinklelis."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-design",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-designa",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Kai svarbus dizainas: "
+        },
+        {
+          "_key": "b-urinal-designba",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën HD 60+ - užpatentuota forma, kuri paverčia pisuarą dizaino elementu."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-puck",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-pucka",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Norite pisuaro tabletės? "
+        },
+        {
+          "_key": "b-urinal-puckba",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën puck - tinklelis su dezodoruojančia tablete, kuri daugiausia pagaminta iš vaško ir glicerino. Naudojant tabletė ištirpsta ir iki 30 dienų skleidžia kvapą."
+        }
+      ]
+    },
+    {
+      "_key": "h2-summary",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-summarya",
+          "_type": "span",
+          "marks": [],
+          "text": "Santrauka: koks tinklelis kokiam tualetui?"
+        }
+      ]
+    },
+    {
+      "_key": "p-summary-intro",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-summary-introa",
+          "_type": "span",
+          "marks": [],
+          "text": "Tinkamas tinklelis atsiperka: mažiau valymo, gaivesnis tualetas ir labiau patenkinti lankytojai."
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-1a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Didelis lankomumas: "
+        },
+        {
+          "_key": "b-summary-1ba",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+, xcrën HD 60+"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-2a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Vidutinis lankomumas, keitimas kas mėnesį: "
+        },
+        {
+          "_key": "b-summary-2ba",
+          "_type": "span",
+          "marks": [],
+          "text": "powër screen"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-3a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Ekonomiškas variantas: "
+        },
+        {
+          "_key": "b-summary-3ba",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite arba basic scrëen be šerelių nuo purslų"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-4",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-4a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Mažesni pisuarai: "
+        },
+        {
+          "_key": "b-summary-4ba",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-5",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-5a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Bevandeniai pisuarai: "
+        },
+        {
+          "_key": "b-summary-5ba",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+, xcrën HD 60+"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-6",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-6a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Kanalizacijos apsauga: "
+        },
+        {
+          "_key": "b-summary-6ba",
+          "_type": "span",
+          "marks": [],
+          "text": "Kiekvienas ëkcos tinklelis, ypač ëkcoscreen 60+"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-7",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-7a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Kai svarbus dizainas: "
+        },
+        {
+          "_key": "b-summary-7ba",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën HD 60+"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-8",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-8a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Jei norite pisuaro tabletės: "
+        },
+        {
+          "_key": "b-summary-8ba",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën puck"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-9",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-9a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Biologiškai skaidus sąvartyne: "
+        },
+        {
+          "_key": "b-summary-9ba",
+          "_type": "span",
+          "marks": [],
+          "text": "Kiekvienas ëkcos tinklelis, su Eco-One™"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-10",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-10a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Jūsų pačių logotipas: "
+        },
+        {
+          "_key": "b-summary-10ba",
+          "_type": "span",
+          "marks": [],
+          "text": "Privatus prekės ženklas kiekvienam tinkleliui"
+        }
+      ]
+    },
+    {
+      "_key": "h2-complete",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-completea",
+          "_type": "span",
+          "marks": [],
+          "text": "Papildykite tualeto įrangą"
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-intro",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-introa",
+          "_type": "span",
+          "marks": [],
+          "text": "Išlaikykite vieną kvapą nuo pisuaro iki tualeto kabinos: pagrindinės mūsų linijos turi tas pačias vienuolika spalvų ir kvapų."
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-clip",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-clipa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkco clip - pakabinamas WC gaiviklis, skleidžiantis kvapą iki 30 dienų. Tinka beveik bet kuriam klozetui."
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-mat",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-mata",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkco mat - grindų kilimėlis po pisuaru, apsaugantis grindis."
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-fresh",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-fresha",
+          "_type": "span",
+          "marks": [],
+          "text": "frësh drop - oro gaiviklis tualeto kabinoms: 30+ dienų kvapas silpnai vėdinamose kabinose ir 60+ dienų mažai lankomose, be baterijų ir elektros."
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-trap",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-trapa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëz trap - kasetė bevandeniams pisuarams su Falcon Velocity sistema. Neleidžia kanalizacijos kvapams išsiveržti."
+        }
+      ]
+    },
+    {
+      "_key": "h2-help",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-helpa",
+          "_type": "span",
+          "marks": [],
+          "text": "Nežinote, kurį tinklelį pasirinkti?"
+        }
+      ]
+    },
+    {
+      "_key": "p-help-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-help-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Mielai padėsime. Paprašykite pavyzdžių ir išbandykite juos savo tualete."
+        }
+      ]
+    },
+    {
+      "_key": "p-help-2",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-help-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Esame rinkos lyderiai JAV, o savo gaminius pristatėme daugiau nei 70 šalių."
+        }
+      ]
+    }
+  ]
+}

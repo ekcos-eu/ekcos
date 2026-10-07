@@ -111,6 +111,103 @@
       "product": "Product",
       "sustainability": "Sustainability",
       "news": "News"
+    },
+    "advisor": {
+      "steps": {
+        "traffic": "Traffic",
+        "trafficHint": "How busy is the restroom?",
+        "splash": "Splash protection",
+        "splashHint": "How well does it stop splashback?",
+        "fragrance": "Fragrance",
+        "fragranceHint": "How long, how strong, which color?",
+        "evidence": "Evidence",
+        "evidenceHint": "Are the claims proven?",
+        "urinal": "Urinal type",
+        "urinalHint": "What size and type?"
+      },
+      "traffic": {
+        "highTitle": "High traffic",
+        "highPlaces": "Restaurants, bars, airports, shopping malls",
+        "highBody": "60+ days of fragrance and dense anti-splash bristles. ëkcoscreen 60+ costs about the same per day as a 30-day screen. Choose xcrën HD 60+ when the look of the restroom matters too.",
+        "standardTitle": "Standard traffic",
+        "standardPlaces": "Monthly maintenance",
+        "standardBody": "Up to 30 days of fragrance with patented anti-splash bristles. Made for monthly changes.",
+        "budgetTitle": "Budget option",
+        "budgetPlaces": "Lower traffic, offices and smaller facilities",
+        "budgetBody": "They contain less material, so they cost less and their fragrance is lighter. üro lite still has long patented anti-splash bristles. basic scrëen protects the drain from debris but has no anti-splash bristles."
+      },
+      "splash": {
+        "eksLabel": "of the ëkcoscreen 60+ surface covered with patented anti-splash bristles",
+        "xhdLabel": "of the xcrën HD 60+ surface covered with patented anti-splash bristles"
+      },
+      "callouts": {
+        "uv": "ëkcoscreen 60+ in a side-by-side UV splash test: no visible splashback outside the screen under identical conditions. Ask for the video.",
+        "tip": "Tip: In high-traffic restrooms, avoid screens without dense anti-splash bristles.",
+        "ask": "Ask any supplier: Is there an independent test report? Does a \"100% recyclable\" claim really apply to a used screen?"
+      },
+      "duration": {
+        "day1": "Day 1",
+        "day30": "Day 30",
+        "day60": "Day 60",
+        "thirtyLabel": "30-day screen",
+        "screen1": "Screen 1",
+        "screen2": "Screen 2",
+        "sixtyBar": "One screen for 60+ days",
+        "note": "With ëkcoscreen 60+, the cost per day is similar to a 30-day screen, but you change it half as often. That saves working time."
+      },
+      "intensity": {
+        "most": "Most intense",
+        "very": "Very intense",
+        "medium": "Medium",
+        "subtle": "Subtle",
+        "popular": "Popular choices are berry, fresh, citrus and melon."
+      },
+      "ecoOne": {
+        "title": "Biodegradable in landfill with <ecoOne>Eco-One™</ecoOne>",
+        "body": "93% biodegradation within 3.5 years in an independent laboratory test (ASTM D5511 and ISO 15985). The same material without the additive showed 0%. Up to 99% is projected within 5 years."
+      },
+      "urinal": {
+        "smallTitle": "Smaller urinals",
+        "smallBody": "Compact, with the same patented Sealed Bristles Technology™ as ëkcoscreen 60+.",
+        "mostTitle": "Most urinal types",
+        "mostBody": "powër screen and basic scrëen - a flexible shape that fits almost all types of urinals.",
+        "waterlessTitle": "Waterless urinals",
+        "waterlessBody": "Ideal for waterless urinals. powër screen, üro lite and basic scrëen are suitable too.",
+        "drainTitle": "Drain protection",
+        "drainBody": "Every ëkcos screen protects the drain. ëkcoscreen 60+ covers the largest area.",
+        "designTitle": "Design matters",
+        "designBody": "A patented shape that turns the urinal into a design element.",
+        "puckTitle": "Prefer a urinal block?",
+        "puckBody": "A screen with a deodorizing puck made mainly from wax and glycerin. Fragrance for up to 30 days."
+      },
+      "summary": {
+        "colNeed": "Your restroom",
+        "colRec": "Our recommendation",
+        "rows": {
+          "high": "High traffic",
+          "standard": "Standard traffic, monthly changes",
+          "budget": "Budget option",
+          "small": "Smaller urinals",
+          "waterless": "Waterless urinals",
+          "drain": "Drain protection",
+          "design": "Design matters",
+          "puck": "Prefer a urinal block",
+          "bio": "Biodegradable in landfill",
+          "logo": "Your own logo"
+        },
+        "recs": {
+          "budget": "üro lite, or basic scrëen without anti-splash bristles",
+          "drain": "Every ëkcos screen, most of all ëkcoscreen 60+",
+          "bio": "Every ëkcos screen, with Eco-One™",
+          "logo": "Private label on every screen"
+        }
+      },
+      "complete": {
+        "clip": "Toilet bowl clip with up to 30 days of fragrance. Fits almost any bowl.",
+        "fresh": "Air freshener for toilet cubicles: 30+ days of fragrance in cubicles with little ventilation and 60+ days at low traffic, no batteries or electricity.",
+        "mat": "Urinal floor mat that protects the floor beneath the urinal.",
+        "trap": "Cartridge for waterless urinals with the Falcon Velocity system. Keeps drain odors out."
+      }
     }
   },
   "newsletter": {

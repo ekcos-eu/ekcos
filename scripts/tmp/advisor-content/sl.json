@@ -1,0 +1,971 @@
+{
+  "title": "Kako izbrati pravo mrežico za pisoar",
+  "excerpt": "Pet korakov do mrežice, ki ustreza vašim sanitarijam.",
+  "imageAlt": "Modra mrežica ëkcoscreen za pisoar s ščetinami proti brizganju, pogled od zgoraj na črnem ozadju",
+  "body": [
+    {
+      "_key": "intro",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "introa",
+          "_type": "span",
+          "marks": [],
+          "text": "Sanitarije bi morale biti vsak dan videti čiste in sveže dišati. Mrežica za pisoar je majhna podrobnost, ki veliko pomeni. Prava mrežica ohranja pisoar svež, zmanjša brizganje na tla in stene ter prihrani čas za čiščenje. Teh pet korakov vam bo pomagalo pri izbiri."
+        }
+      ]
+    },
+    {
+      "_key": "h2-traffic",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-traffica",
+          "_type": "span",
+          "marks": [],
+          "text": "Kako obiskane so vaše sanitarije?"
+        }
+      ]
+    },
+    {
+      "_key": "p-traffic-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-traffic-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Začnite z obiskom. Več ko je obiskovalcev, več mora mrežica zdržati."
+        }
+      ]
+    },
+    {
+      "_key": "p-traffic-high",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-traffic-higha",
+          "_type": "span",
+          "marks": [],
+          "text": "Na lokacijah z velikim obiskom, na primer v restavracijah, barih, na letališčih in v nakupovalnih središčih: izberite ëkcoscreen 60+ ali xcrën HD 60+. 60+ dni vonja in goste ščetine proti brizganju. Mrežica ëkcoscreen 60+ na dan stane približno toliko kot 30-dnevna mrežica. Mrežico xcrën HD 60+ izberite, kadar je pomemben tudi videz sanitarij."
+        }
+      ]
+    },
+    {
+      "_key": "p-traffic-standard",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-traffic-standarda",
+          "_type": "span",
+          "marks": [],
+          "text": "Pri standardnem obisku z mesečnim vzdrževanjem powër screen nudi do 30 dni vonja in patentirane ščetine proti brizganju. Zasnovana je za mesečno menjavo."
+        }
+      ]
+    },
+    {
+      "_key": "p-traffic-budget",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-traffic-budgeta",
+          "_type": "span",
+          "marks": [],
+          "text": "Cenovno ugodni üro lite in basic scrëen vsebujejo manj materiala, zato so cenejši in imajo blažji vonj. Mrežica üro lite ima kljub temu dolge patentirane ščetine proti brizganju. Mrežica basic scrëen ščiti odtok pred odpadki, vendar nima ščetin proti brizganju."
+        }
+      ]
+    },
+    {
+      "_key": "h2-splash",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-splasha",
+          "_type": "span",
+          "marks": [],
+          "text": "Zaščita pred brizganjem: manj brizganja, manj čiščenja"
+        }
+      ]
+    },
+    {
+      "_key": "p-splash-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-splash-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Urin, ki brizga zunaj pisoarja, je neprijeten za obiskovalce in pomeni več čiščenja. Goste ščetine prestrežejo curek in ohranjajo okolico pisoarja čistejšo. Mrežice ëkcoscreen 60+, xcrën HD 60+, powër screen in üro lite uporabljajo tehnologijo Sealed Bristles Technology™, naš patentirani sistem proti brizganju."
+        }
+      ]
+    },
+    {
+      "_key": "p-splash-stats",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-splash-statsa",
+          "_type": "span",
+          "marks": [],
+          "text": "95% površine mrežice ëkcoscreen 60+ in 92% površine mrežice xcrën HD 60+ prekrivajo patentirane ščetine proti brizganju."
+        }
+      ]
+    },
+    {
+      "_key": "p-splash-uv",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-splash-uva",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+ v primerjalnem UV-preskusu brizganja: brez vidnega brizganja zunaj mrežice pod enakimi pogoji. Zahtevajte video."
+        }
+      ]
+    },
+    {
+      "_key": "b-splash-power",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-splash-powera",
+          "_type": "span",
+          "marks": [],
+          "text": "powër screen: patentirane ščetine proti brizganju."
+        }
+      ]
+    },
+    {
+      "_key": "b-splash-uro",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-splash-uroa",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite: dolge patentirane ščetine v majhni mrežici zagotavljajo veliko zaščito pred brizganjem."
+        }
+      ]
+    },
+    {
+      "_key": "b-splash-basic",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-splash-basica",
+          "_type": "span",
+          "marks": [],
+          "text": "basic scrëen: brez ščetin proti brizganju."
+        }
+      ]
+    },
+    {
+      "_key": "p-splash-tip",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-splash-tipa",
+          "_type": "span",
+          "marks": [],
+          "text": "Nasvet: V zelo obiskanih sanitarijah se izogibajte mrežicam brez gostih ščetin proti brizganju."
+        }
+      ]
+    },
+    {
+      "_key": "h2-fragrance",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-fragrancea",
+          "_type": "span",
+          "marks": [],
+          "text": "Vonj: kako dolgo, kako močno, katera barva"
+        }
+      ]
+    },
+    {
+      "_key": "h3-frag-long",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h3-frag-longa",
+          "_type": "span",
+          "marks": [],
+          "text": "Kako dolgo?"
+        }
+      ]
+    },
+    {
+      "_key": "p-frag-long",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-frag-longa",
+          "_type": "span",
+          "marks": [],
+          "text": "Mrežice vonj sproščajo postopoma. Večina mrežic zdrži do 30 dni in se menja vsak mesec. Mrežici ëkcoscreen 60+ in xcrën HD 60+ zdržita 60+ dni, dvakrat dlje kot standardne 30-dnevne mrežice, v manj obiskanih sanitarijah pa še dlje."
+        }
+      ]
+    },
+    {
+      "_key": "p-frag-cost",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-frag-costa",
+          "_type": "span",
+          "marks": [],
+          "text": "Pri mrežici ëkcoscreen 60+ je strošek na dan podoben kot pri 30-dnevni mrežici, vendar jo menjate dvakrat redkeje. To prihrani delovni čas."
+        }
+      ]
+    },
+    {
+      "_key": "h3-frag-strong",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h3-frag-stronga",
+          "_type": "span",
+          "marks": [],
+          "text": "Kako močno?"
+        }
+      ]
+    },
+    {
+      "_key": "p-frag-strong",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-frag-stronga",
+          "_type": "span",
+          "marks": [],
+          "text": "Priljubljene izbire so gozdni sadeži, fresh, citrusi in melona. Intenzivnost sega od mete (črna, najintenzivnejša) prek fresh, citrusov, bora in sivke do diskretnih tropskih in jabolkovih vonjev."
+        }
+      ]
+    },
+    {
+      "_key": "h3-frag-color",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h3-frag-colora",
+          "_type": "span",
+          "marks": [],
+          "text": "Katera barva?"
+        }
+      ]
+    },
+    {
+      "_key": "p-frag-color",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-frag-colora",
+          "_type": "span",
+          "marks": [],
+          "text": "Barvo uskladite z notranjo opremo ali oznakami. Črna deluje moderno. Modra simbolizira svežino."
+        }
+      ]
+    },
+    {
+      "_key": "h2-evidence",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-evidencea",
+          "_type": "span",
+          "marks": [],
+          "text": "Zahtevajte dokaze za okoljske trditve"
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Po novih pravilih EU mora biti vsaka okoljska trditev podprta z dokazi. Za našimi stoji naslednje:"
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-bio",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-bioa",
+          "_type": "span",
+          "marks": [],
+          "text": "Biorazgradljivo na odlagališču odpadkov z aditivom Eco-One™: 93% stopnja biorazgradnje v roku 3,5 leta, izmerjena v neodvisnem laboratorijskem preskusu, preskus po standardih ASTM D5511 in ISO 15985 je izvedel Instituto Politécnico Nacional v mestu Ciudad de México. Isti material brez aditiva je pokazal 0%. V roku 5 let je predvidena biorazgradnja do 99%."
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-recycled",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-recycleda",
+          "_type": "span",
+          "marks": [],
+          "text": "Izdelano z recikliranim EVA materialom. To zmanjšuje količino novega EVA materiala, ki se daje na trg."
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-used",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-useda",
+          "_type": "span",
+          "marks": [],
+          "text": "Uporabljena mrežica je biološko kontaminirana in je ni mogoče reciklirati, zato konča na odlagališču odpadkov ali v sežigalnici. Na odlagališču odpadkov jo Eco-One™ naredi biorazgradljivo."
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-aska",
+          "_type": "span",
+          "marks": [],
+          "text": "Vprašajte vsakega dobavitelja: Ali obstaja neodvisno poročilo o preskusu? Ali trditev \"100% reciklabilno\" res velja tudi za uporabljeno mrežico?"
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-boxes",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-boxesa",
+          "_type": "span",
+          "marks": [],
+          "text": "Škatle iz 100% recikliranega kartona. Na voljo je dokumentacija PPWR za embalažo."
+        }
+      ]
+    },
+    {
+      "_key": "h2-urinal",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-urinala",
+          "_type": "span",
+          "marks": [],
+          "text": "Izberite mrežico glede na svoj pisoar"
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-small",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-smalla",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Manjši pisoarji: "
+        },
+        {
+          "_key": "b-urinal-smallba",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite - kompaktna, z enako patentirano tehnologijo Sealed Bristles Technology™ kot pri mrežici ëkcoscreen 60+."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-most",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-mosta",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Večina vrst pisoarjev: "
+        },
+        {
+          "_key": "b-urinal-mostba",
+          "_type": "span",
+          "marks": [],
+          "text": "powër screen, basic scrëen - prožna oblika, ki ustreza skoraj vsem vrstam pisoarjev."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-waterless",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-waterlessa",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Brezvodni pisoarji: "
+        },
+        {
+          "_key": "b-urinal-waterlessba",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+, xcrën HD 60+ - idealno za brezvodne pisoarje. Primerne so tudi mrežice powër screen, üro lite in basic scrëen."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-drain",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-draina",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Zaščita odtoka: "
+        },
+        {
+          "_key": "b-urinal-drainba",
+          "_type": "span",
+          "marks": [],
+          "text": "Vsaka mrežica ëkcos ščiti odtok pred trdnimi delci in odpadki. Mrežica ëkcoscreen 60+ pokrije največjo površino, ker je naša največja mrežica."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-design",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-designa",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Dizajn je pomemben: "
+        },
+        {
+          "_key": "b-urinal-designba",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën HD 60+ - patentirana oblika, ki pisoar spremeni v dizajnerski element."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-puck",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-pucka",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Imate raje tableto za pisoar? "
+        },
+        {
+          "_key": "b-urinal-puckba",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën puck - mrežica s tableto proti vonjavam, izdelano predvsem iz voska in glicerina. Tableta se z uporabo raztaplja in sprošča vonj do 30 dni."
+        }
+      ]
+    },
+    {
+      "_key": "h2-summary",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-summarya",
+          "_type": "span",
+          "marks": [],
+          "text": "Povzetek: katera mrežica za katere sanitarije?"
+        }
+      ]
+    },
+    {
+      "_key": "p-summary-intro",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-summary-introa",
+          "_type": "span",
+          "marks": [],
+          "text": "Prava mrežica se izplača: manj čiščenja, svežejše sanitarije in zadovoljnejši obiskovalci."
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-1a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Velik obisk: "
+        },
+        {
+          "_key": "b-summary-1ba",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+, xcrën HD 60+"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-2a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Standardni obisk, mesečna menjava: "
+        },
+        {
+          "_key": "b-summary-2ba",
+          "_type": "span",
+          "marks": [],
+          "text": "powër screen"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-3a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Cenovno ugodna izbira: "
+        },
+        {
+          "_key": "b-summary-3ba",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite ali basic scrëen brez ščetin proti brizganju"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-4",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-4a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Manjši pisoarji: "
+        },
+        {
+          "_key": "b-summary-4ba",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-5",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-5a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Brezvodni pisoarji: "
+        },
+        {
+          "_key": "b-summary-5ba",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+, xcrën HD 60+"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-6",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-6a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Zaščita odtoka: "
+        },
+        {
+          "_key": "b-summary-6ba",
+          "_type": "span",
+          "marks": [],
+          "text": "Vsaka mrežica ëkcos, predvsem ëkcoscreen 60+"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-7",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-7a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Dizajn je pomemben: "
+        },
+        {
+          "_key": "b-summary-7ba",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën HD 60+"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-8",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-8a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Imate raje tableto za pisoar: "
+        },
+        {
+          "_key": "b-summary-8ba",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën puck"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-9",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-9a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Biorazgradljivost na odlagališču: "
+        },
+        {
+          "_key": "b-summary-9ba",
+          "_type": "span",
+          "marks": [],
+          "text": "Vsaka mrežica ëkcos, z aditivom Eco-One™"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-10",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-10a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Lasten logotip: "
+        },
+        {
+          "_key": "b-summary-10ba",
+          "_type": "span",
+          "marks": [],
+          "text": "Zasebna blagovna znamka na vsaki mrežici"
+        }
+      ]
+    },
+    {
+      "_key": "h2-complete",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-completea",
+          "_type": "span",
+          "marks": [],
+          "text": "Dopolnite sanitarije"
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-intro",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-introa",
+          "_type": "span",
+          "marks": [],
+          "text": "Ohranite en sam vonj od pisoarja do WC-kabine: naše glavne linije imajo istih enajst barv in vonjev."
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-clip",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-clipa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkco clip - osvežilec s sponko za WC-školjko, ki vonj sprošča do 30 dni. Prilega se skoraj vsaki školjki."
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-mat",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-mata",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkco mat - talna podloga za pisoar, ki ščiti tla pod pisoarjem."
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-fresh",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-fresha",
+          "_type": "span",
+          "marks": [],
+          "text": "frësh drop - osvežilec zraka za WC-kabine: 30+ dni vonja v kabinah s slabim prezračevanjem in 60+ dni ob manjšem obisku, brez baterij in elektrike."
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-trap",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-trapa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëz trap - vložek za brezvodne pisoarje s sistemom Falcon Velocity. Zadrži vonjave iz odtoka."
+        }
+      ]
+    },
+    {
+      "_key": "h2-help",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-helpa",
+          "_type": "span",
+          "marks": [],
+          "text": "Niste prepričani, katero mrežico izbrati?"
+        }
+      ]
+    },
+    {
+      "_key": "p-help-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-help-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Z veseljem vam pomagamo. Zahtevajte vzorce in jih preizkusite v svojih sanitarijah."
+        }
+      ]
+    },
+    {
+      "_key": "p-help-2",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-help-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Vodilni smo na trgu v ZDA, svoje izdelke pa smo predstavili v več kot 70 državah."
+        }
+      ]
+    }
+  ]
+}

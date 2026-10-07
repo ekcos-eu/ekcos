@@ -111,6 +111,103 @@
       "product": "Tuote",
       "sustainability": "Kestävyys",
       "news": "Uutiset"
+    },
+    "advisor": {
+      "steps": {
+        "traffic": "Liikenne",
+        "trafficHint": "Kuinka kiireinen wc on?",
+        "splash": "Roiskesuoja",
+        "splashHint": "Kuinka hyvin se estää roiskumisen?",
+        "fragrance": "Tuoksu",
+        "fragranceHint": "Kuinka pitkä, kuinka vahva, minkä värinen?",
+        "evidence": "Todisteet",
+        "evidenceHint": "Ovatko väitteet todistettu?",
+        "urinal": "Urinaalin tyyppi",
+        "urinalHint": "Mikä koko ja tyyppi?"
+      },
+      "traffic": {
+        "highTitle": "Suuri liikenne",
+        "highPlaces": "Ravintolat, baarit, lentokentät, ostoskeskukset",
+        "highBody": "60+ päivän tuoksu ja tiheät roiskeenestoharjakset. ëkcoscreen 60+ maksaa suunnilleen saman päivässä kuin 30 päivän näyttö. Valitse xcrën HD 60+, kun myös wc:n ulkoasulla on merkitystä.",
+        "standardTitle": "Normaali liikenne",
+        "standardPlaces": "Kuukausihuolto",
+        "standardBody": "Jopa 30 päivän tuoksu patentoiduilla roiskeenestoharjaksilla. Tehty kuukausittaisia ​​muutoksia varten.",
+        "budgetTitle": "Budjettivaihtoehto",
+        "budgetPlaces": "Vähemmän liikennettä, toimistoja ja pienempiä tiloja",
+        "budgetBody": "Ne sisältävät vähemmän materiaalia, joten ne maksavat vähemmän ja niiden tuoksu on kevyempi. üro lite on edelleen patentoidut roiskenestoharjakset pitkään. basic scrëen suojaa viemäriä roskilta, mutta siinä ei ole roiskeita estäviä harjaksia."
+      },
+      "splash": {
+        "eksLabel": "ëkcoscreen 60+ pinnasta on peitetty patentoiduilla roiskeenestoharjaksilla",
+        "xhdLabel": "xcrën HD 60+ pinnasta on peitetty patentoiduilla roiskeenestoharjaksilla"
+      },
+      "callouts": {
+        "uv": "ëkcoscreen 60+ vierekkäisessä UV-roisketestissä: ei näkyviä roiskeita näytön ulkopuolella samoissa olosuhteissa. Pyydä video.",
+        "tip": "Vinkki: Vältä vilkkaasti liikennöidyissä wc-tiloissa näyttöjä, joissa ei ole tiheitä roiskeita estäviä harjaksia.",
+        "ask": "Kysy miltä tahansa toimittajalta: Onko olemassa riippumatonta testiraporttia? Koskeeko \"100 % kierrätettävä\" väite todella käytettyä näyttöä?"
+      },
+      "duration": {
+        "day1": "Päivä 1",
+        "day30": "Päivä 30",
+        "day60": "Päivä 60",
+        "thirtyLabel": "30 päivän näyttö",
+        "screen1": "Näyttö 1",
+        "screen2": "Näyttö 2",
+        "sixtyBar": "Yksi näyttö yli 60 päivän ajan",
+        "note": "ëkcoscreen 60+:lla päiväkohtainen hinta on samanlainen kuin 30 päivän näyttö, mutta vaihdat sen puolet harvemmin. Se säästää työaikaa."
+      },
+      "intensity": {
+        "most": "Kaikkein intensiivisin",
+        "very": "Erittäin intensiivistä",
+        "medium": "Keskikokoinen",
+        "subtle": "Hienovarainen",
+        "popular": "Suosittuja valintoja ovat marjat, tuoreet, sitrushedelmät ja meloni."
+      },
+      "ecoOne": {
+        "title": "Biohajoava kaatopaikalle <ecoOne>Eco-One™</ecoOne>",
+        "body": "93 % biohajoavuus 3,5 vuodessa riippumattomassa laboratoriokokeessa (ASTM D5511 ja ISO 15985). Sama materiaali ilman lisäainetta osoitti 0 %. Jopa 99 % ennustetaan 5 vuoden sisällä."
+      },
+      "urinal": {
+        "smallTitle": "Pienemmät pisuaarit",
+        "smallBody": "Kompakti, sama patentoitu Sealed Bristles Technology™ kuin ëkcoscreen 60+.",
+        "mostTitle": "Useimmat urinaalityypit",
+        "mostBody": "powër screen ja basic scrëen - joustava muoto, joka sopii lähes kaikentyyppisiin pisuaariin.",
+        "waterlessTitle": "Vedettömät pisuaarit",
+        "waterlessBody": "Ihanteellinen vedettömille urinaaleille. Myös powër screen, üro lite ja basic scrëen sopivat.",
+        "drainTitle": "Tyhjennyssuoja",
+        "drainBody": "Jokainen ëkcos-näyttö suojaa viemäriä. ëkcoscreen 60+ kattaa suurimman alueen.",
+        "designTitle": "Suunnittelulla on väliä",
+        "designBody": "Patentoitu muoto, joka tekee pisuaarista design-elementin.",
+        "puckTitle": "Pidätkö urinaalista enemmän?",
+        "puckBody": "Seula, jossa on pääasiassa vahasta ja glyseriinistä valmistettu hajunpoistaja. Tuoksu jopa 30 päivää."
+      },
+      "summary": {
+        "colNeed": "Sinun wc",
+        "colRec": "Suosituksemme",
+        "rows": {
+          "high": "Suuri liikenne",
+          "standard": "Normaali liikenne, kuukausittaiset muutokset",
+          "budget": "Budjettivaihtoehto",
+          "small": "Pienemmät pisuaarit",
+          "waterless": "Vedettömät pisuaarit",
+          "drain": "Tyhjennyssuoja",
+          "design": "Suunnittelulla on väliä",
+          "puck": "Suosi urinaalitukosta",
+          "bio": "Biohajoava kaatopaikalle",
+          "logo": "Oma logo"
+        },
+        "recs": {
+          "budget": "üro lite tai basic scrëen ilman roiskeensuojaharjaksia",
+          "drain": "Jokainen ëkcos-näyttö, eniten ëkcoscreen 60+",
+          "bio": "Jokainen ëkcos-näyttö, Eco-One™",
+          "logo": "Yksityinen etiketti jokaisella näytöllä"
+        }
+      },
+      "complete": {
+        "clip": "WC-kulhon pidike jopa 30 päivän tuoksulla. Sopii melkein mihin tahansa kulhoon.",
+        "fresh": "Ilmanraikastin wc-kaappiin: 30+ päivää tuoksua kaapeissa, joissa on vähän ilmanvaihtoa ja 60+ päivää vähäisessä liikenteessä, ilman paristoja tai sähköä.",
+        "mat": "Pisuaarin alla olevaa lattiaa suojaava lattiamatto.",
+        "trap": "Patruuna vedettömille urinaaleille Falcon Velocity-järjestelmällä. Pitää viemärihajut loitolla."
+      }
     }
   },
   "newsletter": {

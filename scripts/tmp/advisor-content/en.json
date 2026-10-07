@@ -1,0 +1,971 @@
+{
+  "title": "How to choose the right urinal screen",
+  "excerpt": "Five steps to the screen that fits your restroom.",
+  "imageAlt": "Blue ëkcoscreen urinal screen with anti-splash bristles, seen from above on a black background",
+  "body": [
+    {
+      "_key": "intro",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "introa",
+          "_type": "span",
+          "marks": [],
+          "text": "A restroom should look clean and smell fresh every day. The urinal screen is a small detail that makes a big difference. The right screen keeps the urinal fresh, reduces splashback onto the floor and walls, and saves cleaning time. These five steps help you choose it."
+        }
+      ]
+    },
+    {
+      "_key": "h2-traffic",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-traffica",
+          "_type": "span",
+          "marks": [],
+          "text": "How busy is your restroom?"
+        }
+      ]
+    },
+    {
+      "_key": "p-traffic-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-traffic-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Start with traffic. The more visitors, the more the screen has to handle."
+        }
+      ]
+    },
+    {
+      "_key": "p-traffic-high",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-traffic-higha",
+          "_type": "span",
+          "marks": [],
+          "text": "High-traffic locations such as restaurants, bars, airports, and shopping malls: choose ëkcoscreen 60+ or xcrën HD 60+. They offer 60+ days of fragrance and dense anti-splash bristles. ëkcoscreen 60+ costs about the same per day as a 30-day screen. Choose xcrën HD 60+ when the look of the restroom matters too."
+        }
+      ]
+    },
+    {
+      "_key": "p-traffic-standard",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-traffic-standarda",
+          "_type": "span",
+          "marks": [],
+          "text": "For standard traffic with monthly maintenance, powër screen provides up to 30 days of fragrance with patented anti-splash bristles. Made for monthly changes."
+        }
+      ]
+    },
+    {
+      "_key": "p-traffic-budget",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-traffic-budgeta",
+          "_type": "span",
+          "marks": [],
+          "text": "Budget options üro lite and basic scrëen contain less material, so they cost less and their fragrance is lighter. üro lite still has long patented anti-splash bristles. basic scrëen protects the drain from debris but has no anti-splash bristles."
+        }
+      ]
+    },
+    {
+      "_key": "h2-splash",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-splasha",
+          "_type": "span",
+          "marks": [],
+          "text": "Splash protection: less splashback, less cleaning"
+        }
+      ]
+    },
+    {
+      "_key": "p-splash-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-splash-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Urine that splashes outside the urinal is unpleasant for visitors and means more cleaning. Dense bristles catch the stream and keep the area around the urinal cleaner. ëkcoscreen 60+, xcrën HD 60+, powër screen and üro lite use Sealed Bristles Technology™, our patented anti-splash system."
+        }
+      ]
+    },
+    {
+      "_key": "p-splash-stats",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-splash-statsa",
+          "_type": "span",
+          "marks": [],
+          "text": "95% of the ëkcoscreen 60+ surface and 92% of the xcrën HD 60+ surface are covered with patented anti-splash bristles."
+        }
+      ]
+    },
+    {
+      "_key": "p-splash-uv",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-splash-uva",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+ in a side-by-side UV splash test: no visible splashback outside the screen under identical conditions. Ask for the video."
+        }
+      ]
+    },
+    {
+      "_key": "b-splash-power",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-splash-powera",
+          "_type": "span",
+          "marks": [],
+          "text": "powër screen: patented anti-splash bristles."
+        }
+      ]
+    },
+    {
+      "_key": "b-splash-uro",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-splash-uroa",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite: long patented bristles give big splash protection in a small screen."
+        }
+      ]
+    },
+    {
+      "_key": "b-splash-basic",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-splash-basica",
+          "_type": "span",
+          "marks": [],
+          "text": "basic scrëen: no anti-splash bristles."
+        }
+      ]
+    },
+    {
+      "_key": "p-splash-tip",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-splash-tipa",
+          "_type": "span",
+          "marks": [],
+          "text": "Tip: In high-traffic restrooms, avoid screens without dense anti-splash bristles."
+        }
+      ]
+    },
+    {
+      "_key": "h2-fragrance",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-fragrancea",
+          "_type": "span",
+          "marks": [],
+          "text": "Fragrance: how long, how strong, which color"
+        }
+      ]
+    },
+    {
+      "_key": "h3-frag-long",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h3-frag-longa",
+          "_type": "span",
+          "marks": [],
+          "text": "How long?"
+        }
+      ]
+    },
+    {
+      "_key": "p-frag-long",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-frag-longa",
+          "_type": "span",
+          "marks": [],
+          "text": "Screens release their fragrance gradually. Most screens last up to 30 days and are changed every month. ëkcoscreen 60+ and xcrën HD 60+ last 60+ days, twice as long as standard 30-day screens, and even longer in low-traffic restrooms."
+        }
+      ]
+    },
+    {
+      "_key": "p-frag-cost",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-frag-costa",
+          "_type": "span",
+          "marks": [],
+          "text": "With ëkcoscreen 60+, the cost per day is similar to a 30-day screen, but you change it half as often. That saves working time."
+        }
+      ]
+    },
+    {
+      "_key": "h3-frag-strong",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h3-frag-stronga",
+          "_type": "span",
+          "marks": [],
+          "text": "How strong?"
+        }
+      ]
+    },
+    {
+      "_key": "p-frag-strong",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-frag-stronga",
+          "_type": "span",
+          "marks": [],
+          "text": "Popular choices are berry, fresh, citrus and melon. Intensity ranges from mint (black, most intense) through fresh, citrus, pine, and lavender to subtle tropical and apple scents."
+        }
+      ]
+    },
+    {
+      "_key": "h3-frag-color",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h3-frag-colora",
+          "_type": "span",
+          "marks": [],
+          "text": "Which color?"
+        }
+      ]
+    },
+    {
+      "_key": "p-frag-color",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-frag-colora",
+          "_type": "span",
+          "marks": [],
+          "text": "Match the color to your interior or signage. Black looks modern. Blue stands for freshness."
+        }
+      ]
+    },
+    {
+      "_key": "h2-evidence",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-evidencea",
+          "_type": "span",
+          "marks": [],
+          "text": "Ask for proof of environmental claims"
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Under the new EU rules, every environmental claim needs evidence. This is what stands behind ours:"
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-bio",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-bioa",
+          "_type": "span",
+          "marks": [],
+          "text": "Biodegradable in landfill with Eco-One™: 93% biodegradation within 3.5 years in an independent laboratory test, tested under ASTM D5511 and ISO 15985 at the Instituto Politécnico Nacional in Mexico City. The same material without the additive showed 0%. Up to 99% is projected within 5 years."
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-recycled",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-recycleda",
+          "_type": "span",
+          "marks": [],
+          "text": "Made with recycled EVA. This reduces the amount of new EVA put on the market."
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-used",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-useda",
+          "_type": "span",
+          "marks": [],
+          "text": "A used screen is biologically contaminated and cannot be recycled, so it ends up in landfill or incineration. In landfill, Eco-One™ makes it biodegradable."
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-aska",
+          "_type": "span",
+          "marks": [],
+          "text": "Ask any supplier: Is there an independent test report? Does a \"100% recyclable\" claim really apply to a used screen?"
+        }
+      ]
+    },
+    {
+      "_key": "p-evidence-boxes",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-evidence-boxesa",
+          "_type": "span",
+          "marks": [],
+          "text": "Boxes made from 100% recycled cardboard. PPWR packaging documentation available."
+        }
+      ]
+    },
+    {
+      "_key": "h2-urinal",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-urinala",
+          "_type": "span",
+          "marks": [],
+          "text": "Match the screen to your urinal"
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-small",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-smalla",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Smaller urinals: "
+        },
+        {
+          "_key": "b-urinal-smallba",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite - compact, with the same patented Sealed Bristles Technology™ as ëkcoscreen 60+."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-most",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-mosta",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Most urinal types: "
+        },
+        {
+          "_key": "b-urinal-mostba",
+          "_type": "span",
+          "marks": [],
+          "text": "powër screen, basic scrëen - a flexible shape that fits almost all types of urinals."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-waterless",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-waterlessa",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Waterless urinals: "
+        },
+        {
+          "_key": "b-urinal-waterlessba",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+, xcrën HD 60+ - ideal for waterless urinals; powër screen, üro lite and basic scrëen are suitable too."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-drain",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-draina",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Drain protection: "
+        },
+        {
+          "_key": "b-urinal-drainba",
+          "_type": "span",
+          "marks": [],
+          "text": "Every ëkcos screen protects the drain from solids and debris. ëkcoscreen 60+ covers the largest area, because it is our largest screen."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-design",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-designa",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Design matters: "
+        },
+        {
+          "_key": "b-urinal-designba",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën HD 60+ - a patented shape that turns the urinal into a design element."
+        }
+      ]
+    },
+    {
+      "_key": "b-urinal-puck",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-urinal-pucka",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Prefer a urinal block? "
+        },
+        {
+          "_key": "b-urinal-puckba",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën puck - a screen with a deodorizing puck made mainly from wax and glycerin. The puck dissolves with use and releases fragrance for up to 30 days."
+        }
+      ]
+    },
+    {
+      "_key": "h2-summary",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-summarya",
+          "_type": "span",
+          "marks": [],
+          "text": "Summary: which screen for which restroom?"
+        }
+      ]
+    },
+    {
+      "_key": "p-summary-intro",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-summary-introa",
+          "_type": "span",
+          "marks": [],
+          "text": "The right screen pays off: less cleaning, a fresher restroom and happier visitors."
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-1a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "High traffic: "
+        },
+        {
+          "_key": "b-summary-1ba",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+, xcrën HD 60+"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-2a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Standard traffic, monthly changes: "
+        },
+        {
+          "_key": "b-summary-2ba",
+          "_type": "span",
+          "marks": [],
+          "text": "powër screen"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-3a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Budget option: "
+        },
+        {
+          "_key": "b-summary-3ba",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite, or basic scrëen without anti-splash bristles"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-4",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-4a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Smaller urinals: "
+        },
+        {
+          "_key": "b-summary-4ba",
+          "_type": "span",
+          "marks": [],
+          "text": "üro lite"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-5",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-5a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Waterless urinals: "
+        },
+        {
+          "_key": "b-summary-5ba",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+, xcrën HD 60+"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-6",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-6a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Drain protection: "
+        },
+        {
+          "_key": "b-summary-6ba",
+          "_type": "span",
+          "marks": [],
+          "text": "Every ëkcos screen, most of all ëkcoscreen 60+"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-7",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-7a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Design matters: "
+        },
+        {
+          "_key": "b-summary-7ba",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën HD 60+"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-8",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-8a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Prefer a urinal block: "
+        },
+        {
+          "_key": "b-summary-8ba",
+          "_type": "span",
+          "marks": [],
+          "text": "xcrën puck"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-9",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-9a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Biodegradable in landfill: "
+        },
+        {
+          "_key": "b-summary-9ba",
+          "_type": "span",
+          "marks": [],
+          "text": "Every ëkcos screen, with Eco-One™"
+        }
+      ]
+    },
+    {
+      "_key": "b-summary-10",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "b-summary-10a",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Your own logo: "
+        },
+        {
+          "_key": "b-summary-10ba",
+          "_type": "span",
+          "marks": [],
+          "text": "Private label on every screen"
+        }
+      ]
+    },
+    {
+      "_key": "h2-complete",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-completea",
+          "_type": "span",
+          "marks": [],
+          "text": "Complete the restroom"
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-intro",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-introa",
+          "_type": "span",
+          "marks": [],
+          "text": "Keep one scent from the urinal to the cubicle: our main lines share eleven colors and fragrances."
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-clip",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-clipa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkco clip - toilet bowl clip with up to 30 days of fragrance. Fits almost any bowl."
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-mat",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-mata",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkco mat - urinal floor mat that protects the floor beneath the urinal."
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-fresh",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-fresha",
+          "_type": "span",
+          "marks": [],
+          "text": "frësh drop - air freshener for toilet cubicles: 30+ days of fragrance in cubicles with little ventilation and 60+ days at low traffic, no batteries or electricity."
+        }
+      ]
+    },
+    {
+      "_key": "p-complete-trap",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-complete-trapa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëz trap - cartridge for waterless urinals with the Falcon Velocity system. Keeps drain odors out."
+        }
+      ]
+    },
+    {
+      "_key": "h2-help",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-helpa",
+          "_type": "span",
+          "marks": [],
+          "text": "Not sure which screen to choose?"
+        }
+      ]
+    },
+    {
+      "_key": "p-help-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-help-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "We are happy to help. Ask for samples and test them in your own restroom."
+        }
+      ]
+    },
+    {
+      "_key": "p-help-2",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "p-help-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Market leader in the United States, with products introduced in more than 70 countries."
+        }
+      ]
+    }
+  ]
+}

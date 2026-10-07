@@ -111,6 +111,103 @@
       "product": "Termék",
       "sustainability": "Fenntarthatóság",
       "news": "Hírek"
+    },
+    "advisor": {
+      "steps": {
+        "traffic": "Forgalom",
+        "trafficHint": "Mennyire elfoglalt a mellékhelyiség?",
+        "splash": "Fröccsenés elleni védelem",
+        "splashHint": "Mennyire akadályozza meg a fröccsenést?",
+        "fragrance": "Illat",
+        "fragranceHint": "Milyen hosszú, milyen erős, milyen színű?",
+        "evidence": "Bizonyíték",
+        "evidenceHint": "Az állítások bebizonyítottak?",
+        "urinal": "A vizelde típusa",
+        "urinalHint": "Milyen méret és típus?"
+      },
+      "traffic": {
+        "highTitle": "Nagy forgalom",
+        "highPlaces": "Éttermek, bárok, repülőterek, bevásárlóközpontok",
+        "highBody": "60+ napos illat és sűrű fröccsenésgátló sörték. Az ëkcoscreen 60+ körülbelül ugyanannyiba kerül naponta, mint egy 30 napos képernyő. Válassza az xcrën HD 60+ lehetőséget, ha a mellékhelyiség megjelenése is számít.",
+        "standardTitle": "Normál forgalom",
+        "standardPlaces": "Havi karbantartás",
+        "standardBody": "Akár 30 napig tartó illat szabadalmaztatott fröccsenésgátló sörtékkel. A havi változtatásokhoz készült.",
+        "budgetTitle": "Költségvetési lehetőség",
+        "budgetPlaces": "Kisebb forgalom, irodák és kisebb létesítmények",
+        "budgetBody": "Kevesebb anyagot tartalmaznak, így olcsóbbak, az illatuk pedig könnyebb. Az üro lite még régóta szabadalmaztatott fröccsenésgátló sörtékkel rendelkezik. A basic scrëen megvédi a lefolyót a törmeléktől, de nincsenek fröccsenésgátló sörtéi."
+      },
+      "splash": {
+        "eksLabel": "az ëkcoscreen 60+ felületét szabadalmaztatott fröccsenésgátló sörték borítják",
+        "xhdLabel": "az xcrën HD 60+ felületét szabadalmaztatott fröccsenésgátló sörték borítják"
+      },
+      "callouts": {
+        "uv": "ëkcoscreen 60+ egymás melletti UV fröccsenő tesztben: nincs látható visszacsapódás a képernyőn kívül azonos körülmények között. Kérd a videót.",
+        "tip": "Tipp: A nagy forgalmú mellékhelyiségekben kerülje a sűrű, fröccsenésgátló sörték nélküli képernyőket.",
+        "ask": "Kérdezze meg bármelyik szállítót: Van független vizsgálati jelentés? Valóban vonatkozik a „100%-ban újrahasznosítható” állítás egy használt képernyőre?"
+      },
+      "duration": {
+        "day1": "1. nap",
+        "day30": "30. nap",
+        "day60": "60. nap",
+        "thirtyLabel": "30 napos képernyő",
+        "screen1": "1. képernyő",
+        "screen2": "2. képernyő",
+        "sixtyBar": "Egy képernyő 60+ napig",
+        "note": "Az ëkcoscreen 60+ esetén a napi költség hasonló a 30 napos képernyőhöz, de fele olyan gyakran cseréli. Ez munkaidőt takarít meg."
+      },
+      "intensity": {
+        "most": "A legintenzívebb",
+        "very": "Nagyon intenzív",
+        "medium": "Közepes",
+        "subtle": "Apró",
+        "popular": "Népszerű választás a bogyós gyümölcs, a friss, a citrusfélék és a dinnye."
+      },
+      "ecoOne": {
+        "title": "Biológiailag lebontható hulladéklerakóban az <ecoOne>Eco-One™</ecoOne> segítségével",
+        "body": "93%-os biológiai lebomlás 3,5 éven belül független laboratóriumi tesztben (ASTM D5511 és ISO 15985). Ugyanez az anyag adalék nélkül 0%-ot mutatott. 5 éven belül akár 99%-ot is terveznek."
+      },
+      "urinal": {
+        "smallTitle": "Kisebb piszoárok",
+        "smallBody": "Kompakt, ugyanazzal a szabadalmaztatott Sealed Bristles Technology™-vel, mint az ëkcoscreen 60+.",
+        "mostTitle": "A legtöbb piszoár típus",
+        "mostBody": "powër screen és basic scrëen – rugalmas forma, amely szinte minden típusú piszoárhoz illeszkedik.",
+        "waterlessTitle": "Vízmentes piszoárok",
+        "waterlessBody": "Ideális vízmentes piszoárokhoz. powër screen, üro lite és basic scrëen is megfelelő.",
+        "drainTitle": "Lefolyó védelem",
+        "drainBody": "Minden ëkcos képernyő védi a lefolyót. ëkcoscreen 60+ fedi le a legnagyobb területet.",
+        "designTitle": "A tervezés számít",
+        "designBody": "Szabadalmaztatott forma, amely dizájnelemmé varázsolja a piszoárt.",
+        "puckTitle": "Inkább a vizeldeblokkot?",
+        "puckBody": "Főleg viaszból és glicerinből készült szagtalanító koronggal ellátott képernyő. Illat akár 30 napig."
+      },
+      "summary": {
+        "colNeed": "A mellékhelyiséged",
+        "colRec": "A mi ajánlásunk",
+        "rows": {
+          "high": "Nagy forgalom",
+          "standard": "Normál forgalom, havi változások",
+          "budget": "Költségvetési lehetőség",
+          "small": "Kisebb piszoárok",
+          "waterless": "Vízmentes piszoárok",
+          "drain": "Lefolyó védelem",
+          "design": "A tervezés számít",
+          "puck": "Inkább vizeldeblokkot",
+          "bio": "Biológiailag lebontható hulladéklerakóban",
+          "logo": "Saját logó"
+        },
+        "recs": {
+          "budget": "üro lite vagy basic scrëen fröccsenésgátló sörték nélkül",
+          "drain": "Minden ëkcos képernyő, leginkább ëkcoscreen 60+",
+          "bio": "Minden ëkcos képernyőn az Eco-One™ funkcióval",
+          "logo": "Saját címke minden képernyőn"
+        }
+      },
+      "complete": {
+        "clip": "WC csésze csíptető akár 30 napos illattal. Szinte minden edényhez illik.",
+        "fresh": "Légfrissítő WC fülkékhez: 30+ napos illat a fülkékben kevés szellőzéssel és 60+ nap alacsony forgalom mellett, akkumulátor és áram nélkül.",
+        "mat": "Piszoár padlószőnyeg, amely védi a padlót a piszoár alatt.",
+        "trap": "Patron vízmentes piszoárokhoz Falcon Velocity rendszerrel. Távol tartja a lefolyó szagát."
+      }
     }
   },
   "newsletter": {

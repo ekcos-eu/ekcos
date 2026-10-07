@@ -111,6 +111,103 @@
       "product": "Producto",
       "sustainability": "Sostenibilidad",
       "news": "Noticias"
+    },
+    "advisor": {
+      "steps": {
+        "traffic": "Tráfico",
+        "trafficHint": "¿Qué tan ocupada está el baño?",
+        "splash": "Protección contra salpicaduras",
+        "splashHint": "¿Qué tan bien detiene las salpicaduras?",
+        "fragrance": "Fragancia",
+        "fragranceHint": "¿Cuánto tiempo, qué tan fuerte, de qué color?",
+        "evidence": "Evidencia",
+        "evidenceHint": "¿Están probadas las afirmaciones?",
+        "urinal": "Tipo de urinario",
+        "urinalHint": "¿Qué tamaño y tipo?"
+      },
+      "traffic": {
+        "highTitle": "Alto tráfico",
+        "highPlaces": "Restaurantes, bares, aeropuertos, centros comerciales.",
+        "highBody": "Más de 60 días de fragancia y cerdas densas antisalpicaduras. ëkcoscreen 60+ cuesta aproximadamente lo mismo por día que una prueba de 30 días. Elija xcrën HD 60+ cuando el aspecto del baño también sea importante.",
+        "standardTitle": "Tráfico estándar",
+        "standardPlaces": "Mantenimiento mensual",
+        "standardBody": "Hasta 30 días de fragancia con cerdas patentadas antisalpicaduras. Hecho para cambios mensuales.",
+        "budgetTitle": "Opción de presupuesto",
+        "budgetPlaces": "Menor tráfico, oficinas e instalaciones más pequeñas.",
+        "budgetBody": "Contienen menos material, por lo que cuestan menos y su fragancia es más ligera. üro lite todavía tiene cerdas antisalpicaduras patentadas desde hace mucho tiempo. basic scrëen protege el drenaje de la suciedad pero no tiene cerdas antisalpicaduras."
+      },
+      "splash": {
+        "eksLabel": "de la superficie ëkcoscreen 60+ cubierta con cerdas patentadas antisalpicaduras",
+        "xhdLabel": "de la superficie xcrën HD 60+ cubierta con cerdas patentadas antisalpicaduras"
+      },
+      "callouts": {
+        "uv": "ëkcoscreen 60+ en una prueba de salpicaduras UV de lado a lado: no hay salpicaduras visibles fuera de la pantalla en condiciones idénticas. Pregunta por el vídeo.",
+        "tip": "Consejo: En baños con mucho tráfico, evite las mamparas sin cerdas densas antisalpicaduras.",
+        "ask": "Pregúntele a cualquier proveedor: ¿Existe un informe de prueba independiente? ¿Se aplica realmente la afirmación \"100% reciclable\" a una pantalla usada?"
+      },
+      "duration": {
+        "day1": "Día 1",
+        "day30": "Día 30",
+        "day60": "Día 60",
+        "thirtyLabel": "pantalla de 30 días",
+        "screen1": "Pantalla 1",
+        "screen2": "Pantalla 2",
+        "sixtyBar": "Una pantalla durante más de 60 días",
+        "note": "Con ëkcoscreen 60+, el costo por día es similar al de una pantalla de 30 días, pero lo cambias con la mitad de frecuencia. Eso ahorra tiempo de trabajo."
+      },
+      "intensity": {
+        "most": "Más intensa",
+        "very": "Muy intensa",
+        "medium": "Medio",
+        "subtle": "Sutil",
+        "popular": "Las opciones populares son las bayas, las frescas, los cítricos y el melón."
+      },
+      "ecoOne": {
+        "title": "Biodegradable en vertedero con <ecoOne>Eco-One™</ecoOne>",
+        "body": "93% de biodegradación en 3,5 años en una prueba de laboratorio independiente (ASTM D5511 e ISO 15985). El mismo material sin el aditivo mostró 0%. Se proyecta hasta el 99% dentro de 5 años."
+      },
+      "urinal": {
+        "smallTitle": "Urinarios más pequeños",
+        "smallBody": "Compacto, con el mismo Sealed Bristles Technology™ patentado que ëkcoscreen 60+.",
+        "mostTitle": "La mayoría de los tipos de urinarios",
+        "mostBody": "powër screen y basic scrëen: una forma flexible que se adapta a casi todos los tipos de urinarios.",
+        "waterlessTitle": "Urinarios sin agua",
+        "waterlessBody": "Ideal para urinarios sin agua. powër screen, üro lite y basic scrëen también son adecuados.",
+        "drainTitle": "Protección de drenaje",
+        "drainBody": "Cada pantalla ëkcos protege el drenaje. ëkcoscreen 60+ cubre el área más grande.",
+        "designTitle": "El diseño importa",
+        "designBody": "Una forma patentada que convierte el urinario en un elemento de diseño.",
+        "puckTitle": "¿Prefieres un bloque de urinario?",
+        "puckBody": "Una pantalla con un disco desodorizante elaborado principalmente con cera y glicerina. Fragancia por hasta 30 días."
+      },
+      "summary": {
+        "colNeed": "tu baño",
+        "colRec": "Nuestra recomendación",
+        "rows": {
+          "high": "Alto tráfico",
+          "standard": "Tráfico estándar, cambios mensuales",
+          "budget": "Opción de presupuesto",
+          "small": "Urinarios más pequeños",
+          "waterless": "Urinarios sin agua",
+          "drain": "Protección de drenaje",
+          "design": "El diseño importa",
+          "puck": "Prefiere un bloque de urinario",
+          "bio": "Biodegradable en vertedero",
+          "logo": "Tu propio logotipo"
+        },
+        "recs": {
+          "budget": "üro lite, o basic scrëen sin cerdas antisalpicaduras",
+          "drain": "Cada pantalla ëkcos, sobre todo ëkcoscreen 60+",
+          "bio": "Cada pantalla ëkcos, con Eco-One™",
+          "logo": "Etiqueta privada en cada pantalla"
+        }
+      },
+      "complete": {
+        "clip": "Pinza para inodoro con hasta 30 días de fragancia. Se adapta a casi cualquier cuenco.",
+        "fresh": "Ambientador para cabinas sanitarias: 30+ días de fragancia en cabinas con poca ventilación y 60+ días con poco tráfico, sin pilas ni electricidad.",
+        "mat": "Tapete para piso de urinario que protege el piso debajo del urinario.",
+        "trap": "Cartucho para urinarios sin agua con sistema Falcon Velocity. Mantiene fuera los olores del drenaje."
+      }
     }
   },
   "newsletter": {

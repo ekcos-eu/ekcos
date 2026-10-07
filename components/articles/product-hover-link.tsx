@@ -3,12 +3,15 @@
 import Image from 'next/image'
 import { useEffect, useId, useRef, useState } from 'react'
 import { createPortal } from 'react-dom'
+import { Link } from '@/i18n/routing'
 
 type ProductHoverLinkProps = {
   href: string
   imageSrc: string
   alt: string
   children: string
+  /** Open in a new tab (Shopify / external). Defaults to false for site product pages. */
+  external?: boolean
 }
 
 type PreviewPos = {
@@ -21,12 +24,16 @@ const PREVIEW_W = 160
 const PREVIEW_H = 168
 const GAP = 10
 
+const LINK_CLASS =
+  'font-semibold text-[#0F68B2] underline underline-offset-2 hover:text-[#0d5a9a]'
+
 /** Product link with fixed-position hover preview (portal — works inside overflow/accordion). */
 export function ProductHoverLink({
   href,
   imageSrc,
   alt,
   children,
+  external = false,
 }: ProductHoverLinkProps) {
   const anchorRef = useRef<HTMLAnchorElement>(null)
   const [pos, setPos] = useState<PreviewPos | null>(null)
@@ -62,22 +69,32 @@ export function ProductHoverLink({
     setPos({ left, top, placeBelow })
   }
 
+  const sharedProps = {
+    ref: anchorRef,
+    className: LINK_CLASS,
+    'aria-describedby': pos ? previewId : undefined,
+    onMouseEnter: showPreview,
+    onMouseLeave: () => setPos(null),
+    onFocus: showPreview,
+    onBlur: () => setPos(null),
+  } as const
+
   return (
     <>
-      <a
-        ref={anchorRef}
-        href={href}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="font-semibold text-[#0F68B2] underline underline-offset-2 hover:text-[#0d5a9a]"
-        aria-describedby={pos ? previewId : undefined}
-        onMouseEnter={showPreview}
-        onMouseLeave={() => setPos(null)}
-        onFocus={showPreview}
-        onBlur={() => setPos(null)}
-      >
-        {children}
-      </a>
+      {external ? (
+        <a
+          {...sharedProps}
+          href={href}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          {children}
+        </a>
+      ) : (
+        <Link {...sharedProps} href={href}>
+          {children}
+        </Link>
+      )}
       {mounted &&
         pos &&
         createPortal(

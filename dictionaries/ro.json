@@ -111,6 +111,103 @@
       "product": "Produs",
       "sustainability": "Sustenabilitate",
       "news": "Știri"
+    },
+    "advisor": {
+      "steps": {
+        "traffic": "Trafic",
+        "trafficHint": "Cât de ocupat este toaleta?",
+        "splash": "Protecție împotriva stropilor",
+        "splashHint": "Cât de bine oprește splashback-ul?",
+        "fragrance": "Parfum",
+        "fragranceHint": "Cât timp, cât de puternic, ce culoare?",
+        "evidence": "Dovezi",
+        "evidenceHint": "Sunt dovedite afirmațiile?",
+        "urinal": "Tip urinar",
+        "urinalHint": "Ce dimensiune și tip?"
+      },
+      "traffic": {
+        "highTitle": "Trafic mare",
+        "highPlaces": "Restaurante, baruri, aeroporturi, centre comerciale",
+        "highBody": "Peste 60 de zile de parfum și peri denși anti-stropire. ëkcoscreen 60+ costă aproximativ la fel pe zi ca un ecran de 30 de zile. Alegeți xcrën HD 60+ atunci când aspectul toaletei contează și el.",
+        "standardTitle": "Trafic standard",
+        "standardPlaces": "Întreținere lunară",
+        "standardBody": "Pana la 30 de zile de parfum cu peri patentati anti-stropire. Realizat pentru modificări lunare.",
+        "budgetTitle": "Opțiune de buget",
+        "budgetPlaces": "Trafic redus, birouri și facilități mai mici",
+        "budgetBody": "Conțin mai puțin material, deci costă mai puțin și parfumul lor este mai ușor. üro lite încă are perii anti-stropire brevetați de mult timp. basic scrëen protejează scurgerea de reziduuri, dar nu are peri anti-stropire."
+      },
+      "splash": {
+        "eksLabel": "a suprafeței ëkcoscreen 60+ acoperită cu peri anti-stropire brevetați",
+        "xhdLabel": "a suprafeței xcrën HD 60+ acoperită cu peri anti-stropire brevetați"
+      },
+      "callouts": {
+        "uv": "ëkcoscreen 60+ într-un test de stropire UV alăturat: nu există splashback vizibil în afara ecranului în condiții identice. Cere videoclipul.",
+        "tip": "Sfat: În toaletele cu trafic intens, evitați ecranele fără peri denși anti-stropire.",
+        "ask": "Întrebați orice furnizor: Există un raport de testare independent? O afirmație „100% reciclabil” se aplică într-adevăr unui ecran uzat?"
+      },
+      "duration": {
+        "day1": "Ziua 1",
+        "day30": "Ziua 30",
+        "day60": "Ziua 60",
+        "thirtyLabel": "Ecran de 30 de zile",
+        "screen1": "Ecranul 1",
+        "screen2": "Ecranul 2",
+        "sixtyBar": "Un ecran timp de peste 60 de zile",
+        "note": "Cu ëkcoscreen 60+, costul pe zi este similar cu un ecran de 30 de zile, dar îl schimbați la jumătate mai des. Aceasta economisește timp de lucru."
+      },
+      "intensity": {
+        "most": "Cel mai intens",
+        "very": "Foarte intens",
+        "medium": "Mediu",
+        "subtle": "Subtil",
+        "popular": "Alegerile populare sunt fructe de pădure, proaspete, citrice și pepene galben."
+      },
+      "ecoOne": {
+        "title": "Biodegradabil la depozitul de gunoi cu <ecoOne>Eco-One™</ecoOne>",
+        "body": "93% biodegradare în 3,5 ani într-un test de laborator independent (ASTM D5511 și ISO 15985). Același material fără aditiv a prezentat 0%. Până la 99% este proiectat în 5 ani."
+      },
+      "urinal": {
+        "smallTitle": "Pisoare mai mici",
+        "smallBody": "Compact, cu același Sealed Bristles Technology™ brevetat ca și ëkcoscreen 60+.",
+        "mostTitle": "Cele mai multe tipuri de pisoare",
+        "mostBody": "powër screen și basic scrëen - o formă flexibilă care se potrivește aproape tuturor tipurilor de pisoare.",
+        "waterlessTitle": "Pisoare fără apă",
+        "waterlessBody": "Ideal pentru pisoare fără apă. powër screen, üro lite și basic scrëen sunt de asemenea potrivite.",
+        "drainTitle": "Protectie de scurgere",
+        "drainBody": "Fiecare ecran ëkcos protejează scurgerea. ëkcoscreen 60+ acoperă cea mai mare suprafață.",
+        "designTitle": "Designul contează",
+        "designBody": "O formă patentată care transformă pisoarul într-un element de design.",
+        "puckTitle": "Preferi un bloc urinar?",
+        "puckBody": "Un paravan cu un disc dezodorizant realizat în principal din ceară și glicerină. Parfum pentru până la 30 de zile."
+      },
+      "summary": {
+        "colNeed": "Toaleta ta",
+        "colRec": "Recomandarea noastră",
+        "rows": {
+          "high": "Trafic mare",
+          "standard": "Trafic standard, modificări lunare",
+          "budget": "Opțiune de buget",
+          "small": "Pisoare mai mici",
+          "waterless": "Pisoare fără apă",
+          "drain": "Protectie de scurgere",
+          "design": "Designul contează",
+          "puck": "Prefer un bloc urinar",
+          "bio": "Biodegradabil la groapa de gunoi",
+          "logo": "Propriul dvs. logo"
+        },
+        "recs": {
+          "budget": "üro lite sau basic scrëen fără peri anti-stropire",
+          "drain": "Fiecare ecran ëkcos, mai ales ëkcoscreen 60+",
+          "bio": "Fiecare ecran ëkcos, cu Eco-One™",
+          "logo": "Etichetă privată pe fiecare ecran"
+        }
+      },
+      "complete": {
+        "clip": "Clip pentru vasul de toaletă cu până la 30 de zile de parfum. Se potrivește aproape oricărui bol.",
+        "fresh": "Odorizant pentru cabine de toaletă: 30+ zile de parfum în cabine cu puțină ventilație și 60+ zile la trafic redus, fără baterii sau electricitate.",
+        "mat": "Covoraș pentru pisoar care protejează podeaua de sub pisoar.",
+        "trap": "Cartuș pentru pisoare fără apă cu sistem Falcon Velocity. Menține mirosurile de scurgere afară."
+      }
     }
   },
   "newsletter": {

@@ -111,6 +111,103 @@
       "product": "Produkt",
       "sustainability": "Bæredygtighed",
       "news": "Nyheder"
+    },
+    "advisor": {
+      "steps": {
+        "traffic": "Trafik",
+        "trafficHint": "Hvor travlt er toilettet?",
+        "splash": "Stænkbeskyttelse",
+        "splashHint": "Hvor godt stopper det splashback?",
+        "fragrance": "Duft",
+        "fragranceHint": "Hvor længe, ​​hvor stærk, hvilken farve?",
+        "evidence": "Bevis",
+        "evidenceHint": "Er påstandene bevist?",
+        "urinal": "Urinal type",
+        "urinalHint": "Hvilken størrelse og type?"
+      },
+      "traffic": {
+        "highTitle": "Høj trafik",
+        "highPlaces": "Restauranter, barer, lufthavne, indkøbscentre",
+        "highBody": "60+ dage med duft og tætte anti-stænkbørster. ëkcoscreen 60+ koster omtrent det samme per dag som en 30-dages skærm. Vælg xcrën HD 60+, når udseendet af toilettet også betyder noget.",
+        "standardTitle": "Standard trafik",
+        "standardPlaces": "Månedlig vedligeholdelse",
+        "standardBody": "Op til 30 dages duft med patenterede børster mod stænk. Lavet til månedlige ændringer.",
+        "budgetTitle": "Budget mulighed",
+        "budgetPlaces": "Mindre trafik, kontorer og mindre faciliteter",
+        "budgetBody": "De indeholder mindre materiale, så de koster mindre, og deres duft er lettere. üro lite har stadig længe patenterede anti-stænk-børster. basic scrëen beskytter afløbet mod snavs, men har ingen anti-stænk-børster."
+      },
+      "splash": {
+        "eksLabel": "af ëkcoscreen 60+ overfladen dækket med patenterede anti-sprøjtbørster",
+        "xhdLabel": "af xcrën HD 60+ overfladen dækket med patenterede anti-stænk børster"
+      },
+      "callouts": {
+        "uv": "ëkcoscreen 60+ i en side-by-side UV-sprøjttest: intet synligt tilbageslag uden for skærmen under identiske forhold. Spørg efter videoen.",
+        "tip": "Tip: Undgå skærme uden tætte anti-stænkbørster på toiletter med stor trafik.",
+        "ask": "Spørg enhver leverandør: Findes der en uafhængig testrapport? Gælder en \"100% genanvendelig\"-påstand virkelig en brugt skærm?"
+      },
+      "duration": {
+        "day1": "Dag 1",
+        "day30": "Dag 30",
+        "day60": "Dag 60",
+        "thirtyLabel": "30 dages skærm",
+        "screen1": "Skærm 1",
+        "screen2": "Skærm 2",
+        "sixtyBar": "Én skærm i mere end 60 dage",
+        "note": "Med ëkcoscreen 60+ svarer prisen pr. dag til en 30-dages skærm, men du skifter den halvt så ofte. Det sparer arbejdstid."
+      },
+      "intensity": {
+        "most": "Mest intense",
+        "very": "Meget intens",
+        "medium": "Medium",
+        "subtle": "Subtil",
+        "popular": "Populære valg er bær, frisk, citrus og melon."
+      },
+      "ecoOne": {
+        "title": "Biologisk nedbrydelig på losseplads med <ecoOne>Eco-One™</ecoOne>",
+        "body": "93 % biologisk nedbrydning inden for 3,5 år i en uafhængig laboratorietest (ASTM D5511 og ISO 15985). Det samme materiale uden tilsætningsstoffet viste 0%. Op til 99 % forventes inden for 5 år."
+      },
+      "urinal": {
+        "smallTitle": "Mindre urinaler",
+        "smallBody": "Kompakt, med samme patenterede Sealed Bristles Technology™ som ëkcoscreen 60+.",
+        "mostTitle": "De fleste urinaltyper",
+        "mostBody": "powër screen og basic scrëen - en fleksibel form, der passer til næsten alle typer urinaler.",
+        "waterlessTitle": "Vandløse urinaler",
+        "waterlessBody": "Ideel til vandløse urinaler. powër screen, üro lite og basic scrëen er også velegnede.",
+        "drainTitle": "Afløbsbeskyttelse",
+        "drainBody": "Hver ëkcos-skærm beskytter afløbet. ëkcoscreen 60+ dækker det største område.",
+        "designTitle": "Design betyder noget",
+        "designBody": "En patenteret form, der gør urinalet til et designelement.",
+        "puckTitle": "Foretrækker du en urinalblok?",
+        "puckBody": "En skærm med en lugtfjernende puck lavet hovedsageligt af voks og glycerin. Duft i op til 30 dage."
+      },
+      "summary": {
+        "colNeed": "Dit toilet",
+        "colRec": "Vores anbefaling",
+        "rows": {
+          "high": "Høj trafik",
+          "standard": "Standardtrafik, månedlige ændringer",
+          "budget": "Budget mulighed",
+          "small": "Mindre urinaler",
+          "waterless": "Vandløse urinaler",
+          "drain": "Afløbsbeskyttelse",
+          "design": "Design betyder noget",
+          "puck": "Foretrækker en urinalblok",
+          "bio": "Biologisk nedbrydelig på losseplads",
+          "logo": "Dit eget logo"
+        },
+        "recs": {
+          "budget": "üro lite eller basic scrëen uden anti-stænk-børster",
+          "drain": "Hver ëkcos-skærm, mest af alt ëkcoscreen 60+",
+          "bio": "Hver ëkcos-skærm med Eco-One™",
+          "logo": "Private label på hver skærm"
+        }
+      },
+      "complete": {
+        "clip": "Toiletskålclips med op til 30 dages duft. Passer til næsten enhver skål.",
+        "fresh": "Luftfrisker til toiletkabiner: 30+ dages duft i kabiner med lidt ventilation og 60+ dage ved lav trafik, ingen batterier eller elektricitet.",
+        "mat": "Urinalgulvmåtte, der beskytter gulvet under urinalet.",
+        "trap": "Patron til vandløse urinaler med Falcon Velocity-systemet. Holder afløbslugte ude."
+      }
     }
   },
   "newsletter": {

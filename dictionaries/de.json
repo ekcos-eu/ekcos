@@ -111,6 +111,103 @@
       "product": "Produkt",
       "sustainability": "Nachhaltigkeit",
       "news": "News"
+    },
+    "advisor": {
+      "steps": {
+        "traffic": "Frequentierung",
+        "trafficHint": "Wie stark wird die Toilette genutzt?",
+        "splash": "Spritzschutz",
+        "splashHint": "Wie gut verhindert es Spritzwasser?",
+        "fragrance": "Duft",
+        "fragranceHint": "Wie lange, wie stark, welche Farbe?",
+        "evidence": "Beweis",
+        "evidenceHint": "Sind die Behauptungen bewiesen?",
+        "urinal": "Urinaltyp",
+        "urinalHint": "Welche Größe und Typ?"
+      },
+      "traffic": {
+        "highTitle": "Hohe Frequentierung",
+        "highPlaces": "Restaurants, Bars, Flughäfen, Einkaufszentren",
+        "highBody": "Über 60 Tage Duft und dichte, spritzwassergeschützte Borsten. ëkcoscreen 60+ kostet pro Tag ungefähr so ​​viel wie ein 30-Tage-Bildschirm. Wählen Sie xcrën HD 60+, wenn auch das Aussehen der Toilette wichtig ist.",
+        "standardTitle": "Normale Frequentierung",
+        "standardPlaces": "Monatliche Wartung",
+        "standardBody": "Bis zu 30 Tage Duft mit patentierten Anti-Spritz-Borsten. Gemacht für monatliche Änderungen.",
+        "budgetTitle": "Günstige Option",
+        "budgetPlaces": "Weniger Verkehr, Büros und kleinere Einrichtungen",
+        "budgetBody": "Sie enthalten weniger Material, sind daher kostengünstiger und haben einen leichteren Duft. üro lite verfügt noch immer über die seit langem patentierten Anti-Spritz-Borsten. basic scrëen schützt den Abfluss vor Schmutz, hat aber keine Anti-Spritz-Borsten."
+      },
+      "splash": {
+        "eksLabel": "der ëkcoscreen 60+-Oberfläche mit patentierten Anti-Spritz-Borsten bedeckt",
+        "xhdLabel": "der xcrën HD 60+-Oberfläche mit patentierten Anti-Spritz-Borsten bedeckt"
+      },
+      "callouts": {
+        "uv": "ëkcoscreen 60+ im UV-Spritztest nebeneinander: Unter identischen Bedingungen kein sichtbarer Spritzer außerhalb des Bildschirms. Fragen Sie nach dem Video.",
+        "tip": "Tipp: Vermeiden Sie in stark frequentierten Toiletten Bildschirme ohne dichte Anti-Spritz-Borsten.",
+        "ask": "Fragen Sie jeden Lieferanten: Gibt es einen unabhängigen Testbericht? Gilt die Aussage „100 % recycelbar“ wirklich für einen gebrauchten Bildschirm?"
+      },
+      "duration": {
+        "day1": "Tag 1",
+        "day30": "Tag 30",
+        "day60": "Tag 60",
+        "thirtyLabel": "30-Tage-Bildschirm",
+        "screen1": "Bildschirm 1",
+        "screen2": "Bildschirm 2",
+        "sixtyBar": "Ein Bildschirm für mehr als 60 Tage",
+        "note": "Mit ëkcoscreen 60+ sind die Kosten pro Tag ähnlich wie bei einem 30-Tage-Bildschirm, aber Sie wechseln ihn halb so oft. Das spart Arbeitszeit."
+      },
+      "intensity": {
+        "most": "Am intensivsten",
+        "very": "Sehr intensiv",
+        "medium": "Medium",
+        "subtle": "Subtil",
+        "popular": "Beliebte Sorten sind Beeren, frische Sorten, Zitrusfrüchte und Melonen."
+      },
+      "ecoOne": {
+        "title": "Biologisch abbaubar auf der Mülldeponie mit <ecoOne>Eco-One™</ecoOne>",
+        "body": "93 % biologischer Abbau innerhalb von 3,5 Jahren in einem unabhängigen Labortest (ASTM D5511 und ISO 15985). Das gleiche Material ohne Zusatz zeigte 0 %. Bis zu 99 % werden innerhalb von 5 Jahren prognostiziert."
+      },
+      "urinal": {
+        "smallTitle": "Kleinere Urinale",
+        "smallBody": "Kompakt, mit dem gleichen patentierten Sealed Bristles Technology™ wie ëkcoscreen 60+.",
+        "mostTitle": "Die meisten Urinaltypen",
+        "mostBody": "powër screen und basic scrëen – eine flexible Form, die für fast alle Arten von Urinalen geeignet ist.",
+        "waterlessTitle": "Wasserlose Urinale",
+        "waterlessBody": "Ideal für wasserlose Urinale. Auch powër screen, üro lite und basic scrëen sind geeignet.",
+        "drainTitle": "Abflussschutz",
+        "drainBody": "Jedes ëkcos Sieb schützt den Abfluss. ëkcoscreen 60+ deckt den größten Bereich ab.",
+        "designTitle": "Design ist wichtig",
+        "designBody": "Eine patentierte Form, die das Urinal zum Designelement macht.",
+        "puckTitle": "Bevorzugen Sie einen Urinalblock?",
+        "puckBody": "Ein Sieb mit einem desodorierenden Puck, der hauptsächlich aus Wachs und Glycerin besteht. Duft bis zu 30 Tage."
+      },
+      "summary": {
+        "colNeed": "Ihre Toilette",
+        "colRec": "Unsere Empfehlung",
+        "rows": {
+          "high": "Hohe Frequentierung",
+          "standard": "Normale Frequentierung, monatlicher Wechsel",
+          "budget": "Budgetoption",
+          "small": "Kleinere Urinale",
+          "waterless": "Wasserlose Urinale",
+          "drain": "Abflussschutz",
+          "design": "Design ist wichtig",
+          "puck": "Bevorzugen Sie einen Urinalblock",
+          "bio": "Auf der Mülldeponie biologisch abbaubar",
+          "logo": "Ihr eigenes Logo"
+        },
+        "recs": {
+          "budget": "üro lite oder basic scrëen ohne Spritzschutzborsten",
+          "drain": "Jeder ëkcos-Bildschirm, vor allem ëkcoscreen 60+",
+          "bio": "Jeder ëkcos-Bildschirm mit Eco-One™",
+          "logo": "Eigenmarke auf jedem Bildschirm"
+        }
+      },
+      "complete": {
+        "clip": "Toilettenschüssel-Clip mit bis zu 30 Tagen Duft. Passt auf fast jede Schüssel.",
+        "fresh": "Lufterfrischer für Toilettenkabinen: 30+ Tage Duft in Kabinen mit geringer Belüftung und 60+ Tage bei wenig Verkehr, ohne Batterien oder Strom.",
+        "mat": "Urinal-Bodenmatte, die den Boden unter dem Urinal schützt.",
+        "trap": "Kartusche für wasserlose Urinale mit dem Falcon Velocity-System. Hält Abflussgerüche fern."
+      }
     }
   },
   "newsletter": {

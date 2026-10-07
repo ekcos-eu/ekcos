@@ -96,20 +96,26 @@ const COMBINED_PATTERN = new RegExp(
 function resolveProductLink(
   matched: string,
   getImageAlt: ProductImageAltLookup,
-): { href: string; imageSrc: string; alt: string } | null {
+): { href: string; imageSrc: string; alt: string; external: boolean } | null {
   for (const entry of PRODUCT_NAME_ALIASES) {
     const tester = new RegExp(entry.pattern.source, entry.pattern.flags)
     if (!tester.test(matched)) continue
 
     const product = products.find((item) => item.shopPath === entry.shopPath)
     if (!product) {
-      return { href: `${SHOP_BASE_URL}${entry.shopPath}`, imageSrc: '', alt: '' }
+      return {
+        href: `${SHOP_BASE_URL}${entry.shopPath}`,
+        imageSrc: '',
+        alt: '',
+        external: true,
+      }
     }
 
     return {
-      href: `${SHOP_BASE_URL}${entry.shopPath}`,
+      href: `/products/${product.slug}`,
       imageSrc: getConfiguratorThumbnailSrc(product),
       alt: getImageAlt(entry.shopPath),
+      external: false,
     }
   }
 
@@ -139,19 +145,30 @@ function linkifyProducts(
           href={link.href}
           imageSrc={link.imageSrc}
           alt={link.alt}
+          external={link.external}
         >
           {matched}
         </ProductHoverLink>
       ) : link ? (
-        <a
-          key={`product-${match.index}-${matched}`}
-          href={link.href}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="font-semibold text-[#0F68B2] underline underline-offset-2 hover:text-[#0d5a9a]"
-        >
-          {matched}
-        </a>
+        link.external ? (
+          <a
+            key={`product-${match.index}-${matched}`}
+            href={link.href}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-semibold text-[#0F68B2] underline underline-offset-2 hover:text-[#0d5a9a]"
+          >
+            {matched}
+          </a>
+        ) : (
+          <Link
+            key={`product-${match.index}-${matched}`}
+            href={link.href}
+            className="font-semibold text-[#0F68B2] underline underline-offset-2 hover:text-[#0d5a9a]"
+          >
+            {matched}
+          </Link>
+        )
       ) : (
         matched
       ),

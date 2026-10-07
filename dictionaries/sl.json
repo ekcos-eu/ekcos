@@ -111,6 +111,103 @@
       "product": "Izdelek",
       "sustainability": "Trajnost",
       "news": "Novice"
+    },
+    "advisor": {
+      "steps": {
+        "traffic": "Promet",
+        "trafficHint": "Kako zaseden je WC?",
+        "splash": "Zaščita pred škropljenjem",
+        "splashHint": "Kako dobro preprečuje brizganje?",
+        "fragrance": "Dišava",
+        "fragranceHint": "Kako dolgo, kako močno, katere barve?",
+        "evidence": "Dokazi",
+        "evidenceHint": "Ali so trditve dokazane?",
+        "urinal": "Vrsta pisoarja",
+        "urinalHint": "Kakšna velikost in vrsta?"
+      },
+      "traffic": {
+        "highTitle": "Velik promet",
+        "highPlaces": "Restavracije, bari, letališča, nakupovalna središča",
+        "highBody": "60+ dni dišave in gostih ščetin proti škropljenju. ëkcoscreen 60+ stane približno enako na dan kot 30-dnevni zaslon. Izberite xcrën HD 60+, ko je pomemben tudi videz stranišča.",
+        "standardTitle": "Standardni promet",
+        "standardPlaces": "Mesečno vzdrževanje",
+        "standardBody": "Do 30 dni dišave s patentiranimi ščetinami proti škropljenju. Narejen za mesečne spremembe.",
+        "budgetTitle": "Proračunska možnost",
+        "budgetPlaces": "Manjši promet, pisarne in manjši objekti",
+        "budgetBody": "Vsebujejo manj materiala, zato so cenejši in njihova dišava je lažja. üro lite ima še dolgo patentirane ščetine proti škropljenju. basic scrëen ščiti odtok pred umazanijo, vendar nima ščetin proti škropljenju."
+      },
+      "splash": {
+        "eksLabel": "površine ëkcoscreen 60+, prekrite s patentiranimi ščetinami proti škropljenju",
+        "xhdLabel": "površine xcrën HD 60+, prekrite s patentiranimi ščetinami proti škropljenju"
+      },
+      "callouts": {
+        "uv": "ëkcoscreen 60+ pri vzporednem preskusu UV-brizganja: brez vidnega brizganja zunaj zaslona pod enakimi pogoji. Vprašajte za video.",
+        "tip": "Nasvet: v straniščih z veliko prometa se izogibajte zaslonom brez gostih ščetin proti škropljenju.",
+        "ask": "Vprašajte katerega koli dobavitelja: Ali obstaja neodvisno poročilo o preskusu? Ali trditev, da je mogoče 100 % reciklirati, res velja za rabljen zaslon?"
+      },
+      "duration": {
+        "day1": "1. dan",
+        "day30": "30. dan",
+        "day60": "60. dan",
+        "thirtyLabel": "30-dnevni zaslon",
+        "screen1": "Zaslon 1",
+        "screen2": "Zaslon 2",
+        "sixtyBar": "En zaslon za 60+ dni",
+        "note": "Pri ëkcoscreen 60+ je strošek na dan podoben 30-dnevnemu zaslonu, vendar ga menjate pol manj pogosto. To prihrani delovni čas."
+      },
+      "intensity": {
+        "most": "Najbolj intenzivno",
+        "very": "Zelo intenzivno",
+        "medium": "Srednje",
+        "subtle": "Subtilen",
+        "popular": "Priljubljene izbire so jagodičje, sveže, citrusi in melone."
+      },
+      "ecoOne": {
+        "title": "Biorazgradljivo na odlagališču z <ecoOne>Eco-One™</ecoOne>",
+        "body": "93-odstotna biorazgradnja v 3,5 letih v neodvisnem laboratorijskem testu (ASTM D5511 in ISO 15985). Isti material brez dodatka je pokazal 0 %. V 5 letih je predvidenih do 99 %."
+      },
+      "urinal": {
+        "smallTitle": "Manjši pisoarji",
+        "smallBody": "Kompakten, z enakim patentiranim Sealed Bristles Technology™ kot ëkcoscreen 60+.",
+        "mostTitle": "Večina vrst pisoarjev",
+        "mostBody": "powër screen in basic scrëen - prilagodljiva oblika, ki ustreza skoraj vsem vrstam pisoarjev.",
+        "waterlessTitle": "Pisoarji brez vode",
+        "waterlessBody": "Idealno za pisoarje brez vode. Primerni so tudi powër screen, üro lite in basic scrëen.",
+        "drainTitle": "Zaščita odtoka",
+        "drainBody": "Vsaka mreža ëkcos ščiti odtok. ëkcoscreen 60+ pokriva največjo površino.",
+        "designTitle": "Dizajn je pomemben",
+        "designBody": "Patentirana oblika, ki spremeni pisoar v oblikovni element.",
+        "puckTitle": "Imate raje pisoarski blok?",
+        "puckBody": "Zaslon z dezodorirno ploščo, narejeno predvsem iz voska in glicerina. Dišava do 30 dni."
+      },
+      "summary": {
+        "colNeed": "Vaše stranišče",
+        "colRec": "Naše priporočilo",
+        "rows": {
+          "high": "Velik promet",
+          "standard": "Standardni promet, mesečne spremembe",
+          "budget": "Proračunska možnost",
+          "small": "Manjši pisoarji",
+          "waterless": "Pisoarji brez vode",
+          "drain": "Zaščita odtoka",
+          "design": "Dizajn je pomemben",
+          "puck": "Raje pisoar blok",
+          "bio": "Biorazgradljivo na odlagališču",
+          "logo": "Vaš lastni logotip"
+        },
+        "recs": {
+          "budget": "üro lite ali basic scrëen brez ščetin proti škropljenju",
+          "drain": "Vsak zaslon ëkcos, najbolj pa ëkcoscreen 60+",
+          "bio": "Vsak zaslon ëkcos z Eco-One™",
+          "logo": "Zasebna znamka na vsakem zaslonu"
+        }
+      },
+      "complete": {
+        "clip": "Sponka za straniščno školjko z dišavo do 30 dni. Prilega se skoraj vsaki skledi.",
+        "fresh": "Osvežilec zraka za straniščne kabine: 30+ dni dišave v kabinah z malo prezračevanja in 60+ dni pri nizkem prometu, brez baterij ali elektrike.",
+        "mat": "Podloga za pisoar, ki ščiti tla pod pisoarjem.",
+        "trap": "Kartuša za brezvodne pisoarje s sistemom Falcon Velocity. Preprečuje vonjave po odtoku."
+      }
     }
   },
   "newsletter": {

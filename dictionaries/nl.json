@@ -111,6 +111,103 @@
       "product": "Product",
       "sustainability": "Duurzaamheid",
       "news": "Nieuws"
+    },
+    "advisor": {
+      "steps": {
+        "traffic": "Verkeer",
+        "trafficHint": "Hoe druk is het toilet?",
+        "splash": "Spatbescherming",
+        "splashHint": "Hoe goed stopt het spatwater?",
+        "fragrance": "Geur",
+        "fragranceHint": "Hoe lang, hoe sterk, welke kleur?",
+        "evidence": "Bewijs",
+        "evidenceHint": "Zijn de beweringen bewezen?",
+        "urinal": "Soort urinoir",
+        "urinalHint": "Welke maat en type?"
+      },
+      "traffic": {
+        "highTitle": "Veel verkeer",
+        "highPlaces": "Restaurants, bars, luchthavens, winkelcentra",
+        "highBody": "60+ dagen geur en dichte anti-spatborstels. ëkcoscreen 60+ kost per dag ongeveer hetzelfde als een scherm van 30 dagen. Kies xcrën HD 60+ als het uiterlijk van het toilet er ook toe doet.",
+        "standardTitle": "Standaard verkeer",
+        "standardPlaces": "Maandelijks onderhoud",
+        "standardBody": "Tot 30 dagen geur met gepatenteerde anti-spatborstels. Gemaakt voor maandelijkse wijzigingen.",
+        "budgetTitle": "Budgetoptie",
+        "budgetPlaces": "Minder verkeer, kantoren en kleinere faciliteiten",
+        "budgetBody": "Ze bevatten minder materiaal, dus ze kosten minder en hun geur is lichter. üro lite heeft nog steeds lang gepatenteerde anti-spatborstels. basic scrëen beschermt de afvoer tegen vuil, maar heeft geen antispatborstels."
+      },
+      "splash": {
+        "eksLabel": "van het ëkcoscreen 60+ oppervlak bedekt met gepatenteerde anti-spatborstels",
+        "xhdLabel": "van het xcrën HD 60+ oppervlak bedekt met gepatenteerde anti-spatborstels"
+      },
+      "callouts": {
+        "uv": "ëkcoscreen 60+ in een side-by-side UV-spattest: geen zichtbare spatplaat buiten het scherm onder identieke omstandigheden. Vraag naar het filmpje.",
+        "tip": "Tip: Vermijd in toiletten met veel verkeer schermen zonder dichte antispatborstels.",
+        "ask": "Vraag het aan een willekeurige leverancier: Is er een onafhankelijk testrapport? Is de claim '100% recyclebaar' echt van toepassing op een gebruikt scherm?"
+      },
+      "duration": {
+        "day1": "Dag 1",
+        "day30": "Dag 30",
+        "day60": "Dag 60",
+        "thirtyLabel": "30 dagen scherm",
+        "screen1": "Scherm 1",
+        "screen2": "Scherm 2",
+        "sixtyBar": "Eén scherm voor meer dan 60 dagen",
+        "note": "Met ëkcoscreen 60+ zijn de kosten per dag vergelijkbaar met een scherm van 30 dagen, maar u wijzigt deze half zo vaak. Dat scheelt werktijd."
+      },
+      "intensity": {
+        "most": "Meest intens",
+        "very": "Heel intens",
+        "medium": "Medium",
+        "subtle": "Subtiel",
+        "popular": "Populaire keuzes zijn bessen, fris, citrus en meloen."
+      },
+      "ecoOne": {
+        "title": "Biologisch afbreekbaar op stortplaatsen met <ecoOne>Eco-One™</ecoOne>",
+        "body": "93% biologische afbraak binnen 3,5 jaar in een onafhankelijke laboratoriumtest (ASTM D5511 en ISO 15985). Hetzelfde materiaal zonder het additief vertoonde 0%. Binnen 5 jaar wordt tot 99% verwacht."
+      },
+      "urinal": {
+        "smallTitle": "Kleinere urinoirs",
+        "smallBody": "Compact, met dezelfde gepatenteerde Sealed Bristles Technology™ als ëkcoscreen 60+.",
+        "mostTitle": "De meeste urinoirtypes",
+        "mostBody": "powër screen en basic scrëen - een flexibele vorm die op bijna alle soorten urinoirs past.",
+        "waterlessTitle": "Waterloze urinoirs",
+        "waterlessBody": "Ideaal voor waterloze urinoirs. powër screen, üro lite en basic scrëen zijn ook geschikt.",
+        "drainTitle": "Afvoerbeveiliging",
+        "drainBody": "Elk ëkcos scherm beschermt de afvoer. ëkcoscreen 60+ bestrijkt het grootste gebied.",
+        "designTitle": "Ontwerp is belangrijk",
+        "designBody": "Een gepatenteerde vorm die het urinoir tot een designelement maakt.",
+        "puckTitle": "Liever een urinoirblok?",
+        "puckBody": "Een scherm met een geurverdrijvende puck, voornamelijk gemaakt van was en glycerine. Geur voor maximaal 30 dagen."
+      },
+      "summary": {
+        "colNeed": "Jouw toilet",
+        "colRec": "Onze aanbeveling",
+        "rows": {
+          "high": "Veel verkeer",
+          "standard": "Standaardverkeer, maandelijkse wijzigingen",
+          "budget": "Budgetoptie",
+          "small": "Kleinere urinoirs",
+          "waterless": "Waterloze urinoirs",
+          "drain": "Afvoerbeveiliging",
+          "design": "Ontwerp is belangrijk",
+          "puck": "Liever een urinoirblok",
+          "bio": "Biologisch afbreekbaar op stortplaatsen",
+          "logo": "Je eigen logo"
+        },
+        "recs": {
+          "budget": "üro lite, of basic scrëen zonder anti-spatborstels",
+          "drain": "Elk ëkcos-scherm, vooral ëkcoscreen 60+",
+          "bio": "Elk ëkcos-scherm, met Eco-One™",
+          "logo": "Private label op elk scherm"
+        }
+      },
+      "complete": {
+        "clip": "Toiletpotclip met tot 30 dagen geur. Past op vrijwel elke kom.",
+        "fresh": "Luchtverfrisser voor toiletcabines: 30+ dagen geur in cabines met weinig ventilatie en 60+ dagen bij weinig verkeer, geen batterijen of elektriciteit.",
+        "mat": "Urinoirvloermat die de vloer onder het urinoir beschermt.",
+        "trap": "Patroon voor waterloze urinoirs met het Falcon Velocity systeem. Houdt afvoergeurtjes buiten."
+      }
     }
   },
   "newsletter": {

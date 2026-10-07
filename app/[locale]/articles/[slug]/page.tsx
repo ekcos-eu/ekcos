@@ -82,7 +82,11 @@ export default async function ArticlePage({params}: {params: PageParams}) {
       <PageContainer className="py-12 sm:py-16">
         <article>
           <FadeIn>
-            <ArticlePortableText value={article.content} />
+            <ArticlePortableText
+              value={article.content}
+              slug={article.slug.current}
+              articleId={article._id}
+            />
           </FadeIn>
 
           <FadeIn delay={0.1}>

@@ -111,6 +111,103 @@
       "product": "Produkt",
       "sustainability": "Hållbarhet",
       "news": "Nyheter"
+    },
+    "advisor": {
+      "steps": {
+        "traffic": "Trafik",
+        "trafficHint": "Hur upptagen är toaletten?",
+        "splash": "Stänkskydd",
+        "splashHint": "Hur väl stoppar det stänk?",
+        "fragrance": "Doft",
+        "fragranceHint": "Hur länge, hur stark, vilken färg?",
+        "evidence": "Bevis",
+        "evidenceHint": "Är påståendena bevisade?",
+        "urinal": "Urinal typ",
+        "urinalHint": "Vilken storlek och typ?"
+      },
+      "traffic": {
+        "highTitle": "Hög trafik",
+        "highPlaces": "Restauranger, barer, flygplatser, köpcentra",
+        "highBody": "60+ dagar av doft och täta anti-stänkborst. ëkcoscreen 60+ kostar ungefär lika mycket per dag som en 30-dagarsskärm. Välj xcrën HD 60+ när utseendet på toaletten också spelar roll.",
+        "standardTitle": "Standardtrafik",
+        "standardPlaces": "Månatligt underhåll",
+        "standardBody": "Upp till 30 dagars doft med patenterade anti-stänkborst. Gjord för månatliga förändringar.",
+        "budgetTitle": "Budgetalternativ",
+        "budgetPlaces": "Lägre trafik, kontor och mindre anläggningar",
+        "budgetBody": "De innehåller mindre material, så de kostar mindre och deras doft är lättare. üro lite har fortfarande långa patenterade antistänkborst. basic scrëen skyddar avloppet från skräp men har inga stänkborst."
+      },
+      "splash": {
+        "eksLabel": "av ëkcoscreen 60+-ytan täckt med patenterade anti-stänkborst",
+        "xhdLabel": "av xcrën HD 60+-ytan täckt med patenterade anti-stänkborst"
+      },
+      "callouts": {
+        "uv": "ëkcoscreen 60+ i ett UV-stänktest sida vid sida: ingen synlig stänk utanför skärmen under identiska förhållanden. Be om videon.",
+        "tip": "Tips: Undvik skärmar utan täta stänkborst på högtrafikerade toaletter.",
+        "ask": "Fråga vilken leverantör som helst: Finns det en oberoende testrapport? Gäller verkligen ett \"100% återvinningsbart\" påstående för en begagnad skärm?"
+      },
+      "duration": {
+        "day1": "Dag 1",
+        "day30": "Dag 30",
+        "day60": "Dag 60",
+        "thirtyLabel": "30 dagars skärm",
+        "screen1": "Skärm 1",
+        "screen2": "Skärm 2",
+        "sixtyBar": "En skärm i 60+ dagar",
+        "note": "Med ëkcoscreen 60+ liknar kostnaden per dag en 30-dagarsskärm, men du byter den hälften så ofta. Det sparar arbetstid."
+      },
+      "intensity": {
+        "most": "Mest intensiv",
+        "very": "Mycket intensiv",
+        "medium": "Medium",
+        "subtle": "Subtil",
+        "popular": "Populära val är bär, färsk, citrus och melon."
+      },
+      "ecoOne": {
+        "title": "Biologiskt nedbrytbart i deponi med <ecoOne>Eco-One™</ecoOne>",
+        "body": "93 % biologisk nedbrytning inom 3,5 år i ett oberoende laboratorietest (ASTM D5511 och ISO 15985). Samma material utan tillsatsen visade 0 %. Upp till 99 % beräknas inom 5 år."
+      },
+      "urinal": {
+        "smallTitle": "Mindre urinaler",
+        "smallBody": "Kompakt, med samma patenterade Sealed Bristles Technology™ som ëkcoscreen 60+.",
+        "mostTitle": "De flesta urinaltyper",
+        "mostBody": "powër screen och basic scrëen - en flexibel form som passar nästan alla typer av urinaler.",
+        "waterlessTitle": "Vattenlösa urinaler",
+        "waterlessBody": "Idealisk för vattenfria urinaler. powër screen, üro lite och basic scrëen är också lämpliga.",
+        "drainTitle": "Avloppsskydd",
+        "drainBody": "Varje ëkcos-skärm skyddar avloppet. ëkcoscreen 60+ täcker det största området.",
+        "designTitle": "Design spelar roll",
+        "designBody": "En patenterad form som gör urinalen till ett designelement.",
+        "puckTitle": "Föredrar du ett urinalblock?",
+        "puckBody": "En skärm med en deodoriserande puck gjord huvudsakligen av vax och glycerin. Doft i upp till 30 dagar."
+      },
+      "summary": {
+        "colNeed": "Din toalett",
+        "colRec": "Vår rekommendation",
+        "rows": {
+          "high": "Hög trafik",
+          "standard": "Standardtrafik, månatliga förändringar",
+          "budget": "Budgetalternativ",
+          "small": "Mindre urinaler",
+          "waterless": "Vattenlösa urinaler",
+          "drain": "Avloppsskydd",
+          "design": "Design spelar roll",
+          "puck": "Föredrar ett urinalblock",
+          "bio": "Biologiskt nedbrytbart i deponi",
+          "logo": "Din egen logotyp"
+        },
+        "recs": {
+          "budget": "üro lite, eller basic scrëen utan stänkborst",
+          "drain": "Varje ëkcos-skärm, mest av allt ëkcoscreen 60+",
+          "bio": "Varje ëkcos-skärm, med Eco-One™",
+          "logo": "Private label på varje skärm"
+        }
+      },
+      "complete": {
+        "clip": "Toalettskålklämma med upp till 30 dagars doft. Passar nästan vilken skål som helst.",
+        "fresh": "Luftfräschare för toalettbås: 30+ dagars doft i skåp med lite ventilation och 60+ dagar vid låg trafik, inga batterier eller el.",
+        "mat": "Urinalgolvmatta som skyddar golvet under urinalen.",
+        "trap": "Patron för vattenfria urinaler med Falcon Velocity-systemet. Håller avloppslukter ute."
+      }
     }
   },
   "newsletter": {

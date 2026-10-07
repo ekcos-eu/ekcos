@@ -111,6 +111,103 @@
       "product": "Toode",
       "sustainability": "Jätkusuutlikkus",
       "news": "Uudised"
+    },
+    "advisor": {
+      "steps": {
+        "traffic": "Liiklus",
+        "trafficHint": "Kui hõivatud on tualettruum?",
+        "splash": "Pritsmekaitse",
+        "splashHint": "Kui hästi see peatab tagasilöögi?",
+        "fragrance": "Lõhn",
+        "fragranceHint": "Kui kaua, kui tugev, mis värvi?",
+        "evidence": "Tõendid",
+        "evidenceHint": "Kas väited on tõestatud?",
+        "urinal": "Pissuaari tüüp",
+        "urinalHint": "Mis suurus ja tüüp?"
+      },
+      "traffic": {
+        "highTitle": "Suure liiklusega",
+        "highPlaces": "Restoranid, baarid, lennujaamad, kaubanduskeskused",
+        "highBody": "60+ päeva lõhna ja tihedad pritsmevastased harjased. ëkcoscreen 60+ maksab päevas umbes sama palju kui 30-päevane ekraan. Valige xcrën HD 60+, kui ka tualettruumi välimus on oluline.",
+        "standardTitle": "Tavaline liiklus",
+        "standardPlaces": "Igakuine hooldus",
+        "standardBody": "Kuni 30 päeva aroom patenteeritud pritsmevastaste harjastega. Loodud igakuiste muudatuste jaoks.",
+        "budgetTitle": "Eelarve valik",
+        "budgetPlaces": "Väiksem liiklus, kontorid ja väiksemad rajatised",
+        "budgetBody": "Need sisaldavad vähem materjali, nii et need maksavad vähem ja nende lõhn on kergem. üro lite-l on endiselt kaua patenteeritud pritsmevastased harjased. basic scrëen kaitseb äravoolu prahi eest, kuid sellel puuduvad pritsmevastased harjased."
+      },
+      "splash": {
+        "eksLabel": "ëkcoscreen 60+ pinnast on kaetud patenteeritud pritsmevastaste harjastega",
+        "xhdLabel": "xcrën HD 60+ pinnast on kaetud patenteeritud pritsmevastaste harjastega"
+      },
+      "callouts": {
+        "uv": "ëkcoscreen 60+ kõrvuti asetsevas UV-pritsmetestis: identsete tingimuste korral pole nähtavat tagasipritset väljaspool ekraani. Küsi videot.",
+        "tip": "Näpunäide. Tiheda liiklusega tualettruumides vältige ekraane ilma tihedate pritsmevastaste harjasteta.",
+        "ask": "Küsige mis tahes tarnijalt: kas on olemas sõltumatu katsearuanne? Kas väide \"100% taaskasutatav\" kehtib tõesti kasutatud ekraani kohta?"
+      },
+      "duration": {
+        "day1": "1. päev",
+        "day30": "30. päev",
+        "day60": "60. päev",
+        "thirtyLabel": "30-päevane ekraan",
+        "screen1": "1. ekraan",
+        "screen2": "2. ekraan",
+        "sixtyBar": "Üks ekraan 60+ päevaks",
+        "note": "ëkcoscreen 60+ puhul on päevakulu sarnane 30-päevase ekraaniga, kuid vahetate seda poole harvemini. See säästab tööaega."
+      },
+      "intensity": {
+        "most": "Kõige intensiivsem",
+        "very": "Väga intensiivne",
+        "medium": "Keskmine",
+        "subtle": "Peen",
+        "popular": "Populaarsed valikud on marjad, värsked, tsitruselised ja melon."
+      },
+      "ecoOne": {
+        "title": "Prügilas biolagunev koos <ecoOne>Eco-One™</ecoOne>",
+        "body": "93% biolagunemine 3,5 aasta jooksul sõltumatus laboritestis (ASTM D5511 ja ISO 15985). Sama materjal ilma lisandita näitas 0%. 5 aasta jooksul prognoositakse kuni 99%."
+      },
+      "urinal": {
+        "smallTitle": "Väiksemad pissuaarid",
+        "smallBody": "Kompaktne, sama patenteeritud Sealed Bristles Technology™ kui ëkcoscreen 60+.",
+        "mostTitle": "Enamik pissuaaritüüpe",
+        "mostBody": "powër screen ja basic scrëen – painduv kuju, mis sobib peaaegu igat tüüpi pissuaaridega.",
+        "waterlessTitle": "Veevabad pissuaarid",
+        "waterlessBody": "Ideaalne veevabade pissuaaride jaoks. Sobivad ka powër screen, üro lite ja basic scrëen.",
+        "drainTitle": "Äravoolu kaitse",
+        "drainBody": "Iga ëkcos ekraan kaitseb äravoolu. ëkcoscreen 60+ katab suurima ala.",
+        "designTitle": "Disain on oluline",
+        "designBody": "Patenteeritud kuju, mis muudab pissuaari disainielemendiks.",
+        "puckTitle": "Kas eelistate pissuaari blokeerimist?",
+        "puckBody": "Peamiselt vahast ja glütseriinist valmistatud desodoreeriva pukiga ekraan. Lõhn kuni 30 päeva."
+      },
+      "summary": {
+        "colNeed": "Sinu tualettruum",
+        "colRec": "Meie soovitus",
+        "rows": {
+          "high": "Suure liiklusega",
+          "standard": "Tavaliiklus, igakuised muudatused",
+          "budget": "Eelarve valik",
+          "small": "Väiksemad pissuaarid",
+          "waterless": "Veevabad pissuaarid",
+          "drain": "Äravoolu kaitse",
+          "design": "Disain on oluline",
+          "puck": "Eelista pissuaari blokeerimist",
+          "bio": "Biolagunev prügilas",
+          "logo": "Sinu enda logo"
+        },
+        "recs": {
+          "budget": "üro lite või basic scrëen ilma pritsmevastaste harjasteta",
+          "drain": "Iga ëkcos ekraan, kõige enam ëkcoscreen 60+",
+          "bio": "Iga ëkcos ekraan funktsiooniga Eco-One™",
+          "logo": "Privaatne silt igal ekraanil"
+        }
+      },
+      "complete": {
+        "clip": "WC-poti klamber kuni 30 päeva lõhnaga. Sobib peaaegu igasse kaussi.",
+        "fresh": "Õhuvärskendaja tualettkabiinidele: 30+ päeva aroomi vähese ventilatsiooniga kabiinides ja 60+ päeva vähese liiklusega, ilma patareide ja elektrita.",
+        "mat": "Pissuaari põrandamatt, mis kaitseb pissuaari all olevat põrandat.",
+        "trap": "Kassett veevabade pissuaaride jaoks Falcon Velocity süsteemiga. Hoiab ära kanalisatsioonilõhnad."
+      }
     }
   },
   "newsletter": {

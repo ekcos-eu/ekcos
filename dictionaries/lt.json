@@ -111,6 +111,103 @@
       "product": "Produktas",
       "sustainability": "Tvarumas",
       "news": "Naujienos"
+    },
+    "advisor": {
+      "steps": {
+        "traffic": "Eismas",
+        "trafficHint": "Kiek užimtas tualetas?",
+        "splash": "Apsauga nuo purslų",
+        "splashHint": "Kaip gerai jis sustabdo atsitrenkimą?",
+        "fragrance": "Kvapas",
+        "fragranceHint": "Kiek ilgai, kiek stipriai, kokios spalvos?",
+        "evidence": "Įrodymai",
+        "evidenceHint": "Ar teiginiai įrodyti?",
+        "urinal": "Pisuarų tipas",
+        "urinalHint": "Kokio dydžio ir tipo?"
+      },
+      "traffic": {
+        "highTitle": "Didelis srautas",
+        "highPlaces": "Restoranai, barai, oro uostai, prekybos centrai",
+        "highBody": "60+ dienų kvapas ir tankūs šereliai, apsaugantys nuo purslų. ëkcoscreen 60+ per dieną kainuoja maždaug tiek pat, kiek 30 dienų ekranas. Pasirinkite xcrën HD 60+, kai svarbi ir tualeto išvaizda.",
+        "standardTitle": "Standartinis eismas",
+        "standardPlaces": "Mėnesinė priežiūra",
+        "standardBody": "Iki 30 dienų kvapas su patentuotais šereliais nuo purslų. Sukurta mėnesiniams pokyčiams.",
+        "budgetTitle": "Biudžeto variantas",
+        "budgetPlaces": "Mažesnis eismas, biurai ir mažesnės patalpos",
+        "budgetBody": "Juose yra mažiau medžiagų, todėl jie kainuoja pigiau, o jų kvapas yra lengvesnis. üro lite vis dar turi seniai patentuotus apsaugos nuo purslų šerius. basic scrëen apsaugo kanalizaciją nuo šiukšlių, tačiau neturi šerių, apsaugančių nuo purslų."
+      },
+      "splash": {
+        "eksLabel": "ëkcoscreen 60+ paviršiaus padengtas patentuotais šeriais, apsaugančiais nuo purslų",
+        "xhdLabel": "xcrën HD 60+ paviršius padengtas patentuotais šeriais, apsaugančiais nuo purslų"
+      },
+      "callouts": {
+        "uv": "ëkcoscreen 60+ atliekant greta esantį UV purslų testą: esant identiškoms sąlygoms, už ekrano ribų nėra matomų purslų. Klauskite vaizdo įrašo.",
+        "tip": "Patarimas: tualetuose, kuriuose daug žmonių, venkite ekranų be tankių šerių, apsaugančių nuo purslų.",
+        "ask": "Paklauskite bet kurio tiekėjo: ar yra nepriklausoma bandymo ataskaita? Ar teiginys „100 % perdirbamas“ tikrai taikomas naudotam ekranui?"
+      },
+      "duration": {
+        "day1": "1 diena",
+        "day30": "30 diena",
+        "day60": "60 diena",
+        "thirtyLabel": "30 dienų ekranas",
+        "screen1": "1 ekranas",
+        "screen2": "2 ekranas",
+        "sixtyBar": "Vienas ekranas daugiau nei 60 dienų",
+        "note": "Naudojant ëkcoscreen 60+, dienos kaina yra panaši į 30 dienų ekraną, tačiau keičiate ją perpus dažniau. Taip taupomas darbo laikas."
+      },
+      "intensity": {
+        "most": "Intensyviausias",
+        "very": "Labai intensyvus",
+        "medium": "Vidutinis",
+        "subtle": "Subtilus",
+        "popular": "Populiariausi yra uogų, šviežių, citrusinių vaisių ir melionų pasirinkimas."
+      },
+      "ecoOne": {
+        "title": "Biologiškai skaidomas sąvartynuose su <ecoOne>Eco-One™</ecoOne>",
+        "body": "93 % biologinis skaidymas per 3,5 metų nepriklausomo laboratorinio tyrimo metu (ASTM D5511 ir ISO 15985). Ta pati medžiaga be priedo parodė 0 proc. Per 5 metus prognozuojama iki 99 proc."
+      },
+      "urinal": {
+        "smallTitle": "Mažesni pisuarai",
+        "smallBody": "Kompaktiškas, su tuo pačiu patentuotu Sealed Bristles Technology™ kaip ëkcoscreen 60+.",
+        "mostTitle": "Dauguma pisuarų tipų",
+        "mostBody": "powër screen ir basic scrëen – lanksti forma, tinkanti beveik visų tipų pisuarams.",
+        "waterlessTitle": "Bevandeniai pisuarai",
+        "waterlessBody": "Idealiai tinka bevandeniams pisuarams. Taip pat tinka powër screen, üro lite ir basic scrëen.",
+        "drainTitle": "Apsauga nuo nutekėjimo",
+        "drainBody": "Kiekvienas ëkcos ekranas apsaugo kanalizaciją. ëkcoscreen 60+ užima didžiausią plotą.",
+        "designTitle": "Dizaino reikalai",
+        "designBody": "Patentuota forma, kuri pisuarą paverčia dizaino elementu.",
+        "puckTitle": "Pirmenybę teikia pisuarų blokavimui?",
+        "puckBody": "Ekranas su dezodoruojančiu rituliu, daugiausia pagamintas iš vaško ir glicerino. Kvapas iki 30 dienų."
+      },
+      "summary": {
+        "colNeed": "Jūsų tualetas",
+        "colRec": "Mūsų rekomendacija",
+        "rows": {
+          "high": "Didelis srautas",
+          "standard": "Standartinis srautas, mėnesiniai pokyčiai",
+          "budget": "Biudžeto variantas",
+          "small": "Mažesni pisuarai",
+          "waterless": "Bevandeniai pisuarai",
+          "drain": "Apsauga nuo nutekėjimo",
+          "design": "Dizaino reikalai",
+          "puck": "Pirmenybę teikite pisuaro blokavimui",
+          "bio": "Biologiškai skaidus sąvartynuose",
+          "logo": "Savo logotipą"
+        },
+        "recs": {
+          "budget": "üro lite arba basic scrëen be apsaugos nuo purslų šerių",
+          "drain": "Kiekvienas ëkcos ekranas, daugiausia ëkcoscreen 60+",
+          "bio": "Kiekvienas ëkcos ekranas su Eco-One™",
+          "logo": "Privati ​​etiketė kiekviename ekrane"
+        }
+      },
+      "complete": {
+        "clip": "Tualeto dubenėlio segtukas su iki 30 dienų kvapu. Tinka beveik bet kokiam dubeniui.",
+        "fresh": "Oro gaiviklis tualeto kabinoms: 30+ dienų kvepia kabinose su mažai ventiliacijos ir 60+ dienų esant mažam srautui, be baterijų ar elektros.",
+        "mat": "Pisuaro grindų kilimėlis, apsaugantis grindis po pisuaru.",
+        "trap": "Kasetė bevandeniams pisuarams su Falcon Velocity sistema. Sulaiko kanalizacijos kvapus."
+      }
     }
   },
   "newsletter": {

@@ -111,6 +111,103 @@
       "product": "Prodotto",
       "sustainability": "Sostenibilità",
       "news": "Novità"
+    },
+    "advisor": {
+      "steps": {
+        "traffic": "Traffico",
+        "trafficHint": "Quanto è occupato il bagno?",
+        "splash": "Protezione dagli schizzi",
+        "splashHint": "Quanto bene impedisce lo splashback?",
+        "fragrance": "Fragranza",
+        "fragranceHint": "Quanto tempo, quanto forte, di che colore?",
+        "evidence": "Prova",
+        "evidenceHint": "Le affermazioni sono provate?",
+        "urinal": "Tipo di orinatoio",
+        "urinalHint": "Di che dimensione e tipo?"
+      },
+      "traffic": {
+        "highTitle": "Traffico elevato",
+        "highPlaces": "Ristoranti, bar, aeroporti, centri commerciali",
+        "highBody": "Oltre 60 giorni di fragranza e fitte setole antispruzzo. ëkcoscreen 60+ costa circa lo stesso giorno di uno schermo da 30 giorni. Scegli xcrën HD 60+ quando anche l'aspetto del bagno conta.",
+        "standardTitle": "Traffico normale",
+        "standardPlaces": "Manutenzione mensile",
+        "standardBody": "Fino a 30 giorni di fragranza con setole antispruzzo brevettate. Realizzato per modifiche mensili.",
+        "budgetTitle": "Opzione di bilancio",
+        "budgetPlaces": "Traffico ridotto, uffici e strutture più piccole",
+        "budgetBody": "Contengono meno materia, quindi costano meno e la loro profumazione è più leggera. üro lite ha ancora setole antispruzzo brevettate da tempo. basic scrëen protegge lo scarico dai detriti ma non ha setole antispruzzo."
+      },
+      "splash": {
+        "eksLabel": "della superficie ëkcoscreen 60+ ricoperta con setole antispruzzo brevettate",
+        "xhdLabel": "della superficie xcrën HD 60+ rivestita con setole antispruzzo brevettate"
+      },
+      "callouts": {
+        "uv": "ëkcoscreen 60+ in un test di schizzi UV affiancati: nessuno splashback visibile all'esterno dello schermo in condizioni identiche. Richiedi il video.",
+        "tip": "Suggerimento: nei bagni molto trafficati, evitare le zanzariere senza setole antispruzzo dense.",
+        "ask": "Chiedi a qualsiasi fornitore: esiste un rapporto di prova indipendente? L'affermazione \"riciclabile al 100%\" si applica davvero a uno schermo usato?"
+      },
+      "duration": {
+        "day1": "Giorno 1",
+        "day30": "Giorno 30",
+        "day60": "Giorno 60",
+        "thirtyLabel": "Schermata di 30 giorni",
+        "screen1": "Schermata 1",
+        "screen2": "Schermata 2",
+        "sixtyBar": "Uno schermo per oltre 60 giorni",
+        "note": "Con ëkcoscreen 60+, il costo giornaliero è simile a uno schermo di 30 giorni, ma lo cambi la metà delle volte. Ciò consente di risparmiare tempo di lavoro."
+      },
+      "intensity": {
+        "most": "Molto intenso",
+        "very": "Molto intenso",
+        "medium": "Medio",
+        "subtle": "Impercettibile",
+        "popular": "Le scelte più popolari sono frutti di bosco, freschi, agrumi e melone."
+      },
+      "ecoOne": {
+        "title": "Biodegradabile in discarica con <ecoOne>Eco-One™</ecoOne>",
+        "body": "Biodegradazione del 93% entro 3,5 anni in un test di laboratorio indipendente (ASTM D5511 e ISO 15985). Lo stesso materiale senza l'additivo ha mostrato lo 0%. Si prevede che entro 5 anni si arriverà al 99%."
+      },
+      "urinal": {
+        "smallTitle": "Orinatoi più piccoli",
+        "smallBody": "Compatto, con lo stesso Sealed Bristles Technology™ brevettato di ëkcoscreen 60+.",
+        "mostTitle": "La maggior parte dei tipi di orinatoi",
+        "mostBody": "powër screen e basic scrëen - una forma flessibile che si adatta a quasi tutti i tipi di orinatoi.",
+        "waterlessTitle": "Orinatoi senza acqua",
+        "waterlessBody": "Ideale per orinatoi senz'acqua. Sono adatti anche powër screen, üro lite e basic scrëen.",
+        "drainTitle": "Protezione dello scarico",
+        "drainBody": "Ogni schermo ëkcos protegge lo scarico. ëkcoscreen 60+ copre l'area più ampia.",
+        "designTitle": "Il design conta",
+        "designBody": "Una forma brevettata che trasforma l'orinatoio in un elemento di design.",
+        "puckTitle": "Preferisci un blocco orinatoio?",
+        "puckBody": "Uno schermo con un disco deodorante composto principalmente da cera e glicerina. Fragranza fino a 30 giorni."
+      },
+      "summary": {
+        "colNeed": "Il tuo bagno",
+        "colRec": "La nostra raccomandazione",
+        "rows": {
+          "high": "Traffico elevato",
+          "standard": "Traffico standard, variazioni mensili",
+          "budget": "Opzione di bilancio",
+          "small": "Orinatoi più piccoli",
+          "waterless": "Orinatoi senza acqua",
+          "drain": "Protezione dello scarico",
+          "design": "Il design conta",
+          "puck": "Preferisci un blocco orinatoio",
+          "bio": "Biodegradabile in discarica",
+          "logo": "Il tuo logo"
+        },
+        "recs": {
+          "budget": "üro lite, o basic scrëen senza setole antispruzzo",
+          "drain": "Ogni schermo ëkcos, soprattutto ëkcoscreen 60+",
+          "bio": "Ogni schermata ëkcos, con Eco-One™",
+          "logo": "Etichetta privata su ogni schermo"
+        }
+      },
+      "complete": {
+        "clip": "Clip per WC con fragranza fino a 30 giorni. Si adatta a quasi tutte le ciotole.",
+        "fresh": "Deodorante per cabine WC: oltre 30 giorni di fragranza in cabine con poca ventilazione e oltre 60 giorni a basso traffico, senza batterie o elettricità.",
+        "mat": "Tappetino per orinatoio che protegge il pavimento sotto l'orinatoio.",
+        "trap": "Cartuccia per orinatoi senz'acqua con sistema Falcon Velocity. Mantiene lontani gli odori di scarico."
+      }
     }
   },
   "newsletter": {

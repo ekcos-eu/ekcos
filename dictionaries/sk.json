@@ -111,6 +111,103 @@
       "product": "Produkt",
       "sustainability": "Udržateľnosť",
       "news": "Novinky"
+    },
+    "advisor": {
+      "steps": {
+        "traffic": "Doprava",
+        "trafficHint": "Ako zaneprázdnená je toaleta?",
+        "splash": "Ochrana proti striekajúcej vode",
+        "splashHint": "Ako dobre to zastaví splashback?",
+        "fragrance": "Vôňa",
+        "fragranceHint": "Ako dlho, ako silno, akej farby?",
+        "evidence": "Dôkazy",
+        "evidenceHint": "Sú tvrdenia preukázané?",
+        "urinal": "Typ pisoáru",
+        "urinalHint": "Aká veľkosť a typ?"
+      },
+      "traffic": {
+        "highTitle": "Vysoká návštevnosť",
+        "highPlaces": "Reštaurácie, bary, letiská, nákupné centrá",
+        "highBody": "60+ dní vône a hustých štetín proti striekaniu. ëkcoscreen 60+ stojí približne rovnako za deň ako 30-dňová obrazovka. Vyberte si xcrën HD 60+, keď záleží aj na vzhľade toalety.",
+        "standardTitle": "Štandardná premávka",
+        "standardPlaces": "Mesačná údržba",
+        "standardBody": "Až 30 dní vône s patentovanými štetinami proti striekaniu. Vyrobené pre mesačné zmeny.",
+        "budgetTitle": "Možnosť rozpočtu",
+        "budgetPlaces": "Nižšia premávka, kancelárie a menšie zariadenia",
+        "budgetBody": "Obsahujú menej materiálu, takže stoja menej a ich vôňa je ľahšia. üro lite má stále dlhé patentované štetiny proti striekaniu. basic scrëen chráni odtok pred nečistotami, ale nemá žiadne štetiny proti striekaniu."
+      },
+      "splash": {
+        "eksLabel": "povrchu ëkcoscreen 60+ pokrytého patentovanými štetinami proti striekaniu",
+        "xhdLabel": "povrchu xcrën HD 60+ pokrytého patentovanými štetinami proti striekaniu"
+      },
+      "callouts": {
+        "uv": "ëkcoscreen 60+ v paralelnom UV teste rozstreku: žiadne viditeľné spätné rozstreknutie mimo obrazovky za rovnakých podmienok. Požiadajte o video.",
+        "tip": "Tip: Na toaletách s vysokou návštevnosťou sa vyhnite zástenám bez hustých štetín proti striekaniu.",
+        "ask": "Opýtajte sa ktoréhokoľvek dodávateľa: Existuje nezávislá správa o teste? Naozaj sa na použitú obrazovku vzťahuje tvrdenie „100% recyklovateľnosť“?"
+      },
+      "duration": {
+        "day1": "1. deň",
+        "day30": "Deň 30",
+        "day60": "Deň 60",
+        "thirtyLabel": "30-dňová obrazovka",
+        "screen1": "Obrazovka 1",
+        "screen2": "Obrazovka 2",
+        "sixtyBar": "Jedna obrazovka na viac ako 60 dní",
+        "note": "S ëkcoscreen 60+ sú náklady na deň podobné ako pri 30-dňovej obrazovke, ale meníte ich o polovicu menej často. To šetrí pracovný čas."
+      },
+      "intensity": {
+        "most": "Najintenzívnejšie",
+        "very": "Veľmi intenzívne",
+        "medium": "Stredná",
+        "subtle": "Jemný",
+        "popular": "Populárne možnosti sú bobule, čerstvé, citrusové a melónové."
+      },
+      "ecoOne": {
+        "title": "Biologicky rozložiteľné na skládke s <ecoOne>Eco-One™</ecoOne>",
+        "body": "93 % biodegradácia v priebehu 3,5 roka v nezávislom laboratórnom teste (ASTM D5511 a ISO 15985). Rovnaký materiál bez prísady vykazoval 0 %. Do 5 rokov sa predpokladá až 99 %."
+      },
+      "urinal": {
+        "smallTitle": "Menšie pisoáre",
+        "smallBody": "Kompaktný, s rovnakým patentom Sealed Bristles Technology™ ako ëkcoscreen 60+.",
+        "mostTitle": "Väčšina typov pisoárov",
+        "mostBody": "powër screen a basic scrëen - flexibilný tvar, ktorý sa hodí takmer na všetky typy pisoárov.",
+        "waterlessTitle": "Bezvodé pisoáre",
+        "waterlessBody": "Ideálne pre bezvodé pisoáre. Vhodné sú aj powër screen, üro lite a basic scrëen.",
+        "drainTitle": "Ochrana odtoku",
+        "drainBody": "Každé sito ëkcos chráni odtok. ëkcoscreen 60+ pokrýva najväčšiu oblasť.",
+        "designTitle": "Na dizajne záleží",
+        "designBody": "Patentovaný tvar, ktorý premení pisoár na dizajnový prvok.",
+        "puckTitle": "Preferujete pisoárový blok?",
+        "puckBody": "Zástena s dezodoračným pukom vyrobená prevažne z vosku a glycerínu. Vôňa až 30 dní."
+      },
+      "summary": {
+        "colNeed": "Vaša toaleta",
+        "colRec": "Naše odporúčanie",
+        "rows": {
+          "high": "Vysoká návštevnosť",
+          "standard": "Štandardná návštevnosť, mesačné zmeny",
+          "budget": "Možnosť rozpočtu",
+          "small": "Menšie pisoáre",
+          "waterless": "Bezvodé pisoáre",
+          "drain": "Ochrana odtoku",
+          "design": "Na dizajne záleží",
+          "puck": "Uprednostnite pisoárový blok",
+          "bio": "Biologicky odbúrateľný na skládke",
+          "logo": "Vaše vlastné logo"
+        },
+        "recs": {
+          "budget": "üro lite alebo basic scrëen bez štetín proti striekaniu",
+          "drain": "Každá obrazovka ëkcos, najviac ëkcoscreen 60+",
+          "bio": "Každá obrazovka ëkcos s Eco-One™",
+          "logo": "Súkromná značka na každej obrazovke"
+        }
+      },
+      "complete": {
+        "clip": "Spona na záchodovú misu s vôňou až 30 dní. Hodí sa takmer do každej misy.",
+        "fresh": "Osviežovač vzduchu pre záchodové kabínky: 30+ dní vône v kabínkach s malým vetraním a 60+ dní pri nízkej premávke, bez batérií alebo elektriny.",
+        "mat": "Podložka pod pisoár, ktorá chráni podlahu pod pisoárom.",
+        "trap": "Zásobník pre bezvodé pisoáre so systémom Falcon Velocity. Udržuje zápach z odtoku von."
+      }
     }
   },
   "newsletter": {
