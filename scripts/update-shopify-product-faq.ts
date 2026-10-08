@@ -133,12 +133,14 @@ function findItem(content: FaqContent, id: string): FaqItem {
   throw new Error(`FAQ item ${id} not found`)
 }
 
+const ECO_ONE_HREF = '/blogs/articles/eco-one'
+
 function blocksToHtml(blocks: FaqBlock[]): string {
   return blocks
     .map((b) => {
-      if (b.type === 'paragraph') return `<p>${escapeMinimal(b.text)}</p>`
+      if (b.type === 'paragraph') return `<p>${linkifyFaqText(b.text)}</p>`
       if (b.type === 'list') {
-        return `<ul>${b.items.map((i) => `<li>${escapeMinimal(i)}</li>`).join('')}</ul>`
+        return `<ul>${b.items.map((i) => `<li>${linkifyFaqText(i)}</li>`).join('')}</ul>`
       }
       // skip table/chart on PDP teaser
       return ''
@@ -152,6 +154,13 @@ function escapeMinimal(text: string): string {
     .replace(/&/g, '&amp;')
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;')
+}
+
+function linkifyFaqText(text: string): string {
+  return escapeMinimal(text).replace(
+    /Eco-One™/g,
+    `<a href="${ECO_ONE_HREF}">Eco-One™</a>`,
+  )
 }
 
 function headingHtml(question: string): string {

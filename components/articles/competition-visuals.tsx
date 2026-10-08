@@ -154,11 +154,7 @@ async function getCompetitionT() {
 export async function CompetitionIntroCallout({text}: {text: string}) {
   const getAlt = await getProductAltLookup()
   return (
-    <aside className="mt-6 flex gap-4 rounded-xl bg-[#0F68B2]/06 px-4 py-4 sm:px-5">
-      <span
-        className="mt-0.5 w-1 shrink-0 rounded-full bg-[#0F68B2]"
-        aria-hidden
-      />
+    <aside className="mt-6 rounded-r-xl border-l-4 border-[#0F68B2] bg-[#0F68B2]/06 py-4 pl-4 pr-4 sm:pl-5 sm:pr-5">
       <p className="text-base leading-relaxed text-[#575756]/95 text-justify">
         {linkify(text, getAlt)}
       </p>
@@ -281,7 +277,7 @@ export async function CompetitionCompareTable({
                       aria-hidden
                     />
                     <span className="font-semibold text-[#575756]">
-                      {row.name}
+                      {linkify(row.name, getAlt)}
                     </span>
                   </div>
                 </td>
@@ -316,7 +312,9 @@ export async function CompetitionCompareTable({
           >
             <div className="flex items-center gap-2">
               <row.Icon className="h-4 w-4 text-[#0F68B2]" aria-hidden />
-              <h4 className="text-sm font-semibold text-[#0F68B2]">{row.name}</h4>
+              <h4 className="text-sm font-semibold text-[#0F68B2]">
+                {linkify(row.name, getAlt)}
+              </h4>
             </div>
             <div className="mt-3 flex gap-2 text-sm text-[#575756]/90">
               <span className="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-[#0F68B2]/15 text-[#0F68B2]">
@@ -370,7 +368,7 @@ export async function CompetitionAdvantagesGrid({
               <group.Icon className="h-5 w-5" aria-hidden />
             </span>
             <h3 className="text-base font-semibold text-[#0F68B2] sm:text-lg">
-              {group.title}
+              {linkify(group.title, getAlt)}
             </h3>
           </div>
           <ul className="mt-3 space-y-2">

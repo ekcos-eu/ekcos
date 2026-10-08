@@ -26,6 +26,29 @@ const EMAIL_LINK_CLASS =
 
 const ECO_ONE_PATTERN = /Eco-One™/g
 
+/** Localized “private label” phrases → /private-label (longest first). */
+const PRIVATE_LABEL_PATTERN = new RegExp(
+  [
+    'zasebna blagovna znamka',
+    'privatus prekės ženklas',
+    'privātais zīmols',
+    'privátní značka',
+    'privátna značka',
+    'marca do cliente',
+    'marque blanche',
+    'privatna marka',
+    'частна марка',
+    'marka własna',
+    'marca blanca',
+    'omamärgistus',
+    'saját márka',
+    'private label',
+  ]
+    .map((s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'))
+    .join('|'),
+  'gi',
+)
+
 const EMAIL_PATTERN = /[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/g
 
 const PAGE_LINK_CLASS = ECO_ONE_LINK_CLASS
@@ -271,16 +294,19 @@ function linkifyEmails(
   return nodes.length > 0 ? nodes : [text]
 }
 
-function linkifyText(
+function linkifyPrivateLabel(
   text: string,
   getImageAlt: ProductImageAltLookup,
 ): ReactNode[] {
   const nodes: ReactNode[] = []
   let lastIndex = 0
-  const ecoPattern = new RegExp(ECO_ONE_PATTERN.source, ECO_ONE_PATTERN.flags)
+  const pattern = new RegExp(
+    PRIVATE_LABEL_PATTERN.source,
+    PRIVATE_LABEL_PATTERN.flags,
+  )
 
   let match: RegExpExecArray | null
-  while ((match = ecoPattern.exec(text)) !== null) {
+  while ((match = pattern.exec(text)) !== null) {
     if (match.index > lastIndex) {
       nodes.push(
         ...linkifyEmails(text.slice(lastIndex, match.index), getImageAlt),
@@ -288,8 +314,8 @@ function linkifyText(
     }
     nodes.push(
       <Link
-        key={`eco-one-${match.index}`}
-        href="/eco-one"
+        key={`private-label-${match.index}`}
+        href="/private-label"
         className={ECO_ONE_LINK_CLASS}
       >
         {match[0]}
@@ -305,9 +331,44 @@ function linkifyText(
   return nodes.length > 0 ? nodes : [text]
 }
 
+function linkifyText(
+  text: string,
+  getImageAlt: ProductImageAltLookup,
+): ReactNode[] {
+  const nodes: ReactNode[] = []
+  let lastIndex = 0
+  const ecoPattern = new RegExp(ECO_ONE_PATTERN.source, ECO_ONE_PATTERN.flags)
+
+  let match: RegExpExecArray | null
+  while ((match = ecoPattern.exec(text)) !== null) {
+    if (match.index > lastIndex) {
+      nodes.push(
+        ...linkifyPrivateLabel(text.slice(lastIndex, match.index), getImageAlt),
+      )
+    }
+    nodes.push(
+      <Link
+        key={`eco-one-${match.index}`}
+        href="/eco-one"
+        className={ECO_ONE_LINK_CLASS}
+      >
+        {match[0]}
+      </Link>,
+    )
+    lastIndex = match.index + match[0].length
+  }
+
+  if (lastIndex < text.length) {
+    nodes.push(...linkifyPrivateLabel(text.slice(lastIndex), getImageAlt))
+  }
+
+  return nodes.length > 0 ? nodes : [text]
+}
+
 /**
- * Link Eco-One™ → /eco-one, emails → mailto, FAQ page names → Shopify pages,
- * and product names → eshop (with hover preview).
+ * Link Eco-One™ → /eco-one, private label phrases → /private-label,
+ * emails → mailto, FAQ page names → Shopify pages, and product names → eshop
+ * (with hover preview).
  */
 export function linkifyPlainText(
   text: string,

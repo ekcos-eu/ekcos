@@ -438,12 +438,24 @@ def parse_locale_doc(docx: Path) -> dict[str, dict[str, Any]]:
     return products
 
 
+ECO_ONE_ARTICLE_PATH = "/blogs/articles/eco-one"
+
+
 def escape_html(s: str) -> str:
     return (
         s.replace("&", "&amp;")
         .replace("<", "&lt;")
         .replace(">", "&gt;")
         .replace('"', "&quot;")
+    )
+
+
+def linkify_eco_one(html: str) -> str:
+    """Wrap bare Eco-One™ mentions with a link to the Shopify article."""
+    return re.sub(
+        r"(^|[^>])Eco-One™(?!</a>)",
+        rf'\1<a href="{ECO_ONE_ARTICLE_PATH}">Eco-One™</a>',
+        html,
     )
 
 
@@ -490,7 +502,7 @@ def build_description_html(
     if benefits:
         items = "".join(f"<li>{escape_html(b)}</li>" for b in benefits)
         parts.append(f"<ul>{items}</ul>")
-    return "\n".join(parts)
+    return linkify_eco_one("\n".join(parts))
 
 
 def build_title(variant_label: str, sku: str, locale: str) -> str:
