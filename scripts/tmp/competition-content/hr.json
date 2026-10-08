@@ -1,0 +1,1331 @@
+{
+  "title": "ëkcos naspram drugih dobavljača",
+  "excerpt": "Činjenice o nama i pitanja koja vrijedi postaviti svakom dobavljaču.",
+  "imageAlt": "Plavi banner vodiča za usporedbu sa zelenom ikonom vage desno",
+  "body": [
+    {
+      "_key": "intro",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "introa",
+          "_type": "span",
+          "marks": [],
+          "text": "Prema novim pravilima EU-a za svaku tvrdnju o okolišu potrebni su dokazi. Svoje tvrdnje potkrepljujemo neovisnim laboratorijskim ispitivanjem, patentima i dokumentima. Uz ovaj vodič usporedite ëkcos s bilo kojim drugim dobavljačem."
+        }
+      ]
+    },
+    {
+      "_key": "h2-glance",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-glancea",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcos ukratko"
+        }
+      ]
+    },
+    {
+      "_key": "stat-bio",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "stat-bioa",
+          "_type": "span",
+          "marks": [],
+          "text": "93 % biorazgradnje u roku od 3,5 godine uz aditiv Eco-One™, prema neovisnom laboratorijskom ispitivanju."
+        }
+      ]
+    },
+    {
+      "_key": "stat-days",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "stat-daysa",
+          "_type": "span",
+          "marks": [],
+          "text": "60+ dana mirisa (ëkcoscreen 60+, xcrën HD 60+), dvostruko dulje od standardnih 30-dnevnih mrežica."
+        }
+      ]
+    },
+    {
+      "_key": "stat-grams",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "stat-gramsa",
+          "_type": "span",
+          "marks": [],
+          "text": "141 g mirisnog materijala u mrežici ëkcoscreen 60+, više nego trostruko u odnosu na uobičajenu mrežicu."
+        }
+      ]
+    },
+    {
+      "_key": "stat-bristles",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "stat-bristlesa",
+          "_type": "span",
+          "marks": [],
+          "text": "95 % površine mrežice ëkcoscreen 60+ prekrivaju patentirane čekinje protiv prskanja."
+        }
+      ]
+    },
+    {
+      "_key": "h2-proof",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-proofa",
+          "_type": "span",
+          "marks": [],
+          "text": "Dokazi za svaku tvrdnju"
+        }
+      ]
+    },
+    {
+      "_key": "proof-test-title",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-test-titlea",
+          "_type": "span",
+          "marks": [],
+          "text": "Izvješće o neovisnom ispitivanju"
+        }
+      ]
+    },
+    {
+      "_key": "proof-test-body",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-test-bodya",
+          "_type": "span",
+          "marks": [],
+          "text": "ASTM D5511 i ISO 15985, Instituto Politécnico Nacional, grad Meksiko"
+        }
+      ]
+    },
+    {
+      "_key": "proof-patents-title",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-patents-titlea",
+          "_type": "span",
+          "marks": [],
+          "text": "Patenti"
+        }
+      ]
+    },
+    {
+      "_key": "proof-patents-body",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-patents-bodya",
+          "_type": "span",
+          "marks": [],
+          "text": "Sealed Bristles Technology™ i oblici mrežica"
+        }
+      ]
+    },
+    {
+      "_key": "proof-ppwr-title",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-ppwr-titlea",
+          "_type": "span",
+          "marks": [],
+          "text": "Dokumentacija PPWR"
+        }
+      ]
+    },
+    {
+      "_key": "proof-ppwr-body",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-ppwr-bodya",
+          "_type": "span",
+          "marks": [],
+          "text": "Dokumenti proizvođača o sukladnosti ambalaže"
+        }
+      ]
+    },
+    {
+      "_key": "proof-sds-title",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-sds-titlea",
+          "_type": "span",
+          "marks": [],
+          "text": "Sigurnosno-tehnički listovi"
+        }
+      ]
+    },
+    {
+      "_key": "proof-sds-body",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-sds-bodya",
+          "_type": "span",
+          "marks": [],
+          "text": "Za naše mirisne proizvode"
+        }
+      ]
+    },
+    {
+      "_key": "h2-compare",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-comparea",
+          "_type": "span",
+          "marks": [],
+          "text": "Činjenice o nama i pitanja za dobavljače"
+        }
+      ]
+    },
+    {
+      "_key": "f1-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f1-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Biorazgradivost na odlagalištu"
+        }
+      ]
+    },
+    {
+      "_key": "f1-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f1-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Aditiv Eco-One™. Neovisno laboratorijsko ispitivanje: 93 % biorazgradnje u roku od 3,5 godine, 0 % za isti materijal bez aditiva. U roku od 5 godina predviđa se do 99 %."
+        }
+      ]
+    },
+    {
+      "_key": "f1-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f1-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Što pitati druge dobavljače: "
+        },
+        {
+          "_key": "f1-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Postoji li izvješće o neovisnom ispitivanju? Prema kojoj normi i s kojim rezultatom?"
+        }
+      ]
+    },
+    {
+      "_key": "f2-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f2-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Reciklirani materijal"
+        }
+      ]
+    },
+    {
+      "_key": "f2-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f2-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Izrađeno s recikliranim EVA materijalom. Sam materijal može se reciklirati, ali korištena mrežica ne može jer je biološki kontaminirana."
+        }
+      ]
+    },
+    {
+      "_key": "f2-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f2-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Što pitati druge dobavljače: "
+        },
+        {
+          "_key": "f2-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Vrijedi li tvrdnja „100 % reciklabilno“ doista i za korištenu mrežicu?"
+        }
+      ]
+    },
+    {
+      "_key": "f3-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f3-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Ambalaža"
+        }
+      ]
+    },
+    {
+      "_key": "f3-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f3-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Kutije od 100 % recikliranog kartona. Dostupna je dokumentacija PPWR za ambalažu."
+        }
+      ]
+    },
+    {
+      "_key": "f3-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f3-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Što pitati druge dobavljače: "
+        },
+        {
+          "_key": "f3-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Je li dostupna dokumentacija PPWR za ambalažu?"
+        }
+      ]
+    },
+    {
+      "_key": "f4-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f4-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Čekinje protiv prskanja"
+        }
+      ]
+    },
+    {
+      "_key": "f4-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f4-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Patentirana tehnologija Sealed Bristles Technology™. Čekinje prekrivaju do 95 % površine mrežice i svode prskanje urina na minimum."
+        }
+      ]
+    },
+    {
+      "_key": "f4-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f4-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Što pitati druge dobavljače: "
+        },
+        {
+          "_key": "f4-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Je li sustav protiv prskanja patentiran? Koliki dio mrežice prekrivaju čekinje?"
+        }
+      ]
+    },
+    {
+      "_key": "f5-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f5-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Test prskanja"
+        }
+      ]
+    },
+    {
+      "_key": "f5-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f5-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+: bez vidljivog prskanja izvan mrežice u usporednom UV testu prskanja pod jednakim uvjetima. Dostupan je videozapis."
+        }
+      ]
+    },
+    {
+      "_key": "f5-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f5-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Što pitati druge dobavljače: "
+        },
+        {
+          "_key": "f5-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Postoji li usporedni test prskanja koji možete pogledati?"
+        }
+      ]
+    },
+    {
+      "_key": "f6-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f6-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Trajanje mirisa"
+        }
+      ]
+    },
+    {
+      "_key": "f6-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f6-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "60+ dana (ëkcoscreen 60+, xcrën HD 60+), dvostruko dulje od standardnih 30-dnevnih mrežica. U toaletima s manjim prometom traje i dulje."
+        }
+      ]
+    },
+    {
+      "_key": "f6-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f6-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Što pitati druge dobavljače: "
+        },
+        {
+          "_key": "f6-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Koliko dana miris stvarno traje i koliki je trošak po danu?"
+        }
+      ]
+    },
+    {
+      "_key": "f7-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f7-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Mirisni materijal"
+        }
+      ]
+    },
+    {
+      "_key": "f7-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f7-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+: 141 g po mrežici, više nego trostruko u odnosu na uobičajenu mrežicu."
+        }
+      ]
+    },
+    {
+      "_key": "f7-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f7-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Što pitati druge dobavljače: "
+        },
+        {
+          "_key": "f7-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Koliko grama mirisnog materijala sadrži mrežica?"
+        }
+      ]
+    },
+    {
+      "_key": "f8-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f8-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Bezvodni pisoari"
+        }
+      ]
+    },
+    {
+      "_key": "f8-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f8-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Idealno za bezvodne pisoare."
+        }
+      ]
+    },
+    {
+      "_key": "f8-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f8-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Što pitati druge dobavljače: "
+        },
+        {
+          "_key": "f8-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Je li mrežica prikladna za bezvodne pisoare?"
+        }
+      ]
+    },
+    {
+      "_key": "f9-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f9-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Privatna marka"
+        }
+      ]
+    },
+    {
+      "_key": "f9-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f9-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Vaš logotip može se izrezati u samu mrežicu, a ne samo otisnuti na ambalažu."
+        }
+      ]
+    },
+    {
+      "_key": "f9-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f9-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Što pitati druge dobavljače: "
+        },
+        {
+          "_key": "f9-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Može li vaš logotip postati dio samog proizvoda?"
+        }
+      ]
+    },
+    {
+      "_key": "f10-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f10-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Boje i mirisi"
+        }
+      ]
+    },
+    {
+      "_key": "f10-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f10-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Naše glavne linije dijele istih jedanaest boja i mirisa. Prepoznatljivi mirisi: jabuka miriše na jabuku, dinja na dinju."
+        }
+      ]
+    },
+    {
+      "_key": "f10-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f10-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Što pitati druge dobavljače: "
+        },
+        {
+          "_key": "f10-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Možete li imati jedan miris od pisoara do WC kabine? Zatražite uzorke i usporedite ih."
+        }
+      ]
+    },
+    {
+      "_key": "f11-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f11-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "WC kabine"
+        }
+      ]
+    },
+    {
+      "_key": "f11-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f11-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "frësh drop: 30+ dana mirisa u kabinama sa slabom ventilacijom i 60+ dana uz manji promet, bez baterija i struje."
+        }
+      ]
+    },
+    {
+      "_key": "f11-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f11-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Što pitati druge dobavljače: "
+        },
+        {
+          "_key": "f11-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Zahtijeva li osvježivač zraka baterije, struju ili servisne posjete?"
+        }
+      ]
+    },
+    {
+      "_key": "f12-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f12-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Dokumentacija"
+        }
+      ]
+    },
+    {
+      "_key": "f12-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f12-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Certifikat o ispitivanju biorazgradnje, dokumentacija PPWR za ambalažu i sigurnosno-tehnički listovi."
+        }
+      ]
+    },
+    {
+      "_key": "f12-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f12-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Što pitati druge dobavljače: "
+        },
+        {
+          "_key": "f12-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Može li dobavljač dokumentirati svaku tvrdnju?"
+        }
+      ]
+    },
+    {
+      "_key": "f13-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f13-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Marketinška podrška"
+        }
+      ]
+    },
+    {
+      "_key": "f13-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f13-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Fotografije proizvoda, videozapisi, logotipi i opisi proizvoda na 22 jezika."
+        }
+      ]
+    },
+    {
+      "_key": "f13-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f13-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Što pitati druge dobavljače: "
+        },
+        {
+          "_key": "f13-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Koji su materijali i jezici uključeni?"
+        }
+      ]
+    },
+    {
+      "_key": "h2-advantages",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-advantagesa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcos: ključne prednosti"
+        }
+      ]
+    },
+    {
+      "_key": "adv-material-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-material-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Materijal i ambalaža"
+        }
+      ]
+    },
+    {
+      "_key": "adv-material-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-material-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Izrađeno s recikliranim EVA materijalom. Sam materijal može se reciklirati, ali korištena mrežica za pisoar ne može jer je biološki kontaminirana."
+        }
+      ]
+    },
+    {
+      "_key": "adv-material-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-material-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Biorazgradivo na odlagalištu otpada uz aditiv Eco-One™. U neovisnom laboratorijskom ispitivanju (ASTM D5511 i ISO 15985, Instituto Politécnico Nacional, grad Meksiko) materijal ëkcos EVA s aditivom Eco-One™ postigao je 93 % biorazgradnje u roku od 3,5 godine, dok je isti materijal bez aditiva pokazao 0 %. U roku od 5 godina predviđa se do 99 %."
+        }
+      ]
+    },
+    {
+      "_key": "adv-material-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-material-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Kutije od 100 % recikliranog kartona, uz dokumentaciju PPWR za ambalažu."
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Učinkovitost"
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Patentirana tehnologija Sealed Bristles Technology™: čekinje prekrivaju do 95 % površine mrežice i svode prskanje urina na minimum."
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+: bez vidljivog prskanja izvan mrežice u usporednom UV testu prskanja pod jednakim uvjetima."
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "60+ dana mirisa (ëkcoscreen 60+, xcrën HD 60+), dvostruko dulje od standardnih 30-dnevnih mrežica."
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-4",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-4a",
+          "_type": "span",
+          "marks": [],
+          "text": "Idealno za bezvodne pisoare."
+        }
+      ]
+    },
+    {
+      "_key": "adv-fragrance-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-fragrance-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Mirisi sa smislom"
+        }
+      ]
+    },
+    {
+      "_key": "adv-fragrance-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-fragrance-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Prepoznatljivi mirisi: jabuka miriše na jabuku, dinja na dinju."
+        }
+      ]
+    },
+    {
+      "_key": "adv-fragrance-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-fragrance-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Jedanaest boja i mirisa u našim glavnim linijama, pa zgrada može imati jedan miris od pisoara do WC kabine."
+        }
+      ]
+    },
+    {
+      "_key": "adv-design-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-design-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Dizajn i privatna marka"
+        }
+      ]
+    },
+    {
+      "_key": "adv-design-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-design-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Patentirani oblici i žive boje."
+        }
+      ]
+    },
+    {
+      "_key": "adv-design-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-design-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Vaš logotip može se izrezati u samu mrežicu, a ne samo otisnuti na ambalažu, pa ostaje na njoj cijeli vijek trajanja proizvoda."
+        }
+      ]
+    },
+    {
+      "_key": "adv-cubicle-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-cubicle-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "WC kabine: frësh drop"
+        }
+      ]
+    },
+    {
+      "_key": "adv-cubicle-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-cubicle-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "30+ dana pasivnog otpuštanja mirisa u kabinama sa slabom ventilacijom i 60+ dana uz manji promet, bez baterija i struje."
+        }
+      ]
+    },
+    {
+      "_key": "adv-cubicle-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-cubicle-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Jednostavno postavljanje s priloženom ljepljivom trakom."
+        }
+      ]
+    },
+    {
+      "_key": "adv-cubicle-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-cubicle-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Mogućnost privatne marke putem tiska."
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Marketinška podrška"
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Profesionalne fotografije proizvoda i videozapisi, uključujući UV test prskanja."
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Gotovi opisi proizvoda na 22 jezika."
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Logotipi i vizualni elementi marke."
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-4",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-4a",
+          "_type": "span",
+          "marks": [],
+          "text": "Certifikat o ispitivanju, letak Eco-One™, dokumentacija PPWR i sigurnosno-tehnički listovi."
+        }
+      ]
+    },
+    {
+      "_key": "h2-cta",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-ctaa",
+          "_type": "span",
+          "marks": [],
+          "text": "Zatražite uzorke i dokumente"
+        }
+      ]
+    },
+    {
+      "_key": "cta-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "cta-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Vodeći smo na tržištu SAD-a, a svoje proizvode predstavili smo u više od 70 zemalja."
+        }
+      ]
+    },
+    {
+      "_key": "cta-2",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "cta-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Središnje skladište u Češkoj opskrbljuje partnere diljem Europe, Azije i Afrike."
+        }
+      ]
+    },
+    {
+      "_key": "cta-3",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "cta-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Posjetite našu web-stranicu ekcos.eu"
+        }
+      ]
+    }
+  ]
+}

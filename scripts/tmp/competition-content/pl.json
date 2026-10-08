@@ -1,0 +1,1331 @@
+{
+  "title": "ëkcos vs. inni dostawcy",
+  "excerpt": "Nasze fakty i pytania, które warto zadać każdemu dostawcy.",
+  "imageAlt": "Niebieski baner przewodnika porównawczego z limonkową ikoną wagi po prawej",
+  "body": [
+    {
+      "_key": "intro",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "introa",
+          "_type": "span",
+          "marks": [],
+          "text": "Zgodnie z nowymi przepisami UE każde oświadczenie środowiskowe wymaga dowodów. Nasze potwierdzamy niezależnym testem laboratoryjnym, patentami i dokumentami. Ten przewodnik pomoże porównać ëkcos z dowolnym innym dostawcą."
+        }
+      ]
+    },
+    {
+      "_key": "h2-glance",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-glancea",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcos w skrócie"
+        }
+      ]
+    },
+    {
+      "_key": "stat-bio",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "stat-bioa",
+          "_type": "span",
+          "marks": [],
+          "text": "93% biodegradacji w ciągu 3,5 roku w niezależnym teście laboratoryjnym, z dodatkiem Eco-One™."
+        }
+      ]
+    },
+    {
+      "_key": "stat-days",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "stat-daysa",
+          "_type": "span",
+          "marks": [],
+          "text": "60+ dni zapachu (ëkcoscreen 60+, xcrën HD 60+), dwa razy dłużej niż standardowe sitka 30-dniowe."
+        }
+      ]
+    },
+    {
+      "_key": "stat-grams",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "stat-gramsa",
+          "_type": "span",
+          "marks": [],
+          "text": "141 g materiału zapachowego w sitku ëkcoscreen 60+, ponad trzykrotność typowego sitka."
+        }
+      ]
+    },
+    {
+      "_key": "stat-bristles",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "stat-bristlesa",
+          "_type": "span",
+          "marks": [],
+          "text": "95% powierzchni sitka ëkcoscreen 60+ pokrywają opatentowane szczecinki przeciw rozpryskom."
+        }
+      ]
+    },
+    {
+      "_key": "h2-proof",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-proofa",
+          "_type": "span",
+          "marks": [],
+          "text": "Dowody na każdą deklarację"
+        }
+      ]
+    },
+    {
+      "_key": "proof-test-title",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-test-titlea",
+          "_type": "span",
+          "marks": [],
+          "text": "Raport z niezależnego testu"
+        }
+      ]
+    },
+    {
+      "_key": "proof-test-body",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-test-bodya",
+          "_type": "span",
+          "marks": [],
+          "text": "ASTM D5511 i ISO 15985, Instituto Politécnico Nacional, Meksyk"
+        }
+      ]
+    },
+    {
+      "_key": "proof-patents-title",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-patents-titlea",
+          "_type": "span",
+          "marks": [],
+          "text": "Patenty"
+        }
+      ]
+    },
+    {
+      "_key": "proof-patents-body",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-patents-bodya",
+          "_type": "span",
+          "marks": [],
+          "text": "Sealed Bristles Technology™ i kształty sitek"
+        }
+      ]
+    },
+    {
+      "_key": "proof-ppwr-title",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-ppwr-titlea",
+          "_type": "span",
+          "marks": [],
+          "text": "Dokumentacja PPWR"
+        }
+      ]
+    },
+    {
+      "_key": "proof-ppwr-body",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-ppwr-bodya",
+          "_type": "span",
+          "marks": [],
+          "text": "Dokumenty zgodności opakowań od producenta"
+        }
+      ]
+    },
+    {
+      "_key": "proof-sds-title",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-sds-titlea",
+          "_type": "span",
+          "marks": [],
+          "text": "Karty charakterystyki"
+        }
+      ]
+    },
+    {
+      "_key": "proof-sds-body",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-sds-bodya",
+          "_type": "span",
+          "marks": [],
+          "text": "Dla naszych produktów zapachowych"
+        }
+      ]
+    },
+    {
+      "_key": "h2-compare",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-comparea",
+          "_type": "span",
+          "marks": [],
+          "text": "Nasze fakty i o co warto pytać"
+        }
+      ]
+    },
+    {
+      "_key": "f1-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f1-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Biodegradacja na składowisku"
+        }
+      ]
+    },
+    {
+      "_key": "f1-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f1-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Dodatek Eco-One™. Niezależny test laboratoryjny: 93% biodegradacji w ciągu 3,5 roku, 0% dla tego samego materiału bez dodatku. Prognoza na 5 lat: do 99%."
+        }
+      ]
+    },
+    {
+      "_key": "f1-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f1-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "O co pytać innych dostawców: "
+        },
+        {
+          "_key": "f1-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Czy istnieje raport z niezależnego testu? Według jakiej normy i z jakim wynikiem?"
+        }
+      ]
+    },
+    {
+      "_key": "f2-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f2-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Materiał z recyklingu"
+        }
+      ]
+    },
+    {
+      "_key": "f2-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f2-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Zawiera EVA z recyklingu. Materiał nadaje się do recyklingu, ale zużyte sitko już nie, ponieważ jest skażone biologicznie."
+        }
+      ]
+    },
+    {
+      "_key": "f2-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f2-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "O co pytać innych dostawców: "
+        },
+        {
+          "_key": "f2-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Czy deklaracja „w 100% do recyklingu” naprawdę dotyczy zużytego sitka?"
+        }
+      ]
+    },
+    {
+      "_key": "f3-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f3-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Opakowania"
+        }
+      ]
+    },
+    {
+      "_key": "f3-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f3-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Pudełka z tektury w 100% z recyklingu. Dostępna dokumentacja PPWR dla opakowań."
+        }
+      ]
+    },
+    {
+      "_key": "f3-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f3-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "O co pytać innych dostawców: "
+        },
+        {
+          "_key": "f3-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Czy dostępna jest dokumentacja PPWR dla opakowań?"
+        }
+      ]
+    },
+    {
+      "_key": "f4-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f4-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Szczecinki przeciw rozpryskom"
+        }
+      ]
+    },
+    {
+      "_key": "f4-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f4-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Opatentowany system Sealed Bristles Technology™. Szczecinki pokrywają do 95% sitka i minimalizują rozpryski moczu."
+        }
+      ]
+    },
+    {
+      "_key": "f4-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f4-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "O co pytać innych dostawców: "
+        },
+        {
+          "_key": "f4-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Czy system przeciw rozpryskom jest opatentowany? Jaką część sitka pokrywają szczecinki?"
+        }
+      ]
+    },
+    {
+      "_key": "f5-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f5-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Test rozprysków"
+        }
+      ]
+    },
+    {
+      "_key": "f5-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f5-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+: brak widocznych rozprysków poza sitkiem w porównawczym teście rozprysków w świetle UV w identycznych warunkach. Dostępny film."
+        }
+      ]
+    },
+    {
+      "_key": "f5-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f5-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "O co pytać innych dostawców: "
+        },
+        {
+          "_key": "f5-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Czy można obejrzeć porównawczy test rozprysków?"
+        }
+      ]
+    },
+    {
+      "_key": "f6-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f6-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Trwałość zapachu"
+        }
+      ]
+    },
+    {
+      "_key": "f6-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f6-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "60+ dni (ëkcoscreen 60+, xcrën HD 60+), dwa razy dłużej niż standardowe sitka 30-dniowe. W rzadziej używanych toaletach jeszcze dłużej."
+        }
+      ]
+    },
+    {
+      "_key": "f6-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f6-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "O co pytać innych dostawców: "
+        },
+        {
+          "_key": "f6-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Ile dni zapach naprawdę się utrzymuje i jaki jest koszt dzienny?"
+        }
+      ]
+    },
+    {
+      "_key": "f7-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f7-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Materiał zapachowy"
+        }
+      ]
+    },
+    {
+      "_key": "f7-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f7-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+: 141 g na sitko, ponad trzykrotność typowego sitka."
+        }
+      ]
+    },
+    {
+      "_key": "f7-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f7-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "O co pytać innych dostawców: "
+        },
+        {
+          "_key": "f7-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Ile gramów materiału zapachowego zawiera sitko?"
+        }
+      ]
+    },
+    {
+      "_key": "f8-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f8-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Pisuary bezwodne"
+        }
+      ]
+    },
+    {
+      "_key": "f8-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f8-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Idealne do pisuarów bezwodnych."
+        }
+      ]
+    },
+    {
+      "_key": "f8-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f8-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "O co pytać innych dostawców: "
+        },
+        {
+          "_key": "f8-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Czy sitko nadaje się do pisuarów bezwodnych?"
+        }
+      ]
+    },
+    {
+      "_key": "f9-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f9-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Marka własna"
+        }
+      ]
+    },
+    {
+      "_key": "f9-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f9-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Własne logo wycięte w samym sitku, a nie tylko nadrukowane na opakowaniu."
+        }
+      ]
+    },
+    {
+      "_key": "f9-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f9-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "O co pytać innych dostawców: "
+        },
+        {
+          "_key": "f9-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Czy własne logo może stać się częścią samego produktu?"
+        }
+      ]
+    },
+    {
+      "_key": "f10-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f10-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Kolory i zapachy"
+        }
+      ]
+    },
+    {
+      "_key": "f10-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f10-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Jedenaście kolorów i zapachów wspólnych dla naszych głównych linii. Rozpoznawalne zapachy: jabłko pachnie jak jabłko, melon jak melon."
+        }
+      ]
+    },
+    {
+      "_key": "f10-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f10-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "O co pytać innych dostawców: "
+        },
+        {
+          "_key": "f10-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Czy od pisuaru po kabinę WC może unosić się ten sam zapach? Warto poprosić o próbki i porównać."
+        }
+      ]
+    },
+    {
+      "_key": "f11-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f11-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Kabiny WC"
+        }
+      ]
+    },
+    {
+      "_key": "f11-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f11-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "frësh drop: zapach przez 30+ dni w kabinach ze słabą wentylacją i przez 60+ dni w rzadziej używanych kabinach, bez baterii i prądu."
+        }
+      ]
+    },
+    {
+      "_key": "f11-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f11-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "O co pytać innych dostawców: "
+        },
+        {
+          "_key": "f11-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Czy odświeżacz powietrza wymaga baterii, prądu lub wizyt serwisowych?"
+        }
+      ]
+    },
+    {
+      "_key": "f12-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f12-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Dokumenty"
+        }
+      ]
+    },
+    {
+      "_key": "f12-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f12-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Certyfikat testu biodegradacji, dokumentacja PPWR dla opakowań i karty charakterystyki."
+        }
+      ]
+    },
+    {
+      "_key": "f12-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f12-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "O co pytać innych dostawców: "
+        },
+        {
+          "_key": "f12-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Czy dostawca udokumentuje każdą deklarację?"
+        }
+      ]
+    },
+    {
+      "_key": "f13-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f13-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Wsparcie marketingowe"
+        }
+      ]
+    },
+    {
+      "_key": "f13-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f13-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Zdjęcia produktów, filmy, logotypy i teksty produktowe w 22 językach."
+        }
+      ]
+    },
+    {
+      "_key": "f13-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f13-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "O co pytać innych dostawców: "
+        },
+        {
+          "_key": "f13-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Jakie materiały i języki obejmuje wsparcie?"
+        }
+      ]
+    },
+    {
+      "_key": "h2-advantages",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-advantagesa",
+          "_type": "span",
+          "marks": [],
+          "text": "Główne zalety ëkcos"
+        }
+      ]
+    },
+    {
+      "_key": "adv-material-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-material-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Materiał i opakowania"
+        }
+      ]
+    },
+    {
+      "_key": "adv-material-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-material-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Zawiera EVA z recyklingu. Materiał nadaje się do recyklingu, ale zużyte sitko do pisuaru już nie, ponieważ jest skażone biologicznie."
+        }
+      ]
+    },
+    {
+      "_key": "adv-material-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-material-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Ulega biodegradacji na składowisku odpadów dzięki dodatkowi Eco-One™. W niezależnym teście laboratoryjnym (ASTM D5511 i ISO 15985, Instituto Politécnico Nacional, Meksyk) materiał EVA ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, podczas gdy ten sam materiał bez dodatku wykazał 0%. W ciągu 5 lat prognozuje się biodegradację do 99%."
+        }
+      ]
+    },
+    {
+      "_key": "adv-material-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-material-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Pudełka z tektury w 100% z recyklingu, z dokumentacją PPWR dla opakowań."
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Skuteczność"
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Opatentowany system Sealed Bristles Technology™: szczecinki pokrywają do 95% sitka i minimalizują rozpryski moczu."
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+: brak widocznych rozprysków poza sitkiem w porównawczym teście rozprysków w świetle UV w identycznych warunkach."
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Zapach na 60+ dni (ëkcoscreen 60+, xcrën HD 60+), dwa razy dłużej niż standardowe sitka 30-dniowe."
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-4",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-4a",
+          "_type": "span",
+          "marks": [],
+          "text": "Idealne do pisuarów bezwodnych."
+        }
+      ]
+    },
+    {
+      "_key": "adv-fragrance-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-fragrance-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Zapachy, które mają sens"
+        }
+      ]
+    },
+    {
+      "_key": "adv-fragrance-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-fragrance-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Rozpoznawalne zapachy: jabłko pachnie jak jabłko, melon jak melon."
+        }
+      ]
+    },
+    {
+      "_key": "adv-fragrance-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-fragrance-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Jedenaście kolorów i zapachów w naszych głównych liniach, dzięki czemu w całym budynku, od pisuaru po kabinę WC, może unosić się ten sam zapach."
+        }
+      ]
+    },
+    {
+      "_key": "adv-design-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-design-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Design i marka własna"
+        }
+      ]
+    },
+    {
+      "_key": "adv-design-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-design-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Opatentowane kształty i wyraziste kolory."
+        }
+      ]
+    },
+    {
+      "_key": "adv-design-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-design-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Własne logo wycięte w samym sitku, a nie tylko nadrukowane na opakowaniu, dzięki czemu pozostaje na nim przez cały okres użytkowania produktu."
+        }
+      ]
+    },
+    {
+      "_key": "adv-cubicle-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-cubicle-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Kabiny WC: frësh drop"
+        }
+      ]
+    },
+    {
+      "_key": "adv-cubicle-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-cubicle-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Pasywne uwalnianie zapachu przez 30+ dni w kabinach ze słabą wentylacją i przez 60+ dni w rzadziej używanych kabinach, bez baterii i prądu."
+        }
+      ]
+    },
+    {
+      "_key": "adv-cubicle-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-cubicle-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Łatwy montaż za pomocą dołączonej taśmy klejącej."
+        }
+      ]
+    },
+    {
+      "_key": "adv-cubicle-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-cubicle-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Znakowanie marką własną poprzez nadruk."
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Wsparcie marketingowe"
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Profesjonalne zdjęcia i filmy produktowe, w tym test rozprysków w świetle UV."
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Gotowe teksty produktowe w 22 językach."
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Logotypy i grafiki marki."
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-4",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-4a",
+          "_type": "span",
+          "marks": [],
+          "text": "Certyfikat testu, ulotka Eco-One™, dokumentacja PPWR i karty charakterystyki."
+        }
+      ]
+    },
+    {
+      "_key": "h2-cta",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-ctaa",
+          "_type": "span",
+          "marks": [],
+          "text": "Próbki i dokumenty na życzenie"
+        }
+      ]
+    },
+    {
+      "_key": "cta-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "cta-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Lider rynku w Stanach Zjednoczonych, z produktami wprowadzonymi na rynek w ponad 70 krajach."
+        }
+      ]
+    },
+    {
+      "_key": "cta-2",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "cta-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Centralny magazyn w Czechach zaopatruje partnerów w Europie, Azji i Afryce."
+        }
+      ]
+    },
+    {
+      "_key": "cta-3",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "cta-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Zapraszamy na naszą stronę ekcos.eu"
+        }
+      ]
+    }
+  ]
+}

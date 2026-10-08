@@ -208,6 +208,11 @@
         "mat": "Podna prostirka za pisoar koja štiti pod ispod pisoara.",
         "trap": "Uložak za bezvodne pisoare sa sustavom Falcon Velocity. Sprečava mirise iz odvoda."
       }
+    },
+    "competition": {
+      "colFeature": "Značajka",
+      "colAsk": "Pitanja za ostale dobavljače",
+      "websiteCta": "Posjetite web"
     }
   },
   "newsletter": {

@@ -1,0 +1,1331 @@
+{
+  "title": "ëkcos vs. teised tarnijad",
+  "excerpt": "Meie faktid ja küsimused, mida tasub esitada igale tarnijale.",
+  "imageAlt": "Sinine võrdlusjuhendi bänner laimirohelise kaaluikooniga paremal",
+  "body": [
+    {
+      "_key": "intro",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "introa",
+          "_type": "span",
+          "marks": [],
+          "text": "Uute EL-i eeskirjade järgi peab iga keskkonnaväide olema tõendatud. Meie väiteid toetavad sõltumatu laborikatse, patendid ja dokumendid. Võrrelge selle juhendi abil ëkcos-tooteid mis tahes teise tarnija omadega."
+        }
+      ]
+    },
+    {
+      "_key": "h2-glance",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-glancea",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcos lühidalt"
+        }
+      ]
+    },
+    {
+      "_key": "stat-bio",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "stat-bioa",
+          "_type": "span",
+          "marks": [],
+          "text": "93 % biolagunemine 3,5 aasta jooksul sõltumatus laborikatses, Eco-One™ lisandiga."
+        }
+      ]
+    },
+    {
+      "_key": "stat-days",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "stat-daysa",
+          "_type": "span",
+          "marks": [],
+          "text": "60+ päeva lõhna (ëkcoscreen 60+, xcrën HD 60+), kaks korda kauem kui tavalistel 30-päevastel sõeltel."
+        }
+      ]
+    },
+    {
+      "_key": "stat-grams",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "stat-gramsa",
+          "_type": "span",
+          "marks": [],
+          "text": "141 g lõhnastatud materjali sõelas ëkcoscreen 60+, üle kolme korra rohkem kui tavalisel sõelal."
+        }
+      ]
+    },
+    {
+      "_key": "stat-bristles",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "stat-bristlesa",
+          "_type": "span",
+          "marks": [],
+          "text": "95 % sõela ëkcoscreen 60+ pinnast katavad patenteeritud pritsmevastased harjased."
+        }
+      ]
+    },
+    {
+      "_key": "h2-proof",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-proofa",
+          "_type": "span",
+          "marks": [],
+          "text": "Tõendid iga väite kohta"
+        }
+      ]
+    },
+    {
+      "_key": "proof-test-title",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-test-titlea",
+          "_type": "span",
+          "marks": [],
+          "text": "Sõltumatu katseprotokoll"
+        }
+      ]
+    },
+    {
+      "_key": "proof-test-body",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-test-bodya",
+          "_type": "span",
+          "marks": [],
+          "text": "ASTM D5511 ja ISO 15985, Instituto Politécnico Nacional, México linn"
+        }
+      ]
+    },
+    {
+      "_key": "proof-patents-title",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-patents-titlea",
+          "_type": "span",
+          "marks": [],
+          "text": "Patendid"
+        }
+      ]
+    },
+    {
+      "_key": "proof-patents-body",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-patents-bodya",
+          "_type": "span",
+          "marks": [],
+          "text": "Sealed Bristles Technology™ ja sõelte kujud"
+        }
+      ]
+    },
+    {
+      "_key": "proof-ppwr-title",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-ppwr-titlea",
+          "_type": "span",
+          "marks": [],
+          "text": "PPWR-dokumentatsioon"
+        }
+      ]
+    },
+    {
+      "_key": "proof-ppwr-body",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-ppwr-bodya",
+          "_type": "span",
+          "marks": [],
+          "text": "Pakendite vastavusdokumendid tootjalt"
+        }
+      ]
+    },
+    {
+      "_key": "proof-sds-title",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-sds-titlea",
+          "_type": "span",
+          "marks": [],
+          "text": "Ohutuskaardid"
+        }
+      ]
+    },
+    {
+      "_key": "proof-sds-body",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-sds-bodya",
+          "_type": "span",
+          "marks": [],
+          "text": "Meie lõhnastatud toodetele"
+        }
+      ]
+    },
+    {
+      "_key": "h2-compare",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-comparea",
+          "_type": "span",
+          "marks": [],
+          "text": "Meie faktid ja küsimused tarnijatele"
+        }
+      ]
+    },
+    {
+      "_key": "f1-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f1-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Prügilas biolagunev"
+        }
+      ]
+    },
+    {
+      "_key": "f1-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f1-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Eco-One™ lisand. Sõltumatu laborikatse: 93 % biolagunemine 3,5 aasta jooksul, sama materjal ilma lisandita 0 %. Prognoositav biolagunemine 5 aasta jooksul on kuni 99 %."
+        }
+      ]
+    },
+    {
+      "_key": "f1-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f1-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Mida küsida teistelt tarnijatelt: "
+        },
+        {
+          "_key": "f1-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Kas on olemas sõltumatu katseprotokoll? Millise standardi järgi ja millise tulemusega?"
+        }
+      ]
+    },
+    {
+      "_key": "f2-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f2-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Ringlussevõetud materjal"
+        }
+      ]
+    },
+    {
+      "_key": "f2-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f2-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Sisaldab ringlussevõetud EVA-materjali. Materjali saab ringlusse võtta, kuid kasutatud sõela mitte, sest see on bioloogiliselt saastunud."
+        }
+      ]
+    },
+    {
+      "_key": "f2-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f2-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Mida küsida teistelt tarnijatelt: "
+        },
+        {
+          "_key": "f2-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Kas väide „100 % ringlussevõetav“ kehtib ka kasutatud sõela kohta?"
+        }
+      ]
+    },
+    {
+      "_key": "f3-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f3-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Pakend"
+        }
+      ]
+    },
+    {
+      "_key": "f3-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f3-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Karbid on valmistatud 100 % ringlussevõetud kartongist. Pakendite PPWR-dokumentatsioon on saadaval."
+        }
+      ]
+    },
+    {
+      "_key": "f3-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f3-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Mida küsida teistelt tarnijatelt: "
+        },
+        {
+          "_key": "f3-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Kas pakendite PPWR-dokumentatsioon on saadaval?"
+        }
+      ]
+    },
+    {
+      "_key": "f4-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f4-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Pritsmevastased harjased"
+        }
+      ]
+    },
+    {
+      "_key": "f4-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f4-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Patenteeritud Sealed Bristles Technology™. Harjased katavad kuni 95 % sõelast ja minimeerivad uriinipritsmeid."
+        }
+      ]
+    },
+    {
+      "_key": "f4-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f4-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Mida küsida teistelt tarnijatelt: "
+        },
+        {
+          "_key": "f4-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Kas pritsmekaitsesüsteem on patenteeritud? Kui suure osa sõelast harjased katavad?"
+        }
+      ]
+    },
+    {
+      "_key": "f5-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f5-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Pritsmekatse"
+        }
+      ]
+    },
+    {
+      "_key": "f5-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f5-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+: nähtavaid pritsmeid väljaspool sõela ei tekkinud kõrvutises UV-pritsmekatses identsetes tingimustes. Video on saadaval."
+        }
+      ]
+    },
+    {
+      "_key": "f5-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f5-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Mida küsida teistelt tarnijatelt: "
+        },
+        {
+          "_key": "f5-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Kas on olemas kõrvutine pritsmekatse, mida saab vaadata?"
+        }
+      ]
+    },
+    {
+      "_key": "f6-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f6-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Lõhna kestus"
+        }
+      ]
+    },
+    {
+      "_key": "f6-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f6-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "60+ päeva (ëkcoscreen 60+, xcrën HD 60+), kaks korda kauem kui tavalistel 30-päevastel sõeltel. Vähese kasutusega tualettruumides veelgi kauem."
+        }
+      ]
+    },
+    {
+      "_key": "f6-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f6-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Mida küsida teistelt tarnijatelt: "
+        },
+        {
+          "_key": "f6-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Mitu päeva lõhn tegelikult püsib ja milline on päevakulu?"
+        }
+      ]
+    },
+    {
+      "_key": "f7-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f7-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Lõhnastatud materjal"
+        }
+      ]
+    },
+    {
+      "_key": "f7-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f7-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+: 141 g sõela kohta, üle kolme korra rohkem kui tavalisel sõelal."
+        }
+      ]
+    },
+    {
+      "_key": "f7-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f7-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Mida küsida teistelt tarnijatelt: "
+        },
+        {
+          "_key": "f7-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Mitu grammi lõhnastatud materjali on sõelas?"
+        }
+      ]
+    },
+    {
+      "_key": "f8-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f8-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Veevabad pissuaarid"
+        }
+      ]
+    },
+    {
+      "_key": "f8-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f8-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Ideaalne veevabadele pissuaaridele."
+        }
+      ]
+    },
+    {
+      "_key": "f8-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f8-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Mida küsida teistelt tarnijatelt: "
+        },
+        {
+          "_key": "f8-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Kas sõel sobib veevabadele pissuaaridele?"
+        }
+      ]
+    },
+    {
+      "_key": "f9-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f9-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Omamärgistus"
+        }
+      ]
+    },
+    {
+      "_key": "f9-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f9-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Teie logo saab lõigata otse sõela sisse, mitte ainult trükkida pakendile."
+        }
+      ]
+    },
+    {
+      "_key": "f9-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f9-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Mida küsida teistelt tarnijatelt: "
+        },
+        {
+          "_key": "f9-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Kas teie logo saab olla toote enda osa?"
+        }
+      ]
+    },
+    {
+      "_key": "f10-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f10-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Värvid ja lõhnad"
+        }
+      ]
+    },
+    {
+      "_key": "f10-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f10-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Meie peamistel tootesarjadel on samad üksteist värvi ja lõhna. Äratuntavad lõhnad: õun lõhnab nagu õun, melon nagu melon."
+        }
+      ]
+    },
+    {
+      "_key": "f10-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f10-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Mida küsida teistelt tarnijatelt: "
+        },
+        {
+          "_key": "f10-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Kas sama lõhna saab kasutada pissuaarist WC-kabiinini? Küsige näidiseid ja võrrelge."
+        }
+      ]
+    },
+    {
+      "_key": "f11-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f11-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "WC-kabiinid"
+        }
+      ]
+    },
+    {
+      "_key": "f11-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f11-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "frësh drop: 30+ päeva lõhna vähese ventilatsiooniga WC-kabiinides ja 60+ päeva vähese kasutuse korral, ilma patareide ja elektrita."
+        }
+      ]
+    },
+    {
+      "_key": "f11-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f11-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Mida küsida teistelt tarnijatelt: "
+        },
+        {
+          "_key": "f11-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Kas õhuvärskendaja vajab patareisid, elektrit või hoolduskülastusi?"
+        }
+      ]
+    },
+    {
+      "_key": "f12-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f12-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Dokumendid"
+        }
+      ]
+    },
+    {
+      "_key": "f12-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f12-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Biolagunemiskatse sertifikaat, pakendite PPWR-dokumentatsioon ja ohutuskaardid."
+        }
+      ]
+    },
+    {
+      "_key": "f12-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f12-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Mida küsida teistelt tarnijatelt: "
+        },
+        {
+          "_key": "f12-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Kas iga väide on dokumentidega tõendatud?"
+        }
+      ]
+    },
+    {
+      "_key": "f13-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f13-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Turundustugi"
+        }
+      ]
+    },
+    {
+      "_key": "f13-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f13-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Tootefotod, videod, logod ja tootetekstid 22 keeles."
+        }
+      ]
+    },
+    {
+      "_key": "f13-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f13-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Mida küsida teistelt tarnijatelt: "
+        },
+        {
+          "_key": "f13-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Milliseid turundusmaterjale ja keeli pakutakse?"
+        }
+      ]
+    },
+    {
+      "_key": "h2-advantages",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-advantagesa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcos: peamised eelised"
+        }
+      ]
+    },
+    {
+      "_key": "adv-material-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-material-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Materjal ja pakend"
+        }
+      ]
+    },
+    {
+      "_key": "adv-material-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-material-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Sisaldab ringlussevõetud EVA-materjali. Materjali saab ringlusse võtta, kuid kasutatud pissuaarisõela mitte, sest see on bioloogiliselt saastunud."
+        }
+      ]
+    },
+    {
+      "_key": "adv-material-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-material-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Prügilas biolagunev lisandiga Eco-One™. Sõltumatus laborikatses (ASTM D5511 ja ISO 15985, Instituto Politécnico Nacional, México linn) saavutas Eco-One™ lisandiga ëkcos EVA-materjal 3,5 aasta jooksul 93 % biolagunemise, samas kui sama materjal ilma lisandita näitas 0 %. Prognoositav biolagunemine 5 aasta jooksul on kuni 99 %."
+        }
+      ]
+    },
+    {
+      "_key": "adv-material-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-material-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "100 % ringlussevõetud kartongist karbid koos pakendite PPWR-dokumentatsiooniga."
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Toimivus"
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Patenteeritud Sealed Bristles Technology™: harjased katavad kuni 95 % sõelast ja minimeerivad uriinipritsmeid."
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+: nähtavaid pritsmeid väljaspool sõela ei tekkinud kõrvutises UV-pritsmekatses identsetes tingimustes."
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Lõhn püsib 60+ päeva (ëkcoscreen 60+, xcrën HD 60+), kaks korda kauem kui tavalistel 30-päevastel sõeltel."
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-4",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-4a",
+          "_type": "span",
+          "marks": [],
+          "text": "Ideaalne veevabadele pissuaaridele."
+        }
+      ]
+    },
+    {
+      "_key": "adv-fragrance-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-fragrance-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Läbimõeldud lõhnad"
+        }
+      ]
+    },
+    {
+      "_key": "adv-fragrance-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-fragrance-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Äratuntavad lõhnad: õun lõhnab nagu õun, melon nagu melon."
+        }
+      ]
+    },
+    {
+      "_key": "adv-fragrance-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-fragrance-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Üksteist värvi ja lõhna kõigis meie peamistes tootesarjades, nii et hoones võib olla üks ja sama lõhn pissuaarist WC-kabiinini."
+        }
+      ]
+    },
+    {
+      "_key": "adv-design-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-design-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Disain ja omamärgistus"
+        }
+      ]
+    },
+    {
+      "_key": "adv-design-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-design-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Patenteeritud kujud ja erksad värvid."
+        }
+      ]
+    },
+    {
+      "_key": "adv-design-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-design-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Teie logo saab lõigata otse sõela sisse, mitte ainult trükkida pakendile, nii et see püsib seal kogu toote eluea."
+        }
+      ]
+    },
+    {
+      "_key": "adv-cubicle-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-cubicle-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "WC-kabiinid: frësh drop"
+        }
+      ]
+    },
+    {
+      "_key": "adv-cubicle-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-cubicle-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Passiivne lõhna eraldumine 30+ päeva vähese ventilatsiooniga WC-kabiinides ja 60+ päeva vähese kasutuse korral, ilma patareide ja elektrita."
+        }
+      ]
+    },
+    {
+      "_key": "adv-cubicle-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-cubicle-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Lihtne paigaldada kaasasoleva kleeplindiga."
+        }
+      ]
+    },
+    {
+      "_key": "adv-cubicle-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-cubicle-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Omamärgistus trükiga."
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Turundustugi"
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Professionaalsed tootefotod ja videod, sealhulgas UV-pritsmekatse video."
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Kasutusvalmis tootetekstid 22 keeles."
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Logod ja brändigraafika."
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-4",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-4a",
+          "_type": "span",
+          "marks": [],
+          "text": "Katsesertifikaat, Eco-One™ infoleht, PPWR-dokumentatsioon ja ohutuskaardid."
+        }
+      ]
+    },
+    {
+      "_key": "h2-cta",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-ctaa",
+          "_type": "span",
+          "marks": [],
+          "text": "Küsige näidiseid ja dokumente"
+        }
+      ]
+    },
+    {
+      "_key": "cta-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "cta-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Turuliider Ameerika Ühendriikides, tooted on turule toodud enam kui 70 riigis."
+        }
+      ]
+    },
+    {
+      "_key": "cta-2",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "cta-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Keskladu Tšehhis varustab partnereid kogu Euroopas, Aasias ja Aafrikas."
+        }
+      ]
+    },
+    {
+      "_key": "cta-3",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "cta-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Külastage meie veebisaiti ekcos.eu"
+        }
+      ]
+    }
+  ]
+}

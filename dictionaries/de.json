@@ -208,6 +208,11 @@
         "mat": "Urinal-Bodenmatte, die den Boden unter dem Urinal schützt.",
         "trap": "Kartusche für wasserlose Urinale mit dem Falcon Velocity-System. Hält Abflussgerüche fern."
       }
+    },
+    "competition": {
+      "colFeature": "Merkmal",
+      "colAsk": "Fragen an andere Anbieter",
+      "websiteCta": "Zur Website"
     }
   },
   "newsletter": {

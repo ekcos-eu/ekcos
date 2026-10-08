@@ -208,6 +208,11 @@
         "mat": "Tapete de mictório que protege o piso abaixo do mictório.",
         "trap": "Cartucho para mictórios sem água com sistema Falcon Velocity. Mantém os odores do dreno afastados."
       }
+    },
+    "competition": {
+      "colFeature": "Característica",
+      "colAsk": "Perguntas a outros fornecedores",
+      "websiteCta": "Visitar o site"
     }
   },
   "newsletter": {

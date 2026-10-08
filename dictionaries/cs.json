@@ -208,6 +208,11 @@
         "mat": "Podložka pod pisoár, která chrání podlahu pod ním.",
         "trap": "Kartuše do bezvodých pisoárů se systémem Falcon Velocity. Zabraňuje úniku zápachu z odpadu."
       }
+    },
+    "competition": {
+      "colFeature": "Vlastnost",
+      "colAsk": "Otázky pro ostatní dodavatele",
+      "websiteCta": "Navštívit web"
     }
   },
   "newsletter": {

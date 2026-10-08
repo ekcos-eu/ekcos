@@ -208,6 +208,11 @@
         "mat": "Tapete para piso de urinario que protege el piso debajo del urinario.",
         "trap": "Cartucho para urinarios sin agua con sistema Falcon Velocity. Mantiene fuera los olores del drenaje."
       }
+    },
+    "competition": {
+      "colFeature": "Criterio",
+      "colAsk": "Preguntas para otros proveedores",
+      "websiteCta": "Visitar el sitio"
     }
   },
   "newsletter": {

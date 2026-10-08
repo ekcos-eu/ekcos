@@ -1,0 +1,1331 @@
+{
+  "title": "ëkcos frente a otros proveedores",
+  "excerpt": "Nuestros datos y las preguntas clave para cualquier proveedor.",
+  "imageAlt": "Banner azul de la guía comparativa con un icono de balanza verde lima a la derecha",
+  "body": [
+    {
+      "_key": "intro",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "introa",
+          "_type": "span",
+          "marks": [],
+          "text": "Según las nuevas normas de la UE, toda afirmación medioambiental necesita pruebas. Respaldamos las nuestras con un ensayo de laboratorio independiente, patentes y documentos. Utilice esta guía para comparar ëkcos con cualquier otro proveedor."
+        }
+      ]
+    },
+    {
+      "_key": "h2-glance",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-glancea",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcos de un vistazo"
+        }
+      ]
+    },
+    {
+      "_key": "stat-bio",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "stat-bioa",
+          "_type": "span",
+          "marks": [],
+          "text": "93 % de biodegradación en 3,5 años con el aditivo Eco-One™, según un ensayo de laboratorio independiente."
+        }
+      ]
+    },
+    {
+      "_key": "stat-days",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "stat-daysa",
+          "_type": "span",
+          "marks": [],
+          "text": "60+ días de fragancia (ëkcoscreen 60+, xcrën HD 60+), el doble que las rejillas estándar de 30 días."
+        }
+      ]
+    },
+    {
+      "_key": "stat-grams",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "stat-gramsa",
+          "_type": "span",
+          "marks": [],
+          "text": "141 g de material perfumado en ëkcoscreen 60+, más del triple que una rejilla típica."
+        }
+      ]
+    },
+    {
+      "_key": "stat-bristles",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "stat-bristlesa",
+          "_type": "span",
+          "marks": [],
+          "text": "95 % de la superficie de ëkcoscreen 60+ cubierta por cerdas antisalpicaduras patentadas."
+        }
+      ]
+    },
+    {
+      "_key": "h2-proof",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-proofa",
+          "_type": "span",
+          "marks": [],
+          "text": "Pruebas para cada afirmación"
+        }
+      ]
+    },
+    {
+      "_key": "proof-test-title",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-test-titlea",
+          "_type": "span",
+          "marks": [],
+          "text": "Informe de ensayo independiente"
+        }
+      ]
+    },
+    {
+      "_key": "proof-test-body",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-test-bodya",
+          "_type": "span",
+          "marks": [],
+          "text": "ASTM D5511 e ISO 15985, Instituto Politécnico Nacional, Ciudad de México"
+        }
+      ]
+    },
+    {
+      "_key": "proof-patents-title",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-patents-titlea",
+          "_type": "span",
+          "marks": [],
+          "text": "Patentes"
+        }
+      ]
+    },
+    {
+      "_key": "proof-patents-body",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-patents-bodya",
+          "_type": "span",
+          "marks": [],
+          "text": "Sealed Bristles Technology™ y formas de las rejillas"
+        }
+      ]
+    },
+    {
+      "_key": "proof-ppwr-title",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-ppwr-titlea",
+          "_type": "span",
+          "marks": [],
+          "text": "Documentación PPWR"
+        }
+      ]
+    },
+    {
+      "_key": "proof-ppwr-body",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-ppwr-bodya",
+          "_type": "span",
+          "marks": [],
+          "text": "Documentos del fabricante sobre la conformidad del embalaje"
+        }
+      ]
+    },
+    {
+      "_key": "proof-sds-title",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-sds-titlea",
+          "_type": "span",
+          "marks": [],
+          "text": "Fichas de datos de seguridad"
+        }
+      ]
+    },
+    {
+      "_key": "proof-sds-body",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-sds-bodya",
+          "_type": "span",
+          "marks": [],
+          "text": "Para nuestros productos perfumados"
+        }
+      ]
+    },
+    {
+      "_key": "h2-compare",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-comparea",
+          "_type": "span",
+          "marks": [],
+          "text": "Nuestros datos y las preguntas clave"
+        }
+      ]
+    },
+    {
+      "_key": "f1-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f1-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Biodegradable en vertedero"
+        }
+      ]
+    },
+    {
+      "_key": "f1-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f1-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Aditivo Eco-One™. Ensayo de laboratorio independiente: 93 % de biodegradación en 3,5 años, frente al 0 % del mismo material sin el aditivo. Se prevé hasta un 99 % en 5 años."
+        }
+      ]
+    },
+    {
+      "_key": "f1-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f1-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Qué preguntar a otros proveedores: "
+        },
+        {
+          "_key": "f1-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "¿Existe un informe de ensayo independiente? ¿Según qué norma y con qué resultado?"
+        }
+      ]
+    },
+    {
+      "_key": "f2-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f2-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Material reciclado"
+        }
+      ]
+    },
+    {
+      "_key": "f2-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f2-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Fabricado con EVA reciclado. El material puede reciclarse, pero una rejilla usada no, porque está contaminada biológicamente."
+        }
+      ]
+    },
+    {
+      "_key": "f2-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f2-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Qué preguntar a otros proveedores: "
+        },
+        {
+          "_key": "f2-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "¿La afirmación «100 % reciclable» se aplica realmente a una rejilla usada?"
+        }
+      ]
+    },
+    {
+      "_key": "f3-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f3-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Embalaje"
+        }
+      ]
+    },
+    {
+      "_key": "f3-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f3-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Cajas de cartón 100 % reciclado. Documentación PPWR del embalaje disponible."
+        }
+      ]
+    },
+    {
+      "_key": "f3-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f3-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Qué preguntar a otros proveedores: "
+        },
+        {
+          "_key": "f3-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "¿Existe documentación PPWR del embalaje?"
+        }
+      ]
+    },
+    {
+      "_key": "f4-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f4-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Cerdas antisalpicaduras"
+        }
+      ]
+    },
+    {
+      "_key": "f4-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f4-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Sistema patentado Sealed Bristles Technology™. Las cerdas cubren hasta el 95 % de la rejilla y minimizan las salpicaduras de orina."
+        }
+      ]
+    },
+    {
+      "_key": "f4-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f4-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Qué preguntar a otros proveedores: "
+        },
+        {
+          "_key": "f4-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "¿Está patentado el sistema antisalpicaduras? ¿Qué parte de la rejilla cubren las cerdas?"
+        }
+      ]
+    },
+    {
+      "_key": "f5-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f5-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Prueba de salpicaduras"
+        }
+      ]
+    },
+    {
+      "_key": "f5-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f5-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+: ninguna salpicadura visible fuera de la rejilla en una prueba comparativa de salpicaduras con luz UV en idénticas condiciones. Vídeo disponible."
+        }
+      ]
+    },
+    {
+      "_key": "f5-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f5-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Qué preguntar a otros proveedores: "
+        },
+        {
+          "_key": "f5-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "¿Se puede ver una prueba comparativa de salpicaduras?"
+        }
+      ]
+    },
+    {
+      "_key": "f6-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f6-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Duración del aroma"
+        }
+      ]
+    },
+    {
+      "_key": "f6-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f6-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "60+ días (ëkcoscreen 60+, xcrën HD 60+), el doble que las rejillas estándar de 30 días. Aún más en aseos con poco tránsito."
+        }
+      ]
+    },
+    {
+      "_key": "f6-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f6-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Qué preguntar a otros proveedores: "
+        },
+        {
+          "_key": "f6-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "¿Cuántos días dura realmente la fragancia y cuál es el coste diario?"
+        }
+      ]
+    },
+    {
+      "_key": "f7-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f7-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Material perfumado"
+        }
+      ]
+    },
+    {
+      "_key": "f7-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f7-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+: 141 g por rejilla, más del triple que una rejilla típica."
+        }
+      ]
+    },
+    {
+      "_key": "f7-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f7-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Qué preguntar a otros proveedores: "
+        },
+        {
+          "_key": "f7-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "¿Cuántos gramos de material perfumado tiene la rejilla?"
+        }
+      ]
+    },
+    {
+      "_key": "f8-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f8-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Urinarios sin agua"
+        }
+      ]
+    },
+    {
+      "_key": "f8-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f8-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Ideal para urinarios sin agua."
+        }
+      ]
+    },
+    {
+      "_key": "f8-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f8-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Qué preguntar a otros proveedores: "
+        },
+        {
+          "_key": "f8-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "¿La rejilla es apta para urinarios sin agua?"
+        }
+      ]
+    },
+    {
+      "_key": "f9-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f9-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Marca blanca"
+        }
+      ]
+    },
+    {
+      "_key": "f9-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f9-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Su logotipo recortado en la propia rejilla, no solo impreso en el envase."
+        }
+      ]
+    },
+    {
+      "_key": "f9-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f9-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Qué preguntar a otros proveedores: "
+        },
+        {
+          "_key": "f9-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "¿Puede su logotipo formar parte del propio producto?"
+        }
+      ]
+    },
+    {
+      "_key": "f10-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f10-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Colores y fragancias"
+        }
+      ]
+    },
+    {
+      "_key": "f10-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f10-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Once colores y fragancias comunes a nuestras líneas principales. Aromas reconocibles: la manzana huele a manzana, el melón a melón."
+        }
+      ]
+    },
+    {
+      "_key": "f10-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f10-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Qué preguntar a otros proveedores: "
+        },
+        {
+          "_key": "f10-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "¿Se puede mantener un único aroma del urinario a la cabina? Pida muestras y compare."
+        }
+      ]
+    },
+    {
+      "_key": "f11-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f11-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Cabinas de WC"
+        }
+      ]
+    },
+    {
+      "_key": "f11-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f11-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "frësh drop: 30+ días de fragancia en cabinas con poca ventilación y 60+ días con poco tránsito, sin pilas ni electricidad."
+        }
+      ]
+    },
+    {
+      "_key": "f11-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f11-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Qué preguntar a otros proveedores: "
+        },
+        {
+          "_key": "f11-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "¿El ambientador necesita pilas, electricidad o visitas de mantenimiento?"
+        }
+      ]
+    },
+    {
+      "_key": "f12-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f12-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Documentos"
+        }
+      ]
+    },
+    {
+      "_key": "f12-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f12-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Certificado del ensayo de biodegradación, documentación PPWR del embalaje y fichas de datos de seguridad."
+        }
+      ]
+    },
+    {
+      "_key": "f12-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f12-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Qué preguntar a otros proveedores: "
+        },
+        {
+          "_key": "f12-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "¿Puede el proveedor documentar cada afirmación?"
+        }
+      ]
+    },
+    {
+      "_key": "f13-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f13-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Apoyo de marketing"
+        }
+      ]
+    },
+    {
+      "_key": "f13-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f13-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Fotos y vídeos de producto, logotipos y textos de producto en 22 idiomas."
+        }
+      ]
+    },
+    {
+      "_key": "f13-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f13-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Qué preguntar a otros proveedores: "
+        },
+        {
+          "_key": "f13-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "¿Qué materiales e idiomas se incluyen?"
+        }
+      ]
+    },
+    {
+      "_key": "h2-advantages",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-advantagesa",
+          "_type": "span",
+          "marks": [],
+          "text": "Ventajas clave de ëkcos"
+        }
+      ]
+    },
+    {
+      "_key": "adv-material-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-material-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Material y embalaje"
+        }
+      ]
+    },
+    {
+      "_key": "adv-material-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-material-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Fabricado con EVA reciclado. El material puede reciclarse, pero una rejilla para urinario usada no, porque está contaminada biológicamente."
+        }
+      ]
+    },
+    {
+      "_key": "adv-material-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-material-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Biodegradable en vertedero con el aditivo Eco-One™. En un ensayo de laboratorio independiente (ASTM D5511 e ISO 15985, Instituto Politécnico Nacional, Ciudad de México), el EVA de ëkcos con Eco-One™ alcanzó un 93 % de biodegradación en 3,5 años, mientras que el mismo material sin el aditivo mostró un 0 %. Se prevé hasta un 99 % de biodegradación en 5 años."
+        }
+      ]
+    },
+    {
+      "_key": "adv-material-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-material-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Cajas de cartón 100 % reciclado, con su documentación PPWR."
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Prestaciones"
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Sistema patentado Sealed Bristles Technology™: las cerdas cubren hasta el 95 % de la rejilla y minimizan las salpicaduras de orina."
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+: ninguna salpicadura visible fuera de la rejilla en una prueba comparativa de salpicaduras con luz UV en idénticas condiciones."
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "60+ días de fragancia (ëkcoscreen 60+, xcrën HD 60+), el doble que las rejillas estándar de 30 días."
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-4",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-4a",
+          "_type": "span",
+          "marks": [],
+          "text": "Ideal para urinarios sin agua."
+        }
+      ]
+    },
+    {
+      "_key": "adv-fragrance-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-fragrance-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Fragancias con sentido"
+        }
+      ]
+    },
+    {
+      "_key": "adv-fragrance-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-fragrance-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Aromas reconocibles: la manzana huele a manzana, el melón a melón."
+        }
+      ]
+    },
+    {
+      "_key": "adv-fragrance-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-fragrance-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Once colores y fragancias comunes a nuestras líneas principales, así que un edificio puede mantener un único aroma del urinario a la cabina."
+        }
+      ]
+    },
+    {
+      "_key": "adv-design-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-design-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Diseño y marca blanca"
+        }
+      ]
+    },
+    {
+      "_key": "adv-design-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-design-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Formas patentadas y colores vivos."
+        }
+      ]
+    },
+    {
+      "_key": "adv-design-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-design-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Su logotipo recortado en la propia rejilla, no solo impreso en el envase, de modo que permanece durante toda la vida útil del producto."
+        }
+      ]
+    },
+    {
+      "_key": "adv-cubicle-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-cubicle-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Cabinas de WC: frësh drop"
+        }
+      ]
+    },
+    {
+      "_key": "adv-cubicle-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-cubicle-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "30+ días de liberación pasiva de fragancia en cabinas con poca ventilación y 60+ días con poco tránsito, sin pilas ni electricidad."
+        }
+      ]
+    },
+    {
+      "_key": "adv-cubicle-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-cubicle-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Instalación fácil con la cinta adhesiva incluida."
+        }
+      ]
+    },
+    {
+      "_key": "adv-cubicle-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-cubicle-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Personalización mediante impresión."
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Apoyo de marketing"
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Fotos y vídeos profesionales de producto, incluida la prueba de salpicaduras con luz UV."
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Textos de producto listos para usar en 22 idiomas."
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Logotipos e imágenes de marca."
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-4",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-4a",
+          "_type": "span",
+          "marks": [],
+          "text": "Certificado del ensayo, folleto Eco-One™, documentación PPWR y fichas de datos de seguridad."
+        }
+      ]
+    },
+    {
+      "_key": "h2-cta",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-ctaa",
+          "_type": "span",
+          "marks": [],
+          "text": "Solicite muestras y documentos"
+        }
+      ]
+    },
+    {
+      "_key": "cta-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "cta-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Líder del mercado en Estados Unidos, con productos introducidos en más de 70 países."
+        }
+      ]
+    },
+    {
+      "_key": "cta-2",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "cta-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Almacén central en la República Checa que abastece a socios de Europa, Asia y África."
+        }
+      ]
+    },
+    {
+      "_key": "cta-3",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "cta-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Visite nuestro sitio web ekcos.eu"
+        }
+      ]
+    }
+  ]
+}

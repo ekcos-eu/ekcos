@@ -14,6 +14,10 @@ import {
   isAdvisorArticle,
 } from '@/lib/advisor-article'
 import {
+  COMPETITION_SKIP_BLOCK_KEYS,
+  isCompetitionArticle,
+} from '@/lib/competition-article'
+import {
   AdvisorCompleteGrid,
   AdvisorDurationChart,
   AdvisorEcoOneCallout,
@@ -25,6 +29,14 @@ import {
   AdvisorTrafficCards,
   AdvisorUrinalCards,
 } from '@/components/articles/advisor-visuals'
+import {
+  CompetitionAdvantagesGrid,
+  CompetitionCompareTable,
+  CompetitionCtaBanner,
+  CompetitionIntroCallout,
+  CompetitionProofGrid,
+  CompetitionStatsGrid,
+} from '@/components/articles/competition-visuals'
 
 function articlePortableTextComponents(
   getImageAlt: ProductImageAltLookup,
@@ -215,6 +227,98 @@ async function AdvisorInjectedBody({
   return <div className="advisor-article-body">{nodes}</div>
 }
 
+function blockPlainText(block: PortableTextBlock): string {
+  if (!Array.isArray(block.children)) return ''
+  return block.children
+    .map((child) =>
+      child &&
+      typeof child === 'object' &&
+      'text' in child &&
+      typeof child.text === 'string'
+        ? child.text
+        : '',
+    )
+    .join('')
+}
+
+async function CompetitionInjectedBody({
+  value,
+  components,
+}: {
+  value: PortableTextBlock[]
+  components: PortableTextComponents
+}) {
+  const nodes: ReactNode[] = []
+  let i = 0
+
+  while (i < value.length) {
+    const block = value[i]
+    const key = blockKey(block)
+
+    if (key && COMPETITION_SKIP_BLOCK_KEYS.has(key)) {
+      if (key === 'stat-bio') {
+        nodes.push(<CompetitionStatsGrid key="viz-stats" blocks={value} />)
+      } else if (key === 'proof-test-title') {
+        nodes.push(<CompetitionProofGrid key="viz-proof" blocks={value} />)
+      } else if (key === 'f1-name') {
+        nodes.push(<CompetitionCompareTable key="viz-compare" blocks={value} />)
+      } else if (key === 'adv-material-h3') {
+        nodes.push(
+          <CompetitionAdvantagesGrid key="viz-advantages" blocks={value} />,
+        )
+      } else if (key === 'h2-cta') {
+        nodes.push(<CompetitionCtaBanner key="viz-cta" blocks={value} />)
+      }
+      i += 1
+      continue
+    }
+
+    if (key === 'intro') {
+      nodes.push(
+        <CompetitionIntroCallout
+          key="viz-intro"
+          text={blockPlainText(block)}
+        />,
+      )
+      i += 1
+      continue
+    }
+
+    if (isListItem(block)) {
+      const group: PortableTextBlock[] = [block]
+      let j = i + 1
+      while (j < value.length) {
+        const next = value[j]
+        const nextKey = blockKey(next)
+        if (nextKey && COMPETITION_SKIP_BLOCK_KEYS.has(nextKey)) break
+        if (!isListItem(next)) break
+        group.push(next)
+        j += 1
+      }
+      nodes.push(
+        <PortableText
+          key={key ?? `list-${i}`}
+          value={group}
+          components={components}
+        />,
+      )
+      i = j
+      continue
+    }
+
+    nodes.push(
+      <PortableText
+        key={key ?? `block-${i}`}
+        value={[block]}
+        components={components}
+      />,
+    )
+    i += 1
+  }
+
+  return <div className="competition-article-body">{nodes}</div>
+}
+
 export async function ArticlePortableText({
   value,
   slug,
@@ -228,16 +332,16 @@ export async function ArticlePortableText({
   const getImageAlt = createProductImageAltLookup((key) => t(key))
   const components = articlePortableTextComponents(getImageAlt)
 
-  const advisor = isAdvisorArticle({
-    id: articleId,
-    slug,
-    blockKeys: value.map((block) =>
-      typeof block._key === 'string' ? block._key : undefined,
-    ),
-  })
+  const blockKeys = value.map((block) =>
+    typeof block._key === 'string' ? block._key : undefined,
+  )
 
-  if (advisor) {
+  if (isAdvisorArticle({id: articleId, slug, blockKeys})) {
     return <AdvisorInjectedBody value={value} components={components} />
+  }
+
+  if (isCompetitionArticle({id: articleId, slug, blockKeys})) {
+    return <CompetitionInjectedBody value={value} components={components} />
   }
 
   return <PortableText value={value} components={components} />

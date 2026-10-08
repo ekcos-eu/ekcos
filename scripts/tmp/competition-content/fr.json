@@ -1,0 +1,1331 @@
+{
+  "title": "ëkcos face aux autres fournisseurs",
+  "excerpt": "Les faits ëkcos et les bonnes questions à poser à tout fournisseur.",
+  "imageAlt": "Bannière bleue du guide de comparaison avec une icône de balance vert citron à droite",
+  "body": [
+    {
+      "_key": "intro",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "introa",
+          "_type": "span",
+          "marks": [],
+          "text": "Selon les nouvelles règles de l’UE, toute allégation environnementale doit être prouvée. Nous étayons les nôtres par un test indépendant en laboratoire, des brevets et des documents. Avec ce guide, comparez ëkcos à tout autre fournisseur."
+        }
+      ]
+    },
+    {
+      "_key": "h2-glance",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-glancea",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcos en bref"
+        }
+      ]
+    },
+    {
+      "_key": "stat-bio",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "stat-bioa",
+          "_type": "span",
+          "marks": [],
+          "text": "93 % de biodégradation en 3,5 ans lors d’un test indépendant en laboratoire, avec l’additif Eco-One™."
+        }
+      ]
+    },
+    {
+      "_key": "stat-days",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "stat-daysa",
+          "_type": "span",
+          "marks": [],
+          "text": "60+ jours de parfum (ëkcoscreen 60+, xcrën HD 60+), deux fois plus longtemps que les grilles standard de 30 jours."
+        }
+      ]
+    },
+    {
+      "_key": "stat-grams",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "stat-gramsa",
+          "_type": "span",
+          "marks": [],
+          "text": "141 g de matériau parfumé dans la grille ëkcoscreen 60+, soit plus de trois fois une grille classique."
+        }
+      ]
+    },
+    {
+      "_key": "stat-bristles",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "stat-bristlesa",
+          "_type": "span",
+          "marks": [],
+          "text": "95 % de la surface de la grille ëkcoscreen 60+ couverte de picots anti-éclaboussures brevetés."
+        }
+      ]
+    },
+    {
+      "_key": "h2-proof",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-proofa",
+          "_type": "span",
+          "marks": [],
+          "text": "Chaque allégation prouvée"
+        }
+      ]
+    },
+    {
+      "_key": "proof-test-title",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-test-titlea",
+          "_type": "span",
+          "marks": [],
+          "text": "Rapport d’essai indépendant"
+        }
+      ]
+    },
+    {
+      "_key": "proof-test-body",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-test-bodya",
+          "_type": "span",
+          "marks": [],
+          "text": "ASTM D5511 et ISO 15985, Instituto Politécnico Nacional, Mexico"
+        }
+      ]
+    },
+    {
+      "_key": "proof-patents-title",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-patents-titlea",
+          "_type": "span",
+          "marks": [],
+          "text": "Brevets"
+        }
+      ]
+    },
+    {
+      "_key": "proof-patents-body",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-patents-bodya",
+          "_type": "span",
+          "marks": [],
+          "text": "Sealed Bristles Technology™ et formes des grilles"
+        }
+      ]
+    },
+    {
+      "_key": "proof-ppwr-title",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-ppwr-titlea",
+          "_type": "span",
+          "marks": [],
+          "text": "Documentation PPWR"
+        }
+      ]
+    },
+    {
+      "_key": "proof-ppwr-body",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-ppwr-bodya",
+          "_type": "span",
+          "marks": [],
+          "text": "Documents du fabricant sur la conformité des emballages"
+        }
+      ]
+    },
+    {
+      "_key": "proof-sds-title",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-sds-titlea",
+          "_type": "span",
+          "marks": [],
+          "text": "Fiches de données de sécurité"
+        }
+      ]
+    },
+    {
+      "_key": "proof-sds-body",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "proof-sds-bodya",
+          "_type": "span",
+          "marks": [],
+          "text": "Pour nos produits parfumés"
+        }
+      ]
+    },
+    {
+      "_key": "h2-compare",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-comparea",
+          "_type": "span",
+          "marks": [],
+          "text": "Les faits ëkcos et les questions à poser"
+        }
+      ]
+    },
+    {
+      "_key": "f1-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f1-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Biodégradable en décharge"
+        }
+      ]
+    },
+    {
+      "_key": "f1-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f1-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Additif Eco-One™. Test indépendant en laboratoire : 93 % de biodégradation en 3,5 ans, contre 0 % pour le même matériau sans l’additif. Jusqu’à 99 % sont prévus en 5 ans."
+        }
+      ]
+    },
+    {
+      "_key": "f1-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f1-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "À demander aux autres fournisseurs: "
+        },
+        {
+          "_key": "f1-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Existe-t-il un rapport d’essai indépendant ? Selon quelle norme et avec quel résultat ?"
+        }
+      ]
+    },
+    {
+      "_key": "f2-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f2-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Matériau recyclé"
+        }
+      ]
+    },
+    {
+      "_key": "f2-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f2-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Fabriqué avec de l’EVA recyclé. Le matériau peut être recyclé, mais pas une grille usagée, car elle est contaminée biologiquement."
+        }
+      ]
+    },
+    {
+      "_key": "f2-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f2-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "À demander aux autres fournisseurs: "
+        },
+        {
+          "_key": "f2-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "La mention « 100 % recyclable » vaut-elle vraiment pour une grille usagée ?"
+        }
+      ]
+    },
+    {
+      "_key": "f3-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f3-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Emballage"
+        }
+      ]
+    },
+    {
+      "_key": "f3-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f3-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Boîtes en carton 100 % recyclé. Documentation PPWR des emballages disponible."
+        }
+      ]
+    },
+    {
+      "_key": "f3-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f3-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "À demander aux autres fournisseurs: "
+        },
+        {
+          "_key": "f3-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Existe-t-il une documentation PPWR des emballages ?"
+        }
+      ]
+    },
+    {
+      "_key": "f4-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f4-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Picots anti-éclaboussures"
+        }
+      ]
+    },
+    {
+      "_key": "f4-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f4-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Sealed Bristles Technology™ brevetée. Les picots couvrent jusqu’à 95 % de la grille et réduisent au minimum les éclaboussures d’urine."
+        }
+      ]
+    },
+    {
+      "_key": "f4-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f4-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "À demander aux autres fournisseurs: "
+        },
+        {
+          "_key": "f4-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Le système anti-éclaboussures est-il breveté ? Quelle part de la grille les picots couvrent-ils ?"
+        }
+      ]
+    },
+    {
+      "_key": "f5-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f5-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Test d’éclaboussures"
+        }
+      ]
+    },
+    {
+      "_key": "f5-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f5-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+ : aucune éclaboussure visible hors de la grille lors d’un test comparatif d’éclaboussures sous UV, dans des conditions identiques. Vidéo disponible."
+        }
+      ]
+    },
+    {
+      "_key": "f5-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f5-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "À demander aux autres fournisseurs: "
+        },
+        {
+          "_key": "f5-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Peut-on voir un test comparatif d’éclaboussures ?"
+        }
+      ]
+    },
+    {
+      "_key": "f6-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f6-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Tenue du parfum"
+        }
+      ]
+    },
+    {
+      "_key": "f6-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f6-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "60+ jours (ëkcoscreen 60+, xcrën HD 60+), deux fois plus que les grilles standard de 30 jours. Plus encore dans les toilettes peu fréquentées."
+        }
+      ]
+    },
+    {
+      "_key": "f6-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f6-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "À demander aux autres fournisseurs: "
+        },
+        {
+          "_key": "f6-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Combien de jours le parfum tient-il vraiment, et quel est le coût par jour ?"
+        }
+      ]
+    },
+    {
+      "_key": "f7-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f7-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Matériau parfumé"
+        }
+      ]
+    },
+    {
+      "_key": "f7-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f7-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+ : 141 g par grille, soit plus de trois fois une grille classique."
+        }
+      ]
+    },
+    {
+      "_key": "f7-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f7-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "À demander aux autres fournisseurs: "
+        },
+        {
+          "_key": "f7-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Combien de grammes de matériau parfumé la grille contient-elle ?"
+        }
+      ]
+    },
+    {
+      "_key": "f8-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f8-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Urinoirs sans eau"
+        }
+      ]
+    },
+    {
+      "_key": "f8-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f8-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Idéal pour les urinoirs sans eau."
+        }
+      ]
+    },
+    {
+      "_key": "f8-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f8-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "À demander aux autres fournisseurs: "
+        },
+        {
+          "_key": "f8-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "La grille convient-elle aux urinoirs sans eau ?"
+        }
+      ]
+    },
+    {
+      "_key": "f9-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f9-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Marque blanche"
+        }
+      ]
+    },
+    {
+      "_key": "f9-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f9-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Votre logo découpé dans la grille elle-même, et pas seulement imprimé sur l’emballage."
+        }
+      ]
+    },
+    {
+      "_key": "f9-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f9-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "À demander aux autres fournisseurs: "
+        },
+        {
+          "_key": "f9-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Votre logo peut-il faire partie intégrante du produit ?"
+        }
+      ]
+    },
+    {
+      "_key": "f10-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f10-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Couleurs et parfums"
+        }
+      ]
+    },
+    {
+      "_key": "f10-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f10-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Onze couleurs et parfums communs à nos principales lignes. Des parfums reconnaissables : la pomme sent la pomme, le melon sent le melon."
+        }
+      ]
+    },
+    {
+      "_key": "f10-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f10-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "À demander aux autres fournisseurs: "
+        },
+        {
+          "_key": "f10-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Peut-on garder un seul parfum, de l’urinoir à la cabine ? Demandez des échantillons et comparez."
+        }
+      ]
+    },
+    {
+      "_key": "f11-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f11-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Cabines WC"
+        }
+      ]
+    },
+    {
+      "_key": "f11-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f11-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "frësh drop : 30+ jours de parfum dans les cabines peu ventilées et 60+ jours si elles sont peu fréquentées, sans piles ni électricité."
+        }
+      ]
+    },
+    {
+      "_key": "f11-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f11-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "À demander aux autres fournisseurs: "
+        },
+        {
+          "_key": "f11-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Le désodorisant a-t-il besoin de piles, d’électricité ou de visites d’entretien ?"
+        }
+      ]
+    },
+    {
+      "_key": "f12-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f12-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Documents"
+        }
+      ]
+    },
+    {
+      "_key": "f12-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f12-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Certificat d’essai de biodégradation, documentation PPWR des emballages et fiches de données de sécurité."
+        }
+      ]
+    },
+    {
+      "_key": "f12-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f12-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "À demander aux autres fournisseurs: "
+        },
+        {
+          "_key": "f12-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Chaque allégation est-elle documentée ?"
+        }
+      ]
+    },
+    {
+      "_key": "f13-name",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f13-namea",
+          "_type": "span",
+          "marks": [],
+          "text": "Soutien marketing"
+        }
+      ]
+    },
+    {
+      "_key": "f13-ekcos",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f13-ekcosa",
+          "_type": "span",
+          "marks": [],
+          "text": "Photos et vidéos des produits, logos et descriptifs produits en 22 langues."
+        }
+      ]
+    },
+    {
+      "_key": "f13-ask",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "f13-aska",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "À demander aux autres fournisseurs: "
+        },
+        {
+          "_key": "f13-askba",
+          "_type": "span",
+          "marks": [],
+          "text": "Quels supports et quelles langues sont inclus ?"
+        }
+      ]
+    },
+    {
+      "_key": "h2-advantages",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-advantagesa",
+          "_type": "span",
+          "marks": [],
+          "text": "Les points forts ëkcos"
+        }
+      ]
+    },
+    {
+      "_key": "adv-material-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-material-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Matériau et emballage"
+        }
+      ]
+    },
+    {
+      "_key": "adv-material-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-material-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Fabriqué avec de l’EVA recyclé. Le matériau peut être recyclé, mais pas une grille urinoir usagée, car elle est contaminée biologiquement."
+        }
+      ]
+    },
+    {
+      "_key": "adv-material-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-material-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Biodégradable en décharge avec l’additif Eco-One™. Lors d’un test indépendant en laboratoire (ASTM D5511 et ISO 15985, Instituto Politécnico Nacional, Mexico), l’EVA ëkcos avec Eco-One™ a atteint 93 % de biodégradation en 3,5 ans, contre 0 % pour le même matériau sans l’additif. Une biodégradation allant jusqu’à 99 % est prévue en 5 ans."
+        }
+      ]
+    },
+    {
+      "_key": "adv-material-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-material-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Boîtes en carton 100 % recyclé, avec leur documentation PPWR."
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Performances"
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Sealed Bristles Technology™ brevetée : les picots couvrent jusqu’à 95 % de la grille et réduisent au minimum les éclaboussures d’urine."
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "ëkcoscreen 60+ : aucune éclaboussure visible hors de la grille lors d’un test comparatif d’éclaboussures sous UV, dans des conditions identiques."
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "60+ jours de parfum (ëkcoscreen 60+, xcrën HD 60+), soit deux fois plus longtemps que les grilles standard de 30 jours."
+        }
+      ]
+    },
+    {
+      "_key": "adv-performance-4",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-performance-4a",
+          "_type": "span",
+          "marks": [],
+          "text": "Idéal pour les urinoirs sans eau."
+        }
+      ]
+    },
+    {
+      "_key": "adv-fragrance-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-fragrance-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Des parfums cohérents"
+        }
+      ]
+    },
+    {
+      "_key": "adv-fragrance-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-fragrance-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Des parfums reconnaissables : la pomme sent la pomme, le melon sent le melon."
+        }
+      ]
+    },
+    {
+      "_key": "adv-fragrance-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-fragrance-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Onze couleurs et parfums communs à nos principales lignes : un bâtiment peut ainsi garder un seul parfum, de l’urinoir à la cabine."
+        }
+      ]
+    },
+    {
+      "_key": "adv-design-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-design-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Design et marque blanche"
+        }
+      ]
+    },
+    {
+      "_key": "adv-design-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-design-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Formes brevetées et couleurs vives."
+        }
+      ]
+    },
+    {
+      "_key": "adv-design-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-design-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Votre logo découpé dans la grille elle-même, et pas seulement imprimé sur l’emballage : il y reste pendant toute la durée de vie du produit."
+        }
+      ]
+    },
+    {
+      "_key": "adv-cubicle-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-cubicle-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Cabines WC : frësh drop"
+        }
+      ]
+    },
+    {
+      "_key": "adv-cubicle-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-cubicle-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "30+ jours de diffusion passive du parfum dans les cabines peu ventilées et 60+ jours si elles sont peu fréquentées, sans piles ni électricité."
+        }
+      ]
+    },
+    {
+      "_key": "adv-cubicle-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-cubicle-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Installation facile grâce au ruban adhésif fourni."
+        }
+      ]
+    },
+    {
+      "_key": "adv-cubicle-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-cubicle-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Marquage personnalisé par impression."
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-h3",
+      "_type": "block",
+      "style": "h3",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-h3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Soutien marketing"
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-1",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Photos et vidéos professionnelles des produits, dont le test d’éclaboussures sous UV."
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-2",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Descriptifs produits prêts à l’emploi en 22 langues."
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-3",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Logos et visuels de marque."
+        }
+      ]
+    },
+    {
+      "_key": "adv-marketing-4",
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "adv-marketing-4a",
+          "_type": "span",
+          "marks": [],
+          "text": "Certificat d’essai, dépliant Eco-One™, documentation PPWR et fiches de données de sécurité."
+        }
+      ]
+    },
+    {
+      "_key": "h2-cta",
+      "_type": "block",
+      "style": "h2",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "h2-ctaa",
+          "_type": "span",
+          "marks": [],
+          "text": "Demandez échantillons et documents"
+        }
+      ]
+    },
+    {
+      "_key": "cta-1",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "cta-1a",
+          "_type": "span",
+          "marks": [],
+          "text": "Leader du marché aux États-Unis, avec des produits lancés dans plus de 70 pays."
+        }
+      ]
+    },
+    {
+      "_key": "cta-2",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "cta-2a",
+          "_type": "span",
+          "marks": [],
+          "text": "Entrepôt central en République tchèque, qui approvisionne des partenaires en Europe, en Asie et en Afrique."
+        }
+      ]
+    },
+    {
+      "_key": "cta-3",
+      "_type": "block",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_key": "cta-3a",
+          "_type": "span",
+          "marks": [],
+          "text": "Visitez notre site web ekcos.eu"
+        }
+      ]
+    }
+  ]
+}

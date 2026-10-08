@@ -208,6 +208,11 @@
         "mat": "Pisuaarin alla olevaa lattiaa suojaava lattiamatto.",
         "trap": "Patruuna vedettömille urinaaleille Falcon Velocity-järjestelmällä. Pitää viemärihajut loitolla."
       }
+    },
+    "competition": {
+      "colFeature": "Ominaisuus",
+      "colAsk": "Kysymyksiä muille toimittajille",
+      "websiteCta": "Siirry sivustolle"
     }
   },
   "newsletter": {

@@ -208,6 +208,11 @@
         "mat": "Tappetino per orinatoio che protegge il pavimento sotto l'orinatoio.",
         "trap": "Cartuccia per orinatoi senz'acqua con sistema Falcon Velocity. Mantiene lontani gli odori di scarico."
       }
+    },
+    "competition": {
+      "colFeature": "Criterio",
+      "colAsk": "Domande per altri fornitori",
+      "websiteCta": "Visita il sito"
     }
   },
   "newsletter": {

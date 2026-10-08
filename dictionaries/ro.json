@@ -208,6 +208,11 @@
         "mat": "Covoraș pentru pisoar care protejează podeaua de sub pisoar.",
         "trap": "Cartuș pentru pisoare fără apă cu sistem Falcon Velocity. Menține mirosurile de scurgere afară."
       }
+    },
+    "competition": {
+      "colFeature": "Caracteristică",
+      "colAsk": "Întrebări pentru alți furnizori",
+      "websiteCta": "Vizitați site-ul"
     }
   },
   "newsletter": {

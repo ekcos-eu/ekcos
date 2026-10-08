@@ -208,6 +208,11 @@
         "mat": "Pisuaro grindų kilimėlis, apsaugantis grindis po pisuaru.",
         "trap": "Kasetė bevandeniams pisuarams su Falcon Velocity sistema. Sulaiko kanalizacijos kvapus."
       }
+    },
+    "competition": {
+      "colFeature": "Savybė",
+      "colAsk": "Klausimai kitiems tiekėjams",
+      "websiteCta": "Apsilankyti svetainėje"
     }
   },
   "newsletter": {

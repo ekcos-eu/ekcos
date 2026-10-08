@@ -208,6 +208,11 @@
         "mat": "Piszoár padlószőnyeg, amely védi a padlót a piszoár alatt.",
         "trap": "Patron vízmentes piszoárokhoz Falcon Velocity rendszerrel. Távol tartja a lefolyó szagát."
       }
+    },
+    "competition": {
+      "colFeature": "Jellemző",
+      "colAsk": "Kérdések más beszállítókhoz",
+      "websiteCta": "Weboldal megnyitása"
     }
   },
   "newsletter": {

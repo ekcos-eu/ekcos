@@ -208,6 +208,11 @@
         "mat": "Pissuaari põrandamatt, mis kaitseb pissuaari all olevat põrandat.",
         "trap": "Kassett veevabade pissuaaride jaoks Falcon Velocity süsteemiga. Hoiab ära kanalisatsioonilõhnad."
       }
+    },
+    "competition": {
+      "colFeature": "Omadus",
+      "colAsk": "Küsimused teistele tarnijatele",
+      "websiteCta": "Külasta veebilehte"
     }
   },
   "newsletter": {

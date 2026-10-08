@@ -208,6 +208,11 @@
         "mat": "Urinalgolvmatta som skyddar golvet under urinalen.",
         "trap": "Patron för vattenfria urinaler med Falcon Velocity-systemet. Håller avloppslukter ute."
       }
+    },
+    "competition": {
+      "colFeature": "Egenskap",
+      "colAsk": "Frågor till andra leverantörer",
+      "websiteCta": "Besök webbplatsen"
     }
   },
   "newsletter": {

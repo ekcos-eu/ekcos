@@ -208,6 +208,11 @@
         "mat": "Urinalgulvmåtte, der beskytter gulvet under urinalet.",
         "trap": "Patron til vandløse urinaler med Falcon Velocity-systemet. Holder afløbslugte ude."
       }
+    },
+    "competition": {
+      "colFeature": "Egenskab",
+      "colAsk": "Spørgsmål til andre leverandører",
+      "websiteCta": "Besøg hjemmesiden"
     }
   },
   "newsletter": {

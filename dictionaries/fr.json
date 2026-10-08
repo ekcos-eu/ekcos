@@ -208,6 +208,11 @@
         "mat": "Tapis de sol pour urinoir qui protège le sol sous l'urinoir.",
         "trap": "Cartouche pour urinoirs sans eau avec système Falcon Velocity. Empêche les odeurs de canalisation d'entrer."
       }
+    },
+    "competition": {
+      "colFeature": "Critère",
+      "colAsk": "Questions aux autres fournisseurs",
+      "websiteCta": "Visiter le site"
     }
   },
   "newsletter": {

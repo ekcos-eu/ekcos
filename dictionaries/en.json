@@ -208,6 +208,11 @@
         "mat": "Urinal floor mat that protects the floor beneath the urinal.",
         "trap": "Cartridge for waterless urinals with the Falcon Velocity system. Keeps drain odors out."
       }
+    },
+    "competition": {
+      "colFeature": "Feature",
+      "colAsk": "What to ask other suppliers",
+      "websiteCta": "Visit website"
     }
   },
   "newsletter": {

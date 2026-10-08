@@ -208,6 +208,11 @@
         "mat": "Mata podłogowa do pisuaru chroniąca podłogę pod pisuarem.",
         "trap": "Wkład do pisuarów bezwodnych z systemem Falcon Velocity. Zatrzymuje nieprzyjemne zapachy z kanalizacji."
       }
+    },
+    "competition": {
+      "colFeature": "Cecha",
+      "colAsk": "Pytania do innych dostawców",
+      "websiteCta": "Odwiedź stronę"
     }
   },
   "newsletter": {

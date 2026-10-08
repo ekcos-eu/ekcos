@@ -208,6 +208,11 @@
         "mat": "Urinoirvloermat die de vloer onder het urinoir beschermt.",
         "trap": "Patroon voor waterloze urinoirs met het Falcon Velocity systeem. Houdt afvoergeurtjes buiten."
       }
+    },
+    "competition": {
+      "colFeature": "Kenmerk",
+      "colAsk": "Vragen aan andere leveranciers",
+      "websiteCta": "Bezoek de website"
     }
   },
   "newsletter": {

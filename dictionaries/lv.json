@@ -208,6 +208,11 @@
         "mat": "Pisuāra grīdas paklājiņš, kas aizsargā grīdu zem pisuāra.",
         "trap": "Kasetne bezūdens pisuāriem ar Falcon Velocity sistēmu. Novērš kanalizācijas smakas."
       }
+    },
+    "competition": {
+      "colFeature": "Īpašība",
+      "colAsk": "Jautājumi citiem piegādātājiem",
+      "websiteCta": "Apmeklēt vietni"
     }
   },
   "newsletter": {

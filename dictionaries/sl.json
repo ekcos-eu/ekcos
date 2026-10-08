@@ -208,6 +208,11 @@
         "mat": "Podloga za pisoar, ki ščiti tla pod pisoarjem.",
         "trap": "Kartuša za brezvodne pisoarje s sistemom Falcon Velocity. Preprečuje vonjave po odtoku."
       }
+    },
+    "competition": {
+      "colFeature": "Lastnost",
+      "colAsk": "Vprašanja za druge dobavitelje",
+      "websiteCta": "Obiščite spletno stran"
     }
   },
   "newsletter": {
