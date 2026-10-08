@@ -32,7 +32,6 @@ import {
 import {
   CompetitionAdvantagesGrid,
   CompetitionCompareTable,
-  CompetitionCtaBanner,
   CompetitionIntroCallout,
   CompetitionProofGrid,
   CompetitionStatsGrid,
@@ -266,8 +265,6 @@ async function CompetitionInjectedBody({
         nodes.push(
           <CompetitionAdvantagesGrid key="viz-advantages" blocks={value} />,
         )
-      } else if (key === 'h2-cta') {
-        nodes.push(<CompetitionCtaBanner key="viz-cta" blocks={value} />)
       }
       i += 1
       continue

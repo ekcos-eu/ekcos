@@ -24,7 +24,6 @@ import {
   Waves,
   type LucideIcon,
 } from 'lucide-react'
-import {Link} from '@/i18n/routing'
 import {
   createProductImageAltLookup,
   linkifyProductChildren,
@@ -387,39 +386,3 @@ export async function CompetitionAdvantagesGrid({
   )
 }
 
-export async function CompetitionCtaBanner({
-  blocks,
-}: {
-  blocks: PortableTextBlock[]
-}) {
-  const t = await getCompetitionT()
-  const getAlt = await getProductAltLookup()
-  const map = buildTextMap(blocks)
-  const title = blockPlainText(map.get('h2-cta'))
-  const lines = ['cta-1', 'cta-2', 'cta-3']
-    .map((key) => blockPlainText(map.get(key)))
-    .filter(Boolean)
-
-  return (
-    <div className="mt-8 overflow-hidden rounded-xl bg-[#0F68B2] text-white">
-      <div className="flex flex-col gap-5 p-6 sm:flex-row sm:items-center sm:justify-between sm:p-8">
-        <div className="min-w-0 max-w-xl">
-          <h3 className="text-xl font-bold tracking-tight sm:text-2xl">
-            {title}
-          </h3>
-          <div className="mt-3 space-y-2 text-sm leading-relaxed text-white/90 sm:text-base">
-            {lines.map((line) => (
-              <p key={line.slice(0, 40)}>{linkify(line, getAlt)}</p>
-            ))}
-          </div>
-        </div>
-        <Link
-          href="/"
-          className="inline-flex shrink-0 items-center justify-center rounded-lg bg-white px-5 py-3 text-sm font-semibold text-[#0F68B2] transition-opacity hover:opacity-90"
-        >
-          {t('websiteCta')}
-        </Link>
-      </div>
-    </div>
-  )
-}
