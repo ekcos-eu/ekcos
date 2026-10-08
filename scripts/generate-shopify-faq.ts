@@ -162,8 +162,8 @@ function escapeHtml(text: string): string {
     .replace(/"/g, '&quot;')
 }
 
-function linkify(text: string, locale: string): string {
-  const ecoHref = `https://www.ekcos.eu/${locale === 'pt' ? 'pt' : locale}/eco-one`
+function linkify(text: string, _locale: string): string {
+  const ecoHref = '/blogs/articles/eco-one'
   type Part = { start: number; end: number; html: string }
   const parts: Part[] = []
 
@@ -235,9 +235,10 @@ function renderChart(block: Extract<FaqBlock, { type: 'chart' }>, locale: string
     .map((row) => {
       const filled = Math.max(0, Math.min(100, row.value))
       const isZero = filled === 0
+      // Theme base.css hides div:empty — use ignore-empty + non-breaking space
       const bar = isZero
-        ? `<div class="faq-page__chart-fill faq-page__chart-fill--zero" style="width:0.75rem"></div>`
-        : `<div class="faq-page__chart-fill" style="width:${filled}%"></div>`
+        ? `<div class="faq-page__chart-fill faq-page__chart-fill--zero ignore-empty" style="width:0.75rem" aria-hidden="true">&nbsp;</div>`
+        : `<div class="faq-page__chart-fill ignore-empty" style="width:${filled}%" aria-hidden="true">&nbsp;</div>`
       const valueClass = isZero
         ? 'faq-page__chart-value faq-page__chart-value--zero'
         : 'faq-page__chart-value'
@@ -724,9 +725,12 @@ ${whenBlocks}
   }
 
   .faq-page__chart-fill {
+    display: block;
     height: 100%;
     border-radius: 999px;
     background: var(--faq-blue);
+    font-size: 0;
+    line-height: 0;
   }
 
   .faq-page__chart-fill--zero { background: #9ca3af; }
