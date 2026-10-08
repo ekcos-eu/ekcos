@@ -31,8 +31,6 @@ import {
   type ProductImageAltLookup,
 } from '@/lib/article-product-links'
 
-const BRAND = '#0F68B2'
-
 const STAT_VALUES = ['93%', '60+', '141 g', '95%'] as const
 const STAT_KEYS = [
   'stat-bio',
@@ -185,8 +183,7 @@ export async function CompetitionStatsGrid({
       {cards.map((card) => (
         <div
           key={card.key}
-          className="rounded-xl border border-[#0F68B2]/12 bg-[#0F68B2]/05 px-5 py-5"
-          style={{borderTopWidth: 3, borderTopColor: BRAND}}
+          className="rounded-xl bg-[#0F68B2]/06 px-5 py-5"
         >
           <p className="text-4xl font-bold tracking-tight text-[#0F68B2] sm:text-5xl">
             {card.value}
@@ -360,8 +357,7 @@ export async function CompetitionAdvantagesGrid({
       {groups.map((group) => (
         <section
           key={group.key}
-          className="rounded-xl border border-[#0F68B2]/12 bg-white p-4 sm:p-5"
-          style={{borderTopWidth: 3, borderTopColor: BRAND}}
+          className="rounded-xl border border-[#0F68B2]/15 bg-white p-4 shadow-sm sm:p-5"
         >
           <div className="flex items-center gap-3">
             <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[#0F68B2]/12 text-[#0F68B2]">
