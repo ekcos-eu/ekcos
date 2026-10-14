@@ -506,7 +506,9 @@ def build_description_html(
 
 
 def build_title(variant_label: str, sku: str, locale: str) -> str:
-    if sku.startswith(("XHD-", "EKS-", "PWR-", "ULT-", "TBC-")):
+    # ëkco clip (TBC-) is sold as a single piece. Price and weight are per unit,
+    # so a pack suffix would show on invoices for a quantity the customer does not receive.
+    if sku.startswith(("XHD-", "EKS-", "PWR-", "ULT-")):
         return f"{variant_label}{PACK_SUFFIX[locale]}"
     return variant_label
 
