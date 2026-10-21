@@ -513,36 +513,36 @@
   },
   "products": {
     "page": {
-      "title": "Products",
-      "intro": "Switch models and finishes, then buy in the official store.",
-      "heroEyebrow": "Explore the range",
-      "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
-      "heroLinkEco": "About Eco-One™",
-      "heroLinkBranding": "Custom branding"
+      "title": "Produkty",
+      "intro": "Zmień model i wykończenie - potem kup w oficjalnym sklepie.",
+      "heroEyebrow": "Poznaj ofertę",
+      "heroTitle": "Każda linia w jednym miejscu",
+      "heroSubtitle": "Wykończenia i zapachy - otwórz sklep, gdy będziesz gotowy kupić.",
+      "heroLinkEco": "Więcej o Eco-One™",
+      "heroLinkBranding": "Własny branding"
     },
     "configurator": {
-      "color": "Finish",
-      "selectProduct": "Select product",
-      "fragrance": "Fragrance options",
-      "benefits": "Benefits",
-      "productBenefits": "Product benefits",
-      "availableColorsFragrances": "Available colors & fragrances",
-      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
-      "byBrand": "by ëkcos",
+      "color": "Wykończenie",
+      "selectProduct": "Wybierz produkt",
+      "fragrance": "Warianty zapachu",
+      "benefits": "Korzyści",
+      "productBenefits": "Korzyści produktu",
+      "availableColorsFragrances": "Dostępne kolory i zapachy",
+      "sixtyDayBadge": "60-dniowa PLUS mata pisuarowa anti-splash",
+      "byBrand": "marka ëkcos",
       "siteUrl": "www.ekcos.eu",
-      "useCases": "Typical applications",
-      "brandingNote": "Custom branding available for qualified orders."
+      "useCases": "Typowe zastosowania",
+      "brandingNote": "Własny branding przy kwalifikowanych zamówieniach."
     },
     "colors": {
-      "white": "White",
-      "grey": "Grey",
-      "black": "Black",
-      "blue": "Blue"
+      "white": "Biały",
+      "grey": "Szary",
+      "black": "Czarny",
+      "blue": "Niebieski"
     },
     "fragrances": {
       "fresh": "Fresh",
-      "citrus": "Citrus"
+      "citrus": "Cytrusy"
     },
     "variantLabels": {
       "x1p": "fioletowy / owoce leśne",
@@ -559,7 +559,7 @@
     },
     "xcrenHd": {
       "name": "xcrën HD",
-      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Niebieskie sitko do pisuaru xcrën HD w kształcie litery X z włosiem chroniącym przed rozpryskami, widziane z góry na czarnym tle",
       "category": "designerskie sitko do pisuaru z ekstra ochroną przed rozpryskami",
       "badge": "designerskie sitko do pisuaru z ekstra ochroną przed rozpryskami",
       "short": "xcrën HD 60+ to zapachowe sitko do pisuaru o opatentowanym kształcie, który wyróżnia się w pisuarze. W przeciwieństwie do typowych owalnych sitek zamienia pisuar w element designu. Opatentowane szczecinki (Sealed Bristles Technology™) pokrywają 92% sitka i minimalizują rozpryski moczu oraz nieprzyjemne zapachy. Autorski materiał sitka, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo przez 60+ dni. W rzadziej używanych toaletach działa jeszcze dłużej.",
@@ -597,7 +597,7 @@
     },
     "ekcoscreen": {
       "name": "ëkcoscreen",
-      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Niebieskie sitko do pisuaru ëkcoscreen w kształcie tarczy z włosiem chroniącym przed rozpryskami, widziane z góry na czarnym tle",
       "category": "masywne sitko do pisuaru przeciw rozpryskom, pachnie dwa razy dłużej",
       "short": "ëkcoscreen 60+ to zapachowe sitko do pisuaru z opatentowanymi szczecinkami (Sealed Bristles Technology™), które pokrywają 95% sitka. Minimalizuje rozpryski moczu i nieprzyjemne zapachy, dzięki czemu toaleta jest czystsza i przyjemniejsza. Autorski materiał sitka, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo przez 60+ dni, czyli dwa razy dłużej niż standardowe sitka 30-dniowe. W rzadziej używanych toaletach działa jeszcze dłużej.",
       "long": "ëkcoscreen 60+ to zapachowe sitko do pisuaru z opatentowanymi szczecinkami (Sealed Bristles Technology™), które pokrywają 95% sitka. Minimalizuje rozpryski moczu i nieprzyjemne zapachy, dzięki czemu toaleta jest czystsza i przyjemniejsza. Autorski materiał sitka, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo przez 60+ dni, czyli dwa razy dłużej niż standardowe sitka 30-dniowe. W rzadziej używanych toaletach działa jeszcze dłużej.\n\nSitko ëkcoscreen 60+, zaprojektowane do intensywnie użytkowanych toalet w restauracjach, barach, na lotniskach, w centrach handlowych i innych obiektach dbających o higienę, poprawia czystość i kontrolę zapachów.\n\nSitko ëkcoscreen 60+ powstaje z wykorzystaniem EVA z recyklingu. Sam materiał nadaje się do recyklingu, ale zużyte sitko do pisuaru już nie, ponieważ jest skażone biologicznie. Trafia na składowisko odpadów lub do spalarni, dlatego sitko ëkcoscreen 60+ zawiera dodatek Eco-One™. W niezależnym teście laboratoryjnym materiał EVA ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, a prognoza na 5 lat to do 99%.\n\nëkcoscreen 60+ łączy skuteczną ochronę przed rozpryskami, zapach na 60+ dni oraz biodegradowalny materiał EVA z recyklingu, z myślą o intensywnie użytkowanych toaletach.",
@@ -622,7 +622,7 @@
     },
     "powerscreen": {
       "name": "powër screen",
-      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "imageAlt": "Niebieskie okrągłe sitko do pisuaru powër screen z gwiazdą pośrodku i włosiem chroniącym przed rozpryskami, widziane z góry na czarnym tle",
       "category": "mocne sitko do pisuaru przeciw rozpryskom, do wymiany co miesiąc",
       "short": "powër screen to zapachowe sitko do pisuaru z opatentowanym systemem szczecinek (Sealed Bristles Technology™). Minimalizuje rozpryski moczu i nieprzyjemne zapachy, dzięki czemu toaleta jest czystsza i przyjemniejsza. Autorski materiał sitka, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo do 30 dni, dlatego sitko idealnie sprawdza się przy comiesięcznym serwisie pisuarów.",
       "long": "powër screen to zapachowe sitko do pisuaru z opatentowanym systemem szczecinek (Sealed Bristles Technology™). Minimalizuje rozpryski moczu i nieprzyjemne zapachy, dzięki czemu toaleta jest czystsza i przyjemniejsza. Autorski materiał sitka, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo do 30 dni, dlatego sitko idealnie sprawdza się przy comiesięcznym serwisie pisuarów.\n\nSitko powër screen powstaje z wykorzystaniem EVA z recyklingu. Sam materiał nadaje się do recyklingu, ale zużyte sitko do pisuaru już nie, ponieważ jest skażone biologicznie. Trafia na składowisko odpadów lub do spalarni, dlatego sitko powër screen zawiera dodatek Eco-One™. W niezależnym teście laboratoryjnym materiał EVA ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, a prognoza na 5 lat to do 99%.\n\npowër screen łączy skuteczną ochronę przed rozpryskami, zapach do 30 dni oraz biodegradowalny materiał EVA z recyklingu, z myślą o comiesięcznym serwisie toalet.",
@@ -646,7 +646,7 @@
     },
     "basicScreen": {
       "name": "basic scrëen",
-      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "imageAlt": "Niebieskie basic scrëen sitko do pisuaru w kształcie zaokrąglonego trójkąta z otworami drenażowymi, widziane z góry na czarnym tle",
       "category": "tanie sitko do pisuaru, biodegradowalne na składowisku odpadów",
       "short": "basic scrëen to ekonomiczne sitko do pisuaru, które neutralizuje zapachy w pisuarach i zapobiega gromadzeniu się zanieczyszczeń. Autorski materiał sitka, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo do 30 dni, dlatego sitko idealnie sprawdza się przy comiesięcznym serwisie pisuarów.",
       "long": "basic scrëen to ekonomiczne sitko do pisuaru, które neutralizuje zapachy w pisuarach i zapobiega gromadzeniu się zanieczyszczeń. Autorski materiał sitka, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo do 30 dni, dlatego sitko idealnie sprawdza się przy comiesięcznym serwisie pisuarów.\n\nSitko basic scrëen powstaje z wykorzystaniem EVA z recyklingu. Sam materiał nadaje się do recyklingu, ale zużyte sitko do pisuaru już nie, ponieważ jest skażone biologicznie. Trafia na składowisko odpadów lub do spalarni, dlatego sitko basic scrëen zawiera dodatek Eco-One™. W niezależnym teście laboratoryjnym materiał EVA ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, a prognoza na 5 lat to do 99%.\n\nbasic scrëen łączy niezawodną kontrolę zapachów, ochronę przed zanieczyszczeniami i biodegradowalny materiał EVA z recyklingu w niskiej cenie.",
@@ -670,7 +670,7 @@
     },
     "urolite": {
       "name": "üro lite",
-      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Niebieska, kompaktowa ścianka do pisuaru üro lite w kształcie tarczy z włosiem chroniącym przed rozpryskami, widziana z góry na czarnym tle",
       "category": "małe sitko do pisuaru, duża ochrona przed rozpryskami",
       "short": "üro lite to elastyczne zapachowe sitko do pisuaru przeznaczone do mniejszych pisuarów. Wykorzystuje ten sam opatentowany system Sealed Bristles Technology™ co sitko ëkcoscreen 60+, a zamiast większej średnicy stawia na długie szczecinki, które w małym sitku zapewniają dużą ochronę przed rozpryskami. Ogranicza do minimum rozpryski moczu i nieprzyjemne zapachy. Autorski materiał sitka, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo do 30 dni, dlatego sitko idealnie sprawdza się przy comiesięcznym serwisie pisuarów.",
       "long": "üro lite to elastyczne zapachowe sitko do pisuaru przeznaczone do mniejszych pisuarów. Wykorzystuje ten sam opatentowany system Sealed Bristles Technology™ co sitko ëkcoscreen 60+, a zamiast większej średnicy stawia na długie szczecinki, które w małym sitku zapewniają dużą ochronę przed rozpryskami. Ogranicza do minimum rozpryski moczu i nieprzyjemne zapachy. Autorski materiał sitka, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo do 30 dni, dlatego sitko idealnie sprawdza się przy comiesięcznym serwisie pisuarów.\n\nSitko üro lite powstaje z wykorzystaniem EVA z recyklingu. Sam materiał nadaje się do recyklingu, ale zużyte sitko do pisuaru już nie, ponieważ jest skażone biologicznie. Trafia na składowisko odpadów lub do spalarni, dlatego sitko üro lite zawiera dodatek Eco-One™. W niezależnym teście laboratoryjnym materiał EVA ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, a prognoza na 5 lat to do 99%.\n\nüro lite zapewnia mniejszym pisuarom dużą ochronę przed rozpryskami dzięki wyjątkowym, opatentowanym długim szczecinkom, w kompaktowym i ekonomicznym sitku wykonanym z wykorzystaniem biodegradowalnego EVA z recyklingu.",
@@ -694,7 +694,7 @@
     },
     "ekcoClip": {
       "name": "ëkco clip",
-      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "imageAlt": "Niebieski ëkco clip odświeżacz do muszli klozetowej w kształcie muszki i krawędziami zapobiegającymi rozpryskiwaniu, widziany z góry na czarnym tle",
       "category": "świeża zawieszka do WC, która pasuje do niemal każdej muszli",
       "short": "ëkco clip to zapachowa zawieszka do muszli WC, która zapewnia stałą kontrolę zapachów i utrzymuje świeżość w kabinach WC. Autorski materiał zawieszki, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo do 30 dni. Dzięki elastycznej konstrukcji zawieszka pasuje do większości typów muszli, łatwo się ją zakłada i dobrze rozprowadza zapach.",
       "long": "ëkco clip to zapachowa zawieszka do muszli WC, która zapewnia stałą kontrolę zapachów i utrzymuje świeżość w kabinach WC. Autorski materiał zawieszki, nasączony zapachem na bazie dezodorantu, uwalnia go stopniowo do 30 dni. Dzięki elastycznej konstrukcji zawieszka pasuje do większości typów muszli, łatwo się ją zakłada i dobrze rozprowadza zapach.\n\nZawieszka ëkco clip powstaje z wykorzystaniem EVA z recyklingu. Sam materiał nadaje się do recyklingu, ale zużyta zawieszka do WC już nie, ponieważ jest skażona biologicznie. Trafia na składowisko odpadów lub do spalarni, dlatego zawieszka ëkco clip zawiera dodatek Eco-One™. W niezależnym teście laboratoryjnym materiał EVA ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, a prognoza na 5 lat to do 99%.\n\nëkco clip łączy stałą kontrolę zapachów do 30 dni, łatwy montaż na większości muszli WC i biodegradowalny materiał EVA z recyklingu.",
@@ -718,7 +718,7 @@
     },
     "freshDrop": {
       "name": "frësh drop",
-      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Niebiesko-biały frësh drop odświeżacz powietrza w kształcie łezki z włosiem zapobiegającym rozpryskom, widok z góry na czarnym tle",
       "category": "długotrwały odświeżacz powietrza do WC bez baterii",
       "short": "frësh drop to odświeżacz powietrza do wnętrz, zaprojektowany do kabin WC i toalet. Jego wkład z autorskiego materiału nasączonego zapachem na bazie dezodorantu stopniowo uwalnia zapach bez baterii i prądu. W zamkniętych kabinach ze słabą wentylacją lub bez niej wystarcza na 60+ dni, a przy większym ruchu powietrza zapach szybciej się rozprasza. Design w kształcie kropli pasuje do każdego wnętrza toalety, a dołączona taśma klejąca umożliwia łatwy montaż na niemal każdej powierzchni. Do małych przestrzeni polecamy kompaktowy ëkco loop.",
       "long": "frësh drop to odświeżacz powietrza do wnętrz, zaprojektowany do kabin WC i toalet. Jego wkład z autorskiego materiału nasączonego zapachem na bazie dezodorantu stopniowo uwalnia zapach bez baterii i prądu. W zamkniętych kabinach ze słabą wentylacją lub bez niej wystarcza na 60+ dni, a przy większym ruchu powietrza zapach szybciej się rozprasza. Design w kształcie kropli pasuje do każdego wnętrza toalety, a dołączona taśma klejąca umożliwia łatwy montaż na niemal każdej powierzchni. Do małych przestrzeni polecamy kompaktowy ëkco loop.\n\nWkład frësh drop powstaje z wykorzystaniem EVA z recyklingu, a materiał nadaje się do recyklingu. Zarówno wkład, jak i uchwyt zawierają dodatek Eco-One™, dzięki czemu oba ulegają biodegradacji na składowisku odpadów. W niezależnym teście laboratoryjnym materiał EVA ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, a prognoza na 5 lat to do 99%.\n\nfrësh drop łączy zapach na 60+ dni, łatwy montaż i biodegradowalny wkład zawierający EVA z recyklingu, z myślą o kabinach WC i toaletach.",
@@ -746,7 +746,7 @@
     },
     "ezTrap": {
       "name": "ëz trap",
-      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "imageAlt": "Biały wkład do pisuaru bezwodnego ëz trap z czarną uszczelką, sfotografowany pod kątem na czarnym tle",
       "category": "łatwy w utrzymaniu wkład do pisuaru bezwodnego blokujący zapachy",
       "short": "ëz trap to innowacyjny system wkładów, który poprawia wydajność, czystość i kontrolę zapachów w pisuarach bezwodnych, a przy tym znacznie obniża koszty utrzymania.",
       "long": "ëz trap to innowacyjny system wkładów, który poprawia wydajność, czystość i kontrolę zapachów w pisuarach bezwodnych, a przy tym znacznie obniża koszty utrzymania.\n\nDzięki opatentowanemu systemowi wkładów ëz trap mocz przepływa naturalnie przez syfon, a klapka zamykająca uszczelnia odpływ po każdym użyciu. Zapobiega to ulatnianiu się zapachów i zapewnia, że przy każdym użyciu stary mocz jest usuwany z systemu, co pozwala zachować świeższą atmosferę w toalecie.\n\nWkład ëz trap powstaje z dodatkiem Eco-One™, dzięki któremu ulega biodegradacji na składowisku odpadów. W niezależnym teście laboratoryjnym materiał ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, a prognoza na 5 lat to do 99%.\n\nëz trap to wydajny, łatwy w utrzymaniu i oszczędny sposób, by zapachy z kanalizacji nie wydostawały się z pisuarów bezwodnych.",
@@ -771,7 +771,7 @@
     },
     "xcrenPuck": {
       "name": "xcrën puck",
-      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "imageAlt": "Niebieskie xcrën puck Sito do pisuaru w kształcie litery X z centralnym uchwytem na krążek, widziane z góry na czarnym tle",
       "category": "sitko do pisuaru w kształcie X z krążkiem dezodorującym",
       "short": "xcrën puck to sitko do pisuaru z krążkiem dezodorującym NON-PARA, zaprojektowane z myślą o skutecznej kontroli zapachów i ochronie odpływu. Nie zawiera paradichlorobenzenu (PARA), który WHO klasyfikuje jako możliwie rakotwórczy. Krążki z PARA są nadal stosowane w niektórych sitkach do pisuarów, podczas gdy przepisy UE ograniczają PARA w dezodorantach do toalet. Kształt litery X zapobiega zatykaniu odpływu przez ciała stałe i zanieczyszczenia, a przy każdym użyciu sitko uwalnia czysty, świeży zapach do 30 dni.",
       "long": "xcrën puck to sitko do pisuaru z krążkiem dezodorującym NON-PARA, zaprojektowane z myślą o skutecznej kontroli zapachów i ochronie odpływu. Nie zawiera paradichlorobenzenu (PARA), który WHO klasyfikuje jako możliwie rakotwórczy. Krążki z PARA są nadal stosowane w niektórych sitkach do pisuarów, podczas gdy przepisy UE ograniczają PARA w dezodorantach do toalet. Kształt litery X zapobiega zatykaniu odpływu przez ciała stałe i zanieczyszczenia, a przy każdym użyciu sitko uwalnia czysty, świeży zapach do 30 dni.\n\nKrążek składa się głównie z wosku i gliceryny oraz rozpuszcza się w trakcie użytkowania. Sitko xcrën puck powstaje z dodatkiem Eco-One™, dzięki któremu ulega biodegradacji na składowisku odpadów. W niezależnym teście laboratoryjnym materiał ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, a prognoza na 5 lat to do 99%. Jest to produkt jednorazowy, a krążka nie można wymienić na nowy.\n\nxcrën puck to prosty i skuteczny sposób na świeże pisuary i drożne odpływy przez okres do 30 dni.",
@@ -799,7 +799,7 @@
     },
     "ekcoMat": {
       "name": "ëkco mat",
-      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "imageAlt": "Ciemnoszara ëkco mat chłonna mata podłogowa do pisuaru, widziana z góry na czarnym tle",
       "category": "ekonomiczna mata pod pisuar, która chroni podłogę",
       "short": "ëkco mat to chłonna mata podłogowa pod pisuar, zaprojektowana, by poprawić higienę w toalecie i chronić podłogę przed gromadzeniem się moczu. Przy wymiarach 54 x 51 x 0,5 cm skutecznie zakrywa obszar wokół większości standardowych pisuarów, zapobiegając uszkodzeniom podłogi i ograniczając przenoszenie moczu na podeszwach butów użytkowników. Pomaga to utrzymać czystszą i przyjemniejszą toaletę.",
       "long": "ëkco mat to chłonna mata podłogowa pod pisuar, zaprojektowana, by poprawić higienę w toalecie i chronić podłogę przed gromadzeniem się moczu. Przy wymiarach 54 x 51 x 0,5 cm skutecznie zakrywa obszar wokół większości standardowych pisuarów, zapobiegając uszkodzeniom podłogi i ograniczając przenoszenie moczu na podeszwach butów użytkowników. Pomaga to utrzymać czystszą i przyjemniejszą toaletę.\n\nëkco mat to ekonomiczne rozwiązanie jednorazowe, idealne dla restauracji, hoteli i innych intensywnie uczęszczanych miejsc, w których higiena jest priorytetem.\n\nëkco mat oferuje praktyczne, higieniczne i budżetowe rozwiązanie do utrzymania czystych i profesjonalnie wyglądających toalet.",

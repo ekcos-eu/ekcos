@@ -535,14 +535,14 @@
       "brandingNote": "Marca personalizada disponible para pedidos cualificados."
     },
     "colors": {
-      "white": "White",
-      "grey": "Grey",
-      "black": "Black",
-      "blue": "Blue"
+      "white": "Blanco",
+      "grey": "Gris",
+      "black": "Negro",
+      "blue": "Azul"
     },
     "fragrances": {
       "fresh": "Fresh",
-      "citrus": "Citrus"
+      "citrus": "Cítricos"
     },
     "variantLabels": {
       "x1p": "morado / frutos rojos",

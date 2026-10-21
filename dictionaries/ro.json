@@ -513,36 +513,36 @@
   },
   "products": {
     "page": {
-      "title": "Products",
-      "intro": "Switch models and finishes, then buy in the official store.",
-      "heroEyebrow": "Explore the range",
-      "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
-      "heroLinkEco": "About Eco-One™",
-      "heroLinkBranding": "Custom branding"
+      "title": "Produse",
+      "intro": "Schimbați modelul și finisajul - apoi cumpărați din magazinul oficial.",
+      "heroEyebrow": "Explorați gama",
+      "heroTitle": "Fiecare linie într-un singur loc",
+      "heroSubtitle": "Finisaje și arome - deschideți magazinul când sunteți gata să cumpărați.",
+      "heroLinkEco": "Mai multe despre Eco-One™",
+      "heroLinkBranding": "Branding personalizat"
     },
     "configurator": {
-      "color": "Finish",
-      "selectProduct": "Select product",
-      "fragrance": "Fragrance options",
-      "benefits": "Benefits",
-      "productBenefits": "Product benefits",
-      "availableColorsFragrances": "Available colors & fragrances",
-      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
-      "byBrand": "by ëkcos",
+      "color": "Finisaj",
+      "selectProduct": "Selectați produsul",
+      "fragrance": "Opțiuni de aromă",
+      "benefits": "Beneficii",
+      "productBenefits": "Beneficii produs",
+      "availableColorsFragrances": "Culori și arome disponibile",
+      "sixtyDayBadge": "Sită urinal anti-stropire PLUS 60 zile",
+      "byBrand": "de ëkcos",
       "siteUrl": "www.ekcos.eu",
-      "useCases": "Typical applications",
-      "brandingNote": "Custom branding available for qualified orders."
+      "useCases": "Aplicații tipice",
+      "brandingNote": "Branding personalizat disponibil pentru comenzi calificate."
     },
     "colors": {
-      "white": "White",
-      "grey": "Grey",
-      "black": "Black",
-      "blue": "Blue"
+      "white": "Alb",
+      "grey": "Gri",
+      "black": "Negru",
+      "blue": "Albastru"
     },
     "fragrances": {
       "fresh": "Fresh",
-      "citrus": "Citrus"
+      "citrus": "Citrice"
     },
     "variantLabels": {
       "x1p": "mov / fructe de pădure",
@@ -559,7 +559,7 @@
     },
     "xcrenHd": {
       "name": "xcrën HD",
-      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Ecran pentru pisoar xcrën HD albastru în formă de X cu peri pentru controlul stropirii, văzut de sus pe un fundal negru",
       "category": "sită de design pentru pisoar, cu protecție antistropire extremă",
       "badge": "sită de design pentru pisoar, cu protecție antistropire extremă",
       "short": "xcrën HD 60+ este o sită parfumată pentru pisoar, cu o formă brevetată care iese în evidență în pisoar. Spre deosebire de sitele ovale obișnuite, transformă pisoarul într-un element de design. Perii brevetați (Sealed Bristles Technology™) acoperă 92% din sită și reduc la minimum stropii de urină și mirosurile neplăcute. Fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de 60+ de zile. În toaletele cu trafic redus, durează și mai mult.",
@@ -597,7 +597,7 @@
     },
     "ekcoscreen": {
       "name": "ëkcoscreen",
-      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "ëkcoscreen ecran pentru pisoar albastru în formă de scut cu peri pentru controlul stropirii, văzut de sus pe un fundal negru",
       "category": "sită antistropire masivă pentru pisoar, parfum de durată dublă",
       "short": "ëkcoscreen 60+ este o sită parfumată pentru pisoar, cu peri brevetați (Sealed Bristles Technology™) care acoperă 95% din sită. Reduce la minimum stropii de urină și mirosurile neplăcute, pentru o toaletă mai curată și mai confortabilă. Fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de 60+ de zile, de două ori mai mult decât sitele standard de 30 de zile. În toaletele cu trafic redus, durează și mai mult.",
       "long": "ëkcoscreen 60+ este o sită parfumată pentru pisoar, cu peri brevetați (Sealed Bristles Technology™) care acoperă 95% din sită. Reduce la minimum stropii de urină și mirosurile neplăcute, pentru o toaletă mai curată și mai confortabilă. Fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de 60+ de zile, de două ori mai mult decât sitele standard de 30 de zile. În toaletele cu trafic redus, durează și mai mult.\n\nConcepută pentru toaletele cu trafic intens din restaurante, baruri, aeroporturi, centre comerciale și alte spații în care se pune accent pe igienă, ëkcoscreen 60+ îmbunătățește curățenia și controlul mirosurilor.\n\nëkcoscreen 60+ este fabricată cu EVA reciclat. Materialul în sine poate fi reciclat, dar o sită de pisoar folosită nu, deoarece este contaminată biologic. Ajunge în depozitele de deșeuri sau la incinerare și de aceea ëkcoscreen 60+ conține aditivul Eco-One™. Într-un test de laborator independent, EVA-ul ëkcos cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar în 5 ani se estimează până la 99%.\n\nëkcoscreen 60+ combină o protecție eficientă împotriva stropilor, parfum timp de 60+ de zile și EVA reciclat și biodegradabil, pentru toaletele cu trafic intens.",
@@ -622,7 +622,7 @@
     },
     "powerscreen": {
       "name": "powër screen",
-      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "imageAlt": "Ecran circular pentru pisoar powër screen albastru, cu un centru stelat și peri pentru controlul stropirii, văzut de sus pe un fundal negru",
       "category": "sită antistropire puternică pentru pisoar, cu schimbare lunară",
       "short": "powër screen este o sită parfumată pentru pisoar, cu un sistem de peri brevetat (Sealed Bristles Technology™). Reduce la minimum stropii de urină și mirosurile neplăcute, pentru o toaletă mai curată și mai confortabilă. Fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de până la 30 de zile, ceea ce o face ideală pentru întreținerea lunară a pisoarelor.",
       "long": "powër screen este o sită parfumată pentru pisoar, cu un sistem de peri brevetat (Sealed Bristles Technology™). Reduce la minimum stropii de urină și mirosurile neplăcute, pentru o toaletă mai curată și mai confortabilă. Fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de până la 30 de zile, ceea ce o face ideală pentru întreținerea lunară a pisoarelor.\n\npowër screen este fabricată cu EVA reciclat. Materialul în sine poate fi reciclat, dar o sită de pisoar folosită nu, deoarece este contaminată biologic. Ajunge în depozitele de deșeuri sau la incinerare și de aceea powër screen conține aditivul Eco-One™. Într-un test de laborator independent, EVA-ul ëkcos cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar în 5 ani se estimează până la 99%.\n\npowër screen combină o protecție eficientă împotriva stropilor, parfum timp de până la 30 de zile și EVA reciclat și biodegradabil, pentru întreținerea lunară a toaletelor.",
@@ -646,7 +646,7 @@
     },
     "basicScreen": {
       "name": "basic scrëen",
-      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "imageAlt": "basic scrëen ecran de pisoar albastru în formă triunghiulară rotunjită cu orificii de drenaj, văzut de sus pe fundal negru",
       "category": "sită de pisoar biodegradabilă în depozite de deșeuri, la preț mic",
       "short": "basic scrëen este o sită economică pentru pisoar, care dezodorizează pisoarele și previne acumularea de reziduuri. Fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de până la 30 de zile, ceea ce o face ideală pentru întreținerea lunară a pisoarelor.",
       "long": "basic scrëen este o sită economică pentru pisoar, care dezodorizează pisoarele și previne acumularea de reziduuri. Fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de până la 30 de zile, ceea ce o face ideală pentru întreținerea lunară a pisoarelor.\n\nbasic scrëen este fabricată cu EVA reciclat. Materialul în sine poate fi reciclat, dar o sită de pisoar folosită nu, deoarece este contaminată biologic. Ajunge în depozitele de deșeuri sau la incinerare și de aceea basic scrëen conține aditivul Eco-One™. Într-un test de laborator independent, EVA-ul ëkcos cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar în 5 ani se estimează până la 99%.\n\nbasic scrëen combină un control fiabil al mirosurilor, protecția împotriva reziduurilor și EVA reciclat și biodegradabil, la un cost redus.",
@@ -670,7 +670,7 @@
     },
     "urolite": {
       "name": "üro lite",
-      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Ecran de pisoar compact üro lite albastru în formă de scut cu peri pentru controlul stropirii, văzut de sus pe fundal negru",
       "category": "sită mică pentru pisoar, protecție mare împotriva stropilor",
       "short": "üro lite este o sită parfumată și flexibilă pentru pisoar, concepută pentru pisoare mai mici. Folosește aceeași Sealed Bristles Technology™ brevetată ca ëkcoscreen 60+ și, în loc de un diametru mai mare, se bazează pe peri lungi care oferă o protecție mare împotriva stropilor într-o sită mică. Reduce la minimum stropii de urină și mirosurile neplăcute. Fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de până la 30 de zile, ceea ce o face ideală pentru întreținerea lunară a pisoarelor.",
       "long": "üro lite este o sită parfumată și flexibilă pentru pisoar, concepută pentru pisoare mai mici. Folosește aceeași Sealed Bristles Technology™ brevetată ca ëkcoscreen 60+ și, în loc de un diametru mai mare, se bazează pe peri lungi care oferă o protecție mare împotriva stropilor într-o sită mică. Reduce la minimum stropii de urină și mirosurile neplăcute. Fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de până la 30 de zile, ceea ce o face ideală pentru întreținerea lunară a pisoarelor.\n\nüro lite este fabricată cu EVA reciclat. Materialul în sine poate fi reciclat, dar o sită de pisoar folosită nu, deoarece este contaminată biologic. Ajunge în depozitele de deșeuri sau la incinerare și de aceea üro lite conține aditivul Eco-One™. Într-un test de laborator independent, EVA-ul ëkcos cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar în 5 ani se estimează până la 99%.\n\nüro lite oferă pisoarelor mai mici o protecție mare împotriva stropilor datorită perilor lungi, unici și brevetați, într-o sită compactă și economică, fabricată cu EVA reciclat și biodegradabil.",
@@ -694,7 +694,7 @@
     },
     "ekcoClip": {
       "name": "ëkco clip",
-      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "imageAlt": "Odorizant albastru pentru vasul de toaletă ëkco clip cu formă de papion și creste pentru controlul stropilor, văzut de sus pe un fundal negru",
       "category": "odorizant WC cu clips, prospețime pe aproape orice vas",
       "short": "ëkco clip este un odorizant cu clips pentru vasul de toaletă, care asigură un control continuu al mirosurilor și menține prospețimea în cabinele de toaletă. Fabricat dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de până la 30 de zile. Designul flexibil se potrivește pe majoritatea tipurilor de vase de toaletă, astfel încât se montează ușor și răspândește bine parfumul.",
       "long": "ëkco clip este un odorizant cu clips pentru vasul de toaletă, care asigură un control continuu al mirosurilor și menține prospețimea în cabinele de toaletă. Fabricat dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de până la 30 de zile. Designul flexibil se potrivește pe majoritatea tipurilor de vase de toaletă, astfel încât se montează ușor și răspândește bine parfumul.\n\nëkco clip este fabricat cu EVA reciclat. Materialul în sine poate fi reciclat, dar un odorizant WC cu clips folosit nu, deoarece este contaminat biologic. Ajunge în depozitele de deșeuri sau la incinerare și de aceea ëkco clip conține aditivul Eco-One™. Într-un test de laborator independent, EVA-ul ëkcos cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar în 5 ani se estimează până la 99%.\n\nëkco clip combină controlul continuu al mirosurilor timp de până la 30 de zile, montarea ușoară pe majoritatea vaselor de toaletă și EVA reciclat și biodegradabil.",
@@ -718,7 +718,7 @@
     },
     "freshDrop": {
       "name": "frësh drop",
-      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Odorizant în formă de lacrimă frësh drop albastru și alb cu peri pentru controlul stropirii, văzut de sus pe un fundal negru",
       "category": "odorizant de cameră pentru WC, de lungă durată, fără baterii",
       "short": "frësh drop este un odorizant de interior conceput pentru cabine de toaletă și grupuri sanitare. Rezerva sa, fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat, fără baterii sau electricitate. În cabinele închise, cu ventilație redusă sau inexistentă, durează 60+ de zile, iar acolo unde aerul circulă mai mult, parfumul se dispersează mai repede. Designul în formă de picătură se potrivește cu orice interior de toaletă, iar banda adezivă inclusă permite montarea ușoară pe aproape orice suprafață. Pentru spații mici, alegeți compactul ëkco loop.",
       "long": "frësh drop este un odorizant de interior conceput pentru cabine de toaletă și grupuri sanitare. Rezerva sa, fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat, fără baterii sau electricitate. În cabinele închise, cu ventilație redusă sau inexistentă, durează 60+ de zile, iar acolo unde aerul circulă mai mult, parfumul se dispersează mai repede. Designul în formă de picătură se potrivește cu orice interior de toaletă, iar banda adezivă inclusă permite montarea ușoară pe aproape orice suprafață. Pentru spații mici, alegeți compactul ëkco loop.\n\nRezerva frësh drop este fabricată cu EVA reciclat, iar materialul poate fi reciclat. Atât rezerva, cât și baza conțin aditivul Eco-One™, deci ambele sunt biodegradabile în depozitele de deșeuri. Într-un test de laborator independent, EVA-ul ëkcos cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar în 5 ani se estimează până la 99%.\n\nfrësh drop combină parfum timp de 60+ de zile, montare ușoară și o rezervă cu EVA reciclat și biodegradabil, pentru cabine de toaletă și grupuri sanitare.",
@@ -746,7 +746,7 @@
     },
     "ezTrap": {
       "name": "ëz trap",
-      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "imageAlt": "Cartuș alb pentru pisoar ëz trap fără apă, cu sigiliu negru, fotografiat în unghi pe un fundal negru",
       "category": "cartuș antimiros pentru pisoar fără apă, ușor de întreținut",
       "short": "ëz trap este un sistem inovator cu cartuș, conceput pentru a îmbunătăți eficiența, curățenia și controlul mirosurilor la pisoarele fără apă, reducând semnificativ costurile de întreținere.",
       "long": "ëz trap este un sistem inovator cu cartuș, conceput pentru a îmbunătăți eficiența, curățenia și controlul mirosurilor la pisoarele fără apă, reducând semnificativ costurile de întreținere.\n\nDatorită sistemului brevetat de cartuș ëz trap, urina curge natural prin sifon, iar un capac se închide etanș după fiecare utilizare. Acest lucru împiedică ieșirea mirosurilor și asigură că, la fiecare utilizare, urina veche este eliminată din sistem, menținând toaleta mai proaspătă.\n\nëz trap este fabricat cu aditivul Eco-One™, care îl face biodegradabil în depozitele de deșeuri. Într-un test de laborator independent, materialul ëkcos cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar în 5 ani se estimează până la 99%.\n\nëz trap oferă o modalitate eficientă și economică, cu întreținere redusă, de a împiedica ieșirea mirosurilor din canalizare prin pisoarele fără apă.",
@@ -771,7 +771,7 @@
     },
     "xcrenPuck": {
       "name": "xcrën puck",
-      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "imageAlt": "xcrën puck albastru pentru pisoar în formă de X cu un suport central pentru puc, văzut de sus pe un fundal negru",
       "category": "sită pentru pisoar în formă de X, cu tabletă dezodorizantă",
       "short": "xcrën puck este o sită pentru pisoar cu tabletă dezodorizantă NON-PARA, concepută pentru un control eficient al mirosurilor și protecția scurgerii. Nu conține paradiclorbenzen (PARA), pe care OMS îl clasifică drept posibil cancerigen. Tabletele cu PARA sunt încă folosite în unele site pentru pisoar, în timp ce normele UE restricționează PARA în odorizantele WC. Designul în formă de X împiedică solidele și reziduurile să înfunde scurgerea, iar sita eliberează un parfum curat și proaspăt la fiecare utilizare, timp de până la 30 de zile.",
       "long": "xcrën puck este o sită pentru pisoar cu tabletă dezodorizantă NON-PARA, concepută pentru un control eficient al mirosurilor și protecția scurgerii. Nu conține paradiclorbenzen (PARA), pe care OMS îl clasifică drept posibil cancerigen. Tabletele cu PARA sunt încă folosite în unele site pentru pisoar, în timp ce normele UE restricționează PARA în odorizantele WC. Designul în formă de X împiedică solidele și reziduurile să înfunde scurgerea, iar sita eliberează un parfum curat și proaspăt la fiecare utilizare, timp de până la 30 de zile.\n\nTableta este fabricată în principal din ceară și glicerină și se dizolvă odată cu utilizarea. xcrën puck este fabricată cu aditivul Eco-One™, care o face biodegradabilă în depozitele de deșeuri. Într-un test de laborator independent, materialul ëkcos cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar în 5 ani se estimează până la 99%. Este un produs de unică folosință, iar tableta nu poate fi înlocuită cu una nouă.\n\nxcrën puck este un mod simplu și eficient de a menține pisoarele proaspete și scurgerile libere timp de până la 30 de zile.",
@@ -799,7 +799,7 @@
     },
     "ekcoMat": {
       "name": "ëkco mat",
-      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "imageAlt": "Covoraș absorbant pentru pisoar ëkco mat gri închis, văzut de sus pe fundal negru",
       "category": "covoraș economic pentru pisoar, care protejează pardoseala",
       "short": "ëkco mat este un covoraș absorbant de podea pentru pisoar, conceput pentru a îmbunătăți igiena toaletei și a proteja pardoseala de acumularea urinei. Cu dimensiuni de 54 x 51 x 0,5 cm, acoperă eficient zona din jurul majorității pisoarelor standard, prevenind deteriorarea pardoselii și reducând transferul urinei pe tălpile încălțămintei utilizatorilor. Acest lucru ajută la menținerea unei toalete mai curate și mai confortabile.",
       "long": "ëkco mat este un covoraș absorbant de podea pentru pisoar, conceput pentru a îmbunătăți igiena toaletei și a proteja pardoseala de acumularea urinei. Cu dimensiuni de 54 x 51 x 0,5 cm, acoperă eficient zona din jurul majorității pisoarelor standard, prevenind deteriorarea pardoselii și reducând transferul urinei pe tălpile încălțămintei utilizatorilor. Acest lucru ajută la menținerea unei toalete mai curate și mai confortabile.\n\nëkco mat este o soluție economică, de unică folosință, ideală pentru restaurante, hoteluri și alte locații cu trafic intens, în care igiena este o prioritate.\n\nëkco mat oferă o soluție practică, igienică și accesibilă pentru menținerea unor toalete curate și cu aspect profesionist.",

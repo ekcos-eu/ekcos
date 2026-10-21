@@ -513,36 +513,36 @@
   },
   "products": {
     "page": {
-      "title": "Products",
-      "intro": "Switch models and finishes, then buy in the official store.",
-      "heroEyebrow": "Explore the range",
-      "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
-      "heroLinkEco": "About Eco-One™",
-      "heroLinkBranding": "Custom branding"
+      "title": "Produktai",
+      "intro": "Keiskite modelį ir apdailą - tada pirkite oficialioje parduotuvėje.",
+      "heroEyebrow": "Tyrinėkite asortimentą",
+      "heroTitle": "Kiekviena linija vienoje vietoje",
+      "heroSubtitle": "Apdailos ir kvapai - atidarykite parduotuvę, kai būsite pasiruošę pirkti.",
+      "heroLinkEco": "Daugiau apie Eco-One™",
+      "heroLinkBranding": "Individualus branding"
     },
     "configurator": {
-      "color": "Finish",
-      "selectProduct": "Select product",
-      "fragrance": "Fragrance options",
-      "benefits": "Benefits",
-      "productBenefits": "Product benefits",
-      "availableColorsFragrances": "Available colors & fragrances",
-      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
-      "byBrand": "by ëkcos",
+      "color": "Apdaila",
+      "selectProduct": "Pasirinkite produktą",
+      "fragrance": "Kvapų variantai",
+      "benefits": "Privalumai",
+      "productBenefits": "Produkto privalumai",
+      "availableColorsFragrances": "Galimos spalvos ir kvapai",
+      "sixtyDayBadge": "60 dienų PLUS anti-splash pisuaro tinklelis",
+      "byBrand": "ëkcos",
       "siteUrl": "www.ekcos.eu",
-      "useCases": "Typical applications",
-      "brandingNote": "Custom branding available for qualified orders."
+      "useCases": "Tipiniai pritaikymai",
+      "brandingNote": "Individualus branding prieinamas kvalifikuotiems užsakymams."
     },
     "colors": {
-      "white": "White",
-      "grey": "Grey",
-      "black": "Black",
-      "blue": "Blue"
+      "white": "Baltas",
+      "grey": "Pilkas",
+      "black": "Juodas",
+      "blue": "Mėlynas"
     },
     "fragrances": {
       "fresh": "Fresh",
-      "citrus": "Citrus"
+      "citrus": "Citrusiniai"
     },
     "variantLabels": {
       "x1p": "violetinis / miško uogos",
@@ -559,7 +559,7 @@
     },
     "xcrenHd": {
       "name": "xcrën HD",
-      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Mėlynas xcrën HD pisuaro ekranas X formos su purslų kontrolės šeriais, matomas iš viršaus juodame fone",
       "category": "dizaino pisuaro tinklelis su ekstremalia apsauga nuo purslų",
       "badge": "dizaino pisuaro tinklelis su ekstremalia apsauga nuo purslų",
       "short": "xcrën HD 60+ yra kvapnus pisuaro tinklelis su užpatentuota forma, kuri išsiskiria pisuare. Kitaip nei įprasti ovalūs tinkleliai, jis paverčia pisuarą dizaino elementu. Užpatentuoti šereliai (Sealed Bristles Technology™) dengia 92 % tinklelio ir iki minimumo sumažina šlapimo purslus bei nemalonius kvapus. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą 60+ dienų. Mažai lankomuose tualetuose jis tarnauja dar ilgiau.",
@@ -597,7 +597,7 @@
     },
     "ekcoscreen": {
       "name": "ëkcoscreen",
-      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Mėlynas ëkcoscreen pisuaro ekranas skydo formos su purslų kontrolės šeriais, matomas iš viršaus juodame fone",
       "category": "masyvus pisuaro tinklelis nuo purslų su dvigubai ilgesniu kvapu",
       "short": "ëkcoscreen 60+ yra kvapnus pisuaro tinklelis su užpatentuotais šereliais (Sealed Bristles Technology™), kurie dengia 95 % tinklelio. Jis iki minimumo sumažina šlapimo purslus ir nemalonius kvapus, todėl tualetas švaresnis ir patogesnis. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą 60+ dienų, dvigubai ilgiau nei standartiniai 30 dienų tinkleliai. Mažai lankomuose tualetuose jis tarnauja dar ilgiau.",
       "long": "ëkcoscreen 60+ yra kvapnus pisuaro tinklelis su užpatentuotais šereliais (Sealed Bristles Technology™), kurie dengia 95 % tinklelio. Jis iki minimumo sumažina šlapimo purslus ir nemalonius kvapus, todėl tualetas švaresnis ir patogesnis. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą 60+ dienų, dvigubai ilgiau nei standartiniai 30 dienų tinkleliai. Mažai lankomuose tualetuose jis tarnauja dar ilgiau.\n\nëkcoscreen 60+ skirtas daug lankomiems tualetams restoranuose, baruose, oro uostuose, prekybos centruose ir kitose vietose, kuriose svarbi higiena. Jis gerina švarą ir kvapų kontrolę.\n\nëkcoscreen 60+ pagamintas naudojant perdirbtą EVA. Pačią medžiagą galima perdirbti, tačiau panaudoto pisuaro tinklelio perdirbti negalima, nes jis biologiškai užterštas. Jis patenka į sąvartyną arba yra deginamas, todėl ëkcoscreen 60+ sudėtyje yra priedo Eco-One™. Nepriklausomame laboratorijos bandyme ëkcos EVA su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o per 5 metus prognozuojama iki 99 %.\n\nëkcoscreen 60+ sujungia veiksmingą apsaugą nuo purslų, 60+ dienų kvapą ir perdirbtą, biologiškai skaidų EVA daug lankomiems tualetams.",
@@ -622,7 +622,7 @@
     },
     "powerscreen": {
       "name": "powër screen",
-      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "imageAlt": "Mėlynas powër screen apvalus pisuaro ekranas su žvaigždės sprogimo centru ir purslų kontrolės šereliais, matomas iš viršaus juodame fone",
       "category": "galingas pisuaro tinklelis nuo purslų, keičiamas kas mėnesį",
       "short": "powër screen yra kvapnus pisuaro tinklelis su užpatentuota šerelių sistema (Sealed Bristles Technology™). Jis iki minimumo sumažina šlapimo purslus ir nemalonius kvapus, todėl tualetas švaresnis ir patogesnis. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą iki 30 dienų, todėl idealiai tinka kasmėnesinei pisuarų priežiūrai.",
       "long": "powër screen yra kvapnus pisuaro tinklelis su užpatentuota šerelių sistema (Sealed Bristles Technology™). Jis iki minimumo sumažina šlapimo purslus ir nemalonius kvapus, todėl tualetas švaresnis ir patogesnis. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą iki 30 dienų, todėl idealiai tinka kasmėnesinei pisuarų priežiūrai.\n\npowër screen pagamintas naudojant perdirbtą EVA. Pačią medžiagą galima perdirbti, tačiau panaudoto pisuaro tinklelio perdirbti negalima, nes jis biologiškai užterštas. Jis patenka į sąvartyną arba yra deginamas, todėl powër screen sudėtyje yra priedo Eco-One™. Nepriklausomame laboratorijos bandyme ëkcos EVA su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o per 5 metus prognozuojama iki 99 %.\n\npowër screen sujungia veiksmingą apsaugą nuo purslų, iki 30 dienų kvapą ir perdirbtą, biologiškai skaidų EVA kasmėnesinei tualetų priežiūrai.",
@@ -646,7 +646,7 @@
     },
     "basicScreen": {
       "name": "basic scrëen",
-      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "imageAlt": "Mėlynas basic scrëen pisuaro ekranas, suapvalintas trikampis su drenažo angomis, matomas iš viršaus juodame fone",
       "category": "sąvartyne biologiškai skaidus pisuaro tinklelis už mažą kainą",
       "short": "basic scrëen yra ekonomiškas pisuaro tinklelis, kuris dezodoruoja pisuarus ir neleidžia kauptis šiukšlėms. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą iki 30 dienų, todėl idealiai tinka kasmėnesinei pisuarų priežiūrai.",
       "long": "basic scrëen yra ekonomiškas pisuaro tinklelis, kuris dezodoruoja pisuarus ir neleidžia kauptis šiukšlėms. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą iki 30 dienų, todėl idealiai tinka kasmėnesinei pisuarų priežiūrai.\n\nbasic scrëen pagamintas naudojant perdirbtą EVA. Pačią medžiagą galima perdirbti, tačiau panaudoto pisuaro tinklelio perdirbti negalima, nes jis biologiškai užterštas. Jis patenka į sąvartyną arba yra deginamas, todėl basic scrëen sudėtyje yra priedo Eco-One™. Nepriklausomame laboratorijos bandyme ëkcos EVA su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o per 5 metus prognozuojama iki 99 %.\n\nbasic scrëen sujungia patikimą kvapų kontrolę, apsaugą nuo šiukšlių ir perdirbtą, biologiškai skaidų EVA už mažą kainą.",
@@ -670,7 +670,7 @@
     },
     "urolite": {
       "name": "üro lite",
-      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Mėlynas üro lite kompaktiškas pisuaro ekranas skydo formos su purslų kontrolės šereliais, matomas iš viršaus juodame fone",
       "category": "mažas pisuaro tinklelis, didelė apsauga nuo purslų",
       "short": "üro lite yra lankstus kvapnus pisuaro tinklelis, skirtas mažesniems pisuarams. Jame naudojama ta pati užpatentuota Sealed Bristles Technology™ kaip ir tinklelyje ëkcoscreen 60+, o vietoj didesnio skersmens jis remiasi ilgais šereliais, kurie mažame tinklelyje užtikrina didelę apsaugą nuo purslų. Jis iki minimumo sumažina šlapimo purslus ir nemalonius kvapus. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą iki 30 dienų, todėl idealiai tinka kasmėnesinei pisuarų priežiūrai.",
       "long": "üro lite yra lankstus kvapnus pisuaro tinklelis, skirtas mažesniems pisuarams. Jame naudojama ta pati užpatentuota Sealed Bristles Technology™ kaip ir tinklelyje ëkcoscreen 60+, o vietoj didesnio skersmens jis remiasi ilgais šereliais, kurie mažame tinklelyje užtikrina didelę apsaugą nuo purslų. Jis iki minimumo sumažina šlapimo purslus ir nemalonius kvapus. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą iki 30 dienų, todėl idealiai tinka kasmėnesinei pisuarų priežiūrai.\n\nüro lite pagamintas naudojant perdirbtą EVA. Pačią medžiagą galima perdirbti, tačiau panaudoto pisuaro tinklelio perdirbti negalima, nes jis biologiškai užterštas. Jis patenka į sąvartyną arba yra deginamas, todėl üro lite sudėtyje yra priedo Eco-One™. Nepriklausomame laboratorijos bandyme ëkcos EVA su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o per 5 metus prognozuojama iki 99 %.\n\nüro lite unikaliais užpatentuotais ilgais šereliais suteikia mažesniems pisuarams didelę apsaugą nuo purslų kompaktiškame, ekonomiškame tinklelyje, pagamintame naudojant perdirbtą, biologiškai skaidų EVA.",
@@ -694,7 +694,7 @@
     },
     "ekcoClip": {
       "name": "ëkco clip",
-      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "imageAlt": "Mėlynas ëkco clip tualeto dubenėlio gaiviklis su peteliškės forma ir purslų kontrolės briaunomis, žiūrint iš viršaus juodame fone",
       "category": "pakabinamas WC gaiviklis, tinkantis beveik bet kuriam klozetui",
       "short": "ëkco clip yra pakabinamas WC gaiviklis, kuris nuolat kontroliuoja kvapus ir palaiko tualeto kabinų gaivumą. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą iki 30 dienų. Dėl lanksčios konstrukcijos jis tinka daugumai klozetų tipų, todėl jį lengva pritvirtinti ir jis gerai skleidžia kvapą.",
       "long": "ëkco clip yra pakabinamas WC gaiviklis, kuris nuolat kontroliuoja kvapus ir palaiko tualeto kabinų gaivumą. Pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, jis palaipsniui skleidžia kvapą iki 30 dienų. Dėl lanksčios konstrukcijos jis tinka daugumai klozetų tipų, todėl jį lengva pritvirtinti ir jis gerai skleidžia kvapą.\n\nëkco clip pagamintas naudojant perdirbtą EVA. Pačią medžiagą galima perdirbti, tačiau panaudoto pakabinamo WC gaiviklio perdirbti negalima, nes jis biologiškai užterštas. Jis patenka į sąvartyną arba yra deginamas, todėl ëkco clip sudėtyje yra priedo Eco-One™. Nepriklausomame laboratorijos bandyme ëkcos EVA su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o per 5 metus prognozuojama iki 99 %.\n\nëkco clip sujungia nuolatinę kvapų kontrolę iki 30 dienų, lengvą tvirtinimą prie daugumos klozetų ir perdirbtą, biologiškai skaidų EVA.",
@@ -718,7 +718,7 @@
     },
     "freshDrop": {
       "name": "frësh drop",
-      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Mėlynos ir baltos spalvos frësh drop ašarinis oro gaiviklis su purslų kontrolės šereliais, žiūrint iš viršaus juodame fone",
       "category": "ilgai veikiantis WC oro gaiviklis be baterijų",
       "short": "frësh drop yra patalpų oro gaiviklis, skirtas tualeto kabinoms ir tualetams. Jo įdėklas, pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, palaipsniui skleidžia kvapą be baterijų ir elektros. Uždarose kabinose, kuriose ventiliacija silpna arba jos nėra, jis veikia 60+ dienų, o ten, kur oras juda labiau, kvapas išsisklaido greičiau. Vandens lašo formos dizainas dera prie bet kokio tualeto interjero, o pridedama lipni juosta leidžia lengvai pritvirtinti gaiviklį prie beveik bet kokio paviršiaus. Mažoms erdvėms rinkitės kompaktišką gaiviklį ëkco loop.",
       "long": "frësh drop yra patalpų oro gaiviklis, skirtas tualeto kabinoms ir tualetams. Jo įdėklas, pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, palaipsniui skleidžia kvapą be baterijų ir elektros. Uždarose kabinose, kuriose ventiliacija silpna arba jos nėra, jis veikia 60+ dienų, o ten, kur oras juda labiau, kvapas išsisklaido greičiau. Vandens lašo formos dizainas dera prie bet kokio tualeto interjero, o pridedama lipni juosta leidžia lengvai pritvirtinti gaiviklį prie beveik bet kokio paviršiaus. Mažoms erdvėms rinkitės kompaktišką gaiviklį ëkco loop.\n\nGaiviklio frësh drop įdėklas pagamintas naudojant perdirbtą EVA, o šią medžiagą galima perdirbti. Ir įdėkle, ir pagrinde yra priedo Eco-One™, todėl abu yra biologiškai skaidūs sąvartyne. Nepriklausomame laboratorijos bandyme ëkcos EVA su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o per 5 metus prognozuojama iki 99 %.\n\nfrësh drop sujungia 60+ dienų kvapą, lengvą montavimą ir įdėklą iš perdirbto, biologiškai skaidaus EVA tualeto kabinoms ir tualetams.",
@@ -746,7 +746,7 @@
     },
     "ezTrap": {
       "name": "ëz trap",
-      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "imageAlt": "Balta ëz trap bevandenė pisuarų kasetė su juodu sandarikliu, nufotografuota kampu juodame fone",
       "category": "kvapus sulaikanti, lengvai prižiūrima bevandenio pisuaro kasetė",
       "short": "ëz trap yra naujoviška kasečių sistema, sukurta bevandenių pisuarų efektyvumui, švarai ir kvapų kontrolei gerinti, kartu gerokai mažinant priežiūros išlaidas.",
       "long": "ëz trap yra naujoviška kasečių sistema, sukurta bevandenių pisuarų efektyvumui, švarai ir kvapų kontrolei gerinti, kartu gerokai mažinant priežiūros išlaidas.\n\nUžpatentuota kasečių sistema ëz trap leidžia šlapimui natūraliai tekėti per sifoną, o uždaromasis dangtelis po kiekvieno naudojimo užsisandarina. Tai neleidžia kvapams išsiveržti ir užtikrina, kad po kiekvieno naudojimo senas šlapimas pašalinamas iš sistemos, todėl tualeto aplinka gaivesnė.\n\nëz trap pagamintas su priedu Eco-One™, todėl jis biologiškai skaidus sąvartyne. Nepriklausomame laboratorijos bandyme ëkcos medžiaga su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o per 5 metus prognozuojama iki 99 %.\n\nëz trap yra efektyvus, mažai priežiūros reikalaujantis ir išlaidas taupantis būdas neleisti kanalizacijos kvapams išsiveržti pro bevandenius pisuarus.",
@@ -771,7 +771,7 @@
     },
     "xcrenPuck": {
       "name": "xcrën puck",
-      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "imageAlt": "Mėlynas xcrën puck X formos pisuaro ekranas su centriniu ritulio laikikliu, matomas iš viršaus juodame fone",
       "category": "X formos pisuaro tinklelis su dezodoruojančia tablete",
       "short": "xcrën puck yra pisuaro tinklelis su NON-PARA dezodoruojančia tablete, skirtas veiksmingai kvapų kontrolei ir kanalizacijos apsaugai. Jame nėra paradichlorbenzeno (PARA), kurį PSO klasifikuoja kaip galimai kancerogeninį. PARA tabletės vis dar naudojamos kai kuriuose pisuarų tinkleliuose, o ES taisyklės riboja PARA naudojimą tualetų dezodorantuose. X formos konstrukcija neleidžia kietosioms dalelėms ir šiukšlėms užkimšti kanalizacijos, o po kiekvieno naudojimo tinklelis iki 30 dienų skleidžia švarų, gaivų kvapą.",
       "long": "xcrën puck yra pisuaro tinklelis su NON-PARA dezodoruojančia tablete, skirtas veiksmingai kvapų kontrolei ir kanalizacijos apsaugai. Jame nėra paradichlorbenzeno (PARA), kurį PSO klasifikuoja kaip galimai kancerogeninį. PARA tabletės vis dar naudojamos kai kuriuose pisuarų tinkleliuose, o ES taisyklės riboja PARA naudojimą tualetų dezodorantuose. X formos konstrukcija neleidžia kietosioms dalelėms ir šiukšlėms užkimšti kanalizacijos, o po kiekvieno naudojimo tinklelis iki 30 dienų skleidžia švarų, gaivų kvapą.\n\nTabletė daugiausia pagaminta iš vaško ir glicerino ir naudojant ištirpsta. xcrën puck pagamintas su priedu Eco-One™, todėl jis biologiškai skaidus sąvartyne. Nepriklausomame laboratorijos bandyme ëkcos medžiaga su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o per 5 metus prognozuojama iki 99 %. Tai vienkartinis gaminys, o tabletės negalima pakeisti nauja.\n\nxcrën puck yra paprastas ir veiksmingas būdas iki 30 dienų palaikyti pisuarų gaivumą ir laisvą kanalizaciją.",
@@ -799,7 +799,7 @@
     },
     "ekcoMat": {
       "name": "ëkco mat",
-      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "imageAlt": "Tamsiai pilkas ëkco mat sugeriantis pisuaro grindų kilimėlis, žiūrint iš viršaus juodame fone",
       "category": "ekonomiškas kilimėlis po pisuaru, saugantis grindis",
       "short": "ëkco mat yra sugeriantis grindų kilimėlis po pisuaru, skirtas tualeto higienai gerinti ir grindims apsaugoti nuo šlapimo kaupimosi. Jo matmenys 54 x 51 x 0,5 cm, todėl jis veiksmingai uždengia plotą aplink daugumą standartinių pisuarų, apsaugo grindis nuo pažeidimų ir sumažina šlapimo pernešimą ant naudotojų batų padų. Tai padeda palaikyti švaresnį ir patogesnį tualetą.",
       "long": "ëkco mat yra sugeriantis grindų kilimėlis po pisuaru, skirtas tualeto higienai gerinti ir grindims apsaugoti nuo šlapimo kaupimosi. Jo matmenys 54 x 51 x 0,5 cm, todėl jis veiksmingai uždengia plotą aplink daugumą standartinių pisuarų, apsaugo grindis nuo pažeidimų ir sumažina šlapimo pernešimą ant naudotojų batų padų. Tai padeda palaikyti švaresnį ir patogesnį tualetą.\n\nëkco mat yra ekonomiškas vienkartinis sprendimas, idealiai tinkantis restoranams, viešbučiams ir kitoms daug lankomoms vietoms, kuriose higiena yra prioritetas.\n\nëkco mat yra praktiškas, higieniškas ir biudžetui palankus sprendimas švarioms ir profesionalioms tualetų erdvėms palaikyti.",

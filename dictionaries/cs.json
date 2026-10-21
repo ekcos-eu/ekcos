@@ -535,14 +535,14 @@
       "brandingNote": "Vlastní branding u kvalifikovaných objednávek."
     },
     "colors": {
-      "white": "White",
-      "grey": "Grey",
-      "black": "Black",
-      "blue": "Blue"
+      "white": "Bílá",
+      "grey": "Šedá",
+      "black": "Černá",
+      "blue": "Modrá"
     },
     "fragrances": {
       "fresh": "Fresh",
-      "citrus": "Citrus"
+      "citrus": "Citrusy"
     },
     "variantLabels": {
       "x1p": "fialová / lesní plody",

@@ -513,32 +513,32 @@
   },
   "products": {
     "page": {
-      "title": "Products",
-      "intro": "Switch models and finishes, then buy in the official store.",
-      "heroEyebrow": "Explore the range",
-      "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
-      "heroLinkEco": "About Eco-One™",
-      "heroLinkBranding": "Custom branding"
+      "title": "Izdelki",
+      "intro": "Zamenjajte model in površino - nato kupite v uradni trgovini.",
+      "heroEyebrow": "Raziščite ponudbo",
+      "heroTitle": "Vsaka linija na enem mestu",
+      "heroSubtitle": "Površine in dišave - odprite trgovino, ko ste pripravljeni kupiti.",
+      "heroLinkEco": "Več o Eco-One™",
+      "heroLinkBranding": "Prilagojen branding"
     },
     "configurator": {
-      "color": "Finish",
-      "selectProduct": "Select product",
-      "fragrance": "Fragrance options",
-      "benefits": "Benefits",
-      "productBenefits": "Product benefits",
-      "availableColorsFragrances": "Available colors & fragrances",
-      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
-      "byBrand": "by ëkcos",
+      "color": "Površina",
+      "selectProduct": "Izberite izdelek",
+      "fragrance": "Možnosti dišav",
+      "benefits": "Prednosti",
+      "productBenefits": "Prednosti izdelka",
+      "availableColorsFragrances": "Razpoložljive barve in dišave",
+      "sixtyDayBadge": "60-dnevna PLUS antishplash sito za pisoar",
+      "byBrand": "od ëkcos",
       "siteUrl": "www.ekcos.eu",
-      "useCases": "Typical applications",
-      "brandingNote": "Custom branding available for qualified orders."
+      "useCases": "Tipične uporabe",
+      "brandingNote": "Prilagojen branding na voljo za kvalificirana naročila."
     },
     "colors": {
-      "white": "White",
-      "grey": "Grey",
-      "black": "Black",
-      "blue": "Blue"
+      "white": "Bela",
+      "grey": "Siva",
+      "black": "Črna",
+      "blue": "Modra"
     },
     "fragrances": {
       "fresh": "Fresh",
@@ -559,7 +559,7 @@
     },
     "xcrenHd": {
       "name": "xcrën HD",
-      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Modra pregrada za pisoar xcrën HD v obliki X s ščetinami za nadzor brizganja, pogled od zgoraj na črnem ozadju",
       "category": "dizajnerska mrežica za pisoar z ekstremno zaščito pred brizganjem",
       "badge": "dizajnerska mrežica za pisoar z ekstremno zaščito pred brizganjem",
       "short": "xcrën HD 60+ je dišeča mrežica za pisoar s patentirano obliko, ki izstopa v pisoarju. Za razliko od običajnih ovalnih mrežic pisoar spremeni v dizajnerski element. Njene patentirane ščetine (Sealed Bristles Technology™) prekrivajo 92 % mrežice ter brizganje urina in neprijetne vonjave zmanjšajo na minimum. Izdelana je iz lastnega materiala, prepojenega z dišavo na osnovi deodoranta, in vonj sprošča postopoma 60+ dni. V manj obiskanih sanitarijah zdrži še dlje.",
@@ -597,7 +597,7 @@
     },
     "ekcoscreen": {
       "name": "ëkcoscreen",
-      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Modra ëkcoscreen pregrada za pisoar v obliki ščita s ščetinami za nadzor brizganja, pogled od zgoraj na črnem ozadju",
       "category": "težka mrežica za pisoar proti brizganju z dvojnim trajanjem vonja",
       "short": "ëkcoscreen 60+ je dišeča mrežica za pisoar s patentiranimi ščetinami (Sealed Bristles Technology™), ki prekrivajo 95 % mrežice. Brizganje urina in neprijetne vonjave zmanjša na minimum za čistejše in udobnejše sanitarije. Izdelana je iz lastnega materiala, prepojenega z dišavo na osnovi deodoranta, in vonj sprošča postopoma 60+ dni, dvakrat dlje kot standardne 30-dnevne mrežice. V manj obiskanih sanitarijah zdrži še dlje.",
       "long": "ëkcoscreen 60+ je dišeča mrežica za pisoar s patentiranimi ščetinami (Sealed Bristles Technology™), ki prekrivajo 95 % mrežice. Brizganje urina in neprijetne vonjave zmanjša na minimum za čistejše in udobnejše sanitarije. Izdelana je iz lastnega materiala, prepojenega z dišavo na osnovi deodoranta, in vonj sprošča postopoma 60+ dni, dvakrat dlje kot standardne 30-dnevne mrežice. V manj obiskanih sanitarijah zdrži še dlje.\n\nMrežica ëkcoscreen 60+ je zasnovana za zelo obiskane sanitarije v restavracijah, barih, na letališčih, v nakupovalnih središčih in drugih objektih, kjer je higiena v ospredju, ter izboljša čistočo in nadzor nad vonjavami.\n\nMrežica ëkcoscreen 60+ je izdelana z recikliranim EVA materialom. Sam material je mogoče reciklirati, uporabljene mrežice za pisoar pa ne, ker je biološko kontaminirana. Konča na odlagališču odpadkov ali v sežigalnici, zato mrežica ëkcoscreen 60+ vsebuje aditiv Eco-One™. V neodvisnem laboratorijskem preskusu je material ëkcos EVA z aditivom Eco-One™ v roku 3,5 leta dosegel stopnjo biorazgradnje 93 %, v roku 5 let pa je predvidena stopnja do 99 %.\n\nMrežica ëkcoscreen 60+ združuje učinkovito zaščito pred brizganjem, 60+ dni vonja ter recikliran, biorazgradljiv EVA material za zelo obiskane sanitarije.",
@@ -622,7 +622,7 @@
     },
     "powerscreen": {
       "name": "powër screen",
-      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "imageAlt": "Modri ​​powër screen krožni zaslon za pisoar s središčem zvezdnega utrinka in ščetinami za nadzor brizganja, pogled od zgoraj na črnem ozadju",
       "category": "močna mrežica za pisoar proti brizganju za mesečno menjavo",
       "short": "powër screen je dišeča mrežica za pisoar s patentiranim sistemom ščetin (Sealed Bristles Technology™). Brizganje urina in neprijetne vonjave zmanjša na minimum za čistejše in udobnejše sanitarije. Izdelana je iz lastnega materiala, prepojenega z dišavo na osnovi deodoranta, in vonj sprošča postopoma do 30 dni, zato je idealna za mesečno vzdrževanje pisoarjev.",
       "long": "powër screen je dišeča mrežica za pisoar s patentiranim sistemom ščetin (Sealed Bristles Technology™). Brizganje urina in neprijetne vonjave zmanjša na minimum za čistejše in udobnejše sanitarije. Izdelana je iz lastnega materiala, prepojenega z dišavo na osnovi deodoranta, in vonj sprošča postopoma do 30 dni, zato je idealna za mesečno vzdrževanje pisoarjev.\n\nMrežica powër screen je izdelana z recikliranim EVA materialom. Sam material je mogoče reciklirati, uporabljene mrežice za pisoar pa ne, ker je biološko kontaminirana. Konča na odlagališču odpadkov ali v sežigalnici, zato mrežica powër screen vsebuje aditiv Eco-One™. V neodvisnem laboratorijskem preskusu je material ëkcos EVA z aditivom Eco-One™ v roku 3,5 leta dosegel stopnjo biorazgradnje 93 %, v roku 5 let pa je predvidena stopnja do 99 %.\n\nMrežica powër screen združuje učinkovito zaščito pred brizganjem, do 30 dni vonja ter recikliran, biorazgradljiv EVA material za mesečno vzdrževanje sanitarij.",
@@ -646,7 +646,7 @@
     },
     "basicScreen": {
       "name": "basic scrëen",
-      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "imageAlt": "Modra basic scrëen pregrada za pisoar v zaobljeni trikotni obliki z drenažnimi luknjami, gledana od zgoraj na črnem ozadju",
       "category": "na odlagališču biorazgradljiva mrežica za pisoar po ugodni ceni",
       "short": "basic scrëen je cenovno ugodna mrežica za pisoar, ki odstranjuje neprijetne vonjave iz pisoarjev in preprečuje nabiranje odpadkov. Izdelana je iz lastnega materiala, prepojenega z dišavo na osnovi deodoranta, in vonj sprošča postopoma do 30 dni, zato je idealna za mesečno vzdrževanje pisoarjev.",
       "long": "basic scrëen je cenovno ugodna mrežica za pisoar, ki odstranjuje neprijetne vonjave iz pisoarjev in preprečuje nabiranje odpadkov. Izdelana je iz lastnega materiala, prepojenega z dišavo na osnovi deodoranta, in vonj sprošča postopoma do 30 dni, zato je idealna za mesečno vzdrževanje pisoarjev.\n\nMrežica basic scrëen je izdelana z recikliranim EVA materialom. Sam material je mogoče reciklirati, uporabljene mrežice za pisoar pa ne, ker je biološko kontaminirana. Konča na odlagališču odpadkov ali v sežigalnici, zato mrežica basic scrëen vsebuje aditiv Eco-One™. V neodvisnem laboratorijskem preskusu je material ëkcos EVA z aditivom Eco-One™ v roku 3,5 leta dosegel stopnjo biorazgradnje 93 %, v roku 5 let pa je predvidena stopnja do 99 %.\n\nMrežica basic scrëen po nizki ceni združuje zanesljiv nadzor nad vonjavami, zaščito pred odpadki ter recikliran, biorazgradljiv EVA material.",
@@ -670,7 +670,7 @@
     },
     "urolite": {
       "name": "üro lite",
-      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Modra kompaktna mreža za pisoar üro lite v obliki ščita s ščetinami za nadzor brizganja, pogled od zgoraj na črnem ozadju",
       "category": "majhna mrežica za pisoar, velika zaščita pred brizganjem",
       "short": "üro lite je prožna dišeča mrežica za pisoar, zasnovana za manjše pisoarje. Uporablja enako patentirano tehnologijo Sealed Bristles Technology™ kot mrežica ëkcoscreen 60+, namesto večjega premera pa se zanaša na dolge ščetine, ki v majhni mrežici zagotavljajo veliko zaščito pred brizganjem. Brizganje urina in neprijetne vonjave zmanjša na minimum. Izdelana je iz lastnega materiala, prepojenega z dišavo na osnovi deodoranta, in vonj sprošča postopoma do 30 dni, zato je idealna za mesečno vzdrževanje pisoarjev.",
       "long": "üro lite je prožna dišeča mrežica za pisoar, zasnovana za manjše pisoarje. Uporablja enako patentirano tehnologijo Sealed Bristles Technology™ kot mrežica ëkcoscreen 60+, namesto večjega premera pa se zanaša na dolge ščetine, ki v majhni mrežici zagotavljajo veliko zaščito pred brizganjem. Brizganje urina in neprijetne vonjave zmanjša na minimum. Izdelana je iz lastnega materiala, prepojenega z dišavo na osnovi deodoranta, in vonj sprošča postopoma do 30 dni, zato je idealna za mesečno vzdrževanje pisoarjev.\n\nMrežica üro lite je izdelana z recikliranim EVA materialom. Sam material je mogoče reciklirati, uporabljene mrežice za pisoar pa ne, ker je biološko kontaminirana. Konča na odlagališču odpadkov ali v sežigalnici, zato mrežica üro lite vsebuje aditiv Eco-One™. V neodvisnem laboratorijskem preskusu je material ëkcos EVA z aditivom Eco-One™ v roku 3,5 leta dosegel stopnjo biorazgradnje 93 %, v roku 5 let pa je predvidena stopnja do 99 %.\n\nMrežica üro lite z edinstvenimi patentiranimi dolgimi ščetinami zagotavlja manjšim pisoarjem veliko zaščito pred brizganjem, in to v kompaktni, cenovno ugodni mrežici, izdelani z recikliranim, biorazgradljivim EVA materialom.",
@@ -694,7 +694,7 @@
     },
     "ekcoClip": {
       "name": "ëkco clip",
-      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "imageAlt": "Modri ​​osvežilec straniščne školjke ëkco clip v obliki metuljčka in robovi za zaščito pred brizganjem, pogled od zgoraj na črnem ozadju",
       "category": "osvežilec za WC-školjko, ki se prilega skoraj vsaki školjki",
       "short": "ëkco clip je osvežilec s sponko za WC-školjko, ki zagotavlja stalen nadzor nad vonjavami in ohranja WC-kabine sveže. Izdelan je iz lastnega materiala, prepojenega z dišavo na osnovi deodoranta, in vonj sprošča postopoma do 30 dni. Zaradi prožne oblike se prilega večini vrst WC-školjk, zato ga je enostavno namestiti in dobro razširja vonj.",
       "long": "ëkco clip je osvežilec s sponko za WC-školjko, ki zagotavlja stalen nadzor nad vonjavami in ohranja WC-kabine sveže. Izdelan je iz lastnega materiala, prepojenega z dišavo na osnovi deodoranta, in vonj sprošča postopoma do 30 dni. Zaradi prožne oblike se prilega večini vrst WC-školjk, zato ga je enostavno namestiti in dobro razširja vonj.\n\nOsvežilec ëkco clip je izdelan z recikliranim EVA materialom. Sam material je mogoče reciklirati, uporabljenega osvežilca za WC-školjko pa ne, ker je biološko kontaminiran. Konča na odlagališču odpadkov ali v sežigalnici, zato osvežilec ëkco clip vsebuje aditiv Eco-One™. V neodvisnem laboratorijskem preskusu je material ëkcos EVA z aditivom Eco-One™ v roku 3,5 leta dosegel stopnjo biorazgradnje 93 %, v roku 5 let pa je predvidena stopnja do 99 %.\n\nOsvežilec ëkco clip združuje stalen nadzor nad vonjavami do 30 dni, enostavno namestitev na večino WC-školjk ter recikliran, biorazgradljiv EVA material.",
@@ -718,7 +718,7 @@
     },
     "freshDrop": {
       "name": "frësh drop",
-      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Modro-bel osvežilec zraka frësh drop v obliki solze s ščetinami za nadzor brizganja, pogled od zgoraj na črnem ozadju",
       "category": "dolgotrajen osvežilec zraka za WC brez baterij",
       "short": "frësh drop je osvežilec zraka za notranje prostore, zasnovan za WC-kabine in sanitarije. Njegov vložek iz lastnega materiala, prepojenega z dišavo na osnovi deodoranta, sprošča vonj postopoma, brez baterij in elektrike. V zaprtih kabinah s slabim prezračevanjem ali brez njega zdrži 60+ dni, kjer pa se zrak bolj giblje, se vonj hitreje razprši. Dizajn v obliki vodne kapljice se poda vsaki notranjosti sanitarij, priložen lepilni trak pa omogoča enostavno namestitev na skoraj vsako površino. Za majhne prostore izberite kompaktni osvežilec ëkco loop.",
       "long": "frësh drop je osvežilec zraka za notranje prostore, zasnovan za WC-kabine in sanitarije. Njegov vložek iz lastnega materiala, prepojenega z dišavo na osnovi deodoranta, sprošča vonj postopoma, brez baterij in elektrike. V zaprtih kabinah s slabim prezračevanjem ali brez njega zdrži 60+ dni, kjer pa se zrak bolj giblje, se vonj hitreje razprši. Dizajn v obliki vodne kapljice se poda vsaki notranjosti sanitarij, priložen lepilni trak pa omogoča enostavno namestitev na skoraj vsako površino. Za majhne prostore izberite kompaktni osvežilec ëkco loop.\n\nVložek frësh drop je izdelan z recikliranim EVA materialom, material pa je mogoče reciklirati. Vložek in nosilec vsebujeta aditiv Eco-One™, zato sta oba biorazgradljiva na odlagališču odpadkov. V neodvisnem laboratorijskem preskusu je material ëkcos EVA z aditivom Eco-One™ v roku 3,5 leta dosegel stopnjo biorazgradnje 93 %, v roku 5 let pa je predvidena stopnja do 99 %.\n\nOsvežilec frësh drop združuje 60+ dni vonja, enostavno namestitev ter recikliran, biorazgradljiv vložek iz EVA materiala za WC-kabine in sanitarije.",
@@ -740,12 +740,13 @@
         "1": "Premium retail"
       },
       "bases": {
-        "black": "nosilec črn"
+        "black": "nosilec črn",
+        "white": "nosilec bel"
       }
     },
     "ezTrap": {
       "name": "ëz trap",
-      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "imageAlt": "Beli ëz trap brezvodni pisoarski vložek s črnim pečatom, fotografiran pod kotom na črnem ozadju",
       "category": "lahko vzdrževan vložek za brezvodni pisoar, ki zadrži vonjave",
       "short": "ëz trap je inovativen sistem vložkov, zasnovan za večjo učinkovitost, čistočo in nadzor nad vonjavami pri brezvodnih pisoarjih ob znatno nižjih stroških vzdrževanja.",
       "long": "ëz trap je inovativen sistem vložkov, zasnovan za večjo učinkovitost, čistočo in nadzor nad vonjavami pri brezvodnih pisoarjih ob znatno nižjih stroških vzdrževanja.\n\nPatentirani sistem vložkov ëz trap omogoča, da urin naravno odteka skozi sifon, zapiralni pokrovček pa se po vsaki uporabi zatesni. To preprečuje uhajanje vonjav in zagotavlja, da se ob vsaki uporabi stari urin odstrani iz sistema, zato ostanejo sanitarije bolj sveže.\n\nVložek ëz trap je izdelan z aditivom Eco-One™, zato je biorazgradljiv na odlagališču odpadkov. V neodvisnem laboratorijskem preskusu je material ëkcos z aditivom Eco-One™ v roku 3,5 leta dosegel stopnjo biorazgradnje 93 %, v roku 5 let pa je predvidena stopnja do 99 %.\n\nVložek ëz trap ponuja učinkovit in stroškovno varčen način z malo vzdrževanja, da vonjave iz odtoka ne uhajajo iz brezvodnih pisoarjev.",
@@ -770,7 +771,7 @@
     },
     "xcrenPuck": {
       "name": "xcrën puck",
-      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "imageAlt": "Modra xcrën puck pregrada za pisoar v obliki črke X z osrednjim držalom za plošček, pogled od zgoraj na črnem ozadju",
       "category": "mrežica za pisoar v obliki črke X s tableto proti vonjavam",
       "short": "xcrën puck je mrežica za pisoar s tableto NON-PARA proti neprijetnim vonjavam, zasnovana za učinkovit nadzor nad vonjavami in zaščito odtoka. Ne vsebuje paradiklorobenzena (PARA), ki ga SZO uvršča med morda rakotvorne snovi. Tablete PARA se v nekaterih mrežicah za pisoarje še vedno uporabljajo, predpisi EU pa omejujejo PARA v straniščnih deodorantih. Oblika črke X preprečuje, da bi trdni delci in odpadki zamašili odtok, ob vsaki uporabi pa do 30 dni sprošča čist, svež vonj.",
       "long": "xcrën puck je mrežica za pisoar s tableto NON-PARA proti neprijetnim vonjavam, zasnovana za učinkovit nadzor nad vonjavami in zaščito odtoka. Ne vsebuje paradiklorobenzena (PARA), ki ga SZO uvršča med morda rakotvorne snovi. Tablete PARA se v nekaterih mrežicah za pisoarje še vedno uporabljajo, predpisi EU pa omejujejo PARA v straniščnih deodorantih. Oblika črke X preprečuje, da bi trdni delci in odpadki zamašili odtok, ob vsaki uporabi pa do 30 dni sprošča čist, svež vonj.\n\nTableta je izdelana predvsem iz voska in glicerina ter se z uporabo raztaplja. Mrežica xcrën puck je izdelana z aditivom Eco-One™, zato je biorazgradljiva na odlagališču odpadkov. V neodvisnem laboratorijskem preskusu je material ëkcos z aditivom Eco-One™ v roku 3,5 leta dosegel stopnjo biorazgradnje 93 %, v roku 5 let pa je predvidena stopnja do 99 %. Gre za izdelek za enkratno uporabo, tablete ni mogoče zamenjati z novo.\n\nMrežica xcrën puck je preprost in učinkovit način, da pisoarji do 30 dni ostanejo sveži, odtoki pa prehodni.",
@@ -798,7 +799,7 @@
     },
     "ekcoMat": {
       "name": "ëkco mat",
-      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "imageAlt": "Temno siva ëkco mat vpojna talna podloga za pisoar, pogled od zgoraj na črnem ozadju",
       "category": "varčna talna podloga za pisoar, ki ščiti tla",
       "short": "ëkco mat je vpojna talna podloga za pisoar, zasnovana za boljšo higieno sanitarij in zaščito tal pred nabiranjem urina. Z merami 54 x 51 x 0,5 cm učinkovito pokrije površino okoli večine standardnih pisoarjev, preprečuje poškodbe tal in zmanjšuje prenašanje urina na podplatih uporabnikov. Tako pomaga ohranjati čistejše in udobnejše sanitarije.",
       "long": "ëkco mat je vpojna talna podloga za pisoar, zasnovana za boljšo higieno sanitarij in zaščito tal pred nabiranjem urina. Z merami 54 x 51 x 0,5 cm učinkovito pokrije površino okoli večine standardnih pisoarjev, preprečuje poškodbe tal in zmanjšuje prenašanje urina na podplatih uporabnikov. Tako pomaga ohranjati čistejše in udobnejše sanitarije.\n\nPodloga ëkco mat je stroškovno učinkovita rešitev za enkratno uporabo, idealna za restavracije, hotele in druge zelo obiskane prostore, kjer je higiena na prvem mestu.\n\nPodloga ëkco mat je praktična, higienska in cenovno ugodna rešitev za čiste in profesionalno urejene sanitarije.",

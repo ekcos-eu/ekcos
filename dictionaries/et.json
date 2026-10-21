@@ -513,36 +513,36 @@
   },
   "products": {
     "page": {
-      "title": "Products",
-      "intro": "Switch models and finishes, then buy in the official store.",
-      "heroEyebrow": "Explore the range",
-      "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
-      "heroLinkEco": "About Eco-One™",
-      "heroLinkBranding": "Custom branding"
+      "title": "Tooted",
+      "intro": "Vahetage mudelit ja viimistlust - seejärel ostke ametlikust poest.",
+      "heroEyebrow": "Tutvuge valikuga",
+      "heroTitle": "Iga liin ühes kohas",
+      "heroSubtitle": "Viimistlused ja lõhnad - avage pood, kui olete valmis ostma.",
+      "heroLinkEco": "Rohkem Eco-One™ kohta",
+      "heroLinkBranding": "Kohandatud branding"
     },
     "configurator": {
-      "color": "Finish",
-      "selectProduct": "Select product",
-      "fragrance": "Fragrance options",
-      "benefits": "Benefits",
-      "productBenefits": "Product benefits",
-      "availableColorsFragrances": "Available colors & fragrances",
-      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
-      "byBrand": "by ëkcos",
+      "color": "Viimistlus",
+      "selectProduct": "Valige toode",
+      "fragrance": "Lõhnavalikud",
+      "benefits": "Eelised",
+      "productBenefits": "Toote eelised",
+      "availableColorsFragrances": "Saadaolevad värvid ja lõhnad",
+      "sixtyDayBadge": "60-päevane PLUS pritsmekindel pissuaarisõel",
+      "byBrand": "ëkcos",
       "siteUrl": "www.ekcos.eu",
-      "useCases": "Typical applications",
-      "brandingNote": "Custom branding available for qualified orders."
+      "useCases": "Tüüpilised kasutusalad",
+      "brandingNote": "Kohandatud branding saadaval kvalifitseeritud tellimustele."
     },
     "colors": {
-      "white": "White",
-      "grey": "Grey",
-      "black": "Black",
-      "blue": "Blue"
+      "white": "Valge",
+      "grey": "Hall",
+      "black": "Must",
+      "blue": "Sinine"
     },
     "fragrances": {
       "fresh": "Fresh",
-      "citrus": "Citrus"
+      "citrus": "Tsitrus"
     },
     "variantLabels": {
       "x1p": "lilla / metsamari",
@@ -559,7 +559,7 @@
     },
     "xcrenHd": {
       "name": "xcrën HD",
-      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Sinine xcrën HD pissuaariekraan, X-kujuline pritsmekaitseharjastega, ülalt vaadatuna mustal taustal",
       "category": "tipptasemel disainiga pissuaarisõel xtreme-pritsmekaitsega",
       "badge": "tipptasemel disainiga pissuaarisõel xtreme-pritsmekaitsega",
       "short": "xcrën HD 60+ on lõhnastatud pissuaarisõel, mille patenteeritud kuju torkab pissuaaris silma. Erinevalt tavalistest ovaalsetest sõeltest muudab see pissuaari disainielemendiks. Selle patenteeritud harjased (Sealed Bristles Technology™) katavad 92 % sõelast ning minimeerivad uriinipritsmeid ja ebameeldivaid lõhnu. Sõel on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult 60+ päeva. Vähese kasutusega tualettruumides kestab see veelgi kauem.",
@@ -597,7 +597,7 @@
     },
     "ekcoscreen": {
       "name": "ëkcoscreen",
-      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Sinine ëkcoscreen pissuaariekraan pritsmekaitseharjastega, ülevalt vaadatuna mustal taustal",
       "category": "raske pritsmevastane pissuaarisõel kahekordse lõhnakestusega",
       "short": "ëkcoscreen 60+ on lõhnastatud pissuaarisõel, mille patenteeritud harjased (Sealed Bristles Technology™) katavad 95 % sõelast. See minimeerib uriinipritsmeid ja ebameeldivaid lõhnu, et tualettruum oleks puhtam ja mugavam. Sõel on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult 60+ päeva, kaks korda kauem kui tavalised 30-päevased sõelad. Vähese kasutusega tualettruumides kestab see veelgi kauem.",
       "long": "ëkcoscreen 60+ on lõhnastatud pissuaarisõel, mille patenteeritud harjased (Sealed Bristles Technology™) katavad 95 % sõelast. See minimeerib uriinipritsmeid ja ebameeldivaid lõhnu, et tualettruum oleks puhtam ja mugavam. Sõel on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult 60+ päeva, kaks korda kauem kui tavalised 30-päevased sõelad. Vähese kasutusega tualettruumides kestab see veelgi kauem.\n\nëkcoscreen 60+ on loodud suure külastatavusega tualettruumidesse restoranides, baarides, lennujaamades, kaubanduskeskustes ja muudes hügieenile keskenduvates asutustes ning parandab puhtust ja lõhnatõrjet.\n\nPissuaarisõela ëkcoscreen 60+ valmistamisel kasutatakse ringlussevõetud EVA-materjali. Materjali ennast saab ringlusse võtta, kuid kasutatud pissuaarisõela mitte, sest see on bioloogiliselt saastunud. See jõuab prügilasse või põletusse ja seetõttu sisaldab ëkcoscreen 60+ lisandit Eco-One™. Sõltumatus laborikatses saavutas Eco-One™ lisandiga ëkcos EVA-materjal 3,5 aasta jooksul 93 % biolagunemise ning 5 aasta jooksul prognoositakse kuni 99 %.\n\nëkcoscreen 60+ ühendab tõhusa pritsmekaitse, 60+ päeva kestva lõhna ning ringlussevõetud ja biolaguneva EVA-materjali suure külastatavusega tualettruumide jaoks.",
@@ -622,7 +622,7 @@
     },
     "powerscreen": {
       "name": "powër screen",
-      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "imageAlt": "Sinine powër screen ümmargune pissuaariekraan tähepurske keskpunkti ja pritsmekaitseharjastega, ülalt vaadatuna mustal taustal",
       "category": "võimsa pritsmekaitsega pissuaarisõel igakuiseks vahetuseks",
       "short": "powër screen on lõhnastatud pissuaarisõel patenteeritud harjassüsteemiga (Sealed Bristles Technology™). See minimeerib uriinipritsmeid ja ebameeldivaid lõhnu, et tualettruum oleks puhtam ja mugavam. Sõel on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult kuni 30 päeva, mistõttu sobib see ideaalselt pissuaaride igakuiseks hoolduseks.",
       "long": "powër screen on lõhnastatud pissuaarisõel patenteeritud harjassüsteemiga (Sealed Bristles Technology™). See minimeerib uriinipritsmeid ja ebameeldivaid lõhnu, et tualettruum oleks puhtam ja mugavam. Sõel on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult kuni 30 päeva, mistõttu sobib see ideaalselt pissuaaride igakuiseks hoolduseks.\n\nPissuaarisõela powër screen valmistamisel kasutatakse ringlussevõetud EVA-materjali. Materjali ennast saab ringlusse võtta, kuid kasutatud pissuaarisõela mitte, sest see on bioloogiliselt saastunud. See jõuab prügilasse või põletusse ja seetõttu sisaldab powër screen lisandit Eco-One™. Sõltumatus laborikatses saavutas Eco-One™ lisandiga ëkcos EVA-materjal 3,5 aasta jooksul 93 % biolagunemise ning 5 aasta jooksul prognoositakse kuni 99 %.\n\npowër screen ühendab tõhusa pritsmekaitse, kuni 30 päeva kestva lõhna ning ringlussevõetud ja biolaguneva EVA-materjali tualettruumide igakuiseks hoolduseks.",
@@ -646,7 +646,7 @@
     },
     "basicScreen": {
       "name": "basic scrëen",
-      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "imageAlt": "Sinine basic scrëen pissuaariekraan, mis on ümara kolmnurkse kujuga drenaažiavadega, ülalt vaadatuna mustal taustal",
       "category": "prügilas biolagunev pissuaarisõel soodsa hinnaga",
       "short": "basic scrëen on kulutõhus pissuaarisõel, mis deodoreerib pissuaare ja hoiab ära prahi kogunemise. Sõel on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult kuni 30 päeva, mistõttu sobib see ideaalselt pissuaaride igakuiseks hoolduseks.",
       "long": "basic scrëen on kulutõhus pissuaarisõel, mis deodoreerib pissuaare ja hoiab ära prahi kogunemise. Sõel on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult kuni 30 päeva, mistõttu sobib see ideaalselt pissuaaride igakuiseks hoolduseks.\n\nPissuaarisõela basic scrëen valmistamisel kasutatakse ringlussevõetud EVA-materjali. Materjali ennast saab ringlusse võtta, kuid kasutatud pissuaarisõela mitte, sest see on bioloogiliselt saastunud. See jõuab prügilasse või põletusse ja seetõttu sisaldab basic scrëen lisandit Eco-One™. Sõltumatus laborikatses saavutas Eco-One™ lisandiga ëkcos EVA-materjal 3,5 aasta jooksul 93 % biolagunemise ning 5 aasta jooksul prognoositakse kuni 99 %.\n\nbasic scrëen ühendab usaldusväärse lõhnatõrje, kaitse prahi eest ning ringlussevõetud ja biolaguneva EVA-materjali madala hinnaga.",
@@ -670,7 +670,7 @@
     },
     "urolite": {
       "name": "üro lite",
-      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Sinine üro lite pritsmekaitseharjastega kompaktne varjestatud pissuaariekraan, ülalt vaadatuna mustal taustal",
       "category": "väike pissuaarisõel, suur pritsmekaitse",
       "short": "üro lite on painduv lõhnastatud pissuaarisõel, mis on loodud väiksematele pissuaaridele. Selles on sama patenteeritud Sealed Bristles Technology™ nagu pissuaarisõelas ëkcoscreen 60+, kuid suurema läbimõõdu asemel kasutab see pikki harjaseid, mis pakuvad väikeses sõelas suurt pritsmekaitset. See hoiab uriinipritsmed ja ebameeldivad lõhnad minimaalsena. Sõel on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult kuni 30 päeva, mistõttu sobib see ideaalselt pissuaaride igakuiseks hoolduseks.",
       "long": "üro lite on painduv lõhnastatud pissuaarisõel, mis on loodud väiksematele pissuaaridele. Selles on sama patenteeritud Sealed Bristles Technology™ nagu pissuaarisõelas ëkcoscreen 60+, kuid suurema läbimõõdu asemel kasutab see pikki harjaseid, mis pakuvad väikeses sõelas suurt pritsmekaitset. See hoiab uriinipritsmed ja ebameeldivad lõhnad minimaalsena. Sõel on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult kuni 30 päeva, mistõttu sobib see ideaalselt pissuaaride igakuiseks hoolduseks.\n\nPissuaarisõela üro lite valmistamisel kasutatakse ringlussevõetud EVA-materjali. Materjali ennast saab ringlusse võtta, kuid kasutatud pissuaarisõela mitte, sest see on bioloogiliselt saastunud. See jõuab prügilasse või põletusse ja seetõttu sisaldab üro lite lisandit Eco-One™. Sõltumatus laborikatses saavutas Eco-One™ lisandiga ëkcos EVA-materjal 3,5 aasta jooksul 93 % biolagunemise ning 5 aasta jooksul prognoositakse kuni 99 %.\n\nüro lite annab väiksematele pissuaaridele suure pritsmekaitse ainulaadsete patenteeritud pikkade harjastega, kompaktses ja kulutõhusas sõelas, mis sisaldab ringlussevõetud ja biolagunevat EVA-materjali.",
@@ -694,7 +694,7 @@
     },
     "ekcoClip": {
       "name": "ëkco clip",
-      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "imageAlt": "Sinine ëkco clip kikilipsu kuju ja pritsmekaitseribadega tualettpoti värskendaja, ülalt vaadatuna mustal taustal",
       "category": "klambriga WC-värskendaja, sobib peaaegu igale WC-potile",
       "short": "ëkco clip on WC-poti servale kinnitatav klambriga WC-värskendaja, mis hoiab lõhnu pidevalt kontrolli all ja WC-kabiinid värskena. See on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult kuni 30 päeva. Tänu painduvale kujule sobib see enamikule WC-potitüüpidele, on lihtne kinnitada ja levitab lõhna hästi.",
       "long": "ëkco clip on WC-poti servale kinnitatav klambriga WC-värskendaja, mis hoiab lõhnu pidevalt kontrolli all ja WC-kabiinid värskena. See on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja see eraldab lõhna järk-järgult kuni 30 päeva. Tänu painduvale kujule sobib see enamikule WC-potitüüpidele, on lihtne kinnitada ja levitab lõhna hästi.\n\nKlambriga WC-värskendaja ëkco clip valmistamisel kasutatakse ringlussevõetud EVA-materjali. Materjali ennast saab ringlusse võtta, kuid kasutatud WC-värskendajat mitte, sest see on bioloogiliselt saastunud. See jõuab prügilasse või põletusse ja seetõttu sisaldab ëkco clip lisandit Eco-One™. Sõltumatus laborikatses saavutas Eco-One™ lisandiga ëkcos EVA-materjal 3,5 aasta jooksul 93 % biolagunemise ning 5 aasta jooksul prognoositakse kuni 99 %.\n\nëkco clip ühendab pideva lõhnatõrje kuni 30 päeva jooksul, lihtsa kinnitamise enamikule WC-pottidele ning ringlussevõetud ja biolaguneva EVA-materjali.",
@@ -718,7 +718,7 @@
     },
     "freshDrop": {
       "name": "frësh drop",
-      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Sinine ja valge frësh drop pisarate õhuvärskendaja pritsmetõrjeharjastega, ülalt vaadatuna mustal taustal",
       "category": "kauakestev WC-õhuvärskendaja, mis ei vaja patareisid",
       "short": "frësh drop on siseruumide õhuvärskendaja, mis on loodud WC-kabiinidesse ja tualettruumidesse. Selle täide on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja eraldab lõhna järk-järgult ilma patareide ja elektrita. Suletud WC-kabiinides, kus ventilatsioon on vähene või puudub, kestab see 60+ päeva, ning seal, kus õhk rohkem liigub, hajub lõhn kiiremini. Veepiisakujuline disain sobib iga tualettruumi sisekujundusega ja kaasasoleva kleeplindiga on see lihtne paigaldada peaaegu igale pinnale. Väikestesse ruumidesse valige kompaktne ëkco loop.",
       "long": "frësh drop on siseruumide õhuvärskendaja, mis on loodud WC-kabiinidesse ja tualettruumidesse. Selle täide on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja eraldab lõhna järk-järgult ilma patareide ja elektrita. Suletud WC-kabiinides, kus ventilatsioon on vähene või puudub, kestab see 60+ päeva, ning seal, kus õhk rohkem liigub, hajub lõhn kiiremini. Veepiisakujuline disain sobib iga tualettruumi sisekujundusega ja kaasasoleva kleeplindiga on see lihtne paigaldada peaaegu igale pinnale. Väikestesse ruumidesse valige kompaktne ëkco loop.\n\nÕhuvärskendaja frësh drop täite valmistamisel kasutatakse ringlussevõetud EVA-materjali ja materjali saab ringlusse võtta. Nii täide kui ka alus sisaldavad lisandit Eco-One™, seega on mõlemad prügilas biolagunevad. Sõltumatus laborikatses saavutas Eco-One™ lisandiga ëkcos EVA-materjal 3,5 aasta jooksul 93 % biolagunemise ning 5 aasta jooksul prognoositakse kuni 99 %.\n\nfrësh drop ühendab 60+ päeva kestva lõhna, lihtsa paigalduse ning ringlussevõetud ja biolaguneva EVA-materjaliga täite WC-kabiinide ja tualettruumide jaoks.",
@@ -746,7 +746,7 @@
     },
     "ezTrap": {
       "name": "ëz trap",
-      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "imageAlt": "Valge ëz trap veevaba pissuaarikassett musta tihendiga, pildistatud nurga all mustal taustal",
       "category": "lõhnu sulgev, lihtsalt hooldatav veevaba pissuaari padrun",
       "short": "ëz trap on uuenduslik padrunisüsteem, mis on loodud veevabade pissuaaride tõhususe, puhtuse ja lõhnatõrje parandamiseks, vähendades samal ajal oluliselt hoolduskulusid.",
       "long": "ëz trap on uuenduslik padrunisüsteem, mis on loodud veevabade pissuaaride tõhususe, puhtuse ja lõhnatõrje parandamiseks, vähendades samal ajal oluliselt hoolduskulusid.\n\nTänu patenteeritud padrunisüsteemile ëz trap voolab uriin loomulikult läbi sifooni ning sulgurkaas sulgub tihedalt pärast iga kasutuskorda. See takistab lõhnade väljapääsu ja tagab, et iga kasutusega eemaldatakse süsteemist vana uriin, hoides tualettruumi värskemana.\n\nPadrun ëz trap on valmistatud lisandiga Eco-One™, mis muudab selle prügilas biolagunevaks. Sõltumatus laborikatses saavutas Eco-One™ lisandiga ëkcos materjal 3,5 aasta jooksul 93 % biolagunemise ning 5 aasta jooksul prognoositakse kuni 99 %.\n\nëz trap on tõhus, vähe hooldust vajav ja kulusid säästev viis hoida kanalisatsioonilõhnad veevabadest pissuaaridest eemal.",
@@ -771,7 +771,7 @@
     },
     "xcrenPuck": {
       "name": "xcrën puck",
-      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "imageAlt": "Sinine xcrën puck X-kujuline pissuaariekraan, millel on keskne litrihoidja, ülalt vaadatuna mustal taustal",
       "category": "X-kujuline pissuaarisõel deodoreeriva tabletiga",
       "short": "xcrën puck on pissuaarisõel NON-PARA deodoreeriva tabletiga, mis on loodud tõhusaks lõhnatõrjeks ja äravoolu kaitsmiseks. See ei sisalda paradiklorobenseeni (PARA), mille WHO liigitab võimalikuks kantserogeeniks. PARA-tablette kasutatakse endiselt mõnes pissuaarisõelas, samas kui EL-i eeskirjad piiravad PARA kasutamist WC-deodorantides. X-kujuline disain takistab tahketel osakestel ja prahil äravoolu ummistamast ning sõel eraldab iga kasutuskorraga puhast ja värsket lõhna kuni 30 päeva.",
       "long": "xcrën puck on pissuaarisõel NON-PARA deodoreeriva tabletiga, mis on loodud tõhusaks lõhnatõrjeks ja äravoolu kaitsmiseks. See ei sisalda paradiklorobenseeni (PARA), mille WHO liigitab võimalikuks kantserogeeniks. PARA-tablette kasutatakse endiselt mõnes pissuaarisõelas, samas kui EL-i eeskirjad piiravad PARA kasutamist WC-deodorantides. X-kujuline disain takistab tahketel osakestel ja prahil äravoolu ummistamast ning sõel eraldab iga kasutuskorraga puhast ja värsket lõhna kuni 30 päeva.\n\nTablett on valmistatud peamiselt vahast ja glütseriinist ning lahustub kasutamise käigus. xcrën puck on valmistatud lisandiga Eco-One™, mis muudab selle prügilas biolagunevaks. Sõltumatus laborikatses saavutas Eco-One™ lisandiga ëkcos materjal 3,5 aasta jooksul 93 % biolagunemise ning 5 aasta jooksul prognoositakse kuni 99 %. Tegemist on ühekordse tootega ja tabletti ei saa uuega asendada.\n\nxcrën puck on lihtne ja tõhus viis hoida pissuaarid värskena ja äravoolud vabana kuni 30 päeva.",
@@ -799,7 +799,7 @@
     },
     "ekcoMat": {
       "name": "ëkco mat",
-      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "imageAlt": "Tumehall ëkco mat imav pissuaari põrandamatt, ülalt vaadatuna mustal taustal",
       "category": "soodne pissuaari põrandamatt, mis kaitseb teie põrandat",
       "short": "ëkco mat on imav pissuaari põrandamatt, mis on loodud tualettruumi hügieeni parandamiseks ja põrandate kaitsmiseks uriini kogunemise eest. Mõõtmetega 54 x 51 x 0,5 cm katab see tõhusalt enamiku standardsete pissuaaride ümbruse, vältides põrandakahjustusi ja vähendades uriini kandumist kasutajate jalatsitaldadel. See aitab hoida tualettruumi puhtamana ja mugavamana.",
       "long": "ëkco mat on imav pissuaari põrandamatt, mis on loodud tualettruumi hügieeni parandamiseks ja põrandate kaitsmiseks uriini kogunemise eest. Mõõtmetega 54 x 51 x 0,5 cm katab see tõhusalt enamiku standardsete pissuaaride ümbruse, vältides põrandakahjustusi ja vähendades uriini kandumist kasutajate jalatsitaldadel. See aitab hoida tualettruumi puhtamana ja mugavamana.\n\nëkco mat on kulutõhus ühekordne lahendus, mis sobib ideaalselt restoranidesse, hotellidesse ja teistesse suure külastatavusega kohtadesse, kus hügieen on esmatähtis.\n\nëkco mat on praktiline, hügieeniline ja soodne lahendus puhaste ja professionaalsete tualettruumide hoidmiseks.",

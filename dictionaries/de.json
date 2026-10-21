@@ -535,14 +535,14 @@
       "brandingNote": "Custom Branding für qualifizierte Aufträge verfügbar."
     },
     "colors": {
-      "white": "White",
-      "grey": "Grey",
-      "black": "Black",
-      "blue": "Blue"
+      "white": "Weiß",
+      "grey": "Grau",
+      "black": "Schwarz",
+      "blue": "Blau"
     },
     "fragrances": {
       "fresh": "Fresh",
-      "citrus": "Citrus"
+      "citrus": "Zitrone"
     },
     "variantLabels": {
       "x1p": "violett / waldbeere",

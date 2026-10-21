@@ -513,36 +513,36 @@
   },
   "products": {
     "page": {
-      "title": "Products",
-      "intro": "Switch models and finishes, then buy in the official store.",
-      "heroEyebrow": "Explore the range",
-      "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
-      "heroLinkEco": "About Eco-One™",
+      "title": "Tuotteet",
+      "intro": "Vaihda malli ja pinta - osta sitten virallisesta kaupasta.",
+      "heroEyebrow": "Tutustu valikoimaan",
+      "heroTitle": "Jokainen linja yhdessä paikassa",
+      "heroSubtitle": "Pinnat ja tuoksut - avaa kauppa, kun olet valmis ostamaan.",
+      "heroLinkEco": "Lisää Eco-One™:sta",
       "heroLinkBranding": "Custom branding"
     },
     "configurator": {
-      "color": "Finish",
-      "selectProduct": "Select product",
-      "fragrance": "Fragrance options",
-      "benefits": "Benefits",
-      "productBenefits": "Product benefits",
-      "availableColorsFragrances": "Available colors & fragrances",
-      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
-      "byBrand": "by ëkcos",
+      "color": "Pinta",
+      "selectProduct": "Valitse tuote",
+      "fragrance": "Tuoksuvalinnat",
+      "benefits": "Hyödyt",
+      "productBenefits": "Tuotehyödyt",
+      "availableColorsFragrances": "Saatavilla olevat värit ja tuoksut",
+      "sixtyDayBadge": "60 päivän PLUS roiskeita estävä pisuaariseula",
+      "byBrand": "ëkcos",
       "siteUrl": "www.ekcos.eu",
-      "useCases": "Typical applications",
-      "brandingNote": "Custom branding available for qualified orders."
+      "useCases": "Tyypilliset käyttökohteet",
+      "brandingNote": "Custom branding saatavilla hyväksytyille tilauksille."
     },
     "colors": {
-      "white": "White",
-      "grey": "Grey",
-      "black": "Black",
-      "blue": "Blue"
+      "white": "Valkoinen",
+      "grey": "Harmaa",
+      "black": "Musta",
+      "blue": "Sininen"
     },
     "fragrances": {
       "fresh": "Fresh",
-      "citrus": "Citrus"
+      "citrus": "Sitrus"
     },
     "variantLabels": {
       "x1p": "violetti / metsämarja",
@@ -559,7 +559,7 @@
     },
     "xcrenHd": {
       "name": "xcrën HD",
-      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Sininen X-muotoinen pisuaarinäyttö xcrën HD, roiskesuojatut harjakset ylhäältä katsottuna mustalla taustalla",
       "category": "näyttävästi muotoiltu urinaalimatto xtreme-roiskesuojalla",
       "badge": "näyttävästi muotoiltu urinaalimatto xtreme-roiskesuojalla",
       "short": "xcrën HD 60+ on tuoksuva urinaalimatto, jonka patentoitu muoto erottuu urinaalissa. Toisin kuin tavalliset soikeat matot, se tekee urinaalista designelementin. Sen patentoidut harjakset (Sealed Bristles Technology™) peittävät 92 % matosta ja minimoivat virtsaroiskeet ja epämiellyttävät hajut. Matto on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen 60+ päivän ajan. Vähemmän käytetyissä WC-tiloissa se kestää vielä pidempään.",
@@ -597,7 +597,7 @@
     },
     "ekcoscreen": {
       "name": "ëkcoscreen",
-      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Sininen ëkcoscreen pisuaarinäyttö suojan muodossa roiskesuojatuilla harjaksilla, ylhäältä katsottuna mustalla taustalla",
       "category": "painava roiskeita estävä urinaalimatto, tuoksu kestää tuplasti",
       "short": "ëkcoscreen 60+ on tuoksuva urinaalimatto, jonka patentoidut harjakset (Sealed Bristles Technology™) peittävät 95 % matosta. Se minimoi virtsaroiskeet ja epämiellyttävät hajut, joten WC-tila pysyy puhtaampana ja viihtyisämpänä. Matto on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen 60+ päivän ajan, kaksi kertaa pidempään kuin tavalliset 30 päivän matot. Vähemmän käytetyissä WC-tiloissa se kestää vielä pidempään.",
       "long": "ëkcoscreen 60+ on tuoksuva urinaalimatto, jonka patentoidut harjakset (Sealed Bristles Technology™) peittävät 95 % matosta. Se minimoi virtsaroiskeet ja epämiellyttävät hajut, joten WC-tila pysyy puhtaampana ja viihtyisämpänä. Matto on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen 60+ päivän ajan, kaksi kertaa pidempään kuin tavalliset 30 päivän matot. Vähemmän käytetyissä WC-tiloissa se kestää vielä pidempään.\n\nëkcoscreen 60+ on suunniteltu vilkkaisiin WC-tiloihin ravintoloissa, baareissa, lentokentillä, kauppakeskuksissa ja muissa hygieniaan panostavissa kohteissa, ja se parantaa siisteyttä ja hajunhallintaa.\n\nëkcoscreen 60+ -urinaalimaton valmistuksessa käytetään kierrätettyä EVA-materiaalia. Itse materiaalin voi kierrättää, mutta käytettyä urinaalimattoa ei, koska se on biologisesti saastunut. Se päätyy kaatopaikalle tai poltettavaksi, ja siksi ëkcoscreen 60+ sisältää Eco-One™-lisäainetta. Riippumattomassa laboratoriotestissä Eco-One™-lisäainetta sisältävästä ëkcos-EVA-materiaalista biohajosi 3,5 vuodessa 93 %, ja ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %.\n\nëkcoscreen 60+ yhdistää tehokkaan roiskesuojan, 60+ päivän tuoksun sekä kierrätettyä, biohajoavaa EVA-materiaalia vilkkaisiin WC-tiloihin.",
@@ -622,7 +622,7 @@
     },
     "powerscreen": {
       "name": "powër screen",
-      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "imageAlt": "Sininen powër screen pyöreä pisuaarinäyttö, jossa tähtipurkauskeskus ja roiskesuojatut harjakset ylhäältä katsottuna mustalla taustalla",
       "category": "tehokkaasti roiskeita estävä urinaalimatto kuukausivaihtoon",
       "short": "powër screen on tuoksuva urinaalimatto, jossa on patentoitu harjasjärjestelmä (Sealed Bristles Technology™). Se minimoi virtsaroiskeet ja epämiellyttävät hajut, joten WC-tila pysyy puhtaampana ja viihtyisämpänä. Matto on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen jopa 30 päivän ajan, joten se sopii erinomaisesti urinaalien kuukausittaiseen huoltoon.",
       "long": "powër screen on tuoksuva urinaalimatto, jossa on patentoitu harjasjärjestelmä (Sealed Bristles Technology™). Se minimoi virtsaroiskeet ja epämiellyttävät hajut, joten WC-tila pysyy puhtaampana ja viihtyisämpänä. Matto on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen jopa 30 päivän ajan, joten se sopii erinomaisesti urinaalien kuukausittaiseen huoltoon.\n\npowër screen -urinaalimaton valmistuksessa käytetään kierrätettyä EVA-materiaalia. Itse materiaalin voi kierrättää, mutta käytettyä urinaalimattoa ei, koska se on biologisesti saastunut. Se päätyy kaatopaikalle tai poltettavaksi, ja siksi powër screen sisältää Eco-One™-lisäainetta. Riippumattomassa laboratoriotestissä Eco-One™-lisäainetta sisältävästä ëkcos-EVA-materiaalista biohajosi 3,5 vuodessa 93 %, ja ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %.\n\npowër screen yhdistää tehokkaan roiskesuojan, jopa 30 päivän tuoksun sekä kierrätettyä, biohajoavaa EVA-materiaalia WC-tilojen kuukausittaiseen ylläpitoon.",
@@ -646,7 +646,7 @@
     },
     "basicScreen": {
       "name": "basic scrëen",
-      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "imageAlt": "Sininen basic scrëen pisuaariseinämä pyöristetty kolmion muotoinen tyhjennysrei'illä, ylhäältä katsottuna mustalla taustalla",
       "category": "kaatopaikalla biohajoava urinaalimatto edulliseen hintaan",
       "short": "basic scrëen on kustannustehokas urinaalimatto, joka poistaa urinaalien hajuja ja estää roskien kertymisen. Matto on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen jopa 30 päivän ajan, joten se sopii erinomaisesti urinaalien kuukausittaiseen huoltoon.",
       "long": "basic scrëen on kustannustehokas urinaalimatto, joka poistaa urinaalien hajuja ja estää roskien kertymisen. Matto on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen jopa 30 päivän ajan, joten se sopii erinomaisesti urinaalien kuukausittaiseen huoltoon.\n\nbasic scrëen -urinaalimaton valmistuksessa käytetään kierrätettyä EVA-materiaalia. Itse materiaalin voi kierrättää, mutta käytettyä urinaalimattoa ei, koska se on biologisesti saastunut. Se päätyy kaatopaikalle tai poltettavaksi, ja siksi basic scrëen sisältää Eco-One™-lisäainetta. Riippumattomassa laboratoriotestissä Eco-One™-lisäainetta sisältävästä ëkcos-EVA-materiaalista biohajosi 3,5 vuodessa 93 %, ja ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %.\n\nbasic scrëen yhdistää luotettavan hajunhallinnan, suojan roskia vastaan sekä kierrätettyä, biohajoavaa EVA-materiaalia edulliseen hintaan.",
@@ -670,7 +670,7 @@
     },
     "urolite": {
       "name": "üro lite",
-      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Sininen üro lite pienikokoinen urinaalinäyttö suojamaisessa muodossa roiskesuojatuilla harjaksilla, ylhäältä katsottuna mustalla taustalla",
       "category": "pieni urinaalimatto, suuri roiskesuoja",
       "short": "üro lite on joustava, tuoksuva urinaalimatto, joka on suunniteltu pienempiin urinaaleihin. Siinä on sama patentoitu Sealed Bristles Technology™ kuin ëkcoscreen 60+ -urinaalimatossa, mutta suuremman halkaisijan sijaan se luottaa pitkiin harjaksiin, jotka antavat suuren roiskesuojan pienessä matossa. Se pitää virtsaroiskeet ja epämiellyttävät hajut minimissä. Matto on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen jopa 30 päivän ajan, joten se sopii erinomaisesti urinaalien kuukausittaiseen huoltoon.",
       "long": "üro lite on joustava, tuoksuva urinaalimatto, joka on suunniteltu pienempiin urinaaleihin. Siinä on sama patentoitu Sealed Bristles Technology™ kuin ëkcoscreen 60+ -urinaalimatossa, mutta suuremman halkaisijan sijaan se luottaa pitkiin harjaksiin, jotka antavat suuren roiskesuojan pienessä matossa. Se pitää virtsaroiskeet ja epämiellyttävät hajut minimissä. Matto on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen jopa 30 päivän ajan, joten se sopii erinomaisesti urinaalien kuukausittaiseen huoltoon.\n\nüro lite -urinaalimaton valmistuksessa käytetään kierrätettyä EVA-materiaalia. Itse materiaalin voi kierrättää, mutta käytettyä urinaalimattoa ei, koska se on biologisesti saastunut. Se päätyy kaatopaikalle tai poltettavaksi, ja siksi üro lite sisältää Eco-One™-lisäainetta. Riippumattomassa laboratoriotestissä Eco-One™-lisäainetta sisältävästä ëkcos-EVA-materiaalista biohajosi 3,5 vuodessa 93 %, ja ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %.\n\nüro lite antaa pienemmille urinaaleille suuren roiskesuojan ainutlaatuisilla, patentoiduilla pitkillä harjaksillaan. Kompakti ja kustannustehokas matto sisältää kierrätettyä, biohajoavaa EVA-materiaalia.",
@@ -694,7 +694,7 @@
     },
     "ekcoClip": {
       "name": "ëkco clip",
-      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "imageAlt": "Sininen ëkco clip wc-kulhojen raikastin rusetin muotoisella ja roiskesuojattuilla harjanteilla ylhäältä katsottuna mustalla taustalla",
       "category": "WC-raikastinklipsi, joka sopii lähes kaikkiin WC-pönttöihin",
       "short": "ëkco clip on WC-pöntön reunaan kiinnitettävä raikastinklipsi, joka hallitsee hajuja jatkuvasti ja pitää WC-kopit raikkaina. Se on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen jopa 30 päivän ajan. Joustavan muotonsa ansiosta se sopii useimpiin WC-pönttömalleihin, on helppo kiinnittää ja levittää tuoksua hyvin.",
       "long": "ëkco clip on WC-pöntön reunaan kiinnitettävä raikastinklipsi, joka hallitsee hajuja jatkuvasti ja pitää WC-kopit raikkaina. Se on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen jopa 30 päivän ajan. Joustavan muotonsa ansiosta se sopii useimpiin WC-pönttömalleihin, on helppo kiinnittää ja levittää tuoksua hyvin.\n\nëkco clip -klipsin valmistuksessa käytetään kierrätettyä EVA-materiaalia. Itse materiaalin voi kierrättää, mutta käytettyä WC-raikastinklipsiä ei, koska se on biologisesti saastunut. Se päätyy kaatopaikalle tai poltettavaksi, ja siksi ëkco clip sisältää Eco-One™-lisäainetta. Riippumattomassa laboratoriotestissä Eco-One™-lisäainetta sisältävästä ëkcos-EVA-materiaalista biohajosi 3,5 vuodessa 93 %, ja ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %.\n\nëkco clip yhdistää jatkuvan hajunhallinnan jopa 30 päivän ajan, helpon kiinnityksen useimpiin WC-pönttöihin sekä kierrätettyä, biohajoavaa EVA-materiaalia.",
@@ -718,7 +718,7 @@
     },
     "freshDrop": {
       "name": "frësh drop",
-      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Sininen ja valkoinen frësh drop kyynelilmanraikastin roiskesuojatuilla harjaksilla ylhäältä katsottuna mustalla taustalla",
       "category": "pitkäkestoinen WC-ilmanraikastin, joka ei tarvitse paristoja",
       "short": "frësh drop on sisätiloihin tarkoitettu ilmanraikastin, joka on suunniteltu WC-koppeihin ja WC-tiloihin. Sen tuoksuosa on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen ilman paristoja tai sähköä. Suljetuissa WC-kopeissa, joissa on vähän tai ei lainkaan ilmanvaihtoa, se kestää 60+ päivää, ja missä ilma liikkuu enemmän, tuoksu haihtuu nopeammin. Vesipisaran muotoinen raikastin sopii mihin tahansa WC-tilan sisustukseen, ja mukana tuleva kiinnitysteippi tekee asennuksesta helppoa lähes mille tahansa pinnalle. Pieniin tiloihin kannattaa valita kompakti ëkco loop.",
       "long": "frësh drop on sisätiloihin tarkoitettu ilmanraikastin, joka on suunniteltu WC-koppeihin ja WC-tiloihin. Sen tuoksuosa on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen ilman paristoja tai sähköä. Suljetuissa WC-kopeissa, joissa on vähän tai ei lainkaan ilmanvaihtoa, se kestää 60+ päivää, ja missä ilma liikkuu enemmän, tuoksu haihtuu nopeammin. Vesipisaran muotoinen raikastin sopii mihin tahansa WC-tilan sisustukseen, ja mukana tuleva kiinnitysteippi tekee asennuksesta helppoa lähes mille tahansa pinnalle. Pieniin tiloihin kannattaa valita kompakti ëkco loop.\n\nfrësh drop -raikastimen tuoksuosan valmistuksessa käytetään kierrätettyä EVA-materiaalia, ja materiaali on kierrätettävissä. Sekä tuoksuosa että pohjaosa sisältävät Eco-One™-lisäainetta, joten molemmat ovat biohajoavia kaatopaikalla. Riippumattomassa laboratoriotestissä Eco-One™-lisäainetta sisältävästä ëkcos-EVA-materiaalista biohajosi 3,5 vuodessa 93 %, ja ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %.\n\nfrësh drop yhdistää WC-koppeihin ja WC-tiloihin 60+ päivän tuoksun, helpon asennuksen ja tuoksuosan, joka sisältää kierrätettyä, biohajoavaa EVA-materiaalia.",
@@ -746,7 +746,7 @@
     },
     "ezTrap": {
       "name": "ëz trap",
-      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "imageAlt": "Valkoinen ëz trap vedetön pisuaaripatruuna mustalla sinetillä, kuvattuna kulmassa mustalla taustalla",
       "category": "hajutiivis, helppohoitoinen vedettömän urinaalin patruuna",
       "short": "ëz trap on innovatiivinen patruunajärjestelmä, joka on suunniteltu parantamaan vedettömien urinaalien tehokkuutta, puhtautta ja hajunhallintaa ja samalla vähentämään huoltokustannuksia merkittävästi.",
       "long": "ëz trap on innovatiivinen patruunajärjestelmä, joka on suunniteltu parantamaan vedettömien urinaalien tehokkuutta, puhtautta ja hajunhallintaa ja samalla vähentämään huoltokustannuksia merkittävästi.\n\nPatentoidun ëz trap -patruunajärjestelmän ansiosta virtsa virtaa luonnollisesti hajulukon läpi, ja sulkukansi sulkeutuu tiiviisti jokaisen käytön jälkeen. Tämä estää hajujen pääsyn ulos ja varmistaa, että vanha virtsa poistuu järjestelmästä jokaisella käyttökerralla, mikä pitää WC-tilan raikkaampana.\n\nëz trap -patruunan valmistuksessa on käytetty Eco-One™-lisäainetta, joka tekee siitä biohajoavan kaatopaikalla. Riippumattomassa laboratoriotestissä Eco-One™-lisäainetta sisältävästä ëkcos-materiaalista biohajosi 3,5 vuodessa 93 %, ja ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %.\n\nëz trap on tehokas, vähän huoltoa vaativa ja kustannuksia säästävä tapa pitää viemärihajut poissa vedettömistä urinaaleista.",
@@ -771,7 +771,7 @@
     },
     "xcrenPuck": {
       "name": "xcrën puck",
-      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "imageAlt": "Sininen xcrën puck X-muotoinen pisuaarinäyttö, jossa on keskellä oleva kiekkopidike, ylhäältä katsottuna mustalla taustalla",
       "category": "X-muotoinen urinaalimatto hajunpoistotabletilla",
       "short": "xcrën puck on urinaalimatto, jossa on NON-PARA-hajunpoistotabletti, ja se on suunniteltu tehokkaaseen hajunhallintaan ja viemärin suojaamiseen. Se ei sisällä paradiklooribentseeniä (PARA), jonka WHO luokittelee mahdollisesti syöpää aiheuttavaksi. PARA-tabletteja käytetään yhä joissakin urinaalimatoissa, kun taas EU:n säännöt rajoittavat PARA:n käyttöä WC-raikastimissa. X-muotoinen rakenne estää kiinteitä aineita ja roskia tukkimasta viemäriä, ja matto vapauttaa puhtaan, raikkaan tuoksun jokaisella käyttökerralla jopa 30 päivän ajan.",
       "long": "xcrën puck on urinaalimatto, jossa on NON-PARA-hajunpoistotabletti, ja se on suunniteltu tehokkaaseen hajunhallintaan ja viemärin suojaamiseen. Se ei sisällä paradiklooribentseeniä (PARA), jonka WHO luokittelee mahdollisesti syöpää aiheuttavaksi. PARA-tabletteja käytetään yhä joissakin urinaalimatoissa, kun taas EU:n säännöt rajoittavat PARA:n käyttöä WC-raikastimissa. X-muotoinen rakenne estää kiinteitä aineita ja roskia tukkimasta viemäriä, ja matto vapauttaa puhtaan, raikkaan tuoksun jokaisella käyttökerralla jopa 30 päivän ajan.\n\nTabletti on valmistettu pääasiassa vahasta ja glyseriinistä, ja se liukenee käytössä. xcrën puck -urinaalimaton valmistuksessa on käytetty Eco-One™-lisäainetta, joka tekee siitä biohajoavan kaatopaikalla. Riippumattomassa laboratoriotestissä Eco-One™-lisäainetta sisältävästä ëkcos-materiaalista biohajosi 3,5 vuodessa 93 %, ja ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %. Kyseessä on kertakäyttötuote, eikä tablettia voi vaihtaa uuteen.\n\nxcrën puck on yksinkertainen ja tehokas tapa pitää urinaalit raikkaina ja viemärit auki jopa 30 päivän ajan.",
@@ -799,7 +799,7 @@
     },
     "ekcoMat": {
       "name": "ëkco mat",
-      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "imageAlt": "Tummanharmaa ëkco mat imukykyinen pisuaarilattiamatto, ylhäältä katsottuna mustalla taustalla",
       "category": "edullinen urinaalin lattiamatto, joka suojaa lattiaa",
       "short": "ëkco mat on imukykyinen urinaalin lattiamatto, joka on suunniteltu parantamaan WC-tilojen hygieniaa ja suojaamaan lattiaa virtsan kertymiseltä. Mitoiltaan 54 x 51 x 0,5 cm matto peittää tehokkaasti useimpien vakiokokoisten urinaalien ympäristön, estää lattiavaurioita ja vähentää virtsan kulkeutumista käyttäjien kengänpohjissa. Tämä auttaa pitämään WC-tilan puhtaampana ja viihtyisämpänä.",
       "long": "ëkco mat on imukykyinen urinaalin lattiamatto, joka on suunniteltu parantamaan WC-tilojen hygieniaa ja suojaamaan lattiaa virtsan kertymiseltä. Mitoiltaan 54 x 51 x 0,5 cm matto peittää tehokkaasti useimpien vakiokokoisten urinaalien ympäristön, estää lattiavaurioita ja vähentää virtsan kulkeutumista käyttäjien kengänpohjissa. Tämä auttaa pitämään WC-tilan puhtaampana ja viihtyisämpänä.\n\nëkco mat on kustannustehokas kertakäyttöratkaisu, joka sopii ihanteellisesti ravintoloihin, hotelleihin ja muihin vilkkaisiin kohteisiin, joissa hygienia on etusijalla.\n\nëkco mat on käytännöllinen, hygieeninen ja budjettiystävällinen ratkaisu puhtaiden ja ammattimaisten WC-tilojen ylläpitoon.",

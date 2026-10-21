@@ -513,32 +513,32 @@
   },
   "products": {
     "page": {
-      "title": "Products",
-      "intro": "Switch models and finishes, then buy in the official store.",
-      "heroEyebrow": "Explore the range",
-      "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
-      "heroLinkEco": "About Eco-One™",
+      "title": "Producten",
+      "intro": "Wissel model en afwerking - koop daarna in de officiële webshop.",
+      "heroEyebrow": "Ontdek het assortiment",
+      "heroTitle": "Elke lijn op één plek",
+      "heroSubtitle": "Afwerkingen en geuren - open de shop wanneer u wilt kopen.",
+      "heroLinkEco": "Meer over Eco-One™",
       "heroLinkBranding": "Custom branding"
     },
     "configurator": {
-      "color": "Finish",
-      "selectProduct": "Select product",
-      "fragrance": "Fragrance options",
-      "benefits": "Benefits",
-      "productBenefits": "Product benefits",
-      "availableColorsFragrances": "Available colors & fragrances",
-      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
-      "byBrand": "by ëkcos",
+      "color": "Afwerking",
+      "selectProduct": "Product selecteren",
+      "fragrance": "Geuropties",
+      "benefits": "Voordelen",
+      "productBenefits": "Productvoordelen",
+      "availableColorsFragrances": "Beschikbare kleuren & geuren",
+      "sixtyDayBadge": "60 dagen PLUS anti-splash urinoirzeef",
+      "byBrand": "van ëkcos",
       "siteUrl": "www.ekcos.eu",
-      "useCases": "Typical applications",
-      "brandingNote": "Custom branding available for qualified orders."
+      "useCases": "Typische toepassingen",
+      "brandingNote": "Custom branding beschikbaar voor gekwalificeerde orders."
     },
     "colors": {
-      "white": "White",
-      "grey": "Grey",
-      "black": "Black",
-      "blue": "Blue"
+      "white": "Wit",
+      "grey": "Grijs",
+      "black": "Zwart",
+      "blue": "Blauw"
     },
     "fragrances": {
       "fresh": "Fresh",
@@ -559,7 +559,7 @@
     },
     "xcrenHd": {
       "name": "xcrën HD",
-      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Blauw xcrën HD urinoirscherm in X-vorm met borstelharen tegen spatten, van bovenaf gezien op een zwarte achtergrond",
       "category": "urinoirmat met topdesign en xtreme spatbescherming",
       "badge": "urinoirmat met topdesign en xtreme spatbescherming",
       "short": "xcrën HD 60+ is een geurende urinoirmat met een gepatenteerde vorm die opvalt in het urinoir. Anders dan gangbare ovale matten maakt hij van het urinoir een designelement. Zijn gepatenteerde borstels (Sealed Bristles Technology™) bedekken 92% van de mat en beperken urinespatten en onaangename geuren tot een minimum. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft 60+ dagen lang geleidelijk geur af. In minder drukke toiletruimtes gaat de mat zelfs nog langer mee.",
@@ -597,7 +597,7 @@
     },
     "ekcoscreen": {
       "name": "ëkcoscreen",
-      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Blauw ëkcoscreen urinoirscherm in schildvorm met opspattend borstelharen, van bovenaf gezien op een zwarte achtergrond",
       "category": "zware anti-spat urinoirmat met dubbele geurduur",
       "short": "ëkcoscreen 60+ is een geurende urinoirmat met gepatenteerde borstels (Sealed Bristles Technology™) die 95% van de mat bedekken. Hij beperkt urinespatten en onaangename geuren tot een minimum, voor een schonere, comfortabelere toiletruimte. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft 60+ dagen lang geleidelijk geur af, twee keer zo lang als standaard urinoirmatten van 30 dagen. In minder drukke toiletruimtes gaat de mat zelfs nog langer mee.",
       "long": "ëkcoscreen 60+ is een geurende urinoirmat met gepatenteerde borstels (Sealed Bristles Technology™) die 95% van de mat bedekken. Hij beperkt urinespatten en onaangename geuren tot een minimum, voor een schonere, comfortabelere toiletruimte. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft 60+ dagen lang geleidelijk geur af, twee keer zo lang als standaard urinoirmatten van 30 dagen. In minder drukke toiletruimtes gaat de mat zelfs nog langer mee.\n\nOntworpen voor drukbezochte toiletruimtes in restaurants, bars, luchthavens, winkelcentra en andere locaties waar hygiëne centraal staat, zorgt ëkcoscreen 60+ voor meer netheid en betere geurbeheersing.\n\nëkcoscreen 60+ wordt gemaakt met gerecycled EVA. Het materiaal zelf is recyclebaar, maar een gebruikte urinoirmat niet, omdat die biologisch verontreinigd is. Die belandt op de stortplaats of in de verbrandingsoven, en daarom bevat ëkcoscreen 60+ het additief Eco-One™. In een onafhankelijke laboratoriumtest bereikte EVA van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, en binnen 5 jaar wordt tot 99% verwacht.\n\nëkcoscreen 60+ combineert effectieve spatbescherming, 60+ dagen geur en gerecycled, biologisch afbreekbaar EVA voor drukbezochte toiletruimtes.",
@@ -622,7 +622,7 @@
     },
     "powerscreen": {
       "name": "powër screen",
-      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "imageAlt": "Blauw powër screen rond urinoirscherm met een starburst-centrum en borstelharen met tegen spatten, van bovenaf gezien op een zwarte achtergrond",
       "category": "krachtige anti-spat urinoirmat voor maandelijkse vervanging",
       "short": "powër screen is een geurende urinoirmat met een gepatenteerd borstelsysteem (Sealed Bristles Technology™). Hij beperkt urinespatten en onaangename geuren tot een minimum, voor een schonere, comfortabelere toiletruimte. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft tot 30 dagen lang geleidelijk geur af, waardoor de mat ideaal is voor het maandelijkse onderhoud van urinoirs.",
       "long": "powër screen is een geurende urinoirmat met een gepatenteerd borstelsysteem (Sealed Bristles Technology™). Hij beperkt urinespatten en onaangename geuren tot een minimum, voor een schonere, comfortabelere toiletruimte. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft tot 30 dagen lang geleidelijk geur af, waardoor de mat ideaal is voor het maandelijkse onderhoud van urinoirs.\n\npowër screen wordt gemaakt met gerecycled EVA. Het materiaal zelf is recyclebaar, maar een gebruikte urinoirmat niet, omdat die biologisch verontreinigd is. Die belandt op de stortplaats of in de verbrandingsoven, en daarom bevat powër screen het additief Eco-One™. In een onafhankelijke laboratoriumtest bereikte EVA van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, en binnen 5 jaar wordt tot 99% verwacht.\n\npowër screen combineert effectieve spatbescherming, tot 30 dagen geur en gerecycled, biologisch afbreekbaar EVA voor het maandelijkse onderhoud van toiletruimtes.",
@@ -646,7 +646,7 @@
     },
     "basicScreen": {
       "name": "basic scrëen",
-      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "imageAlt": "Blauw basic scrëen urinoirscherm in een afgeronde driehoekige vorm met afvoergaten, van bovenaf gezien op een zwarte achtergrond",
       "category": "voordelige urinoirmat, biologisch afbreekbaar op de stortplaats",
       "short": "basic scrëen is een voordelige urinoirmat die urinoirs ontgeurt en voorkomt dat vuil zich ophoopt. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft tot 30 dagen lang geleidelijk geur af, waardoor de mat ideaal is voor het maandelijkse onderhoud van urinoirs.",
       "long": "basic scrëen is een voordelige urinoirmat die urinoirs ontgeurt en voorkomt dat vuil zich ophoopt. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft tot 30 dagen lang geleidelijk geur af, waardoor de mat ideaal is voor het maandelijkse onderhoud van urinoirs.\n\nbasic scrëen wordt gemaakt met gerecycled EVA. Het materiaal zelf is recyclebaar, maar een gebruikte urinoirmat niet, omdat die biologisch verontreinigd is. Die belandt op de stortplaats of in de verbrandingsoven, en daarom bevat basic scrëen het additief Eco-One™. In een onafhankelijke laboratoriumtest bereikte EVA van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, en binnen 5 jaar wordt tot 99% verwacht.\n\nbasic scrëen combineert betrouwbare geurbeheersing, bescherming tegen vuil en gerecycled, biologisch afbreekbaar EVA tegen lage kosten.",
@@ -670,7 +670,7 @@
     },
     "urolite": {
       "name": "üro lite",
-      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Blauw üro lite compact urinoirscherm in schildvorm met borstelharen tegen spatten, van bovenaf gezien op een zwarte achtergrond",
       "category": "kleine urinoirmat, grote spatbescherming",
       "short": "üro lite is een flexibele, geurende urinoirmat, ontworpen voor kleinere urinoirs. Hij werkt met dezelfde gepatenteerde Sealed Bristles Technology™ als ëkcoscreen 60+ en vertrouwt in plaats van op een grotere diameter op lange borstels, die in een kleine mat voor grote spatbescherming zorgen. Hij beperkt urinespatten en onaangename geuren tot een minimum. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft tot 30 dagen lang geleidelijk geur af, waardoor de mat ideaal is voor het maandelijkse onderhoud van urinoirs.",
       "long": "üro lite is een flexibele, geurende urinoirmat, ontworpen voor kleinere urinoirs. Hij werkt met dezelfde gepatenteerde Sealed Bristles Technology™ als ëkcoscreen 60+ en vertrouwt in plaats van op een grotere diameter op lange borstels, die in een kleine mat voor grote spatbescherming zorgen. Hij beperkt urinespatten en onaangename geuren tot een minimum. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft tot 30 dagen lang geleidelijk geur af, waardoor de mat ideaal is voor het maandelijkse onderhoud van urinoirs.\n\nüro lite wordt gemaakt met gerecycled EVA. Het materiaal zelf is recyclebaar, maar een gebruikte urinoirmat niet, omdat die biologisch verontreinigd is. Die belandt op de stortplaats of in de verbrandingsoven, en daarom bevat üro lite het additief Eco-One™. In een onafhankelijke laboratoriumtest bereikte EVA van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, en binnen 5 jaar wordt tot 99% verwacht.\n\nüro lite geeft kleinere urinoirs grote spatbescherming dankzij zijn unieke, gepatenteerde lange borstels, in een compacte, voordelige mat gemaakt met gerecycled, biologisch afbreekbaar EVA.",
@@ -694,7 +694,7 @@
     },
     "ekcoClip": {
       "name": "ëkco clip",
-      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "imageAlt": "Blauwe ëkco clip toiletverfrisser in vlinderdasvorm en opspattende randen, van bovenaf gezien op een zwarte achtergrond",
       "category": "frisse toiletclip die op bijna elke toiletpot past",
       "short": "ëkco clip is een verfrissende toiletclip die zorgt voor continue geurbeheersing en toiletcabines fris houdt. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft tot 30 dagen lang geleidelijk geur af. Dankzij het flexibele ontwerp past de clip op de meeste soorten toiletpotten, is hij eenvoudig te bevestigen en verspreidt hij de geur goed.",
       "long": "ëkco clip is een verfrissende toiletclip die zorgt voor continue geurbeheersing en toiletcabines fris houdt. Het zelf ontwikkelde materiaal is doordrenkt met een geur op deodorantbasis en geeft tot 30 dagen lang geleidelijk geur af. Dankzij het flexibele ontwerp past de clip op de meeste soorten toiletpotten, is hij eenvoudig te bevestigen en verspreidt hij de geur goed.\n\nëkco clip wordt gemaakt met gerecycled EVA. Het materiaal zelf is recyclebaar, maar een gebruikte toiletclip niet, omdat die biologisch verontreinigd is. Die belandt op de stortplaats of in de verbrandingsoven, en daarom bevat ëkco clip het additief Eco-One™. In een onafhankelijke laboratoriumtest bereikte EVA van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, en binnen 5 jaar wordt tot 99% verwacht.\n\nëkco clip combineert continue geurbeheersing tot 30 dagen, eenvoudige bevestiging op de meeste toiletpotten en gerecycled, biologisch afbreekbaar EVA.",
@@ -718,7 +718,7 @@
     },
     "freshDrop": {
       "name": "frësh drop",
-      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Blauw-witte frësh drop traanvormige luchtverfrisser met borstelharen met spatbeheersing, van bovenaf gezien op een zwarte achtergrond",
       "category": "langwerkende wc-luchtverfrisser zonder batterijen",
       "short": "frësh drop is een luchtverfrisser voor binnen, ontworpen voor toiletcabines en toiletruimtes. De navulling, gemaakt van zelf ontwikkeld materiaal doordrenkt met een geur op deodorantbasis, geeft geleidelijk geur af zonder batterijen of stroom. In gesloten toiletcabines met weinig of geen ventilatie gaat hij 60+ dagen mee; waar de lucht meer beweegt, vervliegt de geur sneller. Het druppelvormige ontwerp past bij elk toiletinterieur, en met de meegeleverde plakstrip is hij eenvoudig op bijna elk oppervlak te bevestigen. Voor kleine ruimtes kiest u de compacte ëkco loop.",
       "long": "frësh drop is een luchtverfrisser voor binnen, ontworpen voor toiletcabines en toiletruimtes. De navulling, gemaakt van zelf ontwikkeld materiaal doordrenkt met een geur op deodorantbasis, geeft geleidelijk geur af zonder batterijen of stroom. In gesloten toiletcabines met weinig of geen ventilatie gaat hij 60+ dagen mee; waar de lucht meer beweegt, vervliegt de geur sneller. Het druppelvormige ontwerp past bij elk toiletinterieur, en met de meegeleverde plakstrip is hij eenvoudig op bijna elk oppervlak te bevestigen. Voor kleine ruimtes kiest u de compacte ëkco loop.\n\nDe navulling van de frësh drop wordt gemaakt met gerecycled EVA, en het materiaal is recyclebaar. Navulling en houder bevatten allebei het additief Eco-One™ en zijn daardoor allebei biologisch afbreekbaar op de stortplaats. In een onafhankelijke laboratoriumtest bereikte EVA van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, en binnen 5 jaar wordt tot 99% verwacht.\n\nfrësh drop combineert 60+ dagen geur, eenvoudige montage en een navulling met gerecycled, biologisch afbreekbaar EVA voor toiletcabines en toiletruimtes.",
@@ -746,7 +746,7 @@
     },
     "ezTrap": {
       "name": "ëz trap",
-      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "imageAlt": "Witte ëz trap waterloze urinoirpatroon met zwarte afdichting, schuin gefotografeerd op een zwarte achtergrond",
       "category": "geurafsluitend, onderhoudsarm patroon voor waterloze urinoirs",
       "short": "ëz trap is een innovatief patroonsysteem, ontworpen om de efficiëntie, netheid en geurbeheersing van waterloze urinoirs te verbeteren en tegelijk de onderhoudskosten aanzienlijk te verlagen.",
       "long": "ëz trap is een innovatief patroonsysteem, ontworpen om de efficiëntie, netheid en geurbeheersing van waterloze urinoirs te verbeteren en tegelijk de onderhoudskosten aanzienlijk te verlagen.\n\nMet het gepatenteerde patroonsysteem van ëz trap stroomt urine op natuurlijke wijze door de sifon, en een afsluitdop sluit na elk gebruik af. Dit voorkomt dat geuren ontsnappen en zorgt ervoor dat bij elk gebruik oude urine uit het systeem wordt verwijderd, voor een frissere toiletruimte.\n\nëz trap wordt gemaakt met het additief Eco-One™, waardoor het patroon biologisch afbreekbaar is op de stortplaats. In een onafhankelijke laboratoriumtest bereikte materiaal van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, en binnen 5 jaar wordt tot 99% verwacht.\n\nëz trap biedt een efficiënte, onderhoudsarme en kostenbesparende manier om rioolgeuren uit waterloze urinoirs te weren.",
@@ -771,7 +771,7 @@
     },
     "xcrenPuck": {
       "name": "xcrën puck",
-      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "imageAlt": "Blauw xcrën puck X-vormig urinoirscherm met centrale puckhouder, van bovenaf gezien op een zwarte achtergrond",
       "category": "X-vormige urinoirmat met deodoriserende puck",
       "short": "xcrën puck is een urinoirmat met een deodoriserende NON-PARA-puck, ontworpen voor effectieve geurbeheersing en bescherming van de afvoer. Hij bevat geen paradichloorbenzeen (PARA), dat door de WHO als mogelijk kankerverwekkend is geclassificeerd. PARA-pucks worden nog in sommige urinoirmatten gebruikt, terwijl EU-regels PARA in toiletverfrissers beperken. Het X-vormige ontwerp voorkomt dat vaste stoffen en vuil de afvoer verstoppen, en bij elk gebruik komt tot 30 dagen lang een schone, frisse geur vrij.",
       "long": "xcrën puck is een urinoirmat met een deodoriserende NON-PARA-puck, ontworpen voor effectieve geurbeheersing en bescherming van de afvoer. Hij bevat geen paradichloorbenzeen (PARA), dat door de WHO als mogelijk kankerverwekkend is geclassificeerd. PARA-pucks worden nog in sommige urinoirmatten gebruikt, terwijl EU-regels PARA in toiletverfrissers beperken. Het X-vormige ontwerp voorkomt dat vaste stoffen en vuil de afvoer verstoppen, en bij elk gebruik komt tot 30 dagen lang een schone, frisse geur vrij.\n\nDe puck bestaat voornamelijk uit was en glycerine en lost op bij gebruik. xcrën puck wordt gemaakt met het additief Eco-One™, waardoor hij biologisch afbreekbaar is op de stortplaats. In een onafhankelijke laboratoriumtest bereikte materiaal van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, en binnen 5 jaar wordt tot 99% verwacht. Het is een wegwerpproduct: de puck kan niet worden vervangen door een nieuwe.\n\nxcrën puck is een eenvoudige, effectieve manier om urinoirs tot 30 dagen fris en afvoeren vrij te houden.",
@@ -799,7 +799,7 @@
     },
     "ekcoMat": {
       "name": "ëkco mat",
-      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "imageAlt": "Donkergrijze ëkco mat absorberende urinoirvloermat, van bovenaf gezien op een zwarte achtergrond",
       "category": "voordelige urinoirvloermat die uw vloer beschermt",
       "short": "ëkco mat is een absorberende urinoirvloermat, ontworpen om de hygiëne in toiletruimtes te verbeteren en vloeren te beschermen tegen urineophoping. Met afmetingen van 54 x 51 x 0,5 cm bedekt hij effectief de zone rond de meeste standaardurinoirs, voorkomt hij vloerschade en vermindert hij de overdracht van urine via de schoenzolen van gebruikers. Dit helpt de toiletruimte schoner en comfortabeler te houden.",
       "long": "ëkco mat is een absorberende urinoirvloermat, ontworpen om de hygiëne in toiletruimtes te verbeteren en vloeren te beschermen tegen urineophoping. Met afmetingen van 54 x 51 x 0,5 cm bedekt hij effectief de zone rond de meeste standaardurinoirs, voorkomt hij vloerschade en vermindert hij de overdracht van urine via de schoenzolen van gebruikers. Dit helpt de toiletruimte schoner en comfortabeler te houden.\n\nëkco mat is een voordelige wegwerpoplossing, ideaal voor restaurants, hotels en andere drukbezochte locaties waar hygiëne prioriteit heeft.\n\nëkco mat biedt een praktische, hygiënische en budgetvriendelijke oplossing voor schone en professionele toiletruimtes.",

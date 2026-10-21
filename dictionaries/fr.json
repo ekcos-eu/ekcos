@@ -535,14 +535,14 @@
       "brandingNote": "Marque personnalisée disponible pour commandes qualifiées."
     },
     "colors": {
-      "white": "White",
-      "grey": "Grey",
-      "black": "Black",
-      "blue": "Blue"
+      "white": "Blanc",
+      "grey": "Gris",
+      "black": "Noir",
+      "blue": "Bleu"
     },
     "fragrances": {
       "fresh": "Fresh",
-      "citrus": "Citrus"
+      "citrus": "Agrumes"
     },
     "variantLabels": {
       "x1p": "violet / fruits rouges",

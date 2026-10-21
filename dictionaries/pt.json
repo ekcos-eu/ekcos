@@ -513,36 +513,36 @@
   },
   "products": {
     "page": {
-      "title": "Products",
-      "intro": "Switch models and finishes, then buy in the official store.",
-      "heroEyebrow": "Explore the range",
-      "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
-      "heroLinkEco": "About Eco-One™",
-      "heroLinkBranding": "Custom branding"
+      "title": "Produtos",
+      "intro": "Mude o modelo e o acabamento - depois compre na loja oficial.",
+      "heroEyebrow": "Explore a gama",
+      "heroTitle": "Cada linha num só lugar",
+      "heroSubtitle": "Acabamentos e fragrâncias - abra a loja quando quiser comprar.",
+      "heroLinkEco": "Mais sobre Eco-One™",
+      "heroLinkBranding": "Branding personalizado"
     },
     "configurator": {
-      "color": "Finish",
-      "selectProduct": "Select product",
-      "fragrance": "Fragrance options",
-      "benefits": "Benefits",
-      "productBenefits": "Product benefits",
-      "availableColorsFragrances": "Available colors & fragrances",
-      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
-      "byBrand": "by ëkcos",
+      "color": "Acabamento",
+      "selectProduct": "Selecionar produto",
+      "fragrance": "Opções de fragrância",
+      "benefits": "Benefícios",
+      "productBenefits": "Benefícios do produto",
+      "availableColorsFragrances": "Cores e fragrâncias disponíveis",
+      "sixtyDayBadge": "Ecrã de urinol anti-salpicos PLUS 60 dias",
+      "byBrand": "da ëkcos",
       "siteUrl": "www.ekcos.eu",
-      "useCases": "Typical applications",
-      "brandingNote": "Custom branding available for qualified orders."
+      "useCases": "Aplicações típicas",
+      "brandingNote": "Branding personalizado disponível para encomendas qualificadas."
     },
     "colors": {
-      "white": "White",
-      "grey": "Grey",
-      "black": "Black",
-      "blue": "Blue"
+      "white": "Branco",
+      "grey": "Cinzento",
+      "black": "Preto",
+      "blue": "Azul"
     },
     "fragrances": {
       "fresh": "Fresh",
-      "citrus": "Citrus"
+      "citrus": "Citrinos"
     },
     "variantLabels": {
       "x1p": "roxo / frutos silvestres",
@@ -559,7 +559,7 @@
     },
     "xcrenHd": {
       "name": "xcrën HD",
-      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Tela de urinol xcrën HD azul em forma de X com cerdas anti-respingos, vista de cima em um fundo preto",
       "category": "tapete para urinol de design com proteção extrema anti-salpicos",
       "badge": "tapete para urinol de design com proteção extrema anti-salpicos",
       "short": "O xcrën HD 60+ é um tapete perfumado para urinol com uma forma patenteada que se destaca no urinol. Ao contrário dos habituais tapetes ovais, transforma o urinol num elemento de design. As suas cerdas patenteadas (Sealed Bristles Technology™) cobrem 92% do tapete e minimizam os salpicos de urina e os maus odores. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante 60+ dias. Em casas de banho de pouca afluência, dura ainda mais.",
@@ -597,7 +597,7 @@
     },
     "ekcoscreen": {
       "name": "ëkcoscreen",
-      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Tela de urinol ëkcoscreen azul em forma de escudo com cerdas anti-respingos, vista de cima em um fundo preto",
       "category": "tapete pesado anti-salpicos para urinol, aroma que dura o dobro",
       "short": "O ëkcoscreen 60+ é um tapete perfumado para urinol com cerdas patenteadas (Sealed Bristles Technology™) que cobrem 95% do tapete. Minimiza os salpicos de urina e os maus odores, para uma casa de banho mais limpa e confortável. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante 60+ dias, o dobro do tempo dos tapetes convencionais de 30 dias. Em casas de banho de pouca afluência, dura ainda mais.",
       "long": "O ëkcoscreen 60+ é um tapete perfumado para urinol com cerdas patenteadas (Sealed Bristles Technology™) que cobrem 95% do tapete. Minimiza os salpicos de urina e os maus odores, para uma casa de banho mais limpa e confortável. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante 60+ dias, o dobro do tempo dos tapetes convencionais de 30 dias. Em casas de banho de pouca afluência, dura ainda mais.\n\nConcebido para casas de banho de grande afluência em restaurantes, bares, aeroportos, centros comerciais e outros espaços com especial atenção à higiene, o ëkcoscreen 60+ melhora a limpeza e o controlo de odores.\n\nO ëkcoscreen 60+ é fabricado com EVA reciclado. O material em si pode ser reciclado, mas um tapete para urinol usado não, porque está biologicamente contaminado. Acaba em aterro ou na incineração, e é por isso que o ëkcoscreen 60+ contém o aditivo Eco-One™. Num ensaio laboratorial independente, o EVA ëkcos com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e prevê-se que atinja até 99% em 5 anos.\n\nO ëkcoscreen 60+ combina uma proteção eficaz contra salpicos, 60+ dias de fragrância e EVA reciclado e biodegradável, para casas de banho de grande afluência.",
@@ -622,7 +622,7 @@
     },
     "powerscreen": {
       "name": "powër screen",
-      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "imageAlt": "Tela de mictório circular azul powër screen com centro em forma de estrela e cerdas de controle de respingos, vista de cima em um fundo preto",
       "category": "tapete anti-salpicos potente para urinol, para troca mensal",
       "short": "O powër screen é um tapete perfumado para urinol com um sistema de cerdas patenteado (Sealed Bristles Technology™). Minimiza os salpicos de urina e os maus odores, para uma casa de banho mais limpa e confortável. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante até 30 dias, o que o torna ideal para a manutenção mensal de urinóis.",
       "long": "O powër screen é um tapete perfumado para urinol com um sistema de cerdas patenteado (Sealed Bristles Technology™). Minimiza os salpicos de urina e os maus odores, para uma casa de banho mais limpa e confortável. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante até 30 dias, o que o torna ideal para a manutenção mensal de urinóis.\n\nO powër screen é fabricado com EVA reciclado. O material em si pode ser reciclado, mas um tapete para urinol usado não, porque está biologicamente contaminado. Acaba em aterro ou na incineração, e é por isso que o powër screen contém o aditivo Eco-One™. Num ensaio laboratorial independente, o EVA ëkcos com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e prevê-se que atinja até 99% em 5 anos.\n\nO powër screen combina uma proteção eficaz contra salpicos, até 30 dias de fragrância e EVA reciclado e biodegradável, para a manutenção mensal da casa de banho.",
@@ -646,7 +646,7 @@
     },
     "basicScreen": {
       "name": "basic scrëen",
-      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "imageAlt": "Tela de urinol basic scrëen azul em formato triangular arredondado com orifícios de drenagem, vista de cima sobre fundo preto",
       "category": "tapete para urinol biodegradável em aterro, a preço baixo",
       "short": "O basic scrëen é um tapete para urinol económico que desodoriza os urinóis e evita a acumulação de detritos. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante até 30 dias, o que o torna ideal para a manutenção mensal de urinóis.",
       "long": "O basic scrëen é um tapete para urinol económico que desodoriza os urinóis e evita a acumulação de detritos. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante até 30 dias, o que o torna ideal para a manutenção mensal de urinóis.\n\nO basic scrëen é fabricado com EVA reciclado. O material em si pode ser reciclado, mas um tapete para urinol usado não, porque está biologicamente contaminado. Acaba em aterro ou na incineração, e é por isso que o basic scrëen contém o aditivo Eco-One™. Num ensaio laboratorial independente, o EVA ëkcos com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e prevê-se que atinja até 99% em 5 anos.\n\nO basic scrëen combina um controlo de odores fiável, proteção contra detritos e EVA reciclado e biodegradável, a baixo custo.",
@@ -670,7 +670,7 @@
     },
     "urolite": {
       "name": "üro lite",
-      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Tela de mictório compacta azul üro lite em forma de escudo com cerdas anti-respingos, vista de cima sobre fundo preto",
       "category": "pequeno tapete para urinol, grande proteção contra salpicos",
       "short": "O üro lite é um tapete perfumado e flexível para urinol, concebido para urinóis mais pequenos. Utiliza a mesma Sealed Bristles Technology™ patenteada do ëkcoscreen 60+ e, em vez de um diâmetro maior, recorre a cerdas longas que oferecem uma grande proteção contra salpicos num tapete pequeno. Reduz ao mínimo os salpicos de urina e os maus odores. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante até 30 dias, o que o torna ideal para a manutenção mensal de urinóis.",
       "long": "O üro lite é um tapete perfumado e flexível para urinol, concebido para urinóis mais pequenos. Utiliza a mesma Sealed Bristles Technology™ patenteada do ëkcoscreen 60+ e, em vez de um diâmetro maior, recorre a cerdas longas que oferecem uma grande proteção contra salpicos num tapete pequeno. Reduz ao mínimo os salpicos de urina e os maus odores. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante até 30 dias, o que o torna ideal para a manutenção mensal de urinóis.\n\nO üro lite é fabricado com EVA reciclado. O material em si pode ser reciclado, mas um tapete para urinol usado não, porque está biologicamente contaminado. Acaba em aterro ou na incineração, e é por isso que o üro lite contém o aditivo Eco-One™. Num ensaio laboratorial independente, o EVA ëkcos com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e prevê-se que atinja até 99% em 5 anos.\n\nO üro lite dá aos urinóis mais pequenos uma grande proteção contra salpicos graças às suas cerdas longas, únicas e patenteadas, num tapete compacto e económico, fabricado com EVA reciclado e biodegradável.",
@@ -694,7 +694,7 @@
     },
     "ekcoClip": {
       "name": "ëkco clip",
-      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "imageAlt": "Ambientador de vaso sanitário azul ëkco clip em formato de gravata borboleta e saliências anti-respingos, visto de cima em fundo preto",
       "category": "clip ambientador para sanita, frescura e encaixe quase universal",
       "short": "O ëkco clip é um clip ambientador para sanita que proporciona um controlo contínuo de odores e mantém as cabines de WC frescas. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante até 30 dias. O seu design flexível adapta-se à maioria dos tipos de sanita, pelo que é fácil de colocar e difunde bem a fragrância.",
       "long": "O ëkco clip é um clip ambientador para sanita que proporciona um controlo contínuo de odores e mantém as cabines de WC frescas. Feito de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante até 30 dias. O seu design flexível adapta-se à maioria dos tipos de sanita, pelo que é fácil de colocar e difunde bem a fragrância.\n\nO ëkco clip é fabricado com EVA reciclado. O material em si pode ser reciclado, mas um clip para sanita usado não, porque está biologicamente contaminado. Acaba em aterro ou na incineração, e é por isso que o ëkco clip contém o aditivo Eco-One™. Num ensaio laboratorial independente, o EVA ëkcos com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e prevê-se que atinja até 99% em 5 anos.\n\nO ëkco clip combina um controlo contínuo de odores durante até 30 dias, uma colocação fácil na maioria das sanitas e EVA reciclado e biodegradável.",
@@ -718,7 +718,7 @@
     },
     "freshDrop": {
       "name": "frësh drop",
-      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Ambientador em forma de lágrima frësh drop azul e branco com cerdas anti-respingos, visto de cima em um fundo preto",
       "category": "ambientador WC de longa duração, sem pilhas",
       "short": "O frësh drop é um ambientador de interior concebido para cabines de WC e casas de banho. A sua recarga, feita de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente, sem pilhas nem eletricidade. Em cabines fechadas com pouca ou nenhuma ventilação dura 60+ dias e, onde o ar circula mais, a fragrância dispersa-se mais depressa. O seu design em forma de gota complementa qualquer casa de banho, e a fita adesiva incluída permite uma instalação fácil em quase todas as superfícies. Para espaços pequenos, escolha o compacto ëkco loop.",
       "long": "O frësh drop é um ambientador de interior concebido para cabines de WC e casas de banho. A sua recarga, feita de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente, sem pilhas nem eletricidade. Em cabines fechadas com pouca ou nenhuma ventilação dura 60+ dias e, onde o ar circula mais, a fragrância dispersa-se mais depressa. O seu design em forma de gota complementa qualquer casa de banho, e a fita adesiva incluída permite uma instalação fácil em quase todas as superfícies. Para espaços pequenos, escolha o compacto ëkco loop.\n\nA recarga do frësh drop é fabricada com EVA reciclado, e o material pode ser reciclado. A recarga e a base contêm ambas o aditivo Eco-One™, pelo que ambas são biodegradáveis em aterro. Num ensaio laboratorial independente, o EVA ëkcos com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e prevê-se que atinja até 99% em 5 anos.\n\nO frësh drop combina 60+ dias de fragrância, instalação fácil e uma recarga de EVA reciclado e biodegradável, para cabines de WC e casas de banho.",
@@ -740,12 +740,13 @@
         "1": "Premium retail"
       },
       "bases": {
-        "black": "preta"
+        "black": "preta",
+        "white": "base branca"
       }
     },
     "ezTrap": {
       "name": "ëz trap",
-      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "imageAlt": "Cartucho de urinol sem água ëz trap branco com selo preto, fotografado em ângulo sobre fundo preto",
       "category": "cartucho para urinol sem água que veda odores, fácil de manter",
       "short": "O ëz trap é um sistema de cartucho inovador, concebido para melhorar a eficiência, a limpeza e o controlo de odores dos urinóis sem água, reduzindo significativamente os custos de manutenção.",
       "long": "O ëz trap é um sistema de cartucho inovador, concebido para melhorar a eficiência, a limpeza e o controlo de odores dos urinóis sem água, reduzindo significativamente os custos de manutenção.\n\nGraças ao sistema de cartucho patenteado ëz trap, a urina flui naturalmente pelo sifão, e uma tampa fecha e veda após cada utilização. Isto impede a saída de odores e garante que, a cada utilização, a urina antiga é removida do sistema, mantendo a casa de banho mais fresca.\n\nO ëz trap é fabricado com o aditivo Eco-One™, que o torna biodegradável em aterro. Num ensaio laboratorial independente, o material ëkcos com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e prevê-se que atinja até 99% em 5 anos.\n\nO ëz trap oferece uma forma eficiente, de baixa manutenção e económica de impedir que os odores do esgoto saiam pelos urinóis sem água.",
@@ -770,7 +771,7 @@
     },
     "xcrenPuck": {
       "name": "xcrën puck",
-      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "imageAlt": "Tela de mictório azul xcrën puck em forma de X com porta-disco central, vista de cima sobre fundo preto",
       "category": "tapete para urinol em forma de X com pastilha desodorizante",
       "short": "O xcrën puck é um tapete para urinol com uma pastilha desodorizante NON-PARA, concebido para um controlo eficaz de odores e a proteção do ralo. Não contém paradiclorobenzeno (PARA), que a OMS classifica como possivelmente cancerígeno. As pastilhas de PARA ainda são utilizadas em alguns tapetes para urinol, enquanto as regras da UE restringem o PARA nos desodorizantes para sanitas. O seu design em forma de X impede que sólidos e detritos entupam o ralo e liberta uma fragrância limpa e fresca a cada utilização, durante até 30 dias.",
       "long": "O xcrën puck é um tapete para urinol com uma pastilha desodorizante NON-PARA, concebido para um controlo eficaz de odores e a proteção do ralo. Não contém paradiclorobenzeno (PARA), que a OMS classifica como possivelmente cancerígeno. As pastilhas de PARA ainda são utilizadas em alguns tapetes para urinol, enquanto as regras da UE restringem o PARA nos desodorizantes para sanitas. O seu design em forma de X impede que sólidos e detritos entupam o ralo e liberta uma fragrância limpa e fresca a cada utilização, durante até 30 dias.\n\nA pastilha é feita principalmente de cera e glicerina e dissolve-se com a utilização. O xcrën puck é fabricado com o aditivo Eco-One™, que o torna biodegradável em aterro. Num ensaio laboratorial independente, o material ëkcos com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e prevê-se que atinja até 99% em 5 anos. É um produto descartável e a pastilha não pode ser substituída por uma nova.\n\nO xcrën puck é uma forma simples e eficaz de manter os urinóis frescos e os ralos desobstruídos durante até 30 dias.",
@@ -798,7 +799,7 @@
     },
     "ekcoMat": {
       "name": "ëkco mat",
-      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "imageAlt": "Tapete absorvente para urinol cinza escuro ëkco mat, visto de cima sobre fundo preto",
       "category": "tapete de chão económico para urinol que protege o pavimento",
       "short": "O ëkco mat é um tapete de chão absorvente para urinol, concebido para melhorar a higiene da casa de banho e proteger o pavimento da acumulação de urina. Com dimensões de 54 x 51 x 0,5 cm, cobre eficazmente a zona em redor da maioria dos urinóis convencionais, evitando danos no pavimento e reduzindo a transferência de urina para as solas dos sapatos dos utilizadores. Isto ajuda a manter a casa de banho mais limpa e confortável.",
       "long": "O ëkco mat é um tapete de chão absorvente para urinol, concebido para melhorar a higiene da casa de banho e proteger o pavimento da acumulação de urina. Com dimensões de 54 x 51 x 0,5 cm, cobre eficazmente a zona em redor da maioria dos urinóis convencionais, evitando danos no pavimento e reduzindo a transferência de urina para as solas dos sapatos dos utilizadores. Isto ajuda a manter a casa de banho mais limpa e confortável.\n\nO ëkco mat é uma solução económica e descartável, ideal para restaurantes, hotéis e outros locais de grande afluência onde a higiene é uma prioridade.\n\nO ëkco mat oferece uma solução prática, higiénica e económica para manter as casas de banho limpas e com um aspeto profissional.",

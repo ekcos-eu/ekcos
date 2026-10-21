@@ -535,14 +535,14 @@
       "brandingNote": "Branding personalizzato disponibile per ordini qualificati."
     },
     "colors": {
-      "white": "White",
-      "grey": "Grey",
-      "black": "Black",
-      "blue": "Blue"
+      "white": "Bianco",
+      "grey": "Grigio",
+      "black": "Nero",
+      "blue": "Blu"
     },
     "fragrances": {
       "fresh": "Fresh",
-      "citrus": "Citrus"
+      "citrus": "Agrumi"
     },
     "variantLabels": {
       "x1p": "viola / frutti di bosco",

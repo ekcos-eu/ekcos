@@ -513,32 +513,32 @@
   },
   "products": {
     "page": {
-      "title": "Products",
-      "intro": "Switch models and finishes, then buy in the official store.",
-      "heroEyebrow": "Explore the range",
-      "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
-      "heroLinkEco": "About Eco-One™",
-      "heroLinkBranding": "Custom branding"
+      "title": "Termékek",
+      "intro": "Váltson modellt és felületet - majd vásároljon a hivatalos boltban.",
+      "heroEyebrow": "Fedezze fel a kínálatot",
+      "heroTitle": "Minden termékcsalád egy helyen",
+      "heroSubtitle": "Felületek és illatok - nyissa meg a boltot, ha vásárolni szeretne.",
+      "heroLinkEco": "Többet az Eco-One™-ról",
+      "heroLinkBranding": "Egyedi branding"
     },
     "configurator": {
-      "color": "Finish",
-      "selectProduct": "Select product",
-      "fragrance": "Fragrance options",
-      "benefits": "Benefits",
-      "productBenefits": "Product benefits",
-      "availableColorsFragrances": "Available colors & fragrances",
-      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
-      "byBrand": "by ëkcos",
+      "color": "Felület",
+      "selectProduct": "Termék kiválasztása",
+      "fragrance": "Illatváltozatok",
+      "benefits": "Előnyök",
+      "productBenefits": "Termékelőnyök",
+      "availableColorsFragrances": "Elérhető színek és illatok",
+      "sixtyDayBadge": "60 napos PLUS fröccsenésgátló piszoárrács",
+      "byBrand": "ëkcos",
       "siteUrl": "www.ekcos.eu",
-      "useCases": "Typical applications",
-      "brandingNote": "Custom branding available for qualified orders."
+      "useCases": "Tipikus alkalmazások",
+      "brandingNote": "Egyedi branding minősített rendeléseknél elérhető."
     },
     "colors": {
-      "white": "White",
-      "grey": "Grey",
-      "black": "Black",
-      "blue": "Blue"
+      "white": "Fehér",
+      "grey": "Szürke",
+      "black": "Fekete",
+      "blue": "Kék"
     },
     "fragrances": {
       "fresh": "Fresh",
@@ -559,7 +559,7 @@
     },
     "xcrenHd": {
       "name": "xcrën HD",
-      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Kék xcrën HD piszoár képernyő X alakú fröccsenésgátló sörtékkel, felülről fekete háttéren",
       "category": "dizájnos piszoárrács extrém fröccsenésvédelemmel",
       "badge": "dizájnos piszoárrács extrém fröccsenésvédelemmel",
       "short": "Az xcrën HD 60+ szabadalmaztatott formájú illatosított piszoárrács, amely kitűnik a piszoárban. A megszokott ovális rácsokkal szemben a piszoárt dizájnelemmé varázsolja. Szabadalmaztatott sörtéi (Sealed Bristles Technology™) a rács 92%-át borítják, és minimálisra csökkentik a vizeletfröccsenést és a kellemetlen szagokat. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és 60+ napon át fokozatosan bocsátja ki az illatot. Kis forgalmú mosdókban még tovább tart.",
@@ -597,7 +597,7 @@
     },
     "ekcoscreen": {
       "name": "ëkcoscreen",
-      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Kék ëkcoscreen piszoár képernyő pajzs alakú fröccsenésgátló sörtékkel, felülről fekete háttéren",
       "category": "nehézsúlyú fröccsenésgátló piszoárrács dupla illattartóssággal",
       "short": "Az ëkcoscreen 60+ illatosított piszoárrács szabadalmaztatott sörtékkel (Sealed Bristles Technology™), amelyek a rács 95%-át borítják. Minimálisra csökkenti a vizeletfröccsenést és a kellemetlen szagokat, így tisztább és komfortosabb a mosdó. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és 60+ napon át fokozatosan bocsátja ki az illatot, kétszer olyan sokáig, mint a szokásos 30 napos rácsok. Kis forgalmú mosdókban még tovább tart.",
       "long": "Az ëkcoscreen 60+ illatosított piszoárrács szabadalmaztatott sörtékkel (Sealed Bristles Technology™), amelyek a rács 95%-át borítják. Minimálisra csökkenti a vizeletfröccsenést és a kellemetlen szagokat, így tisztább és komfortosabb a mosdó. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és 60+ napon át fokozatosan bocsátja ki az illatot, kétszer olyan sokáig, mint a szokásos 30 napos rácsok. Kis forgalmú mosdókban még tovább tart.\n\nAz éttermek, bárok, repülőterek, bevásárlóközpontok és más, a higiéniára kiemelten figyelő létesítmények nagy forgalmú mosdóihoz tervezett ëkcoscreen 60+ javítja a tisztaságot és a szagkezelést.\n\nAz ëkcoscreen 60+ újrahasznosított EVA felhasználásával készül. Maga az anyag újrahasznosítható, a használt piszoárrács viszont nem, mert biológiailag szennyezett. Hulladéklerakóba vagy égetőműbe kerül, ezért az ëkcoscreen 60+ Eco-One™ adalékanyagot tartalmaz. Független laboratóriumi vizsgálatban az Eco-One™ adalékot tartalmazó ëkcos EVA 3,5 év alatt 93%-os biológiai lebomlást ért el, 5 év alatt pedig várhatóan akár 99%-ot.\n\nAz ëkcoscreen 60+ ötvözi a hatékony fröccsenésvédelmet, a 60+ napig tartó illatot és az újrahasznosított, biológiailag lebomló EVA anyagot a nagy forgalmú mosdók számára.",
@@ -622,7 +622,7 @@
     },
     "powerscreen": {
       "name": "powër screen",
-      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "imageAlt": "Kék powër screen kör alakú piszoár képernyő csillagkitörési központtal és fröccsenésgátló sörtékkel, felülről fekete háttéren",
       "category": "erőteljes fröccsenésgátló piszoárrács havi cseréhez",
       "short": "A powër screen szabadalmaztatott sörterendszerrel (Sealed Bristles Technology™) ellátott illatosított piszoárrács. Minimálisra csökkenti a vizeletfröccsenést és a kellemetlen szagokat, így tisztább és komfortosabb a mosdó. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és akár 30 napon át fokozatosan bocsátja ki az illatot, ezért ideális a piszoárok havi karbantartásához.",
       "long": "A powër screen szabadalmaztatott sörterendszerrel (Sealed Bristles Technology™) ellátott illatosított piszoárrács. Minimálisra csökkenti a vizeletfröccsenést és a kellemetlen szagokat, így tisztább és komfortosabb a mosdó. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és akár 30 napon át fokozatosan bocsátja ki az illatot, ezért ideális a piszoárok havi karbantartásához.\n\nA powër screen újrahasznosított EVA felhasználásával készül. Maga az anyag újrahasznosítható, a használt piszoárrács viszont nem, mert biológiailag szennyezett. Hulladéklerakóba vagy égetőműbe kerül, ezért a powër screen Eco-One™ adalékanyagot tartalmaz. Független laboratóriumi vizsgálatban az Eco-One™ adalékot tartalmazó ëkcos EVA 3,5 év alatt 93%-os biológiai lebomlást ért el, 5 év alatt pedig várhatóan akár 99%-ot.\n\nA powër screen ötvözi a hatékony fröccsenésvédelmet, az akár 30 napig tartó illatot és az újrahasznosított, biológiailag lebomló EVA anyagot a mosdók havi karbantartásához.",
@@ -646,7 +646,7 @@
     },
     "basicScreen": {
       "name": "basic scrëen",
-      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "imageAlt": "Kék basic scrëen piszoárernyő lekerekített háromszög alakú, vízelvezető lyukakkal, felülről fekete alapon",
       "category": "hulladéklerakóban biológiailag lebomló piszoárrács kedvező áron",
       "short": "A basic scrëen költséghatékony piszoárrács, amely szagtalanítja a piszoárt, és megakadályozza a szennyeződések felhalmozódását. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és akár 30 napon át fokozatosan bocsátja ki az illatot, ezért ideális a piszoárok havi karbantartásához.",
       "long": "A basic scrëen költséghatékony piszoárrács, amely szagtalanítja a piszoárt, és megakadályozza a szennyeződések felhalmozódását. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és akár 30 napon át fokozatosan bocsátja ki az illatot, ezért ideális a piszoárok havi karbantartásához.\n\nA basic scrëen újrahasznosított EVA felhasználásával készül. Maga az anyag újrahasznosítható, a használt piszoárrács viszont nem, mert biológiailag szennyezett. Hulladéklerakóba vagy égetőműbe kerül, ezért a basic scrëen Eco-One™ adalékanyagot tartalmaz. Független laboratóriumi vizsgálatban az Eco-One™ adalékot tartalmazó ëkcos EVA 3,5 év alatt 93%-os biológiai lebomlást ért el, 5 év alatt pedig várhatóan akár 99%-ot.\n\nA basic scrëen alacsony áron ötvözi a megbízható szagkezelést, a szennyeződések elleni védelmet és az újrahasznosított, biológiailag lebomló EVA anyagot.",
@@ -670,7 +670,7 @@
     },
     "urolite": {
       "name": "üro lite",
-      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Kék üro lite kompakt piszoárernyő pajzs alakú fröccsenésgátló sörtékkel, felülről fekete háttéren",
       "category": "kis piszoárrács, nagy fröccsenésvédelem",
       "short": "Az üro lite kisebb piszoárokhoz tervezett, rugalmas, illatosított piszoárrács. Ugyanazt a szabadalmaztatott Sealed Bristles Technology™ megoldást alkalmazza, mint az ëkcoscreen 60+, de nagyobb átmérő helyett hosszú sörtékre épít, amelyek kis rácsban is nagy fröccsenésvédelmet nyújtanak. A vizeletfröccsenést és a kellemetlen szagokat a minimumra csökkenti. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és akár 30 napon át fokozatosan bocsátja ki az illatot, ezért ideális a piszoárok havi karbantartásához.",
       "long": "Az üro lite kisebb piszoárokhoz tervezett, rugalmas, illatosított piszoárrács. Ugyanazt a szabadalmaztatott Sealed Bristles Technology™ megoldást alkalmazza, mint az ëkcoscreen 60+, de nagyobb átmérő helyett hosszú sörtékre épít, amelyek kis rácsban is nagy fröccsenésvédelmet nyújtanak. A vizeletfröccsenést és a kellemetlen szagokat a minimumra csökkenti. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és akár 30 napon át fokozatosan bocsátja ki az illatot, ezért ideális a piszoárok havi karbantartásához.\n\nAz üro lite újrahasznosított EVA felhasználásával készül. Maga az anyag újrahasznosítható, a használt piszoárrács viszont nem, mert biológiailag szennyezett. Hulladéklerakóba vagy égetőműbe kerül, ezért az üro lite Eco-One™ adalékanyagot tartalmaz. Független laboratóriumi vizsgálatban az Eco-One™ adalékot tartalmazó ëkcos EVA 3,5 év alatt 93%-os biológiai lebomlást ért el, 5 év alatt pedig várhatóan akár 99%-ot.\n\nAz üro lite egyedi, szabadalmaztatott hosszú sörtéivel nagy fröccsenésvédelmet nyújt a kisebb piszoárokban, mindezt kompakt, költséghatékony rácsban, amely újrahasznosított, biológiailag lebomló EVA felhasználásával készül.",
@@ -694,7 +694,7 @@
     },
     "ekcoClip": {
       "name": "ëkco clip",
-      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "imageAlt": "Kék ëkco clip vécécsésze-frissítő csokornyakkendő alakú, fröccsenésgátló bordákkal, felülről fekete alapon",
       "category": "üde WC-illatosító klip, amely szinte minden csészére illik",
       "short": "Az ëkco clip WC-csészére akasztható illatosító klip, amely folyamatos szagkezelést biztosít, és frissen tartja a WC-fülkéket. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és akár 30 napon át fokozatosan bocsátja ki az illatot. Rugalmas kialakítása a legtöbb típusú WC-csészére illeszkedik, így könnyen felhelyezhető, és jól terjeszti az illatot.",
       "long": "Az ëkco clip WC-csészére akasztható illatosító klip, amely folyamatos szagkezelést biztosít, és frissen tartja a WC-fülkéket. Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és akár 30 napon át fokozatosan bocsátja ki az illatot. Rugalmas kialakítása a legtöbb típusú WC-csészére illeszkedik, így könnyen felhelyezhető, és jól terjeszti az illatot.\n\nAz ëkco clip újrahasznosított EVA felhasználásával készül. Maga az anyag újrahasznosítható, a használt WC-illatosító klip viszont nem, mert biológiailag szennyezett. Hulladéklerakóba vagy égetőműbe kerül, ezért az ëkco clip Eco-One™ adalékanyagot tartalmaz. Független laboratóriumi vizsgálatban az Eco-One™ adalékot tartalmazó ëkcos EVA 3,5 év alatt 93%-os biológiai lebomlást ért el, 5 év alatt pedig várhatóan akár 99%-ot.\n\nAz ëkco clip ötvözi az akár 30 napig tartó folyamatos szagkezelést, a legtöbb WC-csészére való egyszerű felhelyezést és az újrahasznosított, biológiailag lebomló EVA anyagot.",
@@ -718,7 +718,7 @@
     },
     "freshDrop": {
       "name": "frësh drop",
-      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Kék-fehér frësh drop könnycsepp légfrissítő fröccsenésgátló sörtékkel, felülről fekete alapon",
       "category": "hosszan tartó, elem nélkül működő WC-légfrissítő",
       "short": "A frësh drop WC-fülkékbe és mosdókba tervezett beltéri légfrissítő. Betétje saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és elem vagy áram nélkül, fokozatosan adja le az illatot. Zárt, alig vagy egyáltalán nem szellőző fülkékben 60+ napig tart, ahol pedig jobban mozog a levegő, ott gyorsabban szétoszlik az illat. Vízcsepp formája bármely mosdó enteriőrjéhez illik, a mellékelt ragasztószalaggal pedig szinte bármilyen felületre könnyen felszerelhető. Kis terekbe válassza a kompakt ëkco loop légfrissítőt.",
       "long": "A frësh drop WC-fülkékbe és mosdókba tervezett beltéri légfrissítő. Betétje saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és elem vagy áram nélkül, fokozatosan adja le az illatot. Zárt, alig vagy egyáltalán nem szellőző fülkékben 60+ napig tart, ahol pedig jobban mozog a levegő, ott gyorsabban szétoszlik az illat. Vízcsepp formája bármely mosdó enteriőrjéhez illik, a mellékelt ragasztószalaggal pedig szinte bármilyen felületre könnyen felszerelhető. Kis terekbe válassza a kompakt ëkco loop légfrissítőt.\n\nA frësh drop betét újrahasznosított EVA felhasználásával készül, és az anyaga újrahasznosítható. A betét és a tartó egyaránt tartalmaz Eco-One™ adalékanyagot, így mindkettő hulladéklerakóban biológiailag lebomló. Független laboratóriumi vizsgálatban az Eco-One™ adalékot tartalmazó ëkcos EVA 3,5 év alatt 93%-os biológiai lebomlást ért el, 5 év alatt pedig várhatóan akár 99%-ot.\n\nA frësh drop ötvözi a 60+ napig tartó illatot, az egyszerű felszerelést és az újrahasznosított, biológiailag lebomló EVA betétet, WC-fülkékhez és mosdókhoz.",
@@ -746,7 +746,7 @@
     },
     "ezTrap": {
       "name": "ëz trap",
-      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "imageAlt": "Fehér ëz trap vízmentes piszoár kazetta fekete tömítéssel, ferdén fényképezve fekete alapon",
       "category": "könnyű karbantartású bűzelzáró patron vízmentes piszoárhoz",
       "short": "Az ëz trap innovatív patronrendszer, amely javítja a vízmentes piszoárok hatékonyságát, tisztaságát és szagkezelését, miközben jelentősen csökkenti a karbantartási költségeket.",
       "long": "Az ëz trap innovatív patronrendszer, amely javítja a vízmentes piszoárok hatékonyságát, tisztaságát és szagkezelését, miközben jelentősen csökkenti a karbantartási költségeket.\n\nA szabadalmaztatott ëz trap patronrendszernek köszönhetően a vizelet természetes módon folyik át a szifonon, a záró kupak pedig minden használat után lezár. Ez megakadályozza a szagok kiáramlását, és biztosítja, hogy minden használatkor a régi vizelet távozzon a rendszerből, így frissebb marad a mosdó.\n\nAz ëz trap Eco-One™ adalékanyaggal készül, így hulladéklerakóban biológiailag lebomló. Független laboratóriumi vizsgálatban az Eco-One™ adalékot tartalmazó ëkcos anyag 3,5 év alatt 93%-os biológiai lebomlást ért el, 5 év alatt pedig várhatóan akár 99%-ot.\n\nAz ëz trap hatékony, kevés karbantartást igénylő és költségtakarékos módja annak, hogy a lefolyószag ne jusson ki a vízmentes piszoárokból.",
@@ -771,7 +771,7 @@
     },
     "xcrenPuck": {
       "name": "xcrën puck",
-      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "imageAlt": "Kék xcrën puck X-alakú piszoárernyő központi korongtartóval, felülről fekete alapon",
       "category": "X alakú piszoárrács szagtalanító koronggal",
       "short": "Az xcrën puck NON-PARA szagtalanító koronggal ellátott piszoárrács, amelyet hatékony szagkezelésre és a lefolyó védelmére terveztek. Nem tartalmaz paradiklórbenzolt (PARA), amelyet a WHO lehetségesen rákkeltőnek minősít. Egyes piszoárrácsokban ma is használnak PARA korongokat, miközben az uniós szabályok korlátozzák a PARA használatát a WC-szagtalanítókban. X alakú kialakítása megakadályozza, hogy a szilárd anyagok és szennyeződések eltömítsék a lefolyót, és minden használatkor tiszta, friss illatot áraszt, akár 30 napig.",
       "long": "Az xcrën puck NON-PARA szagtalanító koronggal ellátott piszoárrács, amelyet hatékony szagkezelésre és a lefolyó védelmére terveztek. Nem tartalmaz paradiklórbenzolt (PARA), amelyet a WHO lehetségesen rákkeltőnek minősít. Egyes piszoárrácsokban ma is használnak PARA korongokat, miközben az uniós szabályok korlátozzák a PARA használatát a WC-szagtalanítókban. X alakú kialakítása megakadályozza, hogy a szilárd anyagok és szennyeződések eltömítsék a lefolyót, és minden használatkor tiszta, friss illatot áraszt, akár 30 napig.\n\nA korong főként viaszból és glicerinből készül, és használat közben feloldódik. Az xcrën puck Eco-One™ adalékanyaggal készül, így hulladéklerakóban biológiailag lebomló. Független laboratóriumi vizsgálatban az Eco-One™ adalékot tartalmazó ëkcos anyag 3,5 év alatt 93%-os biológiai lebomlást ért el, 5 év alatt pedig várhatóan akár 99%-ot. Eldobható termék, a korong nem cserélhető újra.\n\nAz xcrën puck egyszerű és hatékony módja annak, hogy a piszoárok akár 30 napig frissek, a lefolyók pedig szabadok maradjanak.",
@@ -799,7 +799,7 @@
     },
     "ekcoMat": {
       "name": "ëkco mat",
-      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "imageAlt": "Sötétszürke ëkco mat nedvszívó piszoár padlószőnyeg, felülről fekete alapon",
       "category": "gazdaságos piszoárszőnyeg, amely védi a padlót",
       "short": "Az ëkco mat nedvszívó piszoárszőnyeg, amely javítja a mosdó higiéniáját, és megvédi a padlót a vizelet felgyülemlésétől. Mérete 54 x 51 x 0,5 cm, így hatékonyan lefedi a legtöbb szabványos piszoár körüli területet, megelőzi a padló károsodását, és csökkenti a vizelet cipőtalpakon történő továbbhordását. Ez segít tisztábban és komfortosabban tartani a mosdót.",
       "long": "Az ëkco mat nedvszívó piszoárszőnyeg, amely javítja a mosdó higiéniáját, és megvédi a padlót a vizelet felgyülemlésétől. Mérete 54 x 51 x 0,5 cm, így hatékonyan lefedi a legtöbb szabványos piszoár körüli területet, megelőzi a padló károsodását, és csökkenti a vizelet cipőtalpakon történő továbbhordását. Ez segít tisztábban és komfortosabban tartani a mosdót.\n\nAz ëkco mat költséghatékony, eldobható megoldás, amely ideális éttermekbe, szállodákba és más nagy forgalmú helyekre, ahol kiemelt szempont a higiénia.\n\nAz ëkco mat praktikus, higiénikus és pénztárcabarát megoldás a tiszta és igényes mosdók fenntartásához.",

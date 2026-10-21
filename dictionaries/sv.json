@@ -513,32 +513,32 @@
   },
   "products": {
     "page": {
-      "title": "Products",
-      "intro": "Switch models and finishes, then buy in the official store.",
-      "heroEyebrow": "Explore the range",
-      "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
-      "heroLinkEco": "About Eco-One™",
+      "title": "Produkter",
+      "intro": "Byt modell och yta - handla sedan i den officiella butiken.",
+      "heroEyebrow": "Utforska sortimentet",
+      "heroTitle": "Varje linje på ett ställe",
+      "heroSubtitle": "Ytor och dofter - öppna butiken när du vill köpa.",
+      "heroLinkEco": "Mer om Eco-One™",
       "heroLinkBranding": "Custom branding"
     },
     "configurator": {
-      "color": "Finish",
-      "selectProduct": "Select product",
-      "fragrance": "Fragrance options",
-      "benefits": "Benefits",
-      "productBenefits": "Product benefits",
-      "availableColorsFragrances": "Available colors & fragrances",
-      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
-      "byBrand": "by ëkcos",
+      "color": "Yta",
+      "selectProduct": "Välj produkt",
+      "fragrance": "Doftalternativ",
+      "benefits": "Fördelar",
+      "productBenefits": "Produktfördelar",
+      "availableColorsFragrances": "Tillgängliga färger & dofter",
+      "sixtyDayBadge": "60-dagars PLUS anti-stänk urinärsikt",
+      "byBrand": "av ëkcos",
       "siteUrl": "www.ekcos.eu",
-      "useCases": "Typical applications",
-      "brandingNote": "Custom branding available for qualified orders."
+      "useCases": "Typiska användningsområden",
+      "brandingNote": "Custom branding tillgängligt för kvalificerade ordrar."
     },
     "colors": {
-      "white": "White",
-      "grey": "Grey",
-      "black": "Black",
-      "blue": "Blue"
+      "white": "Vit",
+      "grey": "Grå",
+      "black": "Svart",
+      "blue": "Blå"
     },
     "fragrances": {
       "fresh": "Fresh",
@@ -559,7 +559,7 @@
     },
     "xcrenHd": {
       "name": "xcrën HD",
-      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Blå xcrën HD urinalskärm i X-form med stänkkontrollborst, sett uppifrån på en svart bakgrund",
       "category": "urinoarmatta i exklusiv design med xtremt stänkskydd",
       "badge": "urinoarmatta i exklusiv design med xtremt stänkskydd",
       "short": "xcrën HD 60+ är en doftande urinoarmatta med en patenterad form som sticker ut i urinoaren. Till skillnad från vanliga ovala mattor gör den urinoaren till ett designelement. De patenterade borsten (Sealed Bristles Technology™) täcker 92 % av mattan och minimerar urinstänk och otrevlig lukt. Mattan är tillverkad av ett egenutvecklat material med doft på deodorantbas och avger doft gradvis i 60+ dagar. På mindre besökta toaletter räcker den ännu längre.",
@@ -597,7 +597,7 @@
     },
     "ekcoscreen": {
       "name": "ëkcoscreen",
-      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Blå ëkcoscreen urinalskärm i sköldform med stänkkontrollborst, sett ovanifrån på en svart bakgrund",
       "category": "tung stänkskyddande urinoarmatta med dubbel doftlivslängd",
       "short": "ëkcoscreen 60+ är en doftande urinoarmatta med patenterade borst (Sealed Bristles Technology™) som täcker 95 % av mattan. Den minimerar urinstänk och otrevlig lukt för en renare och trivsammare toalett. Mattan är tillverkad av ett egenutvecklat material med doft på deodorantbas och avger doft gradvis i 60+ dagar, dubbelt så länge som vanliga 30-dagarsmattor. På mindre besökta toaletter räcker den ännu längre.",
       "long": "ëkcoscreen 60+ är en doftande urinoarmatta med patenterade borst (Sealed Bristles Technology™) som täcker 95 % av mattan. Den minimerar urinstänk och otrevlig lukt för en renare och trivsammare toalett. Mattan är tillverkad av ett egenutvecklat material med doft på deodorantbas och avger doft gradvis i 60+ dagar, dubbelt så länge som vanliga 30-dagarsmattor. På mindre besökta toaletter räcker den ännu längre.\n\nëkcoscreen 60+ är utformad för välbesökta toaletter på restauranger, barer, flygplatser, i köpcentrum och andra lokaler där hygienen står i fokus, och ger bättre renlighet och luktkontroll.\n\nëkcoscreen 60+ är tillverkad med återvunnen EVA. Själva materialet går att återvinna, men inte en använd urinoarmatta, eftersom den är biologiskt förorenad. Den hamnar på deponi eller går till förbränning, och därför innehåller ëkcoscreen 60+ tillsatsen Eco-One™. I ett oberoende laboratorietest nådde ëkcos EVA med Eco-One™ 93 % biologisk nedbrytning inom 3,5 år, och upp till 99 % beräknas inom 5 år.\n\nëkcoscreen 60+ kombinerar effektivt stänkskydd, 60+ dagars doft och återvunnen, biologiskt nedbrytbar EVA för välbesökta toaletter.",
@@ -622,7 +622,7 @@
     },
     "powerscreen": {
       "name": "powër screen",
-      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "imageAlt": "Blå powër screen cirkulär pissoarskärm med ett starburst-centrum och stänkkontrollborst, sett ovanifrån på en svart bakgrund",
       "category": "kraftfull stänkskyddande urinoarmatta för månatligt byte",
       "short": "powër screen är en doftande urinoarmatta med ett patenterat borstsystem (Sealed Bristles Technology™). Den minimerar urinstänk och otrevlig lukt för en renare och trivsammare toalett. Mattan är tillverkad av ett egenutvecklat material med doft på deodorantbas och avger doft gradvis i upp till 30 dagar, vilket gör den idealisk för månatligt underhåll av urinoarer.",
       "long": "powër screen är en doftande urinoarmatta med ett patenterat borstsystem (Sealed Bristles Technology™). Den minimerar urinstänk och otrevlig lukt för en renare och trivsammare toalett. Mattan är tillverkad av ett egenutvecklat material med doft på deodorantbas och avger doft gradvis i upp till 30 dagar, vilket gör den idealisk för månatligt underhåll av urinoarer.\n\npowër screen är tillverkad med återvunnen EVA. Själva materialet går att återvinna, men inte en använd urinoarmatta, eftersom den är biologiskt förorenad. Den hamnar på deponi eller går till förbränning, och därför innehåller powër screen tillsatsen Eco-One™. I ett oberoende laboratorietest nådde ëkcos EVA med Eco-One™ 93 % biologisk nedbrytning inom 3,5 år, och upp till 99 % beräknas inom 5 år.\n\npowër screen kombinerar effektivt stänkskydd, upp till 30 dagars doft och återvunnen, biologiskt nedbrytbar EVA för månatligt underhåll av toaletter.",
@@ -646,7 +646,7 @@
     },
     "basicScreen": {
       "name": "basic scrëen",
-      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "imageAlt": "Blå basic scrëen urinalskärm i en rundad triangulär form med dräneringshål, sett ovanifrån på en svart bakgrund",
       "category": "urinoarmatta till lågt pris, biologiskt nedbrytbar på deponi",
       "short": "basic scrëen är en kostnadseffektiv urinoarmatta som deodoriserar urinoaren och förhindrar att skräp samlas. Mattan är tillverkad av ett egenutvecklat material med doft på deodorantbas och avger doft gradvis i upp till 30 dagar, vilket gör den idealisk för månatligt underhåll av urinoarer.",
       "long": "basic scrëen är en kostnadseffektiv urinoarmatta som deodoriserar urinoaren och förhindrar att skräp samlas. Mattan är tillverkad av ett egenutvecklat material med doft på deodorantbas och avger doft gradvis i upp till 30 dagar, vilket gör den idealisk för månatligt underhåll av urinoarer.\n\nbasic scrëen är tillverkad med återvunnen EVA. Själva materialet går att återvinna, men inte en använd urinoarmatta, eftersom den är biologiskt förorenad. Den hamnar på deponi eller går till förbränning, och därför innehåller basic scrëen tillsatsen Eco-One™. I ett oberoende laboratorietest nådde ëkcos EVA med Eco-One™ 93 % biologisk nedbrytning inom 3,5 år, och upp till 99 % beräknas inom 5 år.\n\nbasic scrëen kombinerar pålitlig luktkontroll, skydd mot skräp och återvunnen, biologiskt nedbrytbar EVA till en låg kostnad.",
@@ -670,7 +670,7 @@
     },
     "urolite": {
       "name": "üro lite",
-      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Blå üro lite kompakt urinalskärm i sköldform med stänkkontrollborst, sett uppifrån på en svart bakgrund",
       "category": "liten urinoarmatta, stort stänkskydd",
       "short": "üro lite är en flexibel, doftande urinoarmatta utformad för mindre urinoarer. Den har samma patenterade Sealed Bristles Technology™ som ëkcoscreen 60+, och i stället för en större diameter förlitar den sig på långa borst som ger ett stort stänkskydd i en liten matta. Den håller urinstänk och otrevlig lukt till ett minimum. Mattan är tillverkad av ett egenutvecklat material med doft på deodorantbas och avger doft gradvis i upp till 30 dagar, vilket gör den idealisk för månatligt underhåll av urinoarer.",
       "long": "üro lite är en flexibel, doftande urinoarmatta utformad för mindre urinoarer. Den har samma patenterade Sealed Bristles Technology™ som ëkcoscreen 60+, och i stället för en större diameter förlitar den sig på långa borst som ger ett stort stänkskydd i en liten matta. Den håller urinstänk och otrevlig lukt till ett minimum. Mattan är tillverkad av ett egenutvecklat material med doft på deodorantbas och avger doft gradvis i upp till 30 dagar, vilket gör den idealisk för månatligt underhåll av urinoarer.\n\nüro lite är tillverkad med återvunnen EVA. Själva materialet går att återvinna, men inte en använd urinoarmatta, eftersom den är biologiskt förorenad. Den hamnar på deponi eller går till förbränning, och därför innehåller üro lite tillsatsen Eco-One™. I ett oberoende laboratorietest nådde ëkcos EVA med Eco-One™ 93 % biologisk nedbrytning inom 3,5 år, och upp till 99 % beräknas inom 5 år.\n\nüro lite ger mindre urinoarer ett stort stänkskydd med sina unika, patenterade långa borst, i en kompakt och kostnadseffektiv matta tillverkad med återvunnen, biologiskt nedbrytbar EVA.",
@@ -694,7 +694,7 @@
     },
     "ekcoClip": {
       "name": "ëkco clip",
-      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "imageAlt": "Blå ëkco clip toalettskålsfräschare med flugaform och stänkkontrollkanter, sett ovanifrån på en svart bakgrund",
       "category": "WC-clip med fräsch doft som passar nästan alla toalettstolar",
       "short": "ëkco clip är ett doftande WC-clip för toalettstolen som ger kontinuerlig luktkontroll och håller toalettbåsen fräscha. Det är tillverkat av ett egenutvecklat material med doft på deodorantbas och avger doft gradvis i upp till 30 dagar. Tack vare den flexibla formen passar det de flesta typer av toalettstolar, är lätt att fästa och sprider doften väl.",
       "long": "ëkco clip är ett doftande WC-clip för toalettstolen som ger kontinuerlig luktkontroll och håller toalettbåsen fräscha. Det är tillverkat av ett egenutvecklat material med doft på deodorantbas och avger doft gradvis i upp till 30 dagar. Tack vare den flexibla formen passar det de flesta typer av toalettstolar, är lätt att fästa och sprider doften väl.\n\nëkco clip är tillverkat med återvunnen EVA. Själva materialet går att återvinna, men inte ett använt WC-clip, eftersom det är biologiskt förorenat. Det hamnar på deponi eller går till förbränning, och därför innehåller ëkco clip tillsatsen Eco-One™. I ett oberoende laboratorietest nådde ëkcos EVA med Eco-One™ 93 % biologisk nedbrytning inom 3,5 år, och upp till 99 % beräknas inom 5 år.\n\nëkco clip kombinerar kontinuerlig luktkontroll i upp till 30 dagar, enkel montering på de flesta toalettstolar och återvunnen, biologiskt nedbrytbar EVA.",
@@ -718,7 +718,7 @@
     },
     "freshDrop": {
       "name": "frësh drop",
-      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Blå och vit frësh drop teardrop luftfräschare med stänkkontrollborst, sett från ovan på en svart bakgrund",
       "category": "långvarig luftfräschare för WC som inte behöver batterier",
       "short": "frësh drop är en luftfräschare för inomhusbruk, utformad för toalettbås och toaletter. Doftinsatsen är tillverkad av ett egenutvecklat material med doft på deodorantbas och avger doft gradvis utan batterier eller el. I stängda bås med liten eller ingen ventilation räcker den 60+ dagar, och där luften rör sig mer sprids doften snabbare. Den droppformade designen passar in i alla toalettmiljöer, och med den medföljande tejpen är den enkel att montera på nästan alla ytor. Välj den kompakta ëkco loop för små utrymmen.",
       "long": "frësh drop är en luftfräschare för inomhusbruk, utformad för toalettbås och toaletter. Doftinsatsen är tillverkad av ett egenutvecklat material med doft på deodorantbas och avger doft gradvis utan batterier eller el. I stängda bås med liten eller ingen ventilation räcker den 60+ dagar, och där luften rör sig mer sprids doften snabbare. Den droppformade designen passar in i alla toalettmiljöer, och med den medföljande tejpen är den enkel att montera på nästan alla ytor. Välj den kompakta ëkco loop för små utrymmen.\n\nDoftinsatsen till frësh drop är tillverkad med återvunnen EVA, och materialet kan återvinnas. Både doftinsatsen och hållaren innehåller tillsatsen Eco-One™, så båda är biologiskt nedbrytbara på deponi. I ett oberoende laboratorietest nådde ëkcos EVA med Eco-One™ 93 % biologisk nedbrytning inom 3,5 år, och upp till 99 % beräknas inom 5 år.\n\nfrësh drop kombinerar 60+ dagars doft, enkel montering och en doftinsats med återvunnen, biologiskt nedbrytbar EVA för toalettbås och toaletter.",
@@ -746,7 +746,7 @@
     },
     "ezTrap": {
       "name": "ëz trap",
-      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "imageAlt": "Vit ëz trap vattenlös urinalpatron med svart sigill, fotograferad i vinkel mot en svart bakgrund",
       "category": "lukttät, lättskött patron för vattenfria urinoarer",
       "short": "ëz trap är ett innovativt patronsystem utformat för att förbättra effektiviteten, renligheten och luktkontrollen i vattenfria urinoarer och samtidigt sänka underhållskostnaderna avsevärt.",
       "long": "ëz trap är ett innovativt patronsystem utformat för att förbättra effektiviteten, renligheten och luktkontrollen i vattenfria urinoarer och samtidigt sänka underhållskostnaderna avsevärt.\n\nTack vare det patenterade patronsystemet i ëz trap rinner urinen naturligt genom sifonen, och ett förslutningslock tätar efter varje användning. Det hindrar lukt från att tränga ut och säkerställer att gammal urin förs bort ur systemet vid varje användning, vilket ger en fräschare toalettmiljö.\n\nëz trap är tillverkad med tillsatsen Eco-One™, som gör den biologiskt nedbrytbar på deponi. I ett oberoende laboratorietest nådde ëkcos material med Eco-One™ 93 % biologisk nedbrytning inom 3,5 år, och upp till 99 % beräknas inom 5 år.\n\nëz trap är ett effektivt, lättskött och kostnadsbesparande sätt att hålla avloppslukt borta från vattenfria urinoarer.",
@@ -771,7 +771,7 @@
     },
     "xcrenPuck": {
       "name": "xcrën puck",
-      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "imageAlt": "Blå xcrën puck X-formad pissoarskärm med central puckhållare, sett uppifrån på svart bakgrund",
       "category": "X-formad urinoarmatta med deodoriserande puck",
       "short": "xcrën puck är en urinoarmatta med en deodoriserande NON-PARA-puck, utformad för effektiv luktkontroll och skydd av avloppet. Den innehåller ingen paradiklorbensen (PARA), som WHO klassar som möjligen cancerframkallande. PARA-puckar används fortfarande i vissa urinoarmattor, medan EU-regler begränsar PARA i deodoranter för toaletter. Den X-formade designen hindrar fasta partiklar och skräp från att täppa till avloppet, och mattan avger en ren, fräsch doft vid varje användning i upp till 30 dagar.",
       "long": "xcrën puck är en urinoarmatta med en deodoriserande NON-PARA-puck, utformad för effektiv luktkontroll och skydd av avloppet. Den innehåller ingen paradiklorbensen (PARA), som WHO klassar som möjligen cancerframkallande. PARA-puckar används fortfarande i vissa urinoarmattor, medan EU-regler begränsar PARA i deodoranter för toaletter. Den X-formade designen hindrar fasta partiklar och skräp från att täppa till avloppet, och mattan avger en ren, fräsch doft vid varje användning i upp till 30 dagar.\n\nPucken består huvudsakligen av vax och glycerin och löses upp vid användning. xcrën puck är tillverkad med tillsatsen Eco-One™, som gör den biologiskt nedbrytbar på deponi. I ett oberoende laboratorietest nådde ëkcos material med Eco-One™ 93 % biologisk nedbrytning inom 3,5 år, och upp till 99 % beräknas inom 5 år. Det är en engångsprodukt, och pucken kan inte ersättas med en ny.\n\nxcrën puck är ett enkelt och effektivt sätt att hålla urinoarer fräscha och avlopp fria i upp till 30 dagar.",
@@ -799,7 +799,7 @@
     },
     "ekcoMat": {
       "name": "ëkco mat",
-      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "imageAlt": "Mörkgrå ëkco mat absorberande urinalgolvmatta, sett uppifrån på svart bakgrund",
       "category": "prisvärd golvmatta för urinoarer som skyddar ert golv",
       "short": "ëkco mat är en absorberande golvmatta för urinoarer, utformad för att förbättra hygienen på toaletten och skydda golvet mot urin som samlas. Med måtten 54 x 51 x 0,5 cm täcker den effektivt ytan runt de flesta standardurinoarer, förhindrar skador på golvet och minskar mängden urin som förs vidare med användarnas skosulor. Det bidrar till en renare och trivsammare toalettmiljö.",
       "long": "ëkco mat är en absorberande golvmatta för urinoarer, utformad för att förbättra hygienen på toaletten och skydda golvet mot urin som samlas. Med måtten 54 x 51 x 0,5 cm täcker den effektivt ytan runt de flesta standardurinoarer, förhindrar skador på golvet och minskar mängden urin som förs vidare med användarnas skosulor. Det bidrar till en renare och trivsammare toalettmiljö.\n\nëkco mat är en kostnadseffektiv engångslösning, idealisk för restauranger, hotell och andra välbesökta platser där hygienen prioriteras.\n\nëkco mat är en praktisk, hygienisk och budgetvänlig lösning för att hålla toalettutrymmen rena och professionella.",

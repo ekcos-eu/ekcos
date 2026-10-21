@@ -513,32 +513,32 @@
   },
   "products": {
     "page": {
-      "title": "Products",
-      "intro": "Switch models and finishes, then buy in the official store.",
-      "heroEyebrow": "Explore the range",
-      "heroTitle": "Configure every line in one place",
-      "heroSubtitle": "Choose finishes and fragrances - open the store when you are ready to buy.",
-      "heroLinkEco": "About Eco-One™",
+      "title": "Produkter",
+      "intro": "Skift model og finish - køb derefter i den officielle butik.",
+      "heroEyebrow": "Udforsk sortimentet",
+      "heroTitle": "Hver linje ét sted",
+      "heroSubtitle": "Finishes og dufte - åbn butikken, når du er klar til at købe.",
+      "heroLinkEco": "Mere om Eco-One™",
       "heroLinkBranding": "Custom branding"
     },
     "configurator": {
       "color": "Finish",
-      "selectProduct": "Select product",
-      "fragrance": "Fragrance options",
-      "benefits": "Benefits",
-      "productBenefits": "Product benefits",
-      "availableColorsFragrances": "Available colors & fragrances",
-      "sixtyDayBadge": "60 day PLUS anti-splash urinal screen",
-      "byBrand": "by ëkcos",
+      "selectProduct": "Vælg produkt",
+      "fragrance": "Duftmuligheder",
+      "benefits": "Fordele",
+      "productBenefits": "Produktfordele",
+      "availableColorsFragrances": "Tilgængelige farver & dufte",
+      "sixtyDayBadge": "60-dages PLUS anti-stænk urinalsi",
+      "byBrand": "fra ëkcos",
       "siteUrl": "www.ekcos.eu",
-      "useCases": "Typical applications",
-      "brandingNote": "Custom branding available for qualified orders."
+      "useCases": "Typiske anvendelser",
+      "brandingNote": "Custom branding tilgængelig for kvalificerede ordrer."
     },
     "colors": {
-      "white": "White",
-      "grey": "Grey",
-      "black": "Black",
-      "blue": "Blue"
+      "white": "Hvid",
+      "grey": "Grå",
+      "black": "Sort",
+      "blue": "Blå"
     },
     "fragrances": {
       "fresh": "Fresh",
@@ -559,7 +559,7 @@
     },
     "xcrenHd": {
       "name": "xcrën HD",
-      "imageAlt": "Blue xcrën HD urinal screen in an X shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Blå xcrën HD urinalskærm i X-form med børstehår til stænk, set fra oven på en sort baggrund",
       "category": "designurinalmåtte med xtrem stænkbeskyttelse",
       "badge": "designurinalmåtte med xtrem stænkbeskyttelse",
       "short": "xcrën HD 60+ er en urinalmåtte med duft og en patenteret form, der skiller sig ud i urinalet. I modsætning til typiske ovale måtter gør den urinalet til et designelement. Dens patenterede børstehår (Sealed Bristles Technology™) dækker 92 % af måtten og minimerer urinstænk og ubehagelig lugt. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i 60+ dage. På toiletter med få besøgende holder den endnu længere.",
@@ -597,7 +597,7 @@
     },
     "ekcoscreen": {
       "name": "ëkcoscreen",
-      "imageAlt": "Blue ëkcoscreen urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Blå ëkcoscreen urinalskærm i skjoldform med børstehår, der beskytter mod sprøjt, set fra oven på en sort baggrund",
       "category": "tung anti-stænk urinalmåtte, der dufter dobbelt så længe",
       "short": "ëkcoscreen 60+ er en urinalmåtte med duft og patenterede børstehår (Sealed Bristles Technology™), der dækker 95 % af måtten. Den minimerer urinstænk og ubehagelig lugt og giver et renere og mere behageligt toilet. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i 60+ dage, dobbelt så længe som standardmåtter med 30 dages duft. På toiletter med få besøgende holder den endnu længere.",
       "long": "ëkcoscreen 60+ er en urinalmåtte med duft og patenterede børstehår (Sealed Bristles Technology™), der dækker 95 % af måtten. Den minimerer urinstænk og ubehagelig lugt og giver et renere og mere behageligt toilet. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i 60+ dage, dobbelt så længe som standardmåtter med 30 dages duft. På toiletter med få besøgende holder den endnu længere.\n\nUdviklet til travle toiletter i restauranter, barer, lufthavne, indkøbscentre og andre steder med fokus på hygiejne forbedrer ëkcoscreen 60+ renligheden og lugtkontrollen.\n\nëkcoscreen 60+ er fremstillet med genanvendt EVA. Selve materialet kan genanvendes, men det kan en brugt urinalmåtte ikke, fordi den er biologisk forurenet. Den ender på deponi eller til forbrænding, og derfor indeholder ëkcoscreen 60+ additivet Eco-One™. I en uafhængig laboratorietest nåede EVA fra ëkcos med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, og op til 99 % forventes inden for 5 år.\n\nëkcoscreen 60+ kombinerer effektiv stænkbeskyttelse, 60+ dages duft og genanvendt, biologisk nedbrydeligt EVA-materiale til travle toiletter.",
@@ -622,7 +622,7 @@
     },
     "powerscreen": {
       "name": "powër screen",
-      "imageAlt": "Blue powër screen circular urinal screen with a starburst centre and splash-control bristles, seen from above on a black background",
+      "imageAlt": "Blå powër screen cirkulær urinalskærm med stjerneskud i midten og stænkkontrollerende børster, set fra oven på en sort baggrund",
       "category": "kraftig anti-stænk urinalmåtte til månedlig udskiftning",
       "short": "powër screen er en urinalmåtte med duft og et patenteret børstesystem (Sealed Bristles Technology™). Den minimerer urinstænk og ubehagelig lugt og giver et renere og mere behageligt toilet. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i op til 30 dage, hvilket gør den ideel til månedlig vedligeholdelse af urinaler.",
       "long": "powër screen er en urinalmåtte med duft og et patenteret børstesystem (Sealed Bristles Technology™). Den minimerer urinstænk og ubehagelig lugt og giver et renere og mere behageligt toilet. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i op til 30 dage, hvilket gør den ideel til månedlig vedligeholdelse af urinaler.\n\npowër screen er fremstillet med genanvendt EVA. Selve materialet kan genanvendes, men det kan en brugt urinalmåtte ikke, fordi den er biologisk forurenet. Den ender på deponi eller til forbrænding, og derfor indeholder powër screen additivet Eco-One™. I en uafhængig laboratorietest nåede EVA fra ëkcos med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, og op til 99 % forventes inden for 5 år.\n\npowër screen kombinerer effektiv stænkbeskyttelse, op til 30 dages duft og genanvendt, biologisk nedbrydeligt EVA-materiale til månedlig vedligeholdelse af toiletter.",
@@ -646,7 +646,7 @@
     },
     "basicScreen": {
       "name": "basic scrëen",
-      "imageAlt": "Blue basic scrëen urinal screen in a rounded triangular shape with drainage holes, seen from above on a black background",
+      "imageAlt": "Blå basic scrëen urinalskærm i en afrundet trekantet form med drænhuller, set fra oven på en sort baggrund",
       "category": "prisvenlig urinalmåtte, biologisk nedbrydelig på deponi",
       "short": "basic scrëen er en prisvenlig urinalmåtte, der deodoriserer urinaler og forhindrer, at snavs samler sig. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i op til 30 dage, hvilket gør den ideel til månedlig vedligeholdelse af urinaler.",
       "long": "basic scrëen er en prisvenlig urinalmåtte, der deodoriserer urinaler og forhindrer, at snavs samler sig. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i op til 30 dage, hvilket gør den ideel til månedlig vedligeholdelse af urinaler.\n\nbasic scrëen er fremstillet med genanvendt EVA. Selve materialet kan genanvendes, men det kan en brugt urinalmåtte ikke, fordi den er biologisk forurenet. Den ender på deponi eller til forbrænding, og derfor indeholder basic scrëen additivet Eco-One™. I en uafhængig laboratorietest nåede EVA fra ëkcos med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, og op til 99 % forventes inden for 5 år.\n\nbasic scrëen kombinerer pålidelig lugtkontrol, beskyttelse mod snavs og genanvendt, biologisk nedbrydeligt EVA-materiale til en lav pris.",
@@ -670,7 +670,7 @@
     },
     "urolite": {
       "name": "üro lite",
-      "imageAlt": "Blue üro lite compact urinal screen in a shield shape with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Blå üro lite kompakt urinalskærm i skjoldform med børstehår, der beskytter mod sprøjt, set fra oven på en sort baggrund",
       "category": "lille urinalmåtte, stor stænkbeskyttelse",
       "short": "üro lite er en fleksibel urinalmåtte med duft, udviklet til mindre urinaler. Den bruger den samme patenterede Sealed Bristles Technology™ som ëkcoscreen 60+, og i stedet for en større diameter satser den på lange børstehår, der giver stor stænkbeskyttelse i en lille måtte. Den holder urinstænk og ubehagelig lugt på et minimum. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i op til 30 dage, hvilket gør den ideel til månedlig vedligeholdelse af urinaler.",
       "long": "üro lite er en fleksibel urinalmåtte med duft, udviklet til mindre urinaler. Den bruger den samme patenterede Sealed Bristles Technology™ som ëkcoscreen 60+, og i stedet for en større diameter satser den på lange børstehår, der giver stor stænkbeskyttelse i en lille måtte. Den holder urinstænk og ubehagelig lugt på et minimum. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i op til 30 dage, hvilket gør den ideel til månedlig vedligeholdelse af urinaler.\n\nüro lite er fremstillet med genanvendt EVA. Selve materialet kan genanvendes, men det kan en brugt urinalmåtte ikke, fordi den er biologisk forurenet. Den ender på deponi eller til forbrænding, og derfor indeholder üro lite additivet Eco-One™. I en uafhængig laboratorietest nåede EVA fra ëkcos med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, og op til 99 % forventes inden for 5 år.\n\nüro lite giver mindre urinaler stor stænkbeskyttelse med sine unikke, patenterede lange børstehår i en kompakt, prisvenlig måtte fremstillet med genanvendt, biologisk nedbrydeligt EVA-materiale.",
@@ -694,7 +694,7 @@
     },
     "ekcoClip": {
       "name": "ëkco clip",
-      "imageAlt": "Blue ëkco clip toilet-bowl freshener with a bow-tie shape and splash-control ridges, seen from above on a black background",
+      "imageAlt": "Blå ëkco clip toiletskålopfrisker med sløjfeform og stænkkontrolkanter, set fra oven på en sort baggrund",
       "category": "toiletclips med frisk duft til næsten alle toiletkummer",
       "short": "ëkco clip er en toiletfrisker med clips, der giver løbende lugtkontrol og holder toiletbåsene friske. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i op til 30 dage. Det fleksible design passer til de fleste typer toiletkummer, så den er nem at sætte på og spreder duften godt.",
       "long": "ëkco clip er en toiletfrisker med clips, der giver løbende lugtkontrol og holder toiletbåsene friske. Den er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i op til 30 dage. Det fleksible design passer til de fleste typer toiletkummer, så den er nem at sætte på og spreder duften godt.\n\nëkco clip er fremstillet med genanvendt EVA. Selve materialet kan genanvendes, men det kan en brugt toiletclips ikke, fordi den er biologisk forurenet. Den ender på deponi eller til forbrænding, og derfor indeholder ëkco clip additivet Eco-One™. I en uafhængig laboratorietest nåede EVA fra ëkcos med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, og op til 99 % forventes inden for 5 år.\n\nëkco clip kombinerer løbende lugtkontrol i op til 30 dage, nem montering på de fleste toiletkummer og genanvendt, biologisk nedbrydeligt EVA-materiale.",
@@ -718,7 +718,7 @@
     },
     "freshDrop": {
       "name": "frësh drop",
-      "imageAlt": "Blue and white frësh drop teardrop air freshener with splash-control bristles, seen from above on a black background",
+      "imageAlt": "Blå og hvid frësh drop dråbeluftfrisker med stænkkontrollerende børster, set fra oven på en sort baggrund",
       "category": "langtidsvirkende WC-luftfrisker uden batterier",
       "short": "frësh drop er en luftfrisker til indendørs brug, udviklet til toiletbåse og toiletter. Indsatsen er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft uden batterier eller strøm. I lukkede toiletbåse med lidt eller ingen ventilation holder den i 60+ dage, og hvor luften bevæger sig mere, spredes duften hurtigere. Det dråbeformede design passer til ethvert toiletinteriør, og med den medfølgende tape er den nem at montere på næsten enhver overflade. Til små rum er den kompakte ëkco loop det rette valg.",
       "long": "frësh drop er en luftfrisker til indendørs brug, udviklet til toiletbåse og toiletter. Indsatsen er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft uden batterier eller strøm. I lukkede toiletbåse med lidt eller ingen ventilation holder den i 60+ dage, og hvor luften bevæger sig mere, spredes duften hurtigere. Det dråbeformede design passer til ethvert toiletinteriør, og med den medfølgende tape er den nem at montere på næsten enhver overflade. Til små rum er den kompakte ëkco loop det rette valg.\n\nIndsatsen i frësh drop er fremstillet med genanvendt EVA, og materialet kan genanvendes. Både indsatsen og holderen indeholder additivet Eco-One™, så begge er biologisk nedbrydelige på deponi. I en uafhængig laboratorietest nåede EVA fra ëkcos med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, og op til 99 % forventes inden for 5 år.\n\nfrësh drop kombinerer 60+ dages duft, nem montering og en indsats med genanvendt, biologisk nedbrydeligt EVA-materiale til toiletbåse og toiletter.",
@@ -746,7 +746,7 @@
     },
     "ezTrap": {
       "name": "ëz trap",
-      "imageAlt": "White ëz trap waterless urinal cartridge with a black seal, photographed at an angle on a black background",
+      "imageAlt": "Hvid ëz trap vandfri urinalpatron med sort segl, fotograferet i en vinkel på en sort baggrund",
       "category": "lugttæt, vedligeholdelsesvenlig patron til vandfri urinaler",
       "short": "ëz trap er et innovativt patronsystem, udviklet til at forbedre effektiviteten, renligheden og lugtkontrollen i vandfri urinaler og samtidig sænke vedligeholdelsesomkostningerne betydeligt.",
       "long": "ëz trap er et innovativt patronsystem, udviklet til at forbedre effektiviteten, renligheden og lugtkontrollen i vandfri urinaler og samtidig sænke vedligeholdelsesomkostningerne betydeligt.\n\nDet patenterede patronsystem fra ëz trap lader urinen løbe naturligt gennem vandlåsen, og en lukkehætte slutter tæt efter hver brug. Det forhindrer lugt i at slippe ud og sikrer, at gammel urin fjernes fra systemet ved hver brug, så toilettet holdes friskere.\n\nëz trap er fremstillet med additivet Eco-One™, som gør den biologisk nedbrydelig på deponi. I en uafhængig laboratorietest nåede materiale fra ëkcos med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, og op til 99 % forventes inden for 5 år.\n\nëz trap er en effektiv, vedligeholdelsesvenlig og omkostningsbesparende løsning, der holder lugt fra afløbet væk fra vandfri urinaler.",
@@ -771,7 +771,7 @@
     },
     "xcrenPuck": {
       "name": "xcrën puck",
-      "imageAlt": "Blue xcrën puck X-shaped urinal screen with a central puck holder, seen from above on a black background",
+      "imageAlt": "Blå xcrën puck X-formet urinalskærm med central puckholder, set fra oven på sort baggrund",
       "category": "X-formet urinalmåtte med deodoriserende puck",
       "short": "xcrën puck er en urinalmåtte med en deodoriserende NON-PARA-puck, udviklet til effektiv lugtkontrol og beskyttelse af afløbet. Den indeholder ikke paradichlorbenzen (PARA), som WHO klassificerer som muligvis kræftfremkaldende. PARA-pucke bruges stadig i nogle urinalmåtter, mens EU-regler begrænser PARA i toiletfriskere. Det X-formede design forhindrer faste stoffer og snavs i at stoppe afløbet til, og den afgiver en ren, frisk duft ved hver brug i op til 30 dage.",
       "long": "xcrën puck er en urinalmåtte med en deodoriserende NON-PARA-puck, udviklet til effektiv lugtkontrol og beskyttelse af afløbet. Den indeholder ikke paradichlorbenzen (PARA), som WHO klassificerer som muligvis kræftfremkaldende. PARA-pucke bruges stadig i nogle urinalmåtter, mens EU-regler begrænser PARA i toiletfriskere. Det X-formede design forhindrer faste stoffer og snavs i at stoppe afløbet til, og den afgiver en ren, frisk duft ved hver brug i op til 30 dage.\n\nPucken består hovedsageligt af voks og glycerin og opløses ved brug. xcrën puck er fremstillet med additivet Eco-One™, som gør den biologisk nedbrydelig på deponi. I en uafhængig laboratorietest nåede materiale fra ëkcos med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, og op til 99 % forventes inden for 5 år. Det er et engangsprodukt, og pucken kan ikke erstattes med en ny.\n\nxcrën puck er en enkel og effektiv måde at holde urinaler friske og afløb frie på i op til 30 dage.",
@@ -799,7 +799,7 @@
     },
     "ekcoMat": {
       "name": "ëkco mat",
-      "imageAlt": "Dark grey ëkco mat absorbent urinal floor mat, seen from above on a black background",
+      "imageAlt": "Mørkegrå ëkco mat absorberende urinal gulvmåtte, set fra oven på en sort baggrund",
       "category": "økonomisk urinalgulvmåtte, der beskytter gulvet",
       "short": "ëkco mat er en absorberende gulvmåtte til urinaler, udviklet til at forbedre hygiejnen på toilettet og beskytte gulve mod ophobning af urin. Med målene 54 x 51 x 0,5 cm dækker den effektivt området omkring de fleste standardurinaler, forhindrer skader på gulvet og mindsker overførsel af urin via brugernes skosåler. Det hjælper med at holde toilettet renere og mere behageligt.",
       "long": "ëkco mat er en absorberende gulvmåtte til urinaler, udviklet til at forbedre hygiejnen på toilettet og beskytte gulve mod ophobning af urin. Med målene 54 x 51 x 0,5 cm dækker den effektivt området omkring de fleste standardurinaler, forhindrer skader på gulvet og mindsker overførsel af urin via brugernes skosåler. Det hjælper med at holde toilettet renere og mere behageligt.\n\nëkco mat er en prisvenlig engangsløsning, ideel til restauranter, hoteller og andre travle steder, hvor hygiejne prioriteres.\n\nëkco mat er en praktisk, hygiejnisk og budgetvenlig løsning til rene og professionelle toiletter.",
