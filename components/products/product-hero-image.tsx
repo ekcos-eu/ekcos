@@ -9,12 +9,21 @@ type Props = {
   src: string
   alt: string
   className?: string
+  onClick?: () => void
+  /** Accessible name when the stage is clickable (e.g. open gallery). */
+  clickLabel?: string
 }
 
 /**
  * Interactive product hero: 3D tilt + hover scale.
  */
-export function ProductHeroImage({ src, alt, className }: Props) {
+export function ProductHeroImage({
+  src,
+  alt,
+  className,
+  onClick,
+  clickLabel,
+}: Props) {
   const reduceMotion = useReducedMotion()
   const stageRef = React.useRef<HTMLDivElement>(null)
   const [hovered, setHovered] = React.useState(false)
@@ -54,10 +63,25 @@ export function ProductHeroImage({ src, alt, className }: Props) {
   return (
     <div
       ref={stageRef}
+      role={onClick ? 'button' : undefined}
+      tabIndex={onClick ? 0 : undefined}
+      aria-label={onClick ? (clickLabel ?? alt) : undefined}
       className={cn(
         'product-hero-stage relative h-full w-full overflow-hidden rounded-2xl',
+        onClick && 'cursor-zoom-in',
         className,
       )}
+      onClick={onClick}
+      onKeyDown={
+        onClick
+          ? (e) => {
+              if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault()
+                onClick()
+              }
+            }
+          : undefined
+      }
       onPointerMove={handlePointerMove}
       onPointerEnter={() => setHovered(true)}
       onPointerLeave={handlePointerLeave}

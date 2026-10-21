@@ -127,6 +127,13 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
     [activeColorKey, detail.detailImages],
   )
 
+  /** Lightbox: hero shot first, then color-matched detail photos (no duplicates). */
+  const lightboxImages = React.useMemo(() => {
+    if (!displayImg) return detailImagesForColor
+    const details = detailImagesForColor.filter((src) => src !== displayImg)
+    return [displayImg, ...details]
+  }, [displayImg, detailImagesForColor])
+
   const colorScentLabel = resolveColorScentLabel(
     displayImg,
     galleryKind === 'base'
@@ -238,8 +245,8 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
             if (!detailLightboxOpen) setAutoplayPaused(false)
           }}
         >
-          {/* Main image */}
-          <div className="relative aspect-square overflow-hidden rounded-2xl bg-[#f0f4f8]">
+          {/* Main image — transparent stage so product colors are not washed by a blue panel */}
+          <div className="relative aspect-square overflow-hidden rounded-2xl bg-transparent">
             <AnimatePresence mode="wait">
               <motion.div
                 key={displayImg}
@@ -252,31 +259,38 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
                 <ProductHeroImage
                   src={displayImg}
                   alt={`${localizedProduct.name} - ${galleryImages.indexOf(displayImg) + 1}`}
+                  clickLabel={t('openDetails')}
+                  onClick={
+                    lightboxImages.length > 0
+                      ? () => setDetailLightboxOpen(true)
+                      : undefined
+                  }
                 />
               </motion.div>
             </AnimatePresence>
 
-            {colorScentLabel ? (
-              <AnimatePresence mode="wait">
-                <motion.p
-                  key={colorScentLabel}
-                  initial={{ opacity: 0, y: -4 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  exit={{ opacity: 0, y: -4 }}
-                  transition={{ duration: 0.2 }}
-                  className="pointer-events-none absolute left-4 top-4 z-10 text-xs font-medium lowercase tracking-wide text-[#575756]/80 sm:left-5 sm:top-5 sm:text-sm"
-                >
-                  {colorScentLabel}
-                </motion.p>
-              </AnimatePresence>
-            ) : null}
-
             <ProductDetailLightbox
-              images={detailImagesForColor}
+              images={lightboxImages}
               productName={localizedProduct.name}
+              open={detailLightboxOpen}
               onOpenChange={setDetailLightboxOpen}
             />
           </div>
+
+          {colorScentLabel ? (
+            <AnimatePresence mode="wait">
+              <motion.p
+                key={colorScentLabel}
+                initial={{ opacity: 0, y: 4 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, y: -4 }}
+                transition={{ duration: 0.2 }}
+                className="text-sm font-medium lowercase tracking-wide text-[#0F68B2] sm:text-base"
+              >
+                {colorScentLabel}
+              </motion.p>
+            </AnimatePresence>
+          ) : null}
 
           {/* Thumbnail rail */}
           {galleryImages.length > 1 && (
