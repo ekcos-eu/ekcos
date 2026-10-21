@@ -15,11 +15,11 @@
     "privateLabelTitle": "Marcă privată",
     "privateLabelDescription": "Vindeți produsele ëkcos pentru toalete sub propria marcă - marcă privată pentru distribuitori.",
     "faqTitle": "FAQ",
-    "faqDescription": "Clear answers about ëkcos products, materials, Eco-One™, private label, and ordering.",
-    "faqDistributorsTitle": "FAQ for distributors",
-    "faqDistributorsDescription": "Answers for partners about products, materials, documents, and working with ëkcos.",
-    "faqEshopTitle": "FAQ for the e-shop",
-    "faqEshopDescription": "Answers about products, delivery, payment, returns, and ordering on eshop.ekcos.eu."
+    "faqDescription": "Răspunsuri clare despre produsele ëkcos, materiale, Eco-One™, private label și comenzi.",
+    "faqDistributorsTitle": "FAQ pentru distribuitori",
+    "faqDistributorsDescription": "Răspunsuri pentru parteneri despre produse, materiale, documente și colaborarea cu ëkcos.",
+    "faqEshopTitle": "FAQ pentru e-shop",
+    "faqEshopDescription": "Răspunsuri despre produse, livrare, plată, retururi și comenzi pe eshop.ekcos.eu."
   },
   "LocaleSwitcher": {
     "label": "Limbă",
@@ -896,27 +896,27 @@
     }
   },
   "faq": {
-    "error": "This FAQ section could not be loaded. Please refresh the page.",
-    "tocLabel": "In this FAQ",
-    "switchLabel": "Looking for a different FAQ?",
+    "error": "Această secțiune FAQ nu a putut fi încărcată. Reîmprospătați pagina.",
+    "tocLabel": "În acest FAQ",
+    "switchLabel": "Căutați un alt FAQ?",
     "nav": {
       "distributors": "Distribuitori",
       "eshop": "E-shop"
     },
     "audiences": {
       "distributors": {
-        "eyebrow": "For partners"
+        "eyebrow": "Pentru parteneri"
       },
       "eshop": {
-        "eyebrow": "For e-shop customers"
+        "eyebrow": "Pentru clienții e-shop"
       }
     },
     "hub": {
       "title": "FAQ",
-      "tagline": "Your questions, our facts",
-      "intro": "Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.",
-      "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
-      "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
+      "tagline": "Întrebările dvs., faptele noastre",
+      "intro": "Alegeți FAQ-ul potrivit modului în care cumpărați de la ëkcos - ca partener distribuitor sau ca client e-shop.",
+      "distributorsDescription": "Produse, materiale, Eco-One™, private label, documente și colaborare cu ëkcos.",
+      "eshopDescription": "Produse, comenzi, plată, livrare, retururi și cumpărături pe eshop.ekcos.eu."
     }
   }
 }

@@ -198,11 +198,13 @@ async function main() {
     .filter((loc) => !SKIP.has(loc))
 
   const targets = (argLocales.length ? argLocales : all).filter((loc) => {
-    if (loc === 'sl') {
-      console.log('skip sl (not on eshop)')
+    // Slovenian is omitted from Shopify, but marketing site still needs a full pack.
+    // Auto-queue skips sl unless explicitly passed as a CLI arg.
+    if (loc === 'sl' && !argLocales.includes('sl')) {
+      console.log('skip sl (pass `sl` explicitly for marketing site)')
       return false
     }
-    if (SKIP.has(loc)) return false
+    if (SKIP.has(loc) && !argLocales.includes(loc)) return false
     if (argLocales.length) return true
     const path = join(FAQ_DIR, `${loc}.json`)
     try {

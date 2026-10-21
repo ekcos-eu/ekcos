@@ -70,7 +70,8 @@ export function getFaqContent(
   locale: string,
 ): FaqContent {
   const primary = readFaqFile(audience, locale)
-  const expected = audience === 'distributors' ? 30 : 35
+  // Full EN packs: distributors 39, eshop 45. Incomplete locale files fall back to EN.
+  const expected = audience === 'distributors' ? 39 : 45
   if (primary && itemCount(primary) >= expected) return primary
 
   const fallback = readFaqFile(audience, defaultLocale)

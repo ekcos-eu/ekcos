@@ -14,12 +14,12 @@
     "contactDescription": "Spetsifikatsioonide, programmide ja partnerlussuhete saamiseks pöörduge ëkcos meeskonna poole.",
     "privateLabelTitle": "Private Label",
     "privateLabelDescription": "Müüge ëkcos pesuruumitooteid oma kaubamärgi all – edasimüüjatele mõeldud privaatne kaubamärk.",
-    "faqTitle": "FAQ",
-    "faqDescription": "Clear answers about ëkcos products, materials, Eco-One™, private label, and ordering.",
-    "faqDistributorsTitle": "FAQ for distributors",
-    "faqDistributorsDescription": "Answers for partners about products, materials, documents, and working with ëkcos.",
-    "faqEshopTitle": "FAQ for the e-shop",
-    "faqEshopDescription": "Answers about products, delivery, payment, returns, and ordering on eshop.ekcos.eu."
+    "faqTitle": "KKK",
+    "faqDescription": "Selged vastused ëkcos toodete, materjalide, Eco-One™, private labeli ja tellimuste kohta.",
+    "faqDistributorsTitle": "KKK edasimüüjatele",
+    "faqDistributorsDescription": "Vastused partneritele toodete, materjalide, dokumentide ja ëkcosiga koostöö kohta.",
+    "faqEshopTitle": "KKK e-poe jaoks",
+    "faqEshopDescription": "Vastused toodete, tarne, makse, tagastuste ja tellimuste kohta aadressil eshop.ekcos.eu."
   },
   "LocaleSwitcher": {
     "label": "Keel",
@@ -896,27 +896,27 @@
     }
   },
   "faq": {
-    "error": "This FAQ section could not be loaded. Please refresh the page.",
-    "tocLabel": "In this FAQ",
-    "switchLabel": "Looking for a different FAQ?",
+    "error": "Seda KKK jaotist ei õnnestunud laadida. Värskendage lehte.",
+    "tocLabel": "Selles KKK-s",
+    "switchLabel": "Otsite teist KKK-d?",
     "nav": {
       "distributors": "Distribuutorid",
       "eshop": "E-pood"
     },
     "audiences": {
       "distributors": {
-        "eyebrow": "For partners"
+        "eyebrow": "Partneritele"
       },
       "eshop": {
-        "eyebrow": "For e-shop customers"
+        "eyebrow": "E-poe klientidele"
       }
     },
     "hub": {
-      "title": "FAQ",
-      "tagline": "Your questions, our facts",
-      "intro": "Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.",
-      "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
-      "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
+      "title": "KKK",
+      "tagline": "Teie küsimused, meie faktid",
+      "intro": "Valige KKK vastavalt sellele, kuidas te ëkcosilt ostate - edasimüüja partnerina või e-poe kliendina.",
+      "distributorsDescription": "Tooted, materjalid, Eco-One™, private label, dokumendid ja koostöö ëkcosiga.",
+      "eshopDescription": "Tooted, tellimused, makse, tarne, tagastused ja ostmine aadressil eshop.ekcos.eu."
     }
   }
 }

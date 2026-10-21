@@ -15,11 +15,11 @@
     "privateLabelTitle": "Marca Própria",
     "privateLabelDescription": "Venda produtos de banheiro ëkcos sob sua própria marca - marca própria para distribuidores.",
     "faqTitle": "FAQ",
-    "faqDescription": "Clear answers about ëkcos products, materials, Eco-One™, private label, and ordering.",
-    "faqDistributorsTitle": "FAQ for distributors",
-    "faqDistributorsDescription": "Answers for partners about products, materials, documents, and working with ëkcos.",
-    "faqEshopTitle": "FAQ for the e-shop",
-    "faqEshopDescription": "Answers about products, delivery, payment, returns, and ordering on eshop.ekcos.eu."
+    "faqDescription": "Respostas claras sobre produtos ëkcos, materiais, Eco-One™, marca própria e encomendas.",
+    "faqDistributorsTitle": "FAQ para distribuidores",
+    "faqDistributorsDescription": "Respostas para parceiros sobre produtos, materiais, documentos e colaboração com ëkcos.",
+    "faqEshopTitle": "FAQ da loja online",
+    "faqEshopDescription": "Respostas sobre produtos, entrega, pagamento, devoluções e encomendas em eshop.ekcos.eu."
   },
   "LocaleSwitcher": {
     "label": "Linguagem",
@@ -57,7 +57,7 @@
       "label": "Marca Própria"
     },
     "faq": {
-      "label": "Perguntas frequentes",
+      "label": "FAQ",
       "distributors": "Distribuidores",
       "eshop": "E-shop"
     },
@@ -895,27 +895,27 @@
     }
   },
   "faq": {
-    "error": "This FAQ section could not be loaded. Please refresh the page.",
-    "tocLabel": "In this FAQ",
-    "switchLabel": "Looking for a different FAQ?",
+    "error": "Não foi possível carregar esta secção FAQ. Atualize a página.",
+    "tocLabel": "Neste FAQ",
+    "switchLabel": "Procura um FAQ diferente?",
     "nav": {
       "distributors": "Distribuidores",
       "eshop": "E-shop"
     },
     "audiences": {
       "distributors": {
-        "eyebrow": "For partners"
+        "eyebrow": "Para parceiros"
       },
       "eshop": {
-        "eyebrow": "For e-shop customers"
+        "eyebrow": "Para clientes da loja online"
       }
     },
     "hub": {
       "title": "FAQ",
-      "tagline": "Your questions, our facts",
-      "intro": "Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.",
-      "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
-      "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
+      "tagline": "As suas perguntas, os nossos factos",
+      "intro": "Escolha o FAQ adequado à forma como compra na ëkcos - como parceiro distribuidor ou como cliente da loja online.",
+      "distributorsDescription": "Produtos, materiais, Eco-One™, marca própria, documentos e colaboração com ëkcos.",
+      "eshopDescription": "Produtos, encomendas, pagamento, entrega, devoluções e compras em eshop.ekcos.eu."
     }
   }
 }

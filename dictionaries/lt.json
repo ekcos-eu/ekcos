@@ -14,12 +14,12 @@
     "contactDescription": "Dėl specifikacijų, programų ir partnerysčių susisiekite su ëkcos komanda.",
     "privateLabelTitle": "Privati markė",
     "privateLabelDescription": "Parduokite ëkcos prausyklos gaminius su savo prekės ženklu – platintojams skirtu privačiu prekės ženklu.",
-    "faqTitle": "FAQ",
-    "faqDescription": "Clear answers about ëkcos products, materials, Eco-One™, private label, and ordering.",
-    "faqDistributorsTitle": "FAQ for distributors",
-    "faqDistributorsDescription": "Answers for partners about products, materials, documents, and working with ëkcos.",
-    "faqEshopTitle": "FAQ for the e-shop",
-    "faqEshopDescription": "Answers about products, delivery, payment, returns, and ordering on eshop.ekcos.eu."
+    "faqTitle": "DUK",
+    "faqDescription": "Aiškūs atsakymai apie ëkcos produktus, medžiagas, Eco-One™, private label ir užsakymus.",
+    "faqDistributorsTitle": "DUK platintojams",
+    "faqDistributorsDescription": "Atsakymai partneriams apie produktus, medžiagas, dokumentus ir bendradarbiavimą su ëkcos.",
+    "faqEshopTitle": "DUK el. parduotuvei",
+    "faqEshopDescription": "Atsakymai apie produktus, pristatymą, mokėjimą, grąžinimus ir užsakymus eshop.ekcos.eu."
   },
   "LocaleSwitcher": {
     "label": "Kalba",
@@ -896,27 +896,27 @@
     }
   },
   "faq": {
-    "error": "This FAQ section could not be loaded. Please refresh the page.",
-    "tocLabel": "In this FAQ",
-    "switchLabel": "Looking for a different FAQ?",
+    "error": "Šios DUK skilties nepavyko įkelti. Atnaujinkite puslapį.",
+    "tocLabel": "Šiame DUK",
+    "switchLabel": "Ieškote kito DUK?",
     "nav": {
       "distributors": "Platintojai",
       "eshop": "E. parduotuvė"
     },
     "audiences": {
       "distributors": {
-        "eyebrow": "For partners"
+        "eyebrow": "Partneriams"
       },
       "eshop": {
-        "eyebrow": "For e-shop customers"
+        "eyebrow": "El. parduotuvės klientams"
       }
     },
     "hub": {
-      "title": "FAQ",
-      "tagline": "Your questions, our facts",
-      "intro": "Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.",
-      "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
-      "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
+      "title": "DUK",
+      "tagline": "Jūsų klausimai, mūsų faktai",
+      "intro": "Pasirinkite DUK pagal tai, kaip perkate iš ëkcos - kaip platintojo partneris arba kaip el. parduotuvės klientas.",
+      "distributorsDescription": "Produktai, medžiagos, Eco-One™, private label, dokumentai ir bendradarbiavimas su ëkcos.",
+      "eshopDescription": "Produktai, užsakymai, mokėjimas, pristatymas, grąžinimai ir apsipirkimas eshop.ekcos.eu."
     }
   }
 }

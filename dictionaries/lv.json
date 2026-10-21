@@ -14,12 +14,12 @@
     "contactDescription": "Sazinieties ar ëkcos komandu, lai uzzinātu specifikācijas, programmas un partnerības.",
     "privateLabelTitle": "Privātā preču zīme",
     "privateLabelDescription": "Pārdodiet ëkcos tualetes piederumus ar savu zīmolu - izplatītāju privāto zīmolu.",
-    "faqTitle": "FAQ",
-    "faqDescription": "Clear answers about ëkcos products, materials, Eco-One™, private label, and ordering.",
-    "faqDistributorsTitle": "FAQ for distributors",
-    "faqDistributorsDescription": "Answers for partners about products, materials, documents, and working with ëkcos.",
-    "faqEshopTitle": "FAQ for the e-shop",
-    "faqEshopDescription": "Answers about products, delivery, payment, returns, and ordering on eshop.ekcos.eu."
+    "faqTitle": "BUJ",
+    "faqDescription": "Skaidras atbildes par ëkcos produktiem, materiāliem, Eco-One™, private label un pasūtījumiem.",
+    "faqDistributorsTitle": "BUJ izplatītājiem",
+    "faqDistributorsDescription": "Atbildes partneriem par produktiem, materiāliem, dokumentiem un sadarbību ar ëkcos.",
+    "faqEshopTitle": "BUJ e-veikalam",
+    "faqEshopDescription": "Atbildes par produktiem, piegādi, maksājumu, atgriešanu un pasūtījumiem vietnē eshop.ekcos.eu."
   },
   "LocaleSwitcher": {
     "label": "Valoda",
@@ -57,7 +57,7 @@
       "label": "Privātā preču zīme"
     },
     "faq": {
-      "label": "FAQ",
+      "label": "BUJ",
       "distributors": "Izplatītāji",
       "eshop": "E-veikals"
     },
@@ -895,27 +895,27 @@
     }
   },
   "faq": {
-    "error": "This FAQ section could not be loaded. Please refresh the page.",
-    "tocLabel": "In this FAQ",
-    "switchLabel": "Looking for a different FAQ?",
+    "error": "Šo BUJ sadaļu neizdevās ielādēt. Atsvaidziniet lapu.",
+    "tocLabel": "Šajā BUJ",
+    "switchLabel": "Meklējat citu BUJ?",
     "nav": {
       "distributors": "Izplatītāji",
       "eshop": "E-veikals"
     },
     "audiences": {
       "distributors": {
-        "eyebrow": "For partners"
+        "eyebrow": "Partneriem"
       },
       "eshop": {
-        "eyebrow": "For e-shop customers"
+        "eyebrow": "E-veikala klientiem"
       }
     },
     "hub": {
-      "title": "FAQ",
-      "tagline": "Your questions, our facts",
-      "intro": "Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.",
-      "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
-      "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
+      "title": "BUJ",
+      "tagline": "Jūsu jautājumi, mūsu fakti",
+      "intro": "Izvēlieties BUJ atbilstoši tam, kā pērkat no ëkcos - kā izplatītāja partneris vai kā e-veikala klients.",
+      "distributorsDescription": "Produkti, materiāli, Eco-One™, private label, dokumenti un sadarbība ar ëkcos.",
+      "eshopDescription": "Produkti, pasūtījumi, maksājums, piegāde, atgriešana un iepirkšanās vietnē eshop.ekcos.eu."
     }
   }
 }

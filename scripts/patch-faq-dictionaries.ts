@@ -318,22 +318,452 @@ const packs: Record<string, Pack> = {
       },
     },
   },
-}
-
-const navOnly: Record<string, { distributors: string; eshop: string }> = {
-  pt: { distributors: 'Distribuidores', eshop: 'E-shop' },
-  sv: { distributors: 'Distributörer', eshop: 'E-shop' },
-  da: { distributors: 'Distributører', eshop: 'E-shop' },
-  fi: { distributors: 'Jälleenmyyjät', eshop: 'Verkkokauppa' },
-  el: { distributors: 'Διανομείς', eshop: 'E-shop' },
-  hu: { distributors: 'Disztribútorok', eshop: 'E-shop' },
-  ro: { distributors: 'Distribuitori', eshop: 'E-shop' },
-  bg: { distributors: 'Дистрибутори', eshop: 'E-shop' },
-  hr: { distributors: 'Distributeri', eshop: 'E-shop' },
-  sl: { distributors: 'Distributerji', eshop: 'E-shop' },
-  et: { distributors: 'Distribuutorid', eshop: 'E-pood' },
-  lv: { distributors: 'Izplatītāji', eshop: 'E-veikals' },
-  lt: { distributors: 'Platintojai', eshop: 'E. parduotuvė' },
+  pt: {
+    Metadata: {
+      faqTitle: 'FAQ',
+      faqDescription:
+        'Respostas claras sobre produtos ëkcos, materiais, Eco-One™, marca própria e encomendas.',
+      faqDistributorsTitle: 'FAQ para distribuidores',
+      faqDistributorsDescription:
+        'Respostas para parceiros sobre produtos, materiais, documentos e colaboração com ëkcos.',
+      faqEshopTitle: 'FAQ da loja online',
+      faqEshopDescription:
+        'Respostas sobre produtos, entrega, pagamento, devoluções e encomendas em eshop.ekcos.eu.',
+    },
+    nav: { distributors: 'Distribuidores', eshop: 'E-shop' },
+    faq: {
+      error:
+        'Não foi possível carregar esta secção FAQ. Atualize a página.',
+      tocLabel: 'Neste FAQ',
+      switchLabel: 'Procura um FAQ diferente?',
+      nav: { distributors: 'Distribuidores', eshop: 'E-shop' },
+      audiences: {
+        distributors: { eyebrow: 'Para parceiros' },
+        eshop: { eyebrow: 'Para clientes da loja online' },
+      },
+      hub: {
+        title: 'FAQ',
+        tagline: 'As suas perguntas, os nossos factos',
+        intro:
+          'Escolha o FAQ adequado à forma como compra na ëkcos - como parceiro distribuidor ou como cliente da loja online.',
+        distributorsDescription:
+          'Produtos, materiais, Eco-One™, marca própria, documentos e colaboração com ëkcos.',
+        eshopDescription:
+          'Produtos, encomendas, pagamento, entrega, devoluções e compras em eshop.ekcos.eu.',
+      },
+    },
+  },
+  sv: {
+    Metadata: {
+      faqTitle: 'FAQ',
+      faqDescription:
+        'Tydliga svar om ëkcos produkter, material, Eco-One™, private label och beställningar.',
+      faqDistributorsTitle: 'FAQ för distributörer',
+      faqDistributorsDescription:
+        'Svar för partners om produkter, material, dokument och samarbete med ëkcos.',
+      faqEshopTitle: 'FAQ för e-handeln',
+      faqEshopDescription:
+        'Svar om produkter, leverans, betalning, returer och beställningar på eshop.ekcos.eu.',
+    },
+    nav: { distributors: 'Distributörer', eshop: 'E-shop' },
+    faq: {
+      error: 'Den här FAQ-sektionen kunde inte laddas. Uppdatera sidan.',
+      tocLabel: 'I denna FAQ',
+      switchLabel: 'Letar du efter en annan FAQ?',
+      nav: { distributors: 'Distributörer', eshop: 'E-shop' },
+      audiences: {
+        distributors: { eyebrow: 'För partners' },
+        eshop: { eyebrow: 'För e-handelskunder' },
+      },
+      hub: {
+        title: 'FAQ',
+        tagline: 'Era frågor, våra fakta',
+        intro:
+          'Välj den FAQ som matchar hur ni handlar hos ëkcos - som distributionspartner eller som e-handelskund.',
+        distributorsDescription:
+          'Produkter, material, Eco-One™, private label, dokument och samarbete med ëkcos.',
+        eshopDescription:
+          'Produkter, beställningar, betalning, leverans, returer och shopping på eshop.ekcos.eu.',
+      },
+    },
+  },
+  da: {
+    Metadata: {
+      faqTitle: 'FAQ',
+      faqDescription:
+        'Klare svar om ëkcos-produkter, materialer, Eco-One™, private label og bestillinger.',
+      faqDistributorsTitle: 'FAQ for distributører',
+      faqDistributorsDescription:
+        'Svar til partnere om produkter, materialer, dokumenter og samarbejde med ëkcos.',
+      faqEshopTitle: 'FAQ til webshoppen',
+      faqEshopDescription:
+        'Svar om produkter, levering, betaling, returnering og bestillinger på eshop.ekcos.eu.',
+    },
+    nav: { distributors: 'Distributører', eshop: 'E-shop' },
+    faq: {
+      error: 'Denne FAQ-sektion kunne ikke indlæses. Opdater siden.',
+      tocLabel: 'I denne FAQ',
+      switchLabel: 'Leder du efter en anden FAQ?',
+      nav: { distributors: 'Distributører', eshop: 'E-shop' },
+      audiences: {
+        distributors: { eyebrow: 'Til partnere' },
+        eshop: { eyebrow: 'Til webshopkunder' },
+      },
+      hub: {
+        title: 'FAQ',
+        tagline: 'Jeres spørgsmål, vores fakta',
+        intro:
+          'Vælg den FAQ, der matcher, hvordan I køber hos ëkcos - som distributionspartner eller som webshopkunde.',
+        distributorsDescription:
+          'Produkter, materialer, Eco-One™, private label, dokumenter og samarbejde med ëkcos.',
+        eshopDescription:
+          'Produkter, ordrer, betaling, levering, returnering og shopping på eshop.ekcos.eu.',
+      },
+    },
+  },
+  fi: {
+    Metadata: {
+      faqTitle: 'FAQ',
+      faqDescription:
+        'Selkeät vastaukset ëkcos-tuotteista, materiaaleista, Eco-One™:sta, private labelista ja tilauksista.',
+      faqDistributorsTitle: 'FAQ jälleenmyyjille',
+      faqDistributorsDescription:
+        'Vastauksia kumppaneille tuotteista, materiaaleista, asiakirjoista ja yhteistyöstä ëkcosin kanssa.',
+      faqEshopTitle: 'FAQ verkkokaupalle',
+      faqEshopDescription:
+        'Vastauksia tuotteista, toimituksesta, maksusta, palautuksista ja tilauksista osoitteessa eshop.ekcos.eu.',
+    },
+    nav: { distributors: 'Jälleenmyyjät', eshop: 'Verkkokauppa' },
+    faq: {
+      error: 'Tätä FAQ-osiota ei voitu ladata. Päivitä sivu.',
+      tocLabel: 'Tässä FAQ:ssa',
+      switchLabel: 'Etsitkö toista FAQ:ta?',
+      nav: { distributors: 'Jälleenmyyjät', eshop: 'Verkkokauppa' },
+      audiences: {
+        distributors: { eyebrow: 'Kumppaneille' },
+        eshop: { eyebrow: 'Verkkokaupan asiakkaille' },
+      },
+      hub: {
+        title: 'FAQ',
+        tagline: 'Kysymyksenne, meidän faktamme',
+        intro:
+          'Valitse FAQ sen mukaan, miten ostat ëkcosilta - jakelukumppanina tai verkkokaupan asiakkaana.',
+        distributorsDescription:
+          'Tuotteet, materiaalit, Eco-One™, private label, asiakirjat ja yhteistyö ëkcosin kanssa.',
+        eshopDescription:
+          'Tuotteet, tilaukset, maksu, toimitus, palautukset ja ostaminen osoitteessa eshop.ekcos.eu.',
+      },
+    },
+  },
+  el: {
+    Metadata: {
+      faqTitle: 'FAQ',
+      faqDescription:
+        'Σαφείς απαντήσεις για προϊόντα ëkcos, υλικά, Eco-One™, private label και παραγγελίες.',
+      faqDistributorsTitle: 'FAQ για διανομείς',
+      faqDistributorsDescription:
+        'Απαντήσεις για συνεργάτες σχετικά με προϊόντα, υλικά, έγγραφα και συνεργασία με την ëkcos.',
+      faqEshopTitle: 'FAQ για το e-shop',
+      faqEshopDescription:
+        'Απαντήσεις για προϊόντα, παράδοση, πληρωμή, επιστροφές και παραγγελίες στο eshop.ekcos.eu.',
+    },
+    nav: { distributors: 'Διανομείς', eshop: 'E-shop' },
+    faq: {
+      error:
+        'Αυτή η ενότητα FAQ δεν μπόρεσε να φορτωθεί. Ανανεώστε τη σελίδα.',
+      tocLabel: 'Σε αυτό το FAQ',
+      switchLabel: 'Ψάχνετε για άλλο FAQ;',
+      nav: { distributors: 'Διανομείς', eshop: 'E-shop' },
+      audiences: {
+        distributors: { eyebrow: 'Για συνεργάτες' },
+        eshop: { eyebrow: 'Για πελάτες e-shop' },
+      },
+      hub: {
+        title: 'FAQ',
+        tagline: 'Οι ερωτήσεις σας, τα γεγονότα μας',
+        intro:
+          'Επιλέξτε το FAQ που ταιριάζει στον τρόπο που αγοράζετε από την ëkcos - ως συνεργάτης διανομής ή ως πελάτης e-shop.',
+        distributorsDescription:
+          'Προϊόντα, υλικά, Eco-One™, private label, έγγραφα και συνεργασία με την ëkcos.',
+        eshopDescription:
+          'Προϊόντα, παραγγελίες, πληρωμή, παράδοση, επιστροφές και αγορές στο eshop.ekcos.eu.',
+      },
+    },
+  },
+  hu: {
+    Metadata: {
+      faqTitle: 'GYIK',
+      faqDescription:
+        'Egyértelmű válaszok az ëkcos termékekről, anyagokról, az Eco-One™-ról, a saját márkáról és a rendelésről.',
+      faqDistributorsTitle: 'GYIK disztribútoroknak',
+      faqDistributorsDescription:
+        'Válaszok partnereknek a termékekről, anyagokról, dokumentumokról és az ëkcos-szal való együttműködésről.',
+      faqEshopTitle: 'GYIK az e-shophoz',
+      faqEshopDescription:
+        'Válaszok a termékekről, szállításról, fizetésről, visszaküldésről és a rendelésről az eshop.ekcos.eu oldalon.',
+    },
+    nav: { distributors: 'Disztribútorok', eshop: 'E-shop' },
+    faq: {
+      error: 'Ezt a GYIK-szekciót nem sikerült betölteni. Frissítse az oldalt.',
+      tocLabel: 'Ebben a GYIK-ben',
+      switchLabel: 'Másik GYIK-et keres?',
+      nav: { distributors: 'Disztribútorok', eshop: 'E-shop' },
+      audiences: {
+        distributors: { eyebrow: 'Partnereknek' },
+        eshop: { eyebrow: 'E-shop ügyfeleknek' },
+      },
+      hub: {
+        title: 'GYIK',
+        tagline: 'Az Ön kérdései, a mi tényeink',
+        intro:
+          'Válassza ki a GYIK-et aszerint, hogyan vásárol az ëkcos-tól - disztribútori partnerként vagy e-shop ügyfélként.',
+        distributorsDescription:
+          'Termékek, anyagok, Eco-One™, saját márka, dokumentumok és együttműködés az ëkcos-szal.',
+        eshopDescription:
+          'Termékek, rendelések, fizetés, szállítás, visszaküldés és vásárlás az eshop.ekcos.eu oldalon.',
+      },
+    },
+  },
+  ro: {
+    Metadata: {
+      faqTitle: 'FAQ',
+      faqDescription:
+        'Răspunsuri clare despre produsele ëkcos, materiale, Eco-One™, private label și comenzi.',
+      faqDistributorsTitle: 'FAQ pentru distribuitori',
+      faqDistributorsDescription:
+        'Răspunsuri pentru parteneri despre produse, materiale, documente și colaborarea cu ëkcos.',
+      faqEshopTitle: 'FAQ pentru e-shop',
+      faqEshopDescription:
+        'Răspunsuri despre produse, livrare, plată, retururi și comenzi pe eshop.ekcos.eu.',
+    },
+    nav: { distributors: 'Distribuitori', eshop: 'E-shop' },
+    faq: {
+      error:
+        'Această secțiune FAQ nu a putut fi încărcată. Reîmprospătați pagina.',
+      tocLabel: 'În acest FAQ',
+      switchLabel: 'Căutați un alt FAQ?',
+      nav: { distributors: 'Distribuitori', eshop: 'E-shop' },
+      audiences: {
+        distributors: { eyebrow: 'Pentru parteneri' },
+        eshop: { eyebrow: 'Pentru clienții e-shop' },
+      },
+      hub: {
+        title: 'FAQ',
+        tagline: 'Întrebările dvs., faptele noastre',
+        intro:
+          'Alegeți FAQ-ul potrivit modului în care cumpărați de la ëkcos - ca partener distribuitor sau ca client e-shop.',
+        distributorsDescription:
+          'Produse, materiale, Eco-One™, private label, documente și colaborare cu ëkcos.',
+        eshopDescription:
+          'Produse, comenzi, plată, livrare, retururi și cumpărături pe eshop.ekcos.eu.',
+      },
+    },
+  },
+  bg: {
+    Metadata: {
+      faqTitle: 'ЧЗВ',
+      faqDescription:
+        'Ясни отговори за продуктите на ëkcos, материалите, Eco-One™, private label и поръчките.',
+      faqDistributorsTitle: 'ЧЗВ за дистрибутори',
+      faqDistributorsDescription:
+        'Отговори за партньори относно продукти, материали, документи и работа с ëkcos.',
+      faqEshopTitle: 'ЧЗВ за онлайн магазина',
+      faqEshopDescription:
+        'Отговори за продукти, доставка, плащане, връщания и поръчки на eshop.ekcos.eu.',
+    },
+    nav: { distributors: 'Дистрибутори', eshop: 'E-shop' },
+    faq: {
+      error:
+        'Този раздел ЧЗВ не можа да бъде зареден. Моля, презаредете страницата.',
+      tocLabel: 'В това ЧЗВ',
+      switchLabel: 'Търсите друго ЧЗВ?',
+      nav: { distributors: 'Дистрибутори', eshop: 'E-shop' },
+      audiences: {
+        distributors: { eyebrow: 'За партньори' },
+        eshop: { eyebrow: 'За клиенти на онлайн магазина' },
+      },
+      hub: {
+        title: 'ЧЗВ',
+        tagline: 'Вашите въпроси, нашите факти',
+        intro:
+          'Изберете ЧЗВ според начина, по който купувате от ëkcos - като дистрибуторски партньор или като клиент на онлайн магазина.',
+        distributorsDescription:
+          'Продукти, материали, Eco-One™, private label, документи и работа с ëkcos.',
+        eshopDescription:
+          'Продукти, поръчки, плащане, доставка, връщания и пазаруване на eshop.ekcos.eu.',
+      },
+    },
+  },
+  hr: {
+    Metadata: {
+      faqTitle: 'FAQ',
+      faqDescription:
+        'Jasni odgovori o ëkcos proizvodima, materijalima, Eco-One™, private labelu i narudžbama.',
+      faqDistributorsTitle: 'FAQ za distributere',
+      faqDistributorsDescription:
+        'Odgovori za partnere o proizvodima, materijalima, dokumentima i suradnji s ëkcos.',
+      faqEshopTitle: 'FAQ za e-trgovinu',
+      faqEshopDescription:
+        'Odgovori o proizvodima, dostavi, plaćanju, povratima i narudžbama na eshop.ekcos.eu.',
+    },
+    nav: { distributors: 'Distributeri', eshop: 'E-shop' },
+    faq: {
+      error: 'Ovaj FAQ odjeljak nije se mogao učitati. Osvježite stranicu.',
+      tocLabel: 'U ovom FAQ-u',
+      switchLabel: 'Tražite drugi FAQ?',
+      nav: { distributors: 'Distributeri', eshop: 'E-shop' },
+      audiences: {
+        distributors: { eyebrow: 'Za partnere' },
+        eshop: { eyebrow: 'Za kupce e-trgovine' },
+      },
+      hub: {
+        title: 'FAQ',
+        tagline: 'Vaša pitanja, naše činjenice',
+        intro:
+          'Odaberite FAQ prema tome kako kupujete od ëkcos - kao distributerski partner ili kao kupac e-trgovine.',
+        distributorsDescription:
+          'Proizvodi, materijali, Eco-One™, private label, dokumenti i suradnja s ëkcos.',
+        eshopDescription:
+          'Proizvodi, narudžbe, plaćanje, dostava, povrati i kupovina na eshop.ekcos.eu.',
+      },
+    },
+  },
+  sl: {
+    Metadata: {
+      faqTitle: 'FAQ',
+      faqDescription:
+        'Jasni odgovori o izdelkih ëkcos, materialih, Eco-One™, private labelu in naročilih.',
+      faqDistributorsTitle: 'FAQ za distributerje',
+      faqDistributorsDescription:
+        'Odgovori za partnerje o izdelkih, materialih, dokumentih in sodelovanju z ëkcos.',
+      faqEshopTitle: 'FAQ za spletno trgovino',
+      faqEshopDescription:
+        'Odgovori o izdelkih, dostavi, plačilu, vračilih in naročilih na eshop.ekcos.eu.',
+    },
+    nav: { distributors: 'Distributerji', eshop: 'E-shop' },
+    faq: {
+      error: 'Tega razdelka FAQ ni bilo mogoče naložiti. Osvežite stran.',
+      tocLabel: 'V tem FAQ',
+      switchLabel: 'Iščete drug FAQ?',
+      nav: { distributors: 'Distributerji', eshop: 'E-shop' },
+      audiences: {
+        distributors: { eyebrow: 'Za partnerje' },
+        eshop: { eyebrow: 'Za kupce spletne trgovine' },
+      },
+      hub: {
+        title: 'FAQ',
+        tagline: 'Vaša vprašanja, naša dejstva',
+        intro:
+          'Izberite FAQ glede na to, kako kupujete pri ëkcos - kot distributerski partner ali kot kupec spletne trgovine.',
+        distributorsDescription:
+          'Izdelki, materiali, Eco-One™, private label, dokumenti in sodelovanje z ëkcos.',
+        eshopDescription:
+          'Izdelki, naročila, plačilo, dostava, vračila in nakupovanje na eshop.ekcos.eu.',
+      },
+    },
+  },
+  et: {
+    Metadata: {
+      faqTitle: 'KKK',
+      faqDescription:
+        'Selged vastused ëkcos toodete, materjalide, Eco-One™, private labeli ja tellimuste kohta.',
+      faqDistributorsTitle: 'KKK edasimüüjatele',
+      faqDistributorsDescription:
+        'Vastused partneritele toodete, materjalide, dokumentide ja ëkcosiga koostöö kohta.',
+      faqEshopTitle: 'KKK e-poe jaoks',
+      faqEshopDescription:
+        'Vastused toodete, tarne, makse, tagastuste ja tellimuste kohta aadressil eshop.ekcos.eu.',
+    },
+    nav: { distributors: 'Distribuutorid', eshop: 'E-pood' },
+    faq: {
+      error: 'Seda KKK jaotist ei õnnestunud laadida. Värskendage lehte.',
+      tocLabel: 'Selles KKK-s',
+      switchLabel: 'Otsite teist KKK-d?',
+      nav: { distributors: 'Distribuutorid', eshop: 'E-pood' },
+      audiences: {
+        distributors: { eyebrow: 'Partneritele' },
+        eshop: { eyebrow: 'E-poe klientidele' },
+      },
+      hub: {
+        title: 'KKK',
+        tagline: 'Teie küsimused, meie faktid',
+        intro:
+          'Valige KKK vastavalt sellele, kuidas te ëkcosilt ostate - edasimüüja partnerina või e-poe kliendina.',
+        distributorsDescription:
+          'Tooted, materjalid, Eco-One™, private label, dokumendid ja koostöö ëkcosiga.',
+        eshopDescription:
+          'Tooted, tellimused, makse, tarne, tagastused ja ostmine aadressil eshop.ekcos.eu.',
+      },
+    },
+  },
+  lv: {
+    Metadata: {
+      faqTitle: 'BUJ',
+      faqDescription:
+        'Skaidras atbildes par ëkcos produktiem, materiāliem, Eco-One™, private label un pasūtījumiem.',
+      faqDistributorsTitle: 'BUJ izplatītājiem',
+      faqDistributorsDescription:
+        'Atbildes partneriem par produktiem, materiāliem, dokumentiem un sadarbību ar ëkcos.',
+      faqEshopTitle: 'BUJ e-veikalam',
+      faqEshopDescription:
+        'Atbildes par produktiem, piegādi, maksājumu, atgriešanu un pasūtījumiem vietnē eshop.ekcos.eu.',
+    },
+    nav: { distributors: 'Izplatītāji', eshop: 'E-veikals' },
+    faq: {
+      error: 'Šo BUJ sadaļu neizdevās ielādēt. Atsvaidziniet lapu.',
+      tocLabel: 'Šajā BUJ',
+      switchLabel: 'Meklējat citu BUJ?',
+      nav: { distributors: 'Izplatītāji', eshop: 'E-veikals' },
+      audiences: {
+        distributors: { eyebrow: 'Partneriem' },
+        eshop: { eyebrow: 'E-veikala klientiem' },
+      },
+      hub: {
+        title: 'BUJ',
+        tagline: 'Jūsu jautājumi, mūsu fakti',
+        intro:
+          'Izvēlieties BUJ atbilstoši tam, kā pērkat no ëkcos - kā izplatītāja partneris vai kā e-veikala klients.',
+        distributorsDescription:
+          'Produkti, materiāli, Eco-One™, private label, dokumenti un sadarbība ar ëkcos.',
+        eshopDescription:
+          'Produkti, pasūtījumi, maksājums, piegāde, atgriešana un iepirkšanās vietnē eshop.ekcos.eu.',
+      },
+    },
+  },
+  lt: {
+    Metadata: {
+      faqTitle: 'DUK',
+      faqDescription:
+        'Aiškūs atsakymai apie ëkcos produktus, medžiagas, Eco-One™, private label ir užsakymus.',
+      faqDistributorsTitle: 'DUK platintojams',
+      faqDistributorsDescription:
+        'Atsakymai partneriams apie produktus, medžiagas, dokumentus ir bendradarbiavimą su ëkcos.',
+      faqEshopTitle: 'DUK el. parduotuvei',
+      faqEshopDescription:
+        'Atsakymai apie produktus, pristatymą, mokėjimą, grąžinimus ir užsakymus eshop.ekcos.eu.',
+    },
+    nav: { distributors: 'Platintojai', eshop: 'E. parduotuvė' },
+    faq: {
+      error: 'Šios DUK skilties nepavyko įkelti. Atnaujinkite puslapį.',
+      tocLabel: 'Šiame DUK',
+      switchLabel: 'Ieškote kito DUK?',
+      nav: { distributors: 'Platintojai', eshop: 'E. parduotuvė' },
+      audiences: {
+        distributors: { eyebrow: 'Partneriams' },
+        eshop: { eyebrow: 'El. parduotuvės klientams' },
+      },
+      hub: {
+        title: 'DUK',
+        tagline: 'Jūsų klausimai, mūsų faktai',
+        intro:
+          'Pasirinkite DUK pagal tai, kaip perkate iš ëkcos - kaip platintojo partneris arba kaip el. parduotuvės klientas.',
+        distributorsDescription:
+          'Produktai, medžiagos, Eco-One™, private label, dokumentai ir bendradarbiavimas su ëkcos.',
+        eshopDescription:
+          'Produktai, užsakymai, mokėjimas, pristatymas, grąžinimai ir apsipirkimas eshop.ekcos.eu.',
+      },
+    },
+  },
 }
 
 function applyPack(locale: string, pack: Pack) {
@@ -344,8 +774,9 @@ function applyPack(locale: string, pack: Pack) {
     faq?: unknown
   }
   Object.assign(data.Metadata, pack.Metadata)
+  const hubTitle = (pack.faq as { hub?: { title?: string } }).hub?.title
   data.nav.faq = {
-    label: data.nav.faq?.label ?? 'FAQ',
+    label: hubTitle ?? data.nav.faq?.label ?? 'FAQ',
     distributors: pack.nav.distributors,
     eshop: pack.nav.eshop,
   }
@@ -356,18 +787,6 @@ function applyPack(locale: string, pack: Pack) {
 for (const [locale, pack] of Object.entries(packs)) {
   applyPack(locale, pack)
   console.log('updated', locale)
-}
-
-for (const [locale, nav] of Object.entries(navOnly)) {
-  applyPack(locale, {
-    Metadata: packs.en.Metadata,
-    nav,
-    faq: {
-      ...packs.en.faq,
-      nav: { distributors: nav.distributors, eshop: nav.eshop },
-    },
-  })
-  console.log('updated', locale, '(en chrome)')
 }
 
 console.log(

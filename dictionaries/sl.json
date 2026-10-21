@@ -15,11 +15,11 @@
     "privateLabelTitle": "Zasebna blagovna znamka",
     "privateLabelDescription": "Prodajajte izdelke za stranišča ëkcos pod lastno blagovno znamko - zasebna blagovna znamka za distributerje.",
     "faqTitle": "FAQ",
-    "faqDescription": "Clear answers about ëkcos products, materials, Eco-One™, private label, and ordering.",
-    "faqDistributorsTitle": "FAQ for distributors",
-    "faqDistributorsDescription": "Answers for partners about products, materials, documents, and working with ëkcos.",
-    "faqEshopTitle": "FAQ for the e-shop",
-    "faqEshopDescription": "Answers about products, delivery, payment, returns, and ordering on eshop.ekcos.eu."
+    "faqDescription": "Jasni odgovori o izdelkih ëkcos, materialih, Eco-One™, private labelu in naročilih.",
+    "faqDistributorsTitle": "FAQ za distributerje",
+    "faqDistributorsDescription": "Odgovori za partnerje o izdelkih, materialih, dokumentih in sodelovanju z ëkcos.",
+    "faqEshopTitle": "FAQ za spletno trgovino",
+    "faqEshopDescription": "Odgovori o izdelkih, dostavi, plačilu, vračilih in naročilih na eshop.ekcos.eu."
   },
   "LocaleSwitcher": {
     "label": "Jezik",
@@ -57,7 +57,7 @@
       "label": "Zasebna blagovna znamka"
     },
     "faq": {
-      "label": "pogosta vprašanja",
+      "label": "FAQ",
       "distributors": "Distributerji",
       "eshop": "E-shop"
     },
@@ -895,27 +895,27 @@
     }
   },
   "faq": {
-    "error": "This FAQ section could not be loaded. Please refresh the page.",
-    "tocLabel": "In this FAQ",
-    "switchLabel": "Looking for a different FAQ?",
+    "error": "Tega razdelka FAQ ni bilo mogoče naložiti. Osvežite stran.",
+    "tocLabel": "V tem FAQ",
+    "switchLabel": "Iščete drug FAQ?",
     "nav": {
       "distributors": "Distributerji",
       "eshop": "E-shop"
     },
     "audiences": {
       "distributors": {
-        "eyebrow": "For partners"
+        "eyebrow": "Za partnerje"
       },
       "eshop": {
-        "eyebrow": "For e-shop customers"
+        "eyebrow": "Za kupce spletne trgovine"
       }
     },
     "hub": {
       "title": "FAQ",
-      "tagline": "Your questions, our facts",
-      "intro": "Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.",
-      "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
-      "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
+      "tagline": "Vaša vprašanja, naša dejstva",
+      "intro": "Izberite FAQ glede na to, kako kupujete pri ëkcos - kot distributerski partner ali kot kupec spletne trgovine.",
+      "distributorsDescription": "Izdelki, materiali, Eco-One™, private label, dokumenti in sodelovanje z ëkcos.",
+      "eshopDescription": "Izdelki, naročila, plačilo, dostava, vračila in nakupovanje na eshop.ekcos.eu."
     }
   }
 }

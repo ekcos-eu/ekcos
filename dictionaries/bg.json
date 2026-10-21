@@ -14,12 +14,12 @@
     "contactDescription": "Свържете се с екипа на ëkcos за спецификации, програми и партньорства.",
     "privateLabelTitle": "Частна марка",
     "privateLabelDescription": "Продавайте продукти за тоалетни ëkcos под собствената си марка - частна марка за дистрибутори.",
-    "faqTitle": "FAQ",
-    "faqDescription": "Clear answers about ëkcos products, materials, Eco-One™, private label, and ordering.",
-    "faqDistributorsTitle": "FAQ for distributors",
-    "faqDistributorsDescription": "Answers for partners about products, materials, documents, and working with ëkcos.",
-    "faqEshopTitle": "FAQ for the e-shop",
-    "faqEshopDescription": "Answers about products, delivery, payment, returns, and ordering on eshop.ekcos.eu."
+    "faqTitle": "ЧЗВ",
+    "faqDescription": "Ясни отговори за продуктите на ëkcos, материалите, Eco-One™, private label и поръчките.",
+    "faqDistributorsTitle": "ЧЗВ за дистрибутори",
+    "faqDistributorsDescription": "Отговори за партньори относно продукти, материали, документи и работа с ëkcos.",
+    "faqEshopTitle": "ЧЗВ за онлайн магазина",
+    "faqEshopDescription": "Отговори за продукти, доставка, плащане, връщания и поръчки на eshop.ekcos.eu."
   },
   "LocaleSwitcher": {
     "label": "език",
@@ -896,27 +896,27 @@
     }
   },
   "faq": {
-    "error": "This FAQ section could not be loaded. Please refresh the page.",
-    "tocLabel": "In this FAQ",
-    "switchLabel": "Looking for a different FAQ?",
+    "error": "Този раздел ЧЗВ не можа да бъде зареден. Моля, презаредете страницата.",
+    "tocLabel": "В това ЧЗВ",
+    "switchLabel": "Търсите друго ЧЗВ?",
     "nav": {
       "distributors": "Дистрибутори",
       "eshop": "E-shop"
     },
     "audiences": {
       "distributors": {
-        "eyebrow": "For partners"
+        "eyebrow": "За партньори"
       },
       "eshop": {
-        "eyebrow": "For e-shop customers"
+        "eyebrow": "За клиенти на онлайн магазина"
       }
     },
     "hub": {
-      "title": "FAQ",
-      "tagline": "Your questions, our facts",
-      "intro": "Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.",
-      "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
-      "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
+      "title": "ЧЗВ",
+      "tagline": "Вашите въпроси, нашите факти",
+      "intro": "Изберете ЧЗВ според начина, по който купувате от ëkcos - като дистрибуторски партньор или като клиент на онлайн магазина.",
+      "distributorsDescription": "Продукти, материали, Eco-One™, private label, документи и работа с ëkcos.",
+      "eshopDescription": "Продукти, поръчки, плащане, доставка, връщания и пазаруване на eshop.ekcos.eu."
     }
   }
 }

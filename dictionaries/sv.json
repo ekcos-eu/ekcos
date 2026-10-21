@@ -15,11 +15,11 @@
     "privateLabelTitle": "Private Label",
     "privateLabelDescription": "Sälj ëkcos tvättrumsprodukter under ditt eget varumärke - private label för distributörer.",
     "faqTitle": "FAQ",
-    "faqDescription": "Clear answers about ëkcos products, materials, Eco-One™, private label, and ordering.",
-    "faqDistributorsTitle": "FAQ for distributors",
-    "faqDistributorsDescription": "Answers for partners about products, materials, documents, and working with ëkcos.",
-    "faqEshopTitle": "FAQ for the e-shop",
-    "faqEshopDescription": "Answers about products, delivery, payment, returns, and ordering on eshop.ekcos.eu."
+    "faqDescription": "Tydliga svar om ëkcos produkter, material, Eco-One™, private label och beställningar.",
+    "faqDistributorsTitle": "FAQ för distributörer",
+    "faqDistributorsDescription": "Svar för partners om produkter, material, dokument och samarbete med ëkcos.",
+    "faqEshopTitle": "FAQ för e-handeln",
+    "faqEshopDescription": "Svar om produkter, leverans, betalning, returer och beställningar på eshop.ekcos.eu."
   },
   "LocaleSwitcher": {
     "label": "Språk",
@@ -896,27 +896,27 @@
     }
   },
   "faq": {
-    "error": "This FAQ section could not be loaded. Please refresh the page.",
-    "tocLabel": "In this FAQ",
-    "switchLabel": "Looking for a different FAQ?",
+    "error": "Den här FAQ-sektionen kunde inte laddas. Uppdatera sidan.",
+    "tocLabel": "I denna FAQ",
+    "switchLabel": "Letar du efter en annan FAQ?",
     "nav": {
       "distributors": "Distributörer",
       "eshop": "E-shop"
     },
     "audiences": {
       "distributors": {
-        "eyebrow": "For partners"
+        "eyebrow": "För partners"
       },
       "eshop": {
-        "eyebrow": "For e-shop customers"
+        "eyebrow": "För e-handelskunder"
       }
     },
     "hub": {
       "title": "FAQ",
-      "tagline": "Your questions, our facts",
-      "intro": "Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.",
-      "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
-      "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
+      "tagline": "Era frågor, våra fakta",
+      "intro": "Välj den FAQ som matchar hur ni handlar hos ëkcos - som distributionspartner eller som e-handelskund.",
+      "distributorsDescription": "Produkter, material, Eco-One™, private label, dokument och samarbete med ëkcos.",
+      "eshopDescription": "Produkter, beställningar, betalning, leverans, returer och shopping på eshop.ekcos.eu."
     }
   }
 }

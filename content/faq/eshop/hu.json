@@ -25,7 +25,7 @@
   "categories": [
     {
       "id": "about",
-      "title": "Körülbelül ëkcos",
+      "title": "Az ëkcos bemutatása",
       "items": [
         {
           "id": "about-1",
@@ -60,7 +60,7 @@
     },
     {
       "id": "urinal-screens",
-      "title": "Piszoár képernyők",
+      "title": "Piszoárrácsok",
       "items": [
         {
           "id": "urinal-screens-1",
@@ -253,7 +253,7 @@
     },
     {
       "id": "air-fresheners",
-      "title": "Légfrissítők és WC csésze kapcsok",
+      "title": "Légfrissítők és WC-klipszek",
       "items": [
         {
           "id": "air-fresheners-1",

@@ -1,41 +1,58 @@
 {
   "hero": {
     "title": "FAQ",
-    "tagline": "Vaše otázky, naše fakty. Jasné odpovede o našich výrobkoch, materiáloch a dokumentoch.",
-    "intro": "Nájdete tu jasné odpovede na otázky, ktoré nám partneri a ich zákazníci kladú najčastejšie. Každé tvrdenie v týchto odpovediach je konkrétne a podložené dôkazmi: nezávislým laboratórnym testom, patentmi a dokumentmi od nášho výrobcu."
+    "tagline": "Vaše otázky, naše fakty. Jasné odpovede o našich produktoch, materiáloch a dokumentoch.",
+    "intro": "Tu nájdete jasné odpovede na otázky, ktoré naši partneri a ich zákazníci najčastejšie kladú. Každé tvrdenie v tomto FAQ je špecifické a podložené dôkazmi: nezávislým laboratórnym testom, patentmi a dokumentmi od nášho výrobcu."
   },
-  "metrics": [],
+  "metrics": [
+    {
+      "value": "93%",
+      "label": "biodegradácia do 3,5 roka v nezávislom laboratórnom teste s prísadou Eco-One™"
+    },
+    {
+      "value": "60+",
+      "label": "dní vône (ëkcoscreen 60+, xcrën HD 60+), dvakrát dlhšie ako štandardné 30-dňové obrazovky"
+    },
+    {
+      "value": "141 g",
+      "label": "vonného materiálu v ëkcoscreen 60+, viac ako trojnásobok typickej obrazovky"
+    },
+    {
+      "value": "95%",
+      "label": "povrch ëkcoscreen 60+ pokrytý patentovanými štetinami proti striekaniu"
+    }
+  ],
   "categories": [
     {
       "id": "about",
-      "title": "O spoločnosti ëkcos",
+      "title": "O ëkcos",
       "items": [
         {
           "id": "about-1",
-          "question": "Čím sa líšia výrobky ëkcos?",
+          "question": "Kto je ëkcos?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Štyrmi vecami:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "Ochrana proti rozstreku. Naše patentované štetinky proti rozstreku (Sealed Bristles Technology™) pokrývajú až 95 % sitka.",
-                "Dlhá výdrž vône. ëkcoscreen 60+ a xcrën HD 60+ voňajú 60+ dní, dvakrát dlhšie ako bežné 30-dňové sitká.",
-                "Fakty o materiáli, ktoré si môžete overiť. S podielom recyklovaného EVA. Vďaka prísade Eco-One™ biologicky rozložiteľné na skládke, ako ukazuje nezávislý laboratórny test.",
-                "Vaša značka na výrobku. Vaše logo môžeme vyrezať priamo do sitka."
-              ]
+              "text": "ëkcos innovations vyvíja, vyrába a distribuuje vonné zásteny na pisoáre, spony na záchodové misy a osviežovače vzduchu. Sme lídrom na trhu v Spojených štátoch a naše produkty sme predstavili vo viac ako 70 krajinách. Naše výrobky sú vyrobené v Mexiku. Náš centrálny sklad v Českej republike zásobuje zákazníkov a partnerov po celej Európe, Ázii a Afrike."
             }
           ]
         },
         {
           "id": "about-2",
-          "question": "Existuje dôkaz, že štetinky fungujú?",
+          "question": "Čím sú produkty ëkcos iné?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Sitko ëkcoscreen 60+ sme natočili v porovnávacom UV teste rozstreku za identických podmienok: rovnaký model pisoára, rovnaká výška a rovnaký prietok. ëkcoscreen 60+ nevykázalo žiadny viditeľný rozstrek mimo sitka. Vyžiadajte si od nás video. Samotný systém štetiniek je patentovaný. Áno. ëkcoscreen 60+ a xcrën HD 60+ sú ideálne pre bezvodé pisoáre a vhodné sú aj powër screen, üro lite a basic scrëen. Pre odpad bezvodého pisoára si pozrite kartušu ëz trap nižšie."
+              "text": "Štyri veci:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Ochrana proti striekajúcej vode. Naše patentované štetiny proti striekaniu (Sealed Bristles Technology™) pokrývajú až 95 % obrazovky.",
+                "Dlhá životnosť vône. ëkcoscreen 60+ a xcrën HD 60+ poskytujú viac ako 60 dní vône, čo je dvakrát dlhšie ako pri štandardných 30-dňových obrazovkách.",
+                "Materiálne fakty, ktoré si môžete overiť. Vyrobené z recyklovaného EVA. Biologicky odbúrateľný na skládke s prísadou Eco-One™, ako ukazuje nezávislý laboratórny test.",
+                "Vaša značka na produkte. Vaše logo môže byť vyrezané do samotnej obrazovky."
+              ]
             }
           ]
         }
@@ -43,15 +60,162 @@
     },
     {
       "id": "urinal-screens",
-      "title": "Sitká do pisoárov",
+      "title": "Zásteny na pisoáre",
       "items": [
         {
           "id": "urinal-screens-1",
-          "question": "Bude sitko pasovať do môjho pisoára?",
+          "question": "Akú pisoárovú zástenu si mám vybrať?",
           "answer": [
             {
               "type": "paragraph",
-              "text": "Sitká powër screen a basic scrëen majú pružný tvar, ktorý pasuje takmer do všetkých typov pisoárov, a sitko üro lite je určené pre menšie pisoáre. Veľkosť každého sitka nájdete v tabuľke vyššie. Použite rukavice. Vyberte použité sitko a vyhoďte ho do zmesového odpadu. Nové sitko vybaľte a položte ho naplocho na dno pisoára nad odtok, štetinkami nahor. Vymeňte ho, keď vôňa vyprchá, alebo v obvyklom intervale údržby. Vyhoďte ho do zmesového odpadu. Samotný materiál EVA sa dá recyklovať, použité sitko do pisoára však nie, pretože je biologicky kontaminované. Končí na skládke alebo v spaľovni. Preto pridávame prísadu Eco-One™, vďaka ktorej je náš materiál biologicky rozložiteľný na skládke. xcrën puck je sitko do pisoára v tvare X s dezodoračnou tabletou. Tvar X nedovolí pevným nečistotám a zvyškom upchať odpad a tableta pri každom použití uvoľňuje sviežu vôňu až 30 dní. Tableta je vyrobená prevažne z vosku a glycerínu a používaním sa rozpúšťa. Nedá sa vymeniť, preto meníte celé sitko xcrën puck. Znamená to, že tableta v sitku xcrën puck neobsahuje paradichlórbenzén (PARA), ktorý WHO klasifikuje ako možno karcinogénny. Spoločnosť ëkcos PARA nikdy nepoužívala. NON-PARA neznamená „bez parabénov“."
+              "text": "Vyberte si podľa premávky a podľa toho, ako často je toaleta obsluhovaná."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Obrazovka",
+                "Vôňa",
+                "Veľkosť",
+                "Najlepšie pre"
+              ],
+              "rows": [
+                [
+                  "ëkcoscreen 60+",
+                  "60+ dní",
+                  "20 x 21 cm",
+                  "Toalety s vysokou premávkou. 141 g voňavého materiálu. Štetiny pokrývajú 95 % obrazovky."
+                ],
+                [
+                  "xcrën HD 60+",
+                  "60+ dní",
+                  "17 x 18 cm",
+                  "Toalety s vysokou návštevnosťou, kde záleží na vzhľade. Patentovaný dizajnový tvar."
+                ],
+                [
+                  "__BRAND_POWERSSCREEN__",
+                  "do 30 dní",
+                  "18 x 20 cm",
+                  "Mesačné zmeny. Flexibilný tvar, ktorý sa hodí takmer ku všetkým pisoárom."
+                ],
+                [
+                  "üro lite",
+                  "do 30 dní",
+                  "13 x 13 cm",
+                  "Menšie pisoáre. Dlhé patentované štetiny."
+                ],
+                [
+                  "basic scrëen",
+                  "do 30 dní",
+                  "20 x 19 cm",
+                  "Mesačné zmeny za základnú cenu. Flexibilný tvar."
+                ],
+                [
+                  "xcrën puck",
+                  "do 30 dní",
+                  "17 x 17 cm",
+                  "Udržiavanie pevných látok a nečistôt mimo odtoku. Deodorizujúci puk."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-2",
+          "question": "Ako dlho vydrží zástena pisoára?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcoscreen 60+ a xcrën HD 60+ poskytujú viac ako 60 dní vône, čo je dvakrát dlhšie ako pri štandardných 30-dňových obrazovkách. Na málo frekventovaných toaletách vydržia ešte dlhšie. powër screen, üro lite, basic scrëen a xcrën puck vydržia až 30 dní, vďaka čomu sú ideálne na mesačnú údržbu."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-3",
+          "question": "Prečo si vybrať obrazovku na 60+ dní?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkcoscreen 60+ vydrží dvakrát dlhšie ako štandardná 30-dňová obrazovka pri podobnej cene za deň. Vymieňate ho tiež o polovicu častejšie, takže vaši zamestnanci na ňom trávia menej času."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-4",
+          "question": "Ako funguje anti-splash systém?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Naše obrazovky používajú Sealed Bristles Technology™, náš vlastný patentovaný systém proti striekaniu. Husté štetiny rozbíjajú prúd moču a minimalizujú spätné striekanie moču. Štetiny pokrývajú 95 % ëkcoscreen 60+ a 92 % xcrën HD 60+. üro lite používa rovnakú technológiu s dlhými štetinami, ktoré poskytujú ochranu pred veľkým postriekaním na malej obrazovke."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-5",
+          "question": "Existuje dôkaz, že štetiny fungujú?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Film ëkcoscreen 60+ sme natočili v paralelnom UV teste rozstreku za rovnakých podmienok: rovnaký model pisoára, rovnaká výška a rovnaký prietok. ëkcoscreen 60+ neukázala mimo obrazovky žiadny viditeľný splashback. Požiadajte nás o video. Samotný systém štetín je patentovaný."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-6",
+          "question": "Môžem použiť sitá v bezvodých pisoároch?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "áno. ëkcoscreen 60+ a xcrën HD 60+ sú ideálne pre bezvodé pisoáre a vhodné sú aj powër screen, üro lite a basic scrëen. Informácie o odtoku bezvodého pisoára nájdete v časti ëz trap nižšie."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-7",
+          "question": "Bude zástena vhodná pre môj pisoár?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "powër screen a basic scrëen majú flexibilný tvar, ktorý sa hodí takmer pre všetky typy pisoárov a üro lite je určený pre menšie pisoáre. Veľkosť každej obrazovky nájdete v tabuľke vyššie."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-8",
+          "question": "Ako umiestnim alebo vymením pisoárovú zástenu?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Noste rukavice. Vyberte použité sito a dajte ho do bežného odpadu. Rozbaľte novú sito a položte ju naplocho na dno pisoára nad odtok so štetinami nahor. Vymeňte ho, keď vôňa vybledne, alebo vo svojom zvyčajnom servisnom intervale."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-9",
+          "question": "Ako zlikvidujem použitú obrazovku?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Dajte to do bežného odpadu. Samotný materiál EVA je možné recyklovať, ale použitá sieťka na pisoár nie, pretože je biologicky kontaminovaná. Končí na skládke alebo v spaľovni. Preto pridávame aditívum Eco-One™, vďaka ktorému je náš materiál biologicky odbúrateľný na skládkach."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-10",
+          "question": "Čo je xcrën puck?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "xcrën puck je pisoárová zástena v tvare X s dezodoračným pukom. Tvar X zabraňuje upchávaniu odtoku pevnými látkami a nečistotami a puk uvoľňuje sviežu vôňu pri každom použití až po dobu 30 dní. Puk je vyrobený prevažne z vosku a glycerínu a používaním sa rozpúšťa. Nedá sa nahradiť, takže zmeníte celý xcrën puck."
+            }
+          ]
+        },
+        {
+          "id": "urinal-screens-11",
+          "question": "Čo znamená NON-PARA?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Znamená to, že puk v xcrën puck neobsahuje paradichlórbenzén (PARA), ktorý WHO klasifikuje ako potenciálne karcinogénny. ëkcos nikdy nepoužil PARA. NON-PARA neznamená bez parabénov."
             }
           ]
         }
@@ -60,32 +224,341 @@
     {
       "id": "ez-trap-ekco-mat",
       "title": "ëz trap a ëkco mat",
-      "items": []
+      "items": [
+        {
+          "id": "ez-trap-ekco-mat-1",
+          "question": "Čo je ëz trap a do ktorých pisoárov sa hodí?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëz trap je náplň do bezvodých pisoárov. Cez sifón preteká moč a po každom použití sa uzaviera uzáver, čo pomáha zabrániť úniku pachov z odtoku. Pasuje na značky Sloan, Falcon, Vitra, Bobrick a ďalšie značky, ktoré používajú systém Falcon Velocity (priemer 11,8 cm, výška 11,5 cm)."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-2",
+          "question": "Ako dlho vydrží ëz trap a ako si ho udržím?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Náplň vydrží 4 až 6+ mesiacov a nepotrebuje žiadne drahé gély ani špeciálne čistiace prostriedky. Nalejte pohár vody do pisoára každý deň, aby ste zabránili hromadeniu vápnika. Pravidelné čistenie prostriedkom proti vápniku, akým je napríklad kvalitný toaletný gél, predlžuje jeho životnosť. ëz trap sa dodáva s nástrojom na odstránenie alebo bez neho. Nástroj je opakovane použiteľný, takže ho potrebujete iba pri prvej objednávke."
+            }
+          ]
+        },
+        {
+          "id": "ez-trap-ekco-mat-3",
+          "question": "Čo je ëkco mat?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "ëkco mat je savá, jednorazová podložka do priestoru pod pisoárom. S rozmermi 54 x 51 cm pokrýva oblasť okolo väčšiny štandardných pisoárov. Chráni podlahu pred močom a znižuje vylučovanie moču na podrážkach topánok."
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "air-fresheners",
-      "title": "Osviežovače vzduchu a vonné závesky na WC",
-      "items": []
+      "title": "Osviežovače vzduchu a klipy na WC misy",
+      "items": [
+        {
+          "id": "air-fresheners-1",
+          "question": "Aký osviežovač vzduchu si mám vybrať?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "frësh drop: pre toalety a toalety. 30+ dní vône v kabínkach s malým vetraním a 60+ dní pri nízkej premávke, bez batérií a elektriny.",
+                "ëkco clip: pripína sa na záchodovú misu a dodáva vôňu až 30 dní. Jeho flexibilný tvar sa hodí takmer na všetky typy misiek.",
+                "ëkco loop: kompaktný osviežovač do malých priestorov s malým prúdením vzduchu, ako sú pod stoly, vnútorné veká odpadkových košov, skrine a botníky. Až 30 dní. Pre WC kabínky zvoľte frësh drop."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-2",
+          "question": "Ako dlho vydrží frësh drop?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "V priestoroch s malým alebo žiadnym vetraním vydrží 30+ dní a pri nízkej prevádzke 60+ dní. Keď vôňa vyprchá, vymeníte iba vložku. Základňa zostáva na stene."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-3",
+          "question": "Ako nainštalujem frësh drop a ëkco loop?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Oba sú systémy bázy a vonnej vložky. Pripevnite základňu na čistý a suchý povrch: frësh drop pomocou priloženej lepiacej pásky, ëkco loop pomocou lepiacej montážnej základne. Potom pripevnite vložku. Na frësh drop malý otočný zámok drží vložku na základni a náhradné zámky sú k dispozícii, ak sa stratí. Umiestnite ëkco loop blízko miesta, kde chcete vôňu."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-4",
+          "question": "Ako sa vôňa uvoľňuje?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Pasívne. Vôňa sa vlieva do materiálu a postupne sa uvoľňuje. Nie sú potrebné žiadne spreje, batérie ani elektrina."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-5",
+          "question": "Aké farby a vône sú dostupné?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Naše hlavné línie zdieľajú rovnakých jedenásť farieb a vôní: fialová / bobule, zelená / jablko, modrá / svieža, oranžová / tropické ovocie, číra / tropické ovocie, čierna / mäta, plameň / mango, zelená / borovica, červená / melón, fialová / levanduľa a žltá / citrusová. Takže budova môže udržať jednu vôňu z pisoára do kabínky. Naše vône sú ľahko rozpoznateľné: jablko vonia ako jablko, melón ako melón."
+            }
+          ]
+        },
+        {
+          "id": "air-fresheners-6",
+          "question": "Čo by som mal vedieť o bezpečnej manipulácii?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Niektoré z našich vonných produktov môžu spôsobiť alergickú kožnú reakciu. Dodržujte prosím štítok a kartu bezpečnostných údajov, pri manipulácii s výrobkami noste rukavice a uchovávajte ich mimo dosahu detí."
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "materials",
-      "title": "Materiály, Eco-One™ a obaly",
-      "items": []
+      "title": "Materiály, Eco-One™ a balenie",
+      "items": [
+        {
+          "id": "materials-1",
+          "question": "Z čoho sú produkty ëkcos vyrobené?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Naše zásteny na pisoáre, spony na záchodovú misu a vložky do osviežovačov vzduchu sú vyrobené z patentovaného materiálu s vôňou na báze dezodorantu. Materiál je vyrobený z recyklovaného EVA. Podiel recyklovaných EVA sa líši od šarže k šarži, preto neuvádzame pevné percento. Každý produkt ëkcos okrem ëkco mat obsahuje aditívum Eco-One™."
+            }
+          ]
+        },
+        {
+          "id": "materials-2",
+          "question": "Čo je Eco-One™?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Eco-One™ je organická prísada vyrobená spoločnosťou EcoLogic, LLC. Do nášho materiálu ho pri výrobe pridávame asi 1%. Nemení to silu, vzhľad ani výkon produktu. Keď produkt skončí na biologicky aktívnej skládke, materiál sa rozloží na bioplyn, CO₂ a humus. Moderné skládky využívajú bioplyn na energiu."
+            }
+          ]
+        },
+        {
+          "id": "materials-3",
+          "question": "Čo znamená „biologicky rozložiteľné na skládke“ a ako bol testovaný?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Znamená to, že náš materiál sa rozkladá na biologicky aktívnej skládke, kde končia použité sitá. Instituto Politécnico Nacional v Mexico City testovala ëkcos EVA s Eco-One™ podľa štandardov ASTM D5511-02 a ISO 15985:2014. Dosiahol 93% biodegradáciu v priebehu 3,5 roka, pričom rovnaký materiál bez aditíva vykazoval 0%. Do 5 rokov sa predpokladá až 99 %. Ide o projekciu z nameraného trendu, nie o nameraný výsledok. Biodegradácia závisí od podmienok skládky."
+            },
+            {
+              "type": "chart",
+              "variant": "biodegradácia",
+              "rows": [
+                {
+                  "label": "ëkcos EVA s Eco-One™",
+                  "value": 93,
+                  "display": "93 %"
+                },
+                {
+                  "label": "Rovnaký materiál bez Eco-One™",
+                  "value": 0,
+                  "display": "0%"
+                }
+              ],
+              "caption": "Rovnaký materiál, rovnaký laboratórny test, 3,5 roka (ASTM D5511-02, ISO 15985:2014)"
+            }
+          ]
+        },
+        {
+          "id": "materials-4",
+          "question": "Prečo nenazývate svoje produkty „ekologické“?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Od 27. septembra 2026 pravidlá EÚ (smernica (EÚ) 2024/825) už nepovoľujú všeobecné tvrdenia ako „ekologické“, „zelené“ alebo „udržateľné“ bez uznaného dôkazu o vynikajúcich environmentálnych vlastnostiach. Povieme vám teda presne to, čo môžeme dokázať: vyrobené z recyklovaného EVA, biologicky rozložiteľné na skládke s Eco-One™ v nezávislom laboratórnom teste a škatule vyrobené zo 100 % recyklovanej lepenky."
+            }
+          ]
+        },
+        {
+          "id": "materials-5",
+          "question": "Dajú sa produkty ëkcos recyklovať?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Samotný materiál EVA je možné recyklovať. Použitá zástena na pisoár alebo klip na záchodovú misu nemôže, pretože je biologicky znečistená, preto patrí do bežného odpadu. Vložky frësh drop a ëkco loop sú vyrobené z recyklovaného EVA a nie sú kontaminované, takže ich materiál je možné recyklovať. Dodržujte prosím miestne pravidlá týkajúce sa odpadu. Naše produkty nenazývame „100% recyklovateľné“, pretože to by neplatilo pre použitú obrazovku."
+            }
+          ]
+        },
+        {
+          "id": "materials-6",
+          "question": "Aké obaly používate?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Naše produktové škatule a kufríky sú vyrobené zo 100% recyklovanej vlnitej lepenky. Vrecia na produkty sú vyrobené z BOPP, polypropylénovej fólie. Nerobíme žiadne environmentálne nároky na tašky. Pre vaše súbory zhody je k dispozícii obalová dokumentácia podľa nariadenia EÚ o obaloch a odpadoch z obalov (PPWR)."
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "private-label",
-      "title": "Privátna značka",
-      "items": []
+      "title": "Súkromná značka",
+      "items": [
+        {
+          "id": "private-label-1",
+          "question": "Môžem získať produkty s vlastným logom?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "áno. Vaše logo vieme vyrezať do samotného displeja, nie len vytlačiť na obal, takže tam zostane po celú dobu životnosti produktu. Vaše logo môže byť vytlačené aj na produkte. Na obale môžu byť vaše vlastné štítky s vaším logom a EAN kódmi, farby a vône si vyberáte sami."
+            }
+          ]
+        },
+        {
+          "id": "private-label-2",
+          "question": "Ktoré produkty môžu niesť moje logo?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Väčšina našich produktov. Zásteny na pisoáre a ëkco clip môžu niesť vaše logo vyrezané do materiálu alebo vytlačené. frësh drop je označený potlačou. ëkco loop nemá priestor pre logo."
+            }
+          ]
+        },
+        {
+          "id": "private-label-3",
+          "question": "Aké sú podmienky pre privátnu značku?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Minimálne množstvá závisia od produktu a za každý značkový produkt sa účtuje jednorazový poplatok za nastavenie. Značkové produkty sú vyrábané na zákazku, pričom typická doba výroby a dodania je 6 až 10 týždňov. Zákazkové objednávky sa platia 100% vopred. Požiadajte nás o ponuku."
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "working-with",
-      "title": "Spolupráca so spoločnosťou ëkcos",
-      "items": []
+      "title": "Práca s ëkcos",
+      "items": [
+        {
+          "id": "working-with-1",
+          "question": "Ako rýchlo odosielate partnerské objednávky?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Partnerské objednávky expedujeme do 3 až 5 pracovných dní. Ak je produkt dočasne vypredaný, zvyčajne ho expedujeme do mesiaca, pretože nový tovar pravidelne prichádza na náš sklad z Mexika."
+            }
+          ]
+        },
+        {
+          "id": "working-with-2",
+          "question": "Ako odosielate a ako dlho trvá doručenie?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "V rámci Českej republiky zasielame balíky a palety s FOFR. Do ostatných krajín EÚ posielame balíky s FedEx a palety s DSV. Doručenie v rámci EÚ zvyčajne trvá cca 5 dní po odoslaní a menej do krajín blízko Českej republiky, napríklad 1 až 2 dni do Nemecka a Rakúska a 3 až 4 dni do Talianska, Francúzska a Holandska. Mimo EÚ uvádzame dopravu ku každej objednávke a mnohí partneri si dopravu zabezpečujú sami. Ku každej objednávke kalkulujeme dopravné."
+            }
+          ]
+        },
+        {
+          "id": "working-with-3",
+          "question": "Môžem získať vzorky?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "áno. Požiadajte nás o vzorky, aby ste vy a vaši zákazníci mohli porovnať naše produkty a vône s produktmi a vôňami iných dodávateľov."
+            }
+          ]
+        },
+        {
+          "id": "working-with-4",
+          "question": "Aké dokumenty od vás môžem získať?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "Certifikát testu biodegradácie od Instituto Politécnico Nacional, Mexico City (ASTM D5511-02 a ISO 15985:2014).",
+                "Eco-One™ leták, ktorý vysvetľuje aditívum a test.",
+                "PPWR dokumentácia k baleniu od nášho výrobcu, len pre vaše súbory zhody. Nezdieľajte, prosím, vyhlásenia dodávateľa s nikým okrem úradov.",
+                "Patenty pre Sealed Bristles Technology™ a naše tvary obrazoviek.",
+                "Karty bezpečnostných údajov pre naše voňavé produkty.",
+                "Video ëkcoscreen 60+ z testu UV striekania."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "working-with-5",
+          "question": "Akú marketingovú podporu ponúkate?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "Profesionálne produktové fotografie a videá vrátane UV testu.",
+                "Texty produktov pripravené na použitie v 22 jazykoch.",
+                "Logá a vizuály značiek.",
+                "Porovnávacia príručka, leták Eco-One™, certifikát o skúške, dokumentácia PPWR a karty bezpečnostných údajov."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "working-with-6",
+          "question": "Prečo sa zmenili texty vašich produktov?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Na informácie o produkte a obaly sa teraz vzťahujú dve nové pravidlá EÚ: smernica (EÚ) 2024/825 (nové pravidlá pre environmentálne tvrdenia) od 27. septembra 2026 a nariadenie o obaloch a odpadoch z obalov (EÚ) 2025/40 (PPWR) od 12. augusta 2026. Skontrolovali sme každé tvrdenie v porovnaní s týmito pravidlami. Naše nové texty obsahujú iba špecifické environmentálne tvrdenia podložené dôkazmi. Použite ich prosím vo svojom e-shope, katalógoch a ponukách."
+            }
+          ]
+        },
+        {
+          "id": "working-with-7",
+          "question": "Ktoré staršie výroky by som mal odstrániť?",
+          "answer": [
+            {
+              "type": "list",
+              "items": [
+                "Všeobecné výrazy ako „ekologický“, „zelený“, „ekologický“ alebo „udržateľný“, aj pre obaly.",
+                "„Celofánové vrecko“ alebo „celofánový obal“. Naše tašky sú vyrobené z BOPP.",
+                "\"100% recyklovateľné\". Naše nové texty presne hovoria, čo sa dá recyklovať.",
+                "\"99% biologicky odbúrateľné do 5 rokov\" ako výsledok testu. Test nameral 93 % v priebehu 3,5 roka. Až 99 % do 5 rokov je projekcia.",
+                "„Biologicky odbúrateľné“ ako také v názvoch alebo názvoch produktov. Napíšte „biologicky rozložiteľné na skládke“.",
+                "Akékoľvek vyhlásenie o baktériách, vírusoch, choroboplodných zárodkoch alebo ochrane zdravia.",
+                "VOC a vyhlásenia o toxicite ako „vyhovuje európskym normám VOC“, „žiadne VOC“ alebo „netoxické pre životné prostredie“.",
+                "Absolútne sľuby ako „eliminuje splashback“ alebo „bez zápachu“.",
+                "„Bez parabénov“ pre NON-PARA. NON-PARA znamená, že puk neobsahuje paradichlórbenzén.",
+                "„60+ dní“ samostatne za frësh drop. Napíšte „30+ dní v kabínach s malým vetraním a 60+ dní pri nízkej premávke“."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "working-with-8",
+          "question": "Môžem upravovať alebo prekladať texty produktov?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Použite naše schválené texty, ktoré sú pripravené v 22 jazykoch. Ak ich skrátite alebo prispôsobíte, dodržte všetky podmienky, ktoré k reklamácii patria, napríklad „na skládke“, „vyrobené s recyklovaným EVA“ a rozdiel medzi nameranými 93 % a projektovanými 99 %."
+            }
+          ]
+        }
+      ]
     }
   ],
   "contact": {
     "title": "Máte ešte otázku?",
-    "body": "Kontaktujte svojho obchodného zástupcu ëkcos alebo napíšte na Líder trhu v Spojených štátoch, s výrobkami uvedenými na trh vo viac ako 70 krajinách. Navštívte náš web Centrálny sklad v Českej republike zásobuje partnerov v Európe, Ázii a Afrike. Zdroj údajov: nezávislý test biologického rozkladu podľa ASTM D5511-02 a ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City). Výrobok ëkcos s 1 % prísady Eco-One™: biologický rozklad 93,31 % za 1 288 dní (približne 3,5 roka). Rovnaký výrobok bez prísady: 0 %. Rozklad až 99 % do 5 rokov sa predpokladá podľa nameraného trendu. Biologický rozklad závisí od podmienok na skládke. Eco-One™ je ochranná známka spoločnosti EcoLogic, LLC."
+    "body": "Kontaktujte svojho obchodného zástupcu ëkcos alebo napíšte na support@ekcos.eu."
   },
-  "footnote": ""
+  "footnote": "Zdroj údajov: nezávislý test biodegradácie podľa ASTM D5511-02 a ISO 15985:2014 (Instituto Politécnico Nacional, Mexico City). Produkt ëkcos s 1 % aditíva Eco-One™: 93,31 % biodegradácia za 1 288 dní (približne 3,5 roka). Rovnaký produkt bez aditíva: 0 %. Z nameraného trendu sa premieta až 99 % do 5 rokov. Biodegradácia závisí od podmienok skládky. Eco-One™ je ochranná známka spoločnosti EcoLogic, LLC."
 }

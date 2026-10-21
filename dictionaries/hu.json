@@ -14,12 +14,12 @@
     "contactDescription": "Lépjen kapcsolatba az ëkcos csapatával a specifikációkkal, programokkal és partnerségekkel kapcsolatban.",
     "privateLabelTitle": "Sajátmárka",
     "privateLabelDescription": "Értékesítsen ëkcos mosdótermékeket saját márkája alatt – saját márkanévvel a forgalmazók számára.",
-    "faqTitle": "FAQ",
-    "faqDescription": "Clear answers about ëkcos products, materials, Eco-One™, private label, and ordering.",
-    "faqDistributorsTitle": "FAQ for distributors",
-    "faqDistributorsDescription": "Answers for partners about products, materials, documents, and working with ëkcos.",
-    "faqEshopTitle": "FAQ for the e-shop",
-    "faqEshopDescription": "Answers about products, delivery, payment, returns, and ordering on eshop.ekcos.eu."
+    "faqTitle": "GYIK",
+    "faqDescription": "Egyértelmű válaszok az ëkcos termékekről, anyagokról, az Eco-One™-ról, a saját márkáról és a rendelésről.",
+    "faqDistributorsTitle": "GYIK disztribútoroknak",
+    "faqDistributorsDescription": "Válaszok partnereknek a termékekről, anyagokról, dokumentumokról és az ëkcos-szal való együttműködésről.",
+    "faqEshopTitle": "GYIK az e-shophoz",
+    "faqEshopDescription": "Válaszok a termékekről, szállításról, fizetésről, visszaküldésről és a rendelésről az eshop.ekcos.eu oldalon."
   },
   "LocaleSwitcher": {
     "label": "Nyelv",
@@ -896,27 +896,27 @@
     }
   },
   "faq": {
-    "error": "This FAQ section could not be loaded. Please refresh the page.",
-    "tocLabel": "In this FAQ",
-    "switchLabel": "Looking for a different FAQ?",
+    "error": "Ezt a GYIK-szekciót nem sikerült betölteni. Frissítse az oldalt.",
+    "tocLabel": "Ebben a GYIK-ben",
+    "switchLabel": "Másik GYIK-et keres?",
     "nav": {
       "distributors": "Disztribútorok",
       "eshop": "E-shop"
     },
     "audiences": {
       "distributors": {
-        "eyebrow": "For partners"
+        "eyebrow": "Partnereknek"
       },
       "eshop": {
-        "eyebrow": "For e-shop customers"
+        "eyebrow": "E-shop ügyfeleknek"
       }
     },
     "hub": {
-      "title": "FAQ",
-      "tagline": "Your questions, our facts",
-      "intro": "Choose the FAQ that matches how you buy from ëkcos - as a distributor partner, or as an e-shop customer.",
-      "distributorsDescription": "Products, materials, Eco-One™, private label, documents, and working with ëkcos.",
-      "eshopDescription": "Products, orders, payment, delivery, returns, and shopping on eshop.ekcos.eu."
+      "title": "GYIK",
+      "tagline": "Az Ön kérdései, a mi tényeink",
+      "intro": "Válassza ki a GYIK-et aszerint, hogyan vásárol az ëkcos-tól - disztribútori partnerként vagy e-shop ügyfélként.",
+      "distributorsDescription": "Termékek, anyagok, Eco-One™, saját márka, dokumentumok és együttműködés az ëkcos-szal.",
+      "eshopDescription": "Termékek, rendelések, fizetés, szállítás, visszaküldés és vásárlás az eshop.ekcos.eu oldalon."
     }
   }
 }
