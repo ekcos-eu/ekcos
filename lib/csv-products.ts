@@ -51,6 +51,7 @@ const SLUG_TO_CSV_PREFIX: Record<string, string> = {
   'urolite': 'uro-lite',
   'ekco-clip': 'ekco-clip',
   'fresh-drop': 'fresh-drop',
+  'ekco-loop': 'ekco-loop',
   'ez-trap': 'ez-trap',
   'xcren-puck': 'xcren-puck',
   'ekco-mat': 'ekco-mat',
@@ -65,6 +66,7 @@ const SLUG_TO_FOLDER: Record<string, string> = {
   'urolite': 'Urolite',
   'ekco-clip': 'Ekcoclip',
   'fresh-drop': 'Freshdrop',
+  'ekco-loop': 'EkcoLoop',
   'ez-trap': 'EzTrap',
   'xcren-puck': 'Xcren Puck',
   'ekco-mat': 'Ekcomat',
@@ -232,7 +234,8 @@ function isCsvHandleForSlug(handle: string, slug: string, prefix: string): boole
 }
 
 function isBaseSku(sku: string): boolean {
-  return sku.toUpperCase().startsWith('FDB-')
+  const upper = sku.toUpperCase()
+  return upper.startsWith('FDB-') || upper.startsWith('ELB-')
 }
 
 // ---------------------------------------------------------------------------

@@ -818,6 +818,32 @@
         "0": "Entrances",
         "1": "Service corridors"
       }
+    },
+    "ekcoLoop": {
+      "name": "ëkco loop",
+      "imageAlt": "Blue ëkco loop compact air freshener disc on its adhesive mounting base, seen from above on a black background",
+      "category": "kompakts gaisa atsvaidzinātājs mazām telpām",
+      "short": "ëkco loop ir inovatīvs pasīvais gaisa atsvaidzinātājs, kas nodrošina aromātu tieši tur, kur tas nepieciešams. Tas paredzēts mazām vietām ar nelielu gaisa plūsmu, piemēram, zem rakstāmgaldiem, atkritumu tvertņu vākos, skapjos, apavu skapīšos un atvilktnēs. Tā ieliktnis, kas izgatavots no pašu izstrādāta materiāla un piesūcināts ar aromātu uz dezodoranta bāzes, pakāpeniski izdala aromātu līdz 30 dienām bez aerosoliem, baterijām un elektrības. Kompaktais, plakanais dizains neuzkrītoši iekļaujas šaurās vietās, pašlīmējošais turētājs ļauj to ātri uzstādīt uz lielākās daļas virsmu, un aromāta ieliktni ir viegli nomainīt. Tualetes kabīnēm un tualetēm izvēlieties lielāko modeli frësh drop.",
+      "long": "ëkco loop ir inovatīvs pasīvais gaisa atsvaidzinātājs, kas nodrošina aromātu tieši tur, kur tas nepieciešams. Tas paredzēts mazām vietām ar nelielu gaisa plūsmu, piemēram, zem rakstāmgaldiem, atkritumu tvertņu vākos, skapjos, apavu skapīšos un atvilktnēs. Tā ieliktnis, kas izgatavots no pašu izstrādāta materiāla un piesūcināts ar aromātu uz dezodoranta bāzes, pakāpeniski izdala aromātu līdz 30 dienām bez aerosoliem, baterijām un elektrības. Kompaktais, plakanais dizains neuzkrītoši iekļaujas šaurās vietās, pašlīmējošais turētājs ļauj to ātri uzstādīt uz lielākās daļas virsmu, un aromāta ieliktni ir viegli nomainīt. Tualetes kabīnēm un tualetēm izvēlieties lielāko modeli frësh drop.\n\nëkco loop ieliktnis ir izgatavots, izmantojot pārstrādātu EVA, un šo materiālu var pārstrādāt. Gan ieliktnis, gan turētājs satur piedevu Eco-One™, tāpēc abi ir bioloģiski noārdāmi atkritumu poligonā. Neatkarīgā laboratorijas testā (ASTM D5511 un ISO 15985) ëkcos EVA ar Eco-One™ 3,5 gadu laikā sasniedza 93 % bioloģisko noārdīšanos, un tiek prognozēts, ka 5 gadu laikā tā sasniegs līdz 99 %.\n\nëkco loop apvieno kompaktu izmēru, vieglu uzstādīšanu un aromātu līdz 30 dienām mazām slēgtām telpām.",
+      "benefits": {
+        "0": "Pašu izstrādāts materiāls, piesūcināts ar aromātu uz dezodoranta bāzes, kas izdalās pakāpeniski",
+        "1": "Lieliski piemērots mazām vietām, piemēram, zem rakstāmgaldiem, atkritumu tvertņu vākos, skapjos un apavu skapīšos",
+        "2": "Maināms aromāta ieliktnis ar pasīvu izdalīšanos līdz 30 dienām",
+        "3": "Kompakts, plakans dizains, kas iederas tur, kur lielāki gaisa atsvaidzinātāji neietilpst",
+        "4": "Viegla uzstādīšana ar pašlīmējošo turētāju",
+        "5": "Izmēri: Ø 10 x 2 cm",
+        "6": "Plaša krāsu un patīkamu aromātu izvēle",
+        "7": "Ieliktnis izgatavots, izmantojot pārstrādātu, pārstrādājamu EVA",
+        "8": "Ieliktnis un turētājs ar Eco-One™ bioloģiski noārdās atkritumu poligonā",
+        "9": "Iepakots kastēs no 100 % pārstrādāta kartona"
+      },
+      "useCases": {
+        "0": "Zem galdiem un atvilktnēs",
+        "1": "Skapji, apavu skapji un atkritumu tvertnes"
+      },
+      "bases": {
+        "standard": "pamats"
+      }
     }
   },
   "privateLabel": {

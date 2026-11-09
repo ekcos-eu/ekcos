@@ -56,7 +56,11 @@ const PRODUCT_LINKS: {pattern: RegExp; href: string}[] = [
   {pattern: /pow[eë]r\s+screen/gi, href: PRODUCT_HREF.powerscreen},
   {pattern: /basic\s+scr[eë]en/gi, href: PRODUCT_HREF['basic-screen']},
   {pattern: /[uü]ro\s+lite/gi, href: PRODUCT_HREF.urolite},
-  {pattern: /[eë]kco\s+(?:clip|loop)/gi, href: PRODUCT_HREF['ekco-clip']},
+  {pattern: /[eë]kco\s+clip/gi, href: PRODUCT_HREF['ekco-clip']},
+  {
+    pattern: /[eë]kco\s+loop/gi,
+    href: 'https://www.ekcos.eu/en/products/ekco-loop',
+  },
   {pattern: /fr[eë]sh\s+drop/gi, href: PRODUCT_HREF['fresh-drop']},
   {pattern: /[eë]z\s+trap/gi, href: PRODUCT_HREF['ez-trap']},
   {pattern: /[eë]kco\s+mat/gi, href: PRODUCT_HREF['ekco-mat']},

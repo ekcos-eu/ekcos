@@ -818,6 +818,32 @@
         "0": "Entrances",
         "1": "Service corridors"
       }
+    },
+    "ekcoLoop": {
+      "name": "ëkco loop",
+      "imageAlt": "Blue ëkco loop compact air freshener disc on its adhesive mounting base, seen from above on a black background",
+      "category": "kompaktni osvježivač zraka za male prostore",
+      "short": "ëkco loop inovativni je pasivni osvježivač zraka koji miris isporučuje točno tamo gdje vam treba. Namijenjen je malim prostorima sa slabim protokom zraka, kao što su prostor ispod stola, unutarnja strana poklopca kante za smeće, ormari, ormarići za cipele i ladice. Njegov uložak od vlastitog materijala prožetog mirisom na bazi dezodoransa postupno otpušta miris do 30 dana, bez sprejeva, baterija i struje. Kompaktan, plitak dizajn diskretno se uklapa u uske prostore, samoljepljivi nosač omogućuje brzo postavljanje na većinu površina, a mirisni uložak lako se mijenja. Za WC kabine i toalete odaberite veći osvježivač frësh drop.",
+      "long": "ëkco loop inovativni je pasivni osvježivač zraka koji miris isporučuje točno tamo gdje vam treba. Namijenjen je malim prostorima sa slabim protokom zraka, kao što su prostor ispod stola, unutarnja strana poklopca kante za smeće, ormari, ormarići za cipele i ladice. Njegov uložak od vlastitog materijala prožetog mirisom na bazi dezodoransa postupno otpušta miris do 30 dana, bez sprejeva, baterija i struje. Kompaktan, plitak dizajn diskretno se uklapa u uske prostore, samoljepljivi nosač omogućuje brzo postavljanje na većinu površina, a mirisni uložak lako se mijenja. Za WC kabine i toalete odaberite veći osvježivač frësh drop.\n\nUložak ëkco loop izrađen je s recikliranim EVA materijalom, a materijal se može reciklirati. I uložak i nosač sadrže aditiv Eco-One™, pa su oba biorazgradiva na odlagalištu otpada. U neovisnom laboratorijskom ispitivanju (ASTM D5511 i ISO 15985) materijal ëkcos EVA s aditivom Eco-One™ postigao je 93 % biorazgradnje u roku od 3,5 godine, a u roku od 5 godina predviđa se do 99 %.\n\nOsvježivač ëkco loop spaja kompaktnu veličinu, jednostavno postavljanje i do 30 dana mirisa za male zatvorene prostore.",
+      "benefits": {
+        "0": "Vlastiti materijal prožet mirisom na bazi dezodoransa koji se postupno otpušta",
+        "1": "Savršen za male prostore kao što su prostor ispod stola, unutarnja strana poklopca kante za smeće, ormari i ormarići za cipele",
+        "2": "Zamjenjivi mirisni uložak s pasivnim otpuštanjem mirisa do 30 dana",
+        "3": "Kompaktan, plitak dizajn koji stane i tamo gdje veći osvježivači zraka ne mogu",
+        "4": "Jednostavno postavljanje pomoću samoljepljivog nosača",
+        "5": "Dimenzije: Ø 10 x 2 cm",
+        "6": "Širok izbor boja i ugodnih mirisa",
+        "7": "Uložak izrađen s recikliranim EVA materijalom koji se može reciklirati",
+        "8": "Uložak i nosač biorazgradivi na odlagalištu otpada uz aditiv Eco-One™",
+        "9": "Pakirana u kutije od 100 % recikliranog kartona"
+      },
+      "useCases": {
+        "0": "Ispod stolova i u ladice",
+        "1": "Ormari, cipelarnici i koševi"
+      },
+      "bases": {
+        "standard": "baza"
+      }
     }
   },
   "privateLabel": {

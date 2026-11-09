@@ -818,6 +818,32 @@
         "0": "Entrances",
         "1": "Service corridors"
       }
+    },
+    "ekcoLoop": {
+      "name": "ëkco loop",
+      "imageAlt": "Blue ëkco loop compact air freshener disc on its adhesive mounting base, seen from above on a black background",
+      "category": "ambientador compacto para espaços pequenos",
+      "short": "O ëkco loop é um ambientador passivo inovador que leva a fragrância exatamente onde é necessária. Foi concebido para espaços pequenos com pouca circulação de ar, como debaixo de secretárias, dentro de tampas de caixotes do lixo, roupeiros, sapateiras e gavetas. A sua recarga, feita de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante até 30 dias, sem sprays, pilhas nem eletricidade. O seu design compacto e de perfil baixo encaixa discretamente em espaços apertados, a base de montagem adesiva permite uma instalação rápida na maioria das superfícies e a recarga de fragrância é fácil de substituir. Para cabines de WC e casas de banho, escolha o frësh drop, de maior dimensão.",
+      "long": "O ëkco loop é um ambientador passivo inovador que leva a fragrância exatamente onde é necessária. Foi concebido para espaços pequenos com pouca circulação de ar, como debaixo de secretárias, dentro de tampas de caixotes do lixo, roupeiros, sapateiras e gavetas. A sua recarga, feita de um material exclusivo impregnado com uma fragrância à base de desodorizante, liberta a fragrância gradualmente durante até 30 dias, sem sprays, pilhas nem eletricidade. O seu design compacto e de perfil baixo encaixa discretamente em espaços apertados, a base de montagem adesiva permite uma instalação rápida na maioria das superfícies e a recarga de fragrância é fácil de substituir. Para cabines de WC e casas de banho, escolha o frësh drop, de maior dimensão.\n\nA recarga do ëkco loop é fabricada com EVA reciclado, e o material pode ser reciclado. A recarga e a base contêm ambas o aditivo Eco-One™, pelo que ambas são biodegradáveis em aterro. Num ensaio laboratorial independente (ASTM D5511 e ISO 15985), o EVA ëkcos com Eco-One™ atingiu 93% de biodegradação em 3,5 anos, e prevê-se que atinja até 99% em 5 anos.\n\nO ëkco loop combina tamanho compacto, instalação fácil e até 30 dias de fragrância para espaços pequenos e fechados.",
+      "benefits": {
+        "0": "Material exclusivo impregnado com uma fragrância à base de desodorizante, que se liberta gradualmente",
+        "1": "Perfeito para espaços pequenos, como debaixo de secretárias, dentro de tampas de caixotes do lixo, roupeiros e sapateiras",
+        "2": "Recarga de fragrância substituível, com libertação passiva durante até 30 dias",
+        "3": "Design compacto e de perfil baixo que cabe onde os ambientadores maiores não cabem",
+        "4": "Instalação fácil com a base de montagem adesiva",
+        "5": "Dimensões: Ø 10 x 2 cm",
+        "6": "Vasta gama de cores e fragrâncias agradáveis",
+        "7": "Recarga fabricada com EVA reciclado e reciclável",
+        "8": "Recarga e base biodegradáveis em aterro com Eco-One™",
+        "9": "Embalado em caixas de cartão 100% reciclado"
+      },
+      "useCases": {
+        "0": "Debaixo de secretárias e em gavetas",
+        "1": "Armários, sapateiras e caixotes"
+      },
+      "bases": {
+        "standard": "base"
+      }
     }
   },
   "privateLabel": {

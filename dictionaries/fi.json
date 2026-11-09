@@ -818,6 +818,32 @@
         "0": "Entrances",
         "1": "Service corridors"
       }
+    },
+    "ekcoLoop": {
+      "name": "ëkco loop",
+      "imageAlt": "Blue ëkco loop compact air freshener disc on its adhesive mounting base, seen from above on a black background",
+      "category": "kompakti ilmanraikastin pieniin tiloihin",
+      "short": "ëkco loop on innovatiivinen passiivinen ilmanraikastin, joka tuo tuoksun juuri sinne, missä sitä tarvitaan. Se on suunniteltu pieniin tiloihin, joissa ilma liikkuu vähän, kuten työpöytien alle, roska- astioiden kansien sisäpuolelle, kaappeihin, kenkäkaappeihin ja laatikoihin. Sen tuoksuosa on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen jopa 30 päivän ajan ilman suihkeita, paristoja tai sähköä. Kompakti ja matala muotoilu mahtuu huomaamattomasti ahtaisiin paikkoihin, tarrakiinnitteinen pohjaosa mahdollistaa nopean asennuksen useimmille pinnoille ja tuoksuosa on helppo vaihtaa. WC- koppeihin ja WC-tiloihin kannattaa valita suurempi frësh drop.",
+      "long": "ëkco loop on innovatiivinen passiivinen ilmanraikastin, joka tuo tuoksun juuri sinne, missä sitä tarvitaan. Se on suunniteltu pieniin tiloihin, joissa ilma liikkuu vähän, kuten työpöytien alle, roska- astioiden kansien sisäpuolelle, kaappeihin, kenkäkaappeihin ja laatikoihin. Sen tuoksuosa on valmistettu omasta erikoismateriaalistamme, johon on imeytetty deodoranttipohjainen tuoksu, ja se vapauttaa tuoksua vähitellen jopa 30 päivän ajan ilman suihkeita, paristoja tai sähköä. Kompakti ja matala muotoilu mahtuu huomaamattomasti ahtaisiin paikkoihin, tarrakiinnitteinen pohjaosa mahdollistaa nopean asennuksen useimmille pinnoille ja tuoksuosa on helppo vaihtaa. WC- koppeihin ja WC-tiloihin kannattaa valita suurempi frësh drop.\n\nëkco loop -raikastimen tuoksuosan valmistuksessa käytetään kierrätettyä EVA-materiaalia, ja materiaali on kierrätettävissä. Sekä tuoksuosa että pohjaosa sisältävät Eco-One™-lisäainetta, joten molemmat ovat biohajoavia kaatopaikalla. Riippumattomassa laboratoriotestissä (ASTM D5511 ja ISO 15985) Eco-One™-lisäainetta sisältävästä ëkcos-EVA-materiaalista biohajosi 3,5 vuodessa 93 %, ja ennusteen mukaan 5 vuodessa biohajoaa jopa 99 %.\n\nëkco loop yhdistää kompaktin koon, helpon asennuksen ja jopa 30 päivän tuoksun pieniin suljettuihin tiloihin.",
+      "benefits": {
+        "0": "Oma erikoismateriaali, johon on imeytetty deodoranttipohjainen tuoksu, joka vapautuu vähitellen",
+        "1": "Sopii erinomaisesti pieniin tiloihin, kuten työpöytien alle, roska-astioiden kansien sisäpuolelle, kaappeihin ja kenkäkaappeihin",
+        "2": "Vaihdettava tuoksuosa, josta tuoksu vapautuu passiivisesti jopa 30 päivän ajan",
+        "3": "Kompakti, matala muotoilu mahtuu paikkoihin, joihin suuremmat ilmanraikastimet eivät mahdu",
+        "4": "Helppo asentaa tarrakiinnitteisen pohjaosan avulla",
+        "5": "Mitat: Ø 10 x 2 cm",
+        "6": "Laaja valikoima värejä ja miellyttäviä tuoksuja",
+        "7": "Tuoksuosassa kierrätettyä ja kierrätettävää EVA-materiaalia",
+        "8": "Tuoksuosa ja pohjaosa biohajoavia kaatopaikalla Eco-One™-lisäaineen ansiosta",
+        "9": "Pakattu 100 % kierrätetystä kartongista valmistettuihin laatikoihin"
+      },
+      "useCases": {
+        "0": "Pöytien alle ja laatikoihin",
+        "1": "Kaapit, kenkäkaapit ja roskikset"
+      },
+      "bases": {
+        "standard": "jalusta"
+      }
     }
   },
   "privateLabel": {

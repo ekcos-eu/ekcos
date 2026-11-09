@@ -818,6 +818,32 @@
         "0": "Entrances",
         "1": "Service corridors"
       }
+    },
+    "ekcoLoop": {
+      "name": "ëkco loop",
+      "imageAlt": "Blue ëkco loop compact air freshener disc on its adhesive mounting base, seen from above on a black background",
+      "category": "compacte luchtverfrisser voor kleine ruimtes",
+      "short": "ëkco loop is een innovatieve, passieve luchtverfrisser die geur precies daar afgeeft waar u die nodig hebt. Hij is ontworpen voor kleine ruimtes met weinig luchtcirculatie, zoals onder bureaus, in deksels van afvalbakken, kasten, schoenenkasten en lades. De navulling, gemaakt van zelf ontwikkeld materiaal doordrenkt met een geur op deodorantbasis, geeft tot 30 dagen lang geleidelijk geur af, zonder sprays, batterijen of stroom. Het compacte, platte ontwerp past onopvallend op krappe plekken, de zelfklevende houder maakt snelle montage op de meeste oppervlakken mogelijk en de geurnavulling is eenvoudig te vervangen. Voor toiletcabines en toiletruimtes kiest u de grotere frësh drop.",
+      "long": "ëkco loop is een innovatieve, passieve luchtverfrisser die geur precies daar afgeeft waar u die nodig hebt. Hij is ontworpen voor kleine ruimtes met weinig luchtcirculatie, zoals onder bureaus, in deksels van afvalbakken, kasten, schoenenkasten en lades. De navulling, gemaakt van zelf ontwikkeld materiaal doordrenkt met een geur op deodorantbasis, geeft tot 30 dagen lang geleidelijk geur af, zonder sprays, batterijen of stroom. Het compacte, platte ontwerp past onopvallend op krappe plekken, de zelfklevende houder maakt snelle montage op de meeste oppervlakken mogelijk en de geurnavulling is eenvoudig te vervangen. Voor toiletcabines en toiletruimtes kiest u de grotere frësh drop.\n\nDe navulling van de ëkco loop wordt gemaakt met gerecycled EVA, en het materiaal is recyclebaar. Navulling en houder bevatten allebei het additief Eco-One™ en zijn daardoor allebei biologisch afbreekbaar op de stortplaats. In een onafhankelijke laboratoriumtest (ASTM D5511 en ISO 15985) bereikte EVA van ëkcos met Eco-One™ binnen 3,5 jaar 93% biologische afbraak, en binnen 5 jaar wordt tot 99% verwacht.\n\nëkco loop combineert een compact formaat, eenvoudige montage en tot 30 dagen geur voor kleine, afgesloten ruimtes.",
+      "benefits": {
+        "0": "Zelf ontwikkeld materiaal, doordrenkt met een geur op deodorantbasis die geleidelijk vrijkomt",
+        "1": "Perfect voor kleine ruimtes, zoals onder bureaus, in deksels van afvalbakken, kasten en schoenenkasten",
+        "2": "Vervangbare geurnavulling met passieve geurafgifte tot 30 dagen",
+        "3": "Compact, plat ontwerp dat past waar grotere luchtverfrissers niet passen",
+        "4": "Eenvoudige montage met de zelfklevende houder",
+        "5": "Afmetingen: Ø 10 x 2 cm",
+        "6": "Ruime keuze aan kleuren en aangename geuren",
+        "7": "Navulling gemaakt met gerecycled, recyclebaar EVA",
+        "8": "Navulling en houder met Eco-One™ biologisch afbreekbaar op de stortplaats",
+        "9": "Verpakt in dozen van 100% gerecycled karton"
+      },
+      "useCases": {
+        "0": "Onder bureaus en in laden",
+        "1": "Kasten, schoenkasten en prullenbakken"
+      },
+      "bases": {
+        "standard": "basis"
+      }
     }
   },
   "privateLabel": {

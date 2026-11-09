@@ -818,6 +818,32 @@
         "0": "Entrances",
         "1": "Service corridors"
       }
+    },
+    "ekcoLoop": {
+      "name": "ëkco loop",
+      "imageAlt": "Blue ëkco loop compact air freshener disc on its adhesive mounting base, seen from above on a black background",
+      "category": "kompaktne õhuvärskendaja väikestesse ruumidesse",
+      "short": "ëkco loop on uuenduslik passiivne õhuvärskendaja, mis toob lõhna täpselt sinna, kus seda vaja on. See on loodud väikestesse vähese õhuliikumisega ruumidesse, näiteks kirjutuslaudade alla, prügikastide kaante siseküljele, kappidesse, jalatsikappidesse ja sahtlitesse. Selle täide on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja eraldab lõhna järk-järgult kuni 30 päeva ilma pihustite, patareide ja elektrita. Kompaktne ja madal disain mahub diskreetselt kitsastesse kohtadesse, isekleepuv kinnitusalus võimaldab kiire paigalduse enamikule pindadele ning lõhnatäidet on lihtne vahetada. WC-kabiinidesse ja tualettruumidesse valige suurem frësh drop.",
+      "long": "ëkco loop on uuenduslik passiivne õhuvärskendaja, mis toob lõhna täpselt sinna, kus seda vaja on. See on loodud väikestesse vähese õhuliikumisega ruumidesse, näiteks kirjutuslaudade alla, prügikastide kaante siseküljele, kappidesse, jalatsikappidesse ja sahtlitesse. Selle täide on valmistatud meie enda väljatöötatud materjalist, millesse on imbutatud deodorandipõhine lõhn, ja eraldab lõhna järk-järgult kuni 30 päeva ilma pihustite, patareide ja elektrita. Kompaktne ja madal disain mahub diskreetselt kitsastesse kohtadesse, isekleepuv kinnitusalus võimaldab kiire paigalduse enamikule pindadele ning lõhnatäidet on lihtne vahetada. WC-kabiinidesse ja tualettruumidesse valige suurem frësh drop.\n\nÕhuvärskendaja ëkco loop täite valmistamisel kasutatakse ringlussevõetud EVA-materjali ja materjali saab ringlusse võtta. Nii täide kui ka alus sisaldavad lisandit Eco-One™, seega on mõlemad prügilas biolagunevad. Sõltumatus laborikatses (ASTM D5511 ja ISO 15985) saavutas Eco-One™ lisandiga ëkcos EVA-materjal 3,5 aasta jooksul 93 % biolagunemise ning 5 aasta jooksul prognoositakse kuni 99 %.\n\nëkco loop ühendab kompaktse suuruse, lihtsa paigalduse ja kuni 30 päeva kestva lõhna väikestesse suletud ruumidesse.",
+      "benefits": {
+        "0": "Enda väljatöötatud materjal, millesse on imbutatud deodorandipõhine lõhn, mis eraldub järk-järgult",
+        "1": "Ideaalne väikestesse ruumidesse: kirjutuslaudade alla, prügikastide kaante siseküljele, kappidesse ja jalatsikappidesse",
+        "2": "Vahetatav lõhnatäide, passiivne lõhna eraldumine kuni 30 päeva",
+        "3": "Kompaktne, madal disain mahub sinna, kuhu suuremad õhuvärskendajad ei mahu",
+        "4": "Lihtne paigaldada isekleepuva kinnitusalusega",
+        "5": "Mõõdud: Ø 10 x 2 cm",
+        "6": "Lai valik värve ja meeldivaid lõhnu",
+        "7": "Täites on kasutatud ringlussevõetud ja ringlussevõetavat EVA-materjali",
+        "8": "Täide ja alus on Eco-One™ lisandiga prügilas biolagunevad",
+        "9": "Pakendatud 100 % ringlussevõetud kartongist karpidesse"
+      },
+      "useCases": {
+        "0": "Laudade alla ja sahtlitesse",
+        "1": "Kapid, jalanõukapid ja prügikastid"
+      },
+      "bases": {
+        "standard": "alus"
+      }
     }
   },
   "privateLabel": {

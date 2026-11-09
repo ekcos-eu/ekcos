@@ -1,6 +1,10 @@
 import type { Product } from '@/lib/types/product'
 import { publicPath } from '@/lib/paths'
-import { buildFreshDropBaseColors, buildUrinalLineColors } from '@/lib/product-variants'
+import {
+  buildEkcoLoopBaseColors,
+  buildFreshDropBaseColors,
+  buildUrinalLineColors,
+} from '@/lib/product-variants'
 
 const shop = (path: string) => path
 
@@ -221,6 +225,38 @@ export const products: Product[] = [
     ],
     shopPath: shop('/collections/fresh-drop'),
     brandingAvailable: true,
+    ecoOneCompatible: true,
+    featured: false,
+  },
+  {
+    slug: 'ekco-loop',
+    nameKey: 'products.ekcoLoop.name',
+    categoryKey: 'products.ekcoLoop.category',
+    shortDescriptionKey: 'products.ekcoLoop.short',
+    longDescriptionKey: 'products.ekcoLoop.long',
+    benefitKeys: [
+      'products.ekcoLoop.benefits.0',
+      'products.ekcoLoop.benefits.1',
+      'products.ekcoLoop.benefits.2',
+      'products.ekcoLoop.benefits.3',
+      'products.ekcoLoop.benefits.4',
+      'products.ekcoLoop.benefits.5',
+      'products.ekcoLoop.benefits.6',
+      'products.ekcoLoop.benefits.7',
+      'products.ekcoLoop.benefits.8',
+      'products.ekcoLoop.benefits.9',
+    ],
+    useCaseKeys: [
+      'products.ekcoLoop.useCases.0',
+      'products.ekcoLoop.useCases.1',
+    ],
+    heroImageSrc: publicPath('products', 'EkcoLoop', 'PhotoStock', 'ELI-3B-V0.png'),
+    colors: [
+      ...buildUrinalLineColors('ELI', 'eli', ['products', 'EkcoLoop']),
+      ...buildEkcoLoopBaseColors(['products', 'EkcoLoop']),
+    ],
+    shopPath: shop('/collections/ekco-loop'),
+    brandingAvailable: false,
     ecoOneCompatible: true,
     featured: false,
   },

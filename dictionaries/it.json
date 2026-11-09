@@ -818,6 +818,32 @@
         "0": "Ingressi",
         "1": "Corridoi di servizio"
       }
+    },
+    "ekcoLoop": {
+      "name": "ëkco loop",
+      "imageAlt": "Blue ëkco loop compact air freshener disc on its adhesive mounting base, seen from above on a black background",
+      "category": "deodorante per ambienti compatto per piccoli spazi",
+      "short": "ëkco loop è un innovativo deodorante per ambienti passivo che diffonde il profumo esattamente dove serve. È pensato per piccoli spazi con poco ricambio d’aria, come sotto le scrivanie, nei coperchi dei cestini, negli armadi, nelle scarpiere e nei cassetti. La sua ricarica, realizzata in un materiale esclusivo impregnato di una fragranza deodorante, rilascia gradualmente il profumo fino a 30 giorni, senza spray, pile o elettricità. Il design compatto e sottile si inserisce con discrezione negli spazi stretti, la base adesiva permette un’installazione rapida sulla maggior parte delle superfici e la ricarica profumata si sostituisce facilmente. Per cabine WC e bagni, scegliete il più grande frësh drop.",
+      "long": "ëkco loop è un innovativo deodorante per ambienti passivo che diffonde il profumo esattamente dove serve. È pensato per piccoli spazi con poco ricambio d’aria, come sotto le scrivanie, nei coperchi dei cestini, negli armadi, nelle scarpiere e nei cassetti. La sua ricarica, realizzata in un materiale esclusivo impregnato di una fragranza deodorante, rilascia gradualmente il profumo fino a 30 giorni, senza spray, pile o elettricità. Il design compatto e sottile si inserisce con discrezione negli spazi stretti, la base adesiva permette un’installazione rapida sulla maggior parte delle superfici e la ricarica profumata si sostituisce facilmente. Per cabine WC e bagni, scegliete il più grande frësh drop.\n\nLa ricarica ëkco loop è realizzata con EVA riciclato e il materiale può essere riciclato. La ricarica e la base contengono entrambe l’additivo Eco-One™, quindi sono entrambe biodegradabili in discarica. In un test di laboratorio indipendente (ASTM D5511 e ISO 15985), l’EVA ëkcos con Eco-One™ ha raggiunto il 93% di biodegradazione in 3,5 anni, e si prevede fino al 99% entro 5 anni.\n\nëkco loop unisce dimensioni compatte, installazione facile e fino a 30 giorni di profumo per piccoli spazi chiusi.",
+      "benefits": {
+        "0": "Materiale esclusivo impregnato di una fragranza deodorante che viene rilasciata gradualmente",
+        "1": "Perfetto per piccoli spazi come sotto le scrivanie, nei coperchi dei cestini, negli armadi e nelle scarpiere",
+        "2": "Ricarica profumata sostituibile con rilascio passivo fino a 30 giorni",
+        "3": "Design compatto e sottile che si inserisce dove i deodoranti più grandi non arrivano",
+        "4": "Installazione facile con la base adesiva",
+        "5": "Dimensioni: Ø 10 x 2 cm",
+        "6": "Ampia scelta di colori e fragranze piacevoli",
+        "7": "Ricarica realizzata con EVA riciclato e riciclabile",
+        "8": "Ricarica e base biodegradabili in discarica con Eco-One™",
+        "9": "Confezione in scatole di cartone riciclato al 100%"
+      },
+      "useCases": {
+        "0": "Sotto le scrivanie e nei cassetti",
+        "1": "Armadi, scarpiera e cestini"
+      },
+      "bases": {
+        "standard": "base"
+      }
     }
   },
   "privateLabel": {

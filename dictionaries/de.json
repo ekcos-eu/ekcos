@@ -818,6 +818,32 @@
         "0": "Eingänge",
         "1": "Servicekorridore"
       }
+    },
+    "ekcoLoop": {
+      "name": "ëkco loop",
+      "imageAlt": "Blue ëkco loop compact air freshener disc on its adhesive mounting base, seen from above on a black background",
+      "category": "kompakter Lufterfrischer für kleine Räume",
+      "short": "ëkco loop ist ein innovativer passiver Lufterfrischer, der Duft genau dort abgibt, wo Sie ihn brauchen. Er ist für kleine Räume mit wenig Luftzirkulation konzipiert, etwa unter Schreibtischen, in Mülleimerdeckeln, Schränken, Schuhschränken und Schubladen. Sein Einsatz aus eigens entwickeltem Material mit Duft auf Deodorantbasis gibt bis zu 30 Tage lang nach und nach Duft ab, ohne Sprays, Batterien oder Strom. Das kompakte, flache Design passt unauffällig in enge Ecken, die selbstklebende Halterung ermöglicht eine schnelle Montage auf den meisten Oberflächen, und der Dufteinsatz lässt sich leicht austauschen. Für Toilettenkabinen und Sanitärräume wählen Sie den größeren frësh drop.",
+      "long": "ëkco loop ist ein innovativer passiver Lufterfrischer, der Duft genau dort abgibt, wo Sie ihn brauchen. Er ist für kleine Räume mit wenig Luftzirkulation konzipiert, etwa unter Schreibtischen, in Mülleimerdeckeln, Schränken, Schuhschränken und Schubladen. Sein Einsatz aus eigens entwickeltem Material mit Duft auf Deodorantbasis gibt bis zu 30 Tage lang nach und nach Duft ab, ohne Sprays, Batterien oder Strom. Das kompakte, flache Design passt unauffällig in enge Ecken, die selbstklebende Halterung ermöglicht eine schnelle Montage auf den meisten Oberflächen, und der Dufteinsatz lässt sich leicht austauschen. Für Toilettenkabinen und Sanitärräume wählen Sie den größeren frësh drop.\n\nDer Einsatz des ëkco loop wird mit recyceltem EVA hergestellt, und das Material ist recycelbar. Einsatz und Halterung enthalten beide das Additiv Eco-One™ und sind daher beide auf der Deponie biologisch abbaubar. In einem unabhängigen Labortest (ASTM D5511 und ISO 15985) wurde EVA von ëkcos mit Eco-One™ innerhalb von 3,5 Jahren zu 93 % biologisch abgebaut, und innerhalb von 5 Jahren werden bis zu 99 % prognostiziert.\n\nëkco loop vereint kompakte Größe, einfache Montage und bis zu 30 Tage Duft für kleine, geschlossene Räume.",
+      "benefits": {
+        "0": "Eigens entwickeltes Material, versetzt mit einem Duft auf Deodorantbasis, der nach und nach freigesetzt wird",
+        "1": "Perfekt für kleine Räume, etwa unter Schreibtischen, in Mülleimerdeckeln, Schränken und Schuhschränken",
+        "2": "Austauschbarer Dufteinsatz mit passiver Duftabgabe für bis zu 30 Tage",
+        "3": "Kompaktes, flaches Design passt auch dorthin, wo größere Lufterfrischer keinen Platz haben",
+        "4": "Einfache Montage mit der selbstklebenden Halterung",
+        "5": "Abmessungen: Ø 10 x 2 cm",
+        "6": "Große Auswahl an Farben und angenehmen Düften",
+        "7": "Einsatz hergestellt mit recyceltem, recycelbarem EVA",
+        "8": "Einsatz und Halterung mit Eco-One™ auf der Deponie biologisch abbaubar",
+        "9": "Verpackt in Schachteln aus 100 % Recyclingkarton"
+      },
+      "useCases": {
+        "0": "Unter Schreibtischen und in Schubladen",
+        "1": "Schränke, Schuhschränke und Abfalleimer"
+      },
+      "bases": {
+        "standard": "Basis"
+      }
     }
   },
   "privateLabel": {

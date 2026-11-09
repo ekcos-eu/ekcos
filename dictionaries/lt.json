@@ -818,6 +818,32 @@
         "0": "Entrances",
         "1": "Service corridors"
       }
+    },
+    "ekcoLoop": {
+      "name": "ëkco loop",
+      "imageAlt": "Blue ëkco loop compact air freshener disc on its adhesive mounting base, seen from above on a black background",
+      "category": "kompaktiškas oro gaiviklis mažoms erdvėms",
+      "short": "ëkco loop yra naujoviškas pasyvus oro gaiviklis, kuris skleidžia kvapą būtent ten, kur jo reikia. Jis skirtas mažoms erdvėms su silpna oro cirkuliacija, pavyzdžiui, po stalais, šiukšliadėžių dangčių viduje, spintose, batų spintelėse ir stalčiuose. Jo įdėklas, pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, palaipsniui skleidžia kvapą iki 30 dienų be purškiklių, baterijų ar elektros. Kompaktiškas, žemo profilio dizainas nepastebimai telpa ankštose vietose, lipnus tvirtinimo pagrindas leidžia greitai pritvirtinti gaiviklį prie daugumos paviršių, o kvapų įdėklą lengva pakeisti. Tualeto kabinoms ir tualetams rinkitės didesnį gaiviklį frësh drop.",
+      "long": "ëkco loop yra naujoviškas pasyvus oro gaiviklis, kuris skleidžia kvapą būtent ten, kur jo reikia. Jis skirtas mažoms erdvėms su silpna oro cirkuliacija, pavyzdžiui, po stalais, šiukšliadėžių dangčių viduje, spintose, batų spintelėse ir stalčiuose. Jo įdėklas, pagamintas iš mūsų sukurtos medžiagos, prisotintos dezodoranto pagrindo kvapu, palaipsniui skleidžia kvapą iki 30 dienų be purškiklių, baterijų ar elektros. Kompaktiškas, žemo profilio dizainas nepastebimai telpa ankštose vietose, lipnus tvirtinimo pagrindas leidžia greitai pritvirtinti gaiviklį prie daugumos paviršių, o kvapų įdėklą lengva pakeisti. Tualeto kabinoms ir tualetams rinkitės didesnį gaiviklį frësh drop.\n\nGaiviklio ëkco loop įdėklas pagamintas naudojant perdirbtą EVA, o šią medžiagą galima perdirbti. Ir įdėkle, ir pagrinde yra priedo Eco-One™, todėl abu yra biologiškai skaidūs sąvartyne. Nepriklausomame laboratorijos bandyme (ASTM D5511 ir ISO 15985) ëkcos EVA su Eco-One™ per 3,5 metų biologiškai suiro 93 %, o per 5 metus prognozuojama iki 99 %.\n\nëkco loop sujungia kompaktišką dydį, lengvą montavimą ir iki 30 dienų kvapą mažoms uždaroms erdvėms.",
+      "benefits": {
+        "0": "Mūsų sukurta medžiaga, prisotinta dezodoranto pagrindo kvapu, kuris sklinda palaipsniui",
+        "1": "Puikiai tinka mažoms erdvėms, pavyzdžiui, po stalais, šiukšliadėžių dangčių viduje, spintose ir batų spintelėse",
+        "2": "Keičiamas kvapų įdėklas su pasyviu kvapo sklidimu iki 30 dienų",
+        "3": "Kompaktiškas, žemo profilio dizainas telpa ten, kur didesni oro gaivikliai netelpa",
+        "4": "Lengvas montavimas lipniu tvirtinimo pagrindu",
+        "5": "Matmenys: Ø 10 x 2 cm",
+        "6": "Didelis spalvų ir malonių kvapų pasirinkimas",
+        "7": "Įdėklas pagamintas naudojant perdirbtą, perdirbamą EVA",
+        "8": "Įdėklas ir pagrindas su Eco-One™ biologiškai skaidūs sąvartyne",
+        "9": "Supakuotas į dėžes iš 100 % perdirbto kartono"
+      },
+      "useCases": {
+        "0": "Po stalais ir stalčiuose",
+        "1": "Spintos, batų spintos ir šiukšliadėžės"
+      },
+      "bases": {
+        "standard": "pagrindas"
+      }
     }
   },
   "privateLabel": {

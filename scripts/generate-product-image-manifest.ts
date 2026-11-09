@@ -17,6 +17,7 @@ const SLUG_TO_FOLDER: Record<string, string> = {
   urolite: 'Urolite',
   'ekco-clip': 'Ekcoclip',
   'fresh-drop': 'Freshdrop',
+  'ekco-loop': 'EkcoLoop',
   'ez-trap': 'EzTrap',
   'xcren-puck': 'Xcren Puck',
   'ekco-mat': 'Ekcomat',

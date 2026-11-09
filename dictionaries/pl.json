@@ -818,6 +818,32 @@
         "0": "Entrances",
         "1": "Service corridors"
       }
+    },
+    "ekcoLoop": {
+      "name": "ëkco loop",
+      "imageAlt": "Blue ëkco loop compact air freshener disc on its adhesive mounting base, seen from above on a black background",
+      "category": "kompaktowy odświeżacz powietrza do małych przestrzeni",
+      "short": "ëkco loop to innowacyjny pasywny odświeżacz powietrza, który dostarcza zapach dokładnie tam, gdzie jest potrzebny. Został zaprojektowany do małych przestrzeni o słabym przepływie powietrza, np. pod biurkami, w pokrywach koszy na śmieci, w szafach, szafkach na buty i szufladach. Jego wkład z autorskiego materiału nasączonego zapachem na bazie dezodorantu stopniowo uwalnia zapach do 30 dni, bez aerozoli, baterii i prądu. Dzięki kompaktowej, płaskiej konstrukcji dyskretnie mieści się w ciasnych miejscach, samoprzylepny uchwyt montażowy umożliwia szybki montaż na większości powierzchni, a wkład zapachowy łatwo wymienić. Do kabin WC i toalet polecamy większy frësh drop.",
+      "long": "ëkco loop to innowacyjny pasywny odświeżacz powietrza, który dostarcza zapach dokładnie tam, gdzie jest potrzebny. Został zaprojektowany do małych przestrzeni o słabym przepływie powietrza, np. pod biurkami, w pokrywach koszy na śmieci, w szafach, szafkach na buty i szufladach. Jego wkład z autorskiego materiału nasączonego zapachem na bazie dezodorantu stopniowo uwalnia zapach do 30 dni, bez aerozoli, baterii i prądu. Dzięki kompaktowej, płaskiej konstrukcji dyskretnie mieści się w ciasnych miejscach, samoprzylepny uchwyt montażowy umożliwia szybki montaż na większości powierzchni, a wkład zapachowy łatwo wymienić. Do kabin WC i toalet polecamy większy frësh drop.\n\nWkład ëkco loop powstaje z wykorzystaniem EVA z recyklingu, a materiał nadaje się do recyklingu. Zarówno wkład, jak i uchwyt zawierają dodatek Eco-One™, dzięki czemu oba ulegają biodegradacji na składowisku odpadów. W niezależnym teście laboratoryjnym (ASTM D5511 i ISO 15985) materiał EVA ëkcos z dodatkiem Eco-One™ uległ biodegradacji w 93% w ciągu 3,5 roku, a prognoza na 5 lat to do 99%.\n\nëkco loop łączy kompaktowe wymiary, łatwy montaż i zapach do 30 dni, z myślą o małych zamkniętych przestrzeniach.",
+      "benefits": {
+        "0": "Autorski materiał nasączony zapachem na bazie dezodorantu, uwalnianym stopniowo",
+        "1": "Doskonały do małych przestrzeni, np. pod biurkami, w pokrywach koszy na śmieci, w szafach i szafkach na buty",
+        "2": "Wymienny wkład zapachowy z pasywnym uwalnianiem zapachu do 30 dni",
+        "3": "Kompaktowa, płaska konstrukcja zmieści się tam, gdzie większe odświeżacze się nie zmieszczą",
+        "4": "Łatwy montaż za pomocą samoprzylepnego uchwytu montażowego",
+        "5": "Wymiary: Ø 10 x 2 cm",
+        "6": "Szeroka gama kolorów i przyjemnych zapachów",
+        "7": "Wkład wykonany z wykorzystaniem EVA z recyklingu, nadający się do recyklingu",
+        "8": "Wkład i uchwyt ulegają biodegradacji na składowisku odpadów dzięki Eco-One™",
+        "9": "Pudełka z tektury w 100% z recyklingu"
+      },
+      "useCases": {
+        "0": "Pod biurkami i w szufladach",
+        "1": "Szafy, szafki na buty i kosze"
+      },
+      "bases": {
+        "standard": "podstawa"
+      }
     }
   },
   "privateLabel": {

@@ -818,6 +818,32 @@
         "0": "Entrances",
         "1": "Service corridors"
       }
+    },
+    "ekcoLoop": {
+      "name": "ëkco loop",
+      "imageAlt": "Blue ëkco loop compact air freshener disc on its adhesive mounting base, seen from above on a black background",
+      "category": "kompaktný osviežovač vzduchu do malých priestorov",
+      "short": "ëkco loop je inovatívny pasívny osviežovač vzduchu, ktorý dodá vôňu presne tam, kde ju potrebujete. Je určený do malých priestorov so slabým prúdením vzduchu, napríklad pod pracovný stôl, do veka odpadkového koša, do skrine, botníka alebo zásuvky. Jeho vložka z materiálu vlastnej receptúry napusteného vôňou na báze dezodorantu postupne uvoľňuje vôňu až 30 dní, bez sprejov, batérií a elektriny. Vďaka kompaktnému plochému tvaru sa nenápadne zmestí aj do tesných miest, samolepiaca základňa umožňuje rýchlu inštaláciu na väčšinu povrchov a vonnú vložku možno ľahko vymeniť. Do WC kabín a na toalety zvoľte väčší osviežovač frësh drop.",
+      "long": "ëkco loop je inovatívny pasívny osviežovač vzduchu, ktorý dodá vôňu presne tam, kde ju potrebujete. Je určený do malých priestorov so slabým prúdením vzduchu, napríklad pod pracovný stôl, do veka odpadkového koša, do skrine, botníka alebo zásuvky. Jeho vložka z materiálu vlastnej receptúry napusteného vôňou na báze dezodorantu postupne uvoľňuje vôňu až 30 dní, bez sprejov, batérií a elektriny. Vďaka kompaktnému plochému tvaru sa nenápadne zmestí aj do tesných miest, samolepiaca základňa umožňuje rýchlu inštaláciu na väčšinu povrchov a vonnú vložku možno ľahko vymeniť. Do WC kabín a na toalety zvoľte väčší osviežovač frësh drop.\n\nVložka ëkco loop sa vyrába s podielom recyklovaného EVA a materiál sa dá recyklovať. Vložka aj základňa obsahujú prísadu Eco-One™, a preto sú obe biologicky rozložiteľné na skládke. V nezávislom laboratórnom teste (ASTM D5511 a ISO 15985) sa materiál EVA ëkcos s prísadou Eco-One™ za 3,5 roka biologicky rozložil z 93 % a do 5 rokov sa predpokladá rozklad až 99 %.\n\nëkco loop spája kompaktné rozmery, jednoduchú inštaláciu a vôňu až na 30 dní pre malé uzavreté priestory.",
+      "benefits": {
+        "0": "Materiál vlastnej receptúry napustený vôňou na báze dezodorantu, ktorá sa postupne uvoľňuje",
+        "1": "Perfektné do malých priestorov, napr. pod stôl, do veka odpadkového koša, do skrine alebo botníka",
+        "2": "Vymeniteľná vonná vložka s pasívnym uvoľňovaním vône až 30 dní",
+        "3": "Kompaktný plochý dizajn, ktorý sa zmestí tam, kam sa väčšie osviežovače vzduchu nezmestia",
+        "4": "Jednoduchá inštalácia pomocou samolepiacej základne",
+        "5": "Rozmery: Ø 10 x 2 cm",
+        "6": "Široká ponuka farieb a príjemných vôní",
+        "7": "Vložka z recyklovateľného EVA s podielom recyklovaného materiálu",
+        "8": "Vložka aj základňa biologicky rozložiteľné na skládke vďaka Eco-One™",
+        "9": "Balené v krabiciach zo 100 % recyklovanej lepenky"
+      },
+      "useCases": {
+        "0": "Pod stoly a do zásuviek",
+        "1": "Skrine, botníky a koše"
+      },
+      "bases": {
+        "standard": "základňa"
+      }
     }
   },
   "privateLabel": {

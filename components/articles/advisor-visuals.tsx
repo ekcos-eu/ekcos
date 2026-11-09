@@ -231,7 +231,7 @@ export async function AdvisorSplashStats() {
               {card.pct}
             </p>
             <p className="mt-2 text-sm leading-snug text-[#575756]/90">
-              {linkify(card.label, getAlt)}
+              {card.label}
             </p>
           </div>
           <ProductThumb

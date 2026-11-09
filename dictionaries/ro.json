@@ -818,6 +818,32 @@
         "0": "Entrances",
         "1": "Service corridors"
       }
+    },
+    "ekcoLoop": {
+      "name": "ëkco loop",
+      "imageAlt": "Blue ëkco loop compact air freshener disc on its adhesive mounting base, seen from above on a black background",
+      "category": "odorizant de cameră compact pentru spații mici",
+      "short": "ëkco loop este un odorizant pasiv inovator, care parfumează exact acolo unde aveți nevoie. Este conceput pentru spații mici, cu circulație redusă a aerului, precum sub birouri, în capacele coșurilor de gunoi, în dulapuri, pantofare și sertare. Rezerva sa, fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de până la 30 de zile, fără spray-uri, baterii sau electricitate. Designul compact și plat se montează discret în locuri înguste, baza adezivă de montaj permite instalarea rapidă pe majoritatea suprafețelor, iar rezerva de parfum se înlocuiește ușor. Pentru cabine de toaletă și grupuri sanitare, alegeți modelul mai mare, frësh drop.",
+      "long": "ëkco loop este un odorizant pasiv inovator, care parfumează exact acolo unde aveți nevoie. Este conceput pentru spații mici, cu circulație redusă a aerului, precum sub birouri, în capacele coșurilor de gunoi, în dulapuri, pantofare și sertare. Rezerva sa, fabricată dintr-un material exclusiv impregnat cu un parfum pe bază de dezodorizant, eliberează parfumul treptat timp de până la 30 de zile, fără spray-uri, baterii sau electricitate. Designul compact și plat se montează discret în locuri înguste, baza adezivă de montaj permite instalarea rapidă pe majoritatea suprafețelor, iar rezerva de parfum se înlocuiește ușor. Pentru cabine de toaletă și grupuri sanitare, alegeți modelul mai mare, frësh drop.\n\nRezerva ëkco loop este fabricată cu EVA reciclat, iar materialul poate fi reciclat. Atât rezerva, cât și baza conțin aditivul Eco-One™, deci ambele sunt biodegradabile în depozitele de deșeuri. Într-un test de laborator independent (ASTM D5511 și ISO 15985), EVA-ul ëkcos cu Eco-One™ a atins o biodegradare de 93% în 3,5 ani, iar în 5 ani se estimează până la 99%.\n\nëkco loop combină dimensiunea compactă, montarea ușoară și parfumul timp de până la 30 de zile, pentru spații mici și închise.",
+      "benefits": {
+        "0": "Material exclusiv impregnat cu un parfum pe bază de dezodorizant, care se eliberează treptat",
+        "1": "Perfect pentru spații mici, precum sub birouri, în capacele coșurilor de gunoi, în dulapuri și pantofare",
+        "2": "Rezervă de parfum înlocuibilă, cu eliberare pasivă timp de până la 30 de zile",
+        "3": "Design compact și plat, care încape acolo unde odorizantele mai mari nu încap",
+        "4": "Montare ușoară cu baza adezivă de montaj",
+        "5": "Dimensiuni: Ø 10 x 2 cm",
+        "6": "Gamă largă de culori și parfumuri plăcute",
+        "7": "Rezervă cu EVA reciclat și reciclabil",
+        "8": "Rezerva și baza, biodegradabile în depozitele de deșeuri cu Eco-One™",
+        "9": "Ambalată în cutii din carton 100% reciclat"
+      },
+      "useCases": {
+        "0": "Sub birouri și în sertare",
+        "1": "Dulapuri, pantofare și coșuri"
+      },
+      "bases": {
+        "standard": "bază"
+      }
     }
   },
   "privateLabel": {

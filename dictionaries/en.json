@@ -818,6 +818,32 @@
         "0": "Entrances",
         "1": "Service corridors"
       }
+    },
+    "ekcoLoop": {
+      "name": "ëkco loop",
+      "imageAlt": "Blue ëkco loop compact air freshener disc on its adhesive mounting base, seen from above on a black background",
+      "category": "compact air freshener for small spaces",
+      "short": "ëkco loop is an innovative passive air freshener that delivers fragrance exactly where you need it. It is designed for small spaces with little airflow, such as under desks, inside trash bin lids, closets, shoe cabinets, and drawers. Its insert, made from a proprietary material infused with a deodorant-based fragrance, provides a gradual fragrance release for up to 30 days without sprays, batteries, or electricity. Its compact, low-profile design fits discreetly into tight spots, while the adhesive mounting base allows for quick installation on most surfaces and the fragrance insert is easy to replace. For toilet cubicles and restrooms, choose the larger frësh drop.",
+      "long": "ëkco loop is an innovative passive air freshener that delivers fragrance exactly where you need it. It is designed for small spaces with little airflow, such as under desks, inside trash bin lids, closets, shoe cabinets, and drawers. Its insert, made from a proprietary material infused with a deodorant-based fragrance, provides a gradual fragrance release for up to 30 days without sprays, batteries, or electricity. Its compact, low-profile design fits discreetly into tight spots, while the adhesive mounting base allows for quick installation on most surfaces and the fragrance insert is easy to replace. For toilet cubicles and restrooms, choose the larger frësh drop.\n\nThe ëkco loop insert is made with recycled EVA, and the material can be recycled. The insert and the base both contain the Eco-One™ additive, so both are biodegradable in landfill. In an independent laboratory test (ASTM D5511 and ISO 15985), ëkcos EVA with Eco-One™ reached 93% biodegradation within 3.5 years, and up to 99% is projected within 5 years.\n\nëkco loop combines compact size, easy installation, and up to 30 days of fragrance for small enclosed spaces.",
+      "benefits": {
+        "0": "Proprietary material infused with a deodorant-based fragrance that releases gradually",
+        "1": "Perfect for small spaces such as under desks, inside trash bin lids, closets, and shoe cabinets",
+        "2": "Replaceable fragrance insert with passive release for up to 30 days",
+        "3": "Compact, low-profile design that fits where larger air fresheners cannot",
+        "4": "Easy installation using the adhesive mounting base",
+        "5": "Dimensions: Ø 10 x 2 cm",
+        "6": "Wide range of colors and pleasant fragrances",
+        "7": "Insert made with recycled, recyclable EVA",
+        "8": "Insert and base biodegradable in landfill with Eco-One™",
+        "9": "Packed in boxes made from 100% recycled cardboard"
+      },
+      "useCases": {
+        "0": "Under desks and drawers",
+        "1": "Closets, cabinets and bins"
+      },
+      "bases": {
+        "standard": "base"
+      }
     }
   },
   "privateLabel": {

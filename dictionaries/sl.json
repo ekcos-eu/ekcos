@@ -818,6 +818,32 @@
         "0": "Entrances",
         "1": "Service corridors"
       }
+    },
+    "ekcoLoop": {
+      "name": "ëkco loop",
+      "imageAlt": "Blue ëkco loop compact air freshener disc on its adhesive mounting base, seen from above on a black background",
+      "category": "kompakten osvežilec zraka za majhne prostore",
+      "short": "ëkco loop je inovativen pasivni osvežilec zraka, ki vonj sprošča natanko tam, kjer ga potrebujete. Zasnovan je za majhne prostore s slabim pretokom zraka, na primer pod pisalnimi mizami, v pokrovih košev za smeti, v omarah, omaricah za čevlje in predalih. Njegov vložek iz lastnega materiala, prepojenega z dišavo na osnovi deodoranta, do 30 dni postopoma sprošča vonj, brez razpršil, baterij ali elektrike. Kompakten, nizek dizajn se diskretno prilega tesnim kotičkom, samolepilni nosilec omogoča hitro namestitev na večino površin, dišavni vložek pa je enostavno zamenjati. Za WC-kabine in sanitarije izberite večji osvežilec frësh drop.",
+      "long": "ëkco loop je inovativen pasivni osvežilec zraka, ki vonj sprošča natanko tam, kjer ga potrebujete. Zasnovan je za majhne prostore s slabim pretokom zraka, na primer pod pisalnimi mizami, v pokrovih košev za smeti, v omarah, omaricah za čevlje in predalih. Njegov vložek iz lastnega materiala, prepojenega z dišavo na osnovi deodoranta, do 30 dni postopoma sprošča vonj, brez razpršil, baterij ali elektrike. Kompakten, nizek dizajn se diskretno prilega tesnim kotičkom, samolepilni nosilec omogoča hitro namestitev na večino površin, dišavni vložek pa je enostavno zamenjati. Za WC-kabine in sanitarije izberite večji osvežilec frësh drop.\n\nVložek ëkco loop je izdelan z recikliranim EVA materialom, material pa je mogoče reciklirati. Vložek in nosilec vsebujeta aditiv Eco-One™, zato sta oba biorazgradljiva na odlagališču odpadkov. V neodvisnem laboratorijskem preskusu (ASTM D5511 in ISO 15985) je material ëkcos EVA z aditivom Eco-One™ v roku 3,5 leta dosegel stopnjo biorazgradnje 93 %, v roku 5 let pa je predvidena stopnja do 99 %.\n\nOsvežilec ëkco loop združuje kompaktno velikost, enostavno namestitev in do 30 dni vonja za majhne zaprte prostore.",
+      "benefits": {
+        "0": "Lasten material, prepojen z dišavo na osnovi deodoranta, ki se sprošča postopoma",
+        "1": "Kot nalašč za majhne prostore, na primer pod pisalnimi mizami, v pokrovih košev za smeti, v omarah in omaricah za čevlje",
+        "2": "Zamenljiv dišavni vložek s pasivnim sproščanjem vonja do 30 dni",
+        "3": "Kompakten, nizek dizajn, ki se prilega tja, kamor večji osvežilci zraka ne morejo",
+        "4": "Enostavna namestitev s samolepilnim nosilcem",
+        "5": "Mere: Ø 10 x 2 cm",
+        "6": "Široka izbira barv in prijetnih vonjev",
+        "7": "Vložek, izdelan z recikliranim EVA materialom, ki ga je mogoče reciklirati",
+        "8": "Vložek in nosilec z aditivom Eco-One™ biorazgradljiva na odlagališču odpadkov",
+        "9": "Pakirana v škatle iz 100 % recikliranega kartona"
+      },
+      "useCases": {
+        "0": "Pod mizami in v predalih",
+        "1": "Omare, čevljarne in koši"
+      },
+      "bases": {
+        "standard": "osnova"
+      }
     }
   },
   "privateLabel": {

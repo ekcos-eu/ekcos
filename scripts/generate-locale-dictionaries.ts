@@ -45,6 +45,7 @@ const PRODUCT_MAP: Array<[string, string]> = [
   ['urolite', 'üro lite'],
   ['ekcoClip', 'ëkco clip'],
   ['freshDrop', 'frësh drop'],
+  ['ekcoLoop', 'ëkco loop'],
   ['ezTrap', 'ëz trap'],
   ['xcrenPuck', 'xcrën puck'],
   ['ekcoMat', 'ëkco mat'],
@@ -492,6 +493,13 @@ function buildProductBlock(
       } else {
         bases.black = cs
       }
+    }
+    if (Object.keys(bases).length) out.bases = bases
+  } else if (key === 'ekcoLoop') {
+    const bases: Record<string, string> = {}
+    for (const [sku, label] of raw) {
+      if (!sku.startsWith('ELB-')) continue
+      bases.standard = colorScentLabel(label) || label.replace(/^ëkco loop\s+/i, '').trim() || 'base'
     }
     if (Object.keys(bases).length) out.bases = bases
   } else if (key === 'ezTrap') {

@@ -818,6 +818,32 @@
         "0": "Entrances",
         "1": "Service corridors"
       }
+    },
+    "ekcoLoop": {
+      "name": "ëkco loop",
+      "imageAlt": "Blue ëkco loop compact air freshener disc on its adhesive mounting base, seen from above on a black background",
+      "category": "kompakt luftfräschare för små utrymmen",
+      "short": "ëkco loop är en innovativ passiv luftfräschare som ger doft precis där den behövs. Den är utformad för små utrymmen med lite luftcirkulation, som under skrivbord, på insidan av soptunnelock, i garderober, skoskåp och lådor. Doftinsatsen är tillverkad av ett egenutvecklat material med doft på deodorantbas och avger doft gradvis i upp till 30 dagar utan spray, batterier eller el. Den kompakta, låga designen får diskret plats i trånga utrymmen, den självhäftande hållaren gör monteringen snabb på de flesta ytor och doftinsatsen är lätt att byta. Välj den större frësh drop för toalettbås och toaletter.",
+      "long": "ëkco loop är en innovativ passiv luftfräschare som ger doft precis där den behövs. Den är utformad för små utrymmen med lite luftcirkulation, som under skrivbord, på insidan av soptunnelock, i garderober, skoskåp och lådor. Doftinsatsen är tillverkad av ett egenutvecklat material med doft på deodorantbas och avger doft gradvis i upp till 30 dagar utan spray, batterier eller el. Den kompakta, låga designen får diskret plats i trånga utrymmen, den självhäftande hållaren gör monteringen snabb på de flesta ytor och doftinsatsen är lätt att byta. Välj den större frësh drop för toalettbås och toaletter.\n\nDoftinsatsen till ëkco loop är tillverkad med återvunnen EVA, och materialet kan återvinnas. Både doftinsatsen och hållaren innehåller tillsatsen Eco-One™, så båda är biologiskt nedbrytbara på deponi. I ett oberoende laboratorietest (ASTM D5511 och ISO 15985) nådde ëkcos EVA med Eco-One™ 93 % biologisk nedbrytning inom 3,5 år, och upp till 99 % beräknas inom 5 år.\n\nëkco loop kombinerar kompakt storlek, enkel montering och upp till 30 dagars doft för små, slutna utrymmen.",
+      "benefits": {
+        "0": "Egenutvecklat material med doft på deodorantbas som avges gradvis",
+        "1": "Perfekt för små utrymmen som under skrivbord, på insidan av soptunnelock, i garderober och skoskåp",
+        "2": "Utbytbar doftinsats med passiv doftavgivning i upp till 30 dagar",
+        "3": "Kompakt, låg design som får plats där större luftfräschare inte gör det",
+        "4": "Enkel montering med den självhäftande hållaren",
+        "5": "Mått: Ø 10 x 2 cm",
+        "6": "Brett utbud av färger och behagliga dofter",
+        "7": "Doftinsats tillverkad med återvunnen, återvinningsbar EVA",
+        "8": "Doftinsats och hållare biologiskt nedbrytbara på deponi med Eco-One™",
+        "9": "Förpackad i lådor av 100 % återvunnen kartong"
+      },
+      "useCases": {
+        "0": "Under skrivbord och i lådor",
+        "1": "Skåp, skohyllor och papperskorgar"
+      },
+      "bases": {
+        "standard": "bas"
+      }
     }
   },
   "privateLabel": {

@@ -818,6 +818,32 @@
         "0": "Entrées",
         "1": "Couloirs de service"
       }
+    },
+    "ekcoLoop": {
+      "name": "ëkco loop",
+      "imageAlt": "Blue ëkco loop compact air freshener disc on its adhesive mounting base, seen from above on a black background",
+      "category": "désodorisant compact pour petits espaces",
+      "short": "ëkco loop est un désodorisant passif innovant qui diffuse le parfum exactement là où vous en avez besoin. Il est conçu pour les petits espaces peu aérés, comme sous les bureaux, dans les couvercles de poubelles, les placards, les meubles à chaussures et les tiroirs. Sa recharge, fabriquée dans un matériau exclusif imprégné d’un parfum désodorisant, diffuse le parfum progressivement jusqu’à 30 jours, sans aérosol, ni piles, ni électricité. Son design compact et plat se glisse discrètement dans les endroits étroits, sa base adhésive permet une installation rapide sur la plupart des surfaces et sa recharge parfumée se remplace facilement. Pour les cabines WC et les toilettes, choisissez le frësh drop, plus grand.",
+      "long": "ëkco loop est un désodorisant passif innovant qui diffuse le parfum exactement là où vous en avez besoin. Il est conçu pour les petits espaces peu aérés, comme sous les bureaux, dans les couvercles de poubelles, les placards, les meubles à chaussures et les tiroirs. Sa recharge, fabriquée dans un matériau exclusif imprégné d’un parfum désodorisant, diffuse le parfum progressivement jusqu’à 30 jours, sans aérosol, ni piles, ni électricité. Son design compact et plat se glisse discrètement dans les endroits étroits, sa base adhésive permet une installation rapide sur la plupart des surfaces et sa recharge parfumée se remplace facilement. Pour les cabines WC et les toilettes, choisissez le frësh drop, plus grand.\n\nLa recharge ëkco loop est fabriquée avec de l’EVA recyclé, et ce matériau peut être recyclé. La recharge et la base contiennent toutes deux l’additif Eco-One™ : elles sont donc toutes deux biodégradables en décharge. Lors d’un test indépendant en laboratoire (ASTM D5511 et ISO 15985), l’EVA ëkcos avec Eco-One™ a atteint 93 % de biodégradation en 3,5 ans, et jusqu’à 99 % sont prévus en 5 ans.\n\nëkco loop allie format compact, installation facile et jusqu’à 30 jours de parfum pour les petits espaces fermés.",
+      "benefits": {
+        "0": "Matériau exclusif imprégné d’un parfum désodorisant qui se diffuse progressivement",
+        "1": "Idéal pour les petits espaces : sous les bureaux, dans les couvercles de poubelles, les placards et les meubles à chaussures",
+        "2": "Recharge parfumée remplaçable, diffusion passive jusqu’à 30 jours",
+        "3": "Design compact et plat qui se glisse là où les désodorisants plus grands ne rentrent pas",
+        "4": "Installation facile grâce à la base de fixation adhésive",
+        "5": "Dimensions : Ø 10 x 2 cm",
+        "6": "Large choix de couleurs et de parfums agréables",
+        "7": "Recharge fabriquée avec de l’EVA recyclé et recyclable",
+        "8": "Recharge et base biodégradables en décharge avec Eco-One™",
+        "9": "Conditionnement en boîtes de carton 100 % recyclé"
+      },
+      "useCases": {
+        "0": "Sous les bureaux et dans les tiroirs",
+        "1": "Placards, meubles à chaussures et poubelles"
+      },
+      "bases": {
+        "standard": "base"
+      }
     }
   },
   "privateLabel": {

@@ -23,7 +23,9 @@ const V0_FILENAME: Partial<Record<string, string>> = {
   'TBC-12P': 'TBC-12P-V0 .png',
 }
 
-function urinalStockV0File(line: 'XHD' | 'EKS' | 'PWR' | 'BS' | 'TBC' | 'ULT' | 'FDI', sku: string): string {
+type UrinalLine = 'XHD' | 'EKS' | 'PWR' | 'BS' | 'TBC' | 'ULT' | 'FDI' | 'ELI'
+
+function urinalStockV0File(line: UrinalLine, sku: string): string {
   const override = V0_FILENAME[sku]
   if (override) return override
   if (line === 'XHD') return `${sku}-V0 .png`
@@ -33,7 +35,7 @@ function urinalStockV0File(line: 'XHD' | 'EKS' | 'PWR' | 'BS' | 'TBC' | 'ULT' | 
 type UrinalFolder = readonly [string, string]
 
 export function buildUrinalLineColors(
-  line: 'XHD' | 'EKS' | 'PWR' | 'BS' | 'TBC' | 'ULT' | 'FDI',
+  line: UrinalLine,
   idPrefix: string,
   folder: UrinalFolder,
 ): ProductColor[] {
@@ -79,6 +81,19 @@ export function buildFreshDropBaseColors(folder: UrinalFolder): ProductColor[] {
       labelKey: 'products.freshDrop.bases.black',
       swatchHex: '#212121',
       imageSrc: publicPath(...folder, 'PhotoStock', 'FDB-02-V0.png'),
+    },
+  ]
+}
+
+export function buildEkcoLoopBaseColors(folder: UrinalFolder): ProductColor[] {
+  return [
+    {
+      id: 'elb-01',
+      sku: 'ELB-01',
+      group: 'base',
+      labelKey: 'products.ekcoLoop.bases.standard',
+      swatchHex: '#F4F6F8',
+      imageSrc: publicPath(...folder, 'PhotoStock', 'ELB-01.png'),
     },
   ]
 }

@@ -818,6 +818,32 @@
         "0": "Entrances",
         "1": "Service corridors"
       }
+    },
+    "ekcoLoop": {
+      "name": "ëkco loop",
+      "imageAlt": "Blue ëkco loop compact air freshener disc on its adhesive mounting base, seen from above on a black background",
+      "category": "kompakt luftfrisker til små rum",
+      "short": "ëkco loop er en innovativ, passiv luftfrisker, der afgiver duft præcis dér, hvor der er brug for den. Den er udviklet til små rum med lidt luftcirkulation, fx under skriveborde, i skraldespandslåg, skabe, skoskabe og skuffer. Indsatsen er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i op til 30 dage uden spray, batterier eller strøm. Det kompakte, flade design passer diskret ind på trange steder, den selvklæbende holder gør monteringen hurtig på de fleste overflader, og duftindsatsen er nem at udskifte. Til toiletbåse og toiletter er den større frësh drop det rette valg.",
+      "long": "ëkco loop er en innovativ, passiv luftfrisker, der afgiver duft præcis dér, hvor der er brug for den. Den er udviklet til små rum med lidt luftcirkulation, fx under skriveborde, i skraldespandslåg, skabe, skoskabe og skuffer. Indsatsen er lavet af et specialudviklet materiale tilsat en duft på deodorantbasis og afgiver gradvist duft i op til 30 dage uden spray, batterier eller strøm. Det kompakte, flade design passer diskret ind på trange steder, den selvklæbende holder gør monteringen hurtig på de fleste overflader, og duftindsatsen er nem at udskifte. Til toiletbåse og toiletter er den større frësh drop det rette valg.\n\nIndsatsen i ëkco loop er fremstillet med genanvendt EVA, og materialet kan genanvendes. Både indsatsen og holderen indeholder additivet Eco-One™, så begge er biologisk nedbrydelige på deponi. I en uafhængig laboratorietest (ASTM D5511 og ISO 15985) nåede EVA fra ëkcos med Eco-One™ 93 % biologisk nedbrydning inden for 3,5 år, og op til 99 % forventes inden for 5 år.\n\nëkco loop kombinerer kompakt størrelse, nem montering og op til 30 dages duft til små, lukkede rum.",
+      "benefits": {
+        "0": "Specialudviklet materiale tilsat en duft på deodorantbasis, der afgives gradvist",
+        "1": "Perfekt til små rum, fx under skriveborde, i skraldespandslåg, skabe og skoskabe",
+        "2": "Udskiftelig duftindsats med passiv afgivelse i op til 30 dage",
+        "3": "Kompakt, fladt design, der passer ind, hvor større luftfriskere ikke kan",
+        "4": "Nem montering med den selvklæbende holder",
+        "5": "Mål: Ø 10 x 2 cm",
+        "6": "Stort udvalg af farver og behagelige dufte",
+        "7": "Indsats fremstillet med genanvendt og genanvendeligt EVA-materiale",
+        "8": "Indsats og holder biologisk nedbrydelige på deponi med Eco-One™",
+        "9": "Pakket i æsker af 100 % genanvendt pap"
+      },
+      "useCases": {
+        "0": "Under skriveborde og i skuffer",
+        "1": "Skabe, skohylder og skraldespande"
+      },
+      "bases": {
+        "standard": "base"
+      }
     }
   },
   "privateLabel": {

@@ -818,6 +818,32 @@
         "0": "Entrances",
         "1": "Service corridors"
       }
+    },
+    "ekcoLoop": {
+      "name": "ëkco loop",
+      "imageAlt": "Blue ëkco loop compact air freshener disc on its adhesive mounting base, seen from above on a black background",
+      "category": "kompakt légfrissítő kis terekbe",
+      "short": "Az ëkco loop innovatív passzív légfrissítő, amely pontosan oda juttatja az illatot, ahol szükség van rá. Kis légmozgású, szűk terekbe tervezték, például íróasztalok alá, szemetesek fedelének belső oldalára, szekrényekbe, cipősszekrényekbe és fiókokba. Betétje saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és spray, elem vagy áram nélkül, akár 30 napig fokozatosan adja le az illatot. Kompakt, lapos kialakítása diszkréten elfér szűk helyeken is, az öntapadós tartóval gyorsan felszerelhető a legtöbb felületre, az illatbetét pedig könnyen cserélhető. WC-fülkékbe és mosdókba válassza a nagyobb frësh drop légfrissítőt.",
+      "long": "Az ëkco loop innovatív passzív légfrissítő, amely pontosan oda juttatja az illatot, ahol szükség van rá. Kis légmozgású, szűk terekbe tervezték, például íróasztalok alá, szemetesek fedelének belső oldalára, szekrényekbe, cipősszekrényekbe és fiókokba. Betétje saját fejlesztésű, dezodoráló illatanyaggal átitatott anyagból készül, és spray, elem vagy áram nélkül, akár 30 napig fokozatosan adja le az illatot. Kompakt, lapos kialakítása diszkréten elfér szűk helyeken is, az öntapadós tartóval gyorsan felszerelhető a legtöbb felületre, az illatbetét pedig könnyen cserélhető. WC-fülkékbe és mosdókba válassza a nagyobb frësh drop légfrissítőt.\n\nAz ëkco loop betét újrahasznosított EVA felhasználásával készül, és az anyaga újrahasznosítható. A betét és a tartó egyaránt tartalmaz Eco-One™ adalékanyagot, így mindkettő hulladéklerakóban biológiailag lebomló. Független laboratóriumi vizsgálatban (ASTM D5511 és ISO 15985) az Eco-One™ adalékot tartalmazó ëkcos EVA 3,5 év alatt 93%-os biológiai lebomlást ért el, 5 év alatt pedig várhatóan akár 99%-ot.\n\nAz ëkco loop ötvözi a kompakt méretet, az egyszerű felszerelést és az akár 30 napig tartó illatot kis, zárt terekhez.",
+      "benefits": {
+        "0": "Saját fejlesztésű, dezodoráló illatanyaggal átitatott anyag, amelyből az illat fokozatosan szabadul fel",
+        "1": "Tökéletes kis terekbe, például íróasztalok alá, szemetesek fedelének belső oldalára, szekrényekbe és cipősszekrényekbe",
+        "2": "Cserélhető illatbetét, akár 30 napig tartó passzív illatkibocsátással",
+        "3": "Kompakt, lapos kialakítás, amely ott is elfér, ahol a nagyobb légfrissítők nem",
+        "4": "Egyszerű felszerelés az öntapadós tartóval",
+        "5": "Méretek: Ø 10 x 2 cm",
+        "6": "Színek és kellemes illatok széles választéka",
+        "7": "Újrahasznosított, újrahasznosítható EVA felhasználásával készült betét",
+        "8": "A betét és a tartó az Eco-One™ adalékkal hulladéklerakóban biológiailag lebomló",
+        "9": "Csomagolás 100%-ban újrahasznosított kartonból készült dobozokban"
+      },
+      "useCases": {
+        "0": "Asztalok alá és fiókokba",
+        "1": "Szekrények, cipőtartók és szemetesek"
+      },
+      "bases": {
+        "standard": "alap"
+      }
     }
   },
   "privateLabel": {
