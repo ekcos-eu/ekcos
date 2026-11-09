@@ -9,6 +9,7 @@ export const PRIVATE_LABEL_PRODUCT_SLUGS = [
   'urolite',
   'ekco-clip',
   'fresh-drop',
+  'ekco-loop',
   'ez-trap',
   'xcren-puck',
 ] as const

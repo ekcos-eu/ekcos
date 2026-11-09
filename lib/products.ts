@@ -256,7 +256,7 @@ export const products: Product[] = [
       ...buildEkcoLoopBaseColors(['products', 'EkcoLoop']),
     ],
     shopPath: shop('/collections/ekco-loop'),
-    brandingAvailable: false,
+    brandingAvailable: true,
     ecoOneCompatible: true,
     featured: false,
   },
