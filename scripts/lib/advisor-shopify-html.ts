@@ -59,7 +59,7 @@ const PRODUCT_LINKS: {pattern: RegExp; href: string}[] = [
   {pattern: /[eë]kco\s+clip/gi, href: PRODUCT_HREF['ekco-clip']},
   {
     pattern: /[eë]kco\s+loop/gi,
-    href: 'https://www.ekcos.eu/en/products/ekco-loop',
+    href: '/products/ekco-loop-blue-fresh',
   },
   {pattern: /fr[eë]sh\s+drop/gi, href: PRODUCT_HREF['fresh-drop']},
   {pattern: /[eë]z\s+trap/gi, href: PRODUCT_HREF['ez-trap']},

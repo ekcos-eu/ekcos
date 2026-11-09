@@ -32,6 +32,7 @@ COLLECTIONS = {
     "uro-lite": "urolite",
     "ekco-clip": "ekcoclip",
     "fresh-drop": "freshdrop",
+    "ekco-loop": "ekcoloop",
     "ez-trap": "eztrap",
     "ekco-mat": "ekcomat",
 }

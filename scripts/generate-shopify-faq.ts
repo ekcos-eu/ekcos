@@ -94,9 +94,8 @@ const PRODUCT_LINKS: { pattern: RegExp; href: string }[] = [
     href: '/products/ekco-clip-blue-fresh',
   },
   {
-    // Marketing PDP until the Shopify catalog lists ëkco loop
     pattern: /[eë]kco\s+loop/gi,
-    href: 'https://www.ekcos.eu/en/products/ekco-loop',
+    href: '/products/ekco-loop-blue-fresh',
   },
   {
     pattern: /fr[eë]sh\s+drop/gi,

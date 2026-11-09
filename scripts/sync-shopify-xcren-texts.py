@@ -11,6 +11,7 @@ Usage:
   python3 scripts/sync-shopify-xcren-texts.py --family ekcomat --all
   python3 scripts/sync-shopify-xcren-texts.py --family eztrap --all
   python3 scripts/sync-shopify-xcren-texts.py --family freshdrop --all
+  python3 scripts/sync-shopify-xcren-texts.py --family ekcoloop --all
   python3 scripts/sync-shopify-xcren-texts.py --family ekcoclip --all
   python3 scripts/sync-shopify-xcren-texts.py --family urolite --all
   python3 scripts/sync-shopify-xcren-texts.py --family powerscreen --all
@@ -183,6 +184,7 @@ PRODUCT_PREFIXES = [
     ("urolite", "üro lite"),
     ("ekcoclip", "ëkco clip"),
     ("freshdrop", "frësh drop"),
+    ("ekcoloop", "ëkco loop"),
     ("eztrap", "ëz trap"),
     ("ekcomat", "ëkco mat"),
     ("xcrenPuck", "xcrën puck"),
@@ -195,6 +197,7 @@ FAMILIES = {
     "urolite": ("urolite",),
     "ekcoclip": ("ekcoclip",),
     "freshdrop": ("freshdrop",),
+    "ekcoloop": ("ekcoloop",),
     "eztrap": ("eztrap",),
     "ekcomat": ("ekcomat",),
 }
@@ -207,6 +210,7 @@ SKU_PREFIX_BY_FAMILY: dict[str, tuple[str, ...]] = {
     "urolite": ("ULT-",),
     "ekcoclip": ("TBC-",),
     "freshdrop": ("FDI-", "FDB-", "FDL-"),
+    "ekcoloop": ("ELI-", "ELB-"),
     "eztrap": ("EZT-",),
     "ekcomat": ("UFM-",),
 }
@@ -548,8 +552,6 @@ def list_family_products(
             if not sku:
                 continue
             if any(sku.startswith(p) for p in allowed_prefixes):
-                if "loop" in node["title"].lower():
-                    continue
                 out.append({**node, "sku": sku})
         if not conn["pageInfo"]["hasNextPage"]:
             break
@@ -572,6 +574,8 @@ def product_family(sku: str) -> str:
         return "ekcoclip"
     if sku.startswith(("FDI-", "FDB-", "FDL-")):
         return "freshdrop"
+    if sku.startswith(("ELI-", "ELB-")):
+        return "ekcoloop"
     if sku.startswith("EZT-"):
         return "eztrap"
     if sku.startswith("UFM-"):
