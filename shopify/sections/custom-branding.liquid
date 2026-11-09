@@ -1390,7 +1390,7 @@
               aria-labelledby="cb-products-label"
             >
               {% comment %} Items separated by ;;  fields: name|image {% endcomment %}
-              {% assign branding_products = 'xcrën HD|cb-xcreen-hd.png;;ëkcoscreen|cb-ekcoscreen.png;;powër screen|cb-powerscreen.png;;basic scrëen|cb-basic-screen.png;;üro lite|cb-urolite.png;;ëkco clip|cb-ekcoclip.png;;frësh drop|cb-fresh-drop.png;;ëz trap|cb-ez-trap.png;;xcrën puck|cb-xcreen-puck.png' | split: ';;' %}
+              {% assign branding_products = 'xcrën HD|cb-xcreen-hd.png;;ëkcoscreen|cb-ekcoscreen.png;;powër screen|cb-powerscreen.png;;basic scrëen|cb-basic-screen.png;;üro lite|cb-urolite.png;;ëkco clip|cb-ekcoclip.png;;frësh drop|cb-fresh-drop.png;;ëkco loop|cb-ekco-loop.png;;ëz trap|cb-ez-trap.png;;xcrën puck|cb-xcreen-puck.png' | split: ';;' %}
               {% for item in branding_products %}
                 {% assign parts = item | split: '|' %}
                 {% assign product_name = parts[0] %}
