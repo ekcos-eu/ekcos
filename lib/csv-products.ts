@@ -22,6 +22,7 @@ export type CsvBase = {
   sku: string
   imageSrc: string
   swatchHex: string
+  price?: string
 }
 
 export type CsvProductDetail = {
@@ -143,11 +144,25 @@ function localPhotostockImages(slug: string): string[] {
 function localBaseOptions(slug: string): CsvBase[] {
   const product = getProductBySlug(slug)
   if (!product) return []
-  return getProductBaseColors(product).map((c) => ({
-    sku: c.sku ?? c.id,
-    imageSrc: c.imageSrc,
-    swatchHex: c.swatchHex ?? '#0F68B2',
-  }))
+
+  const priceBySku = new Map<string, string>()
+  for (const row of getCsvRows()) {
+    const sku = row[COL.sku]
+    const price = row[COL.price]
+    if (sku && price && isBaseSku(sku)) {
+      priceBySku.set(sku.toUpperCase(), price)
+    }
+  }
+
+  return getProductBaseColors(product).map((c) => {
+    const sku = c.sku ?? c.id
+    return {
+      sku,
+      imageSrc: c.imageSrc,
+      swatchHex: c.swatchHex ?? '#0F68B2',
+      price: priceBySku.get(sku.toUpperCase()),
+    }
+  })
 }
 
 /** Close-up shots from the build-time manifest (public/products/{Folder}/Detail/). */
@@ -226,8 +241,13 @@ export function getColorSwatches(slug: string): ColorSwatch[] {
 
 function isCsvHandleForSlug(handle: string, slug: string, prefix: string): boolean {
   if (!handle.startsWith(prefix)) return false
-  // fresh-drop-base is a sibling Shopify product, not an insert colorway
-  if (slug === 'fresh-drop' && (handle === 'fresh-drop-base' || handle.startsWith('fresh-drop-base-'))) {
+  // Base holders are sibling Shopify products, not insert colorways
+  if (
+    (slug === 'fresh-drop' &&
+      (handle === 'fresh-drop-base' || handle.startsWith('fresh-drop-base-'))) ||
+    (slug === 'ekco-loop' &&
+      (handle === 'ekco-loop-base' || handle.startsWith('ekco-loop-base-')))
+  ) {
     return false
   }
   return true

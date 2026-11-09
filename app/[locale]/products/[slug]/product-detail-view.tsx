@@ -111,6 +111,10 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
 
   const currentVariant = variants[activeVariant]
   const currentBase = detail.bases[activeBase]
+  const displayPrice =
+    galleryKind === 'base'
+      ? (currentBase?.price || detail.price)
+      : (currentVariant?.price || detail.price)
   const displayImg =
     galleryKind === 'base'
       ? (currentBase?.imageSrc ?? galleryImages[activeImg] ?? galleryImages[0] ?? '')
@@ -387,14 +391,16 @@ export function ProductDetailView({ detail, localizedProduct, slug }: Props) {
           </div>
 
           {/* Price */}
-          {detail.price && (
+          {displayPrice && slug !== 'ekco-loop' ? (
             <div className="flex items-baseline gap-1">
-              <span className="text-sm text-[#575756]/70">{t('from')}</span>
+              {galleryKind === 'insert' ? (
+                <span className="text-sm text-[#575756]/70">{t('from')}</span>
+              ) : null}
               <span className="text-2xl font-bold text-[#0F68B2]">
-                €{detail.price}
+                €{displayPrice}
               </span>
             </div>
-          )}
+          ) : null}
 
           {/* Localized long description (CSV bodyHtml is English-only - do not prefer it) */}
           {localizedProduct.longDescription ? (
