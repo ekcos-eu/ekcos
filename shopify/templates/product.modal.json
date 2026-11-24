@@ -1,0 +1,195 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product-modal",
+      "blocks": {
+        "subtitle": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2",
+            "show_price": false,
+            "price_size": "medium"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_size": "medium",
+            "show_badges": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "swatch_type": "round",
+            "size_chart": ""
+          }
+        },
+        "countdown": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#ffeeee"
+          },
+          "disabled": true
+        },
+        "9358989f-f305-46ec-bcd0-4db1d040c7a4": {
+          "type": "description",
+          "settings": {},
+          "disabled": true
+        },
+        "f6cfab2f-71e0-4b88-9ee8-aee9c13e47e9": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "What's inside",
+            "content": "",
+            "page": ""
+          },
+          "disabled": true
+        },
+        "collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Key Ingredients",
+            "content": "",
+            "page": ""
+          },
+          "disabled": true
+        },
+        "e1febee8-3e6b-4440-b1dd-77e7e61a35e4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "How to use",
+            "content": "",
+            "page": ""
+          },
+          "disabled": true
+        },
+        "65cd79a6-490b-48b6-a8cb-19642ae0ceb9": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Ingredients",
+            "content": "",
+            "page": ""
+          },
+          "disabled": true
+        },
+        "collapsible_tab-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "plane",
+            "heading": "Shipping information",
+            "content": "<p>- No EU import duties.<br/>- Ships within 1-2 business days.<br/>- Ships in our fully recyclable and biodegradable signature boxes.</p>",
+            "page": ""
+          }
+        },
+        "read_more": {
+          "type": "read_more",
+          "settings": {
+            "show_icon": true
+          },
+          "disabled": true
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": true
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "show_inventory_transfer": true,
+            "color_scheme": "accent-3"
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "custom_liquid_color_swatches": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{%- comment -%}\n  Sibling color/scent picker for quick-view modal.\n  Uses the smallest product-family collection (not all / category hubs).\n{%- endcomment -%}\n{%- liquid\n  assign family = nil\n  assign skip_handles = 'all,urinal-screens,air-fresheners,other-products,frontpage' | split: ','\n  for c in product.collections\n    assign skip = false\n    for h in skip_handles\n      if c.handle == h\n        assign skip = true\n        break\n      endif\n    endfor\n    if skip\n      continue\n    endif\n    if family == nil or c.all_products_count < family.all_products_count\n      assign family = c\n    endif\n  endfor\n\n  assign is_base = false\n  if product.handle contains '-base' or product.title contains ' base'\n    assign is_base = true\n  endif\n\n  assign sibling_count = 0\n  if family != nil\n    for p in family.products\n      if p.available == false and p.selected_or_first_available_variant == nil\n        continue\n      endif\n      assign p_is_base = false\n      if p.handle contains '-base' or p.title contains ' base'\n        assign p_is_base = true\n      endif\n      if is_base and p_is_base == false\n        continue\n      endif\n      if is_base == false and p_is_base\n        continue\n      endif\n      assign sibling_count = sibling_count | plus: 1\n    endfor\n  endif\n-%}\n{%- if family != nil and sibling_count > 1 -%}\n  {%- liquid\n    assign _loc = request.locale.iso_code | default: 'en'\n    if _loc == 'pt-PT' or _loc == 'pt'\n      assign _loc = 'pt'\n    endif\n    case _loc\n      when 'cs'\n        assign color_label = 'Barva / vůně'\n      when 'sk'\n        assign color_label = 'Farba / vôňa'\n      when 'de'\n        assign color_label = 'Farbe / Duft'\n      when 'pl'\n        assign color_label = 'Kolor / zapach'\n      when 'fr'\n        assign color_label = 'Couleur / parfum'\n      when 'es'\n        assign color_label = 'Color / aroma'\n      when 'it'\n        assign color_label = 'Colore / fragranza'\n      when 'nl'\n        assign color_label = 'Kleur / geur'\n      when 'sv'\n        assign color_label = 'Färg / doft'\n      when 'da'\n        assign color_label = 'Farve / duft'\n      when 'fi'\n        assign color_label = 'Väri / tuoksu'\n      when 'hu'\n        assign color_label = 'Szín / illat'\n      when 'ro'\n        assign color_label = 'Culoare / aromă'\n      when 'bg'\n        assign color_label = 'Цвят / аромат'\n      when 'hr'\n        assign color_label = 'Boja / miris'\n      when 'el'\n        assign color_label = 'Χρώμα / άρωμα'\n      when 'et'\n        assign color_label = 'Värv / lõhn'\n      when 'lv'\n        assign color_label = 'Krāsa / smarža'\n      when 'lt'\n        assign color_label = 'Spalva / kvapas'\n      when 'pt'\n        assign color_label = 'Cor / aroma'\n      else\n        assign color_label = 'Color / scent'\n    endcase\n  -%}\n  <div class=\"modal-color-swatches\" data-modal-color-swatches>\n    <p class=\"modal-color-swatches__label\">{{ color_label }}</p>\n    <div class=\"modal-color-swatches__list\" role=\"list\">\n      {%- for p in family.products -%}\n        {%- liquid\n          assign p_is_base = false\n          if p.handle contains '-base' or p.title contains ' base'\n            assign p_is_base = true\n          endif\n          if is_base and p_is_base == false\n            continue\n          endif\n          if is_base == false and p_is_base\n            continue\n          endif\n          assign label = p.title\n          if p.title contains ' / '\n            assign title_parts = p.title | split: ' / '\n            assign before = title_parts.first | split: ' '\n            assign after = title_parts.last | split: ',' | first | strip\n            if before.size > 1\n              assign label = before.last | append: ' / ' | append: after\n            endif\n          endif\n        -%}\n        <a\n          role=\"listitem\"\n          href=\"{{ p.url }}\"\n          class=\"modal-color-swatches__item{% if p.id == product.id %} is-active{% endif %}\"\n          data-modal-product-url=\"{{ p.url }}\"\n          title=\"{{ p.title | escape }}\"\n          aria-label=\"{{ p.title | escape }}\"\n          aria-current=\"{% if p.id == product.id %}true{% else %}false{% endif %}\"\n        >\n          {%- if p.featured_media -%}\n            <img\n              src=\"{{ p.featured_media | image_url: width: 96 }}\"\n              alt=\"{{ p.title | escape }}\"\n              width=\"48\"\n              height=\"48\"\n              loading=\"lazy\"\n            >\n          {%- endif -%}\n          <span class=\"modal-color-swatches__name\">{{ label }}</span>\n        </a>\n      {%- endfor -%}\n    </div>\n  </div>\n  <style>\n    .modal-color-swatches { margin: 0 0 1.2rem; }\n    .modal-color-swatches__label {\n      margin: 0 0 0.6rem;\n      font-size: 0.85rem;\n      font-weight: 600;\n      letter-spacing: 0.02em;\n      text-transform: uppercase;\n      color: #333;\n    }\n    .modal-color-swatches__list {\n      display: flex;\n      flex-wrap: wrap;\n      gap: 0.5rem;\n    }\n    .modal-color-swatches__item {\n      display: inline-flex;\n      align-items: center;\n      gap: 0.45rem;\n      max-width: 100%;\n      padding: 0.25rem 0.55rem 0.25rem 0.25rem;\n      border: 1px solid #d9d9d9;\n      border-radius: 999px;\n      text-decoration: none;\n      color: inherit;\n      background: #fff;\n      line-height: 1.2;\n    }\n    .modal-color-swatches__item img {\n      width: 36px;\n      height: 36px;\n      object-fit: cover;\n      border-radius: 50%;\n      display: block;\n      background: #f5f5f5;\n    }\n    .modal-color-swatches__name {\n      font-size: 0.8rem;\n      white-space: nowrap;\n      overflow: hidden;\n      text-overflow: ellipsis;\n      max-width: 9.5rem;\n    }\n    .modal-color-swatches__item.is-active {\n      border-color: #0F68B2;\n      box-shadow: 0 0 0 1px #0F68B2;\n    }\n    .modal-color-swatches__item:hover {\n      border-color: #0F68B2;\n    }\n  </style>\n  <script>\n    (function () {\n      if (window.__ekcosModalColorSwatchesBound) return;\n      window.__ekcosModalColorSwatchesBound = true;\n\n      function setInnerHTML(element, html) {\n        element.innerHTML = html;\n        element.querySelectorAll('script').forEach(function (oldScriptTag) {\n          var newScriptTag = document.createElement('script');\n          Array.from(oldScriptTag.attributes).forEach(function (attribute) {\n            newScriptTag.setAttribute(attribute.name, attribute.value);\n          });\n          newScriptTag.appendChild(document.createTextNode(oldScriptTag.innerHTML));\n          oldScriptTag.parentNode.replaceChild(newScriptTag, oldScriptTag);\n        });\n      }\n\n      document.addEventListener('click', function (event) {\n        var link = event.target.closest('[data-modal-product-url]');\n        if (!link) return;\n        var content = link.closest('.quick-view__content');\n        if (!content) return;\n        event.preventDefault();\n        var productUrl = link.getAttribute('data-modal-product-url').split('?')[0];\n        content.classList.remove('hide-cover');\n        fetch(productUrl + '?view=modal')\n          .then(function (response) { return response.text(); })\n          .then(function (responseText) {\n            var next = new DOMParser()\n              .parseFromString(responseText, 'text/html')\n              .querySelector('.quick-view__content');\n            if (!next) return;\n            setInnerHTML(content, next.innerHTML);\n            if (window.Shopify && Shopify.PaymentButton) Shopify.PaymentButton.init();\n            content.classList.add('hide-cover');\n            var qv = content.closest('quick-view');\n            if (qv) qv.dataset.productUrl = productUrl;\n            document.dispatchEvent(new CustomEvent('quickview:loaded', { detail: { productUrl: productUrl } }));\n          })\n          .catch(function (err) { console.error(err); content.classList.add('hide-cover'); });\n      });\n    })();\n  </script>\n{%- endif -%}\n"
+          }
+        },
+        "custom_liquid_short_description": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% if product.metafields.custom.short_description %}\n  <div class=\"product-short-description rte\">\n    {{ product.metafields.custom.short_description | metafield_tag }}\n  </div>\n  <style>\n    .product-short-description { margin: 0 0 1rem; }\n    .product-short-description p { margin: 0 0 0.75em; }\n    .product-short-description p:last-child { margin-bottom: 0; }\n  </style>\n{% endif %}"
+          }
+        },
+        "collapsible_description_main": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{%- liquid\n  assign _loc = request.locale.iso_code | default: 'en'\n  if _loc == 'pt-PT' or _loc == 'pt'\n    assign _loc = 'pt'\n  endif\n  case _loc\n    when 'cs'\n      assign desc_heading = 'Popis produktu'\n    when 'sk'\n      assign desc_heading = 'Popis produktu'\n    when 'de'\n      assign desc_heading = 'Produktbeschreibung'\n    when 'pl'\n      assign desc_heading = 'Opis produktu'\n    when 'fr'\n      assign desc_heading = 'Description'\n    when 'es'\n      assign desc_heading = 'Descripción'\n    when 'it'\n      assign desc_heading = 'Descrizione'\n    when 'nl'\n      assign desc_heading = 'Beschrijving'\n    when 'sv'\n      assign desc_heading = 'Beskrivning'\n    when 'da'\n      assign desc_heading = 'Beskrivelse'\n    when 'fi'\n      assign desc_heading = 'Kuvaus'\n    when 'hu'\n      assign desc_heading = 'Termékleírás'\n    when 'ro'\n      assign desc_heading = 'Descriere'\n    when 'bg'\n      assign desc_heading = 'Описание'\n    when 'hr'\n      assign desc_heading = 'Opis proizvoda'\n    when 'el'\n      assign desc_heading = 'Περιγραφή'\n    when 'et'\n      assign desc_heading = 'Kirjeldus'\n    when 'lv'\n      assign desc_heading = 'Apraksts'\n    when 'lt'\n      assign desc_heading = 'Aprašymas'\n    when 'pt'\n      assign desc_heading = 'Descrição'\n    else\n      assign desc_heading = 'Description'\n  endcase\n-%}\n{%- if product.description != blank -%}\n  <accordion-tab class=\"product__accordion accordion\">\n    <details>\n      <summary>\n        <span class=\"summary__title\">\n          <span class=\"accordion__title\">{{ desc_heading }}</span>\n        </span>\n        {% render 'icon', icon: 'caret' %}\n      </summary>\n      <div class=\"accordion__content rte\">\n        {{ product.description }}\n      </div>\n    </details>\n  </accordion-tab>\n{%- endif -%}"
+          }
+        }
+      },
+      "block_order": [
+        "subtitle",
+        "title",
+        "rating",
+        "price",
+        "variant_picker",
+        "countdown",
+        "custom_liquid_short_description",
+        "collapsible_description_main",
+        "f6cfab2f-71e0-4b88-9ee8-aee9c13e47e9",
+        "collapsible_tab-1",
+        "e1febee8-3e6b-4440-b1dd-77e7e61a35e4",
+        "65cd79a6-490b-48b6-a8cb-19642ae0ceb9",
+        "collapsible_tab-0",
+        "read_more",
+        "custom_liquid_color_swatches",
+        "buy_buttons",
+        "inventory_status",
+        "share"
+      ],
+      "settings": {
+        "hide_variants": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "enable_image_fill": true,
+        "mobile_image_ratio": "adapt_first"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
